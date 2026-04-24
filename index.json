@@ -11,5 +11,17 @@
     "cuisine": "Argentine",
     "totalTimeMin": 15,
     "shard": "v"
+  },
+  {
+    "slug": "velvet-quinoa-delight",
+    "title": "Velvet Quinoa Delight",
+    "tags": [
+      "quinoa",
+      "keto-friendly",
+      "meal-prep"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 55,
+    "shard": "v"
   }
 ]

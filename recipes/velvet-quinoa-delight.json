@@ -1,0 +1,84 @@
+{
+  "title": "Velvet Quinoa Delight",
+  "description": "A rich and velvety Peruvian dish featuring quinoa that has been fermented for a meal-prep friendly keto-friendly option.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp, minced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "fish sauce (nam pla)",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse quinoa under cold water for about 30 seconds. Place in a pot with 2 cups of water.",
+    "Bring to a boil, then reduce heat to low and cover. Simmer for about 15 minutes or until water is absorbed.",
+    "In a blender, combine coconut milk, lime juice, ginger, garlic, fish sauce, salt, and sesame seeds. Blend well.",
+    "Add the cooked quinoa into the blending mixture and blend again until smooth and creamy.",
+    "Serve hot as a side dish or over vegetables."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quinoa",
+    "keto-friendly",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 8
+  },
+  "slug": "velvet-quinoa-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvet-quinoa-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T23:58:46Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "velvety",
+    "mood": "meal-prep",
+    "technique": "ferment",
+    "primaryIngredient": "quinoa",
+    "diet": "keto",
+    "region": null
+  }
+}
