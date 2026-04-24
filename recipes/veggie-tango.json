@@ -1,0 +1,81 @@
+{
+  "title": "Veggie Tango",
+  "description": "A tangy and light Argentine-inspired dish featuring raw vegetables that are air-fried for a dairy-free friendly option.",
+  "cuisine": "Argentine",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bell Peppers",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Red Onions",
+      "amount": "1 small"
+    },
+    {
+      "name": "Cucumbers",
+      "amount": "2 large"
+    },
+    {
+      "name": "Radishes",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt and Pepper",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 350°F (175°C).",
+    "Cut the bell peppers, red onions, cucumbers into thin slices.",
+    "Slice radishes thinly. Combine all vegetables in a large bowl.",
+    "Add lemon juice and apple cider vinegar, mix well with salt and pepper for taste.",
+    "Drizzle olive oil over vegetables and toss to coat evenly.",
+    "Transfer the mixture into the air fryer basket and cook for 10-12 minutes or until crispy.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "veggie_tango",
+    "argentine_dish",
+    "raw_vegetables",
+    "air_fried"
+  ],
+  "nutrition": {
+    "calories": 208,
+    "protein": 6,
+    "carbs": 17,
+    "fat": 9
+  },
+  "slug": "veggie-tango",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/veggie-tango",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T23:25:09Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "light",
+    "mood": "light",
+    "technique": "air-fry",
+    "primaryIngredient": "raw vegetables",
+    "diet": "dairy-free",
+    "region": null
+  }
+}
