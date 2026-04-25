@@ -1,5 +1,18 @@
 [
   {
+    "slug": "vanilla-date-bliss",
+    "title": "Vanilla Date Bliss",
+    "tags": [
+      "vanilla",
+      "date-night",
+      "brazilian",
+      "paleo-friendly"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
     "slug": "vanilla-mediteranean-bliss",
     "title": "Vanilla Mediteranean Bliss",
     "tags": [

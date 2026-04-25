@@ -1,0 +1,76 @@
+{
+  "title": "Vanilla Date Bliss",
+  "description": "A fresh and juicy dessert perfect for a cozy date night, infused with vanilla extract to add a luxurious touch.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "2 cups"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pinch of salt",
+      "notes": "optional"
+    },
+    {
+      "name": "cacao nibs (for topping)",
+      "amount": "handful"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F.",
+    "In a mixing bowl, combine dates, almond flour, coconut oil, vanilla extract, baking powder, and salt if using. Mix well until ingredients are evenly distributed.",
+    "Transfer the mixture into an oven-safe dish and bake for about 25 minutes or until firm to touch.",
+    "Remove from heat and let it cool slightly before garnishing with cacao nibs."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vanilla",
+    "date-night",
+    "brazilian",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 2.8,
+    "carbs": 35.2,
+    "fat": 9.4
+  },
+  "slug": "vanilla-date-bliss",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/vanilla-date-bliss",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T07:30:15Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "rest",
+    "primaryIngredient": "vanilla extract",
+    "diet": "paleo",
+    "region": null
+  }
+}
