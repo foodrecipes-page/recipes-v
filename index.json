@@ -13,6 +13,18 @@
     "shard": "v"
   },
   {
+    "slug": "velvet-broccoli-delight",
+    "title": "Velvet Broccoli Delight",
+    "tags": [
+      "velvet-broccoli",
+      "peruvian-chinese-fusion",
+      "indulgent-plant-based"
+    ],
+    "cuisine": "Peruvian-Chinese Fusion",
+    "totalTimeMin": 65,
+    "shard": "v"
+  },
+  {
     "slug": "velvet-quinoa-delight",
     "title": "Velvet Quinoa Delight",
     "tags": [

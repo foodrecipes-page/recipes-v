@@ -1,0 +1,112 @@
+{
+  "title": "Velvet Broccoli Delight",
+  "description": "A buttery, velvety Peruvian-inspired dish featuring Chinese broccoli, seasoned with aromatic spices and simmered until tender.",
+  "cuisine": "Peruvian-Chinese Fusion",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese Broccoli",
+      "amount": "200g",
+      "notes": "Use the florets, as they are tender and flavorful."
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves",
+      "notes": "Mince finely for better flavor integration."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped into fine pieces for a rich texture."
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tablespoons",
+      "notes": "For added depth and aroma."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing the aromatics."
+    },
+    {
+      "name": "Shallots",
+      "amount": "3 medium",
+      "notes": "Finely chopped to infuse more flavor."
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 cup",
+      "notes": "To achieve the desired velvety texture and smoothness."
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "For umami and depth of flavor."
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tablespoon",
+      "notes": "Optional, for a savory kick."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning."
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "For seasoning."
+    },
+    {
+      "name": "Ground Cumin",
+      "amount": "1 teaspoon",
+      "notes": "To add a warm, earthy note to the dish."
+    }
+  ],
+  "instructions": [
+    "Mince the garlic and shallots finely.",
+    "Heat olive oil in a large pan over medium heat. Add minced shallots and cook until translucent, about 3 minutes.",
+    "Add minced garlic, cumin, and sliced onion. Stir-fry for an additional 5 minutes or until onions are slightly caramelized.",
+    "Pour in coconut milk and soy sauce (and fish sauce if using). Stir well to combine.",
+    "Bring the mixture to a simmer, then cover with a lid and let it cook for about 10-12 minutes. The liquid should reduce significantly.",
+    "Add Chinese broccoli florets to the pan. Toss gently so that they don't break apart too much.",
+    "Simmer for another 5-7 minutes or until the broccoli is very tender, occasionally stirring to prevent sticking.",
+    "Season with salt and pepper according to taste.",
+    "Serve hot as a side dish or over steamed rice for an authentic Peruvian-Chinese fusion experience."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "velvet-broccoli",
+    "peruvian-chinese-fusion",
+    "indulgent-plant-based"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 6,
+    "carbs": 34,
+    "fat": 15
+  },
+  "slug": "velvet-broccoli-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvet-broccoli-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T01:29:27Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "velvety",
+    "mood": "indulgent",
+    "technique": "simmer",
+    "primaryIngredient": "chinese broccoli",
+    "diet": "plant-based",
+    "region": null
+  }
+}
