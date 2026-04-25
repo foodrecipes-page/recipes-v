@@ -1,0 +1,88 @@
+{
+  "title": "Velvet Kale Delight",
+  "description": "A velvety and bitter kale dish infused with the essence of tadka (a blend of spices), perfect for a romantic dinner or date night in Chinese cuisine.",
+  "cuisine": "chinese (cantonese)",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 bunch kale",
+      "amount": "fresh and thoroughly cleaned"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "minced finely"
+    },
+    {
+      "name": "2-inch ginger root",
+      "amount": "grated thinly"
+    },
+    {
+      "name": "1/4 cup unsalted cashews",
+      "amount": "soaked and drained"
+    },
+    {
+      "name": "1 tbsp sesame oil",
+      "notes": "for adding flavor without greasiness"
+    },
+    {
+      "name": "1 tsp fennel seeds",
+      "amount": "lightly toasted to release aroma"
+    },
+    {
+      "name": "1/2 tsp cumin seeds",
+      "amount": "lightly roasted for depth of flavor"
+    },
+    {
+      "name": "1/4 tsp black pepper powder",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "1 tbsp tamari sauce or soy sauce",
+      "amount": "for added umami and brightness"
+    }
+  ],
+  "instructions": [
+    "Heat a wok over medium-high heat. Add the sesame oil, fennel seeds, cumin seeds, and black pepper powder. Toast until fragrant and slightly crispy.",
+    "Add minced garlic and grated ginger to the hot pan. Sauté for about 1 minute, stirring occasionally.",
+    "Increase heat to high and add the cashews. Stir-fry for about 2 minutes or until they start to brown lightly.",
+    "Fold in the kale leaves by bunches into the wok, ensuring all leaves are evenly coated with the tadka mixture.",
+    "Reduce heat to medium-high and cook for another 5-7 minutes, tossing regularly so no sticking occurs. Kale should be soft but still retain a slight bite.",
+    "Stir in tamari sauce or soy sauce last, then stir well to combine. Remove from heat immediately to prevent further cooking which can make kale lose its crispness.",
+    "Serve hot as a side dish or use it as the base for other dishes like a wrap or sandwich filling."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "velvet-kale",
+    "date-night",
+    "chinese-cuisine",
+    "tadka-spices"
+  ],
+  "nutrition": {
+    "calories": 175,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 6
+  },
+  "slug": "velvet-kale-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvet-kale-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T07:36:39Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "tadka",
+    "primaryIngredient": "kale",
+    "diet": "plant-based",
+    "region": "cantonese"
+  }
+}

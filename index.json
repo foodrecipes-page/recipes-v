@@ -142,6 +142,20 @@
     "shard": "v"
   },
   {
+    "slug": "velvet-kale-delight",
+    "title": "Velvet Kale Delight",
+    "tags": [
+      "vegan",
+      "velvet-kale",
+      "date-night",
+      "chinese-cuisine",
+      "tadka-spices"
+    ],
+    "cuisine": "chinese (cantonese)",
+    "totalTimeMin": 30,
+    "shard": "v"
+  },
+  {
     "slug": "velvet-quinoa-delight",
     "title": "Velvet Quinoa Delight",
     "tags": [
