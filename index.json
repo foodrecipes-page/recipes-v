@@ -39,6 +39,20 @@
     "shard": "v"
   },
   {
+    "slug": "velvet-blossom-spaghetti",
+    "title": "Velvet Blossom Spaghetti",
+    "tags": [
+      "vegan-friendly",
+      "vegetarian",
+      "low-sodium",
+      "spicy-free",
+      "date-night"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 40,
+    "shard": "v"
+  },
+  {
     "slug": "velvet-broccoli-delight",
     "title": "Velvet Broccoli Delight",
     "tags": [

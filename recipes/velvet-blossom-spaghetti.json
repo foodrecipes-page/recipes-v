@@ -1,0 +1,88 @@
+{
+  "title": "Velvet Blossom Spaghetti",
+  "description": "A floral and velvety Greek dish featuring spaghetti that is perfect for a date night dinner, low-sodium-friendly.",
+  "cuisine": "Greek",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spaghetti",
+      "amount": "200g"
+    },
+    {
+      "name": "broccoli florets",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "6-8 fresh, chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook spaghetti according to package instructions in boiling salted water until al dente.",
+    "In a large skillet, heat olive oil and butter over medium heat. Add minced garlic and diced onion; cook for about 2 minutes until fragrant.",
+    "Add low-sodium chicken broth, broccoli florets, salt, and pepper to the skillet. Bring to a boil, then reduce heat to low and simmer for about 10-15 minutes or until vegetables are tender.",
+    "Gently fold in cooked spaghetti into the vegetable mixture. Continue cooking for another 2-3 minutes to allow flavors to meld together.",
+    "Remove from heat and stir in chopped fresh basil leaves. Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan-friendly",
+    "vegetarian",
+    "low-sodium",
+    "spicy-free",
+    "date-night"
+  ],
+  "nutrition": {
+    "calories": 578,
+    "protein": 13.5,
+    "carbs": 92,
+    "fat": 16
+  },
+  "slug": "velvet-blossom-spaghetti",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvet-blossom-spaghetti",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T05:16:12Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "poach",
+    "primaryIngredient": "spaghetti",
+    "diet": "low-sodium",
+    "region": null
+  }
+}
