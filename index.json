@@ -78,6 +78,19 @@
     "shard": "v"
   },
   {
+    "slug": "velvet-camellia",
+    "title": "Velvet Camellia",
+    "tags": [
+      "velvet-camellia",
+      "floral-flavor",
+      "comforting-dish",
+      "kosher-friendly"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 45,
+    "shard": "v"
+  },
+  {
     "slug": "velvet-earth-chicken",
     "title": "Velvet Earth Chicken",
     "tags": [

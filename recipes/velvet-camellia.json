@@ -1,0 +1,82 @@
+{
+  "title": "Velvet Camellia",
+  "description": "A floral and velvety French dish featuring a comforting sauce that is kosher-friendly and perfect for a light dinner.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Boneless chicken breast",
+      "amount": "4 pieces",
+      "notes": "Skin removed"
+    },
+    {
+      "name": "Chicken bouillon cube",
+      "amount": "2 cubes"
+    },
+    {
+      "name": "Fresh rose petals",
+      "amount": "3 tablespoons",
+      "notes": "For garnish"
+    },
+    {
+      "name": "White wine vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Butter",
+      "amount": "60 grams"
+    },
+    {
+      "name": "Minced garlic cloves",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "Fresh ginger root",
+      "amount": "1 inch piece",
+      "notes": "Peel and chop finely"
+    }
+  ],
+  "instructions": [
+    "Heat a saucepan over medium heat. Add butter, minced garlic, and peeled ginger. Cook until fragrant and the butter is melted.",
+    "Stir in heavy cream and chicken bouillon cubes. Bring to a simmer and let cook for 10 minutes until thickened slightly.",
+    "Gently place boneless chicken breasts into the saucepan. Cover with a lid and reduce heat to low. Simmer for about 25-30 minutes, or until cooked through (internal temperature reaches 165°F).",
+    "Just before serving, stir in white wine vinegar. Remove from heat.",
+    "Garnish each plate with rose petals as desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "velvet-camellia",
+    "floral-flavor",
+    "comforting-dish",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 382,
+    "protein": 36,
+    "carbs": 14,
+    "fat": 17
+  },
+  "slug": "velvet-camellia",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvet-camellia",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T05:44:52Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "velvety",
+    "mood": "comforting",
+    "technique": "simmer",
+    "primaryIngredient": "sauce",
+    "diet": "kosher",
+    "region": null
+  }
+}
