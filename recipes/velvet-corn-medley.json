@@ -1,0 +1,79 @@
+{
+  "title": "Velvet Corn Medley",
+  "description": "A herbal, velvety Tunisian dish featuring white cornmeal baked until golden and creamy, suitable for dairy-free diets.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "white cornmeal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ground almonds",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "6 threads"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Mix white cornmeal, unsweetened coconut milk, ground almonds, sesame seeds, saffron threads, vanilla extract, cinnamon powder, and sea salt together in a large bowl until smooth.",
+    "Pour the mixture into an oiled baking dish. Bake for 20-30 minutes or until set.",
+    "Serve warm as a dessert."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "velvet-corn-medley",
+    "herbal-tunisian-dish",
+    "white-cornmeal-dessert"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 72,
+    "fat": 16
+  },
+  "slug": "velvet-corn-medley",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvet-corn-medley",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T15:44:34Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "velvety",
+    "mood": "show-off",
+    "technique": "bake",
+    "primaryIngredient": "white cornmeal",
+    "diet": "dairy-free",
+    "region": null
+  }
+}
