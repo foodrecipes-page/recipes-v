@@ -1,0 +1,79 @@
+{
+  "title": "Vegetable Essence Soup",
+  "description": "A light and flavorful Vietnamese dish featuring vegetable stock, blanched vegetables, and a touch of umami to make it a weeknight-friendly meal.",
+  "cuisine": "Vietnamese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water or vegetable stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fresh spinach leaves",
+      "amount": "4 cups (about 2 medium-sized heads)"
+    },
+    {
+      "name": "chopped garlic cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1-2 tablespoons"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "a few sprigs (optional)"
+    },
+    {
+      "name": "sugar or fish sauce (optional)",
+      "amount": "1/4 to 1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring the vegetable broth and water or stock to a boil.",
+    "Add blanched garlic cloves, salt, pepper, sugar or fish sauce, and sesame oil to taste. Stir well.",
+    "Reduce heat to low and let simmer for about 10 minutes.",
+    "Add chopped spinach leaves and continue to cook until the spinach is wilted.",
+    "Stir in fresh cilantro if desired.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetable-soup",
+    "umami-friendly",
+    "light-weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 102,
+    "protein": 3.5,
+    "carbs": 8,
+    "fat": 2
+  },
+  "slug": "vegetable-essence-soup",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/vegetable-essence-soup",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T19:30:01Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "weeknight",
+    "technique": "blanch",
+    "primaryIngredient": "vegetable stock",
+    "diet": "low-fat",
+    "region": null
+  }
+}

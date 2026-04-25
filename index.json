@@ -114,6 +114,18 @@
     "shard": "v"
   },
   {
+    "slug": "vegetable-essence-soup",
+    "title": "Vegetable Essence Soup",
+    "tags": [
+      "vegetable-soup",
+      "umami-friendly",
+      "light-weeknight-dinner"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
     "slug": "vegetable-shortening-salsa-verde",
     "title": "Vegetable Shortening Salsa Verde",
     "tags": [
