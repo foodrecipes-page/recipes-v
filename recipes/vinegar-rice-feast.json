@@ -1,0 +1,88 @@
+{
+  "title": "Vinegar Rice Feast",
+  "description": "A tangy, chewy, indulgent Chinese dish featuring seasoned rice vinegar, high-protein-friendly options and bhuna spices.",
+  "cuisine": "Chinese",
+  "diet": [
+    "high-protein",
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "Brown or white, rinsed"
+    },
+    {
+      "name": "Vinegar",
+      "amount": "2 tablespoons",
+      "notes": "Rice vinegar or any other tangy vinegar, seasoned as per recipe"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 small",
+      "notes": "Chopped for bhuna spice mixture"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Pressed and roasted with onions for bhuna spice mixture"
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1/2 teaspoon",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/4 teaspoon",
+      "notes": "For added color and aroma"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste, for seasoning bhuna spice mixture"
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tablespoons",
+      "notes": "For frying onions and spices"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice and prepare it as per usual cooking instructions.",
+    "In a separate pan, mix chopped onions, pressed garlic, cumin powder, turmeric powder, and salt. Saute for about 2 minutes until onions turn golden brown.",
+    "Add seasoned vinegar to the onion mixture and cook for another minute or two until fragrant.",
+    "Mix the cooked rice with the vinegar-based bhuna spice mixture evenly and serve as a meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vindaloo-style",
+    "bhuna-spice",
+    "rice-vinegar"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 6,
+    "carbs": 28,
+    "fat": 3
+  },
+  "slug": "vinegar-rice-feast",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/vinegar-rice-feast",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T09:33:32Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "chewy",
+    "mood": "indulgent",
+    "technique": "bhuna",
+    "primaryIngredient": "seasoned rice vinegar",
+    "diet": "high-protein",
+    "region": null
+  }
+}

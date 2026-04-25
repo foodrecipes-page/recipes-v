@@ -168,6 +168,18 @@
     "shard": "v"
   },
   {
+    "slug": "vinegar-rice-feast",
+    "title": "Vinegar Rice Feast",
+    "tags": [
+      "vindaloo-style",
+      "bhuna-spice",
+      "rice-vinegar"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
     "slug": "vino-verde-tarta",
     "title": "Vino Verde Tarta",
     "tags": [
