@@ -1,0 +1,75 @@
+{
+  "title": "Vanilla Garlic Crumble",
+  "description": "A weeknight Filipino dish featuring garlic and vanilla for a crispy crumbly texture that is both delicious and low in calories.",
+  "cuisine": "Philippine",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Vegetable Stock Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Water",
+      "amount": "300ml"
+    },
+    {
+      "name": "Almond Flour or Coconut Flour",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Pressure-cook the Garlic Cloves with Vanilla Extract until soft and fragrant, around 15 minutes.",
+    "Mix in Soy Sauce, Vegetable Stock Powder, and water. Cook for an additional 3-4 minutes until thickened.",
+    "Add Almond Flour or Coconut Flour to achieve a crumbly texture. Adjust seasoning if needed.",
+    "Serve immediately as a low-calorie-friendly dessert."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vanilla-garlic-crumb",
+    "low-calorie",
+    "quick-weeknight-dish"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 2,
+    "carbs": 9,
+    "fat": 7
+  },
+  "slug": "vanilla-garlic-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/vanilla-garlic-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T18:56:58Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "weeknight",
+    "technique": "pressure-cook",
+    "primaryIngredient": "vanilla",
+    "diet": "low-calorie",
+    "region": null
+  }
+}

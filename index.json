@@ -13,6 +13,18 @@
     "shard": "v"
   },
   {
+    "slug": "vanilla-garlic-crumble",
+    "title": "Vanilla Garlic Crumble",
+    "tags": [
+      "vanilla-garlic-crumb",
+      "low-calorie",
+      "quick-weeknight-dish"
+    ],
+    "cuisine": "Philippine",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
     "slug": "vanilla-mediteranean-bliss",
     "title": "Vanilla Mediteranean Bliss",
     "tags": [
