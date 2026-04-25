@@ -1,0 +1,88 @@
+{
+  "title": "Vegetable Shortening Salsa Verde",
+  "description": "A fresh, tender Uruguayan dish featuring vegetable shortening to add a unique texture and flavor profile, perfect for those midnight cravings.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup finely chopped tomatoes",
+      "amount": "",
+      "notes": "Fresh and juicy"
+    },
+    {
+      "name": "1/2 cup finely chopped bell peppers",
+      "amount": "",
+      "notes": "Juicy, add a sweet note to the dish"
+    },
+    {
+      "name": "1/4 cup finely chopped onions",
+      "amount": "",
+      "notes": "Slightly sweet, adds depth of flavor"
+    },
+    {
+      "name": "1 clove garlic",
+      "amount": "",
+      "notes": "Minced for easy incorporation"
+    },
+    {
+      "name": "2 tablespoons vegetable shortening (can substitute with neutral-flavored oil)",
+      "amount": "",
+      "notes": "For a unique texture and slight richness"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "",
+      "notes": "Fresh, adds brightness to the dish"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "",
+      "notes": "Adjust according to personal preference"
+    },
+    {
+      "name": "Optional: Fresh cilantro for garnish (to taste)",
+      "amount": "",
+      "notes": "To enhance the freshness of the salsa"
+    }
+  ],
+  "instructions": [
+    "Wash and dry all vegetables thoroughly.",
+    "In a mixing bowl, combine finely chopped tomatoes, bell peppers, onions, and garlic. Mix well to ensure even distribution of flavors.",
+    "Add vegetable shortening or oil. Stir gently until combined with ingredients.",
+    "Squeeze the juice of one lime into the mixture. Let it sit for at least 10 minutes to allow the flavors to meld together.",
+    "Season with salt, adjusting according to taste. Mix well again.",
+    "If desired, garnish with fresh cilantro leaves before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "vegetable-shortening",
+    "salsa-verde",
+    "uruguayan",
+    "plant-based-friendly"
+  ],
+  "nutrition": {
+    "calories": 35,
+    "protein": 0.4,
+    "carbs": 6,
+    "fat": 2
+  },
+  "slug": "vegetable-shortening-salsa-verde",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/vegetable-shortening-salsa-verde",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T17:47:42Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "fold",
+    "primaryIngredient": "vegetable shortening",
+    "diet": "plant-based",
+    "region": null
+  }
+}

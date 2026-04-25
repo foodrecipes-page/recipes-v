@@ -89,6 +89,19 @@
     "shard": "v"
   },
   {
+    "slug": "vegetable-shortening-salsa-verde",
+    "title": "Vegetable Shortening Salsa Verde",
+    "tags": [
+      "vegetable-shortening",
+      "salsa-verde",
+      "uruguayan",
+      "plant-based-friendly"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 15,
+    "shard": "v"
+  },
+  {
     "slug": "vegetable-stock-cube-delight",
     "title": "Vegetable Stock Cube Delight",
     "tags": [
