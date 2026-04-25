@@ -1,0 +1,72 @@
+{
+  "title": "Vanilla Medley",
+  "description": "A peppery, dense mediterranean-friendly dish featuring vanilla sugar and steam-cooked flavors, designed to be a crowd-pleaser for special occasions or as an indulgent dessert.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Vanilla Bean",
+      "amount": "1 pod"
+    },
+    {
+      "name": "Almond Meal",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Coconut Flakes",
+      "amount": "2 ounces (60g)"
+    },
+    {
+      "name": "Vanilla Sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Fresh Basil Leaves",
+      "amount": "few leaves"
+    },
+    {
+      "name": "Caster Sugar",
+      "amount": "3 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 180°C (350°F).",
+    "Toast the coconut flakes in a dry pan until golden brown.",
+    "In a mixing bowl, combine almond meal and vanilla sugar. Add toasted coconut flakes, fresh basil leaves, and a pinch of salt.",
+    "Press mixture firmly into a small square baking dish lined with parchment paper.",
+    "Bake for 15 minutes or until firm and lightly golden on top.",
+    "Cool completely before slicing. Serve cold as a dessert accompaniment."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish-recipe",
+    "peppery-dessert",
+    "vanilla-mixture",
+    "mediterranean-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 7,
+    "carbs": 36,
+    "fat": 14
+  },
+  "slug": "vanilla-medley",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/vanilla-medley",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T19:02:54Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "crowd-pleaser",
+    "technique": "steam",
+    "primaryIngredient": "vanilla sugar",
+    "diet": "mediterranean",
+    "region": null
+  }
+}

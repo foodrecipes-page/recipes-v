@@ -40,6 +40,19 @@
     "shard": "v"
   },
   {
+    "slug": "vanilla-medley",
+    "title": "Vanilla Medley",
+    "tags": [
+      "spanish-recipe",
+      "peppery-dessert",
+      "vanilla-mixture",
+      "mediterranean-friendly"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
     "slug": "vegan-golden-brownie-halwa",
     "title": "Vegan Golden Brownie Halwa",
     "tags": [
