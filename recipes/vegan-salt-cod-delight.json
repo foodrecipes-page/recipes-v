@@ -1,0 +1,73 @@
+{
+  "title": "Vegan Salt Cod Delight",
+  "description": "A nutty and crumbly solo-dinner Russian dish featuring a vegan-friendly salt cod substitute made by simmering seitan with almond milk for flavor.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "seitan",
+      "amount": "1 lb"
+    },
+    {
+      "name": "almond milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "4"
+    },
+    {
+      "name": "salt",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Combine seitan, almond milk, bay leaves, salt, pepper, cumin seeds, and coriander powder in a large pot.",
+    "Bring to boil over medium-high heat. Reduce heat to low, cover, and simmer for about 2 hours or until the liquid is absorbed and the dish has a nutty texture.",
+    "Remove from heat and discard bay leaves. Serve hot as a vegan-friendly salt cod delight."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "salt-cod-delight",
+    "russian-dish"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 28,
+    "carbs": 75,
+    "fat": 15
+  },
+  "slug": "vegan-salt-cod-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/vegan-salt-cod-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T10:32:59Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "boil",
+    "primaryIngredient": "salt cod",
+    "diet": "vegan",
+    "region": null
+  }
+}

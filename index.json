@@ -41,6 +41,18 @@
     "shard": "v"
   },
   {
+    "slug": "vegan-salt-cod-delight",
+    "title": "Vegan Salt Cod Delight",
+    "tags": [
+      "vegan",
+      "salt-cod-delight",
+      "russian-dish"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 150,
+    "shard": "v"
+  },
+  {
     "slug": "vegetabhuna",
     "title": "VegetaBhuna",
     "tags": [
