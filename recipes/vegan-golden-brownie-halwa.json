@@ -1,0 +1,71 @@
+{
+  "title": "Vegan Golden Brownie Halwa",
+  "description": "A sweet, crumbly Indian (Maharashtrian) dessert made with brown sugar, cashews, and a touch of ghee for a perfect energy boost in the morning.",
+  "cuisine": "Indian (Maharashtrian)",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup vegan brown sugar",
+      "amount": "cup",
+      "notes": "Use granulated sugar as a substitute."
+    },
+    {
+      "name": "2/3 cup ghee or vegan butter",
+      "amount": "cup",
+      "notes": "Ensure it is at room temperature for easier spreading."
+    },
+    {
+      "name": "1 cup cashews, roughly chopped",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup water",
+      "amount": "cup"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C). Grease a small pan or mold.",
+    "In a medium saucepan, combine brown sugar and water. Stir until the sugar is fully dissolved. Add ghee and salt, stirring well to prevent sticking.",
+    "Bring the mixture to a boil over medium heat. Once boiling, reduce the heat to low and simmer for about 20 minutes or until it thickens into a golden syrup-like consistency.",
+    "Add in chopped cashews and stir continuously until they are fully incorporated and the mixture coats the back of a spoon well.",
+    "Transfer the halwa from the pan to a greased mold. Let it cool completely before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "golden-brownie-halwa",
+    "sweet-dessert",
+    "energy-boost"
+  ],
+  "nutrition": {
+    "calories": 215,
+    "protein": 2,
+    "carbs": 34,
+    "fat": 8
+  },
+  "slug": "vegan-golden-brownie-halwa",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/vegan-golden-brownie-halwa",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T05:35:50Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crumbly",
+    "mood": "energizing",
+    "technique": "boil",
+    "primaryIngredient": "brown sugar",
+    "diet": "vegan",
+    "region": "maharashtrian"
+  }
+}
