@@ -64,6 +64,19 @@
     "shard": "v"
   },
   {
+    "slug": "vegetable-stock-cube-delight",
+    "title": "Vegetable Stock Cube Delight",
+    "tags": [
+      "vegetable",
+      "stock cube",
+      "paleo",
+      "snack"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 25,
+    "shard": "v"
+  },
+  {
     "slug": "veggie-tango",
     "title": "Veggie Tango",
     "tags": [
