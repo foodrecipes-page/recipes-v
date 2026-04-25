@@ -25,6 +25,18 @@
     "shard": "v"
   },
   {
+    "slug": "velvet-earth-chicken",
+    "title": "Velvet Earth Chicken",
+    "tags": [
+      "velvet earth chicken",
+      "one-pot dish",
+      "turkish cuisine"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 80,
+    "shard": "v"
+  },
+  {
     "slug": "velvet-quinoa-delight",
     "title": "Velvet Quinoa Delight",
     "tags": [
