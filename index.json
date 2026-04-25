@@ -1,5 +1,16 @@
 [
   {
+    "slug": "vegetabhuna",
+    "title": "VegetaBhuna",
+    "tags": [
+      "vegeta-bhuna",
+      "algerian-veggies"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 45,
+    "shard": "v"
+  },
+  {
     "slug": "veggie-tango",
     "title": "Veggie Tango",
     "tags": [

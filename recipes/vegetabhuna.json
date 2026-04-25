@@ -1,0 +1,86 @@
+{
+  "title": "VegetaBhuna",
+  "description": "A rich, crisp, indulgent Algerian vegetarian dish featuring a restaurant-style bhuna flavor profile with an emphasis on vegetables and spices.",
+  "cuisine": "Algerian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tomatoes",
+      "amount": "2 large",
+      "notes": "Ripe, slightly crushed to release juices"
+    },
+    {
+      "name": "Onions",
+      "amount": "4 medium",
+      "notes": "Halved and finely chopped for a crisp texture"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "3 small",
+      "notes": "Cut into thin strips for even cooking"
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves",
+      "notes": "Mashed to add richness to the dish"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 cup fresh leaves, roughly chopped",
+      "notes": "For garnishing and added flavor"
+    },
+    {
+      "name": "Curry Powder",
+      "amount": "2 tablespoons",
+      "notes": "To achieve a rich, aromatic bhuna taste"
+    },
+    {
+      "name": "Red Chili Flakes",
+      "amount": "1 tablespoon",
+      "notes": "Optional for more heat but less spicy than chili powder"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "30 ml",
+      "notes": "For sautéing and cooking"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add onions, bell peppers, and garlic to the hot oil. Sauté until they become translucent, around 10 minutes.",
+    "Toss in curry powder and chili flakes (if using). Stir for another minute to release flavors.",
+    "Increase heat to high and add tomatoes along with their juice. Simmer for about 20-30 minutes or until the sauce thickens slightly.",
+    "Once cooked, season with salt as per taste preference. Optionally garnish with fresh coriander before serving.",
+    "Serve hot over steamed basmati rice or naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "vegeta-bhuna",
+    "algerian-veggies"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 13,
+    "carbs": 45,
+    "fat": 16
+  },
+  "slug": "vegetabhuna",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/vegetabhuna",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T03:37:55Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crisp",
+    "mood": "indulgent",
+    "technique": "bhuna",
+    "primaryIngredient": "restaurant",
+    "diet": "vegetarian",
+    "region": null
+  }
+}
