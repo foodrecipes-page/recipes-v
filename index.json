@@ -318,6 +318,18 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-flour-cake",
+    "title": "Velvety Flour Cake",
+    "tags": [
+      "velvety",
+      "portuguese",
+      "dessert"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 40,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-spicy-middle-eastern-apricot-stir-fry",
     "title": "Velvety Spicy Middle Eastern Apricot Stir-fry",
     "tags": [

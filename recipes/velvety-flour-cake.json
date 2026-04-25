@@ -1,0 +1,75 @@
+{
+  "title": "Velvety Flour Cake",
+  "description": "A floral and velvety Portuguese dessert that is a crowd-pleaser and perfect for any occasion, this keto-friendly cake features flour as the primary ingredient.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "2 cups almond flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "1/4 cup unsweetened cocoa powder",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "3 large eggs",
+      "amount": "3 eggs"
+    },
+    {
+      "name": "1 cup heavy whipping cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "2 tablespoons butter, melted",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). Grease a 9x13 inch baking dish.",
+    "In a large bowl, whisk together almond flour and cocoa powder. Add eggs, heavy cream, melted butter, and salt; mix until smooth.",
+    "Pour the mixture into the prepared pan and bake for 25-30 minutes or until a toothpick inserted comes out clean.",
+    "Let it cool before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "velvety",
+    "portuguese",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 257,
+    "protein": 6,
+    "carbs": 13,
+    "fat": 9
+  },
+  "slug": "velvety-flour-cake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-flour-cake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T22:40:19Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "velvety",
+    "mood": "crowd-pleaser",
+    "technique": "whisk",
+    "primaryIngredient": "flour",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "flour",
+    "descriptor": "velvety",
+    "dishForm": "cake"
+  }
+}
