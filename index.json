@@ -78,6 +78,20 @@
     "shard": "v"
   },
   {
+    "slug": "velvet-brussels-sprouts-delight",
+    "title": "Velvet Brussels Sprouts Delight",
+    "tags": [
+      "brussels-sprouts",
+      "fermented",
+      "velvety",
+      "tunisian-dish",
+      "halal-friendly"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 50,
+    "shard": "v"
+  },
+  {
     "slug": "velvet-camellia",
     "title": "Velvet Camellia",
     "tags": [

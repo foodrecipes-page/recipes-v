@@ -1,0 +1,74 @@
+{
+  "title": "Velvet Brussels Sprouts Delight",
+  "description": "This fermented and velvety Tunisian dish features brussels sprouts that are both crowd-pleasing and halal-friendly.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "Brussels Sprouts",
+      "amount": "1 cup trimmed and quartered",
+      "notes": "Ensure they are small for a softer texture."
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "A few teaspoons",
+      "notes": "Halal if garlic is halal."
+    },
+    {
+      "name": "Fermented Soy Sauce or Tamari",
+      "amount": "1/2 cup",
+      "notes": "Use for a traditional flavor boost, but can be substituted with soy sauce for non-fermented option."
+    },
+    {
+      "name": "Vegetable Oil or Olive Oil",
+      "amount": "A few tablespoons",
+      "notes": "For sautéing and tossing."
+    },
+    {
+      "name": "Red Pepper Flakes (Optional)",
+      "amount": "To taste",
+      "notes": "Add for a bit of heat, halal if peppers are halal."
+    }
+  ],
+  "instructions": [
+    "Heat oil in a frying pan over medium-high heat.",
+    "Sauté garlic powder until fragrant and golden brown. Be careful not to burn it.",
+    "Add Brussels Sprouts and red pepper flakes (if using) and sauté for about 3-5 minutes, or until slightly softened.",
+    "Pour the fermented soy sauce into the pan, stirring well to coat all ingredients evenly.",
+    "Reduce heat to low and simmer for an additional 5-10 minutes. Stir occasionally to prevent sticking.",
+    "Serve hot as a side dish or appetizer with your choice of bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brussels-sprouts",
+    "fermented",
+    "velvety",
+    "tunisian-dish",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 23,
+    "fat": 8
+  },
+  "slug": "velvet-brussels-sprouts-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvet-brussels-sprouts-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T06:41:46Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "velvety",
+    "mood": "crowd-pleaser",
+    "technique": "fold",
+    "primaryIngredient": "brussels sprouts",
+    "diet": "halal",
+    "region": null
+  }
+}
