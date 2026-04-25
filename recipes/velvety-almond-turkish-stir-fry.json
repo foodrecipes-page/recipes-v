@@ -1,0 +1,98 @@
+{
+  "title": "Velvety Almond Turkish Stir-fry",
+  "description": "A nutty and velvety post-workout dish featuring tender chicken breasts cooked in a flavorful almond sauce.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "2 lb",
+      "notes": "boneless, skin-on"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup, chopped finely"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-6 pieces, minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C). Season chicken breasts with salt and pepper on both sides.",
+    "Heat olive oil in a large skillet over medium-high heat. Add chicken and cook until browned on all sides, about 8-10 minutes total.",
+    "Remove chicken from skillet and set aside. In the same pan, add chopped almonds and sauté for 2-3 minutes until lightly golden.",
+    "Add onion to the pan and cook until soft, then stir in minced garlic and tomato paste. Cook for an additional minute until fragrant.",
+    "Return chicken to the pan with almond mixture. Pour soy sauce and lemon juice over the top of the chicken. Stir well to combine all ingredients.",
+    "Lower heat to medium-low and simmer for about 10 minutes or until sauce thickens slightly, stirring occasionally.",
+    "Add cayenne pepper if desired and stir in more salt and pepper as needed. Remove from heat and serve hot with additional lemon wedges on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "velvety",
+    "nutty",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 430,
+    "protein": 52,
+    "carbs": 18,
+    "fat": 21
+  },
+  "slug": "velvety-almond-turkish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-almond-turkish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T21:17:15Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "velvety",
+    "mood": "post-workout",
+    "technique": "simmer",
+    "primaryIngredient": "chicken breasts",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Almonds",
+    "descriptor": "Nutty Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
