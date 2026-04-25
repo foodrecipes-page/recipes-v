@@ -1,0 +1,68 @@
+{
+  "title": "Vegan Toast Boost",
+  "description": "A buttery and juicy vegan dish featuring toast topped with raw-friendly vegan butter for a post-workout meal.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegan",
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Vegan Butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sourdough Toast",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Mixed Berries (fresh or frozen, defrosted)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Walnuts, chopped",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Toast the sourdough slices until golden and slightly crispy.",
+    "In a small bowl, mix vegan butter with mixed berries until well combined.",
+    "Spread the berry-butter mixture evenly on each slice of toast.",
+    "Sprinkle chopped walnuts over each toast.",
+    "Place the assembled toasts in the preheated oven for about 5-7 minutes or until the nuts are golden brown and toasted.",
+    "Remove from oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan-butter",
+    "sourdough-toast",
+    "post-workout-dish",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "vegan-toast-boost",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/vegan-toast-boost",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T16:05:46Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "post-workout",
+    "technique": "toast",
+    "primaryIngredient": "vegan butter",
+    "diet": "raw",
+    "region": null
+  }
+}

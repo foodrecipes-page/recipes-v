@@ -53,6 +53,19 @@
     "shard": "v"
   },
   {
+    "slug": "vegan-toast-boost",
+    "title": "Vegan Toast Boost",
+    "tags": [
+      "vegan-butter",
+      "sourdough-toast",
+      "post-workout-dish",
+      "raw-friendly"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 22,
+    "shard": "v"
+  },
+  {
     "slug": "vegetabhuna",
     "title": "VegetaBhuna",
     "tags": [
