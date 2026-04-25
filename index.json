@@ -64,6 +64,18 @@
     "shard": "v"
   },
   {
+    "slug": "vegetable-broccoli-crunch",
+    "title": "Vegetable Broccoli Crunch",
+    "tags": [
+      "chinese-broccoli",
+      "mexican-dish",
+      "vegan-friendly"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
     "slug": "vegetable-stock-cube-delight",
     "title": "Vegetable Stock Cube Delight",
     "tags": [

@@ -1,0 +1,83 @@
+{
+  "title": "Vegetable Broccoli Crunch",
+  "description": "A rich and flaky mexican dish featuring chinese broccoli that can be enjoyed as a post-workout snack or meal, vegetarian-friendly.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chinese Broccoli",
+      "amount": "2 cups fresh"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Red Onion, finely chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Jalapeno Peppers, seeded and finely chopped",
+      "amount": "2 slices (adjust according to spice preference)"
+    },
+    {
+      "name": "Mexican Shredded Cheese Blend",
+      "amount": "3 ounces"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Cilantro, chopped for garnish",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a skillet over medium heat.",
+    "Add minced garlic and red onion; sauté until translucent.",
+    "Fold in jalapeno slices, cooking until soft and slightly caramelized.",
+    "Rinse the Chinese broccoli under cold water to remove any excess dirt. Cut into florets or leave whole if preferred.",
+    "Sauté the broccoli with a pinch of salt until tender but still crisp.",
+    "Stir in Mexican cheese blend, allowing it to melt gently on top of the broccoli and onions.",
+    "Drizzle with sour cream on top and garnish with fresh cilantro just before serving.",
+    "Serve warm as an accompaniment or as a standalone snack."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese-broccoli",
+    "mexican-dish",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 13,
+    "carbs": 24,
+    "fat": 8
+  },
+  "slug": "vegetable-broccoli-crunch",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/vegetable-broccoli-crunch",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T16:04:30Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "flaky",
+    "mood": "post-workout",
+    "technique": "caramelize",
+    "primaryIngredient": "chinese broccoli",
+    "diet": "vegetarian",
+    "region": null
+  }
+}
