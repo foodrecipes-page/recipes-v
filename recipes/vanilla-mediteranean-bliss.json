@@ -1,0 +1,77 @@
+{
+  "title": "Vanilla Mediteranean Bliss",
+  "description": "A fresh and fluffy mediterranean dish featuring vanilla sugar, designed for a gluten-free option with its light and soothing flavors.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "vanilla sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh strawberries",
+      "amount": "1 cup",
+      "notes": "freshly picked and halved"
+    },
+    {
+      "name": "almond cookies",
+      "amount": "8-10",
+      "notes": "ensure they are gluten-free"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "juice of 1 lemon"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "In a large bowl, combine the vanilla sugar and honey. Mix until well combined.",
+    "Add the fresh strawberries into the mixture and mix gently with a spoon to ensure they are evenly coated with the sweetener. The berries should be slightly softened but not mushy.",
+    "Gently toss in the almond cookies, ensuring each cookie is coated lightly.",
+    "Transfer the mixture onto a baking sheet lined with parchment paper. Spread it out evenly so that the cookies remain distinct and visible.",
+    "Bake for 10-12 minutes or until golden brown on the edges but still soft in the center.",
+    "Remove from the oven, let it cool slightly to room temperature.",
+    "Drizzle each slice with freshly squeezed lemon juice just before serving.",
+    "Garnish with extra fresh strawberries and a pinch of flaky sea salt if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vanilla-sugar",
+    "mediterranean-bliss",
+    "gluten-free",
+    "fresh-strawberries",
+    "almond-cookies",
+    "lemon-juice"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 3,
+    "carbs": 45,
+    "fat": 18
+  },
+  "slug": "vanilla-mediteranean-bliss",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/vanilla-mediteranean-bliss",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T04:28:50Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "monsoon",
+    "technique": "roast",
+    "primaryIngredient": "vanilla sugar",
+    "diet": "gluten-free",
+    "region": null
+  }
+}

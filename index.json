@@ -1,5 +1,20 @@
 [
   {
+    "slug": "vanilla-mediteranean-bliss",
+    "title": "Vanilla Mediteranean Bliss",
+    "tags": [
+      "vanilla-sugar",
+      "mediterranean-bliss",
+      "gluten-free",
+      "fresh-strawberries",
+      "almond-cookies",
+      "lemon-juice"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 22,
+    "shard": "v"
+  },
+  {
     "slug": "vegetabhuna",
     "title": "VegetaBhuna",
     "tags": [
