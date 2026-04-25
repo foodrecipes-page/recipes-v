@@ -1,0 +1,97 @@
+{
+  "title": "Velvety Spicy Middle Eastern Apricot Stir-fry",
+  "description": "A cozy and spicy middle eastern dish featuring apricot jam in a velvety sauce, perfect for a quick weeknight dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Apricot Jam",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3 pieces",
+      "notes": "minced"
+    },
+    {
+      "name": "Red Peppers",
+      "amount": "2 pcs",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "Green Peppers",
+      "amount": "2 pcs",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Coriander seeds (Cumin)",
+      "amount": "1 tsp",
+      "notes": "crushed finely"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (180°C).",
+    "In a small saucepan, combine the apricot jam with salt. Heat over medium heat until slightly reduced and thickened.",
+    "Heat olive oil in a large skillet over medium-high heat. Add minced garlic, sliced peppers, and onions; stir for about 2 minutes or until onions are translucent.",
+    "Add crushed coriander seeds (cumin) to the pan and stir for another minute.",
+    "Pour the reduced apricot jam into the skillet with vegetables and add turmeric powder and garam masala. Stir well to combine.",
+    "Reduce heat to low, cover, and simmer for about 15 minutes until the sauce has thickened slightly and vegetables are tender.",
+    "Serve hot as a side dish or over grilled meats."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "velvety",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 8,
+    "fat": 3
+  },
+  "slug": "velvety-spicy-middle-eastern-apricot-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-spicy-middle-eastern-apricot-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T21:05:04Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "velvety",
+    "mood": "cozy",
+    "technique": "reduce",
+    "primaryIngredient": "apricot jam",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Apricot",
+    "descriptor": "Spicy Velvety",
+    "dishForm": "Stir-fry"
+  }
+}

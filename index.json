@@ -305,6 +305,18 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-spicy-middle-eastern-apricot-stir-fry",
+    "title": "Velvety Spicy Middle Eastern Apricot Stir-fry",
+    "tags": [
+      "spicy",
+      "velvety",
+      "middle-eastern"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 30,
+    "shard": "v"
+  },
+  {
     "slug": "vinegar-rice-feast",
     "title": "Vinegar Rice Feast",
     "tags": [
