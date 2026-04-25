@@ -1,0 +1,76 @@
+{
+  "title": "Velvet Gelatin Wrap",
+  "description": "A nutty and velvety vegan-friendly Algerian dish featuring gelatine leafs prepared with sous-vide technique for a cozy texture.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chia seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "agave syrup",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "almond flour",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "matcha powder",
+      "amount": "2 tsp (for color)"
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Mix coconut milk, coconut cream, chia seeds, agave syrup, and matcha powder in a blender until smooth.",
+    "Pour the mixture into a sous-vide bag and seal it. Cook at 65°C (149°F) for 30 minutes.",
+    "Sieve the cooled mixture to remove any lumps or clumps, then stir in almond flour until well combined.",
+    "Transfer the gelatin mixture to a mold and refrigerate for 2 hours until set.",
+    "Remove from the mold and cut into desired shapes. Garnish with coconut flakes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "velvet-gelatin-wrap",
+    "algerian-dessert",
+    "sous-vide-cooking"
+  ],
+  "nutrition": {
+    "calories": 532,
+    "protein": 16,
+    "carbs": 47,
+    "fat": 20
+  },
+  "slug": "velvet-gelatin-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvet-gelatin-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T03:26:24Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "velvety",
+    "mood": "cozy",
+    "technique": "sous-vide",
+    "primaryIngredient": "gelatine leafs",
+    "diet": "vegan",
+    "region": null
+  }
+}

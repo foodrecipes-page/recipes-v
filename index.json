@@ -37,6 +37,18 @@
     "shard": "v"
   },
   {
+    "slug": "velvet-gelatin-wrap",
+    "title": "Velvet Gelatin Wrap",
+    "tags": [
+      "velvet-gelatin-wrap",
+      "algerian-dessert",
+      "sous-vide-cooking"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 60,
+    "shard": "v"
+  },
+  {
     "slug": "velvet-quinoa-delight",
     "title": "Velvet Quinoa Delight",
     "tags": [
