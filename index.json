@@ -35,5 +35,18 @@
     "cuisine": "Peruvian",
     "totalTimeMin": 55,
     "shard": "v"
+  },
+  {
+    "slug": "vino-verde-tarta",
+    "title": "Vino Verde Tarta",
+    "tags": [
+      "vino-verde",
+      "tarta",
+      "vegan",
+      "dessert"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 45,
+    "shard": "v"
   }
 ]

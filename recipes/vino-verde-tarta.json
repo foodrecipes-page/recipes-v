@@ -1,0 +1,87 @@
+{
+  "title": "Vino Verde Tarta",
+  "description": "A festive Uruguayan dessert featuring white wine vinegar and sweet flavors, perfect for a special occasion.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "2 cups almond flour",
+      "amount": "",
+      "notes": "Ensure to sift the flour before using."
+    },
+    {
+      "name": "1/4 cup raw sugar",
+      "amount": "",
+      "notes": "For a vegan-friendly touch, use maple syrup or agave nectar instead if preferred."
+    },
+    {
+      "name": "1/2 cup unsalted vegan butter",
+      "amount": "",
+      "notes": "Make sure it's at room temperature to ensure a soft texture."
+    },
+    {
+      "name": "1 teaspoon vanilla extract",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup water (optional)",
+      "amount": "",
+      "notes": "Can be omitted for a crumbly texture."
+    },
+    {
+      "name": "2 tablespoons white wine vinegar (white vinagre verde)",
+      "amount": "",
+      "notes": "Add to the batter as per taste."
+    },
+    {
+      "name": "1/4 teaspoon salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3/4 cup crushed pistachios or walnuts (optional, for topping)"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C). Grease a 8-inch square baking dish with vegan butter.",
+    "In a large mixing bowl, cream together the almond flour and sugar until smooth. Add in the vegan butter, vanilla extract, water, salt, and white wine vinegar. Mix well until the dough comes together.",
+    "Press half of the dough into the prepared pan. Spread the pistachios or walnuts evenly on top if using.",
+    "Bake for 25-30 minutes or until golden brown. Remove from oven and let it cool completely before slicing.",
+    "If desired, drizzle a bit more white wine vinegar over the cooled tarta to enhance its flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "vino-verde",
+    "tarta",
+    "vegan",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "vino-verde-tarta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/vino-verde-tarta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T02:32:23Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crumbly",
+    "mood": "festive",
+    "technique": "cure",
+    "primaryIngredient": "white wine vinegar",
+    "diet": "vegan",
+    "region": null
+  }
+}
