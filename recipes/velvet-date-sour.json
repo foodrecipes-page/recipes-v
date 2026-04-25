@@ -1,0 +1,66 @@
+{
+  "title": "Velvet Date Sour",
+  "description": "A creamy and velvety date-night dish featuring sour cream, roasted dates, and no eggs for a dairy-free and egg-free-friendly option.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegan",
+    "lactose-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dates",
+      "amount": "10 medium dates",
+      "notes": "pitted"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "200ml sour cream",
+      "notes": "full-fat for richer texture"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1/4 teaspoon baking powder",
+      "notes": "for slight leavening effect"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Soak the dates in hot water for at least an hour or overnight.",
+    "Drain the soaked dates, remove pits, and break them into small pieces.",
+    "In a mixing bowl, combine the soaked date pieces with sour cream and baking powder. Mix well until smooth.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Bake for about 20-25 minutes or until golden brown on top.",
+    "Let it cool before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "date-night",
+    "vegan-dessert"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 2,
+    "carbs": 18,
+    "fat": 7
+  },
+  "slug": "velvet-date-sour",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvet-date-sour",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T11:05:42Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "roast",
+    "primaryIngredient": "sour cream",
+    "diet": "egg-free",
+    "region": null
+  }
+}

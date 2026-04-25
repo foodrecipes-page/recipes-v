@@ -130,6 +130,18 @@
     "shard": "v"
   },
   {
+    "slug": "velvet-date-sour",
+    "title": "Velvet Date Sour",
+    "tags": [
+      "kenyan",
+      "date-night",
+      "vegan-dessert"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
     "slug": "velvet-earth-chicken",
     "title": "Velvet Earth Chicken",
     "tags": [
