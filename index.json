@@ -143,6 +143,19 @@
     "shard": "v"
   },
   {
+    "slug": "velvet-chickpea-casserole",
+    "title": "Velvet Chickpea Casserole",
+    "tags": [
+      "velvet",
+      "chickpea",
+      "casserole",
+      "meal-prep"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
     "slug": "velvet-date-sour",
     "title": "Velvet Date Sour",
     "tags": [

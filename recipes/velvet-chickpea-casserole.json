@@ -1,0 +1,80 @@
+{
+  "title": "Velvet Chickpea Casserole",
+  "description": "A buttery, velvety low-carb-friendly meal-prep dish featuring a can of chickpeas, deglazed in garlic and thyme.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chickpea Canned",
+      "amount": "1 (15 oz can)"
+    },
+    {
+      "name": "Butter",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Garlic Clove(s)",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Thyme Sprig(s)",
+      "amount": "1 sprig",
+      "notes": "dried or fresh, chopped finely"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Pepper",
+      "amount": "Dash"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a skillet over medium heat.",
+    "Add minced garlic and cook for about 1 minute until fragrant.",
+    "Deglaze the skillet with ¼ cup of water, scraping any browned bits from the bottom of the pan.",
+    "Stir in chopped thyme, salt, pepper, and add chickpeas.",
+    "Pour in heavy cream, increase heat to high, bring to a simmer, then reduce by half.",
+    "Transfer mixture into oven-safe dish and bake at 350°F (175°C) for 20 minutes or until heated through."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "velvet",
+    "chickpea",
+    "casserole",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 165,
+    "protein": 5,
+    "carbs": 8,
+    "fat": 9
+  },
+  "slug": "velvet-chickpea-casserole",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvet-chickpea-casserole",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T14:02:09Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "velvety",
+    "mood": "meal-prep",
+    "technique": "deglaze",
+    "primaryIngredient": "can of chickpeas",
+    "diet": "low-carb",
+    "region": null
+  }
+}
