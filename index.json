@@ -318,6 +318,18 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-buttery-steak-stir-fry",
+    "title": "Velvety Buttery Steak Stir-fry",
+    "tags": [
+      "steak",
+      "stir-fry",
+      "vegan"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-chestnut-stir-fry",
     "title": "Velvety Chestnut Stir-fry",
     "tags": [

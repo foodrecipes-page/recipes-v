@@ -1,0 +1,77 @@
+{
+  "title": "Velvety Buttery Steak Stir-fry",
+  "description": "A dairy-free indulgent Norwegian dish featuring a fillet of steak cooked to perfection and served with a velvety buttery sauce.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grilled Steak Fillet",
+      "amount": "100g"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok over medium-high heat.",
+    "Add garlic and onion, sauté for about 2 minutes until fragrant but not browned.",
+    "Deglaze the pan with soy sauce. Stir to combine evenly.",
+    "Reduce heat to low and sprinkle cornstarch over the sauce, stirring constantly to avoid lumps.",
+    "Place steak on top of the sauce in the wok, letting it cook undisturbed for about 2 minutes each side or until desired doneness is achieved.",
+    "Taste and adjust seasoning as needed. Serve hot with steamed vegetables if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "steak",
+    "stir-fry",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 28,
+    "carbs": 15,
+    "fat": 31
+  },
+  "slug": "velvety-buttery-steak-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-buttery-steak-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T06:43:07Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "velvety",
+    "mood": "indulgent",
+    "technique": "deglaze",
+    "primaryIngredient": "fillet of steak",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "steak",
+    "descriptor": "Buttery Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
