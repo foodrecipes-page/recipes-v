@@ -1,0 +1,90 @@
+{
+  "title": "Velvety Umami Dark Soft Brown Sugar Stir-fry",
+  "description": "This one-pot German dish features velvety flavors of dark soft brown sugar and umami-rich elements in a quick-cooking, flavorful meal perfect for lunch or dinner.",
+  "cuisine": "German",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Dark Soft Brown Sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chicken Breast",
+      "amount": "2 pieces, sliced thin"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3-4 cloves, minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small, finely chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "3 medium, peeled and sliced thin"
+    },
+    {
+      "name": "Celery Stalks",
+      "amount": "2-3 stalks, sliced thinly"
+    },
+    {
+      "name": "Water or Chicken Broth",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt and Pepper",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet or saucepan over medium heat.",
+    "Add sliced chicken to the pan, sprinkle with salt and pepper, and cook until golden brown on both sides. Remove from heat.",
+    "In the same pan, add minced garlic and finely chopped onion, sauté for about 2 minutes.",
+    "Stir in carrots and celery, cooking for an additional 5-7 minutes until vegetables are tender.",
+    "Pour in dark soft brown sugar and a splash of water or chicken broth. Stir well to combine.",
+    "Return cooked chicken pieces back into the pan along with any accumulated juices, ensuring everything is evenly coated by the dark brown sugar mixture.",
+    "Simmer for about 5-7 minutes until thickened slightly, stirring occasionally.",
+    "Serve hot as a main course or side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "umami",
+    "velvety",
+    "one-pot",
+    "german"
+  ],
+  "nutrition": {
+    "calories": 356,
+    "protein": 29,
+    "carbs": 17,
+    "fat": 8
+  },
+  "slug": "velvety-umami-dark-soft-brown-sugar-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-umami-dark-soft-brown-sugar-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T09:27:12Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "velvety",
+    "mood": "one-pot",
+    "technique": "simmer",
+    "primaryIngredient": "dark soft brown sugar",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Dark Soft Brown Sugar",
+    "descriptor": "Umami Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
