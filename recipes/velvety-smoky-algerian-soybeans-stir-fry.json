@@ -1,0 +1,79 @@
+{
+  "title": "Velvety Smoky Algerian Soybeans Stir-fry",
+  "description": "A velvety smoky dish featuring soya beans with a touch of sweet and savory flavors in an easy-to-follow recipe that's sugar-free-friendly.",
+  "cuisine": "Algerian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Soybeans",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6 pieces",
+      "notes": "minced"
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "A few pinches"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt to taste"
+    },
+    {
+      "name": "Sugar-free soy sauce or tamari",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Rinse and soak the soybeans overnight. Drain and set aside.",
+    "Heat olive oil in a wok or large skillet over medium heat. Add minced garlic, chopped onion, and red pepper flakes; sauté for about 2 minutes until onions are translucent.",
+    "Add the soaked soybeans to the skillet. Stir-fry them with salt and sugar-free soy sauce, allowing the flavors to meld together. Continue stirring occasionally until the beans are fully cooked (about 10-15 minutes).",
+    "Serve hot as a side dish or on its own as a snack.",
+    "Enjoy your cozy Algerian dish that's both smoky and velvety in texture."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "smoky",
+    "velvety",
+    "soybeans"
+  ],
+  "nutrition": {
+    "calories": 316,
+    "protein": 21,
+    "carbs": 29,
+    "fat": 14
+  },
+  "slug": "velvety-smoky-algerian-soybeans-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-smoky-algerian-soybeans-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T01:57:46Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "velvety",
+    "mood": "cozy",
+    "technique": "reduce",
+    "primaryIngredient": "soya bean",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Soybeans",
+    "descriptor": "Smoky Velvety Cozy",
+    "dishForm": "Stir-fry"
+  }
+}

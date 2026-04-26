@@ -343,6 +343,19 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-smoky-algerian-soybeans-stir-fry",
+    "title": "Velvety Smoky Algerian Soybeans Stir-fry",
+    "tags": [
+      "algerian",
+      "smoky",
+      "velvety",
+      "soybeans"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 40,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-spicy-middle-eastern-apricot-stir-fry",
     "title": "Velvety Spicy Middle Eastern Apricot Stir-fry",
     "tags": [
