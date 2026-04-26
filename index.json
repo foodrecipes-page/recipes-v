@@ -357,6 +357,19 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-citrusy-adventurous-irish-beef-stir-fry",
+    "title": "Velvety Citrusy Adventurous Irish Beef Stir-fry",
+    "tags": [
+      "irish",
+      "citrusy",
+      "velvety",
+      "adventurous"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-earthy-garlic-stir-fry",
     "title": "Velvety Earthy Garlic Stir-fry",
     "tags": [

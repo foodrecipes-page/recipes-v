@@ -1,0 +1,98 @@
+{
+  "title": "Velvety Citrusy Adventurous Irish Beef Stir-fry",
+  "description": "A paleo-friendly and adventurous dish featuring lean minced beef in a citrusy sauce with a velvety texture for a breakfast or lunch option.",
+  "cuisine": "Irish",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lean ground beef",
+      "amount": "200g"
+    },
+    {
+      "name": "Boneless chicken breast, diced",
+      "amount": "150g"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Clementine segments",
+      "amount": "6"
+    },
+    {
+      "name": "Cilantro leaves",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Himalayan pink salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "White pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Avocado oil or olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Minced garlic cloves",
+      "amount": "2-4 cloves"
+    },
+    {
+      "name": "Red bell pepper, diced",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Julienned red onion",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or skillet over medium-high heat.",
+    "Add garlic and sauté until fragrant, about 30 seconds.",
+    "Add ground beef and chicken, cook until browned, about 5 minutes.",
+    "Stir in clementine segments and lemon juice, simmer for an additional 2-3 minutes.",
+    "Mix in cilantro leaves, salt, pepper, and diced bell pepper.",
+    "Serve hot with a side of paleo-friendly crackers or gluten-free bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "citrusy",
+    "velvety",
+    "adventurous"
+  ],
+  "nutrition": {
+    "calories": 398,
+    "protein": 24,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "velvety-citrusy-adventurous-irish-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-citrusy-adventurous-irish-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T17:28:44Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "velvety",
+    "mood": "adventurous",
+    "technique": "poach",
+    "primaryIngredient": "lean minced beef",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "beef",
+    "descriptor": "Citrusy Velvety Adventurous",
+    "dishForm": "Stir-fry"
+  }
+}
