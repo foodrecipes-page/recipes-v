@@ -66,6 +66,21 @@
     "shard": "v"
   },
   {
+    "slug": "vegan-fermented-tender-bryndza-cheese-stir-fry",
+    "title": "Vegan Fermented Tender Bryndza Cheese Stir-fry",
+    "tags": [
+      "vegan",
+      "stir-fry",
+      "bryndza_cheese",
+      "fermented",
+      "tender",
+      "filipino"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 30,
+    "shard": "v"
+  },
+  {
     "slug": "vegan-golden-brownie-halwa",
     "title": "Vegan Golden Brownie Halwa",
     "tags": [
