@@ -1,0 +1,79 @@
+{
+  "title": "Velvety Thai Carrot Stir-fry",
+  "description": "A tangy and velvety twist on traditional stir-fry featuring roasted carrots as the star vegetable, perfect for a lazy Sunday dinner that's nut-free-friendly.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 large carrot",
+      "amount": "peeled and julienned"
+    },
+    {
+      "name": "2 tablespoons soy sauce"
+    },
+    {
+      "name": "Juice of 1 lime"
+    },
+    {
+      "name": "2 cloves garlic",
+      "notes": "minced"
+    },
+    {
+      "name": "1 tablespoon fish sauce (or coconut aminos for nut-free option)"
+    },
+    {
+      "name": "1 teaspoon sugar"
+    },
+    {
+      "name": "2 green onions",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "20 fresh basil leaves",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 425°F (220°C).",
+    "Rinse and julienne the carrots into thin strips.",
+    "Arrange the carrot strips on a baking sheet and roast for 15 minutes, or until tender and slightly caramelized. Remove from oven and set aside.",
+    "In a small bowl, mix together soy sauce, lime juice, minced garlic, fish sauce (or coconut aminos), sugar, green onions, and basil leaves. Stir well to combine all ingredients.",
+    "Return the roasted carrots to your pan or a skillet with the dressing mixture, ensuring they're evenly coated. Cook over medium-high heat for 2-3 minutes until heated through and slightly thickened. Remove from heat.",
+    "Serving suggestions: Serve over steamed rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "velvety-thai-carrot-stir-fry",
+    "lazy-sunday-dinner",
+    "nut-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 9,
+    "fat": 1
+  },
+  "slug": "velvety-thai-carrot-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-thai-carrot-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T04:54:58Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "temper",
+    "primaryIngredient": "roasted vegetables",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "carrot",
+    "descriptor": "Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
