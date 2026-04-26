@@ -1,0 +1,86 @@
+{
+  "title": "Velvety Turkish Mozzarella Bruschetta",
+  "description": "A rich and velvety Turkish dish featuring fresh mozzarella, served as a brunch-friendly snack with a touch of Indian-inspired tadka for a unique twist.",
+  "cuisine": "Turkish",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "200g Turkish Mozzarella",
+      "amount": "",
+      "notes": "Feta or ricotta can be used as a substitute."
+    },
+    {
+      "name": "100ml Heavy Cream",
+      "amount": "",
+      "notes": "Ensure it’s at room temperature."
+    },
+    {
+      "name": "Juice of 2 Limes",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "A few Pinches Salt",
+      "amount": "",
+      "notes": "For seasoning."
+    },
+    {
+      "name": "Fresh Basil Leaves",
+      "amount": "10-15 leaves",
+      "notes": "Chopped for garnish."
+    },
+    {
+      "name": "Fresh Parsley Sprigs",
+      "amount": "A handful",
+      "notes": "For topping the bruschetta slices."
+    }
+  ],
+  "instructions": [
+    "In a blender, combine the heavy cream and lime juice. Blend until smooth.",
+    "Add salt to taste and blend for another 30 seconds or so.",
+    "Gently fold in the mozzarella using a spatula into the creamy mixture until well combined.",
+    "Preheat your broiler if you have one; otherwise, place slices of bread on a baking sheet.",
+    "Sprinkle some of the chopped basil leaves and fresh parsley over each slice of bread.",
+    "Pour the cheese mixture evenly over each slice. Place under the broiler for 2-3 minutes until the top is slightly golden brown and bubbly.",
+    "Remove from oven and let it rest for a couple of minutes to allow the cheese to firm up slightly.",
+    "Serve warm with additional basil leaves and parsley sprigs."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 3,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "velvety-recipe",
+    "tadka-inspired",
+    "turkish-mozzarella-bruschetta",
+    "jain-friendly-snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 9
+  },
+  "slug": "velvety-turkish-mozzarella-bruschetta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-turkish-mozzarella-bruschetta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T11:57:51Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "velvety",
+    "mood": "brunch-mood",
+    "technique": "tadka",
+    "primaryIngredient": "mozzarella",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Mozzarella",
+    "descriptor": "Velvety",
+    "dishForm": "Bruschetta"
+  }
+}
