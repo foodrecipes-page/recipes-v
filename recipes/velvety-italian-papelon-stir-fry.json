@@ -1,0 +1,89 @@
+{
+  "title": "Velvety Italian Papelon Stir-fry",
+  "description": "A nostalgic vegetarian-friendly Italian dish featuring papelon vegetables and infused with the subtle flavors of tandoor spices for a rich, velvety texture.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "papelon",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 small, sliced into rings",
+      "notes": ""
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium, cut into rounds",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium-high heat.",
+    "Add onions and garlic, sauté until translucent, about 3 minutes.",
+    "Stir in tomato paste, cook for an additional minute to reduce and intensify flavors.",
+    "Add papelon, bell peppers, and zucchini to the pan. Season with salt and pepper according to taste.",
+    "Sauté vegetables together until they start to soften and slightly brown, about 10 minutes.",
+    "Taste test and adjust seasoning if necessary, adding more tandoori spices or herbs like oregano for extra depth of flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "stir-fry",
+    "papelon",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 298,
+    "protein": 7.3,
+    "carbs": 50.5,
+    "fat": 12.4
+  },
+  "slug": "velvety-italian-papelon-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-italian-papelon-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T04:41:25Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "tandoor",
+    "primaryIngredient": "papelon",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "papelon",
+    "descriptor": "velvety",
+    "dishForm": "Stir-fry"
+  }
+}

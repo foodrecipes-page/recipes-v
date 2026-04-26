@@ -369,6 +369,19 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-italian-papelon-stir-fry",
+    "title": "Velvety Italian Papelon Stir-fry",
+    "tags": [
+      "italian",
+      "stir-fry",
+      "papelon",
+      "vegan"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 50,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-saudia-chive-stir-fry",
     "title": "Velvety Saudia Chive Stir-fry",
     "tags": [
