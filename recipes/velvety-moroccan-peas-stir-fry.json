@@ -1,0 +1,85 @@
+{
+  "title": "Velvety Moroccan Peas Stir-fry",
+  "description": "A festive moroccan dish featuring peas and pickled vegetables in a flavorful sauce that's both floral and velvety smooth, suitable for diabetics.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup of green peas",
+      "amount": "cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "1/4 cup of pickled vegetables",
+      "amount": "cup",
+      "notes": "cucumber, carrot, and radish mix"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "cloves",
+      "notes": "minced finely"
+    },
+    {
+      "name": "1 tablespoon of olive oil",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "1 teaspoon of ground cinnamon",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "1/4 teaspoon of ground ginger",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "Pinch of saffron threads",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add minced garlic and sauté for about 30 seconds until fragrant but not browned.",
+    "Stir in ground cinnamon, ground ginger, and saffron threads. Cook for another minute to allow the spices to release their flavors.",
+    "Push the spice mixture to one side of the pan and add green peas on the other side. Toss well.",
+    "Gently fold in pickled vegetables until heated through. Adjust seasoning with salt if needed.",
+    "Serve immediately as a side dish or main course, accompanied by warm bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan-peas-stir-fry",
+    "diabetic-friendly",
+    "floral-moroccan",
+    "veggie-side-dish"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 18,
+    "fat": 6
+  },
+  "slug": "velvety-moroccan-peas-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-moroccan-peas-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T10:42:50Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "pickle",
+    "primaryIngredient": "peas",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Peas",
+    "descriptor": "Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
