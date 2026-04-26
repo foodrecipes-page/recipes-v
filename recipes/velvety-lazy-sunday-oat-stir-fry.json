@@ -1,0 +1,81 @@
+{
+  "title": "Velvety Lazy-Sunday Oat Stir-fry",
+  "description": "This fermented, velvety, lazy-sunday Norwegian dish features oat milk in a low-carb-friendly stir-fry that can be prepared quickly and easily.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-carb",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "oat milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "green onion (scallion)",
+      "amount": "2 slices thinly sliced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "a few pieces, finely chopped"
+    },
+    {
+      "name": "shredded carrots",
+      "amount": "1/4 cup, julienned"
+    },
+    {
+      "name": "cucumber",
+      "amount": "half of a small cucumber, diced"
+    },
+    {
+      "name": "red pepper flakes (optional)",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat your pan over medium heat.",
+    "Drizzle some oat milk into the pan and let it slightly thicken without boiling.",
+    "Add sliced green onion to the pan, stirring occasionally until fragrant.",
+    "Fold in finely chopped ginger and julienned carrots. Continue cooking until they are almost tender.",
+    "Toss in diced cucumber and red pepper flakes (if using).",
+    "Stir-fry for about 2 minutes or until all vegetables are heated through and have absorbed the oat milk flavor.",
+    "Garnish with additional green onions if desired and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sunday",
+    "fermented",
+    "oat-milk",
+    "stir-fry",
+    "norwegian"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 3,
+    "carbs": 5,
+    "fat": 2
+  },
+  "slug": "velvety-lazy-sunday-oat-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-lazy-sunday-oat-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T15:45:13Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "blanch",
+    "primaryIngredient": "oat milk",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "oats",
+    "descriptor": "Fermented Velvety Lazy-Sunday",
+    "dishForm": "Stir-fry"
+  }
+}
