@@ -1,0 +1,97 @@
+{
+  "title": "Velvety Saudia Chive Stir-fry",
+  "description": "An earthy and velvety brunch-mood dish from Saudi Arabia featuring chives, simmered gently to create a rich, flavorful blend that's perfect for breakfast.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 onion",
+      "amount": "medium"
+    },
+    {
+      "name": "8 ounces chives, chopped",
+      "amount": ""
+    },
+    {
+      "name": "1 cup heavy cream or coconut milk (for non-dairy option)",
+      "amount": "cup"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "2 tablespoons chopped fresh parsley (optional)",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon saffron threads",
+      "amount": "teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a skillet over medium heat.",
+    "Add garlic and onion, cook until softened, about 3 minutes.",
+    "Stir in chives and lemon juice. Cook for another minute.",
+    "Pour in heavy cream or coconut milk and add salt and pepper to taste.",
+    "Simmer gently until the sauce thickens, about 5-7 minutes.",
+    "Remove from heat and stir in saffron threads (if using). Let it sit for a few more minutes to infuse flavors.",
+    "If desired, sprinkle with chopped parsley before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "saudia",
+    "chive",
+    "stir-fry",
+    "velvety",
+    "earthly",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 8,
+    "carbs": 15,
+    "fat": 9
+  },
+  "slug": "velvety-saudia-chive-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-saudia-chive-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T04:24:44Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "brunch-mood",
+    "technique": "simmer",
+    "primaryIngredient": "chives",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "Chive",
+    "descriptor": "Earthy Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
