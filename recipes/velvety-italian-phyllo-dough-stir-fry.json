@@ -1,0 +1,99 @@
+{
+  "title": "Velvety Italian Phyllo Dough Stir-Fry",
+  "description": "A crowd-pleasing Tuscan dish that combines velvety flavors and textures with the versatility of phyllo dough for a Mediterranean-friendly meal.",
+  "cuisine": "Italian (Tuscan)",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup phyllo dough",
+      "amount": "",
+      "notes": "Preferably pre-made or fresh, thawed if frozen"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": "Extra virgin for best flavor"
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "",
+      "notes": "For extra depth of flavor"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cups spinach leaves (fresh or frozen)",
+      "amount": "",
+      "notes": "Washed and dried if fresh"
+    },
+    {
+      "name": "1 can diced tomatoes with basil",
+      "amount": "",
+      "notes": "Choose a mild flavor for better umami profile"
+    },
+    {
+      "name": "1/4 cup grated Parmesan cheese",
+      "amount": "",
+      "notes": "Optional, adds extra creaminess"
+    },
+    {
+      "name": "2 tablespoons lemon juice",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Grease a baking sheet with olive oil.",
+    "Cut phyllo dough into small squares. Brush lightly with olive oil on all sides and place them on the prepared baking sheet.",
+    "Heat 2 tablespoons of olive oil in a skillet over medium heat. Add chopped onion, minced garlic, and cook until translucent.",
+    "Add spinach leaves to the skillet and sauté for about 3-4 minutes or until wilted. Season with salt and pepper.",
+    "Pour the can of diced tomatoes into the skillet, including their juices. If using Parmesan cheese, sprinkle it on top evenly. Mix well to combine all ingredients.",
+    "Remove phyllo squares from baking sheet and spoon the spinach mixture onto each square. Place back in the oven and bake for about 10-12 minutes or until golden brown and crispy.",
+    "Serve hot with lemon juice drizzled over if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tuscan",
+    "umami",
+    "phyllo-dough",
+    "stir-fry",
+    "mediterranean-friendly"
+  ],
+  "nutrition": {
+    "calories": 315,
+    "protein": 9,
+    "carbs": 26,
+    "fat": 17
+  },
+  "slug": "velvety-italian-phyllo-dough-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-italian-phyllo-dough-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T16:10:48Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "velvety",
+    "mood": "crowd-pleaser",
+    "technique": "temper",
+    "primaryIngredient": "phyllo dough",
+    "diet": "mediterranean",
+    "region": "tuscan",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "phyllo dough",
+    "descriptor": "velvety",
+    "dishForm": "Stir-fry"
+  }
+}
