@@ -1,0 +1,80 @@
+{
+  "title": "Velvety Earthy Garlic Stir-fry",
+  "description": "A comforting and earthy Ukrainian dish featuring cloves in a paleo-friendly garlic stir-fry that's perfect for a warming dinner.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "30 grams"
+    },
+    {
+      "name": "chives",
+      "amount": "handful"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil and butter in a pan over medium heat.",
+    "Add chopped onions and sauté until translucent.",
+    "Fold in minced garlic and cook for about 2 minutes, stirring frequently to prevent burning.",
+    "Stir in finely chopped chives and mix well with the garlic mixture.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately as a side dish or add more herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "paleo-friendly",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 16,
+    "carbs": 25,
+    "fat": 17
+  },
+  "slug": "velvety-earthy-garlic-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-earthy-garlic-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T17:02:20Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "comforting",
+    "technique": "braise",
+    "primaryIngredient": "cloves",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Garlic",
+    "descriptor": "Earthy Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
