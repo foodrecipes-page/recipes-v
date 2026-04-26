@@ -1,0 +1,102 @@
+{
+  "title": "Velvety Squash Soup",
+  "description": "An earthy and velvety Filipino dish featuring sake, this kid-friendly soup is both comforting and healthy.",
+  "cuisine": "Filipino",
+  "diet": [
+    "kosher",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Butternut Squash",
+      "amount": "1 medium",
+      "notes": "Peel and seed"
+    },
+    {
+      "name": "Vegetable Stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chicken Broth Concentrate (Katsuobushi or Kombu)",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Soy Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Shrimp Paste (optional)",
+      "amount": "1 packet"
+    },
+    {
+      "name": "Sake or Shaoxing Wine",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Chop onion and garlic finely.",
+    "Heat oil in a pan, sauté onion until translucent.",
+    "Add minced garlic and cook for an additional minute.",
+    "Add butternut squash, season with soy sauce, chicken broth concentrate, water, and optional shrimp paste. Stir well to combine.",
+    "Pour mixture into a baking dish. Sprinkle soy milk evenly over the top of the soup.",
+    "Bake in preheated oven until soup reaches desired consistency (about 20-30 minutes).",
+    "Garnish with fresh herbs before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "soups",
+    "korean-style",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 13,
+    "carbs": 45,
+    "fat": 7
+  },
+  "slug": "velvety-squash-soup",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-squash-soup",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T19:43:43Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "kid-friendly",
+    "technique": "bake",
+    "primaryIngredient": "sake",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Squash",
+    "descriptor": "Earthy Velvety",
+    "dishForm": "Soup"
+  }
+}

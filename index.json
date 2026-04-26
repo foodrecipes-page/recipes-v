@@ -646,6 +646,19 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-squash-soup",
+    "title": "Velvety Squash Soup",
+    "tags": [
+      "filipino",
+      "soups",
+      "korean-style",
+      "kid-friendly"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 45,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-tangy-falafel-stir-fry",
     "title": "Velvety Tangy Falafel Stir-fry",
     "tags": [
