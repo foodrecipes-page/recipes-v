@@ -1,0 +1,76 @@
+{
+  "title": "Velvety Bitter Summer Savory Leaves Stir-fry",
+  "description": "A post-workout Japanese dish featuring dehydrated summer savory leaves, seasoned with bitter flavors to enhance recovery and vitality.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Summer Savory Leaves",
+      "amount": "2 tbsp",
+      "notes": "Dried and dehydrated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Water or Shoyu (Shaoxing Wine)",
+      "amount": "30ml",
+      "notes": "Deglazing liquid, can substitute with shoyu for a richer flavor"
+    },
+    {
+      "name": "Katsuobushi (Bonito Flakes)",
+      "amount": "1 tbsp",
+      "notes": "For umami and aroma enhancement"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "5ml",
+      "notes": "For adding depth of flavor"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a wok or frying pan over medium-high heat.",
+    "Add chopped garlic to the pan and stir for about 30 seconds until fragrant but not burnt.",
+    "Deglaze the pan with water or shoyu, scraping up any browned bits from the bottom of the pan. Let it simmer for a minute.",
+    "Toss in the dried summer savory leaves and Katsuobushi. Stir-fry for about 2 minutes until all ingredients are fully incorporated and evenly cooked.",
+    "Serve immediately as a nutritious post-workout snack."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "bitter",
+    "velvety",
+    "summer-savory",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 3,
+    "carbs": 4,
+    "fat": 2
+  },
+  "slug": "velvety-bitter-summer-savory-leaves-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-bitter-summer-savory-leaves-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T21:21:21Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "velvety",
+    "mood": "post-workout",
+    "technique": "deglaze",
+    "primaryIngredient": "dried leaves of summer savoury",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Summer Savory Leaves",
+    "descriptor": "Bitter Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
