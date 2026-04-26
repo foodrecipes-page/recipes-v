@@ -646,6 +646,20 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-tangy-falafel-stir-fry",
+    "title": "Velvety Tangy Falafel Stir-fry",
+    "tags": [
+      "falafel",
+      "stir-fry",
+      "tangy",
+      "velvety",
+      "raw-friendly"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 30,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-thai-carrot-stir-fry",
     "title": "Velvety Thai Carrot Stir-fry",
     "tags": [

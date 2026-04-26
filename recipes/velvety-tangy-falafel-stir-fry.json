@@ -1,0 +1,86 @@
+{
+  "title": "Velvety Tangy Falafel Stir-fry",
+  "description": "A raw-friendly Canadian monsoon dish featuring velvety falafel and tangy sauce for a unique flavor experience.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Falafel",
+      "amount": "200 grams"
+    },
+    {
+      "name": "Tangy Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Green Peppers",
+      "amount": "3 medium, thinly sliced"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 large, finely chopped"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves, minced"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add falafel and cook until golden brown, about 5 minutes.",
+    "Stir-fry red bell peppers and green peppers for another 3-4 minutes.",
+    "Add garlic to the skillet and sauté for an additional minute.",
+    "Combine tomato paste with tangy sauce and pour over stir-fried vegetables and falafel.",
+    "Mix well until all ingredients are coated in the sauce, adjusting seasoning as needed.",
+    "Serve hot or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "falafel",
+    "stir-fry",
+    "tangy",
+    "velvety",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 29,
+    "fat": 14
+  },
+  "slug": "velvety-tangy-falafel-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-tangy-falafel-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T19:15:57Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "velvety",
+    "mood": "monsoon",
+    "technique": "simmer",
+    "primaryIngredient": "falafel",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Falafel",
+    "descriptor": "Tangy Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
