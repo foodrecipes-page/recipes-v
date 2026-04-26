@@ -1,0 +1,86 @@
+{
+  "title": "Vanilla Spiced Garlic Syrian Stir-fry",
+  "description": "A fluffy and flavorful dish featuring garlic, vanilla extract, and a touch of smokiness, perfectly suitable for diabetics.",
+  "cuisine": "Syrian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup cooked rice",
+      "amount": ""
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "",
+      "notes": "minced"
+    },
+    {
+      "name": "1/4 teaspoon ground cardamom",
+      "amount": ""
+    },
+    {
+      "name": "1/8 teaspoon ground cinnamon",
+      "amount": ""
+    },
+    {
+      "name": "1/8 teaspoon smoked paprika",
+      "amount": ""
+    },
+    {
+      "name": "2 tablespoons coconut milk",
+      "amount": ""
+    },
+    {
+      "name": "1 tablespoon vanilla extract",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium heat.",
+    "Add minced garlic and cook until fragrant, about 30 seconds.",
+    "Stir in ground cardamom, cinnamon, smoked paprika, and coconut milk. Cook for 1 minute.",
+    "Pour in vanilla extract and salt. Stir well to combine.",
+    "Serve hot over cooked rice."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 4,
+  "totalTimeMin": 9,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vanilla-spiced",
+    "garlic-syrian",
+    "diabetic-friendly",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 15,
+    "fat": 4
+  },
+  "slug": "vanilla-spiced-garlic-syrian-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/vanilla-spiced-garlic-syrian-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T18:23:22Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "fluffy",
+    "mood": "light",
+    "technique": "smoke",
+    "primaryIngredient": "vanilla extract",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Garlic",
+    "descriptor": "Vanilla Spiced",
+    "dishForm": "Stir-fry"
+  }
+}

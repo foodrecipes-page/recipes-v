@@ -53,6 +53,19 @@
     "shard": "v"
   },
   {
+    "slug": "vanilla-spiced-garlic-syrian-stir-fry",
+    "title": "Vanilla Spiced Garlic Syrian Stir-fry",
+    "tags": [
+      "vanilla-spiced",
+      "garlic-syrian",
+      "diabetic-friendly",
+      "smoky"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 9,
+    "shard": "v"
+  },
+  {
     "slug": "vegan-golden-brownie-halwa",
     "title": "Vegan Golden Brownie Halwa",
     "tags": [
