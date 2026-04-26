@@ -1,0 +1,93 @@
+{
+  "title": "Velvety Portuguese Corn Stir-fry",
+  "description": "A weeknight portuguese dish featuring corn arepa filled with mozzarella cheese, poached in a savory sauce, sugar-free-friendly.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Corn",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "1/2 cup",
+      "notes": "Sugar-free, low-fat or lactose-free if needed."
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Corn Starch",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Water",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add corn starch and water, whisk until smooth. Stir into broth.",
+    "Stir in soy sauce, garlic powder, salt, and black pepper to taste. Bring to a simmer.",
+    "Cut corn arepas into halves or quarters. Place half of the mozzarella cheese inside each.",
+    "Gently poach the filled arepas for about 2-3 minutes until cheese is melted and slightly golden.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "corn",
+    "stir-fry",
+    "mozzarella",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 29,
+    "fat": 16
+  },
+  "slug": "velvety-portuguese-corn-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-portuguese-corn-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T05:41:45Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "velvety",
+    "mood": "weeknight",
+    "technique": "poach",
+    "primaryIngredient": "corn arepa filled with mozarella cheese",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Corn",
+    "descriptor": "Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
