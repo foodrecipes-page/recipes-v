@@ -343,6 +343,19 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-indulgent-venezuelan-ham-stir-fry",
+    "title": "Velvety Indulgent Venezuelan Ham Stir-fry",
+    "tags": [
+      "indulgent",
+      "velvety",
+      "stir-fry",
+      "ham"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 25,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-saudia-chive-stir-fry",
     "title": "Velvety Saudia Chive Stir-fry",
     "tags": [

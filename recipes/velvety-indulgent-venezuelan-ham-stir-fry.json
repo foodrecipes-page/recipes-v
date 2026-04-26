@@ -1,0 +1,81 @@
+{
+  "title": "Velvety Indulgent Venezuelan Ham Stir-fry",
+  "description": "A savory and indulgent dish featuring ham with a creamy texture without eggs, perfect for a quick lunch or dinner.",
+  "cuisine": "Venezuelan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ham",
+      "amount": "100g"
+    },
+    {
+      "name": "Pimentos",
+      "amount": "2"
+    },
+    {
+      "name": "Onions",
+      "amount": "1"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Thyme Sprigs",
+      "amount": "2"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Slice the ham into thin strips and set aside.",
+    "Peel and finely chop the onions. Mince the garlic cloves.",
+    "In a small bowl, mix together the chopped onions, minced garlic, thyme sprigs, and red pepper flakes with 1 tablespoon of vegetable oil until well combined.",
+    "Heat another tablespoon of vegetable oil in a skillet over medium heat. Add the onion-garlic mixture and cook until fragrant and translucent, about 3 minutes.",
+    "Fold in the ham strips and continue to stir for an additional 2-3 minutes until heated through.",
+    "Season with salt to taste. Serve hot as a main dish or side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indulgent",
+    "velvety",
+    "stir-fry",
+    "ham"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 15,
+    "fat": 18
+  },
+  "slug": "velvety-indulgent-venezuelan-ham-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-indulgent-venezuelan-ham-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T04:32:40Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "velvety",
+    "mood": "indulgent",
+    "technique": "knead",
+    "primaryIngredient": "ham",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Ham",
+    "descriptor": "Savory Velvety Indulgent",
+    "dishForm": "Stir-fry"
+  }
+}
