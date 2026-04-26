@@ -1,0 +1,88 @@
+{
+  "title": "Velvety Thai Chicken Soup",
+  "description": "A fresh and velvety meal-prep Thai dish featuring chicken stock, tadka, and pescatarian-friendly options.",
+  "cuisine": "Thai",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken breast",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "vegetable stock cube",
+      "amount": "1 cube"
+    },
+    {
+      "name": "bell peppers, sliced",
+      "amount": "4 slices (optional)"
+    },
+    {
+      "name": "green onions, chopped",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "cilantro, chopped",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger, minced",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "tadka spices (cumin seeds, mustard seeds, fenugreek seeds)",
+      "amount": "a small amount"
+    },
+    {
+      "name": "tamarind paste or juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat a pot with tadka spices and add minced ginger and garlic. Sauté until fragrant.",
+    "Add chicken, vegetable stock, bell peppers (if using), tamarind paste or juice, and bring to a boil.",
+    "Reduce heat, cover, and simmer for about 30 minutes. Allow the soup to cool slightly before blending.",
+    "Blend the soup until smooth in batches if needed. Return it to the pot with cilantro and green onions.",
+    "Season with salt and pepper to taste, serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "velvety",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 21,
+    "carbs": 35,
+    "fat": 7
+  },
+  "slug": "velvety-thai-chicken-soup",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-thai-chicken-soup",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T00:48:44Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "velvety",
+    "mood": "meal-prep",
+    "technique": "tadka",
+    "primaryIngredient": "chicken stock",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Chicken",
+    "descriptor": "Velvety",
+    "dishForm": "Soup"
+  }
+}

@@ -342,6 +342,18 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-thai-chicken-soup",
+    "title": "Velvety Thai Chicken Soup",
+    "tags": [
+      "thai",
+      "velvety",
+      "meal-prep"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 45,
+    "shard": "v"
+  },
+  {
     "slug": "vinegar-rice-feast",
     "title": "Vinegar Rice Feast",
     "tags": [
