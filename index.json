@@ -446,6 +446,19 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-peppery-chicken-stir-fry",
+    "title": "Velvety Peppery Chicken Stir-fry",
+    "tags": [
+      "vegan",
+      "stir-fry",
+      "peppery",
+      "velvety"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-portuguese-corn-stir-fry",
     "title": "Velvety Portuguese Corn Stir-fry",
     "tags": [

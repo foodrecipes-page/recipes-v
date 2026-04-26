@@ -1,0 +1,113 @@
+{
+  "title": "Velvety Peppery Chicken Stir-fry",
+  "description": "A delicious vegan-friendly Thai dish featuring a velvety and peppery flavor profile made with chicken stock, vegetables, and spices for a solo dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 onion",
+      "amount": "medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "small",
+      "notes": "Minced"
+    },
+    {
+      "name": "1 red bell pepper",
+      "amount": "large",
+      "notes": "Sliced"
+    },
+    {
+      "name": "1 green bell pepper",
+      "amount": "medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "1 cup broccoli florets",
+      "amount": "full",
+      "notes": null
+    },
+    {
+      "name": "2 cups sliced mushrooms",
+      "amount": "full",
+      "notes": null
+    },
+    {
+      "name": "2 tablespoons soy sauce (or tamari for vegan)",
+      "amount": "full",
+      "notes": null
+    },
+    {
+      "name": "1 tablespoon fish sauce (or liquid aminos for vegan)",
+      "amount": "full",
+      "notes": null
+    },
+    {
+      "name": "2 teaspoons sesame oil",
+      "amount": "full",
+      "notes": null
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "full",
+      "notes": null
+    },
+    {
+      "name": "1 clove garlic, minced",
+      "amount": "full",
+      "notes": null
+    },
+    {
+      "name": "2 tablespoons sesame seeds (optional for garnish)",
+      "amount": "full",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large skillet over medium-high heat. Add onion and garlic, stir-fry for about 1 minute until fragrant.",
+    "Add red and green bell peppers, broccoli, and mushrooms to the wok, stir-frying for another 3 minutes.",
+    "Pour in soy sauce, fish sauce, sesame oil, and lime juice. Stir everything together well.",
+    "Stir gently for an additional 2-3 minutes until all vegetables are heated through and flavors have melded together.",
+    "Sprinkle with sesame seeds if desired before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "stir-fry",
+    "peppery",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 276,
+    "protein": 10,
+    "carbs": 33,
+    "fat": 11
+  },
+  "slug": "velvety-peppery-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-peppery-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T10:52:22Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "velvety",
+    "mood": "solo-dinner",
+    "technique": "stir-fry",
+    "primaryIngredient": "chicken stock",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Peppery Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
