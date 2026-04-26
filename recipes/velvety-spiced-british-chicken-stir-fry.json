@@ -1,0 +1,103 @@
+{
+  "title": "Velvety Spiced British Chicken Stir-fry",
+  "description": "A floral and velvety dish with a festive twist featuring garam masala, designed for high-protein-friendly meals.",
+  "cuisine": "British",
+  "diet": [
+    "high-protein-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "green bell pepper",
+      "amount": "1 medium (cut into chunks)"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium (cut into chunks)"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large (finely chopped)"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3 (minced)"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp (grated)"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1 tbsp (rice or apple cider vinegar)"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium-high heat.",
+    "Add chicken and cook until browned on all sides, about 5 minutes.",
+    "Remove chicken from the pan and set aside. Add onion and garlic to the pan; sauté for an additional minute.",
+    "Add green and red bell peppers to the pan, stir-fry for 2-3 minutes or until they start to soften.",
+    "Return chicken to the pan with vegetables. Add ginger, soy sauce, vinegar, garam masala, salt, and pepper. Stir well to combine.",
+    "Cook until most of the liquid is evaporated and the chicken is fully cooked through, about 5 more minutes.",
+    "Serve hot as a main dish or side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british-chicken-stir-fry",
+    "velvety-spiced",
+    "garam-masala",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 41,
+    "carbs": 28,
+    "fat": 9
+  },
+  "slug": "velvety-spiced-british-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-spiced-british-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T04:03:25Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "saute",
+    "primaryIngredient": "garam masala",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Chicken",
+    "descriptor": "Velvety Spiced",
+    "dishForm": "Stir-fry"
+  }
+}
