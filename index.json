@@ -343,6 +343,19 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-greek-toor-dal-stir-fry",
+    "title": "Velvety Greek Toor Dal Stir-Fry",
+    "tags": [
+      "toor dal",
+      "stir-fry",
+      "greek-style",
+      "vegan-optional"
+    ],
+    "cuisine": "Greek, Indian",
+    "totalTimeMin": 40,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-indulgent-venezuelan-ham-stir-fry",
     "title": "Velvety Indulgent Venezuelan Ham Stir-fry",
     "tags": [

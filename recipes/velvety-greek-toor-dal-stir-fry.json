@@ -1,0 +1,79 @@
+{
+  "title": "Velvety Greek Toor Dal Stir-Fry",
+  "description": "A herbal and velvety Greek-inspired dish featuring toor dal alongside pickles for a hangover-cure in a kosher-friendly meal.",
+  "cuisine": "Greek, Indian",
+  "diet": [
+    "keto",
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Toor Dal (Split Black Lentils)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Pickled Vegetables",
+      "amount": "2 tablespoons",
+      "notes": "use any variety but preferably spicy to aid hangover cure"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "2 tablespoons",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Green Chilies (optional)",
+      "amount": "4-6 pieces",
+      "notes": "adjust based on spice preference"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse and soak toor dal in water for at least 30 minutes.",
+    "Heat oil in a pan over medium heat, add turmeric powder and green chilies if using.",
+    "Add soaked toor dal, sauté for about 2-3 minutes until the dal is slightly golden.",
+    "Stir in pickled vegetables and cook for another minute.",
+    "Pour in water, enough to cover the dal, bring to a boil then reduce heat to simmer.",
+    "Simmer until dal becomes soft and creamy (approximately 15-20 minutes).",
+    "Remove from heat, stir in fresh cilantro leaves just before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "toor dal",
+    "stir-fry",
+    "greek-style",
+    "vegan-optional"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 36,
+    "fat": 9
+  },
+  "slug": "velvety-greek-toor-dal-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-greek-toor-dal-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T04:34:18Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "velvety",
+    "mood": "hangover-cure",
+    "technique": "pickle",
+    "primaryIngredient": "toor dal",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "toor dal",
+    "descriptor": "velvety",
+    "dishForm": "Stir-fry"
+  }
+}
