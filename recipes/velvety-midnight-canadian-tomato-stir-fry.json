@@ -1,0 +1,102 @@
+{
+  "title": "Velvety Midnight Canadian Tomato Stir-fry",
+  "description": "This high-protein-friendly dish features fresh tomatoes and tinned tomatoes in a creamy, velvety sauce with a tadka (Indian spice blend). Perfect for satisfying the midnight craving for something delicious and healthy.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "2 cups fresh, quartered",
+      "notes": "Use ripe tomatoes for better texture"
+    },
+    {
+      "name": "tinned tomatoes",
+      "amount": "1 can (400g)",
+      "notes": "Drained and crushed with a spoon"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium, finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4, minced",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch piece, grated",
+      "notes": ""
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "tadka spices",
+      "amount": "to taste",
+      "notes": "Including mustard seeds, cumin seeds, and fenugreek seeds"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Optional for spice"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium heat.",
+    "Add onions and sauté until translucent, about 3 minutes.",
+    "Stir in minced garlic and grated ginger. Cook for another minute until fragrant.",
+    "Add tinned tomatoes along with tadka spices. Bring to a simmer and let cook for 10 minutes.",
+    "Once the sauce has thickened slightly, stir in fresh chopped tomatoes. Simmer for an additional 5-7 minutes until most of the liquid is absorbed.",
+    "Season with salt and cayenne pepper if desired. Stir through to ensure all ingredients are evenly coated.",
+    "Serve hot as a side dish or over rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "tomato-stir-fry",
+    "vegan-friendly",
+    "high-protein",
+    "midnight-craving"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 14,
+    "carbs": 18,
+    "fat": 7
+  },
+  "slug": "velvety-midnight-canadian-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-midnight-canadian-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T12:31:07Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "velvety",
+    "mood": "midnight-craving",
+    "technique": "tadka",
+    "primaryIngredient": "tinned tomatos",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Tomato",
+    "descriptor": "Velvety Midnight",
+    "dishForm": "Stir-fry"
+  }
+}
