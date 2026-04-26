@@ -1,0 +1,92 @@
+{
+  "title": "Velvety British Vine Leaves Stir-fry",
+  "description": "A herbal and velvety quick-fix dish featuring vine leaves with a tadka seasoning for those egg-free-friendly occasions.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "vine leaves",
+      "amount": "100g",
+      "notes": "dried and rehydrated"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "asafetida powder",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "tadka seasoning (clarified butter, mustard seeds, cumin seeds, and chopped green chilies)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat tadka seasoning in clarified butter until mustard seeds start to splutter.",
+    "Add finely chopped onion and minced garlic; sauté for a minute.",
+    "Pour in tomato paste and cook for another minute.",
+    "Stir in paprika, cumin seeds, asafetida powder, and salt. Cook for 2-3 minutes.",
+    "Fold rehydrated vine leaves into the sauce and stir well until they become tender.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british-dish",
+    "vine-leaves",
+    "herbal-stir-fry",
+    "tadka-seasoning",
+    "egg-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 14,
+    "carbs": 35,
+    "fat": 9
+  },
+  "slug": "velvety-british-vine-leaves-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-british-vine-leaves-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T12:18:45Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "velvety",
+    "mood": "quick-fix",
+    "technique": "tadka",
+    "primaryIngredient": "vine leaves",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "vine leaves",
+    "descriptor": "velvety",
+    "dishForm": "Stir-fry"
+  }
+}
