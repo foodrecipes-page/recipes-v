@@ -1,0 +1,77 @@
+{
+  "title": "Velvety Smoked Spanish Garlic Stir-fry",
+  "description": "A herbal and velvety light polish dish featuring sea salt, smoke, dash-friendly flavors that come together in a quick stir-fry.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "garlic cloves",
+      "amount": "4-6",
+      "notes": "adjust based on preference"
+    },
+    {
+      "name": "red bell pepper slices",
+      "amount": "1 cup",
+      "notes": "adjust if using other vegetables"
+    },
+    {
+      "name": "sea salt flakes",
+      "amount": "to taste",
+      "notes": "use sparingly"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "a pinch",
+      "notes": "optional, for added depth of flavor"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "high smoke point recommended"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large frying pan over medium-high heat. Add the vegetable oil and swirl to coat.",
+    "Add the sliced red bell pepper and sauté for about 3 minutes until slightly softened.",
+    "Add the minced garlic cloves (adjust quantity based on preference). Stir-fry for another minute, being careful not to burn.",
+    "If using smoked paprika, add it now and stir well into the vegetables. Taste with sea salt flakes; adjust seasoning as needed.",
+    "Turn off the heat immediately after adding the sea salt. The sudden cold will help preserve the flavors and prevent burning of the garlic.",
+    "Serve hot over steamed rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish-garlic-stir-fry",
+    "smoked-paprika",
+    "light-polish-dish",
+    "dash-friendly"
+  ],
+  "nutrition": {
+    "calories": 205,
+    "protein": 4,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "velvety-smoked-spanish-garlic-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-smoked-spanish-garlic-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T10:39:16Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "smoke",
+    "primaryIngredient": "sea salt",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "garlic",
+    "descriptor": "Velvety Smoked",
+    "dishForm": "Stir-fry"
+  }
+}
