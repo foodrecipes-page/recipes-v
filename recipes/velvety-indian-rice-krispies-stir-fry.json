@@ -1,0 +1,87 @@
+{
+  "title": "Velvety Indian Rice Krispies Stir-fry",
+  "description": "A fresh and velvety vegan dish featuring rice krispies whisked into a spicy vegetable stir-fry that's perfect for sick-day meals.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rice Krispies",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Garlic cloves ( minced)",
+      "amount": "4"
+    },
+    {
+      "name": "Chopped bell peppers",
+      "amount": "1 small (red, yellow or orange)"
+    },
+    {
+      "name": "Chopped onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Fresh cilantro leaves (chopped)",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add minced garlic and sauté for about 1 minute until fragrant.",
+    "Add chopped bell peppers, onions, and cook for another 5 minutes until vegetables are softened.",
+    "Pour in vegetable broth and bring to a simmer. Let the mixture reduce for about 3-4 minutes, allowing flavors to meld together.",
+    "Fold in Rice Krispies gently with a spatula while stirring continuously to avoid breaking them up too much.",
+    "Season with salt to taste and sprinkle sesame seeds on top of the stir-fry.",
+    "Serve hot as a snack or light meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "velvety",
+    "indian",
+    "stir-fry",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 7
+  },
+  "slug": "velvety-indian-rice-krispies-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-indian-rice-krispies-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T07:05:09Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "velvety",
+    "mood": "sick-day",
+    "technique": "whisk",
+    "primaryIngredient": "rice krispies",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Rice Krispies",
+    "descriptor": "Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
