@@ -1,0 +1,81 @@
+{
+  "title": "Velvety Nutty Pistachio Bite Sizer",
+  "description": "This light Algerian dish features ready rolled shortcrust pastry encased with a velvety nutty mixture and served as an easy snack option, perfect for the whole30 diet.",
+  "cuisine": "Algerian",
+  "diet": [
+    "whole30-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ready Rolled Shortcrust Pastry Sheets",
+      "amount": "1 sheet per serving",
+      "notes": "Preferably organic if available"
+    },
+    {
+      "name": "Pistachio Paste",
+      "amount": "3 tablespoons",
+      "notes": "Available in some grocery stores or online, can be homemade from fresh pistachios and sugar"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1/2 cup",
+      "notes": "Full-fat coconut milk for creaminess"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon",
+      "notes": "Can be substituted with pure vanilla paste if available"
+    },
+    {
+      "name": "Salt",
+      "amount": "A pinch",
+      "notes": "Optional, can enhance the flavors of pistachio and coconut milk"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 180°C (350°F).",
+    "Place each sheet of pastry in a palm size circle.",
+    "Using a teaspoon, spread the pistachio paste evenly across the middle of one pastry sheet. Leave about an inch around the edge unspreaded for sealing.",
+    "Drizzle half of the coconut milk over the pistachio paste and sprinkle with a pinch of salt if using.",
+    "Place another layer of the ready rolled pastry on top, seal edges by crimping or rolling slightly over to hold in place.",
+    "Repeat steps 3-5 until all ingredients are used up. Ensure there is enough coconut milk and pistachio paste for each bite size sizer.",
+    "Bake in preheated oven for about 10-12 minutes, check every minute with a toothpick inserted into the middle to ensure it’s fully cooked (the center should be dry when done).",
+    "Remove from oven and let cool slightly before serving as an instant snack option."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "velvety-nutty-bite",
+    "algerian-dish",
+    "ready-rolled-shortcrust-pastry",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "velvety-nutty-pistachio-bite-sizer",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-nutty-pistachio-bite-sizer",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T20:08:34Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "reduce",
+    "primaryIngredient": "ready rolled shortcrust pastry",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Pistachios",
+    "descriptor": "Nutty Velvety",
+    "dishForm": "Bite Sizer"
+  }
+}
