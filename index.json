@@ -318,6 +318,19 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-chestnut-stir-fry",
+    "title": "Velvety Chestnut Stir-fry",
+    "tags": [
+      "chestnut",
+      "stir-fry",
+      "vegan",
+      "pescatarian-friendly"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 30,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-ethipian-nut-stir-fry",
     "title": "Velvety Ethipian Nut Stir-Fry",
     "tags": [

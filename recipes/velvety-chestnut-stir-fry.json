@@ -1,0 +1,97 @@
+{
+  "title": "Velvety Chestnut Stir-fry",
+  "description": "A herbal, velvety Venezuelan dish featuring slow-cooked chestnuts in a rich sauce, perfect for weeknight meals.",
+  "cuisine": "Venezuelan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canned Diced Tomatoes",
+      "amount": "1 can (400ml)"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Chopped Fresh Herbs (e.g., cilantro, parsley)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Canned Smoked Paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Ground Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Chopped Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Sliced Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Coarse Sea Salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Canned White Corned Mushrooms (or Diced Mushrooms)",
+      "amount": "1 can (400ml)"
+    },
+    {
+      "name": "Canned Smoked Salmon (optional, for pescatarian option)",
+      "amount": "2 pieces, finely chopped"
+    },
+    {
+      "name": "Roasted Chestnuts",
+      "amount": "1 cup, roughly chopped"
+    }
+  ],
+  "instructions": [
+    "Heat a tablespoon of oil in a large skillet over medium heat.",
+    "Add the finely chopped onion and minced garlic to the skillet. Sauté for about 2 minutes until fragrant but not browned.",
+    "Pour in the chicken broth and add the canned diced tomatoes, canned smoked paprika, ground black pepper, and coarse sea salt. Stir well to combine all ingredients.",
+    "Bring the mixture to a simmer and let it cook for about 10-15 minutes to allow flavors to meld together.",
+    "Add the chopped fresh herbs to the skillet. Continue cooking for an additional 2 minutes.",
+    "If using canned smoked salmon, add it to the skillet along with roasted chestnuts. Cook until heated through, about 3-5 more minutes.",
+    "Remove from heat and serve hot over steamed rice or as a side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chestnut",
+    "stir-fry",
+    "vegan",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 46,
+    "fat": 18
+  },
+  "slug": "velvety-chestnut-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-chestnut-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T05:05:03Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "velvety",
+    "mood": "weeknight",
+    "technique": "slow-cook",
+    "primaryIngredient": "cooked chestnut",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Vegetarian",
+    "mainIngredient": "Chestnut",
+    "descriptor": "Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
