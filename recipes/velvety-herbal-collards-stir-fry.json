@@ -1,0 +1,81 @@
+{
+  "title": "Velvety Herbal Collards Stir-fry",
+  "description": "A date-night Brazilian-inspired dish featuring collards cooked with a blend of herbal flavors and seasoned with high-protein-friendly proteins for added nutrition.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "high-protein",
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Collard greens",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Sous-vide chicken breasts",
+      "amount": "4 ounces each"
+    },
+    {
+      "name": "Herbs (thyme, rosemary, parsley)",
+      "amount": "to taste"
+    },
+    {
+      "name": "Soy sauce or tamari",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sea salt and black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide cooker to 160°F (71°C). Cook the chicken breasts for at least 3 hours. Let them rest before slicing into thin strips.",
+    "Heat a wok or large skillet with olive oil over medium-high heat. Add sliced garlic and cook until golden, about 2 minutes.",
+    "Add collard greens to the pan, sprinkle with salt and pepper, and stir-fry for 5-7 minutes until wilted.",
+    "Toss in herbs and soy sauce, and continue cooking for another minute. Serve hot over steamed rice or noodles.",
+    "For added protein, add sliced sous-vide chicken breasts into the wok while the collards are heating to ensure they cook evenly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "velvety",
+    "herbal",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 620,
+    "protein": 41,
+    "carbs": 38,
+    "fat": 21
+  },
+  "slug": "velvety-herbal-collards-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-herbal-collards-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T22:21:48Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "sous-vide",
+    "primaryIngredient": "collards",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Herbal",
+    "mainIngredient": "Collards",
+    "descriptor": "Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
