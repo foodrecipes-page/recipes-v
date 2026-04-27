@@ -1,0 +1,79 @@
+{
+  "title": "Velvety Middle Eastern Avocado Stir-fry",
+  "description": "This floral, velvety dish features raw vegetables in a plant-based-friendly meal-prep format, perfect for an energizing breakfast or snack.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "avocado",
+      "amount": "1 medium"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1/2"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 small"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Slice the avocado and bell pepper into thin strips. Thinly slice the zucchini and onion.",
+    "Mince the garlic finely, ensuring no big chunks remain.",
+    "Heat a pan over medium heat and add sesame oil or any neutral-flavored cooking oil to coat the bottom of the pan.",
+    "Add the minced garlic and sauté until fragrant but not browned, about 1 minute.",
+    "Add the zucchini and onion to the pan, stir-fry for about 3 minutes until they begin to soften.",
+    "Fold in the avocado and bell pepper, continue cooking for another 2-3 minutes until everything is heated through and lightly caramelized.",
+    "Remove from heat and serve immediately or store in an airtight container for meal prep."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "middle-eastern-stir-fry",
+    "floral-avocado-dish",
+    "plant-based-friendly-meal-prep"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 6,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "velvety-middle-eastern-avocado-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-middle-eastern-avocado-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T14:36:33Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "velvety",
+    "mood": "meal-prep",
+    "technique": "fold",
+    "primaryIngredient": "raw vegetables",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "avocado",
+    "descriptor": "Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
