@@ -374,6 +374,20 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-beef-stir-fry",
+    "title": "Velvety Beef Stir-fry",
+    "tags": [
+      "velvety-beef-stir-fry",
+      "cozy-mexican-dish",
+      "beef-gravy",
+      "mexican-spice",
+      "dairy-free-friendly"
+    ],
+    "cuisine": "Mexican (Oaxacan)",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-bitter-pepper-stir-fry",
     "title": "Velvety Bitter Pepper Stir-fry",
     "tags": [
