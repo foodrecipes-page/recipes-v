@@ -1,0 +1,93 @@
+{
+  "title": "Velvety Nostalgic Korean Beetroot Stir-fry",
+  "description": "A spicy and velvety Korean dish featuring beetroot cooked in a vegetable stock cube with high-protein-friendly elements.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 large beetroot",
+      "amount": "1",
+      "notes": "Chopped and peeled"
+    },
+    {
+      "name": "2 cups of water",
+      "amount": "2",
+      "notes": "For the vegetable stock cube mix"
+    },
+    {
+      "name": "1/4 cup vegetable stock cube",
+      "amount": "1/4",
+      "notes": "Contains high-protein ingredients"
+    },
+    {
+      "name": "1 tablespoon soy sauce",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Pinch of red pepper flakes",
+      "amount": "pinch",
+      "notes": "For the spicy kick"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "1/4 cup chopped green onions",
+      "amount": "1/4",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "as needed",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Boil the water and add the vegetable stock cube, bring to a boil then reduce heat. Simmer for about 5 minutes.",
+    "Peel and chop the beetroot into small pieces, adding them to the simmering broth along with garlic and red pepper flakes. Stir occasionally.",
+    "Once the beetroot is cooked through and has absorbed the flavors from the stock cube, add soy sauce for a savory twist. Adjust seasoning if needed.",
+    "Gently heat some oil in a pan over medium heat. Add chopped green onions to sauté lightly but do not burn them.",
+    "Distribute the cooked beetroot with its broth evenly on top of the sautéed green onions, garnishing as desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "velvety",
+    "nostalgic",
+    "korean",
+    "beetroot",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 16,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "velvety-nostalgic-korean-beetroot-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-nostalgic-korean-beetroot-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T10:04:43Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "boil",
+    "primaryIngredient": "vegetable stock cube",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "beetroot",
+    "descriptor": "Spicy Velvety Nostalgic",
+    "dishForm": "Stir-fry"
+  }
+}
