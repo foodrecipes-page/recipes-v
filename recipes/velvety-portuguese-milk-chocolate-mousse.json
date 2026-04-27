@@ -1,0 +1,84 @@
+{
+  "title": "Velvety Portuguese Milk Chocolate Mousse",
+  "description": "A decadent and energizing treat with a hint of umami, this milk chocolate mousse is rich, creamy, and perfect for dessert.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "milk chocolate",
+      "amount": "100g"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "250ml"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "30g"
+    },
+    {
+      "name": "sugar-free sweetener of choice (optional)",
+      "amount": "to taste"
+    },
+    {
+      "name": "whole egg",
+      "amount": "2"
+    },
+    {
+      "name": "egg yolks",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 160°C (320°F).",
+    "Melt the milk chocolate in a heatproof bowl over a pot of simmering water.",
+    "Beat the butter until creamy. Add melted chocolate and mix well.",
+    "In a separate bowl, whisk egg yolks with vanilla extract until thick and pale yellow.",
+    "Fold in the melted chocolate mixture gradually into the yolk mixture using a spatula.",
+    "Gently fold in whole eggs one at a time until fully incorporated.",
+    "Pour the mixture into ramekins or a baking dish.",
+    "Place the ramekins on a tray and bake for 20-25 minutes, or until the mousse is set but still soft to touch.",
+    "Allow to cool before serving. Optionally sweeten with sugar-free sweetener as desired.",
+    "Serve immediately or refrigerate until cold."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese-dessert",
+    "milk-chocolate-mousse",
+    "energizing-dessert",
+    "sweet-and-creamy"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 18
+  },
+  "slug": "velvety-portuguese-milk-chocolate-mousse",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-portuguese-milk-chocolate-mousse",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T22:15:02Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "velvety",
+    "mood": "energizing",
+    "technique": "roast",
+    "primaryIngredient": "milk chocolate",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "milk chocolate",
+    "descriptor": "velvety",
+    "dishForm": "mousse"
+  }
+}
