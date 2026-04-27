@@ -1,0 +1,104 @@
+{
+  "title": "Velvety Chinese Plum Tomatoes Stir-fry",
+  "description": "A one-pot Mediterranean-friendly dish featuring velvety plum tomatoes with a touch of umami and sweetness from pickled vegetables, perfect for a quick weeknight dinner.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 tablespoons soy sauce",
+      "amount": "Tbsp"
+    },
+    {
+      "name": "1 tablespoon rice vinegar",
+      "amount": "Tbsp"
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "medium"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "large"
+    },
+    {
+      "name": "10 plum tomatoes, halved",
+      "amount": "large"
+    },
+    {
+      "name": "1 red bell pepper, sliced",
+      "amount": "small"
+    },
+    {
+      "name": "2 tablespoons sesame oil",
+      "amount": "Tbsp"
+    },
+    {
+      "name": "2 scallions, chopped",
+      "amount": "medium"
+    },
+    {
+      "name": "1/4 cup pickled ginger and spring onion mixture",
+      "amount": "large"
+    },
+    {
+      "name": "1/4 cup pickled carrots and red onions (optional)",
+      "amount": "large"
+    },
+    {
+      "name": "2 tablespoons oyster sauce (or soy sauce for non-vegetarians)",
+      "amount": "Tbsp"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a wok or large frying pan over medium-high heat.",
+    "Add onions and garlic, stir-fry for about 2 minutes until fragrant.",
+    "Add plum tomatoes, red bell pepper, oyster sauce, and salt. Stir well to combine all ingredients.",
+    "Pour in soy sauce and rice vinegar. Increase heat to high, bring the mixture to a boil.",
+    "Reduce heat to low, cover the pan, let it simmer for about 10 minutes or until the liquid is reduced slightly and flavors are well combined.",
+    "Remove from heat, add pickled ginger and spring onion mixture and scallions. Stir gently to combine with vegetables.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "velvety",
+    "umami",
+    "one-pot",
+    "chinese",
+    "tomatoes",
+    "plum",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 6,
+    "carbs": 23,
+    "fat": 4
+  },
+  "slug": "velvety-chinese-plum-tomatoes-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-chinese-plum-tomatoes-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T01:16:24Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "velvety",
+    "mood": "one-pot",
+    "technique": "pickle",
+    "primaryIngredient": "plum tomatoes",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Plum Tomatoes",
+    "descriptor": "Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
