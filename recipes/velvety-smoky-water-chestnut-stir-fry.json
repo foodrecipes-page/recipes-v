@@ -1,0 +1,80 @@
+{
+  "title": "Velvety Smoky Water Chestnut Stir-fry",
+  "description": "A velvety smoky water chestnut dish perfect for a solo dinner with its rich and comforting flavors.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "water chestnuts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 tbsp fresh, grated"
+    },
+    {
+      "name": "green chili peppers",
+      "amount": "4-5 pcs, finely chopped"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "handful, roughly torn"
+    },
+    {
+      "name": "low sodium soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rock sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2-3 tbsp"
+    }
+  ],
+  "instructions": [
+    "Boil water chestnuts in salted water for about 5 minutes, then drain and set aside.",
+    "Heat a wok or large frying pan with vegetable oil over medium-high heat. Add chopped green chili peppers and stir-fry until slightly softened.",
+    "Add grated ginger to the pan and cook for another minute until fragrant.",
+    "Stir in low sodium soy sauce and rock sugar, then add boiled water chestnuts. Stir everything together well.",
+    "Reduce heat to medium-low and simmer for about 5 minutes or until mixture thickens.",
+    "Garnish with basil leaves just before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "velvety",
+    "smoky",
+    "water chestnut",
+    "solo-dinner"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 3
+  },
+  "slug": "velvety-smoky-water-chestnut-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-smoky-water-chestnut-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T18:11:27Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "velvety",
+    "mood": "solo-dinner",
+    "technique": "whisk",
+    "primaryIngredient": "water chestnut",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Water Chestnut",
+    "descriptor": "Smoky Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
