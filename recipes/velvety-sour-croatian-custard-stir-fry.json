@@ -1,0 +1,83 @@
+{
+  "title": "Velvety Sour Croatian Custard Stir-fry",
+  "description": "A unique and flavorful dish that blends the velvety texture of a custard with the sour notes and spices of Croatian cuisine, served as a savory starter or light meal.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Custard Powder",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1/3 cup"
+    },
+    {
+      "name": "Ginger Paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cilantro Leaves",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Paprika Powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, whisk together custard powder and chicken broth until no lumps remain.",
+    "Add sour cream and mix well. Stir in ginger paste, cilantro leaves, paprika powder, turmeric powder, and salt.",
+    "Heat some oil in a small pan over medium heat. Pour the custard mixture into the pan and stir continuously for about 2-3 minutes or until it thickens to your desired consistency.",
+    "Serve hot as a side dish with grilled meats or as an appetizer."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 4,
+  "totalTimeMin": 9,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "velvety",
+    "sour",
+    "croatian",
+    "custard",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 4,
+    "carbs": 6,
+    "fat": 1
+  },
+  "slug": "velvety-sour-croatian-custard-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-sour-croatian-custard-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T14:51:50Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "velvety",
+    "mood": "monsoon",
+    "technique": "tandoor",
+    "primaryIngredient": "custard",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "custard",
+    "descriptor": "sour velvety dash-friendly",
+    "dishForm": "Stir-fry"
+  }
+}
