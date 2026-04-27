@@ -1,0 +1,85 @@
+{
+  "title": "Vanilla Smoke Argentinian Dates Pudding",
+  "description": "This decadent date-night dish combines the rich flavors of fermented dates with a subtle hint of smoke and creamy vanilla to create a light, indulgent vegetarian-friendly dessert.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "12-15 medium-sized dates"
+    },
+    {
+      "name": "vanilla bean",
+      "amount": "1 whole, split in half"
+    },
+    {
+      "name": "almond milk or coconut milk",
+      "amount": "400ml"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "80ml"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "vanilla bean puree (optional)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "caster sugar or honey",
+      "amount": "3 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Rinse and pit the dates. Place them in a mixing bowl.",
+    "Add almond milk, coconut cream, vanilla extract, optional vanilla bean puree, unsweetened cocoa powder, and sugar. Mix well with hands or wooden spoon until the mixture is smooth and sticky.",
+    "Transfer the mixture into a shallow dish and place it in a preheated oven at 200°C for about 45 minutes to an hour until the outside turns golden brown and crispy, while keeping the inside soft and moist. Alternatively, use a deep fryer or air fryer for similar results.",
+    "Serve immediately with whipped cream or coconut ice cream on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vanilla",
+    "smoke",
+    "argentinian",
+    "dessert",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 523,
+    "protein": 10,
+    "carbs": 74,
+    "fat": 25
+  },
+  "slug": "vanilla-smoke-argentinian-dates-pudding",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/vanilla-smoke-argentinian-dates-pudding",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T02:14:58Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "light",
+    "mood": "date-night",
+    "technique": "smoke",
+    "primaryIngredient": "vanilla",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Dates",
+    "descriptor": "Vanilla Smoke",
+    "dishForm": "Pudding"
+  }
+}
