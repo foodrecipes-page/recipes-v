@@ -1,0 +1,91 @@
+{
+  "title": "Vegan Gooey Garlic Slovakian Stir-fry",
+  "description": "A kid-friendly vegan dish featuring green beans caramelized with garlic and other vegetables for a savory and gooey flavor profile suitable for young eaters.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Green beans",
+      "amount": "1 cup fresh"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6, minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable oil or vegan butter",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Balsamic vinegar or lemon juice",
+      "amount": "1-2 tbsp (for glazing)"
+    },
+    {
+      "name": "Nutritional yeast",
+      "amount": "optional, for vegan cheese flavoring"
+    }
+  ],
+  "instructions": [
+    "Trim the ends off the green beans and cut them into bite-sized pieces.",
+    "Chop the onion finely. Peel and mince the garlic cloves.",
+    "In a large skillet or wok, heat the oil over medium-high heat until shimmering.",
+    "Add the onions to the hot pan and cook for about 2 minutes until softened.",
+    "Stir in the minced garlic and cook for an additional minute until fragrant but not burnt.",
+    "Pour in the tomato paste and stir continuously to prevent burning. Cook for about 1-2 minutes.",
+    "Add the green beans, salt, and pepper to taste. Stir well to combine with the vegetables and sauce.",
+    "If using nutritional yeast for vegan cheese flavoring, sprinkle it over the top now.",
+    "Reduce heat to medium-low and cook the mixture, stirring occasionally, until the green beans are tender and slightly caramelized on all sides, about 10-15 minutes.",
+    "Drizzle with balsamic vinegar or lemon juice towards the end of cooking to glaze and enhance the flavor. Cook for an additional minute, allowing the liquid to evaporate into a sticky glaze if desired.",
+    "Serve hot as a side dish or main course with crusty bread on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlic",
+    "glazed",
+    "kid-friendly",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 23,
+    "fat": 7
+  },
+  "slug": "vegan-gooey-garlic-slovakian-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/vegan-gooey-garlic-slovakian-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T17:49:52Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "gooey",
+    "mood": "kid-friendly",
+    "technique": "caramelize",
+    "primaryIngredient": "green beans",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Garlic",
+    "descriptor": "Gooey Vegan",
+    "dishForm": "Stir-fry"
+  }
+}

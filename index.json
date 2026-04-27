@@ -136,6 +136,19 @@
     "shard": "v"
   },
   {
+    "slug": "vegan-gooey-garlic-slovakian-stir-fry",
+    "title": "Vegan Gooey Garlic Slovakian Stir-fry",
+    "tags": [
+      "garlic",
+      "glazed",
+      "kid-friendly",
+      "vegan"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
     "slug": "vegan-salt-cod-delight",
     "title": "Vegan Salt Cod Delight",
     "tags": [
