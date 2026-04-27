@@ -1,0 +1,97 @@
+{
+  "title": "Velvety Indulgent Kenyan Garlic Stir-fry",
+  "description": "This low-calorie-friendly dish features dark rum and garlic to create a velvety, indulgent flavor profile that is perfect for a special dinner or dessert.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dark Rum",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "6-8 pieces"
+    },
+    {
+      "name": "Minced Onion",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Almond Flakes",
+      "amount": "30g"
+    },
+    {
+      "name": "Dark Chocolate Chips",
+      "amount": "50g"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "250ml"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "3 tsp"
+    },
+    {
+      "name": "Ground Cinnamon",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Blend the Dark Rum, minced onion, salt, and brown sugar in a small bowl until smooth.",
+    "In a wok or large skillet, heat oil over medium-high heat. Add garlic cloves, ground cinnamon, and blend mixture from step 1. Stir-fry for about 2 minutes until fragrant.",
+    "Add sesame seeds, almond flakes, dark chocolate chips, and Sesame Seeds to the pan. Toss ingredients together well.",
+    "Pour in coconut milk and stir continuously until a thick velvety sauce forms around the edges of the wok or skillet. Reduce heat to low and simmer for about 5 minutes.",
+    "Remove from heat and serve immediately with a side of dark rum ice cream if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "velvety-indulgent-kenyan-dish",
+    "garlicky",
+    "indulgent",
+    "dark-rum-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 47,
+    "fat": 20
+  },
+  "slug": "velvety-indulgent-kenyan-garlic-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-indulgent-kenyan-garlic-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T07:40:05Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "velvety",
+    "mood": "indulgent",
+    "technique": "cure",
+    "primaryIngredient": "dark rum",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Garlic",
+    "descriptor": "Velvety Indulgent",
+    "dishForm": "Stir-fry"
+  }
+}

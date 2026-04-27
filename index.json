@@ -553,6 +553,19 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-indulgent-kenyan-garlic-stir-fry",
+    "title": "Velvety Indulgent Kenyan Garlic Stir-fry",
+    "tags": [
+      "velvety-indulgent-kenyan-dish",
+      "garlicky",
+      "indulgent",
+      "dark-rum-friendly"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-indulgent-venezuelan-ham-stir-fry",
     "title": "Velvety Indulgent Venezuelan Ham Stir-fry",
     "tags": [
