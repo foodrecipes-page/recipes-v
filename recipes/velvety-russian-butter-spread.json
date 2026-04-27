@@ -1,0 +1,61 @@
+{
+  "title": "Velvety Russian Butter Spread",
+  "description": "A buttery and velvety spread perfect for kids featuring cider vinegar and pickle. Whole30-friendly.",
+  "cuisine": "Russian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dill pickle, finely chopped",
+      "amount": "1 oz"
+    }
+  ],
+  "instructions": [
+    "Melt the unsalted butter in a saucepan over low heat.",
+    "Add apple cider vinegar and dill pickle to the melted butter. Stir until well combined.",
+    "Remove from heat immediately and let cool slightly before spreading."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "velvety-russian-butter-spread",
+    "unsweetened-apple-cider-vinegar"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 7,
+    "carbs": 16,
+    "fat": 20
+  },
+  "slug": "velvety-russian-butter-spread",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-russian-butter-spread",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T22:34:53Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "velvety",
+    "mood": "kid-friendly",
+    "technique": "pickle",
+    "primaryIngredient": "cider vinegar",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Butter",
+    "descriptor": "Velvety",
+    "dishForm": "Spread"
+  }
+}
