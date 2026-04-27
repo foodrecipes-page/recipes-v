@@ -1,0 +1,102 @@
+{
+  "title": "Velvety Tangy Norwegian Rocket Stir-fry",
+  "description": "A tangy and velvety brunch dish featuring rocket with a pressure-cooking twist for halal-friendly convenience.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "rocket",
+      "amount": "2 cups fresh, chopped"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "4 pieces, diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6, minced"
+    },
+    {
+      "name": "ginger root",
+      "amount": "1 thumb-sized piece, finely grated"
+    },
+    {
+      "name": "tahini sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons fresh"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium heat.",
+    "Add garlic and ginger, sauté for about 1 minute until fragrant.",
+    "Add diced chicken and cook until browned on all sides.",
+    "Stir in rocket, tahini sauce, lime juice, soy sauce, rice vinegar, salt, and pepper. Mix well to coat vegetables and chicken evenly.",
+    "Cook under high pressure for approximately 30 seconds (adjust as needed based on your pressure cooker’s manual).",
+    "Open the lid carefully and let it sit for another minute before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "velvety",
+    "tangy",
+    "norwegian",
+    "rocket",
+    "stir-fry",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 537,
+    "protein": 29,
+    "carbs": 48,
+    "fat": 18
+  },
+  "slug": "velvety-tangy-norwegian-rocket-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-tangy-norwegian-rocket-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T20:25:09Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "velvety",
+    "mood": "brunch-mood",
+    "technique": "pressure-cook",
+    "primaryIngredient": "rocket",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Rocket",
+    "descriptor": "Tangy Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
