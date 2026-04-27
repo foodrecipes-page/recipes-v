@@ -447,6 +447,19 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-garlicky-melon-stir-fry",
+    "title": "Velvety Garlicky Melon Stir-fry",
+    "tags": [
+      "velvety-garlicky-melon-stir-fry",
+      "light-turkish-dish",
+      "bhuna-sauce",
+      "dash-friendly"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 25,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-greek-toor-dal-stir-fry",
     "title": "Velvety Greek Toor Dal Stir-Fry",
     "tags": [

@@ -1,0 +1,87 @@
+{
+  "title": "Velvety Garlicky Melon Stir-fry",
+  "description": "A light Turkish dish featuring melons in a garlicky bhuna sauce, perfect for a light summer meal.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 medium cantaloupe or honeydew melon",
+      "amount": "each",
+      "notes": "rind removed, diced thinly"
+    },
+    {
+      "name": "1 small onion",
+      "amount": "1",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "minced finely"
+    },
+    {
+      "name": "2 tbsp vegetable oil",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "required for seasoning"
+    },
+    {
+      "name": "1/4 tsp cumin seeds",
+      "amount": "optional for flavoring"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "to season"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "a few for garnish"
+    }
+  ],
+  "instructions": [
+    "Cut the melons into thin slices and dice them finely.",
+    "In a pan, heat oil over medium-high heat. Add cumin seeds if using and toast until fragrant (about 30 seconds).",
+    "Add onions to the pan, cook for about 5 minutes until softened.",
+    "Stir in garlic and cook for another minute until fragrant.",
+    "Gently add melon slices to the pan and stir-fry for about 2-3 minutes or until they start to soften slightly.",
+    "Pour in lemon juice, salt, and stir well to combine. Cook for an additional 1-2 minutes to allow flavors to meld together.",
+    "Serve hot with fresh mint leaves on top as a garnish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "velvety-garlicky-melon-stir-fry",
+    "light-turkish-dish",
+    "bhuna-sauce",
+    "dash-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 26,
+    "fat": 4
+  },
+  "slug": "velvety-garlicky-melon-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-garlicky-melon-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T01:02:49Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "bhuna",
+    "primaryIngredient": "melons",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Melon",
+    "descriptor": "Garlicky Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
