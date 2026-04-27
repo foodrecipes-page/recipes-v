@@ -1,0 +1,83 @@
+{
+  "title": "Velvety Cozy Moroccan Garlic Stir-fry",
+  "description": "A salty and velvety Moroccan garlic dish featuring dill for a cozy flavor profile that's dash-friendly.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dill sprigs",
+      "amount": "a few"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "water or broth",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add garlic and onions, sauté for about 2 minutes until softened but not browned.",
+    "Stir in tomato paste and cook for another minute to release flavors.",
+    "Season with salt, paprika, and the dill sprigs. Add water or broth if needed to thin out the mixture.",
+    "Mix well and let it simmer for a couple of minutes to meld the flavors together."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "garlic",
+    "stir-fry",
+    "cozy"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 7,
+    "carbs": 25,
+    "fat": 6
+  },
+  "slug": "velvety-cozy-moroccan-garlic-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-cozy-moroccan-garlic-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T14:22:48Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "velvety",
+    "mood": "cozy",
+    "technique": "temper",
+    "primaryIngredient": "dill",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Garlic",
+    "descriptor": "Salty Velvety Cozy",
+    "dishForm": "Stir-fry"
+  }
+}
