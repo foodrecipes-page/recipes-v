@@ -1,0 +1,80 @@
+{
+  "title": "Velvety Lazy Sunday Oreo Biscuits",
+  "description": "This earthy and velvety American dish features a keto-friendly version of Oreos poached in a rich cream mixture to create soft, pillowy biscuits that are perfect for lazy Sundays.",
+  "cuisine": "American",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup heavy whipping cream",
+      "amount": "cup",
+      "notes": "Ensure it's at room temperature"
+    },
+    {
+      "name": "2 tablespoons unsalted butter",
+      "amount": "tablespoons",
+      "notes": "At room temperature"
+    },
+    {
+      "name": "4 oz (about 5-6 oreos, crushed and slightly softened by hand or in the microwave)",
+      "amount": "oz (approximate weight)"
+    },
+    {
+      "name": "1 tablespoon lemon juice",
+      "amount": "tablespoon",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, combine heavy cream and softened butter. Stir gently until the butter is fully melted.",
+    "Gently fold in crushed Oreos using a spatula or your hands (be careful as they will be hot).",
+    "Sprinkle with lemon juice and salt. Mix well to incorporate all ingredients evenly.",
+    "Pour mixture into a shallow baking dish, cover loosely with plastic wrap, and let it sit at room temperature for about 15 minutes to infuse flavors.",
+    "Preheat oven to 320°F (160°C). Carefully pour the mixture into an oven-safe dish that can fit inside a larger pan for poaching. Place this in another pan with enough hot water to come halfway up the sides of your smaller dish, ensuring it's at least 2 inches deep.",
+    "Cover loosely and place in the preheated oven. Bake for about 15 minutes, or until mixture is set but still slightly jiggly in the middle (you can use a toothpick to check).",
+    "Remove from heat and let cool before using a spoon or melon baller to transfer each bite-sized 'biscuit' onto a serving plate. Serve immediately as you would with regular Oreos.",
+    "Optional: You can also garnish with fresh mint leaves for an extra touch of earthiness."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "velvety",
+    "lazy-sunday",
+    "oreo-biscuits",
+    "poached",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 1,
+    "carbs": 6,
+    "fat": 3
+  },
+  "slug": "velvety-lazy-sunday-oreo-biscuits",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-lazy-sunday-oreo-biscuits",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T04:19:42Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "poach",
+    "primaryIngredient": "oreo cream biscuits",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Oreos",
+    "descriptor": "Velvety Lazy Sunday",
+    "dishForm": "Biscuits"
+  }
+}
