@@ -1,5 +1,19 @@
 [
   {
+    "slug": "vanilla-creamy-spanish-chicken-stir-fry",
+    "title": "Vanilla Creamy Spanish Chicken Stir-fry",
+    "tags": [
+      "vanilla",
+      "sous-vide",
+      "spanish-chicken",
+      "kid-friendly",
+      "light-dish"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
     "slug": "vanilla-date-bliss",
     "title": "Vanilla Date Bliss",
     "tags": [

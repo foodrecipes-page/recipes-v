@@ -1,0 +1,87 @@
+{
+  "title": "Vanilla Creamy Spanish Chicken Stir-fry",
+  "description": "A light and kid-friendly Spanish dish featuring sous-vide cooked chicken with a hint of vanilla extract for added flavor in this high-protein-friendly meal.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sous-vide cooked chicken",
+      "amount": "1 serving",
+      "notes": "Use the recommended portion from your sous-vide cooker instructions."
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "4 oz (118 ml)"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Red bell pepper, thinly sliced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Green onions, finely chopped",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ginger, minced",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Combine vanilla extract and chicken broth in a small saucepan. Bring to a simmer over medium heat until the mixture thickens slightly, about 5 minutes.",
+    "Add rice vinegar and stir well to combine with the vanilla broth.",
+    "Heat olive oil in a wok or large skillet over high heat. Add sliced red bell pepper and green onions; sauté for about 2 minutes.",
+    "Add minced ginger and continue cooking until fragrant, about 1 minute.",
+    "Gently fold in the sous-vide cooked chicken pieces to warm them through evenly.",
+    "Pour the vanilla broth mixture over the chicken and vegetables. Cook until the sauce thickens slightly around the edges of the wok.",
+    "Serve hot as a light dinner dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vanilla",
+    "sous-vide",
+    "spanish-chicken",
+    "kid-friendly",
+    "light-dish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 45,
+    "carbs": 16,
+    "fat": 9
+  },
+  "slug": "vanilla-creamy-spanish-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/vanilla-creamy-spanish-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T07:59:14Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "light",
+    "mood": "kid-friendly",
+    "technique": "sous-vide",
+    "primaryIngredient": "vanilla extract",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "Vanilla Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
