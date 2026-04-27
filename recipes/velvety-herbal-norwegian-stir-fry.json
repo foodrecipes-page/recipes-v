@@ -1,0 +1,89 @@
+{
+  "title": "Velvety Herbal Norwegian Stir-fry",
+  "description": "A sick-day-friendly herbal stir-fry featuring a blend of aromatic herbs and a touch of spice, made in a vinaigrette-style dressing with sriracha for extra heat, suitable for vegans.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup kale",
+      "amount": "chopped"
+    },
+    {
+      "name": "1 cup baby spinach",
+      "amount": "chopped"
+    },
+    {
+      "name": "1/4 cup mixed herbs (rosemary, thyme, dill)",
+      "amount": "",
+      "notes": "Wash and dry leaves thoroughly."
+    },
+    {
+      "name": "2 tablespoons sesame oil",
+      "amount": "seas",
+      "notes": "To taste."
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "minced"
+    },
+    {
+      "name": "1/4 cup soy sauce (vegan)",
+      "amount": "",
+      "notes": "Replace with lemon juice for a non-fermented option."
+    },
+    {
+      "name": "2 tablespoons sriracha",
+      "amount": "",
+      "notes": "Adjust to taste for heat level."
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "",
+      "notes": "For brightening flavor."
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a wok or large skillet over medium-high heat.",
+    "Add minced garlic and cook until fragrant, about 30 seconds.",
+    "Add chopped kale and baby spinach to the wok; cover and cook for 2-3 minutes until wilted but still crisp.",
+    "Stir in mixed herbs and cook for another minute.",
+    "Pour in soy sauce (or lemon juice) and sriracha. Stir well to combine all ingredients.",
+    "Squeeze in lime juice, adjust seasoning with salt if needed, and serve immediately over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "herbal",
+    "velvety",
+    "norwegian"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 18,
+    "carbs": 52,
+    "fat": 9
+  },
+  "slug": "velvety-herbal-norwegian-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-herbal-norwegian-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T07:13:34Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "velvety",
+    "mood": "sick-day",
+    "technique": "fold",
+    "primaryIngredient": "sriracha",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Herbs",
+    "descriptor": "Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
