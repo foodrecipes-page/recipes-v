@@ -1,0 +1,89 @@
+{
+  "title": "Velvety Chinese Tuna Stir-fry",
+  "description": "A kid-friendly and low-calorie friendly Chinese dish featuring tuna in a velvety sauce, perfect for lunch or dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tuna",
+      "amount": "1 can (400g)",
+      "notes": "Drain and rinse"
+    },
+    {
+      "name": "Water chestnuts",
+      "amount": "20g",
+      "notes": "Soaked in water for 30 minutes"
+    },
+    {
+      "name": "Green onions",
+      "amount": "15g",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "30ml"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "20ml"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "10g",
+      "notes": "Grated finely"
+    },
+    {
+      "name": "Shallots",
+      "amount": "2 pieces",
+      "notes": "Sliced thinly"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium-high heat.",
+    "Add garlic, ginger, and shallots; sauté for about 1 minute until fragrant.",
+    "Push the vegetables to one side of the pan, add tuna, and cook until it's heated through, stirring occasionally (about 2 minutes).",
+    "Stir in soy sauce evenly over the tuna, then mix in water chestnuts. Cook for another 2-3 minutes until the sauce starts thickening.",
+    "Garnish with chopped green onions before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "velvety-chinese-tuna-stir-fry",
+    "low-calorie-friendly-dish"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 26,
+    "carbs": 5,
+    "fat": 7
+  },
+  "slug": "velvety-chinese-tuna-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-chinese-tuna-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T08:09:29Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "velvety",
+    "mood": "kid-friendly",
+    "technique": "tandoor",
+    "primaryIngredient": "tuna",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Tuna",
+    "descriptor": "Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
