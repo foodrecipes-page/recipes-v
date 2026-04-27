@@ -1,0 +1,73 @@
+{
+  "title": "Vanilla Crispy Ukrainian Vilachi Creme",
+  "description": "A fermented, crunchy, adventurous Ukrainian dish featuring vanilla and a tandoor-inspired twist, high in protein-friendly for an adventurous breakfast or snack.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "high-protein",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Almond Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Fermented Flaxseed Paste",
+      "amount": "1/4 cup",
+      "notes": "Made by mixing flaxseeds with water and allowing to ferment for at least 24 hours."
+    },
+    {
+      "name": "Vanilla Powder",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "6 tablespoons",
+      "notes": "For crispiness."
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 180°C (350°F).",
+    "Mix almond flour, fermented flaxseed paste, and vanilla powder until fully combined.",
+    "Add coconut oil gradually while mixing to achieve a spreadable consistency. Be careful not to overwork the mixture as this can make it too dense for your taste preference.",
+    "Press the mixture into a lined 8-inch square baking dish or mold for even spreading.",
+    "Bake in preheated oven for 20-25 minutes, until golden brown and crispy on top. Allow to cool completely before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "vanilla",
+    "crispy",
+    "fermented",
+    "ukrainian",
+    "tandoori"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 24,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "vanilla-crispy-ukrainian-vilachi-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/vanilla-crispy-ukrainian-vilachi-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T16:42:59Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crunchy",
+    "mood": "adventurous",
+    "technique": "tandoor",
+    "primaryIngredient": "vanilla",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Vilachi",
+    "descriptor": "Vanilla Crispy",
+    "dishForm": "Crumble"
+  }
+}
