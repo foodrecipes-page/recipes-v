@@ -1,0 +1,87 @@
+{
+  "title": "Velvety Bitter Pepper Stir-fry",
+  "description": "This hearty and comforting dish combines the perfect balance of bitterness from roasted peppers with a touch of sweetness from caramelized onions and garlic for an Irish-inspired diabetic-friendly meal.",
+  "cuisine": "Irish",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "8 oz (225g) sweet potato, diced",
+      "amount": "",
+      "notes": "Use a lower starch variety if diabetic-friendly is important."
+    },
+    {
+      "name": "4 medium red bell peppers, roasted and peeled",
+      "amount": "",
+      "notes": "Roasted in the oven at 400°F (205°C) for about 30 minutes until charred on the outside."
+    },
+    {
+      "name": "6 garlic cloves, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 large onion, diced",
+      "amount": ""
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": ""
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (205°C). Cut sweet potatoes into cubes and place them on a baking sheet. Roast for about 15-20 minutes until tender but not falling apart.",
+    "In another pan, add olive oil over medium heat. Once the oil is hot, add minced garlic and diced onions. Cook until soft and translucent, stirring occasionally to prevent burning.",
+    "Add roasted red bell peppers and sweet potatoes to the onion mixture. Stir in salt, pepper, and lemon juice. Adjust seasoning according to taste.",
+    "Serve warm as a side dish or over a bed of quinoa for a complete meal."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "bitter-pepper",
+    "velvety",
+    "stir-fry",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 14,
+    "carbs": 57,
+    "fat": 9
+  },
+  "slug": "velvety-bitter-pepper-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-bitter-pepper-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T09:12:09Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "toast",
+    "primaryIngredient": "roasted pepper",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Pepper",
+    "descriptor": "Bitter Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
