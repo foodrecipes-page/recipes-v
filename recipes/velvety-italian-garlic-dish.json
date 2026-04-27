@@ -1,0 +1,81 @@
+{
+  "title": "Velvety Italian Garlic Dish",
+  "description": "A delectable garlic-infused dish perfect for a romantic evening in, featuring pine nuts and designed to be whole30-friendly.",
+  "cuisine": "Italian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Pine Nuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "3 tablespoons, grated"
+    },
+    {
+      "name": "Red Peppers (optional)",
+      "amount": "1 medium, finely chopped (for color)"
+    },
+    {
+      "name": "Parsley",
+      "amount": "1 tablespoon, chopped (for garnish)"
+    }
+  ],
+  "instructions": [
+    "Heat a skillet over medium heat. Add garlic and sauté until golden brown.",
+    "Remove the garlic from the skillet and set aside to cool slightly.",
+    "In the same skillet, toast pine nuts until lightly golden.",
+    "Combine heavy cream with toasted pine nuts and Parmesan cheese in the skillet.",
+    "Add finely chopped red peppers (if using) to the saucepan. Stir well and bring to a simmer.",
+    "Reduce heat to low and let the mixture cook for about 5 minutes, stirring occasionally.",
+    "Stir in cooled garlic to meld flavors.",
+    "Season with salt and freshly ground black pepper as needed.",
+    "Serve hot over your favorite whole30-friendly pasta or on its own as a light entrée."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlic",
+    "velvety",
+    "italian",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 416,
+    "protein": 8,
+    "carbs": 25,
+    "fat": 21
+  },
+  "slug": "velvety-italian-garlic-dish",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-italian-garlic-dish",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T02:38:07Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "rest",
+    "primaryIngredient": "pine nuts",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Garlic",
+    "descriptor": "Velvety",
+    "dishForm": "Dish"
+  }
+}
