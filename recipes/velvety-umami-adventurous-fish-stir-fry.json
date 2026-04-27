@@ -1,0 +1,94 @@
+{
+  "title": "Velvety Umami Adventurous Fish Stir-fry",
+  "description": "This Tunisian-inspired dish features a garlic-rich sauce that marries perfectly with pescatarian-friendly fish for an adventurous and umami-packed meal.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillets",
+      "amount": "200g"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "6-8"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "3"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "White wine (optional)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Water or chicken broth",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 handful"
+    },
+    {
+      "name": "Pepper flakes",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Clean and season the fish fillets with salt and pepper.",
+    "Finely chop garlic, onions, and tomatoes. Sauté the onions in oil until translucent.",
+    "Add chopped garlic to the sautéed onions and cook for a minute or two. Add soy sauce and white wine (if using).",
+    "Simmer gently until the liquid reduces by half. Stir in water or broth, adjust seasoning with pepper flakes.",
+    "Gently poach fish fillets in this sauce for about 5 minutes per side or until cooked through. Garnish with fresh parsley before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "umami",
+    "velvety",
+    "adventurous",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 38,
+    "carbs": 19,
+    "fat": 24
+  },
+  "slug": "velvety-umami-adventurous-fish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-umami-adventurous-fish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T11:04:14Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "velvety",
+    "mood": "adventurous",
+    "technique": "saute",
+    "primaryIngredient": "garlic sauce",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Fish",
+    "descriptor": "Umami Velvety Adventurous",
+    "dishForm": "Stir-fry"
+  }
+}
