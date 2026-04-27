@@ -1,0 +1,98 @@
+{
+  "title": "Velvety Spicy Chili Mexic Stir-Fry",
+  "description": "A diabetic-friendly mexican dish featuring a spicy and velvety flavor profile with the perfect blend of heat and sweetness to satisfy midnight cravings.",
+  "cuisine": "Mexican",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spicy Chili Paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Onions, finely chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Bell Peppers, sliced",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic Cloves, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Naan Bread Slices",
+      "amount": "6 slices"
+    },
+    {
+      "name": "Diabetic Spices Mix",
+      "amount": "1 tsp (contains sugar substitute for sweetness)"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onions, bell peppers, and garlic; sauté until vegetables are soft.",
+    "Stir in chili paste and cook for about 2 minutes until fragrant.",
+    "Pour in tomato sauce and vegetable broth. Bring to a boil.",
+    "Reduce heat to low, add lemon zest, diabetic spices mix, salt, and pepper. Simmer for 10-15 minutes.",
+    "Serve over naan bread for an extra indulgent touch."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "velvety",
+    "midnight-craving",
+    "mexican-dish"
+  ],
+  "nutrition": {
+    "calories": 275,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 9
+  },
+  "slug": "velvety-spicy-chili-mexic-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-spicy-chili-mexic-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T00:28:13Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "velvety",
+    "mood": "midnight-craving",
+    "technique": "deglaze",
+    "primaryIngredient": "naan bread",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Chili Pepper",
+    "descriptor": "Spicy Velvety Midnight",
+    "dishForm": "Stir-fry"
+  }
+}

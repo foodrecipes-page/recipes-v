@@ -672,6 +672,19 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-spicy-chili-mexic-stir-fry",
+    "title": "Velvety Spicy Chili Mexic Stir-Fry",
+    "tags": [
+      "spicy",
+      "velvety",
+      "midnight-craving",
+      "mexican-dish"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 50,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-spicy-middle-eastern-apricot-stir-fry",
     "title": "Velvety Spicy Middle Eastern Apricot Stir-fry",
     "tags": [
