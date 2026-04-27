@@ -1,0 +1,103 @@
+{
+  "title": "Vanilla Steamed Beef Stir-fry",
+  "description": "A unique Ukrainian dish featuring tender steamed beef with a hint of vanilla extract, perfect for weeknight dinners and high-protein-friendly meals.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "high-protein",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef sirloin",
+      "amount": "200g",
+      "notes": "preferably lean meat for tenderness and health benefits"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 small piece, minced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2-3, minced"
+    },
+    {
+      "name": "pepper flakes",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2-3 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "water chestnuts",
+      "amount": "50g, chopped"
+    }
+  ],
+  "instructions": [
+    "Combine soy sauce, ginger, garlic, pepper flakes, sesame oil, brown sugar, lime juice, and water chestnuts in a bowl. Add the steak pieces evenly to the mixture, making sure they are well coated.",
+    "Heat a large pan with vegetable oil over medium-high heat. Once hot, pour the marinade into the pan and mix thoroughly until all ingredients are combined well.",
+    "Pour the mixed sauce onto a steamer basket or a regular pot with water for steaming. Place the steak pieces on top of the liquid mixture evenly. Cover and steam for about 15-20 minutes or until the meat reaches an internal temperature of at least 63°C (145°F).",
+    "Once cooked, remove from heat and let it rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vanilla",
+    "beef",
+    "stir-fry",
+    "steamed",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 290,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 14
+  },
+  "slug": "vanilla-steamed-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/vanilla-steamed-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T21:47:37Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "steam",
+    "primaryIngredient": "vanilla extract",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "beef",
+    "descriptor": "Vanilla Steamed",
+    "dishForm": "Stir-fry"
+  }
+}

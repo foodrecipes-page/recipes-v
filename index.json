@@ -108,6 +108,20 @@
     "shard": "v"
   },
   {
+    "slug": "vanilla-steamed-beef-stir-fry",
+    "title": "Vanilla Steamed Beef Stir-fry",
+    "tags": [
+      "vanilla",
+      "beef",
+      "stir-fry",
+      "steamed",
+      "ukrainian"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
     "slug": "vegan-fermented-tender-bryndza-cheese-stir-fry",
     "title": "Vegan Fermented Tender Bryndza Cheese Stir-fry",
     "tags": [
