@@ -647,6 +647,20 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-nostalgic-rice-stir-fry",
+    "title": "Velvety Nostalgic Rice Stir-fry",
+    "tags": [
+      "velvety",
+      "nostalgic",
+      "sour",
+      "korean",
+      "stir-fry"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-nostalgic-vietnamese-peanut-stir-fry",
     "title": "Velvety Nostalgic Vietnamese Peanut Stir-fry",
     "tags": [

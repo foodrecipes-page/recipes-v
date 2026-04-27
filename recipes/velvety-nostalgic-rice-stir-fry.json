@@ -1,0 +1,87 @@
+{
+  "title": "Velvety Nostalgic Rice Stir-fry",
+  "description": "A diabetic-friendly Korean dish featuring sour and velvety textures with the addition of sake to add depth and complexity.",
+  "cuisine": "Korean",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetables (carrots, bell peppers)",
+      "amount": "1 small piece each"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sake",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C). Rinse and cook the rice as per package instructions.",
+    "Chop vegetables into bite-sized pieces, ensuring they are uniformly sized for even cooking. Mince garlic finely.",
+    "In a mixing bowl, combine soy sauce, gochujang, sake, sugar, and salt. Mix until smooth and all ingredients are well combined.",
+    "Add minced garlic to the vegetable mixtures. Toss gently with tongs or spatula to coat evenly.",
+    "Pour the seasoned mixture over the cooked rice in a shallow baking dish. Use your hands to evenly distribute the mixture throughout the rice, ensuring each grain is coated.",
+    "Bake for 15 minutes until heated through and slightly caramelized on top. Garnish with additional chopped vegetables or sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "velvety",
+    "nostalgic",
+    "sour",
+    "korean",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 7,
+    "carbs": 35,
+    "fat": 1
+  },
+  "slug": "velvety-nostalgic-rice-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-nostalgic-rice-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T03:22:17Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "bake",
+    "primaryIngredient": "sake",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "rice",
+    "descriptor": "Sour Velvety Nostalgic",
+    "dishForm": "Stir-fry"
+  }
+}
