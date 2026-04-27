@@ -1,0 +1,89 @@
+{
+  "title": "Velvety Norwegian Spinach Soup",
+  "description": "A fresh and velvety one-pot dish featuring pink food coloring for a touch of color and sweetness from sugar-free-friendly ingredients.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 bag frozen spinach",
+      "amount": "1 whole bag"
+    },
+    {
+      "name": "2 cups chicken broth",
+      "amount": "2 cups",
+      "notes": "Ensure it is not heated before adding to the pot."
+    },
+    {
+      "name": "3 tablespoons butter",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "4 cloves garlic, minced",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "1/2 cup milk (dairy or non-dairy)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Pinch of black pepper",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Pink food coloring",
+      "amount": "A few drops"
+    },
+    {
+      "name": "Freshly grated Parmesan cheese",
+      "amount": "1/2 cup (optional)",
+      "notes": "For serving, not cooking."
+    }
+  ],
+  "instructions": [
+    "Place frozen spinach in a large pot. Pour hot chicken broth over it and stir.",
+    "Melt butter in the same pot over medium heat. Add minced garlic and cook until fragrant, about 1 minute.",
+    "Gradually add milk to the pot with spinach mixture, stirring constantly to avoid lumps.",
+    "Season with salt and pepper. Gently stir in pink food coloring until desired color is achieved.",
+    "Reduce heat and simmer for an additional 5 minutes. The soup should be thickened but still smooth from the addition of milk.",
+    "Garnish each bowl with freshly grated Parmesan cheese before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "velvety-norwegian-soup",
+    "pink-food-coloring",
+    "sugar-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 6,
+    "carbs": 8,
+    "fat": 4
+  },
+  "slug": "velvety-norwegian-spinach-soup",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-norwegian-spinach-soup",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T14:03:21Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "velvety",
+    "mood": "one-pot",
+    "technique": "temper",
+    "primaryIngredient": "pink food colouring",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "spinach",
+    "descriptor": "Velvety",
+    "dishForm": "Soup"
+  }
+}
