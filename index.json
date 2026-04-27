@@ -712,6 +712,18 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-mexican-yautia-polish",
+    "title": "Velvety Mexican Yautia Polish",
+    "tags": [
+      "velvety-yautia-polish",
+      "high-protein-friendly-dish",
+      "mexican-bitter-root"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 45,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-midnight-canadian-tomato-stir-fry",
     "title": "Velvety Midnight Canadian Tomato Stir-fry",
     "tags": [

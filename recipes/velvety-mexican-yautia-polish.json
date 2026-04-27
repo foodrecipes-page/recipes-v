@@ -1,0 +1,82 @@
+{
+  "title": "Velvety Mexican Yautia Polish",
+  "description": "A midnight-craving dish featuring yautia root vegetables, folded into a velvety texture that is both bitter and satisfying, perfect for high-protein diets.",
+  "cuisine": "Mexican",
+  "diet": [
+    "high-protein-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 medium yautia roots",
+      "amount": "each"
+    },
+    {
+      "name": "1/4 cup sour cream",
+      "amount": "as needed",
+      "notes": "full-fat for richer flavor"
+    },
+    {
+      "name": "1 small onion",
+      "amount": "sliced"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "minced"
+    },
+    {
+      "name": "1 can (15 oz) black beans",
+      "amount": "undrained"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "as needed"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Peel the yautia roots and cut them into small cubes.",
+    "In a skillet, heat the olive oil over medium-high heat. Add sliced onion and minced garlic; sauté for about 5 minutes until softened.",
+    "Add salt, pepper, and black beans to the skillet. Cook for another 2-3 minutes.",
+    "Gradually fold in the yautia cubes, ensuring they are evenly coated with the seasoned mixture.",
+    "Reduce heat to low and simmer for 10 minutes or until yautia is tender but not falling apart.",
+    "Stir in sour cream gently while continuing to simmer. Adjust seasoning as needed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "velvety-yautia-polish",
+    "high-protein-friendly-dish",
+    "mexican-bitter-root"
+  ],
+  "nutrition": {
+    "calories": 325,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 9
+  },
+  "slug": "velvety-mexican-yautia-polish",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-mexican-yautia-polish",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T10:59:15Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "velvety",
+    "mood": "midnight-craving",
+    "technique": "fold",
+    "primaryIngredient": "yautia",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Yautia",
+    "descriptor": "Velvety",
+    "dishForm": "Polish"
+  }
+}
