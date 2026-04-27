@@ -1,0 +1,79 @@
+{
+  "title": "Velvety Floral Folded Dried White Corn",
+  "description": "This whole30-friendly brunch-mood Brazilian dish features velvety and floral notes from dried white corn folded delicately for a delightful texture contrast.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "2 cups",
+      "amount": "dry white corn, soaked in water"
+    },
+    {
+      "name": "1/4 cup",
+      "amount": "balsamic vinegar, aged"
+    },
+    {
+      "name": "1/4 cup",
+      "amount": "coconut cream"
+    },
+    {
+      "name": "1 tbsp",
+      "amount": "agave nectar (or maple syrup)"
+    },
+    {
+      "name": "1/2 tsp",
+      "amount": "saffron threads"
+    },
+    {
+      "name": "pinch",
+      "amount": "black pepper"
+    },
+    {
+      "name": "1/4 cup",
+      "amount": "basil leaves, fresh"
+    }
+  ],
+  "instructions": [
+    "Place the soaked white corn in a pot and cover with water. Bring to a boil, then reduce heat and simmer until tender.",
+    "Drain the corn, reserving about 2 cups of soaking liquid. In a blender, combine the drained corn, reserved soaking liquid, balsamic vinegar, coconut cream, agave nectar, saffron threads, and black pepper. Blend until smooth.",
+    "Fold in fresh basil leaves to garnish and add more flavor. Serve chilled as a side dish or as a base for an avocado crema."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "velvety-floral",
+    "dried-white-corn",
+    "whole30-friendly",
+    "brunch-mood"
+  ],
+  "nutrition": {
+    "calories": 279,
+    "protein": 5,
+    "carbs": 41,
+    "fat": 16
+  },
+  "slug": "velvety-floral-folded-dried-white-corn",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-floral-folded-dried-white-corn",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T11:00:52Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "velvety",
+    "mood": "brunch-mood",
+    "technique": "fold",
+    "primaryIngredient": "dried white corn",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Dried White Corn",
+    "descriptor": "Floral Velvety",
+    "dishForm": "Fold"
+  }
+}
