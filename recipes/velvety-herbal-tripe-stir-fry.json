@@ -1,0 +1,78 @@
+{
+  "title": "Velvety Herbal Tripe Stir-fry",
+  "description": "A nutritious and comforting brunch dish featuring tripe marinated in a herbal sauce for a velvety texture that complements the Malaysian flair.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Tripe",
+      "amount": "100g"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Fresh Herbs (e.g., Coriander, Mint)",
+      "amount": "1 bunch each"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Red Chillies",
+      "amount": "5"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Rinse the tripe under cold water and soak in vegetable broth for at least 30 minutes to remove any unpleasant odour.",
+    "Peel and roughly chop the fresh herbs, garlic cloves, and red chillies. Sauté them in a pan with oil until they are fragrant and slightly browned.",
+    "Add the soaked tripe to the sautéed herb mixture. Season with salt and pepper to taste.",
+    "Transfer the tripe into a blender along with vegetable broth and blend well until smooth, adding more broth if needed for desired consistency.",
+    "In a wok or large skillet, heat another tablespoon of oil over medium-high heat. Add the blended herbal soup to the pan, stirring continuously to prevent sticking.",
+    "Cook for about 3-5 minutes until the soup thickens and the tripe is nicely glazed with the sauce.",
+    "Serve hot as a side dish with steamed rice or noodles."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "malaysian-tripe",
+    "herbal-sauce",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 16,
+    "carbs": 25,
+    "fat": 9
+  },
+  "slug": "velvety-herbal-tripe-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-herbal-tripe-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T01:44:35Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "velvety",
+    "mood": "brunch-mood",
+    "technique": "marinate",
+    "primaryIngredient": "tripe",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "tripe",
+    "descriptor": "Herbal Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
