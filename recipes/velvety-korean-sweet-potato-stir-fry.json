@@ -1,0 +1,90 @@
+{
+  "title": "Velvety Korean Sweet Potato Stir-fry",
+  "description": "A paleo-friendly, one-pot dish featuring candied sweet potato peel with a sweet and savory sauce.",
+  "cuisine": "Korean",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp, minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 handful, chopped"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "2 tbsp (if desired)"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Wrap sweet potatoes in foil and bake for about 45 minutes.",
+    "While baking, mix coconut cream with soy sauce, vinegar, ginger, sesame oil, and salt. Set aside.",
+    "After baking, peel the sweet potatoes and cut into small cubes. Place them in a blender or food processor with green onions, peanut butter (if using), and remaining ingredients from step 2.",
+    "Blend until smooth. Pour back into pot with the baked sweet potato cubes.",
+    "Simmer for an additional 5-7 minutes, stirring occasionally to prevent burning. Adjust seasoning if needed.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "sweet-potato",
+    "stir-fry",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 65,
+    "fat": 24
+  },
+  "slug": "velvety-korean-sweet-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-korean-sweet-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T03:17:28Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "velvety",
+    "mood": "one-pot",
+    "technique": "braise",
+    "primaryIngredient": "candied peel",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "sweet potato",
+    "descriptor": "Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
