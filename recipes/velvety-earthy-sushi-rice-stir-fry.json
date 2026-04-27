@@ -1,0 +1,80 @@
+{
+  "title": "Velvety Earthy Sushi Rice Stir-fry",
+  "description": "A light and diabetic-friendly Vietnamese dish featuring pressure-cooked sushi rice with earthy flavors for a velvety texture.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sushi Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Watermelon Basil Leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1 piece, finely chopped"
+    },
+    {
+      "name": "Shallots",
+      "amount": "2 pieces, thinly sliced"
+    },
+    {
+      "name": "Oyster Sauce (Gluten-free)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves, minced"
+    }
+  ],
+  "instructions": [
+    "Preheat your pressure cooker according to the manufacturer's instructions.",
+    "Add Sushi Rice and Vegetable Broth to the pot. Cook using low heat for about 5 minutes.",
+    "Transfer cooked Sushi Rice to a large mixing bowl and mix in Watermelon Basil Leaves, finely chopped Green Onions, thinly sliced Shallots, Oyster Sauce (Gluten-free), and minced Garlic Cloves. Mix well until all ingredients are evenly distributed.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "velvety",
+    "earthy",
+    "sushi-rice",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 168,
+    "protein": 7,
+    "carbs": 29,
+    "fat": 4
+  },
+  "slug": "velvety-earthy-sushi-rice-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-earthy-sushi-rice-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T10:43:38Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "pressure-cook",
+    "primaryIngredient": "sushi rice",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Sushi Rice",
+    "descriptor": "Earthly Velvety Light",
+    "dishForm": "Stir-fry"
+  }
+}

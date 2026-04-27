@@ -491,6 +491,19 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-earthy-sushi-rice-stir-fry",
+    "title": "Velvety Earthy Sushi Rice Stir-fry",
+    "tags": [
+      "velvety",
+      "earthy",
+      "sushi-rice",
+      "stir-fry"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-ethipian-nut-stir-fry",
     "title": "Velvety Ethipian Nut Stir-Fry",
     "tags": [
