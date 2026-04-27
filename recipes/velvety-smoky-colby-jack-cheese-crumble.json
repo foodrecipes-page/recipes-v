@@ -1,0 +1,74 @@
+{
+  "title": "Velvety Smoky Colby Jack Cheese Crumble",
+  "description": "A kid-friendly Syrian dish featuring colby jack cheese in a velvety and smoky flavor, perfect for a snack or dessert option.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Colby Jack Cheese",
+      "amount": "1 cup grated"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dijon Mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Red Pepper Flakes (Kabuli Chana Powder)",
+      "amount": "¼ teaspoon"
+    },
+    {
+      "name": "Sugar-Free Sweetener of Choice (e.g., Stevia)",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add colby jack cheese and stir until fully melted and smooth.",
+    "Gradually add dijon mustard while stirring continuously to prevent clumping.",
+    "Taste the mixture for desired seasoning. Adjust salt or sugar-free sweetener as needed.",
+    "Cook for about 1-2 minutes, ensuring no lumps form.",
+    "Remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "velvety",
+    "kid-friendly",
+    "syrian",
+    "colby-jack-cheese",
+    "reduce-sugar"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 8,
+    "carbs": 9,
+    "fat": 7
+  },
+  "slug": "velvety-smoky-colby-jack-cheese-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-smoky-colby-jack-cheese-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T23:49:48Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "velvety",
+    "mood": "kid-friendly",
+    "technique": "reduce",
+    "primaryIngredient": "colby jack cheese",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Colby Jack Cheese",
+    "descriptor": "Smoky Velvety",
+    "dishForm": "Crumble"
+  }
+}
