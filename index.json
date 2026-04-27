@@ -1029,6 +1029,18 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-spicy-sesame-seed-thai-stir-fry",
+    "title": "Velvety Spicy Sesame Seed Thai Stir-fry",
+    "tags": [
+      "thai-stir-fry",
+      "spicy-sesame-seed",
+      "halal-friendly"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-squash-soup",
     "title": "Velvety Squash Soup",
     "tags": [

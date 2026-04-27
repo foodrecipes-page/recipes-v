@@ -1,0 +1,99 @@
+{
+  "title": "Velvety Spicy Sesame Seed Thai Stir-fry",
+  "description": "A nostalgic Thai dish featuring a blend of spicy and velvety flavors, made with halal-friendly sesame seeds for a unique twist.",
+  "cuisine": "Thai",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "200g"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon, minced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4, minced"
+    },
+    {
+      "name": "red chili peppers",
+      "amount": "3, chopped finely"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add minced ginger and garlic, stir-fry for about 1 minute until fragrant.",
+    "Include red chili peppers and sauté for another minute.",
+    "Add chicken breast pieces and soy sauce. Stir well to coat the meat with flavors.",
+    "Reduce heat to medium-low, add cornstarch water mixture (cornstarch dissolved in a little water) and stir continuously for about 2 minutes or until thickened.",
+    "Mix sesame seeds into the dish and cook for another minute.",
+    "Season with salt and lime juice to taste. Stir well to combine all ingredients.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai-stir-fry",
+    "spicy-sesame-seed",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 26,
+    "carbs": 9,
+    "fat": 14
+  },
+  "slug": "velvety-spicy-sesame-seed-thai-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-spicy-sesame-seed-thai-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T20:02:49Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "braise",
+    "primaryIngredient": "sesame seed",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "sesame seed",
+    "descriptor": "Spicy Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
