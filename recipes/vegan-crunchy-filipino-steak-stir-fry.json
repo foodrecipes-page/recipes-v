@@ -1,0 +1,99 @@
+{
+  "title": "Vegan Crunchy Filipino Steak Stir-fry",
+  "description": "A spicy and dense adventure in Filipino cuisine featuring a vegan-friendly twist on the classic steak stir-fry, packed with flavor.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vegan steak",
+      "amount": "200g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6 cloves"
+    },
+    {
+      "name": "Capsicum (bell pepper)",
+      "amount": "1 large, sliced"
+    },
+    {
+      "name": "Celery stalks",
+      "amount": "2 medium, finely chopped"
+    },
+    {
+      "name": "Bok choy",
+      "amount": "100g, trimmed and thinly sliced"
+    },
+    {
+      "name": "Olive oil or vegan mayo for breading",
+      "amount": "to taste"
+    },
+    {
+      "name": "Spices (ground)",
+      "amount": "to taste",
+      "notes": "such as cumin, coriander seeds, black pepper"
+    },
+    {
+      "name": "Ketchup",
+      "amount": "1-2 tablespoons"
+    },
+    {
+      "name": "Soy sauce or tamari",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Slice the vegan steak into bite-sized pieces.",
+    "Mix spices with olive oil and coat the slices evenly. Allow them to marinate for at least 30 minutes if possible.",
+    "Heat a wok or skillet over medium-high heat, add sliced onion and garlic, stir-fry until translucent.",
+    "Add finely chopped celery and bell peppers, stir-fry for another 2-3 minutes.",
+    "Place the seasoned vegan steak into the pan and cook on each side for about 5 minutes or until golden brown and cooked through.",
+    "Remove the vegan steak from the wok and set aside. Add bok choy to the pan with a little bit of ketchup and soy sauce, stir-fry until tender.",
+    "Add more ketchup and soy sauce if needed to adjust the spice level and create the desired consistency for a spicy blend.",
+    "Return the vegan steak back into the wok and combine all vegetables. Stir-fry everything together, adjusting seasoning as necessary.",
+    "Serve hot with steamed rice or noodles."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "filipino",
+    "stir-fry",
+    "adventurous",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "vegan-crunchy-filipino-steak-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/vegan-crunchy-filipino-steak-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T12:21:36Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "roast",
+    "primaryIngredient": "fillet of steak",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Steak",
+    "descriptor": "Vegan Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}

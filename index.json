@@ -147,6 +147,20 @@
     "shard": "v"
   },
   {
+    "slug": "vegan-crunchy-filipino-steak-stir-fry",
+    "title": "Vegan Crunchy Filipino Steak Stir-fry",
+    "tags": [
+      "vegan",
+      "filipino",
+      "stir-fry",
+      "adventurous",
+      "spicy"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 60,
+    "shard": "v"
+  },
+  {
     "slug": "vegan-fermented-tender-bryndza-cheese-stir-fry",
     "title": "Vegan Fermented Tender Bryndza Cheese Stir-fry",
     "tags": [
