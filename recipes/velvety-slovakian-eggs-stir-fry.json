@@ -1,0 +1,91 @@
+{
+  "title": "Earthly Velvety Slovakian Eggs Stir-Fry",
+  "description": "This paleo-friendly dish marries the earthy flavors of Slovak cuisine with velvety-smooth eggs for a show-off breakfast or snack option.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Spinach",
+      "amount": "2 cups fresh"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 small"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Slice zucchini and red bell pepper into thin strips.",
+    "Mince garlic finely, finely chop spinach leaves.",
+    "Whisk together 1 tablespoon olive oil with apple cider vinegar in a small bowl to create the marinade. Add salt and black pepper.",
+    "Place eggs in a microwave-safe dish. Pour half of the marinade over them, cover, and microwave for about 30 seconds or until slightly warmed through but not cooked. Reserve remaining marinade.",
+    "Heat remaining olive oil in a pan over medium heat. Sauté zucchini and red bell pepper slices until soft and lightly golden. Add minced garlic and spinach leaves, cook for another minute.",
+    "Gently fold in the eggs from microwaving into the pan with vegetables. Drizzle with reserved marinade, stirring gently to combine all ingredients evenly.",
+    "Serve hot as a snack or breakfast accompaniment."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "velvety-eggs",
+    "earthly-slovakian",
+    "paleo-friendly",
+    "show-off-dish"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 15,
+    "carbs": 4,
+    "fat": 9
+  },
+  "slug": "velvety-slovakian-eggs-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-slovakian-eggs-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T15:51:15Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "show-off",
+    "technique": "marinate",
+    "primaryIngredient": "eggs",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "eggs",
+    "descriptor": "velvety",
+    "dishForm": "Stir-fry"
+  }
+}
