@@ -1,0 +1,91 @@
+{
+  "title": "Velvety Nutty Bryndza Cheese Toast",
+  "description": "A delightful and nostalgic Malaysian dish featuring bryndza cheese on toast, perfect for a quick breakfast or snack. This vegan-friendly recipe is both comforting and creamy.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bryndza cheese spread",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Jalapeno, finely chopped",
+      "amount": "",
+      "notes": "Optional for extra heat"
+    },
+    {
+      "name": "Peanut butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Toast slices",
+      "amount": "",
+      "notes": "Choose your preferred type and thickness"
+    },
+    {
+      "name": "Plant-based milk (optional)",
+      "amount": "2-3 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Spread bryndza cheese spread evenly on each slice of toast.",
+    "If using, finely chop jalapeno and sprinkle over the cheese.",
+    "Mix almond flour with water until smooth. Stir into peanut butter to make a creamy sauce.",
+    "Drizzle the peanut butter mixture over the toast slices, ensuring they're well coated.",
+    "Optional: Add 2-3 tablespoons of plant-based milk for smoother texture.",
+    "Top with fresh herbs like cilantro or mint for added freshness and color.",
+    "Serve immediately while still warm and velvety in texture."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "velvety",
+    "bryndza cheese",
+    "malaysian",
+    "toasted"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 8
+  },
+  "slug": "velvety-nutty-bryndza-cheese-toast",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-nutty-bryndza-cheese-toast",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T03:38:07Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "toast",
+    "primaryIngredient": "bryndza cheese",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Bryndza Cheese",
+    "descriptor": "Nutty Velvety Nostalgic",
+    "dishForm": "Sandwich"
+  }
+}
