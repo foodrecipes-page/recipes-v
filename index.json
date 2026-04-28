@@ -1,5 +1,17 @@
 [
   {
+    "slug": "vanilla-chewy-venezuelan-chile-pepper-stir-fry",
+    "title": "Vanilla Chewy Venezuelan Chile Pepper Stir-fry",
+    "tags": [
+      "vanilla-chewy",
+      "herbal-vegan",
+      "venezuelan-dish"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 22,
+    "shard": "v"
+  },
+  {
     "slug": "vanilla-creamy-spanish-chicken-stir-fry",
     "title": "Vanilla Creamy Spanish Chicken Stir-fry",
     "tags": [

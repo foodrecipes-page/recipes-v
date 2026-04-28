@@ -1,0 +1,103 @@
+{
+  "title": "Vanilla Chewy Venezuelan Chile Pepper Stir-fry",
+  "description": "This herbal and chewy solo dinner dish features vanilla extract and is suitable for vegans and vegetarians.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "2 green chilis, minced",
+      "amount": "",
+      "notes": "Use less for milder taste or more for spicier dish"
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 red bell pepper, diced",
+      "amount": ""
+    },
+    {
+      "name": "2 tablespoons tomato paste",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "juice"
+    },
+    {
+      "name": "2 teaspoons ground cumin",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon paprika",
+      "amount": ""
+    },
+    {
+      "name": "1/4 teaspoon sea salt",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of black pepper",
+      "amount": ""
+    },
+    {
+      "name": "5 ounces tempeh, crumbled",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add chilis and onions; sauté until softened about 3 minutes.",
+    "Stir in garlic and peppers, cook for another minute.",
+    "Mix in tomato paste, cumin, paprika, salt, black pepper, and lime juice. Stir well.",
+    "Gently fold in tempeh and simmer for 5-7 minutes until heated through and tempeh is chewy.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vanilla-chewy",
+    "herbal-vegan",
+    "venezuelan-dish"
+  ],
+  "nutrition": {
+    "calories": 317,
+    "protein": 26,
+    "carbs": 19,
+    "fat": 8
+  },
+  "slug": "vanilla-chewy-venezuelan-chile-pepper-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/vanilla-chewy-venezuelan-chile-pepper-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T12:07:36Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "solo-dinner",
+    "technique": "simmer",
+    "primaryIngredient": "vanilla extract",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Chile pepper",
+    "descriptor": "Vanilla Chewy",
+    "dishForm": "Stir-fry"
+  }
+}
