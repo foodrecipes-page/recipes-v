@@ -1,0 +1,93 @@
+{
+  "title": "Velvety Romantic Citrus Shortcrust Pastry",
+  "description": "A low-carb-friendly, citrusy and velvety dessert featuring a romantic twist with its Kenyan dish background, this shortcrust pastry is perfect for a breakfast or snack.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "0.5 cup",
+      "notes": "For a gluten-free option"
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1/2 cup, cold and cubed"
+    },
+    {
+      "name": "Eggs",
+      "amount": "3, room temperature"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "Caster Sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Grated Zest of 1 Lime and 1 Lemon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Mix flours, baking powder, and salt in a large bowl.",
+    "Add cold coconut oil cubes into the flour mixture and use your fingers or a pastry blender to work until coarse crumbs form.",
+    "Gradually add eggs while mixing; keep adding cream gradually as well, until dough comes together nicely.",
+    "Gently fold in grated citrus zest.",
+    "Transfer dough onto a floured surface and knead 8-10 times gently but thoroughly to bring all ingredients fully combined.",
+    "Pat the dough into an even circle about 1/2 inch thick. Chill for at least 30 minutes before cutting desired shapes with a biscuit cutter or knife.",
+    "Bake for 15-20 minutes until golden brown and puffed up slightly. Allow to cool before serving."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 20,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "velvety",
+    "romantic",
+    "low-carb-friendly",
+    "shortcrust-pastry"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 12,
+    "carbs": 7,
+    "fat": 18
+  },
+  "slug": "velvety-romantic-citrus-shortcrust-pastry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-romantic-citrus-shortcrust-pastry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T09:18:00Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "velvety",
+    "mood": "romantic",
+    "technique": "knead",
+    "primaryIngredient": "shortcrust pastry",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Citrus",
+    "descriptor": "Velvety Romantic",
+    "dishForm": "Shortcrust Pastry"
+  }
+}
