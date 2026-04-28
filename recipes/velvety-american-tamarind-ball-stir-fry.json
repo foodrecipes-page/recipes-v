@@ -1,0 +1,99 @@
+{
+  "title": "Velvety American Tamarind Ball Stir-fry",
+  "description": "A sweet and velvety monsoon-inspired dish featuring tamarind balls in a spicy bhuna sauce, perfect for pescatarian meals.",
+  "cuisine": "American",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tamarind Paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves, minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large, finely chopped"
+    },
+    {
+      "name": "Tomato Puree",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cayenne Pepper Powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Coriander Seeds (Fenugreek)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Curry Leaves",
+      "amount": "a few, whole"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Tamarind Balls",
+      "amount": "15 balls"
+    },
+    {
+      "name": "Chilli Flakes",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan and add chopped onion. Sauté for about 2 minutes until translucent.",
+    "Add minced garlic to the pan, cook for another minute, stirring occasionally.",
+    "Stir in tamarind paste, tomato puree, and water. Cook for 5 minutes, allowing flavors to meld.",
+    "In a separate bowl, mix coriander seeds with cayenne pepper powder and chilli flakes. Sprinkle this mixture over the sauce.",
+    "Bring the sauce to a simmer and add tamarind balls. Simmer for an additional 10 minutes until thickened.",
+    "Serve hot as a side dish or over steamed vegetables."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 30,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tamarind-ball-stir-fry",
+    "bhuna-style",
+    "monsoon-special",
+    "sweet-velvety",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "velvety-american-tamarind-ball-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-american-tamarind-ball-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T08:45:40Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "velvety",
+    "mood": "monsoon",
+    "technique": "bhuna",
+    "primaryIngredient": "tamarind ball",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Tamarind Ball",
+    "descriptor": "Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
