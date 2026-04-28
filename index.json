@@ -95,6 +95,19 @@
     "shard": "v"
   },
   {
+    "slug": "vanilla-soy-beef-stir-fry",
+    "title": "Vanilla Soy Beef Stir-fry",
+    "tags": [
+      "vanilla",
+      "beef",
+      "stir-fry",
+      "low-calorie-friendly"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 50,
+    "shard": "v"
+  },
+  {
     "slug": "vanilla-spiced-garlic-syrian-stir-fry",
     "title": "Vanilla Spiced Garlic Syrian Stir-fry",
     "tags": [
