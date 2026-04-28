@@ -1,0 +1,84 @@
+{
+  "title": "Velvety Peruvian Yukon Gold Potatoes Stir-fry",
+  "description": "An earthy and velvety post-workout dish featuring Yukon gold potatoes, topped with crispy garlic toast for a satisfying and fodmap-friendly meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yukon Gold Potatoes",
+      "amount": "2 lbs"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Oil for Stir-fry",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Water or Chicken Broth",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Wash and peel the Yukon Gold Potatoes, then cut them into bite-sized pieces.",
+    "Drain any excess water from the potatoes and place them in a bowl. Add salt, pepper, and oil, tossing well until coated evenly.",
+    "Place the potato pieces on an oven-safe baking sheet and bake for 20-25 minutes, turning once halfway through cooking time to ensure even browning.",
+    "While the potatoes are baking, slice the garlic thinly and place it on a separate plate to crisp up in the oven (toasted garlic).",
+    "Once done, remove from oven and let them cool slightly. In the meantime, heat the remaining oil in a wok or large skillet over medium-high heat.",
+    "Add the cooled potatoes to the skillet and stir-fry for about 5 minutes until they start getting golden brown and crispy on the edges.",
+    "Pour in the water or chicken broth, bring to a simmer, cover with a lid, and let it cook for another 10-12 minutes, stirring occasionally until most of the liquid has evaporated and the potatoes are soft but not falling apart.",
+    "Add the sliced garlic (if desired), stir gently, then remove from heat. Serve hot over toast or enjoy as is."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "earthly",
+    "velvety",
+    "yukon-gold-potatoes",
+    "stir-fry",
+    "post-workout",
+    "fodmap-friendly"
+  ],
+  "nutrition": {
+    "calories": 286,
+    "protein": 5.4,
+    "carbs": 37.9,
+    "fat": 10
+  },
+  "slug": "velvety-peruvian-yukon-gold-potatoes-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-peruvian-yukon-gold-potatoes-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T17:39:51Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "post-workout",
+    "technique": "toast",
+    "primaryIngredient": "yukon gold potatoes",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "yukon gold potatoes",
+    "descriptor": "Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
