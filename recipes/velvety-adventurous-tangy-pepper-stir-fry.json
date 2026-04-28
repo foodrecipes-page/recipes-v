@@ -1,0 +1,91 @@
+{
+  "title": "Velvety Adventurous Tangy Pepper Stir-fry",
+  "description": "A tangy and velvety Polish dish featuring shortcrust pastry in a slow-cooked pepper sauce that is both adventurous and halal-friendly.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shortcrust Pastry",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "3 medium"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Prepare the bell peppers by removing stems and seeds. Slice them into strips.",
+    "Heat vegetable oil in a large skillet over medium heat. Add onion and garlic, sauté until translucent.",
+    "Add pepper strips and continue cooking for about 5 minutes, stirring occasionally.",
+    "Stir in tomato paste and chili flakes. Cook for another minute.",
+    "Fold in the sheet of shortcrust pastry into the skillet mixture. Pour water over everything to cover completely.",
+    "Cover with foil or a lid, place in preheated oven, and cook for about 30-45 minutes until done.",
+    "Serve hot as an adventurous yet flavorful dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "velvety",
+    "tangy",
+    "adventurous",
+    "polish",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "velvety-adventurous-tangy-pepper-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-adventurous-tangy-pepper-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T10:17:56Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "velvety",
+    "mood": "adventurous",
+    "technique": "slow-cook",
+    "primaryIngredient": "shortcrust pastry",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Tangy",
+    "mainIngredient": "Pepper",
+    "descriptor": "Velvety Adventurous",
+    "dishForm": "Stir-fry"
+  }
+}
