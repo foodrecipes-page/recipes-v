@@ -1,0 +1,78 @@
+{
+  "title": "Velvety Brazilian Runner Beans Stir-fry",
+  "description": "A kid-friendly and umami-packed dish featuring tender runner beans that are both flavorful and soft.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup of fresh runner beans",
+      "amount": "cup"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "pieces",
+      "notes": "minced"
+    },
+    {
+      "name": "1 onion",
+      "amount": "medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "1 tablespoon of vegetable oil or butter",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": null
+    },
+    {
+      "name": "Optional: a pinch of red pepper flakes for extra heat",
+      "amount": null,
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the oil or butter in a wok or frying pan over medium-high heat.",
+    "Add the finely chopped onion and minced garlic. Sauté until fragrant but not browned.",
+    "Carefully add the runner beans to the pan. Stir-fry for about 5 minutes, ensuring they cook evenly without breaking down too much.",
+    "Season with salt and pepper to taste. If desired, sprinkle in a pinch of red pepper flakes.",
+    "Serve hot as a side dish or over rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "runner beans",
+    "kid-friendly",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 207,
+    "protein": 6,
+    "carbs": 31,
+    "fat": 9
+  },
+  "slug": "velvety-brazilian-runner-beans-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-brazilian-runner-beans-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T14:24:52Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "velvety",
+    "mood": "kid-friendly",
+    "technique": "temper",
+    "primaryIngredient": "runner beans",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "runner beans",
+    "descriptor": "Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
