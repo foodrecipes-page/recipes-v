@@ -1,0 +1,104 @@
+{
+  "title": "Velvety Earthy Algerian Chicken Stir-fry",
+  "description": "A lazy Sunday dish featuring tender chicken pieces in a rich, earthy sauce that's both vegetarian-friendly and perfect for those who enjoy a hearty but not-too-complicated meal.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "2 pieces",
+      "notes": "skin-on"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 large (red and yellow)",
+      "notes": "de-stemmed and de-seeded"
+    },
+    {
+      "name": "aubergine",
+      "amount": "1 medium",
+      "notes": "diced into 1 cm cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small (sliced)"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3 cloves (minced)",
+      "notes": "use more for a stronger flavor"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "may be omitted for lighter version"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "thyme leaves",
+      "amount": "a few",
+      "notes": "dried or fresh, optional but enhances the earthiness"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp (optional for coloring)"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "use freshly squeezed if available"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 200°C (392°F).",
+    "Season the chicken pieces with salt and pepper on both sides.",
+    "Drizzle olive oil over the diced aubergine, place in an oven-safe dish, and bake for about 15 minutes or until tender but not mushy.",
+    "Heat a bit of olive oil in a pan. Add the onion and garlic, sautéing until soft and translucent.",
+    "Add bell peppers to the pan, tossing well with the onions and garlic. Season with salt and fresh lemon juice for freshness.",
+    "Pour in tomato paste (or increase if you like), mix thoroughly, then add deglazed pan juices from the chicken after browning on the sides.",
+    "Once everything is combined and heated through, place the baked aubergine around the edges of the pan to create a bed, then add the cooked chicken pieces.",
+    "Mix in the thyme leaves (if using), paprika (for color if needed), and allow it all to simmer gently for 10-15 minutes until flavors meld together.",
+    "Serve hot with crusty bread or as a side dish with couscous."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "chicken",
+    "stir-fry",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 298,
+    "protein": 36,
+    "carbs": 16,
+    "fat": 15
+  },
+  "slug": "velvety-earthy-algerian-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-earthy-algerian-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T05:44:35Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "deglaze",
+    "primaryIngredient": "chicken",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Velvety Earthy",
+    "dishForm": "Stir-fry"
+  }
+}

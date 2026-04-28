@@ -548,6 +548,19 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-earthy-algerian-chicken-stir-fry",
+    "title": "Velvety Earthy Algerian Chicken Stir-fry",
+    "tags": [
+      "algerian",
+      "chicken",
+      "stir-fry",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 50,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-earthy-garlic-stir-fry",
     "title": "Velvety Earthy Garlic Stir-fry",
     "tags": [
