@@ -1,0 +1,98 @@
+{
+  "title": "Velvety Sour Egyptian Dill Pickle Stir-Fry",
+  "description": "A velvety and tangy dish that captures the nostalgia of classic Egyptian cuisine, featuring fresh dill pickles in a sugar-free friendly stir-fry.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 baguette slice",
+      "amount": "",
+      "notes": "use whole wheat for added nutrition"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": "or any preferred neutral-flavored cooking oil"
+    },
+    {
+      "name": "1 cup dill pickle slices",
+      "amount": "",
+      "notes": "crunchy and flavorful"
+    },
+    {
+      "name": "4 garlic cloves",
+      "amount": "",
+      "notes": "minced for depth of flavor"
+    },
+    {
+      "name": "2 tablespoons fresh lemon juice",
+      "amount": "",
+      "notes": "ensure it’s sugar-free if you're keeping the recipe sugar-free-friendly"
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "",
+      "notes": "for an Egyptian twist"
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "",
+      "notes": "to enhance flavors without overwhelming them"
+    },
+    {
+      "name": "2 tablespoons honey (optional, for a sweeter taste)",
+      "amount": "",
+      "notes": "adjust as per preference and sugar-free status"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Generously butter one side of the baguette slice and place it cut-side-down on a baking sheet.",
+    "In a medium-sized pan, heat the olive oil over medium-high heat.",
+    "Add the dill pickle slices, garlic, lemon juice, cumin, and black pepper to the pan. Stir occasionally for about 3 minutes until heated through and slightly softened.",
+    "If using honey, add it now and stir well until fully combined with the pickle mixture.",
+    "Pour the pickle mixture evenly over one side of the baguette slice that’s buttered-side-up in the baking sheet.",
+    "Bake in preheated oven for 5-7 minutes or until golden brown on the underside.",
+    "Gently flip the baguette to the other side, and continue baking for an additional 3-4 minutes.",
+    "Remove from oven and let cool slightly before serving with a side of fresh pickles if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian",
+    "stir-fry",
+    "dill-pickle",
+    "velvety",
+    "sour"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 13,
+    "carbs": 45,
+    "fat": 9
+  },
+  "slug": "velvety-sour-egyptian-dill-pickle-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-sour-egyptian-dill-pickle-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T14:35:23Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "fry",
+    "primaryIngredient": "dill pickles",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "dill pickles",
+    "descriptor": "velvety sour",
+    "dishForm": "Stir-fry"
+  }
+}
