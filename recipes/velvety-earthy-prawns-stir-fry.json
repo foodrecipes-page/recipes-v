@@ -1,0 +1,86 @@
+{
+  "title": "Velvety Earthy Prawns Stir-fry",
+  "description": "A low-sodium-friendly Uruguayan dish featuring tender tiger prawns in a rich, velvety sauce that is both earthy and flavorful.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tiger Prawns",
+      "amount": "200g"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Chili Flakes (optional)",
+      "amount": "A few pinches"
+    },
+    {
+      "name": "Wheat-Free Tamari Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1 handful"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat a tablespoon of olive oil in a wok or large skillet over medium-high heat.",
+    "Add sliced onion and minced garlic to the hot pan. Stir-fry for about 2 minutes until translucent.",
+    "Add chopped red bell pepper, chili flakes if using, and stir-fry for another minute.",
+    "Increase heat to high, add prawns and pour in Tamari sauce. Stir continuously for about 3-5 minutes or until prawns are cooked through and the sauce has thickened slightly.",
+    "Drizzle a little bit of water into the pan to reduce excess moisture from the prawns without making it too soupy.",
+    "Remove from heat, add fresh parsley, toss, and serve immediately.",
+    "Note: Adjust seasoning with more salt if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "velvety-earthly-prawns",
+    "uruguayan-meal-prep",
+    "low-sodium-friendly"
+  ],
+  "nutrition": {
+    "calories": 318,
+    "protein": 29,
+    "carbs": 7,
+    "fat": 14
+  },
+  "slug": "velvety-earthy-prawns-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-earthy-prawns-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T19:44:43Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "meal-prep",
+    "technique": "rest",
+    "primaryIngredient": "tiger prawns",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Prawns",
+    "descriptor": "Earthy Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
