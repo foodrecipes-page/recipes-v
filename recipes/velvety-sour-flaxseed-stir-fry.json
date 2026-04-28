@@ -1,0 +1,93 @@
+{
+  "title": "Velvety Sour Flaxseed Stir-fry",
+  "description": "A lazy Sunday Brazilian dish featuring sour flaxseed in a velvety sauce that pairs well with grilled vegetables or tofu.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flaxseeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 small"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 can (400g)"
+    },
+    {
+      "name": "Red Bell Peppers",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "2"
+    },
+    {
+      "name": "Sour Mix (Ketchup, vinegar, lemon juice)",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Tofu or Grilled Vegetables",
+      "amount": "To serve"
+    }
+  ],
+  "instructions": [
+    "Toast flaxseeds in a dry pan over medium heat until lightly golden, about 5 minutes. Remove from heat and let cool.",
+    "Finely chop garlic cloves, onions, green onions, and red bell peppers.",
+    "Blend cooled toasted flaxseeds with chopped garlic, onions, tomatoes (drained), and peppers into a smooth paste in a blender or food processor.",
+    "Add sour mix, water, and olive oil to the blended mixture. Blend again until completely smooth and creamy. Taste and adjust seasonings if needed.",
+    "Heat some olive oil in a pan over medium heat. Pour in the flaxseed sauce and bring it to simmering. Let cook for about 5 minutes until slightly thickened and fragrant.",
+    "Serve immediately with grilled vegetables or tofu on top of steamed rice or quinoa."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flaxseed",
+    "sour",
+    "velvety",
+    "lazy-sunday",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 28,
+    "fat": 16
+  },
+  "slug": "velvety-sour-flaxseed-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-sour-flaxseed-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T20:56:56Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "grill",
+    "primaryIngredient": "flaxseed",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Flaxseed",
+    "descriptor": "Sour Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
