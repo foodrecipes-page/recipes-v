@@ -601,6 +601,21 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-comforting-french-citrus-stir-fry",
+    "title": "Velvety Comforting French Citrus Stir-fry",
+    "tags": [
+      "comforting",
+      "citrusy",
+      "velvety",
+      "french",
+      "stir-fry",
+      "scotch-bonnet"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-cozy-moroccan-garlic-stir-fry",
     "title": "Velvety Cozy Moroccan Garlic Stir-fry",
     "tags": [

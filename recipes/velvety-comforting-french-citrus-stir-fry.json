@@ -1,0 +1,94 @@
+{
+  "title": "Velvety Comforting French Citrus Stir-fry",
+  "description": "A citrusy, velvety French dish featuring scotch bonnet for a spicy kick, nut-free-friendly.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Egg",
+      "amount": "2 large",
+      "notes": "Cracked and beaten"
+    },
+    {
+      "name": "Scotch Bonnet Peppers",
+      "amount": "4 medium",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "French White Wine (optional)",
+      "amount": "1/4 cup",
+      "notes": "For added depth of flavor"
+    },
+    {
+      "name": "Ginger (grated)",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Leicester Cheese or Nut-Free Alternative",
+      "amount": "60g",
+      "notes": "Grated for added richness and creaminess"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "2 tsp",
+      "notes": "Freshly grated for a bright citrus flavor"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a wok or large skillet over medium-high heat.",
+    "Add egg and stir-fry until set, breaking it into small pieces to create a velvety texture.",
+    "Add scotch bonnet peppers and grated ginger. Stir for about 1 minute until fragrant but not burnt.",
+    "Drizzle in white wine (if using) and simmer for an additional minute to reduce slightly and add depth of flavor.",
+    "Garnish with lemon zest, Leicester cheese (or alternative), and a pinch of salt.",
+    "Serve hot as a side dish or over rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comforting",
+    "citrusy",
+    "velvety",
+    "french",
+    "stir-fry",
+    "scotch-bonnet"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 28,
+    "carbs": 37,
+    "fat": 19
+  },
+  "slug": "velvety-comforting-french-citrus-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-comforting-french-citrus-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T11:49:11Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "velvety",
+    "mood": "comforting",
+    "technique": "stir-fry",
+    "primaryIngredient": "scotch bonnet",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Citrus",
+    "descriptor": "Velvety Comforting",
+    "dishForm": "Stir-fry"
+  }
+}
