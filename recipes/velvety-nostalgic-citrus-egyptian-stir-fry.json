@@ -1,0 +1,116 @@
+{
+  "title": "Velvety Nostalgic Citrus Egyptian Stir-fry",
+  "description": "A citrusy, velvety dish with a touch of nostalgia and red food coloring for added depth, featuring a dairy-free-friendly marinade and stir-fry technique.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan",
+    "dairy-free"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "1 cup shredded carrots",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup chopped bell peppers",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 can (14 oz) chickpeas, drained and rinsed",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup cherry tomatoes, halved",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3 tablespoons fresh lemon juice",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon Dijon mustard",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 teaspoons honey or agave nectar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon ground cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/8 teaspoon ground cinnamon",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons red food coloring (optional)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil for stir-frying",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix together lemon juice, Dijon mustard, honey or agave nectar, cumin, and cinnamon. Stir in red food coloring if using.",
+    "Add chopped bell peppers and shredded carrots to the marinade. Toss well until all vegetables are coated with the mixture. Let sit for at least 30 minutes.",
+    "Heat a large skillet over medium-high heat. Add enough vegetable oil to coat the bottom of the pan, about 1 tablespoon.",
+    "Add drained chickpeas and cherry tomatoes to the skillet. Cook, tossing frequently, until vegetables are heated through and lightly browned, about 5-7 minutes.",
+    "Remove vegetables from the skillet with a slotted spoon or spider skimmer. Set aside.",
+    "Return pan to heat if necessary. Add more oil as needed for stir-frying. Add carrots, bell peppers, and any remaining marinade back into the pan.",
+    "Stir-fry until vegetables are tender but still have some crunch, about 3-5 minutes. The amount of time can be adjusted based on preference for crispness vs. softness.",
+    "Combine cooked chickpeas, cherry tomatoes, and any reserved marinade with stir-fried vegetables. Toss to combine.",
+    "Serve hot as an appetizer or small dish. Garnish with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "velvety",
+    "citrusy",
+    "nostalgic",
+    "egyptian",
+    "red-food-coloring",
+    "marinated"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 9,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "velvety-nostalgic-citrus-egyptian-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-nostalgic-citrus-egyptian-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T10:51:15Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "marinate",
+    "primaryIngredient": "red food colouring",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Citrus",
+    "descriptor": "Velvety Nostalgic",
+    "dishForm": "Stir-fry"
+  }
+}
