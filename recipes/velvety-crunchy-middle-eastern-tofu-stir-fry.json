@@ -1,0 +1,90 @@
+{
+  "title": "Velvety Crunchy Middle Eastern Tofu Stir-fry",
+  "description": "This meal-prep-friendly dish features a blend of oyster sauce and plant-based elements to create a velvety texture with a crunchy middle, perfect for adding variety to your diet.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "200g extra-firm tofu",
+      "amount": "medium"
+    },
+    {
+      "name": "1 red bell pepper",
+      "amount": "sliced"
+    },
+    {
+      "name": "1 small onion",
+      "amount": "finely chopped"
+    },
+    {
+      "name": "5 cloves garlic",
+      "amount": "minced"
+    },
+    {
+      "name": "2 tablespoons oyster sauce",
+      "amount": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": ""
+    },
+    {
+      "name": "1 tablespoon sesame oil",
+      "amount": ""
+    },
+    {
+      "name": "A handful of fresh parsley",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Cut the tofu into small cubes and press them to remove excess water.",
+    "Heat a wok or large frying pan over medium-high heat, add sesame oil, and sauté garlic until fragrant but not browned.",
+    "Add chopped onions and red bell peppers to the wok/pan, stir-fry for 2-3 minutes, until the vegetables are translucent.",
+    "Increase the heat to high, add the pressed tofu cubes, tossing them in the oil mixture thoroughly. Cook for about 5 minutes or until golden brown on all sides.",
+    "Reduce heat slightly and pour oyster sauce over the dish, stirring well to incorporate with the tofu.",
+    "Squeeze lemon juice over the stir-fry just before serving to add a pop of brightness.",
+    "Add finely chopped fresh parsley towards the end of cooking for added freshness and color."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "meal-prep",
+    "middle-eastern",
+    "tofu-stir-fry",
+    "velvety-texture",
+    "oyster-sauce"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 25,
+    "carbs": 14,
+    "fat": 8
+  },
+  "slug": "velvety-crunchy-middle-eastern-tofu-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-crunchy-middle-eastern-tofu-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T22:16:44Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "velvety",
+    "mood": "meal-prep",
+    "technique": "knead",
+    "primaryIngredient": "oyster sauce",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Tofu",
+    "descriptor": "Velvety Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
