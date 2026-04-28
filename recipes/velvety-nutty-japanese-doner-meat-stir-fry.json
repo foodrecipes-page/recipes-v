@@ -1,0 +1,103 @@
+{
+  "title": "Velvety Nutty Japanese Doner Meat Stir-fry",
+  "description": "A quick-fix, halal-friendly Japanese dish featuring doner meat in a velvety nutty sauce, perfect for a busy weeknight dinner.",
+  "cuisine": "Japanese",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Doner Meat",
+      "amount": "200g"
+    },
+    {
+      "name": "Peanuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Minced Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Minced Ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Mirin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Oyster Sauce",
+      "amount": "1/2 tablespoon"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Prepare doner meat by marinating with Soy Sauce, Mirin, and Oyster Sauce for at least 2 hours.",
+    "Sauté minced garlic and ginger in oil until fragrant. Add peanuts and almonds; stir-fry until lightly golden.",
+    "Pour in marinade from the doner meat and any collected juices. Simmer to allow flavors to meld together.",
+    "Add Rice Vinegar and continue simmering for 5 minutes, scraping up all crispy bits from the bottom of the pan.",
+    "Toss in sesame seeds and mix well. Adjust seasoning with salt if needed.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese-doner",
+    "nutty-sauce",
+    "quick-fix",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 620,
+    "protein": 35,
+    "carbs": 41,
+    "fat": 28
+  },
+  "slug": "velvety-nutty-japanese-doner-meat-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-nutty-japanese-doner-meat-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T09:46:38Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "velvety",
+    "mood": "quick-fix",
+    "technique": "fry",
+    "primaryIngredient": "doner meat",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Doner Meat",
+    "descriptor": "Nutty Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
