@@ -1,0 +1,101 @@
+{
+  "title": "Velvety Nostalgic Uruguayan Oyster Stir-fry",
+  "description": "A vegetarian-friendly and smoke-infused dish featuring an earthy blend of oyster sauce and vegetables to evoke nostalgic flavors typical of Uruguay.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Green Peppers",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 piece"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Shallots",
+      "amount": "3 pieces"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Oyster Sauce",
+      "amount": "6 tablespoons"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Worcestershire Sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Slice the green peppers, onions, and shallots into thin strips.",
+    "Heat a large skillet with vegetable oil over medium-high heat. Add the sliced ingredients and stir-fry for about 5 minutes until they start to soften.",
+    "Add garlic and oyster sauce to the skillet. Stir well to incorporate all the flavors.",
+    "Mix in tomato paste, Worcestershire sauce, brown sugar, and water. Adjust seasoning with salt and pepper to taste.",
+    "Simmer for an additional 2-3 minutes until the mixture thickens slightly.",
+    "Serve hot as a side dish or over rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "nostalgic",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 28,
+    "fat": 9
+  },
+  "slug": "velvety-nostalgic-uruguayan-oyster-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-nostalgic-uruguayan-oyster-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T01:37:50Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "smoke",
+    "primaryIngredient": "oyster sauce",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Oyster",
+    "descriptor": "Velvety Nostalgic",
+    "dishForm": "Stir-fry"
+  }
+}
