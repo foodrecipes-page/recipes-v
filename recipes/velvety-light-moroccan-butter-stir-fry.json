@@ -1,0 +1,103 @@
+{
+  "title": "Velvety Light Moroccan Butter Stir-fry",
+  "description": "A buttery and velvety Moroccan dish featuring smoked paprika and deglazed with Mediterranean-friendly flavors.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "4 oz"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "oregano",
+      "amount": "1/2 tsp, chopped fresh"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Season chicken with salt and black pepper.",
+    "Heat olive oil in a skillet over medium-high heat. Add chicken and cook until browned on all sides, about 5 minutes per side.",
+    "Add onions and garlic to the pan, sautéing for another minute or two until fragrant.",
+    "Stir in tomato paste, smoked paprika, cumin seeds, oregano, and lemon juice. Cook for an additional 2-3 minutes to let flavors meld together.",
+    "Pour in butter, reduce heat to medium-low, and allow the mixture to bubble and thicken slightly.",
+    "Reduce heat to low and add cooked chicken back into the skillet. Gently stir until fully combined and heated through.",
+    "Serve hot with a side of crusty bread or as a main course on its own."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "stir-fry",
+    "buttery",
+    "velvety",
+    "light",
+    "smoked-paprika"
+  ],
+  "nutrition": {
+    "calories": 365,
+    "protein": 27,
+    "carbs": 18,
+    "fat": 18
+  },
+  "slug": "velvety-light-moroccan-butter-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-light-moroccan-butter-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T22:45:53Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "deglaze",
+    "primaryIngredient": "smoked paprika",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Butter",
+    "descriptor": "Velvety Light",
+    "dishForm": "Stir-fry"
+  }
+}

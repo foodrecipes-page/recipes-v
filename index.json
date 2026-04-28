@@ -1011,6 +1011,21 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-light-moroccan-butter-stir-fry",
+    "title": "Velvety Light Moroccan Butter Stir-fry",
+    "tags": [
+      "moroccan",
+      "stir-fry",
+      "buttery",
+      "velvety",
+      "light",
+      "smoked-paprika"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 55,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-lime-mexican-stir-fry",
     "title": "Velvety Lime Mexican Stir-fry",
     "tags": [
