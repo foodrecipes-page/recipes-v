@@ -1,0 +1,77 @@
+{
+  "title": "Velvety Canadian Farfalle Pasta",
+  "description": "A low-calorie-friendly date-night dish featuring fresh farfalle pasta, perfectly cooked and seasoned with a creamy sauce for that velvety texture.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Farfalle Pasta",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped Fresh Spinach",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Gently Cooked Shrimp or Chicken Slices",
+      "amount": "300g"
+    },
+    {
+      "name": "Creamy Alfredo Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Freshly Grated Parmesan Cheese",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh Dill Sprigs (for garnish)",
+      "amount": "A few"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil. Add farfalle pasta and cook until al dente.",
+    "In another pan, heat the creamy Alfredo sauce over medium heat. Stir in freshly grated Parmesan cheese.",
+    "Meanwhile, sauté the shrimp or chicken slices with some olive oil until just cooked through.",
+    "Combine cooked farfalle pasta with the creamy Alfredo sauce and gently warm it all together. Add chopped fresh spinach to the mix, ensuring it doesn't overcook and turns bright green.",
+    "Toss in the sautéed shrimp or chicken pieces, garnish with dill sprigs, and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "date-night",
+    "velvety",
+    "low-calorie-friendly"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 31,
+    "carbs": 26,
+    "fat": 8
+  },
+  "slug": "velvety-canadian-farfalle-pasta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-canadian-farfalle-pasta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T08:59:53Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "temper",
+    "primaryIngredient": "farfalle",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Farfalle",
+    "descriptor": "Velvety",
+    "dishForm": "Pasta"
+  }
+}
