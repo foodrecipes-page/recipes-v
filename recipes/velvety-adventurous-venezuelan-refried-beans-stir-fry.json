@@ -1,0 +1,91 @@
+{
+  "title": "Velvety Adventurous Venezuelan Refried Beans Stir-fry",
+  "description": "A unique take on traditional refried beans, infused with earthy flavors and a vegan twist that's perfect for an adventurous meal.",
+  "cuisine": "Venezuelan",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Garbanzo Beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Garlic Clove, minced",
+      "amount": "1"
+    },
+    {
+      "name": "Cumin Seed",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Paprika Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Fresh Cilantro, chopped (optional)",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a medium saucepan over medium heat.",
+    "Add diced onion and sauté until translucent, about 3 minutes.",
+    "Stir in minced garlic and cook for another minute.",
+    "Fold in cumin seeds and paprika powder, cooking for 1 minute more to toast the spices.",
+    "Add the garbanzo beans to the pan along with tomato sauce. Stir well.",
+    "Bring mixture to a simmer and let it cook undisturbed for about 5 minutes until slightly thickened.",
+    "Season with salt to taste, stir again, then turn off heat.",
+    "Garnish with chopped fresh cilantro if using, serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "creole",
+    "refried-beans",
+    "stir-fry",
+    "adventurous"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 9
+  },
+  "slug": "velvety-adventurous-venezuelan-refried-beans-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-adventurous-venezuelan-refried-beans-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T18:46:14Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "adventurous",
+    "technique": "poach",
+    "primaryIngredient": "refried beans",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Venezulan",
+    "mainIngredient": "refried beans",
+    "descriptor": "velvety adventurous",
+    "dishForm": "Stir-fry"
+  }
+}
