@@ -1,0 +1,87 @@
+{
+  "title": "Velvety Egyptian Pineapple Stir-fry",
+  "description": "A low-carb-friendly, umami-packed dish featuring pineapple juice in an air-fried monsoon-inspired Egyptian flavor.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "low-carb",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pineapple, fresh",
+      "amount": "1 medium"
+    },
+    {
+      "name": "ginger, fresh",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce, low sodium",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water or apple juice, iced",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "pepper, fresh",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1-2 teaspoons (optional)"
+    },
+    {
+      "name": "salt to taste"
+    }
+  ],
+  "instructions": [
+    "Cut the pineapple into bite-sized pieces and place in a medium bowl.",
+    "Add ginger, soy sauce, tomato paste, water or apple juice, pepper, and sesame oil. Mix well.",
+    "Stir-fry over medium heat for about 5 minutes until slightly thickened and heated through.",
+    "Season with salt to taste before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "umami",
+    "stir-fry",
+    "low-carb",
+    "egyptian",
+    "pineapple",
+    "air-fried"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 7
+  },
+  "slug": "velvety-egyptian-pineapple-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-egyptian-pineapple-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T12:40:25Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "velvety",
+    "mood": "monsoon",
+    "technique": "air-fry",
+    "primaryIngredient": "pineapple juice",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "pineapple",
+    "descriptor": "Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
