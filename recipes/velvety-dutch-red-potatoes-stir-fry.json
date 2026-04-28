@@ -1,0 +1,85 @@
+{
+  "title": "Velvety Dutch Red Potatoes Stir-fry",
+  "description": "An earthy and velvety one-pot dutch dish featuring red potatoes that have been simmered to a smooth texture, served as a high-protein-friendly side or main course.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red Potatoes",
+      "amount": "2 lbs"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Celery Sticks",
+      "amount": "3 medium"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 large"
+    },
+    {
+      "name": "Parsley",
+      "amount": "handful fresh"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Baking Soda",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C).",
+    "Peel and dice the red potatoes into bite-sized pieces. Dice the onion, garlic, and celery.",
+    "In a large pot or Dutch oven, combine potatoes, diced onions, garlic, and about half of the olive oil. Season with salt and pepper.",
+    "Add enough water to cover the ingredients by 1 inch. Bring to a boil then reduce heat to medium-low, stirring occasionally until the mixture reduces slightly (about 30 minutes).",
+    "During the last 5-7 minutes of cooking, add celery and bell pepper. Increase heat to high, adding more olive oil if necessary.",
+    "Taste for seasoning; adjust salt or pepper as needed. Stir in baking soda at this point. Continue simmering until the potatoes are tender but not falling apart.",
+    "Serve hot with a drizzle of extra olive oil and chopped parsley. Can be served with grilled chicken or steak for added protein."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch-red-potatoes",
+    "velvety-stir-fry",
+    "earthly-veggies",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 9
+  },
+  "slug": "velvety-dutch-red-potatoes-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-dutch-red-potatoes-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T14:14:15Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "one-pot",
+    "technique": "reduce",
+    "primaryIngredient": "red potatoes",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Red Potatoes",
+    "descriptor": "Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
