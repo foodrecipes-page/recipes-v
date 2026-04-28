@@ -1,0 +1,80 @@
+{
+  "title": "Velvety Garlicky Milk Chocolate Bite Sizer",
+  "description": "An adventurous Turkish dish featuring a low-calorie-friendly blend of garlic-infused milk chocolate and air-fry technology for a creamy and velvety treat.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "milk chocolate",
+      "amount": "100g"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "20g"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "50ml"
+    },
+    {
+      "name": "whole milk",
+      "amount": "50ml"
+    },
+    {
+      "name": "ground almonds",
+      "amount": "30g"
+    },
+    {
+      "name": "pistachio nuts",
+      "amount": "10g"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 200°C (392°F).",
+    "Melt the milk chocolate and butter in a double boiler or microwave.",
+    "Mix in the garlic powder, heavy cream, and whole milk until smooth. Fold in ground almonds and pistachio nuts gently.",
+    "Scoop the mixture into an ice cube tray to set at room temperature for 5 minutes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "milk-chocolate",
+    "garlic",
+    "velvety",
+    "air-fry",
+    "turkish-dish",
+    "low-calorie"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 2,
+    "carbs": 9,
+    "fat": 8
+  },
+  "slug": "velvety-garlicky-milk-chocolate-bite-sizer",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-garlicky-milk-chocolate-bite-sizer",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T13:50:42Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "velvety",
+    "mood": "adventurous",
+    "technique": "air-fry",
+    "primaryIngredient": "milk chocolate",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Milk Chocolate",
+    "descriptor": "Garlicky Velvety Adventurous",
+    "dishForm": "Bite Sizer"
+  }
+}
