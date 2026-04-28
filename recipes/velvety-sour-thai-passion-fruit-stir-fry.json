@@ -1,0 +1,88 @@
+{
+  "title": "Velvety Sour Thai Passion Fruit Stir-fry",
+  "description": "This show-off dish features a velvety texture made from passion fruit pulp mixed with other ingredients in a quick stir-fry that is both healthy and satisfying.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 ripe passion fruit",
+      "amount": "medium"
+    },
+    {
+      "name": "2 tbsp soy sauce",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 tsp fish sauce",
+      "amount": "tsp"
+    },
+    {
+      "name": "1 small onion",
+      "amount": "medium dice"
+    },
+    {
+      "name": "1 bell pepper, sliced",
+      "amount": "sliced"
+    },
+    {
+      "name": "1 clove garlic",
+      "amount": "minced"
+    },
+    {
+      "name": "1 tsp ginger paste",
+      "amount": "tsp"
+    },
+    {
+      "name": "2 tbsp vegetable oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 cup jasmine rice, cooked and cooled",
+      "amount": "cup"
+    }
+  ],
+  "instructions": [
+    "Blend the passion fruit pulp with soy sauce, fish sauce, and a pinch of salt until smooth.",
+    "Heat oil in a wok or large skillet over medium-high heat. Add onion and bell pepper; stir-fry for about 2 minutes until slightly softened.",
+    "Add garlic and ginger paste, stirring for an additional minute.",
+    "Pour the passion fruit mixture into the pan, along with cooled cooked jasmine rice. Toss everything together to combine and achieve a velvety texture.",
+    "Serve hot as a main course or side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "velvety",
+    "sour",
+    "thai",
+    "passion fruit",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 256,
+    "protein": 7.9,
+    "carbs": 38.1,
+    "fat": 4.6
+  },
+  "slug": "velvety-sour-thai-passion-fruit-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-sour-thai-passion-fruit-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T22:35:53Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "velvety",
+    "mood": "show-off",
+    "technique": "saute",
+    "primaryIngredient": "passion fruit pulp",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Passion Fruit",
+    "descriptor": "Sour Velvety Show-off",
+    "dishForm": "Stir-fry"
+  }
+}
