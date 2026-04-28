@@ -1,0 +1,100 @@
+{
+  "title": "Velvety Peppery Lentils Stir-fry",
+  "description": "A post-workout Venezuelan dish featuring brown lentils, toasting for added texture and flavor, with a hint of heat from peppercorns, suitable as a side or light meal.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup brown lentils",
+      "amount": "cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp",
+      "notes": "extra-virgin for best flavor"
+    },
+    {
+      "name": "Pinch salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "1 small red onion, diced",
+      "amount": "small dice"
+    },
+    {
+      "name": "1 garlic clove, minced",
+      "amount": "mince"
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/2 teaspoon smoked paprika",
+      "amount": "tsp"
+    },
+    {
+      "name": "Pinch black pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "1 tablespoon fresh parsley, chopped",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "juice"
+    },
+    {
+      "name": "2 tablespoons red wine vinegar",
+      "amount": "tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add lentils, salt, onions, garlic, cumin, and paprika. Stir to combine.",
+    "Simmer for about 10 minutes or until lentils are soft but not mushy.",
+    "Stir in black pepper and parsley.",
+    "Squeeze lime juice over the top and mix well with vinegar.",
+    "Serve hot as a side dish or lightly drizzle with olive oil before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "velvety",
+    "brown-lentils",
+    "halal"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 9
+  },
+  "slug": "velvety-peppery-lentils-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-peppery-lentils-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T22:34:13Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "velvety",
+    "mood": "post-workout",
+    "technique": "toast",
+    "primaryIngredient": "brown lentils",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "lentils",
+    "descriptor": "Peppery Velvety",
+    "dishForm": "Stir-fry"
+  }
+}

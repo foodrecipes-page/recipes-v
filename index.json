@@ -1223,6 +1223,19 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-peppery-lentils-stir-fry",
+    "title": "Velvety Peppery Lentils Stir-fry",
+    "tags": [
+      "peppery",
+      "velvety",
+      "brown-lentils",
+      "halal"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-peruvian-yukon-gold-potatoes-stir-fry",
     "title": "Velvety Peruvian Yukon Gold Potatoes Stir-fry",
     "tags": [
