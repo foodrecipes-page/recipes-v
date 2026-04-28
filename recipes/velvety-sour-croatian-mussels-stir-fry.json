@@ -1,0 +1,82 @@
+{
+  "title": "Velvety Sour Croatian Mussels Stir-fry",
+  "description": "A festive Croatian dish featuring mussels that are caramelized and served in a tangy sauce with a touch of sweetness for a unique flavor profile.",
+  "cuisine": "Croatian",
+  "diet": [
+    "paleo-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb (450g) mussels",
+      "amount": "fresh, cleaned"
+    },
+    {
+      "name": "1 red bell pepper",
+      "amount": "medium, sliced"
+    },
+    {
+      "name": "2 garlic cloves",
+      "amount": "minced"
+    },
+    {
+      "name": "1 cup (250ml) coconut milk",
+      "amount": "",
+      "notes": "use full-fat for a richer flavor"
+    },
+    {
+      "name": "3 tablespoons (45g) apple cider vinegar",
+      "amount": ""
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 425°F (220°C).",
+    "Place the mussels in a single layer on a baking sheet.",
+    "Season with salt and pepper, then drizzle with coconut milk. Roast for about 10 minutes or until the mussels open fully.",
+    "In a separate pan, heat some oil over medium-high heat. Add sliced red bell peppers and minced garlic, sautéing for about 5 minutes until they become soft.",
+    "Pour in the apple cider vinegar and lime juice. Stir well to combine, scraping up any caramelized bits from the bottom of the pan. Simmer for an additional minute or two to reduce slightly.",
+    "Add the roasted mussels into the sauce and stir to coat evenly. Serve immediately while hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "velvety-sour",
+    "caramelized-mussels",
+    "paleo-friendly-dish"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 16,
+    "carbs": 37,
+    "fat": 9
+  },
+  "slug": "velvety-sour-croatian-mussels-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-sour-croatian-mussels-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T15:56:32Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "caramelize",
+    "primaryIngredient": "mussels",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Mussels",
+    "descriptor": "Sour Velvety Festive",
+    "dishForm": "Stir-fry"
+  }
+}
