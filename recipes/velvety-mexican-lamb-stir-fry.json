@@ -1,0 +1,101 @@
+{
+  "title": "Velvety Mexican Lamb Stir-fry",
+  "description": "This high-protein-friendly mexican dish is a velvety umami delight perfect for sick days. It features tender lamb cooked with sous-vide and vibrant, colorful vegetables in a flavorful sauce.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegan",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sous-vide Lamb",
+      "amount": "200g",
+      "notes": "Ensure meat is cooked to at least 63°C (145°F) for safety."
+    },
+    {
+      "name": "Chopped Bell Peppers",
+      "amount": "100g"
+    },
+    {
+      "name": "Chopped Red Onion",
+      "amount": "50g"
+    },
+    {
+      "name": "Chopped Zucchini",
+      "amount": "50g"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Bay Leaves",
+      "amount": "3 leaves"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/8 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add chopped bell peppers, red onion, and zucchini to the pan and stir for about 5 minutes or until vegetables are tender.",
+    "Remove from heat and transfer vegetables to a serving dish. Preheat a wok or skillet over high heat with some additional olive oil.",
+    "Place sous-vide lamb in the hot pan and sear on all sides for about 2-3 minutes per side, depending on thickness of meat.",
+    "Add garlic powder, soy sauce, tomato paste, bay leaves, salt, and pepper to the wok. Stir well to combine all ingredients.",
+    "Pour cooked vegetables back into the wok and continue to stir-fry until mixture thickens slightly, about 3-4 minutes more.",
+    "Serve immediately with additional garnishes like fresh cilantro or lime wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sous-vide-lamb",
+    "umami-dish",
+    "high-protein-friendly",
+    "mexican-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 45,
+    "carbs": 28,
+    "fat": 30
+  },
+  "slug": "velvety-mexican-lamb-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-mexican-lamb-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T21:10:54Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "velvety",
+    "mood": "sick-day",
+    "technique": "sous-vide",
+    "primaryIngredient": "lamb",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "lamb",
+    "descriptor": "velvety",
+    "dishForm": "Stir-fry"
+  }
+}

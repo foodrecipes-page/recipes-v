@@ -1009,6 +1009,19 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-mexican-lamb-stir-fry",
+    "title": "Velvety Mexican Lamb Stir-fry",
+    "tags": [
+      "sous-vide-lamb",
+      "umami-dish",
+      "high-protein-friendly",
+      "mexican-stir-fry"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-mexican-yautia-polish",
     "title": "Velvety Mexican Yautia Polish",
     "tags": [
