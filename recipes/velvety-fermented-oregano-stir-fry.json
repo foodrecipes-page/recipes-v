@@ -1,0 +1,90 @@
+{
+  "title": "Velvety Fermented Oregano Stir-fry",
+  "description": "A brunch-mood Australian dish featuring oregano and a fermented base for a unique flavor profile that's perfect for plant-based diners.",
+  "cuisine": "Australian",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fermented Oregano Paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Red Bell Pepper, diced",
+      "amount": "1 small"
+    },
+    {
+      "name": "Broccoli Florets",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Kale Leaves",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Chickpeas, canned and drained",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive Oil for Stir-frying",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt to taste",
+      "notes": "Adjust based on the saltiness of your oregano paste"
+    }
+  ],
+  "instructions": [
+    "Heat a tablespoon of olive oil in a large skillet over medium heat.",
+    "Add minced garlic and stir for about 1 minute until fragrant.",
+    "Gradually add fermented oregano paste, stirring constantly to prevent burning. Cook for another minute.",
+    "Reduce heat to low and add the remaining tablespoon of olive oil. Add diced red bell pepper, broccoli florets, and kale leaves. Stir well to combine with the garlic mixture.",
+    "Add chickpeas and continue to stir-fry for about 5-7 minutes until vegetables are tender but still crisp.",
+    "Stir in salt as needed based on taste preference. Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "velvety",
+    "fermented",
+    "stir-fry",
+    "australian"
+  ],
+  "nutrition": {
+    "calories": 512,
+    "protein": 27,
+    "carbs": 36,
+    "fat": 18
+  },
+  "slug": "velvety-fermented-oregano-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-fermented-oregano-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T07:34:25Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "velvety",
+    "mood": "brunch-mood",
+    "technique": "knead",
+    "primaryIngredient": "oregano",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Oregano",
+    "descriptor": "Fermented Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
