@@ -1,0 +1,85 @@
+{
+  "title": "Velvety Spicy Chorizo Stir-fry",
+  "description": "A quick-fix Uruguayan dish featuring spicy chorizo, red wine, and a velvety texture.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "kosher-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chorizo",
+      "amount": "100g"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "green onion",
+      "amount": "2 stalks, finely chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "freshly ground black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat. Add chorizo and cook until browned, about 5 minutes.",
+    "Add red bell pepper and green onion to the skillet, cook for an additional 3-4 minutes or until vegetables are tender.",
+    "Stir in minced garlic and cook for another minute until fragrant.",
+    "Pour in red wine and bring it to a simmer. Let it reduce slightly, about 2 minutes.",
+    "Season with salt and freshly ground black pepper to taste. Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "velvety",
+    "uruguayan",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 17,
+    "fat": 18
+  },
+  "slug": "velvety-spicy-chorizo-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-spicy-chorizo-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T05:14:41Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "velvety",
+    "mood": "quick-fix",
+    "technique": "blanch",
+    "primaryIngredient": "red wine",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Chorizo",
+    "descriptor": "Spicy Velvety Quick Fix",
+    "dishForm": "Stir-fry"
+  }
+}

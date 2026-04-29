@@ -1560,6 +1560,19 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-spicy-chorizo-stir-fry",
+    "title": "Velvety Spicy Chorizo Stir-fry",
+    "tags": [
+      "spicy",
+      "velvety",
+      "uruguayan",
+      "quick-fix"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-spicy-middle-eastern-apricot-stir-fry",
     "title": "Velvety Spicy Middle Eastern Apricot Stir-fry",
     "tags": [
