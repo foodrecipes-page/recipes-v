@@ -1,0 +1,74 @@
+{
+  "title": "Velvety Japanese Ferment Stir-fry",
+  "description": "A quick-fix umami and velvety dish featuring halal-friendly Japanese fries combined with a tangy ferment for an irresistible meal.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Potato Fries",
+      "amount": "200g"
+    },
+    {
+      "name": "Fermented Pickled Vegetables",
+      "amount": "100g"
+    },
+    {
+      "name": "Umami Seasoning (e.g. Soy Sauce, Hoisin)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Halal-friendly Tamari or Kikkoman Soy Sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "3 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a wok over medium-high heat.",
+    "Add vegetable oil and fries to the wok. Cook for about 5 minutes on each side until golden brown.",
+    "Drain excess oil from the fries, set aside in a warm place.",
+    "In the same wok, add umami seasoning (adjust amount based on preference) and fermented vegetables. Stir-fry for another minute.",
+    "Add fries back into the wok with the fermented vegetables. Stir well to combine all ingredients evenly.",
+    "Finish by adding halal-friendly tamari or Kikkoman Soy Sauce and mix thoroughly.",
+    "Serve immediately as a quick-fix snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "stir-fry",
+    "halal-friendly",
+    "umami",
+    "ferment"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 48,
+    "fat": 10
+  },
+  "slug": "velvety-japanese-ferment-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-japanese-ferment-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T07:56:24Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "velvety",
+    "mood": "quick-fix",
+    "technique": "ferment",
+    "primaryIngredient": "fries",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Ferment",
+    "descriptor": "Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
