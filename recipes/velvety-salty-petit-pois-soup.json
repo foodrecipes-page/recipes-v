@@ -1,0 +1,87 @@
+{
+  "title": "Velvety Salty Petit pois Soup",
+  "description": "A low-fat-friendly Ukrainian dish featuring petit pois and cured meats in a creamy broth that's perfect for those feeling under the weather.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "soup",
+  "ingredients": [
+    {
+      "name": "petit pois",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cured meats (e.g. prosciutto or pancetta)",
+      "amount": "2 slices"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dill",
+      "amount": "a few sprigs, chopped"
+    },
+    {
+      "name": "fresh dill (optional)",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Cook diced onion in a pot over medium heat until soft.",
+    "Add minced garlic and cook for an additional minute.",
+    "Stir in petite pois and simmer for about 5 minutes or until the liquid is absorbed.",
+    "Gradually add unsweetened coconut milk, stirring constantly to prevent lumps. Allow mixture to come back to a gentle boil.",
+    "Reduce heat to low and stir in low-sodium chicken broth. Simmer gently for 10-15 minutes to allow flavors to meld together.",
+    "Fold in chopped cured meats, allowing them to cook until heated through.",
+    "Stir in fresh dill if using."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ukrainian-recipe",
+    "salty-petit-pois-soup",
+    "low-fat-friendly",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 8,
+    "carbs": 12,
+    "fat": 4
+  },
+  "slug": "velvety-salty-petit-pois-soup",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-salty-petit-pois-soup",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T05:02:51Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "velvety",
+    "mood": "sick-day",
+    "technique": "cure",
+    "primaryIngredient": "petit pois",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Petit pois",
+    "descriptor": "Salty Velvety",
+    "dishForm": "Soup"
+  }
+}
