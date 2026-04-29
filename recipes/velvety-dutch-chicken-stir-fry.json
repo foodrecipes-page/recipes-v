@@ -1,0 +1,101 @@
+{
+  "title": "Velvety Dutch Chicken Stir-fry",
+  "description": "A festive Dutch dish featuring a velvety sauce made with chicken stock cube, prepared whole30-friendly and suitable for the umami palette.",
+  "cuisine": "Dutch",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb"
+    },
+    {
+      "name": "onion, sliced",
+      "amount": "2"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "4"
+    },
+    {
+      "name": "ginger root, minced",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chicken stock cube",
+      "amount": "1"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "hoisin sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C).",
+    "Cut chicken into small pieces and season with salt and pepper. Roast in the preheated oven for about 15 minutes until golden brown.",
+    "In a large skillet, heat oil over medium-high heat. Add onion and garlic, sauté for 3-4 minutes or until translucent.",
+    "Add minced ginger to the skillet, stirring well for an additional minute. Mix in roasted chicken pieces.",
+    "Stir in soy sauce, hoisin sauce, lemon juice, and chicken stock cube. Bring to a simmer, then let it thicken slightly by reducing the heat.",
+    "Incorporate sesame seeds into the sauce just before serving for added texture and flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "velvety-dutch-chicken-stir-fry",
+    "whole30-friendly",
+    "umami-tasting"
+  ],
+  "nutrition": {
+    "calories": 629,
+    "protein": 51,
+    "carbs": 27,
+    "fat": 28
+  },
+  "slug": "velvety-dutch-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-dutch-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T07:51:06Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "roast",
+    "primaryIngredient": "chicken stock cube",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Chicken",
+    "descriptor": "Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
