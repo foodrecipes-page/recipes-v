@@ -739,6 +739,19 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-dough-pie",
+    "title": "Velvety Dough Pie",
+    "tags": [
+      "velvety-dough-pie",
+      "british-dessert",
+      "vegan-friendly",
+      "dairy-free"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 50,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-dutch-chicken-stir-fry",
     "title": "Velvety Dutch Chicken Stir-fry",
     "tags": [

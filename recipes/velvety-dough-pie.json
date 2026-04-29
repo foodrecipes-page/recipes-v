@@ -1,0 +1,101 @@
+{
+  "title": "Velvety Dough Pie",
+  "description": "A comforting British dish featuring a rich velvety filling encased in crispy phyllo dough and dairy-free-friendly.",
+  "cuisine": "British",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Vegan Cream Cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Silken Tofu",
+      "amount": "3 cups"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Ground Cinnamon",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable Shortening",
+      "amount": "8 tablespoons"
+    },
+    {
+      "name": "Phyllo Dough Sheets",
+      "amount": "18 sheets"
+    },
+    {
+      "name": "Coconut Cream Pie Filling (Optional)",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Combine cream cheese, tofu, coconut milk, vanilla extract, salt, and cinnamon in a mixing bowl. Mix well until smooth.",
+    "In another bowl, mix coconut oil with flour and shortening until crumbly.",
+    "Roll out phyllo sheets, layering them lightly coated with flour to prevent sticking.",
+    "Place a heaped spoonful of the cream cheese mixture into each phyllo cup, followed by a scoop of coconut cream filling if using.",
+    "Fold up the edges and seal tightly. Repeat until all dough cups are filled.",
+    "Pre-bake for 10 minutes at 350°F (175°C).",
+    "Brush with melted coconut oil or vegan butter. Bake an additional 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy the comforting velvety texture of this delightful dessert."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "velvety-dough-pie",
+    "british-dessert",
+    "vegan-friendly",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 36,
+    "fat": 22
+  },
+  "slug": "velvety-dough-pie",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-dough-pie",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T10:03:55Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "velvety",
+    "mood": "comforting",
+    "technique": "rest",
+    "primaryIngredient": "phyllo dough",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "dough",
+    "descriptor": "Bitter Velvety Comforting",
+    "dishForm": "Pie"
+  }
+}
