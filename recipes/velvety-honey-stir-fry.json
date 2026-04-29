@@ -1,0 +1,86 @@
+{
+  "title": "Velvety Honey Stir-fry",
+  "description": "A buttery, velvety Ukrainian dish perfect for date nights featuring honey, deglazed with Mediterranean flavors.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "1 onion, finely chopped",
+      "amount": "pieces"
+    },
+    {
+      "name": "4 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 bell pepper, sliced",
+      "amount": "piece"
+    },
+    {
+      "name": "200g ground lamb or beef",
+      "amount": "grams"
+    },
+    {
+      "name": "2 tablespoons honey",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juices"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": null
+    },
+    {
+      "name": "Fresh parsley, chopped (optional)",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat. Add onions and garlic; sauté for about 3 minutes until fragrant.",
+    "Add bell pepper to the skillet; stir-fry for an additional 5-7 minutes or until softened.",
+    "Add ground lamb, season with salt and pepper, and cook until browned on all sides. Deglaze with lemon juice and continue cooking.",
+    "Gradually add honey to the skillet, stirring constantly to prevent clumping and ensure a smooth texture. Cook for about 2-3 minutes or until thickened.",
+    "Remove from heat; stir in chopped parsley if using."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "velvety-honey-stir-fry",
+    "buttery-date-night-ukrainian-dish",
+    "mediterranean-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 16,
+    "fat": 18
+  },
+  "slug": "velvety-honey-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-honey-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T05:21:17Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "deglaze",
+    "primaryIngredient": "honey",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "honey",
+    "descriptor": "buttery velvety",
+    "dishForm": "Stir-fry"
+  }
+}
