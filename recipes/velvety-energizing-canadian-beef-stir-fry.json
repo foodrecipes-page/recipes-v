@@ -1,0 +1,94 @@
+{
+  "title": "Velvety Energizing Canadian Beef Stir-fry",
+  "description": "This dish is designed to be energizing and rich in umami flavors, using creme fraiche as a key ingredient for its velvety texture and smooth taste.",
+  "cuisine": "Canadian",
+  "diet": [
+    "paleo-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "150g"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "crushed garlic cloves",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "creme fraiche",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "salt and black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "zucchini slices",
+      "amount": "100g"
+    },
+    {
+      "name": "bell peppers (any color)",
+      "amount": "200g"
+    }
+  ],
+  "instructions": [
+    "Marinate beef strips with lime juice, soy sauce, ginger paste, red pepper flakes, and crushed garlic for at least 30 minutes.",
+    "Preheat a wok or large frying pan over high heat. Add a bit of olive oil if needed.",
+    "Add zucchini slices to the pan and stir-fry until they start to soften, about 2-3 minutes.",
+    "Remove zucchini and set aside. Season beef with salt and black pepper, then add it to the pan and stir-fry until cooked through, approximately 5-7 minutes.",
+    "Return zucchini back into the pan along with bell peppers. Stir-fry for another minute or so to combine all ingredients.",
+    "In a small bowl, mix creme fraiche with lime juice (if using) until well combined. Pour this mixture over the stir-fried beef and vegetables in the pan.",
+    "Stir everything together gently to incorporate the creme fraiche mixture evenly into the dish. Cook for an additional minute or two until heated through.",
+    "Serve hot as a side dish with rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan-friendly",
+    "paleo-friends"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 25,
+    "carbs": 15,
+    "fat": 18
+  },
+  "slug": "velvety-energizing-canadian-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-energizing-canadian-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T04:36:40Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "velvety",
+    "mood": "energizing",
+    "technique": "marinate",
+    "primaryIngredient": "creme fraiche",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Beef",
+    "descriptor": "Umami Velvety Energetic",
+    "dishForm": "Stir-fry"
+  }
+}
