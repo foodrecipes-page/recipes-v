@@ -1,0 +1,77 @@
+{
+  "title": "Velvety Citrusy Date Pilaf",
+  "description": "This date-night dish combines velvety dates with a citrusy twist for a raw-friendly treat that's perfect for any meal.",
+  "cuisine": "jamaican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup of white bread crumbs",
+      "amount": "cup",
+      "notes": "ensure they are raw and not toasted"
+    },
+    {
+      "name": "2 dates, pitted and sliced",
+      "amount": "medium",
+      "notes": "adjust quantity based on desired consistency"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "juice of one lime"
+    },
+    {
+      "name": "Juice of 1 orange",
+      "amount": "juice of one orange"
+    },
+    {
+      "name": "1/4 cup of chopped fresh parsley",
+      "amount": "cup",
+      "notes": "for garnish, optional"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (392°F).",
+    "Combine bread crumbs and juice from both citrus fruits in a bowl.",
+    "Add dates and parsley, mix well until evenly distributed.",
+    "Transfer mixture into a baking dish and bake for about 15-20 minutes or until golden brown.",
+    "Garnish with extra parsley if desired before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "date-pilaf",
+    "citrusy",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 175,
+    "protein": 2,
+    "carbs": 23,
+    "fat": 0
+  },
+  "slug": "velvety-citrusy-date-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-citrusy-date-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T09:23:48Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "boil",
+    "primaryIngredient": "white bread mix",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "date",
+    "descriptor": "Citrusy Velvety",
+    "dishForm": "Pilaf"
+  }
+}
