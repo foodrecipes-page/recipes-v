@@ -1,0 +1,99 @@
+{
+  "title": "Velvety Adventurous Irish Apricot Stir-fry",
+  "description": "This dish combines the savory depth of broiling with the sweetness and intrigue of dried apricots, making it a delightful and adventurous Irish meal that's also fodmap-friendly.",
+  "cuisine": "Irish",
+  "diet": [
+    "low-carb",
+    "sugar-free",
+    "ketogenic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup chopped dried apricots",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup low-sugar soy sauce or tamari",
+      "amount": "",
+      "notes": "For a sugar-free option, use agave nectar or stevia."
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "1 tbsp low-sodium soy sauce (optional)",
+      "amount": "",
+      "notes": "For extra umami flavor, optional"
+    }
+  ],
+  "instructions": [
+    "Preheat your broiler according to the manufacturer’s instructions.",
+    "In a large skillet or wok, heat a tablespoon of oil over medium-high heat.",
+    "Add the minced garlic and cook for about 30 seconds until fragrant but not browned.",
+    "Fold in the chopped dried apricots. Stir-fry for about 5 minutes or until they start to release their moisture.",
+    "Add the lime juice, low-sugar soy sauce (or tamari), salt, and pepper. Stir well to combine.",
+    "For a velvety texture, press the mixture through a fine-mesh sieve into the skillet and stir gently. This helps remove any seeds or tough fibers from the apricots.",
+    "If desired, drizzle in the optional low-sodium soy sauce for extra depth of flavor.",
+    "Cook over medium-high heat until the liquid has slightly reduced and the flavors are well combined, about 3-5 minutes more.",
+    "Serve hot as a side dish or main course depending on your meal plan."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "broil",
+    "velvety",
+    "adventurous",
+    "irish",
+    "stir-fry",
+    "dried-apricot",
+    "sour",
+    "low-carb",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 7,
+    "carbs": 15,
+    "fat": 4
+  },
+  "slug": "velvety-adventurous-irish-apricot-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-adventurous-irish-apricot-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T03:43:02Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "velvety",
+    "mood": "adventurous",
+    "technique": "broil",
+    "primaryIngredient": "dried apricots",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Apricot",
+    "descriptor": "Velvety Adventurous",
+    "dishForm": "Stir-fry"
+  }
+}
