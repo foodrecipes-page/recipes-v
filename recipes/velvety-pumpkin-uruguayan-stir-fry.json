@@ -1,0 +1,82 @@
+{
+  "title": "Velvety Pumpkin Uruguayan Stir-fry",
+  "description": "A quick-fix nutty and velvety dish featuring melons in a bhuna-style sauce that is both wholesome and delicious.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "nutty",
+    "velvety",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pumpkin",
+      "amount": "1 cup peeled and diced"
+    },
+    {
+      "name": "shallots",
+      "amount": "3 slices thinly sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/4 medium, finely chopped"
+    },
+    {
+      "name": "peel of 1 lime",
+      "notes": "juiced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "butter",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a pan over medium heat.",
+    "Add shallots and onion, sauté until translucent and fragrant. Add lime peel and cook for an additional minute.",
+    "Stir in pumpkin and coconut milk, adjust seasoning with salt if needed, bring to boil.",
+    "Reduce heat to low and let simmer for 20 minutes or until the pumpkin is very soft.",
+    "Blend mixture until smooth using a hand blender. Season with lime juice as desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "velvety-pumpkin",
+    "bhuna-style-stir-fry",
+    "nutty"
+  ],
+  "nutrition": {
+    "calories": 195,
+    "protein": 6.2,
+    "carbs": 37.8,
+    "fat": 10.4
+  },
+  "slug": "velvety-pumpkin-uruguayan-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-pumpkin-uruguayan-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T10:08:54Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "velvety",
+    "mood": "quick-fix",
+    "technique": "bhuna",
+    "primaryIngredient": "melons",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Pumpkin",
+    "descriptor": "Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
