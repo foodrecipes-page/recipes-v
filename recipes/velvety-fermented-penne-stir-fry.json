@@ -1,0 +1,79 @@
+{
+  "title": "Velvety Fermented Penne Stir-fry",
+  "description": "A delicious brunch-mood dish featuring fermented pasta with a rich velvety sauce to satisfy any craving for authenticity and flavor in the Arabian culinary tradition.",
+  "cuisine": "Saudi Arabian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Penne Pasta",
+      "amount": "200g"
+    },
+    {
+      "name": "Egg Whites",
+      "amount": "3"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic Cloves, minced",
+      "amount": "4"
+    },
+    {
+      "name": "Fermented Ketchup (homemade or store-bought)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Pesto Sauce, optional",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan over medium heat and add oil. Add onion and garlic; sauté for about 5 minutes until fragrant.",
+    "Add penne pasta to the pan with some reserved pasta water to create a creamy sauce. Stir-fry for another 3-4 minutes until heated through.",
+    "Pour in fermented ketchup and stir continuously, letting it caramelize slightly and thicken into a rich sauce.",
+    "If desired, add pesto for an extra layer of flavor. Taste and adjust seasoning as needed.",
+    "Serve hot with fresh herbs or lemon wedges on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "velvety",
+    "fermented",
+    "stir-fry",
+    "sausage-vegan"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 16,
+    "carbs": 35,
+    "fat": 9
+  },
+  "slug": "velvety-fermented-penne-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-fermented-penne-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T01:54:38Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "velvety",
+    "mood": "brunch-mood",
+    "technique": "deglaze",
+    "primaryIngredient": "penne pasta",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "Penne",
+    "descriptor": "Fermented Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
