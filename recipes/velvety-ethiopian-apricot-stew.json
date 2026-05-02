@@ -1,0 +1,99 @@
+{
+  "title": "Velvety Ethiopian Apricot Stew",
+  "description": "A nostalgic Ethiopian dish featuring sweet apricots, spicy berbere, and a smooth, velvety texture perfect for low-fat cooking.",
+  "cuisine": "ethiopian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fresh apricots",
+      "amount": "1 cup",
+      "notes": "pitted, ripe"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      ": ": "notes"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 tsp",
+      "notes": "Ethiopian blend"
+    },
+    {
+      "name": "cure",
+      "amount": "2 tbsp",
+      "notes": "dried, low-sodium"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "light, full-fat optional"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "for broth"
+    }
+  ],
+  "instructions": [
+    "In a heavy pot, sauté onion and bell pepper until soft.",
+    "Add garlic, berbere, and cure; cook for 1 minute.",
+    "Stir in coconut milk and water, then simmer for 15 minutes.",
+    "Add apricots, reduce heat, and cook for 5 more minutes until tender."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ethiopian",
+    "stew",
+    "apricot",
+    "velvety",
+    "spicy",
+    "lowfat"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "velvety-ethiopian-apricot-stew",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-ethiopian-apricot-stew",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-02T21:52:50Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "cure",
+    "primaryIngredient": "apricot",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "apricot",
+    "descriptor": "velvety",
+    "dishForm": "stew"
+  }
+}
