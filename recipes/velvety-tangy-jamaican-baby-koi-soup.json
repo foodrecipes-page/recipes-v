@@ -1,0 +1,107 @@
+{
+  "title": "Velvety Tangy Jamaican Baby Koi Soup",
+  "description": "A quick, egg‑free Jamaican soup that blends the delicate flavor of baby koi with a bright, tangy citrus twist and creamy coconut base.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "pescatarian",
+    "egg-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "baby koi fillets",
+      "amount": "400g",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "200ml",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "30ml",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "allspice berries",
+      "amount": "1 tsp",
+      "notes": "crushed"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1 whole",
+      "notes": "sliced, remove seeds for less heat"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp",
+      "notes": "fresh, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "scallions",
+      "amount": "2 stalks",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a medium pot over medium heat and add the water, coconut milk, and crushed allspice berries; bring to a gentle simmer.",
+    "Add the sliced scotch bonnet pepper and minced ginger, letting the aromatics infuse for 1–2 minutes.",
+    "Gently place the baby koi fillets into the pot, ensuring they are submerged; cover and simmer for 5–7 minutes until the fish flakes easily.",
+    "Stir in the sliced scallions and lime juice, seasoning with salt to taste; remove from heat and let stand for 2 minutes to meld flavors.",
+    "Serve hot, optionally garnished with a sprinkle of fresh scallion or a dash of hot sauce if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican",
+    "quick-fix",
+    "pescatarian",
+    "egg-free",
+    "tangy",
+    "velvety",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 153,
+    "protein": 18,
+    "carbs": 1,
+    "fat": 7
+  },
+  "slug": "velvety-tangy-jamaican-baby-koi-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-tangy-jamaican-baby-koi-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:15:33Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "velvety",
+    "mood": "quick-fix",
+    "technique": "temper",
+    "primaryIngredient": "baby pak koi",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Baby Koi",
+    "descriptor": "Velvety Tangy",
+    "dishForm": "Soup"
+  }
+}
