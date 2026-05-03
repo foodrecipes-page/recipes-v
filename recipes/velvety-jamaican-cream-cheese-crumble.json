@@ -1,0 +1,114 @@
+{
+  "title": "Velvety Jamaican Cream Cheese Crumble",
+  "description": "A rich, crumbly Jamaican-inspired dessert that blends velvety cream cheese with warm spices, finished with a crispy, buttery topping for a comforting treat.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "low-fodmap"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cream cheese",
+      "amount": "200g",
+      "notes": "softened"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "50g",
+      "notes": "melted"
+    },
+    {
+      "name": "gluten‑free all‑purpose flour",
+      "amount": "50g",
+      "notes": "rice‑based"
+    },
+    {
+      "name": "almond flour",
+      "amount": "30g"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "30g",
+      "notes": "or light brown sugar"
+    },
+    {
+      "name": "ground allspice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "walnuts",
+      "amount": "30g",
+      "notes": "optional, low‑FODMAP portion"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "In a bowl, cream together the softened cream cheese and melted butter until smooth.",
+    "Stir in the maple syrup and allspice, cinnamon, nutmeg, thyme, and a pinch of salt until well combined.",
+    "Fold in the gluten‑free flour and almond flour until the mixture is thick and crumbly.",
+    "If using walnuts, gently fold them in now.",
+    "Spread the mixture evenly in a shallow baking dish.",
+    "Bake for 12–15 minutes, or until the top is golden and crisp.",
+    "Remove from the oven and let cool for 5 minutes.",
+    "Serve warm, optionally drizzled with a light lime zest or a splash of coconut milk for extra richness.",
+    "Enjoy the comforting, velvety crumbly dessert."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican",
+    "creamy",
+    "crumble",
+    "dessert",
+    "vegetarian",
+    "gluten-free",
+    "low-fodmap",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 25,
+    "fat": 22
+  },
+  "slug": "velvety-jamaican-cream-cheese-crumble",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-jamaican-cream-cheese-crumble",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:31:40Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "saute",
+    "primaryIngredient": "cream cheese",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "cream cheese",
+    "descriptor": "Velvety",
+    "dishForm": "Crumble"
+  }
+}
