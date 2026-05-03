@@ -1,0 +1,110 @@
+{
+  "title": "Velvety Sweet Egyptian Ricotta Tagine",
+  "description": "A fragrant, creamy tagine that balances the sweetness of dates with the freshness of green pepper, perfect for a cozy date night.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ricotta cheese",
+      "amount": "200 g",
+      "notes": "whole milk for creaminess"
+    },
+    {
+      "name": "green bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "pitted dates",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a tagine or heavy‑bottomed pot over medium heat.",
+    "Add sliced bell pepper and sauté for 3–4 minutes until just softened.",
+    "Stir in cumin, coriander, cinnamon, and cayenne (if using) and cook for 30 seconds to bloom the spices.",
+    "Pour in honey and lemon juice, stirring to coat the pepper; let the mixture simmer for 2 minutes.",
+    "Reduce heat to low, then fold in ricotta cheese and chopped dates; stir until ricotta melts and the sauce thickens, about 5 minutes.",
+    "Season with salt to taste and garnish with fresh cilantro before serving.",
+    "Serve hot with a side of warm flatbread or a simple grain like couscous (omit if strictly FODMAP)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "fodmap-friendly",
+    "sweet",
+    "creamy",
+    "egyptian",
+    "ricotta",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 26,
+    "carbs": 110,
+    "fat": 42
+  },
+  "slug": "velvety-sweet-egyptian-ricotta-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-sweet-egyptian-ricotta-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:26:31Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "date-night",
+    "technique": "cure",
+    "primaryIngredient": "green pepper",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Ricotta",
+    "descriptor": "Velvety Sweet",
+    "dishForm": "Tagine"
+  }
+}

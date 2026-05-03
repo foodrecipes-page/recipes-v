@@ -487,6 +487,21 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-algerian-lamb-tagine",
+    "title": "Velvety Algerian Lamb Tagine",
+    "tags": [
+      "keto-friendly",
+      "low-carb",
+      "romantic",
+      "algerian",
+      "umami",
+      "velvety"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 70,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-almond-turkish-stir-fry",
     "title": "Velvety Almond Turkish Stir-fry",
     "tags": [
@@ -1312,6 +1327,14 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-moroccan-lamb-tagine",
+    "title": "Velvety Moroccan Lamb Tagine",
+    "tags": [],
+    "cuisine": "Moroccan",
+    "totalTimeMin": null,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-moroccan-peas-stir-fry",
     "title": "Velvety Moroccan Peas Stir-fry",
     "tags": [
@@ -1841,6 +1864,22 @@
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 45,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-sweet-egyptian-ricotta-tagine",
+    "title": "Velvety Sweet Egyptian Ricotta Tagine",
+    "tags": [
+      "vegetarian",
+      "fodmap-friendly",
+      "sweet",
+      "creamy",
+      "egyptian",
+      "ricotta",
+      "tagine"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {

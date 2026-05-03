@@ -1,0 +1,116 @@
+{
+  "title": "Velvety Algerian Lamb Tagine",
+  "description": "A rich, umami-packed lamb tagine with saffron and aromatic spices, finished with fresh mint for a velvety, keto-friendly romance.",
+  "cuisine": "Algerian",
+  "diet": [
+    "keto-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "Cubed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Ground ginger",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Saffron threads",
+      "amount": "1 pinch",
+      "notes": "Steeped in 2 tbsp hot water"
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 cup",
+      "notes": "Low-sugar"
+    },
+    {
+      "name": "Lamb broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "0.5 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a tagine or heavy‑bottomed pot over medium heat.",
+    "Add lamb in batches and brown on all sides; remove and set aside.",
+    "Add sliced onion and minced garlic to the pot; cook until translucent, about 5 minutes.",
+    "Sprinkle in cumin, paprika, cinnamon, and ginger; stir and cook for 1 minute to toast the spices.",
+    "Pour in diced tomatoes and stir to combine; cook for 3 minutes until tomatoes soften.",
+    "Return browned lamb to the pot, pour in the lamb broth, and stir.",
+    "Add the saffron infusion, bring to a gentle simmer, then reduce heat to low, cover, and cook for 45 minutes.",
+    "Stir occasionally, ensuring the lamb stays moist and the sauce thickens slightly.",
+    "Season with salt and pepper to taste.",
+    "Fold in chopped mint leaves; stir for another 2 minutes until fragrant.",
+    "Serve hot, optionally over cauliflower rice or with a side of roasted vegetables.",
+    "Enjoy the velvety texture and aromatic flavors."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 55,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto-friendly",
+    "low-carb",
+    "romantic",
+    "algerian",
+    "umami",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 1100,
+    "protein": 130,
+    "carbs": 12,
+    "fat": 75
+  },
+  "slug": "velvety-algerian-lamb-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-algerian-lamb-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:25:32Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "velvety",
+    "mood": "romantic",
+    "technique": "saute",
+    "primaryIngredient": "saffron",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lamb",
+    "descriptor": "Velvety",
+    "dishForm": "Tagine"
+  }
+}
