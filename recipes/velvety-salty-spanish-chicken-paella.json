@@ -1,0 +1,109 @@
+{
+  "title": "Velvety Salty Spanish Chicken Paella",
+  "description": "A one‑pot paella bursting with salty flavors, wild garlic leaves, and tender sous‑vide chicken, high in protein and comforting for dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken thighs",
+      "amount": "500g",
+      "notes": "cut into 2.5 cm cubes for sous‑vide"
+    },
+    {
+      "name": "wild garlic leaves",
+      "amount": "80g"
+    },
+    {
+      "name": "Arborio rice",
+      "amount": "200g"
+    },
+    {
+      "name": "saffron strands",
+      "amount": "1 tsp",
+      "notes": "steep in 50ml warm water"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "100ml"
+    },
+    {
+      "name": "low‑sodium chicken stock",
+      "amount": "600ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a sous‑vide bath to 65 °C (149 °F). Season the chicken cubes with salt, pepper and smoked paprika, seal in a vacuum bag, and cook for 1 h 30 min.",
+    "Meanwhile, steep the saffron strands in 50 ml of warm water for 10 min to release their color and flavor.",
+    "In a large paella or sauté pan, heat the olive oil over medium heat. Add the diced onion and cook until translucent, about 5 min.",
+    "Add the minced garlic and wild garlic leaves, sauté for 30 sec until fragrant.",
+    "Stir in the rice, coating it with oil and letting it toast lightly for 1 min.",
+    "Deglaze the pan with the dry white wine, letting it reduce for 2 min.",
+    "Add the saffron infusion and the chicken stock. Bring the mixture to a gentle boil.",
+    "Reduce the heat to low, cover, and simmer for 18–20 min, or until the rice is al dente and the liquid absorbed.",
+    "Remove the cooked chicken from the bag, slice or shred it, and return it to the pan. Stir everything together and heat through for 2 min.",
+    "Taste, adjust seasoning with additional salt or pepper if needed, then serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 110,
+  "totalTimeMin": 130,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pot",
+    "sous-vide",
+    "comfort-food",
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 410,
+    "protein": 28,
+    "carbs": 36,
+    "fat": 13
+  },
+  "slug": "velvety-salty-spanish-chicken-paella",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-salty-spanish-chicken-paella",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:26:58Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "velvety",
+    "mood": "one-pot",
+    "technique": "sous-vide",
+    "primaryIngredient": "wild garlic leaves",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "Velvety Salty",
+    "dishForm": "Paella"
+  }
+}
