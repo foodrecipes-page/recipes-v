@@ -1,0 +1,92 @@
+{
+  "title": "Velvety Moroccan Almond Tagine",
+  "description": "A comforting, herbal plant‑based tagine with a silky almond butter sauce, sweet apricots, and fragrant spices, perfect for a nostalgic Moroccan feast.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegan",
+    "gluten‑free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Root vegetables",
+      "amount": "3 cups diced (carrot + sweet potato)",
+      "notes": "Carrot 2 medium + sweet potato 1 medium"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1, sliced"
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "Almond butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Spice blend",
+      "amount": "2 tsp",
+      "notes": "cumin 1 tsp, coriander 1 tsp, smoked paprika 1 tsp, cinnamon 1/2 tsp, ginger 1/4 tsp, turmeric 1 tsp, salt 1/2 tsp, black pepper 1/4 tsp"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "a handful, chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a heavy‑bottomed pot or tagine over medium heat.",
+    "Add the diced onion and minced garlic; sauté until fragrant and translucent, about 3 minutes.",
+    "Add the root vegetables and red bell pepper, stirring to coat with oil and aromatics.",
+    "Pour in the vegetable broth and bring to a gentle boil.",
+    "Stir in the almond butter, tomato paste, and lemon juice until fully incorporated and the sauce thickens.",
+    "Season with the spice blend, adjusting salt and pepper to taste.",
+    "Reduce the heat to low, cover, and simmer for 30–35 minutes, or until the vegetables are tender and the flavors meld.",
+    "Fold in the chopped dried apricots, reserving a few for garnish if desired.",
+    "Simmer uncovered for an additional 5 minutes so the sauce coats the vegetables.",
+    "Serve hot, garnished with fresh cilantro, and optionally a drizzle of almond butter or a sprinkling of chopped almonds for extra texture."
+  ],
+  "slug": "velvety-moroccan-almond-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-moroccan-almond-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:49:16Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "reduce",
+    "primaryIngredient": "almond butter",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "almonds",
+    "descriptor": "Velvety",
+    "dishForm": "Tagine"
+  }
+}

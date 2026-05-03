@@ -957,6 +957,24 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-earthy-brazilian-chicken-liver-soup",
+    "title": "Velvety Earthy Brazilian Chicken Liver Soup",
+    "tags": [
+      "brazilian",
+      "soups",
+      "vegan-friendly",
+      "vegetarian",
+      "chicken-liver",
+      "whisk",
+      "velvety",
+      "earthy",
+      "adventurous"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 45,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-earthy-garlic-stir-fry",
     "title": "Velvety Earthy Garlic Stir-fry",
     "tags": [
@@ -1594,6 +1612,14 @@
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 55,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-moroccan-almond-tagine",
+    "title": "Velvety Moroccan Almond Tagine",
+    "tags": [],
+    "cuisine": "Moroccan",
+    "totalTimeMin": null,
     "shard": "v"
   },
   {

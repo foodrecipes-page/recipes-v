@@ -1,0 +1,114 @@
+{
+  "title": "Velvety Earthy Brazilian Chicken Liver Soup",
+  "description": "A silky, earthy soup inspired by the flavors of Brazil, featuring tender chicken livers, roasted tomatoes, and coconut milk for a velvety finish, with a vegan option using jackfruit.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "vegan-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken liver",
+      "amount": "400 g",
+      "notes": "trimmed and cut into 1 cm pieces; for vegan option replace with 400 g shredded jackfruit"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Potato",
+      "amount": "1 medium",
+      "notes": "cubed"
+    },
+    {
+      "name": "Tomato",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "300 ml"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 liter"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt & pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat. Add diced onion and minced garlic, sauté until softened, about 3 minutes.",
+    "Add diced carrot and cubed potato, cook for 5 minutes, stirring occasionally.",
+    "Stir in chopped tomato and a pinch of curry powder (optional), cooking until the tomatoes break down, about 3 minutes.",
+    "Pour in the chicken broth, bring to a gentle simmer, reduce heat to low, and simmer until the vegetables are tender, about 10 minutes.",
+    "Add the trimmed chicken liver (or shredded jackfruit) and simmer gently for 6–8 minutes until the liver is cooked through.",
+    "Using an immersion blender or a regular blender in batches, whisk the soup until it becomes silky and smooth; avoid over-blending to keep a slight texture.",
+    "Stir in coconut milk and warm gently over low heat; do not let it boil to preserve the coconut flavor.",
+    "Season with salt, pepper, and a pinch of smoked paprika for depth of flavor.",
+    "Serve hot, garnished with chopped fresh cilantro, and optionally drizzle a splash of coconut cream."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "soups",
+    "vegan-friendly",
+    "vegetarian",
+    "chicken-liver",
+    "whisk",
+    "velvety",
+    "earthy",
+    "adventurous"
+  ],
+  "nutrition": {
+    "calories": 410,
+    "protein": 22,
+    "carbs": 18,
+    "fat": 13
+  },
+  "slug": "velvety-earthy-brazilian-chicken-liver-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-earthy-brazilian-chicken-liver-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:48:58Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "adventurous",
+    "technique": "whisk",
+    "primaryIngredient": "chicken liver",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken liver",
+    "descriptor": "Velvety Earthy",
+    "dishForm": "Soup"
+  }
+}
