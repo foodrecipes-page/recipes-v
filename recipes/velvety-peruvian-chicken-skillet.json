@@ -1,0 +1,113 @@
+{
+  "title": "Velvety Peruvian Chicken Skillet",
+  "description": "A flavorful and aromatic Peruvian-inspired dish featuring chicken, summer savory, and a hint of pickle, perfect for a low-calorie brunch. The combination of herbal notes and velvety texture creates a delightful culinary experience.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "dried summer savory leaves",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "pickle juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/2 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "plain Greek yogurt",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5-6 minutes. Remove from the skillet and set aside.",
+    "Add the chopped onion to the skillet and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute, until fragrant.",
+    "Add the diced red bell pepper to the skillet and cook for 2-3 minutes, until tender.",
+    "Stir in the dried summer savory leaves, pickle juice, and chicken broth. Bring the mixture to a simmer.",
+    "Return the chicken to the skillet and cook until heated through, about 2-3 minutes.",
+    "Stir in the Greek yogurt and cook for an additional 1-2 minutes, until the sauce has thickened slightly.",
+    "Season the skillet with salt and black pepper to taste.",
+    "Garnish with chopped fresh cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian-cuisine",
+    "chicken-recipes",
+    "brunch-ideas",
+    "low-calorie-meals"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "velvety-peruvian-chicken-skillet",
+  "source": "groq-llama-3.3-70b-versatile",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-peruvian-chicken-skillet",
+  "providerUsed": "groq-llama-3.3-70b-versatile",
+  "createdAt": "2026-05-03T16:28:55Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "velvety",
+    "mood": "brunch-mood",
+    "technique": "pickle",
+    "primaryIngredient": "dried leaves of summer savoury",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "herbal velvety",
+    "dishForm": "Skillet"
+  }
+}
