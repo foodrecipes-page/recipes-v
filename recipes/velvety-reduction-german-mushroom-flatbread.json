@@ -1,0 +1,100 @@
+{
+  "title": "Velvety Reduction German Mushroom Flatbread",
+  "description": "A nostalgic vegan twist on Rahmschwammerl, featuring a peppery balsamic reduction and silken cream sauce atop toasted naan.",
+  "cuisine": "German-Fusion",
+  "diet": [
+    "Vegan",
+    "Vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vegan Naan Bread",
+      "amount": "2 pieces",
+      "notes": "Ensure dairy-free labeling"
+    },
+    {
+      "name": "Cremini Mushrooms",
+      "amount": "12 oz",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Shallots",
+      "amount": "2 large",
+      "notes": "Finely minced"
+    },
+    {
+      "name": "Oat Cream",
+      "amount": "1/2 cup",
+      "notes": "Full fat for velvet texture"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "amount": "1/4 cup",
+      "notes": "For the reduction"
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1 tbsp",
+      "notes": "Leaves removed from stems"
+    },
+    {
+      "name": "Black Peppercorns",
+      "amount": "1 tsp",
+      "notes": "Coarsely cracked"
+    },
+    {
+      "name": "Vegan Butter",
+      "amount": "2 tbsp",
+      "notes": "For sautéing"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C) and place the naan breads on a baking sheet.",
+    "In a small saucepan, simmer the balsamic vinegar over low heat until it reduces by half into a thick glaze.",
+    "Melt the vegan butter in a large skillet over medium-high heat.",
+    "Add the sliced mushrooms and shallots, sautéing for 8-10 minutes until deep golden brown.",
+    "Stir in the cracked black pepper and fresh thyme, cooking for 1 minute until fragrant.",
+    "Lower the heat and pour in the oat cream, stirring constantly until the sauce coats the mushrooms in a velvety layer.",
+    "Lightly toast the naan in the oven for 3 minutes until slightly crisp.",
+    "Spread the mushroom mixture evenly over the toasted naan.",
+    "Drizzle the warm balsamic reduction over the mushrooms in a zigzag pattern.",
+    "Slice into wedges and serve immediately while warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "german-inspired",
+    "flatbread",
+    "mushroom",
+    "vegan-dinner",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 54,
+    "fat": 18
+  },
+  "slug": "velvety-reduction-german-mushroom-flatbread",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-reduction-german-mushroom-flatbread",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T20:07:40Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "reduce",
+    "primaryIngredient": "naan bread",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "peppercorn mushroom",
+    "descriptor": "Velvety Reduction",
+    "dishForm": "Flatbread"
+  }
+}
