@@ -1,0 +1,92 @@
+{
+  "title": "Velvety Korean Chicken Stew",
+  "description": "Fresh, velvety, energizing Korean stew featuring Grand Marnier, pressure-cooked with low‑carb ingredients for a silky, savory bowl.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-carb",
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Skinless chicken thighs",
+      "amount": "500g"
+    },
+    {
+      "name": "Low‑sodium chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion, sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "4"
+    },
+    {
+      "name": "Fresh ginger, minced",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Green onions, chopped",
+      "amount": "3"
+    },
+    {
+      "name": "Cherry tomatoes, halved",
+      "amount": "200g"
+    },
+    {
+      "name": "Light cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Grand Marnier",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Tamari (gluten‑free soy sauce)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a pressure cooker, heat the sesame oil over medium heat.",
+    "Add the sliced onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and ginger, stir for 1 minute until fragrant.",
+    "Add the chicken thighs, turning to coat with the aromatics.",
+    "Pour in the chicken broth, cherry tomatoes, and tamari.",
+    "Stir in the Grand Marnier and light cream, ensuring everything is evenly mixed.",
+    "Seal the pressure cooker and cook on high pressure for 10 minutes.",
+    "Quickly release the pressure, open the lid and stir the stew.",
+    "Season with salt and pepper to taste.",
+    "Let the stew sit for 2 minutes to allow flavors to meld.",
+    "Serve hot, garnished with additional green onions if desired."
+  ],
+  "slug": "velvety-korean-chicken-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-korean-chicken-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:05:16Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "velvety",
+    "mood": "energizing",
+    "technique": "pressure-cook",
+    "primaryIngredient": "grand marnier",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "chicken",
+    "descriptor": "Velvety",
+    "dishForm": "Stew"
+  }
+}
