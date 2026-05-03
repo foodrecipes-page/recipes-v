@@ -1,0 +1,121 @@
+{
+  "title": "Velvet Croatian Lentil Soup",
+  "description": "A silky, herbal lentil soup with a bright vinaigrette finish, perfect for a comforting lunch.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegan",
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "celery stalk",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil (cooking)",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "dried oregano & thyme",
+      "amount": "1 teaspoon",
+      "notes": "mixed"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley & dill",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt & pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "vinaigrette",
+      "amount": "1 tablespoon olive oil + 1 tablespoon apple cider vinegar + 1 tablespoon lemon juice + pinch sugar",
+      "notes": "mix before serving"
+    }
+  ],
+  "instructions": [
+    "Rinse lentils under cold water and set aside.",
+    "Heat 1 tablespoon olive oil in a large pot over medium heat. Add diced onion, celery, and minced garlic; sauté until onion is translucent, about 5 minutes.",
+    "Stir in 1 teaspoon paprika and the mixed oregano & thyme; cook for another minute until fragrant.",
+    "Add the lentils, vegetable broth, and bay leaf. Bring the mixture to a boil, then reduce to a gentle simmer, cover, and cook for 20–25 minutes, or until the lentils are tender and the soup has thickened.",
+    "Remove the bay leaf and season the soup with salt and pepper to taste.",
+    "Using an immersion blender, puree about half of the soup directly in the pot until velvety smooth; return to heat and keep warm.",
+    "Taste and adjust seasoning as needed.",
+    "Divide the soup into bowls. Drizzle each bowl with the prepared vinaigrette and garnish with remaining chopped parsley & dill.",
+    "Serve hot, optionally with crusty bread.",
+    ""
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "velvet-soup",
+    "herbal-soup",
+    "croatian",
+    "halal",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 12,
+    "carbs": 33,
+    "fat": 4
+  },
+  "slug": "velvet-croatian-lentil-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvet-croatian-lentil-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:58:48Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "velvety",
+    "mood": "indulgent",
+    "technique": "simmer",
+    "primaryIngredient": "vinaigrette dressing",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "lentils",
+    "descriptor": "Velvet",
+    "dishForm": "Soup"
+  }
+}

@@ -413,6 +413,21 @@
     "shard": "v"
   },
   {
+    "slug": "velvet-croatian-lentil-soup",
+    "title": "Velvet Croatian Lentil Soup",
+    "tags": [
+      "velvet-soup",
+      "herbal-soup",
+      "croatian",
+      "halal",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
     "slug": "velvet-date-sour",
     "title": "Velvet Date Sour",
     "tags": [
