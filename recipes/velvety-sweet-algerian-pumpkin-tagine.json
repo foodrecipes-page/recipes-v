@@ -1,0 +1,97 @@
+{
+  "title": "Velvety Sweet Algerian Pumpkin Tagine",
+  "description": "A silky, mildly sweet pumpkin tagine enriched with rosemary and tart pickles, ideal for a post-workout snack that’s low on sugar but high on flavor.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-sugar",
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pumpkin (peeled and cubed)",
+      "amount": "500 g",
+      "notes": "use a sweet variety like butternut or acorn"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium (about 150 g)",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra‑virgin for flavor"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "100 ml",
+      "notes": "to create a velvety sauce"
+    },
+    {
+      "name": "pickle (small cucumber, sliced)",
+      "amount": "1 small (about 100 g)",
+      "notes": "pickled in vinegar and dill"
+    },
+    {
+      "name": "fresh rosemary sprigs",
+      "amount": "2",
+      "notes": "leave whole for aromatics"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 tsp",
+      "notes": "adds warmth"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a medium‑sized tagine or heavy‑bottomed pot over medium heat until shimmering.",
+    "Add the sliced onion and cook, stirring, until translucent, about 5 minutes.",
+    "Stir in the minced garlic, cumin, cinnamon, salt, and pepper, and cook for another 30 seconds until fragrant.",
+    "Add the pumpkin cubes, paprika, and rosemary sprigs, then pour in the almond milk. Stir to combine.",
+    "Reduce heat to low, cover, and simmer for 20 minutes or until the pumpkin is tender and the sauce has thickened.",
+    "Meanwhile, toast the pickle slices lightly in a dry skillet for 1–2 minutes to mellow their tartness.",
+    "Optional: blend a small portion of the cooked pumpkin mixture with the almond milk and strain to achieve a smooth, velvety consistency before adding back to the pot.",
+    "Gently fold the pickles into the tagine, then simmer uncovered for an additional 5 minutes to meld flavors.",
+    "Remove the rosemary sprigs, taste, and adjust seasoning if needed. Serve warm, garnished with a drizzle of olive oil if desired.",
+    "Enjoy immediately as a sweet, protein‑rich post‑workout snack."
+  ],
+  "slug": "velvety-sweet-algerian-pumpkin-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-sweet-algerian-pumpkin-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:53:43Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "velvety",
+    "mood": "post-workout",
+    "technique": "pickle",
+    "primaryIngredient": "rosemary",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Pumpkin",
+    "descriptor": "Velvety Sweet",
+    "dishForm": "Tagine"
+  }
+}
