@@ -930,6 +930,22 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-comforting-algerian-aubergine-tagine",
+    "title": "Velvety Comforting Algerian Aubergine Tagine",
+    "tags": [
+      "algerian",
+      "vegetarian",
+      "egg-free",
+      "gluten-free",
+      "tagine",
+      "aubergine",
+      "vegan-friendly"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 45,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-comforting-egyptian-herbal-tea-leaves-stir-fry",
     "title": "Velvety Comforting Egyptian Herbal Tea Leaves Stir-Fry",
     "tags": [
@@ -2311,6 +2327,20 @@
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 25,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-slovakian-lime-stew",
+    "title": "Velvety Slovakian Lime Stew",
+    "tags": [
+      "slovakian",
+      "dinner",
+      "comfort-food",
+      "vegetable-rich",
+      "gluten-free"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 45,
     "shard": "v"
   },
   {

@@ -1,0 +1,110 @@
+{
+  "title": "Velvety Slovakian Lime Stew",
+  "description": "A peppery, velvety stew that blends Slovakian comfort with Mediterranean zest, featuring unwaxed lime for a bright finish.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken thighs, bone-in, skin-on",
+      "amount": "4 pieces",
+      "notes": "preferably free-range"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "Unwaxed lime, zest and juice",
+      "amount": "1 whole",
+      "notes": "use lime that has had its wax removed for a cleaner flavor"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper, freshly ground",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "2 tablespoons",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium-high heat.",
+    "Add the chicken thighs, skin-side down, and brown for 4-5 minutes per side; remove and set aside.",
+    "Reduce heat to medium and add the diced onion, sautéing until translucent, about 3 minutes.",
+    "Stir in the minced garlic and cook for 30 seconds until fragrant.",
+    "Add the smoked paprika, black pepper, and tomato paste; stir to coat the vegetables, cooking for 1 minute.",
+    "Add the zest and juice of the unwaxed lime, stirring to combine.",
+    "Pour in the chicken broth, bring to a gentle simmer, and return the chicken thighs to the pot. Add the bay leaf.",
+    "Simmer, uncovered, for 25 minutes or until the chicken is cooked through. Remove the chicken and discard the bay leaf.",
+    "Use an immersion blender to puree about half of the stew until velvety smooth, then return it to the pot. Return the chicken to the pot and simmer for an additional 5 minutes, seasoning with salt as needed.",
+    "Serve hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "dinner",
+    "comfort-food",
+    "vegetable-rich",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 12,
+    "fat": 27
+  },
+  "slug": "velvety-slovakian-lime-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-slovakian-lime-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:23:19Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "velvety",
+    "mood": "cozy",
+    "technique": "saute",
+    "primaryIngredient": "unwaxed lime",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "lime",
+    "descriptor": "Velvety",
+    "dishForm": "Stew"
+  }
+}
