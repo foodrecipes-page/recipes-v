@@ -1,0 +1,91 @@
+{
+  "title": "Velvety Salty Japanese Pork Curry",
+  "description": "A creamy, caramelized pork curry packed with allspice and low-sodium flavors, perfect for a lazy Sunday dinner.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "500 g",
+      "notes": "cut into 1.5 cm cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "julienned"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp",
+      "notes": "lightly crushed"
+    },
+    {
+      "name": "Japanese curry roux",
+      "amount": "1 packet (about 40 g)",
+      "notes": "use low-sodium variant"
+    },
+    {
+      "name": "reduced-sodium soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "200 ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large saucepan over medium heat.",
+    "Add sliced onion and stir until translucent, about 3 minutes.",
+    "Add minced garlic and allspice, cook for 30 seconds until fragrant.",
+    "Add pork cubes and brown on all sides, about 5-7 minutes.",
+    "Pour in water and bring to a simmer; cover and reduce heat to low for 20 minutes until pork is tender.",
+    "Stir in Japanese curry roux, breaking it apart; let it melt completely and thicken, about 5 minutes.",
+    "Add reduced-sodium soy sauce and mirin, stirring to combine and creating a rich, velvety sauce.",
+    "Simmer uncovered for another 5 minutes, letting flavors meld.",
+    "Serve hot over steamed rice, garnished with toasted sesame seeds if desired."
+  ],
+  "slug": "velvety-salty-japanese-pork-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-salty-japanese-pork-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:07:02Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "caramelize",
+    "primaryIngredient": "allspice",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "pork",
+    "descriptor": "Velvety Salty",
+    "dishForm": "Curry"
+  }
+}
