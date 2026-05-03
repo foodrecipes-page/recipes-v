@@ -1,0 +1,99 @@
+{
+  "title": "Velvety Australian Katsuramuki Salad",
+  "description": "A peppery, aerated salad that blends the silky richness of clotted cream with crisp katsuramuki cut greens for a lazy Sunday feast.",
+  "cuisine": "Australian",
+  "diet": [
+    "paleo",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Katsuramuki cut greens",
+      "amount": "200 g"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "15 g"
+    },
+    {
+      "name": "Grated Parmesan cheese",
+      "amount": "30 g"
+    },
+    {
+      "name": "Clotted cream extra",
+      "amount": "50 g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "10 ml"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "15 ml"
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "2 g"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 g"
+    },
+    {
+      "name": "Toasted sunflower seeds",
+      "amount": "20 g"
+    },
+    {
+      "name": "Freshly ground pepper",
+      "amount": "2 g"
+    }
+  ],
+  "instructions": [
+    "Dry rinse katsuramuki greens and pat them dry with a towel.",
+    "Toss the greens with 5 ml olive oil, lemon juice, sea salt and freshly ground pepper until evenly coated.",
+    "Sprinkle grated parmesan and chopped mint over the salad and gently fold to combine.",
+    "Drizzle clotted cream over the salad to create a velvety coating and fold again.",
+    "Sprinkle toasted sunflower seeds on top for a crunchy contrast.",
+    "Let the salad sit for 5 minutes to allow flavors to meld.",
+    "Serve immediately on a chilled platter.",
+    "Garnish with extra pepper and a drizzle of olive oil if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "aerated",
+    "australian",
+    "lazy-sunday",
+    "paleo-friendly",
+    "peppery",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 1000,
+    "protein": 40,
+    "carbs": 80,
+    "fat": 60
+  },
+  "slug": "velvety-australian-katsuramuki-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-australian-katsuramuki-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:23:29Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "aerated",
+    "mood": "lazy-sunday",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "clotted-cream-extra",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "katsuramuki",
+    "descriptor": "Velvety",
+    "dishForm": "Salad"
+  }
+}
