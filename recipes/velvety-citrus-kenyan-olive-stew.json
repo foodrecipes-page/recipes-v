@@ -1,0 +1,144 @@
+{
+  "title": "Velvety Citrus Kenyan Olive Stew",
+  "description": "A fragrant, citrus‑infused one‑pot stew brimming with black olives, fresh veggies, and a velvety sauce that’s both egg‑free and vegan.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dried black olives",
+      "amount": "200 g",
+      "notes": "rinse and halve"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "200 g",
+      "notes": "cubed"
+    },
+    {
+      "name": "kale",
+      "amount": "150 g",
+      "notes": "stems removed, chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 large",
+      "notes": "diced"
+    },
+    {
+      "name": "fresh lemon",
+      "amount": "1",
+      "notes": "juice and zest"
+    },
+    {
+      "name": "fresh orange",
+      "amount": "1",
+      "notes": "juice and zest"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "500 ml"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground turmeric",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 handful",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat until shimmering.",
+    "Add the diced onion and minced garlic, sautéing until the onion is translucent, about 3–4 minutes.",
+    "Stir in the sliced carrots, cubed sweet potato, and chopped kale; cook for another 2 minutes, letting the vegetables soften slightly.",
+    "Add the diced tomato and cook until it starts to break down, about 5 minutes.",
+    "Pour in the vegetable broth and add the lemon and orange juice, zest, cumin, coriander, turmeric, and chili flakes; bring to a gentle boil.",
+    "Add the halved olives, salt, and pepper, then reduce heat to low and let the stew simmer, uncovered, for 20 minutes, stirring occasionally.",
+    "Once the vegetables are tender and the sauce has thickened into a velvety consistency, taste and adjust seasoning if needed.",
+    "Stir in the chopped fresh cilantro just before serving.",
+    "Serve hot, optionally with a side of steamed rice or flatbread.",
+    "Enjoy the bright citrus notes paired with the savory olives in this comforting stew."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "citrus",
+    "velvety",
+    "one-pot",
+    "kenyan",
+    "vegan-friendly",
+    "olive",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "velvety-citrus-kenyan-olive-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-citrus-kenyan-olive-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:28:55Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "velvety",
+    "mood": "one-pot",
+    "technique": "deglaze",
+    "primaryIngredient": "black olives",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "olive",
+    "descriptor": "Velvety Citrus",
+    "dishForm": "Stew"
+  }
+}
