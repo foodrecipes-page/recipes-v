@@ -1,0 +1,114 @@
+{
+  "title": "Velvety Canadian Cheese Soup",
+  "description": "A floral, cheese-pull hangover cure featuring a spicy red chilli kick, halal-friendly and creamy.",
+  "cuisine": "Canadian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "2 tbsp butter",
+      "amount": "2 tbsp",
+      "notes": "halal"
+    },
+    {
+      "name": "1 medium onion, diced",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "1 red bell pepper, diced",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "1 tsp mixed spice blend (cumin, smoked paprika, cayenne)",
+      "amount": "1 tsp",
+      "notes": "blend"
+    },
+    {
+      "name": "1 cup low sodium vegetable broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "1 cup heavy cream",
+      "amount": "1 cup",
+      "notes": "heavy"
+    },
+    {
+      "name": "200g shredded cheddar cheese",
+      "amount": "200g",
+      "notes": "halal"
+    },
+    {
+      "name": "100g shredded mozzarella cheese",
+      "amount": "100g",
+      "notes": "halal"
+    },
+    {
+      "name": "2 tbsp all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "for thickening"
+    },
+    {
+      "name": "1 tsp salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "1/2 tsp black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Melt butter in a pot over medium heat.",
+    "Add onion, garlic, and red bell pepper and cook until softened.",
+    "Stir in the mixed spice blend and cook for 1 minute.",
+    "Add flour to coat vegetables and cook for 1 minute, whisking constantly.",
+    "Gradually pour in vegetable broth while whisking to create a smooth sauce.",
+    "Add heavy cream, salt, and pepper, then bring to a gentle simmer.",
+    "Stir in shredded cheeses until melted and the soup is glossy.",
+    "Serve hot, letting the creamy, spicy flavor soothe any hangover."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "canadian",
+    "lunch"
+  ],
+  "slug": "velvety-canadian-cheese-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-canadian-cheese-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:22:05Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "cheese-pull",
+    "mood": "hangover-cure",
+    "technique": "temper",
+    "primaryIngredient": "red chilli",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Cheese",
+    "descriptor": "Velvety",
+    "dishForm": "Soup"
+  }
+}

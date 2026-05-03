@@ -822,6 +822,17 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-canadian-cheese-soup",
+    "title": "Velvety Canadian Cheese Soup",
+    "tags": [
+      "canadian",
+      "lunch"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 40,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-canadian-chicken-stew",
     "title": "Velvety Canadian Chicken Stew",
     "tags": [],
