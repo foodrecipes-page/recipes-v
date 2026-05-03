@@ -1,0 +1,87 @@
+{
+  "title": "Velvety Light Malaysian Clotted Cream Panna Cotta",
+  "description": "This dessert combines the rich flavors of clotted cream with a light and creamy texture, ideal for those watching their sugar intake.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup heavy whipping cream",
+      "amount": "cup",
+      "notes": "whole"
+    },
+    {
+      "name": "1/2 cup full-fat coconut milk",
+      "amount": "cup",
+      "notes": "full fat for better texture and flavor"
+    },
+    {
+      "name": "3 tablespoons granulated sugar",
+      "amount": "tablespoons",
+      "notes": "for those watching their carbs, use stevia or monk fruit sweetener instead"
+    },
+    {
+      "name": "1/4 cup unsalted butter",
+      "amount": "cup",
+      "notes": "use at room temperature for better spreading and distribution"
+    },
+    {
+      "name": "2 tablespoons cornstarch",
+      "amount": "tablespoons",
+      "notes": "for thickening the base without adding excess sugar or fat"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch",
+      "notes": "enhances flavors"
+    },
+    {
+      "name": "1/4 cup clotted cream (from cans, not made at home)",
+      "amount": "cup",
+      "notes": "for richness and texture"
+    }
+  ],
+  "instructions": [
+    "Combine the heavy whipping cream, coconut milk, sugar, butter, cornstarch, and salt in a medium saucepan. Heat over medium-high heat until it starts to boil.",
+    "Once boiling, reduce the heat to low and stir constantly with a whisk until the mixture thickens and coats the back of a spoon, about 5 minutes.",
+    "Remove from heat and let cool for at least 10-15 minutes.",
+    "Gently fold in the clotted cream using a rubber spatula. The mixture will be very thin but should hold together when folded gently.",
+    "Pour into individual serving dishes or ramekins. Chill in the refrigerator for at least 4 hours or until firm.",
+    "Serve cold with additional clotted cream on top if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "light",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 370,
+    "protein": 2.8,
+    "carbs": 32,
+    "fat": 19
+  },
+  "slug": "velvety-light-malaysian-clotted-cream-panna-cotta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-light-malaysian-clotted-cream-panna-cotta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T17:54:01Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "whisk",
+    "primaryIngredient": "clotted cream",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "clotted cream",
+    "descriptor": "buttery velvety light diabetic-friendly-friendly",
+    "dishForm": "Panna Cotta"
+  }
+}
