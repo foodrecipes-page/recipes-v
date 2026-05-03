@@ -1,0 +1,120 @@
+{
+  "title": "Velvety Ginger German Cabbage Gratin",
+  "description": "A fermented, velvety German gratin that blends tangy sauerkraut, spicy ginger, and creamy yogurt for a sugar‑free, meal‑prep friendly dinner.",
+  "cuisine": "German",
+  "diet": [
+    "sugar‑free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green cabbage",
+      "amount": "1 head (≈1.2 kg)",
+      "notes": null
+    },
+    {
+      "name": "sauerkraut",
+      "amount": "400 g",
+      "notes": "drained"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "2 Tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "low‑fat Greek yogurt",
+      "amount": "1 cup (≈240 g)",
+      "notes": null
+    },
+    {
+      "name": "unsweetened tomato paste",
+      "amount": "1 cup (≈240 g)",
+      "notes": null
+    },
+    {
+      "name": "part‑skim mozzarella",
+      "amount": "200 g",
+      "notes": "shredded"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 Tbsp",
+      "notes": null
+    },
+    {
+      "name": "mustard powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "½ tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 Tbsp",
+      "notes": "optional, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200 °C (400 °F). Grease a 23 × 33 cm baking dish with a little olive oil.",
+    "Wash the cabbage and cut into 8 wedges. Blanch the wedges in boiling salted water for 2 min, then drain and set aside.",
+    "In a skillet, heat the olive oil over medium heat. Add the grated ginger and sauté for 30 s until fragrant.",
+    "Stir in the yogurt, tomato paste, mustard powder, smoked paprika, salt, and pepper. Cook for 2 min until the mixture thickens slightly.",
+    "Fold in the drained sauerkraut and sauté for another 2 min, letting the flavors mingle. Remove from heat.",
+    "Arrange the blanched cabbage wedges in a single layer in the prepared dish. Spoon the ginger sauce over each wedge, covering completely.",
+    "Sprinkle the shredded mozzarella evenly over the top of the gratin.",
+    "Cover the dish with foil and bake for 20 min.",
+    "Remove the foil and return the gratin to the oven uncovered for 8–10 min, or until the cheese is golden and bubbly.",
+    "Let the gratin rest for 5 min before serving. Garnish with fresh dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "fermented",
+    "meal-prep",
+    "ginger",
+    "vegan-friendly",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 10,
+    "carbs": 13,
+    "fat": 8
+  },
+  "slug": "velvety-ginger-german-cabbage-gratin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-ginger-german-cabbage-gratin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:43:26Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "velvety",
+    "mood": "meal-prep",
+    "technique": "grill",
+    "primaryIngredient": "ginger",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "cabbage",
+    "descriptor": "Velvety Ginger",
+    "dishForm": "Gratin"
+  }
+}
