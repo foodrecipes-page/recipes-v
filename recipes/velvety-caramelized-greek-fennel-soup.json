@@ -1,0 +1,113 @@
+{
+  "title": "Velvety Caramelized Greek Fennel Soup",
+  "description": "A silky, plant‑based soup that layers caramelized fennel with aromatic Greek herbs for a lazy‑Sunday comfort dish.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegan",
+    "dairy‑free",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fennel bulb",
+      "amount": "1 large (≈450 g)",
+      "notes": "trimmed, stem removed, diced into ½‑inch cubes"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium (≈200 g)",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium (≈150 g)",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "extra‑virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "golden caster sugar",
+      "amount": "1 tbsp",
+      "notes": "helps caramelize"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups (≈800 ml)"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup (≈240 ml)"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the diced fennel, carrots, and onion. Cook, stirring, until the vegetables begin to soften and the fennel starts to turn translucent, about 5‑7 minutes.",
+    "Sprinkle the sugar over the vegetables, stir to coat, then let the mixture caramelize for 3‑4 minutes, stirring occasionally.",
+    "Add the minced garlic and cook for 30 seconds until fragrant.",
+    "Pour in the vegetable broth, bring to a boil, then reduce heat and simmer for 15 minutes until the vegetables are very tender.",
+    "Stir in the coconut milk, dried oregano, lemon zest, and lemon juice. Simmer for an additional 5 minutes to meld the flavors.",
+    "Use an immersion blender to puree the soup until silky smooth (or transfer in batches to a blender, then return to the pot).",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with a sprinkle of fresh dill or parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "Greek",
+    "soup",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 7
+  },
+  "slug": "velvety-caramelized-greek-fennel-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-caramelized-greek-fennel-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:36:59Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "caramelize",
+    "primaryIngredient": "fennel bulb",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "fennel",
+    "descriptor": "Velvety Caramelized",
+    "dishForm": "Soup"
+  }
+}
