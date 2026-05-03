@@ -1,0 +1,104 @@
+{
+  "title": "Velvety Malaysian Rice Pudding",
+  "description": "A floral, gooey vegan rice pudding with coconut cream and glace cherries, perfect for a lazy Sunday treat.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "short-grain jasmine rice",
+      "amount": "200 g",
+      "notes": "rinsed and soaked for 30 minutes"
+    },
+    {
+      "name": "water",
+      "amount": "480 ml"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "360 ml",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "unsweetened soy milk",
+      "amount": "240 ml"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "65 g"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "5 ml"
+    },
+    {
+      "name": "salt",
+      "amount": "2 g"
+    },
+    {
+      "name": "glace cherries",
+      "amount": "240 g",
+      "notes": "pitted, drained"
+    },
+    {
+      "name": "toasted coconut flakes",
+      "amount": "1 tbsp",
+      "notes": "for garnish"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "0.5 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice until water runs clear, then soak in a bowl for 30 minutes.",
+    "Drain the rice and add it to a saucepan with the water and a pinch of salt, bring to a boil, reduce heat, and simmer covered for 15 minutes or until the water is absorbed and the rice is tender.",
+    "Stir in the coconut milk, soy milk, sugar, vanilla extract, and cardamom; return to a gentle simmer and cook for 10 minutes, stirring frequently until the mixture thickens to a creamy consistency.",
+    "Remove from heat, fold in the glace cherries, and transfer the pudding to individual serving bowls or a shallow dish.",
+    "Allow the pudding to cool to room temperature, then refrigerate for at least 30 minutes to set the flavors.",
+    "Just before serving, sprinkle toasted coconut flakes over the top for a subtle crunch and an extra hint of aroma.",
+    "Serve chilled for a refreshing, velvety dessert that feels indulgent yet light.",
+    "Enjoy the floral sweetness of the cherries and the gentle richness of coconut in every spoonful."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "vegan",
+    "malaysian",
+    "lazy-sunday",
+    "floral",
+    "coconut",
+    "pudding"
+  ],
+  "nutrition": {
+    "calories": 314,
+    "protein": 3.4,
+    "carbs": 30,
+    "fat": 7.7
+  },
+  "slug": "velvety-malaysian-rice-pudding",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-malaysian-rice-pudding",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:15:47Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "gooey",
+    "mood": "lazy-sunday",
+    "technique": "rest",
+    "primaryIngredient": "glace cherry",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Rice",
+    "descriptor": "Velvety",
+    "dishForm": "Pudding"
+  }
+}
