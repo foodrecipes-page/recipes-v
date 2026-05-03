@@ -1,0 +1,126 @@
+{
+  "title": "Velvety Spicy Indian Cauliflower Curry",
+  "description": "A rich, creamy cauliflower curry with a bold kick, perfect for a cozy date-night dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "keto",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cauliflower florets",
+      "amount": "1 medium head (≈900g)",
+      "notes": "cut into bite‑size pieces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (400ml)",
+      "notes": "full‑fat for creaminess"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "1 cup (240ml)",
+      "notes": "low‑sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": "toasted for depth"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": "toasted for depth"
+    },
+    {
+      "name": "ground turmeric",
+      "amount": "1/2 tsp",
+      "notes": "for color and earthiness"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced",
+      "notes": "fresh for aroma"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tbsp, grated",
+      "notes": "fresh for aroma"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "adds body"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp, chopped",
+      "notes": "for garnish"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "2",
+      "notes": "optional, for brightness"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a heavy‑bottom pot over medium heat.",
+    "Add the cumin, coriander, turmeric and cayenne pepper; sauté for 30 seconds until fragrant.",
+    "Add the minced garlic and grated ginger, cook for another minute until aromatic.",
+    "Stir in the tomato paste, coating the spices and aromatics, and cook for 2 minutes to caramelize the paste.",
+    "Add the cauliflower florets to the pot, tossing to coat evenly with the spice mixture.",
+    "Pour in the vegetable stock and coconut milk, bringing the mixture to a gentle simmer.",
+    "Cover and simmer for 12–15 minutes, or until the cauliflower is tender and the sauce has thickened.",
+    "Stir in chopped cilantro, reserving a few leaves for garnish.",
+    "Taste and adjust seasoning with salt, more cayenne if desired, or a squeeze of lime.",
+    "Serve hot, garnished with the reserved cilantro and lime wedges on the side.",
+    ""
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "velvety",
+    "keto-friendly",
+    "vegetable-curry",
+    "date-night"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 4,
+    "carbs": 8,
+    "fat": 12
+  },
+  "slug": "velvety-spicy-indian-cauliflower-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-spicy-indian-cauliflower-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:49:32Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "tadka",
+    "primaryIngredient": "vegetable stock",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "cauliflower",
+    "descriptor": "Velvety Spicy",
+    "dishForm": "Curry"
+  }
+}
