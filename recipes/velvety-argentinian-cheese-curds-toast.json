@@ -1,0 +1,109 @@
+{
+  "title": "Velvety Argentinian Cheese Curds Toast",
+  "description": "A weeknight Argentinian dish featuring cheese curds, toast, and fresh flavors, perfect for a quick and delicious meal. The combination of creamy cheese curds, crispy toast, and floral notes creates a velvety texture and taste experience.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cheese curds",
+      "amount": "1 cup",
+      "notes": "fresh, preferably from an Argentinian dairy"
+    },
+    {
+      "name": "baguette",
+      "amount": "1 loaf",
+      "notes": "day-old, sliced into 1/2-inch thick rounds"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Arrange the baguette slices on a baking sheet and toast in the oven for 5-7 minutes, or until crispy and lightly browned.",
+    "In a small bowl, mix together the chimichurri sauce, parsley, oregano, garlic, lemon juice, and olive oil.",
+    "In a separate bowl, toss the cheese curds with a pinch of salt and black pepper to taste.",
+    "To assemble the toast, place a toasted baguette slice on a plate, top with a spoonful of the cheese curds, and drizzle with the chimichurri sauce mixture.",
+    "Repeat the layers one more time, ending with a spoonful of the chimichurri sauce on top.",
+    "Serve immediately and enjoy!",
+    "Garnish with additional parsley and oregano, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "cheese",
+    "curds",
+    "toast",
+    "chimichurri",
+    "parsley",
+    "oregano",
+    "garlic",
+    "lemon",
+    "olive-oil"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 16
+  },
+  "slug": "velvety-argentinian-cheese-curds-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-argentinian-cheese-curds-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T21:30:33Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "velvety",
+    "mood": "weeknight",
+    "technique": "toast",
+    "primaryIngredient": "cheese curds",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "cheese curds",
+    "descriptor": "velvety",
+    "dishForm": "Toast"
+  }
+}

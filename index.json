@@ -578,6 +578,25 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-argentinian-cheese-curds-toast",
+    "title": "Velvety Argentinian Cheese Curds Toast",
+    "tags": [
+      "argentinian",
+      "cheese",
+      "curds",
+      "toast",
+      "chimichurri",
+      "parsley",
+      "oregano",
+      "garlic",
+      "lemon",
+      "olive-oil"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 25,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-argentinian-cream-soup",
     "title": "Velvety Argentinian Cream Soup",
     "tags": [
