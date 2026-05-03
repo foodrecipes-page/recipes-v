@@ -1,0 +1,105 @@
+{
+  "title": "Vanilla Canadian Cashews Bowl",
+  "description": "A creamy, nutty bowl bursting with vanilla-infused cashews, perfect for a post-workout pick-me-up.",
+  "cuisine": "Canadian",
+  "diet": [
+    "jain"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cashews",
+      "amount": "50g",
+      "notes": "raw"
+    },
+    {
+      "name": "Vanilla bean",
+      "amount": "1 pod",
+      "notes": "split and scraped"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Unsweetened almond milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "50ml",
+      "notes": "whipped"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Almond butter",
+      "amount": "1 tbsp",
+      "notes": "smooth"
+    },
+    {
+      "name": "Chia seeds",
+      "amount": "1 tbsp",
+      "notes": "soaked 5 mins"
+    },
+    {
+      "name": "Fresh blueberries",
+      "amount": "50g"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium heat. Add cashews and toast until golden, about 3-4 minutes. Remove and set aside.",
+    "In the same pan, add almond milk, coconut cream, maple syrup, and vanilla bean seeds. Warm gently, stirring until syrupy, 3 minutes.",
+    "Stir in almond butter, cinnamon, and a pinch of salt until smooth.",
+    "Transfer mixture to a bowl, top with toasted cashews.",
+    "Add chia seeds, letting them sit for 1 minute to absorb.\n",
+    "Spoon fresh blueberries over the top.",
+    "Let sit for 5 minutes to allow flavors to meld.",
+    "Serve immediately, or chill in the fridge for 30 minutes if preferred.",
+    "Enjoy this creamy post-workout bowl."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vanilla",
+    "cashews",
+    "jain-friendly",
+    "post-workout",
+    "canadian",
+    "nutty",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 850,
+    "protein": 16,
+    "carbs": 61,
+    "fat": 61
+  },
+  "slug": "vanilla-canadian-cashews-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/vanilla-canadian-cashews-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:46:53Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "creamy",
+    "mood": "post-workout",
+    "technique": "saute",
+    "primaryIngredient": "vanilla pod",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Cashews",
+    "descriptor": "Vanilla",
+    "dishForm": "Bowl"
+  }
+}
