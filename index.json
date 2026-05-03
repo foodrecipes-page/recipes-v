@@ -738,6 +738,22 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-cinnamon-mexican-chicken-stir-fry",
+    "title": "Velvety Cinnamon Mexican Chicken Stir-Fry",
+    "tags": [
+      "mexican",
+      "chicken",
+      "stir-fry",
+      "high-protein",
+      "cinnamon",
+      "velvety",
+      "gluten-free"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-citrusy-adventurous-irish-beef-stir-fry",
     "title": "Velvety Citrusy Adventurous Irish Beef Stir-fry",
     "tags": [
@@ -2012,6 +2028,14 @@
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-sweet-mexican-chicken-tacos",
+    "title": "Velvety Sweet Mexican Chicken Tacos",
+    "tags": [],
+    "cuisine": "Mexican",
+    "totalTimeMin": null,
     "shard": "v"
   },
   {

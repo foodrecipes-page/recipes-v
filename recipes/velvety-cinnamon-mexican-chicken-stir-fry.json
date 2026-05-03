@@ -1,0 +1,124 @@
+{
+  "title": "Velvety Cinnamon Mexican Chicken Stir-Fry",
+  "description": "A savory, velvety stir‑fry that blends golden cinnamon with Mexican spices, tender chicken, and fresh veggies for a festive, high‑protein dinner.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken breast",
+      "amount": "450 g (1 lb)"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "red onion, sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "red bell pepper, sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "zucchini, sliced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mushrooms, sliced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cinnamon, ground",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin, ground",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chili powder",
+      "amount": "½ teaspoon"
+    },
+    {
+      "name": "low‑sodium chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Greek yogurt, plain",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet or wok over medium‑high heat.",
+    "Season the sliced chicken with salt, pepper, cumin, smoked paprika, chili powder, and ground cinnamon.",
+    "Add the chicken to the skillet and cook until browned and cooked through, about 5‑6 minutes; remove and set aside.",
+    "In the same skillet, add the garlic, onion, bell pepper, zucchini, and mushrooms; stir‑fry for 4‑5 minutes until veggies are just tender.",
+    "Return the chicken to the skillet and pour in the chicken broth; bring to a simmer.",
+    "Stir in lime juice and let the mixture reduce slightly, about 2 minutes.",
+    "Remove from heat and fold in the Greek yogurt until the sauce becomes velvety and smooth.",
+    "Season again with salt and pepper if needed, then sprinkle chopped cilantro on top before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chicken",
+    "stir-fry",
+    "high-protein",
+    "cinnamon",
+    "velvety",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 32,
+    "carbs": 18,
+    "fat": 15
+  },
+  "slug": "velvety-cinnamon-mexican-chicken-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-cinnamon-mexican-chicken-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:29:28Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "stir-fry",
+    "primaryIngredient": "cinnamon",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "Velvety Cinnamon",
+    "dishForm": "Stir-fry"
+  }
+}
