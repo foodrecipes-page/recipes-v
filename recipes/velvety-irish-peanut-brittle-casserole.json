@@ -1,0 +1,107 @@
+{
+  "title": "Velvety Irish Peanut Brittle Casserole",
+  "description": "A buttery, snappy, dairy‑free post‑workout Irish treat that melts into a velvety texture, topped with crunchy peanut brittle and steamed to perfection.",
+  "cuisine": "Irish",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dairy-free butter",
+      "amount": "200g",
+      "notes": "unsalted, melted"
+    },
+    {
+      "name": "honey",
+      "amount": "250g"
+    },
+    {
+      "name": "plain peanut butter",
+      "amount": "150g",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "300g"
+    },
+    {
+      "name": "roasted peanuts",
+      "amount": "100g",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml",
+      "notes": "full-fat"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1 pinch"
+    },
+    {
+      "name": "parchment paper",
+      "amount": "1 sheet",
+      "notes": "for lining pan"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon",
+      "notes": "for greasing pan"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C) and line a 9x9-inch baking pan with parchment paper.",
+    "In a saucepan, melt the dairy-free butter, honey, and sugar over medium heat, stirring until smooth.",
+    "Remove from heat and whisk in peanut butter, coconut milk, vanilla, salt, and cayenne until fully combined.",
+    "Stir in chopped peanuts, reserving a handful for topping.",
+    "Pour the batter into the prepared pan and spread evenly.",
+    "Sprinkle reserved peanuts over the surface and lightly press them into the batter.",
+    "Bake for 25 minutes until the edges are golden and a toothpick comes out clean.",
+    "Let the casserole cool completely, then cut into squares and serve warm or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "irish",
+    "no-bake",
+    "peanut-brittle",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 355,
+    "protein": 6,
+    "carbs": 51,
+    "fat": 32
+  },
+  "slug": "velvety-irish-peanut-brittle-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-irish-peanut-brittle-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:14:41Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "snappy",
+    "mood": "post-workout",
+    "technique": "steam",
+    "primaryIngredient": "peanut brittle",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "peanut",
+    "descriptor": "velvety",
+    "dishForm": "casserole"
+  }
+}
