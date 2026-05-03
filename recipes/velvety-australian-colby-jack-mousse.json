@@ -1,0 +1,88 @@
+{
+  "title": "Velvety Australian Colby Jack Mousse",
+  "description": "A sugar‑free, creamy mousse that blends Colby Jack cheese with coconut milk and a touch of vanilla for a tropical twist.",
+  "cuisine": "Australian",
+  "diet": [
+    "sugar-free",
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Colby Jack cheese",
+      "amount": "250 g"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "200 ml"
+    },
+    {
+      "name": "Coconut milk (canned, full‑fat)",
+      "amount": "200 ml"
+    },
+    {
+      "name": "Stevia sweetener (powder)",
+      "amount": "10 g"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": "pure"
+    },
+    {
+      "name": "Lime zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Finely chop the Colby Jack cheese into small cubes.",
+    "Heat a large saucepan over low heat, add the cheese and a splash of coconut milk, stirring gently until the cheese melts into a smooth sauce – about 5 minutes.",
+    "In a separate bowl whisk the heavy cream to soft peaks.",
+    "Fold the melted cheese mixture into the whipped cream, then stir in stevia, vanilla extract, lime zest and a pinch of salt until fully combined.",
+    "Transfer the mousse to a shallow dish, cover, and refrigerate for at least 3 hours or until set.",
+    "Serve chilled, optionally topped with a drizzle of coconut cream or fresh lime slices."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 195,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "sweet",
+    "cheese-mousse",
+    "sugar-free",
+    "colby-jack",
+    "coconut",
+    "monsoon",
+    "australian"
+  ],
+  "nutrition": {
+    "calories": 530,
+    "protein": 21,
+    "carbs": 6,
+    "fat": 79
+  },
+  "slug": "velvety-australian-colby-jack-mousse",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-australian-colby-jack-mousse",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:48:08Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "monsoon",
+    "technique": "fold",
+    "primaryIngredient": "colby jack cheese",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Colby Jack",
+    "descriptor": "Velvety",
+    "dishForm": "Mousse"
+  }
+}
