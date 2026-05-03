@@ -1,0 +1,123 @@
+{
+  "title": "Velvety Filipino Corned Beef Stew",
+  "description": "A rich, creamy corned beef stew with a velvety texture and savory umami flavors, perfect for a romantic Filipino dinner.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "corned beef, canned",
+      "amount": "400g",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "frozen peas",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2"
+    },
+    {
+      "name": "beef broth, low-sodium",
+      "amount": "1½ cups"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "cilantro",
+      "amount": "2 tablespoons",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium heat.",
+    "Add the onion and garlic, sautéing until the onion is translucent, about 3 minutes.",
+    "Stir in the chopped corned beef and cook for 2 minutes to brown slightly.",
+    "Add the diced carrot and peas, then stir to combine.",
+    "Pour in the beef broth and bring the mixture to a gentle boil.",
+    "Add the soy sauce, fish sauce, tomato paste, bay leaves, and coconut milk; reduce heat to low.",
+    "Simmer uncovered for 25 minutes, stirring occasionally, until the vegetables are tender and the sauce thickens to a velvety consistency.",
+    "Season with salt and pepper to taste, remove the bay leaves, and serve hot garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "corned-beef",
+    "stew",
+    "velvety",
+    "bhuna",
+    "romantic",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 27,
+    "carbs": 11,
+    "fat": 30
+  },
+  "slug": "velvety-filipino-corned-beef-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-filipino-corned-beef-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:02:34Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "velvety",
+    "mood": "romantic",
+    "technique": "bhuna",
+    "primaryIngredient": "corned beef",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "corned beef",
+    "descriptor": "Velvety",
+    "dishForm": "Stew"
+  }
+}
