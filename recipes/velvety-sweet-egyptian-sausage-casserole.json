@@ -1,0 +1,101 @@
+{
+  "title": "Velvety Sweet Egyptian Sausage Casserole",
+  "description": "A comforting one‑pot Egyptian dish that blends sweet potato, coconut milk, and wholesome spices with plant‑based sausage for a velvety, sweet‑savory experience.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Plant‑based sausage links",
+      "amount": "4 (80 g each)",
+      "notes": ""
+    },
+    {
+      "name": "Sweet potato",
+      "amount": "1 medium (200 g)",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small (70 g)",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves (8 g)",
+      "notes": ""
+    },
+    {
+      "name": "Chickpea flour",
+      "amount": "2 tbsp (20 g)",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup (240 ml)",
+      "notes": ""
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "2 tbsp (30 ml)",
+      "notes": ""
+    },
+    {
+      "name": "Ground almonds",
+      "amount": "2 tbsp (15 g)",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp (2 g)",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp (5 g)",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "2 tbsp (10 g)",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp (15 ml)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180 °C (350 °F).",
+    "In a large, oven‑proof skillet, sauté diced onion in a splash of oil until translucent, about 3 minutes.",
+    "Add minced garlic; cook for another minute until fragrant.",
+    "Dice the sweet potato into 1‑inch cubes and add to the skillet, cooking for 5 minutes, stirring occasionally.",
+    "Slice the plant‑based sausage links into half‑meter rounds and add them to the skillet.",
+    "Sprinkle chickpea flour, smoked paprika, and salt over the mixture, stirring to coat all ingredients evenly.",
+    "Pour coconut milk over the contents, bringing the mixture to a gentle simmer.",
+    "Stir in maple syrup and ground almonds, then reduce heat to low and let simmer for 10 minutes until the sweet potato is tender.",
+    "Transfer the skillet to the preheated oven and bake for 15 minutes, allowing the flavors to meld.",
+    "Remove from oven, stir in fresh cilantro and lemon juice, then serve hot."
+  ],
+  "slug": "velvety-sweet-egyptian-sausage-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-sweet-egyptian-sausage-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:31:53Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "velvety",
+    "mood": "one-pot",
+    "technique": "fry",
+    "primaryIngredient": "sausage",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "sausage",
+    "descriptor": "Velvety Sweet",
+    "dishForm": "Casserole"
+  }
+}
