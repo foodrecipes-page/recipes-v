@@ -1,0 +1,103 @@
+{
+  "title": "Velvety Fresh German Peppers Casserole",
+  "description": "A indulgent, creamy and caramelized pepper casserole that showcases fresh German bell peppers in a velvety sauce.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1 large, thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "mixed bell peppers",
+      "amount": "300 g, sliced into 1 cm strips"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "150 g, sliced"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "200 g, diced (optional)"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F) and grease a 9x13 inch baking dish with butter.",
+    "In a large skillet, melt butter over medium heat. Add onion and cook until translucent, about 5 minutes.",
+    "Stir in garlic and cook 30 seconds until fragrant.",
+    "Add sliced peppers, mushrooms, and sweet potato. Cook, stirring, until peppers soften and edges caramelize, about 10-12 minutes.",
+    "Sprinkle flour over the vegetables and stir to coat. Cook for 1 minute.",
+    "Pour in vegetable broth and heavy cream, stirring to combine. Add smoked paprika, salt, and pepper. Bring to a gentle simmer and let thicken for 3-4 minutes.",
+    "Transfer the mixture to the prepared baking dish and spread evenly.",
+    "Bake uncovered for 20-25 minutes, until the top is golden and vegetables are tender.",
+    "Remove from oven and let rest 5 minutes. Garnish with chopped parsley before serving.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian-friendly",
+    "german",
+    "casserole",
+    "comfort-food",
+    "bell-pepper"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 5,
+    "carbs": 17,
+    "fat": 12
+  },
+  "slug": "velvety-fresh-german-peppers-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-fresh-german-peppers-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:48:25Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "velvety",
+    "mood": "indulgent",
+    "technique": "caramelize",
+    "primaryIngredient": "peppers",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Peppers",
+    "descriptor": "Velvety Fresh",
+    "dishForm": "Casserole"
+  }
+}

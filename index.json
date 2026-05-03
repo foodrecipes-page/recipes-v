@@ -1149,6 +1149,20 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-fresh-german-peppers-casserole",
+    "title": "Velvety Fresh German Peppers Casserole",
+    "tags": [
+      "vegetarian-friendly",
+      "german",
+      "casserole",
+      "comfort-food",
+      "bell-pepper"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 60,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-garlicky-melon-stir-fry",
     "title": "Velvety Garlicky Melon Stir-fry",
     "tags": [
@@ -1496,6 +1510,24 @@
     ],
     "cuisine": "Maghrebi",
     "totalTimeMin": 110,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-mediterranean-chickpea-tagine",
+    "title": "Velvety Mediterranean Chickpea Tagine",
+    "tags": [
+      "mediterranean",
+      "vegetarian",
+      "sugar-free",
+      "creamy",
+      "comfort-food",
+      "chickpea",
+      "tagine",
+      "sick-day",
+      "bhuna"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {

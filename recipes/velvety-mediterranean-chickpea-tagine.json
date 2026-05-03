@@ -1,0 +1,113 @@
+{
+  "title": "Velvety Mediterranean Chickpea Tagine",
+  "description": "A creamy, fermented chickpea tagine with a buttery bhuna base, perfect for a sick day with no added sugar.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "sugar-free",
+    "sick-day-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "for bhuna"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "canned chickpeas, drained",
+      "amount": "400 g"
+    },
+    {
+      "name": "low-sodium vegetable broth",
+      "amount": "250 ml"
+    },
+    {
+      "name": "plain Greek yogurt (fat‑free)",
+      "amount": "200 ml"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil and butter in a heavy‑bottomed pot over medium heat.",
+    "Add cumin, coriander, paprika, and thyme; cook, stirring, until fragrant (about 1 minute). This is the bhuna.",
+    "Add diced onion and minced garlic; sauté until onion is translucent, about 4–5 minutes.",
+    "Stir in chickpeas and broth, bring to a gentle simmer.",
+    "Reduce heat to low, cover, and let the mixture cook for 15 minutes, allowing flavors to meld.",
+    "Remove the pot from heat and whisk in the Greek yogurt until fully incorporated and the sauce is velvety.",
+    "Season with salt and pepper to taste, then return to low heat for 5 minutes to warm through.",
+    "Serve hot, garnished with chopped cilantro and a squeeze of fresh lemon if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "vegetarian",
+    "sugar-free",
+    "creamy",
+    "comfort-food",
+    "chickpea",
+    "tagine",
+    "sick-day",
+    "bhuna"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "velvety-mediterranean-chickpea-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-mediterranean-chickpea-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:48:39Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "creamy",
+    "mood": "sick-day",
+    "technique": "bhuna",
+    "primaryIngredient": "butter",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Chickpea",
+    "descriptor": "Velvety",
+    "dishForm": "Tagine"
+  }
+}
