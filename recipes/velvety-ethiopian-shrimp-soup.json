@@ -1,0 +1,107 @@
+{
+  "title": "Velvety Ethiopian Shrimp Soup",
+  "description": "A buttery, low‑calorie shrimp soup infused with traditional Ethiopian berbere spice, silky coconut milk and bright lemon, perfect for a comforting lunch.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jumbo shrimp, peeled and deveined",
+      "amount": "200 g"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1 tsp (5 g)",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Low‑fat coconut milk",
+      "amount": "150 ml"
+    },
+    {
+      "name": "Low‑sodium vegetable broth",
+      "amount": "500 ml"
+    },
+    {
+      "name": "Berbere spice",
+      "amount": "1 tsp (3 g)",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Fresh ginger, minced",
+      "amount": "1 tbsp (10 g)"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves (8 g)"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 small (70 g)"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "1 tbsp (15 g)"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "1 tbsp (15 ml)",
+      "notes": "for acidity"
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "2 tbsp (5 g)",
+      "notes": "garnish"
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine shrimp with lemon juice, minced ginger, garlic, berbere, and a pinch of salt; let marinate for 10 minutes.",
+    "Heat butter in a large pot over medium heat until melted.",
+    "Add diced onion and sauté until translucent, about 3 minutes.",
+    "Stir in tomato paste and cook for 1 minute to deepen flavor.",
+    "Pour in vegetable broth and bring to a gentle simmer.",
+    "Add coconut milk, reduce heat, and let the mixture simmer for 5 minutes to meld the flavors.",
+    "Add the marinated shrimp to the pot and cook for 5–7 minutes, until shrimp turn pink and reach 63 °C internal temperature.",
+    "Turn off the heat, stir in chopped cilantro, and adjust seasoning if needed.",
+    "Serve hot, optionally garnishing with extra cilantro or a squeeze of lemon.",
+    "Enjoy your velvety, low‑calorie Ethiopian shrimp soup!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "ethiopian",
+    "shrimp",
+    "low-calorie",
+    "velvety-soup",
+    "buttery-soup"
+  ],
+  "nutrition": {
+    "calories": 410,
+    "protein": 45,
+    "carbs": 21,
+    "fat": 17
+  },
+  "slug": "velvety-ethiopian-shrimp-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-ethiopian-shrimp-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:19:58Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "marinate",
+    "primaryIngredient": "jumbo shrimp",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Velvety",
+    "dishForm": "Soup"
+  }
+}

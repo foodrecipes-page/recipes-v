@@ -1008,6 +1008,20 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-ethiopian-shrimp-soup",
+    "title": "Velvety Ethiopian Shrimp Soup",
+    "tags": [
+      "ethiopian",
+      "shrimp",
+      "low-calorie",
+      "velvety-soup",
+      "buttery-soup"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 30,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-ethipian-nut-stir-fry",
     "title": "Velvety Ethipian Nut Stir-Fry",
     "tags": [
@@ -1409,6 +1423,21 @@
     ],
     "cuisine": "Maghrebi",
     "totalTimeMin": 110,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-mediterranean-oyster-mushrooms-soup",
+    "title": "Velvety Mediterranean Oyster Mushroom Soup",
+    "tags": [
+      "vegetarian",
+      "keto-friendly",
+      "soups",
+      "Mediterranean",
+      "velvety",
+      "oyster-mushroom"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 30,
     "shard": "v"
   },
   {

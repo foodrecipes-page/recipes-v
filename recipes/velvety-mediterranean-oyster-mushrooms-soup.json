@@ -1,0 +1,116 @@
+{
+  "title": "Velvety Mediterranean Oyster Mushroom Soup",
+  "description": "A bright, sour yet silky soup bursting with Mediterranean herbs, featuring blanched oyster mushrooms for a touch of luxury and keto-friendly richness.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "keto",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oyster mushrooms",
+      "amount": "500g",
+      "notes": "cleaned and blanched"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small",
+      "notes": "finely diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "low‑sodium vegetable broth",
+      "amount": "4 cups (960ml)"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/4 cup (60ml)"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh thyme leaves",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Bring a pot of salted water to a rolling boil. Add the oyster mushrooms and blanch for 2 minutes. Drain and let cool, then set aside.",
+    "Heat the olive oil in a large saucepan over medium heat. Add the diced red onion and minced garlic, sautéing until the onion becomes translucent and fragrant, about 3‑4 minutes.",
+    "Stir in the tomato paste and cook for 1 minute, allowing it to caramelize slightly.",
+    "Add the blanched mushrooms and vegetable broth to the pot. Bring the mixture to a gentle simmer and cook for 10 minutes to allow flavors to meld.",
+    "Season with oregano, thyme, salt, and pepper. Continue to simmer for an additional 5 minutes.",
+    "Using an immersion blender, puree the soup directly in the pot until it reaches a silky, velvety consistency. Alternatively, transfer to a countertop blender in batches and blend until smooth.",
+    "Return to the stove, stir in the heavy cream and lemon juice, and warm the soup over low heat, avoiding a rolling boil to preserve the cream’s texture.",
+    "Serve the soup hot, garnished with a sprinkle of fresh parsley. Enjoy a comforting, keto‑friendly bowl of Mediterranean flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "keto-friendly",
+    "soups",
+    "Mediterranean",
+    "velvety",
+    "oyster-mushroom"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 8,
+    "fat": 10
+  },
+  "slug": "velvety-mediterranean-oyster-mushrooms-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-mediterranean-oyster-mushrooms-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:19:31Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "velvety",
+    "mood": "cozy",
+    "technique": "blanch",
+    "primaryIngredient": "oyster mushrooms",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Oyster Mushrooms",
+    "descriptor": "Velvety",
+    "dishForm": "Soup"
+  }
+}
