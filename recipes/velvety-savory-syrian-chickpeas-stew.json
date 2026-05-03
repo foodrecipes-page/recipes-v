@@ -1,0 +1,116 @@
+{
+  "title": "Velvety Savory Syrian Chickpeas Stew",
+  "description": "A creamy, umami-packed Syrian chickpea stew enriched with a zesty chimichurri sauce, simmered low-sodium and finished with a fragrant temper for a crowd-pleasing comfort dish.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "canned chickpeas, drained and rinsed",
+      "amount": "2 cups (400g)",
+      "notes": ""
+    },
+    {
+      "name": "low-sodium vegetable broth",
+      "amount": "3 cups (700ml)",
+      "notes": ""
+    },
+    {
+      "name": "tomato sauce, low-sodium",
+      "amount": "1 cup (240ml)",
+      "notes": ""
+    },
+    {
+      "name": "onion, finely diced",
+      "amount": "1 medium (150g)",
+      "notes": ""
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp",
+      "notes": "divided"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "tahini",
+      "amount": "1 tbsp",
+      "notes": "for creaminess"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1/2 cup (120ml)",
+      "notes": "made with parsley, cilantro, vinegar, oil, oregano, pepper"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of olive oil in a large pot over medium heat. Add diced onion and sauté until translucent, about 3-4 minutes.",
+    "Add minced garlic and sauté for another 30 seconds until fragrant.",
+    "Stir in smoked paprika, cumin, and coriander, cooking for 1 minute to toast the spices.",
+    "Pour in tomato sauce, vegetable broth, and chickpeas. Bring the mixture to a gentle simmer.",
+    "Reduce heat to low, cover, and simmer for 20 minutes, stirring occasionally.",
+    "While the stew simmers, whisk the chimichurri sauce: combine chopped parsley, cilantro, red wine vinegar, remaining olive oil, oregano, pepper, and a pinch of salt.",
+    "After simmering, stir in tahini for a velvety texture and let the stew cook for another 5 minutes to meld flavors.",
+    "Finish by pouring the chimichurri sauce into the pot, stirring to combine, and adjusting seasoning if needed. Serve hot, optionally garnished with fresh parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "low-sodium",
+    "chickpeas",
+    "comfort-food",
+    "syrian",
+    "stew",
+    "creamy",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 20,
+    "carbs": 19,
+    "fat": 4
+  },
+  "slug": "velvety-savory-syrian-chickpeas-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-savory-syrian-chickpeas-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:07:42Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "crowd-pleaser",
+    "technique": "temper",
+    "primaryIngredient": "chimichurri sauce",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Chickpeas",
+    "descriptor": "Velvety Savory",
+    "dishForm": "Stew"
+  }
+}
