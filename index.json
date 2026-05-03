@@ -2552,6 +2552,21 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-vietnamese-rice-fried-rice",
+    "title": "Velvety Vietnamese Rice Fried-Rice",
+    "tags": [
+      "vietnamese",
+      "fried-rice",
+      "quick",
+      "lazy-sunday",
+      "air-fry",
+      "sunflower-oil"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 25,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-vietnamese-tofu-soup",
     "title": "Velvety Vietnamese Tofu Soup",
     "tags": [

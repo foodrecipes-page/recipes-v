@@ -1,0 +1,111 @@
+{
+  "title": "Velvety Vietnamese Rice Fried-Rice",
+  "description": "A lazy‑Sunday Vietnamese style fried rice that’s earthy, velvety, and quick, using sunflower oil and an air‑fryer for a silky finish.",
+  "cuisine": "Vietnamese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cooked jasmine rice",
+      "amount": "2 cups",
+      "notes": "preferably day‑old for better texture"
+    },
+    {
+      "name": "sunflower oil",
+      "amount": "1 tsp",
+      "notes": "for stir‑frying in skillet"
+    },
+    {
+      "name": "egg",
+      "amount": "2",
+      "notes": "lightly beaten"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 medium",
+      "notes": "finely diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "peas and carrots (frozen)",
+      "amount": "1/2 cup",
+      "notes": "thawed"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low‑sodium"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp",
+      "notes": "adds umami depth"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "for finishing touch"
+    },
+    {
+      "name": "cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat your air‑fryer to 200 °C (400 °F) with a light spray of sunflower oil.",
+    "Heat a large non‑stick skillet over medium heat and add 1 tsp sunflower oil.",
+    "Sauté the diced onion and minced garlic until fragrant, about 2 minutes.",
+    "Push the aromatics to the side and pour the beaten eggs into the skillet; scramble until just set.",
+    "Add the peas and carrots, then stir‑fry for another 2 minutes.",
+    "Fold in the cooked rice, soy sauce, fish sauce, and pepper; stir well to combine.",
+    "Transfer the mixture to the air‑fry basket, spreading it into an even layer; cook for 6–8 minutes until the edges are slightly crisp.",
+    "Remove, drizzle with sesame oil, sprinkle chopped cilantro, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "vietnamese",
+    "fried-rice",
+    "quick",
+    "lazy-sunday",
+    "air-fry",
+    "sunflower-oil"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 55,
+    "fat": 10
+  },
+  "slug": "velvety-vietnamese-rice-fried-rice",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-vietnamese-rice-fried-rice",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:20:50Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "air-fry",
+    "primaryIngredient": "sunflower oil",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "rice",
+    "descriptor": "Velvety",
+    "dishForm": "Fried-Rice"
+  }
+}
