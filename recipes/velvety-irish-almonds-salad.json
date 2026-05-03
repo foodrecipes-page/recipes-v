@@ -1,0 +1,113 @@
+{
+  "title": "Velvety Irish Almonds Salad",
+  "description": "A nutty, velvety salad that blends Irish greens, tandoor‑roasted almonds, and a dry white wine‑infused yogurt dressing for a high‑protein, light meal.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "high-protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kale",
+      "amount": "200 g",
+      "notes": "tightly packed, stems removed, chopped"
+    },
+    {
+      "name": "almonds",
+      "amount": "150 g",
+      "notes": "raw, whole"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "120 ml",
+      "notes": "Cabernet Blanc or similar"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "tandoor‑roasted paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic clove",
+      "amount": "1",
+      "notes": "minced"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "100 g"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your tandoor or conventional oven to 200°C (390°F).",
+    "Spread the almonds on a baking sheet, drizzle with 1 tsp olive oil, and season with salt and pepper. Roast in the tandoor for 5–7 minutes until golden and fragrant.",
+    "While almonds roast, soak the kale in cold water, shake off excess, and place in a large bowl.",
+    "In a small saucepan, combine the dry white wine, minced garlic, honey, and tandoor‑roasted paprika. Heat gently until the mixture reduces by half, about 3 minutes. Remove from heat and let cool slightly.",
+    "Whisk the Greek yogurt with the lemon juice, reduced wine mixture, and chopped dill until smooth.",
+    "Add the roasted almonds to the kale, pour the dressing over, and toss gently to coat everything evenly.",
+    "Season the salad with additional salt and pepper to taste.",
+    "Serve immediately over a bed of fresh kale or pair with a slice of Irish brown bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "high-protein",
+    "irish",
+    "almond",
+    "salad",
+    "tandoor-oven",
+    "dry-white-wine"
+  ],
+  "nutrition": {
+    "calories": 975,
+    "protein": 44,
+    "carbs": 46,
+    "fat": 92
+  },
+  "slug": "velvety-irish-almonds-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-irish-almonds-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:12:11Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "tandoor",
+    "primaryIngredient": "dry white wine",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Almonds",
+    "descriptor": "Velvety",
+    "dishForm": "Salad"
+  }
+}
