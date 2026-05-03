@@ -1,0 +1,113 @@
+{
+  "title": "Velvety Rich Jamaican Bread Stew",
+  "description": "A deep, velvety stew that transforms stale gluten‑free bread into a rich, comforting Jamaican dish, packed with aromatic herbs and coconut milk.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "stale gluten‑free bread",
+      "amount": "2 cups cubed (200g)"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "crushed tomatoes",
+      "amount": "400g (1 can)"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups (500ml)"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml (1 cup)"
+    },
+    {
+      "name": "tamari (gluten‑free soy sauce)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "allspice",
+      "amount": "½ tsp"
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium; melt the butter with olive oil.",
+    "Add the diced onion and minced garlic and sauté until fragrant and translucent, about 3–4 minutes.",
+    "Stir in the dried thyme and bay leaf, cooking for an additional minute.",
+    "Add the cubed stale bread and stir to coat the pieces with the butter‑oil mixture; toast lightly for about 5 minutes.",
+    "Pour in the crushed tomatoes and vegetable broth, bring the mixture to a gentle simmer.",
+    "Reduce the heat to low, cover, and let the stew braise for 15 minutes so the bread soaks up the flavors.",
+    "Uncover and stir in the coconut milk, tamari, and allspice; continue to simmer for another 10 minutes until the stew thickens to a velvety consistency.",
+    "Taste and adjust seasoning, adding a pinch of salt or more tamari if desired.",
+    "Remove the bay leaf, ladle the stew into bowls, and garnish with optional fresh parsley if desired.",
+    "Serve hot, paired with rice or enjoyed on its own."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "vegan",
+    "stale-bread",
+    "jamaican",
+    "comfort-food",
+    "rich",
+    "velvety",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 1380,
+    "protein": 25,
+    "carbs": 148,
+    "fat": 81
+  },
+  "slug": "velvety-rich-jamaican-bread-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-rich-jamaican-bread-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:30:12Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "velvety",
+    "mood": "indulgent",
+    "technique": "braise",
+    "primaryIngredient": "stale bread",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Bread",
+    "descriptor": "Velvety Rich",
+    "dishForm": "Stew"
+  }
+}
