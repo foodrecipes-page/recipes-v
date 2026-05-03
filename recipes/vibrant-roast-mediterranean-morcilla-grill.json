@@ -1,0 +1,99 @@
+{
+  "title": "Vibrant Roast Mediterranean Morcilla Grill",
+  "description": "A flavorful and vibrant twist on traditional morcilla, featuring a mediterranean-inspired roast and a hint of chinese spices. Perfect for a quick and satisfying dinner.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spanish morcilla",
+      "amount": "500g"
+    },
+    {
+      "name": "Mixed bell peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "Chinese five-spice powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.25 tsp"
+    },
+    {
+      "name": "Crumbled feta cheese",
+      "amount": "100g"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the bell peppers in half and remove the seeds and membranes.",
+    "In a small bowl, mix together the olive oil, garlic, ginger, five-spice powder, salt, and black pepper.",
+    "Brush the mixture on the bell peppers and place them on a baking sheet.",
+    "Roast the bell peppers in the oven for 20 minutes, or until they start to soften.",
+    "While the bell peppers are roasting, cook the morcilla in a large skillet over medium-high heat, breaking it up with a spoon as it cooks.",
+    "Once the morcilla is cooked, add the crumbled feta cheese to the skillet and stir until melted and combined.",
+    "To assemble the dish, place a grilled portobello mushroom cap on a plate, top with a spoonful of the morcilla and feta mixture, and finish with a roasted bell pepper half.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "roast",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "vibrant-roast-mediterranean-morcilla-grill",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-roast-mediterranean-morcilla-grill",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:50:26Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "cheese-pull",
+    "mood": "monsoon",
+    "technique": "roast",
+    "primaryIngredient": "morcilla",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Morcilla",
+    "descriptor": "Vibrant Roast",
+    "dishForm": "Grill"
+  }
+}

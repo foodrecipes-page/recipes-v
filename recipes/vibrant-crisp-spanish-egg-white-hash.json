@@ -1,0 +1,89 @@
+{
+  "title": "Vibrant Crisp Spanish Egg White Hash",
+  "description": "A lazy-sunday Spanish hash featuring crisp potatoes, fluffy egg whites, and a bright citrus kiss.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "potatoes, peeled and diced",
+      "amount": "300 g"
+    },
+    {
+      "name": "egg whites, large eggs",
+      "amount": "120 g"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "freshly ground black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the dolsot over medium-high heat.",
+    "Toss the diced potatoes with 1 tbsp oil, paprika, salt, pepper, and lemon zest in a bowl.",
+    "Add the potatoes to the dolsot and cook for 8 minutes, stirring occasionally, until they start to brown.",
+    "Pour the remaining tablespoon of oil over the potatoes, reduce heat to medium, and continue cooking until the potatoes are crispy and golden, about 6 minutes.",
+    "Whisk the egg whites until soft peaks form, then gently pour them over the potatoes in a circular motion.",
+    "Cover the dolsot with its lid and steam the egg whites for 3 minutes until the top is firm.",
+    "Remove the lid, stir gently to combine the crispy potatoes with the set egg whites, and sprinkle chopped parsley over the top.",
+    "Serve hot straight from the dolsot, optionally adding a lemon wedge for extra brightness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 17,
+  "totalTimeMin": 27,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "crisp",
+    "egg-white",
+    "lazy-sunday",
+    "one-pan",
+    "valencian-style"
+  ],
+  "nutrition": {
+    "calories": 554,
+    "protein": 27,
+    "carbs": 54,
+    "fat": 27
+  },
+  "slug": "vibrant-crisp-spanish-egg-white-hash",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-crisp-spanish-egg-white-hash",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:50:36Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crisp",
+    "mood": "lazy-sunday",
+    "technique": "spherify",
+    "primaryIngredient": "egg white",
+    "diet": "no-onion-no-garlic",
+    "region": "valencian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "egg white",
+    "descriptor": "Vibrant Crisp",
+    "dishForm": "Hash"
+  }
+}

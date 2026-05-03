@@ -3111,6 +3111,20 @@
     "shard": "v"
   },
   {
+    "slug": "vibrant-crisp-spanish-egg-white-hash",
+    "title": "Vibrant Crisp Spanish Egg White Hash",
+    "tags": [
+      "crisp",
+      "egg-white",
+      "lazy-sunday",
+      "one-pan",
+      "valencian-style"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 27,
+    "shard": "v"
+  },
+  {
     "slug": "vibrant-jamaican-tofu-custard",
     "title": "Vibrant Jamaican Tofu Custard",
     "tags": [
@@ -3122,6 +3136,21 @@
     ],
     "cuisine": "Jamaican",
     "totalTimeMin": 85,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-roast-mediterranean-morcilla-grill",
+    "title": "Vibrant Roast Mediterranean Morcilla Grill",
+    "tags": [
+      "grilled",
+      "high-protein",
+      "mediterranean",
+      "one-pan",
+      "roast",
+      "weeknight"
+    ],
+    "cuisine": "mediterranean",
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
