@@ -1487,6 +1487,20 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-russian-sugar-bowl",
+    "title": "Velvety Russian Sugar Bowl",
+    "tags": [
+      "russian",
+      "dessert",
+      "velvety",
+      "sugar",
+      "simmer"
+    ],
+    "cuisine": "russian",
+    "totalTimeMin": 7,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-salty-petit-pois-soup",
     "title": "Velvety Salty Petit pois Soup",
     "tags": [

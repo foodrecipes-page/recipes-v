@@ -1,0 +1,75 @@
+{
+  "title": "Velvety Russian Sugar Bowl",
+  "description": "A smooth, one-pot dessert featuring sugar and simmered ingredients for a rich, velvety texture without nuts.",
+  "cuisine": "russian",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup",
+      ": ": "",
+      "notes": "for dissolving sugar"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": "for flavor"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 tsp",
+      "notes": "optional, for warmth"
+    }
+  ],
+  "instructions": [
+    "Combine sugar and water in a small pot over medium heat.",
+    "Stir until sugar dissolves completely.",
+    "Add vanilla extract and cinnamon (if using).",
+    "Simmer gently for 5 minutes, stirring occasionally to prevent sticking.",
+    "Remove from heat and let cool slightly before serving."
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 5,
+  "totalTimeMin": 7,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "russian",
+    "dessert",
+    "velvety",
+    "sugar",
+    "simmer"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 0,
+    "carbs": 120,
+    "fat": 0
+  },
+  "slug": "velvety-russian-sugar-bowl",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-russian-sugar-bowl",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T04:41:02Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "velvety",
+    "mood": "one-pot",
+    "technique": "simmer",
+    "primaryIngredient": "sugar",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "sugar",
+    "descriptor": "Velvety",
+    "dishForm": "Bowl"
+  }
+}
