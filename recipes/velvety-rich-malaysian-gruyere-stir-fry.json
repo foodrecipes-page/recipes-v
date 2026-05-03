@@ -1,0 +1,115 @@
+{
+  "title": "Velvety Rich Malaysian Gruyère Stir‑fry",
+  "description": "A savory, fermented Malaysian-inspired stir‑fry where creamy Gruyère melts into a tangy, umami sauce, perfect for quick meal prep.",
+  "cuisine": "Malaysian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gruyère cheese",
+      "amount": "150g",
+      "notes": "grated"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "200g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Broccoli florets",
+      "amount": "150g",
+      "notes": null
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "Fermented bean paste",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Oyster sauce",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a wok over high heat. Add garlic and ginger, sauté until fragrant, about 30 seconds.",
+    "Add the sliced chicken and stir‑fry until it turns white, about 3–4 minutes.",
+    "Add broccoli florets and bell pepper, stir‑fry for 2 minutes until crisp‑tender.",
+    "Stir in fermented bean paste, soy sauce, oyster sauce, and water. Bring to a gentle simmer.",
+    "Add the grated Gruyère cheese, stirring until it melts and the sauce thickens, about 2–3 minutes.",
+    "Finish with lime juice, season with salt and pepper to taste, and stir for 30 seconds.",
+    "Remove from heat, let rest for 2 minutes to meld flavors.",
+    "Serve hot or let cool and portion into containers for meal prep."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "stir-fry",
+    "cheese",
+    "meal-prep",
+    "fermented",
+    "malaysian"
+  ],
+  "nutrition": {
+    "calories": 704,
+    "protein": 55,
+    "carbs": 10,
+    "fat": 33
+  },
+  "slug": "velvety-rich-malaysian-gruyere-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-rich-malaysian-gruyere-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T16:52:52Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "velvety",
+    "mood": "meal-prep",
+    "technique": "stir-fry",
+    "primaryIngredient": "gruy re",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Gruyere",
+    "descriptor": "Velvety Rich",
+    "dishForm": "Stir-fry"
+  }
+}
