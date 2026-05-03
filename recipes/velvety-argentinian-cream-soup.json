@@ -1,0 +1,104 @@
+{
+  "title": "Velvety Argentinian Cream Soup",
+  "description": "A buttery, creamy, light Argentinian soup featuring garlic and a smooth finish, kosher‑friendly and perfect for an elegant lunch.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "250 g",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic clove",
+      "amount": "1",
+      "notes": "minced"
+    },
+    {
+      "name": "kosher butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "kosher chicken stock",
+      "amount": "500 ml"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "200 ml"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tsp",
+      "notes": "crushed"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "a pinch",
+      "notes": "optional for warmth"
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium heat and melt the butter.",
+    "Add the chopped onion and minced garlic, sautéing until fragrant and translucent, about 3 minutes.",
+    "Stir in the diced potatoes and cook for an additional 2 minutes, coating them with butter.",
+    "Pour in the chicken stock, bring the mixture to a gentle boil, then reduce heat to a simmer.",
+    "Simmer uncovered for 15 minutes, or until the potatoes are tender when pierced with a fork.",
+    "Add the crushed thyme, salt, pepper, and a pinch of nutmeg; stir to combine.",
+    "Use an immersion blender to puree the soup until silky smooth, or transfer to a blender in batches.",
+    "Return the soup to the pot, stir in the heavy cream, and heat through for 3 minutes, keeping it below boiling.",
+    "Taste and adjust seasoning if necessary; if the soup is too thick, add a splash of stock or water.",
+    "Serve hot, garnished with a swirl of cream and a sprinkle of fresh thyme or chopped parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "creamy-soup",
+    "kosher-friendly",
+    "buttery",
+    "light-dish"
+  ],
+  "nutrition": {
+    "calories": 219,
+    "protein": 8,
+    "carbs": 11,
+    "fat": 12
+  },
+  "slug": "velvety-argentinian-cream-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-argentinian-cream-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:16:23Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "whisk",
+    "primaryIngredient": "garlic clove",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "cream",
+    "descriptor": "Velvety",
+    "dishForm": "Soup"
+  }
+}
