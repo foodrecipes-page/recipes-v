@@ -1,0 +1,88 @@
+{
+  "title": "Velvety Spicy Algerian Lamb Tagine",
+  "description": "A luscious, slow‑cooked lamb tagine that balances smoky heat with a silky, creamy finish—perfect for a solo dinner while keeping it diabetic‑friendly.",
+  "cuisine": "Algerian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder, cubed",
+      "amount": "680 g",
+      "notes": "trim excess fat for lower cholesterol"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "large onion",
+      "amount": "1, sliced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2, minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red chilli powder",
+      "amount": "1 tsp",
+      "notes": "add more for extra heat"
+    },
+    {
+      "name": "low‑sodium chicken broth",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "tomato puree (low‑sugar)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a heavy‑bottomed pot over medium heat.",
+    "Add the lamb cubes and sear them on all sides until browned, about 5 minutes.",
+    "Transfer the lamb to a plate and set aside.",
+    "In the same pot, add the sliced onion and cook until translucent, about 3 minutes.",
+    "Stir in the minced garlic, cumin, coriander, smoked paprika, and red chilli powder; cook for 1 minute until fragrant.",
+    "Return the lamb to the pot and pour in the chicken broth and tomato puree, scraping up any browned bits.",
+    "Bring the mixture to a gentle simmer, reduce heat to low, cover, and let it cook for 45 minutes, stirring occasionally.",
+    "Once the lamb is tender, add the lemon juice and chopped parsley, season with salt and pepper to taste, and finish with a final stir.",
+    "Serve hot, optionally garnished with extra parsley, over a small portion of couscous or plain steamed rice for a balanced meal."
+  ],
+  "slug": "velvety-spicy-algerian-lamb-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-spicy-algerian-lamb-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:47:20Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "velvety",
+    "mood": "solo-dinner",
+    "technique": "reduce",
+    "primaryIngredient": "red chilli powder",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lamb",
+    "descriptor": "Velvety Spicy",
+    "dishForm": "Tagine"
+  }
+}
