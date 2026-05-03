@@ -1,0 +1,93 @@
+{
+  "title": "Velvety Canadian Chicken Stew",
+  "description": "A comforting, low‑fat chicken stew infused with earthy Canadian flavors and a hint of fajita spice, perfect for a lazy Sunday.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Skinless chicken breast",
+      "amount": "680 g",
+      "notes": "trimmed and cut into 2‑inch pieces"
+    },
+    {
+      "name": "Low‑sodium chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Unsweetened almond milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Carrots, diced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Celery, diced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mushrooms, sliced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "Low‑sodium fajita seasoning",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Olive oil (extra‑virgin)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium‑high heat.",
+    "Season the chicken pieces with the fajita seasoning, salt, and pepper, then sear them in the pot until browned on all sides, about 3‑4 minutes per side. Remove the chicken and set aside.",
+    "Add the diced onions, carrots, celery, mushrooms, and minced garlic to the pot; sauté until the vegetables are softened, about 5 minutes.",
+    "Return the chicken to the pot and pour in the chicken broth and almond milk. Stir in the smoked paprika, ground cumin, and lemon juice.",
+    "Bring the mixture to a gentle simmer, cover, and reduce the heat to low. Cook for 25‑30 minutes, until the chicken is tender and the flavors meld.",
+    "Use an immersion blender to partially blend the stew until it reaches a velvety, silky texture; alternatively, transfer a portion to a blender and blend, then return to the pot.",
+    "Taste and adjust seasoning with additional salt, pepper, or lemon juice if desired.",
+    "Serve hot, garnished with fresh herbs such as parsley or cilantro if desired."
+  ],
+  "slug": "velvety-canadian-chicken-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-canadian-chicken-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:55:33Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "braise",
+    "primaryIngredient": "fajita seasoning",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "chicken",
+    "descriptor": "Velvety",
+    "dishForm": "Stew"
+  }
+}
