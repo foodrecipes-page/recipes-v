@@ -1,0 +1,132 @@
+{
+  "title": "Velvety Indian Beef Curry",
+  "description": "A buttery, velvety curry blending mixed beef cuts with coconut milk and aromatic spices, kosher-friendly and adventurous.",
+  "cuisine": "Indian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mixed beef cuts (chuck, sirloin, brisket)",
+      "amount": "800g",
+      "notes": "Trim and cut into 2.5 cm cubes"
+    },
+    {
+      "name": "Heavy coconut milk",
+      "amount": "240ml",
+      "notes": "1 cup"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for sauté"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped (~150g)"
+    },
+    {
+      "name": "Garlic paste",
+      "amount": "1 tbsp",
+      "notes": "(≈15g)"
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "1 tbsp",
+      "notes": "(≈15g)"
+    },
+    {
+      "name": "Tomato puree",
+      "amount": "240ml",
+      "notes": "1 cup"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp",
+      "notes": "(≈2g)"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp",
+      "notes": "(≈2g)"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 tsp",
+      "notes": "(≈2g)"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "½ tsp",
+      "notes": "(≈1g)"
+    },
+    {
+      "name": "Kashmiri red chili powder",
+      "amount": "1 tsp",
+      "notes": "(≈2g)"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "¼ cup",
+      "notes": "(≈10g), chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Trim the beef and cut into 2.5 cm cubes.",
+    "Bring a pot of water to a boil, add the beef cubes, and blanch for 2 minutes. Drain and rinse under cold water to stop the cooking.",
+    "Heat coconut oil in a deep skillet or Dutch oven over medium heat.",
+    "Add the chopped onion and sauté until golden brown, about 5 minutes.",
+    "Stir in garlic paste and ginger paste, cooking for 1 minute until fragrant.",
+    "Add ground cumin, coriander, garam masala, turmeric, and chili powder; cook for 1 minute, stirring constantly.",
+    "Pour in tomato puree and simmer for 5 minutes, letting the flavors meld.",
+    "Add the blanched beef cubes to the skillet and stir to coat with the spice mixture.",
+    "Pour in the coconut milk, bring to a gentle simmer, cover, and cook for 15–20 minutes, or until the beef is tender and the sauce is velvety.",
+    "Season with salt to taste, and stir in a splash of lemon juice if desired.",
+    "Remove from heat, garnish with chopped cilantro, and serve hot over basmati rice or with warm naan.",
+    "Enjoy the buttery, velvety texture and aromatic adventure of this kosher-friendly beef curry."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-curry",
+    "beef",
+    "kashmiri-red-chili",
+    "velvety-texture",
+    "kosher-friendly",
+    "blanching",
+    "coconut-milk"
+  ],
+  "nutrition": {
+    "calories": 580,
+    "protein": 37,
+    "carbs": 12,
+    "fat": 36
+  },
+  "slug": "velvety-indian-beef-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-indian-beef-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:33:41Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "velvety",
+    "mood": "adventurous",
+    "technique": "blanch",
+    "primaryIngredient": "mixed beef cuts",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "beef",
+    "descriptor": "Velvety",
+    "dishForm": "Curry"
+  }
+}
