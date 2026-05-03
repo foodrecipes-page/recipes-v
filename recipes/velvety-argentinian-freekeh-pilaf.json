@@ -1,0 +1,112 @@
+{
+  "title": "Velvety Argentinian Freekeh Pilaf",
+  "description": "A buttery, velvety pilaf featuring toasted freekeh, aromatic spices, and a creamy cashew- almond sauce, perfect for a solo, jain-friendly dinner.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegan",
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "freekeh",
+      "amount": "1 cup",
+      "notes": "medium grain, rinsed"
+    },
+    {
+      "name": "low-sodium vegetable broth",
+      "amount": "1 cup",
+      "notes": "warm"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1/2 cup",
+      "notes": "warm"
+    },
+    {
+      "name": "cashew butter",
+      "amount": "2 tbsp",
+      "notes": "soak cashews 30 min, blend with 1 Tbsp water to create smooth cream"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1 Tbsp"
+    },
+    {
+      "name": "fresh parsley and cilantro, chopped",
+      "amount": "2 Tbsp"
+    },
+    {
+      "name": "toasted almonds",
+      "amount": "1 Tbsp",
+      "notes": "toast dry until golden"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse the freekeh and toast it in a dry skillet over medium heat until lightly browned, about 2–3 minutes; set aside.",
+    "Heat the olive oil in the same skillet, then add cumin, smoked paprika, and chili flakes; cook for 30 seconds until fragrant.",
+    "Pour a splash of the warm vegetable broth to deglaze the pan, scraping up all the browned bits.",
+    "Add the toasted freekeh to the skillet and pour in the remaining broth. Bring to a gentle simmer, then cover and reduce heat to low. Cook for 15 minutes, or until the liquid is absorbed.",
+    "Remove the skillet from the heat and whisk in the warm almond milk, cashew cream, and lemon juice until the mixture is smooth and velvety.",
+    "Season the pilaf with salt and pepper to taste, stirring well.",
+    "Divide the pilaf between two plates, garnish with chopped parsley, cilantro, and toasted almonds.",
+    "Serve immediately while hot, enjoying the buttery, velvety texture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "freekeh-pilaf",
+    "jain-friendly",
+    "vegan",
+    "velvety",
+    "buttery"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "velvety-argentinian-freekeh-pilaf",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-argentinian-freekeh-pilaf",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:18:12Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "velvety",
+    "mood": "solo-dinner",
+    "technique": "deglaze",
+    "primaryIngredient": "freekeh",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "freekeh",
+    "descriptor": "Velvety",
+    "dishForm": "Pilaf"
+  }
+}
