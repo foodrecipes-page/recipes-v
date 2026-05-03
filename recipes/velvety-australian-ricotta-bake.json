@@ -1,0 +1,102 @@
+{
+  "title": "Velvety Australian Ricotta Bake",
+  "description": "A romantic, low-fat Australian dish featuring ricotta, perfect for a cozy dinner. This bake is salty, velvety, and sure to impress.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ricotta cheese",
+      "amount": "250g",
+      "notes": "low-fat"
+    },
+    {
+      "name": "egg",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "50g",
+      "notes": "low-fat"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "200g",
+      "notes": "halved"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "In a large bowl, combine ricotta cheese, egg, salt, black pepper, garlic powder, and dried thyme. Mix well.",
+    "Stir in grated parmesan cheese.",
+    "Add halved cherry tomatoes and chopped fresh basil leaves to the bowl. Mix gently.",
+    "Grease a 20cm (8 inch) baking dish with olive oil.",
+    "Pour the ricotta mixture into the prepared baking dish.",
+    "Bake for 35-40 minutes or until the edges are lightly golden brown.",
+    "Remove from oven and let it rest for 10 minutes before serving.",
+    "Serve warm, garnished with additional basil leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian-cuisine",
+    "low-fat",
+    "ricotta-bake",
+    "romantic-dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "velvety-australian-ricotta-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-australian-ricotta-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T19:41:12Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "velvety",
+    "mood": "romantic",
+    "technique": "bake",
+    "primaryIngredient": "ricotta",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "ricotta",
+    "descriptor": "velvety",
+    "dishForm": "Bake"
+  }
+}

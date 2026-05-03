@@ -576,6 +576,19 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-australian-ricotta-bake",
+    "title": "Velvety Australian Ricotta Bake",
+    "tags": [
+      "australian-cuisine",
+      "low-fat",
+      "ricotta-bake",
+      "romantic-dinner"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 60,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-beef-stir-fry",
     "title": "Velvety Beef Stir-fry",
     "tags": [
