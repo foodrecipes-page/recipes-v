@@ -1,55 +1,55 @@
 {
   "title": "Velvety Ginger German Cabbage Gratin",
-  "description": "A fermented, velvety German gratin that blends tangy sauerkraut, spicy ginger, and creamy yogurt for a sugar‑free, meal‑prep friendly dinner.",
+  "description": "A fermented, velvety German gratin that blends tangy sauerkraut, spicy ginger, and creamy yogurt for a sugarfree, mealprep friendly dinner.",
   "cuisine": "German",
   "diet": [
-    "sugar‑free"
+    "sugar\u2011free"
   ],
   "meal": "dinner",
   "ingredients": [
     {
       "name": "green cabbage",
-      "amount": "1 head (≈1.2 kg)",
+      "amount": "1 head (\u22481.2\u202fkg)",
       "notes": null
     },
     {
       "name": "sauerkraut",
-      "amount": "400 g",
+      "amount": "400\u202fg",
       "notes": "drained"
     },
     {
       "name": "fresh ginger",
-      "amount": "2 Tbsp",
+      "amount": "2\u202fTbsp",
       "notes": "grated"
     },
     {
-      "name": "low‑fat Greek yogurt",
-      "amount": "1 cup (≈240 g)",
+      "name": "low\u2011fat Greek yogurt",
+      "amount": "1\u202fcup (\u2248240\u202fg)",
       "notes": null
     },
     {
       "name": "unsweetened tomato paste",
-      "amount": "1 cup (≈240 g)",
+      "amount": "1\u202fcup (\u2248240\u202fg)",
       "notes": null
     },
     {
-      "name": "part‑skim mozzarella",
-      "amount": "200 g",
+      "name": "part\u2011skim mozzarella",
+      "amount": "200\u202fg",
       "notes": "shredded"
     },
     {
       "name": "olive oil",
-      "amount": "1 Tbsp",
+      "amount": "1\u202fTbsp",
       "notes": null
     },
     {
       "name": "mustard powder",
-      "amount": "1 tsp",
+      "amount": "1\u202ftsp",
       "notes": null
     },
     {
       "name": "smoked paprika",
-      "amount": "½ tsp",
+      "amount": "\u00bd\u202ftsp",
       "notes": null
     },
     {
@@ -64,21 +64,21 @@
     },
     {
       "name": "fresh dill",
-      "amount": "1 Tbsp",
+      "amount": "1\u202fTbsp",
       "notes": "optional, for garnish"
     }
   ],
   "instructions": [
-    "Preheat oven to 200 °C (400 °F). Grease a 23 × 33 cm baking dish with a little olive oil.",
-    "Wash the cabbage and cut into 8 wedges. Blanch the wedges in boiling salted water for 2 min, then drain and set aside.",
-    "In a skillet, heat the olive oil over medium heat. Add the grated ginger and sauté for 30 s until fragrant.",
-    "Stir in the yogurt, tomato paste, mustard powder, smoked paprika, salt, and pepper. Cook for 2 min until the mixture thickens slightly.",
-    "Fold in the drained sauerkraut and sauté for another 2 min, letting the flavors mingle. Remove from heat.",
+    "Preheat oven to 200\u202f\u00b0C (400\u202f\u00b0F). Grease a 23\u202f\u00d7\u202f33\u202fcm baking dish with a little olive oil.",
+    "Wash the cabbage and cut into 8 wedges. Blanch the wedges in boiling salted water for 2\u202fmin, then drain and set aside.",
+    "In a skillet, heat the olive oil over medium heat. Add the grated ginger and saut\u00e9 for 30\u202fs until fragrant.",
+    "Stir in the yogurt, tomato paste, mustard powder, smoked paprika, salt, and pepper. Cook for 2\u202fmin until the mixture thickens slightly.",
+    "Fold in the drained sauerkraut and saut\u00e9 for another 2\u202fmin, letting the flavors mingle. Remove from heat.",
     "Arrange the blanched cabbage wedges in a single layer in the prepared dish. Spoon the ginger sauce over each wedge, covering completely.",
     "Sprinkle the shredded mozzarella evenly over the top of the gratin.",
-    "Cover the dish with foil and bake for 20 min.",
-    "Remove the foil and return the gratin to the oven uncovered for 8–10 min, or until the cheese is golden and bubbly.",
-    "Let the gratin rest for 5 min before serving. Garnish with fresh dill if desired."
+    "Cover the dish with foil and bake for 20\u202fmin.",
+    "Remove the foil and return the gratin to the oven uncovered for 8\u201310\u202fmin, or until the cheese is golden and bubbly.",
+    "Let the gratin rest for 5\u202fmin before serving. Garnish with fresh dill if desired."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,

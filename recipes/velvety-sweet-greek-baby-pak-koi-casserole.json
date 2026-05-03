@@ -1,10 +1,10 @@
 {
   "title": "Velvety Sweet Greek Baby Pak Koi Casserole",
-  "description": "A comforting, sugar‑free-friendly Greek casserole that blends tender baby pak choi, creamy Greek yogurt, and natural sweetness from figs into a velvety braised dish.",
+  "description": "A comforting, sugarfree-friendly Greek casserole that blends tender baby pak choi, creamy Greek yogurt, and natural sweetness from figs into a velvety braised dish.",
   "cuisine": "Greek",
   "diet": [
     "vegetarian",
-    "sugar‑free"
+    "sugar\u2011free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -15,7 +15,7 @@
     },
     {
       "name": "onion, sliced",
-      "amount": "1 large (≈150 g)",
+      "amount": "1 large (\u2248150 g)",
       "notes": ""
     },
     {
@@ -24,14 +24,14 @@
       "notes": ""
     },
     {
-      "name": "low‑fat plain Greek yogurt",
-      "amount": "1 cup (≈240 g)",
+      "name": "low\u2011fat plain Greek yogurt",
+      "amount": "1 cup (\u2248240 g)",
       "notes": ""
     },
     {
       "name": "olive oil",
       "amount": "1 tablespoon",
-      "notes": "for sautéing"
+      "notes": "for saut\u00e9ing"
     },
     {
       "name": "lemon juice",
@@ -56,7 +56,7 @@
     {
       "name": "feta cheese, crumbled",
       "amount": "50 g",
-      "notes": "low‑fat, crumbled"
+      "notes": "low\u2011fat, crumbled"
     },
     {
       "name": "dried figs, chopped",
@@ -72,11 +72,11 @@
   "instructions": [
     "Heat a large skillet or Dutch oven over medium heat and add the olive oil.",
     "Add the sliced onion and cook until translucent, about 3 minutes.",
-    "Stir in the minced garlic and sauté for 30 seconds until fragrant.",
-    "Add the trimmed baby pak choi to the skillet, tossing to coat with the onion and garlic mixture; cook for 2–3 minutes until the leaves begin to wilt.",
+    "Stir in the minced garlic and saut\u00e9 for 30 seconds until fragrant.",
+    "Add the trimmed baby pak choi to the skillet, tossing to coat with the onion and garlic mixture; cook for 2\u20133 minutes until the leaves begin to wilt.",
     "In a small bowl, whisk together the Greek yogurt, lemon juice, oregano, salt, and pepper until smooth.",
     "Pour the yogurt mixture over the pak choi, stirring gently to combine, then reduce the heat to low and cover.",
-    "Add the chopped dried figs and crumbled feta to the skillet, allowing the mixture to simmer gently for 8–10 minutes, or until the pak choi is tender and the sauce is creamy and velvety.",
+    "Add the chopped dried figs and crumbled feta to the skillet, allowing the mixture to simmer gently for 8\u201310 minutes, or until the pak choi is tender and the sauce is creamy and velvety.",
     "Remove from heat, sprinkle chopped dill over the top, give a final gentle stir, and serve immediately."
   ],
   "slug": "velvety-sweet-greek-baby-pak-koi-casserole",
@@ -96,5 +96,20 @@
     "mainIngredient": "baby pak koi",
     "descriptor": "Velvety Sweet",
     "dishForm": "Casserole"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "greek",
+    "dinner"
+  ]
 }

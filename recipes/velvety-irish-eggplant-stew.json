@@ -1,0 +1,126 @@
+{
+  "title": "Velvety Irish Eggplant Stew",
+  "description": "A floral, velvety stew that brings the cozy warmth of an Irish kitchen to a low‑fat, vegetarian menu.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium (≈400 g)",
+      "notes": "cut into 1‑inch cubes"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups (480 ml)",
+      "notes": "low‑sodium"
+    },
+    {
+      "name": "low‑fat oat milk",
+      "amount": "1 cup (240 ml)"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "400 g",
+      "notes": "canned or fresh, diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large (≈100 g)",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium (≈50 g)",
+      "notes": "julienned"
+    },
+    {
+      "name": "celery stalk",
+      "amount": "1 stalk (≈30 g)",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tsp (1 g)",
+      "notes": "dried or fresh"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "1 tsp (1 g)",
+      "notes": "dried or fresh"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "salt & pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion, carrot, and celery; sauté until softened, about 5 minutes.",
+    "Stir in the minced garlic and cook for 1 minute until fragrant.",
+    "Add the diced eggplant, diced tomatoes, vegetable broth, oat milk, thyme, rosemary, and bay leaf.",
+    "Season with salt and pepper, bring the mixture to a gentle boil, then reduce the heat to low.",
+    "Cover and simmer for 30 minutes, stirring occasionally, until the eggplant is tender and the flavors meld.",
+    "Remove the bay leaf, then use an immersion blender or transfer portions to a countertop blender to blend to a velvety consistency (blend in batches if necessary).",
+    "Return the stew to the pot, taste, adjust seasoning, and heat through for an additional 5 minutes.",
+    "Serve hot, garnished with a sprinkle of fresh parsley or a drizzle of low‑fat oat milk if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish-stew",
+    "vegetarian",
+    "vegan",
+    "low-fat",
+    "slow-cook",
+    "eggplant",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 7,
+    "carbs": 32,
+    "fat": 5
+  },
+  "slug": "velvety-irish-eggplant-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-irish-eggplant-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:18:06Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "velvety",
+    "mood": "cozy",
+    "technique": "slow-cook",
+    "primaryIngredient": "eggplant",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "eggplant",
+    "descriptor": "Velvety",
+    "dishForm": "Stew"
+  }
+}

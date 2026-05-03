@@ -58,14 +58,14 @@
     "velvety",
     "sour",
     "thai",
-    "passion fruit",
+    "passion-fruit",
     "jain-friendly"
   ],
   "nutrition": {
     "calories": 256,
-    "protein": 7.9,
-    "carbs": 38.1,
-    "fat": 4.6
+    "protein": 8,
+    "carbs": 38,
+    "fat": 5
   },
   "slug": "velvety-sour-thai-passion-fruit-stir-fry",
   "source": "ollama-qwen2.5:3b",

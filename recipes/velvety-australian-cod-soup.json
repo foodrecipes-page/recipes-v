@@ -63,7 +63,7 @@
   ],
   "instructions": [
     "Heat the olive oil in a large pot over medium heat until shimmering.",
-    "Add the diced onion, carrot, and celery; sauté for 5 minutes until softened.",
+    "Add the diced onion, carrot, and celery; saut\u00e9 for 5 minutes until softened.",
     "Stir in the minced garlic and cook for another 30 seconds until fragrant.",
     "Add the tomato paste, coating the vegetables, and cook for 1 minute to deepen the flavor.",
     "Pour in the fish stock, bring to a gentle boil, then reduce to a simmer for 10 minutes to allow the base to develop.",
@@ -91,5 +91,20 @@
     "mainIngredient": "cod",
     "descriptor": "velvety",
     "dishForm": "Soup"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "australian",
+    "dinner"
+  ]
 }

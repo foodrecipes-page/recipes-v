@@ -1,12 +1,12 @@
 {
-  "title": "Velvety Rich Malaysian Gruyère Stir‑fry",
-  "description": "A savory, fermented Malaysian-inspired stir‑fry where creamy Gruyère melts into a tangy, umami sauce, perfect for quick meal prep.",
+  "title": "Velvety Rich Malaysian Gruyere Stirfry",
+  "description": "A savory, fermented Malaysian-inspired stirfry where creamy Gruyere melts into a tangy, umami sauce, perfect for quick meal prep.",
   "cuisine": "Malaysian",
   "diet": null,
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "Gruyère cheese",
+      "name": "Gruy\u00e8re cheese",
       "amount": "150g",
       "notes": "grated"
     },
@@ -67,11 +67,11 @@
     }
   ],
   "instructions": [
-    "Heat the oil in a wok over high heat. Add garlic and ginger, sauté until fragrant, about 30 seconds.",
-    "Add the sliced chicken and stir‑fry until it turns white, about 3–4 minutes.",
-    "Add broccoli florets and bell pepper, stir‑fry for 2 minutes until crisp‑tender.",
+    "Heat the oil in a wok over high heat. Add garlic and ginger, saut\u00e9 until fragrant, about 30 seconds.",
+    "Add the sliced chicken and stir\u2011fry until it turns white, about 3\u20134 minutes.",
+    "Add broccoli florets and bell pepper, stir\u2011fry for 2 minutes until crisp\u2011tender.",
     "Stir in fermented bean paste, soy sauce, oyster sauce, and water. Bring to a gentle simmer.",
-    "Add the grated Gruyère cheese, stirring until it melts and the sauce thickens, about 2–3 minutes.",
+    "Add the grated Gruy\u00e8re cheese, stirring until it melts and the sauce thickens, about 2\u20133 minutes.",
     "Finish with lime juice, season with salt and pepper to taste, and stir for 30 seconds.",
     "Remove from heat, let rest for 2 minutes to meld flavors.",
     "Serve hot or let cool and portion into containers for meal prep."

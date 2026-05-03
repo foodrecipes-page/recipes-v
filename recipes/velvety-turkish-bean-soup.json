@@ -64,7 +64,7 @@
   "instructions": [
     "Soak the dried beans overnight, rinse and drain them before cooking.",
     "Bring a pot of water to a boil, blanch the beans for 5 minutes, then drain and set aside.",
-    "In a separate saucepan, heat the olive oil over medium heat and sauté the chopped onion and minced garlic until translucent.",
+    "In a separate saucepan, heat the olive oil over medium heat and saut\u00e9 the chopped onion and minced garlic until translucent.",
     "Add the grated ginger, ground cumin, ground turmeric, and tomato paste; cook for 1 minute, stirring constantly.",
     "Pour in the blanched beans and fish stock, bring to a gentle boil, then reduce heat and simmer for 45 minutes until the beans are tender and the broth is thickened.",
     "Add the shrimp and simmer for an additional 3-4 minutes until the shrimp turn pink and are cooked through.",
@@ -90,5 +90,20 @@
     "mainIngredient": "beans",
     "descriptor": "Velvety",
     "dishForm": "Soup"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "turkish",
+    "dinner"
+  ]
 }

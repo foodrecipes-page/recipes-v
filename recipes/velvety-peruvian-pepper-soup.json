@@ -1,6 +1,6 @@
 {
   "title": "Velvety Peruvian Pepper Soup",
-  "description": "A silky, umami-packed one‑pot soup brimming with mixed peppers and a touch of toasted bread for crunch, all while staying low‑calorie and vegetarian-friendly.",
+  "description": "A silky, umami-packed onepot soup brimming with mixed peppers and a touch of toasted bread for crunch, all while staying lowcalorie and vegetarian-friendly.",
   "cuisine": "Peruvian",
   "diet": [
     "vegetarian"
@@ -10,7 +10,7 @@
     {
       "name": "olive oil",
       "amount": "1 tablespoon",
-      "notes": "for sautéing"
+      "notes": "for saut\u00e9ing"
     },
     {
       "name": "yellow onion",
@@ -38,12 +38,12 @@
       "notes": "diced"
     },
     {
-      "name": "low‑sodium vegetable broth",
+      "name": "low\u2011sodium vegetable broth",
       "amount": "4 cups (960 ml)",
       "notes": "for simmering"
     },
     {
-      "name": "low‑fat plain Greek yogurt",
+      "name": "low\u2011fat plain Greek yogurt",
       "amount": "1 cup (250 ml)",
       "notes": "stirred in at the end"
     },
@@ -63,14 +63,14 @@
       "notes": ""
     },
     {
-      "name": "toasted whole‑grain bread",
+      "name": "toasted whole\u2011grain bread",
       "amount": "4 slices",
       "notes": "cut into cubes, toasted"
     }
   ],
   "instructions": [
     "Heat the olive oil in a large pot over medium heat.",
-    "Add the diced onion and sauté until translucent, about 4 minutes.",
+    "Add the diced onion and saut\u00e9 until translucent, about 4 minutes.",
     "Stir in the minced garlic and cook for 30 seconds until fragrant.",
     "Add the diced red, yellow, and orange bell peppers; cook, stirring occasionally, until they start to soften, about 5 minutes.",
     "Mix in the tomato paste, smoked paprika, and pinch of sea salt; cook for 1 minute to bloom the flavors.",

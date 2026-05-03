@@ -79,9 +79,9 @@
   ],
   "nutrition": {
     "calories": 314,
-    "protein": 3.4,
+    "protein": 3,
     "carbs": 30,
-    "fat": 7.7
+    "fat": 8
   },
   "slug": "velvety-malaysian-rice-pudding",
   "source": "ocloud-gpt-oss:20b",

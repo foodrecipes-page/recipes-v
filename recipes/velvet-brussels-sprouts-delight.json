@@ -3,7 +3,7 @@
   "description": "This fermented and velvety Tunisian dish features brussels sprouts that are both crowd-pleasing and halal-friendly.",
   "cuisine": "Tunisian",
   "diet": null,
-  "meal": "appetizer",
+  "meal": "snack",
   "ingredients": [
     {
       "name": "Brussels Sprouts",
@@ -23,7 +23,7 @@
     {
       "name": "Vegetable Oil or Olive Oil",
       "amount": "A few tablespoons",
-      "notes": "For sautéing and tossing."
+      "notes": "For saut\u00e9ing and tossing."
     },
     {
       "name": "Red Pepper Flakes (Optional)",
@@ -33,8 +33,8 @@
   ],
   "instructions": [
     "Heat oil in a frying pan over medium-high heat.",
-    "Sauté garlic powder until fragrant and golden brown. Be careful not to burn it.",
-    "Add Brussels Sprouts and red pepper flakes (if using) and sauté for about 3-5 minutes, or until slightly softened.",
+    "Saut\u00e9 garlic powder until fragrant and golden brown. Be careful not to burn it.",
+    "Add Brussels Sprouts and red pepper flakes (if using) and saut\u00e9 for about 3-5 minutes, or until slightly softened.",
     "Pour the fermented soy sauce into the pan, stirring well to coat all ingredients evenly.",
     "Reduce heat to low and simmer for an additional 5-10 minutes. Stir occasionally to prevent sticking.",
     "Serve hot as a side dish or appetizer with your choice of bread."

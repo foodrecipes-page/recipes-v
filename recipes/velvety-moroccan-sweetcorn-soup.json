@@ -1,0 +1,138 @@
+{
+  "title": "Velvety Moroccan Sweetcorn Soup",
+  "description": "A light, fragrant Moroccan soup that showcases fresh sweetcorn in a silky, low-sodium blend of spices.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "low-sodium",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fresh sweetcorn kernels",
+      "amount": "300g",
+      "notes": "blanch for 3 minutes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "small onion, diced",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "carrot, diced",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "pinch",
+      "notes": "optional"
+    },
+    {
+      "name": "low-sodium vegetable broth",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "fresh cilantro or parsley, chopped",
+      "amount": "2 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a small pot over medium heat.",
+    "Place sweetcorn kernels in a colander and blanch in boiling water for 3 minutes, then drain and rinse with cold water.",
+    "In the pot, heat olive oil over medium heat. Add diced onion and cook until translucent, about 3-4 minutes.",
+    "Add minced garlic and diced carrot, sauté for 2 minutes until fragrant.",
+    "Stir in ground cumin, coriander, cinnamon, ginger, and cayenne pepper; cook for 30 seconds to toast the spices.",
+    "Pour in low-sodium vegetable broth and water, bring to a gentle simmer.",
+    "Add blanched sweetcorn kernels to the pot, simmer for 5 minutes so the flavors meld.",
+    "Using an immersion blender, blend the soup until smooth and velvety; alternatively, transfer in batches to a countertop blender.",
+    "Stir in lemon juice, season with a pinch of salt if needed (keeping it low-sodium), and heat through.",
+    "Ladle into bowls and garnish with chopped cilantro or parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "vegetarian",
+    "low-sodium",
+    "gluten-free",
+    "vegan",
+    "sweetcorn",
+    "soup",
+    "velvety",
+    "quick",
+    "blanch",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 102,
+    "protein": 1,
+    "carbs": 11,
+    "fat": 4
+  },
+  "slug": "velvety-moroccan-sweetcorn-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-moroccan-sweetcorn-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:19:03Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "blanch",
+    "primaryIngredient": "sweetcorn",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Sweetcorn",
+    "descriptor": "Velvety",
+    "dishForm": "Soup"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "title": "Velvety Ethiopian Shrimp Soup",
-  "description": "A buttery, low‑calorie shrimp soup infused with traditional Ethiopian berbere spice, silky coconut milk and bright lemon, perfect for a comforting lunch.",
+  "description": "A buttery, lowcalorie shrimp soup infused with traditional Ethiopian berbere spice, silky coconut milk and bright lemon, perfect for a comforting lunch.",
   "cuisine": "Ethiopian",
   "diet": [
     "low-calorie"
@@ -14,14 +14,14 @@
     {
       "name": "Unsalted butter",
       "amount": "1 tsp (5 g)",
-      "notes": "for sautéing"
+      "notes": "for saut\u00e9ing"
     },
     {
-      "name": "Low‑fat coconut milk",
+      "name": "Low\u2011fat coconut milk",
       "amount": "150 ml"
     },
     {
-      "name": "Low‑sodium vegetable broth",
+      "name": "Low\u2011sodium vegetable broth",
       "amount": "500 ml"
     },
     {
@@ -59,14 +59,14 @@
   "instructions": [
     "In a bowl, combine shrimp with lemon juice, minced ginger, garlic, berbere, and a pinch of salt; let marinate for 10 minutes.",
     "Heat butter in a large pot over medium heat until melted.",
-    "Add diced onion and sauté until translucent, about 3 minutes.",
+    "Add diced onion and saut\u00e9 until translucent, about 3 minutes.",
     "Stir in tomato paste and cook for 1 minute to deepen flavor.",
     "Pour in vegetable broth and bring to a gentle simmer.",
     "Add coconut milk, reduce heat, and let the mixture simmer for 5 minutes to meld the flavors.",
-    "Add the marinated shrimp to the pot and cook for 5–7 minutes, until shrimp turn pink and reach 63 °C internal temperature.",
+    "Add the marinated shrimp to the pot and cook for 5\u20137 minutes, until shrimp turn pink and reach 63\u202f\u00b0C internal temperature.",
     "Turn off the heat, stir in chopped cilantro, and adjust seasoning if needed.",
     "Serve hot, optionally garnishing with extra cilantro or a squeeze of lemon.",
-    "Enjoy your velvety, low‑calorie Ethiopian shrimp soup!"
+    "Enjoy your velvety, low\u2011calorie Ethiopian shrimp soup!"
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,

@@ -37,7 +37,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350°F.",
+    "Preheat oven to 350\u00b0F.",
     "In a mixing bowl, combine dates, almond flour, coconut oil, vanilla extract, baking powder, and salt if using. Mix well until ingredients are evenly distributed.",
     "Transfer the mixture into an oven-safe dish and bake for about 25 minutes or until firm to touch.",
     "Remove from heat and let it cool slightly before garnishing with cacao nibs."
@@ -55,9 +55,9 @@
   ],
   "nutrition": {
     "calories": 160,
-    "protein": 2.8,
-    "carbs": 35.2,
-    "fat": 9.4
+    "protein": 3,
+    "carbs": 35,
+    "fat": 9
   },
   "slug": "vanilla-date-bliss",
   "source": "ollama-qwen2.5:3b",

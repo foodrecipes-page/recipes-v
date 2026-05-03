@@ -1,6 +1,6 @@
 {
   "title": "Velvety Korean Chicken Stew",
-  "description": "Fresh, velvety, energizing Korean stew featuring Grand Marnier, pressure-cooked with low‑carb ingredients for a silky, savory bowl.",
+  "description": "Fresh, velvety, energizing Korean stew featuring Grand Marnier, pressure-cooked with lowcarb ingredients for a silky, savory bowl.",
   "cuisine": "Korean",
   "diet": [
     "low-carb",
@@ -14,7 +14,7 @@
       "amount": "500g"
     },
     {
-      "name": "Low‑sodium chicken broth",
+      "name": "Low\u2011sodium chicken broth",
       "amount": "1 cup"
     },
     {
@@ -46,7 +46,7 @@
       "amount": "1 tablespoon"
     },
     {
-      "name": "Tamari (gluten‑free soy sauce)",
+      "name": "Tamari (gluten\u2011free soy sauce)",
       "amount": "2 tablespoons"
     },
     {
@@ -88,5 +88,20 @@
     "mainIngredient": "chicken",
     "descriptor": "Velvety",
     "dishForm": "Stew"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "korean",
+    "dinner"
+  ]
 }

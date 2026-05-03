@@ -39,7 +39,7 @@
     }
   ],
   "instructions": [
-    "Preheat your air fryer to 350°F (175°C).",
+    "Preheat your air fryer to 350\u00b0F (175\u00b0C).",
     "Cut the bell peppers, red onions, cucumbers into thin slices.",
     "Slice radishes thinly. Combine all vegetables in a large bowl.",
     "Add lemon juice and apple cider vinegar, mix well with salt and pepper for taste.",
@@ -53,10 +53,10 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "veggie_tango",
-    "argentine_dish",
-    "raw_vegetables",
-    "air_fried"
+    "veggie-tango",
+    "argentine-dish",
+    "raw-vegetables",
+    "air-fried"
   ],
   "nutrition": {
     "calories": 208,

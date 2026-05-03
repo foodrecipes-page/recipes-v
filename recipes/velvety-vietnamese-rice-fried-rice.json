@@ -1,6 +1,6 @@
 {
   "title": "Velvety Vietnamese Rice Fried-Rice",
-  "description": "A lazy‑Sunday Vietnamese style fried rice that’s earthy, velvety, and quick, using sunflower oil and an air‑fryer for a silky finish.",
+  "description": "A lazySunday Vietnamese style fried rice thats earthy, velvety, and quick, using sunflower oil and an airfryer for a silky finish.",
   "cuisine": "Vietnamese",
   "diet": null,
   "meal": "lunch",
@@ -8,12 +8,12 @@
     {
       "name": "cooked jasmine rice",
       "amount": "2 cups",
-      "notes": "preferably day‑old for better texture"
+      "notes": "preferably day\u2011old for better texture"
     },
     {
       "name": "sunflower oil",
       "amount": "1 tsp",
-      "notes": "for stir‑frying in skillet"
+      "notes": "for stir\u2011frying in skillet"
     },
     {
       "name": "egg",
@@ -38,7 +38,7 @@
     {
       "name": "soy sauce",
       "amount": "2 tbsp",
-      "notes": "low‑sodium"
+      "notes": "low\u2011sodium"
     },
     {
       "name": "fish sauce",
@@ -62,13 +62,13 @@
     }
   ],
   "instructions": [
-    "Preheat your air‑fryer to 200 °C (400 °F) with a light spray of sunflower oil.",
-    "Heat a large non‑stick skillet over medium heat and add 1 tsp sunflower oil.",
-    "Sauté the diced onion and minced garlic until fragrant, about 2 minutes.",
+    "Preheat your air\u2011fryer to 200\u202f\u00b0C (400\u202f\u00b0F) with a light spray of sunflower oil.",
+    "Heat a large non\u2011stick skillet over medium heat and add 1\u202ftsp sunflower oil.",
+    "Saut\u00e9 the diced onion and minced garlic until fragrant, about 2\u202fminutes.",
     "Push the aromatics to the side and pour the beaten eggs into the skillet; scramble until just set.",
-    "Add the peas and carrots, then stir‑fry for another 2 minutes.",
+    "Add the peas and carrots, then stir\u2011fry for another 2\u202fminutes.",
     "Fold in the cooked rice, soy sauce, fish sauce, and pepper; stir well to combine.",
-    "Transfer the mixture to the air‑fry basket, spreading it into an even layer; cook for 6–8 minutes until the edges are slightly crisp.",
+    "Transfer the mixture to the air\u2011fry basket, spreading it into an even layer; cook for 6\u20138\u202fminutes until the edges are slightly crisp.",
     "Remove, drizzle with sesame oil, sprinkle chopped cilantro, and serve immediately."
   ],
   "prepTimeMin": 10,

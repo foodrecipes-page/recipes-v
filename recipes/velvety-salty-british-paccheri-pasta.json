@@ -1,6 +1,6 @@
 {
   "title": "Velvety Salty British Paccheri Pasta",
-  "description": "A creamy, low‑fat British pasta that blends velvety sauce with aromatic tadka spices for an energizing, salty bite.",
+  "description": "A creamy, lowfat British pasta that blends velvety sauce with aromatic tadka spices for an energizing, salty bite.",
   "cuisine": "British",
   "diet": [
     "low-fat"
@@ -34,19 +34,19 @@
     },
     {
       "name": "turmeric",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     },
     {
       "name": "cayenne pepper",
-      "amount": "¼ tsp (optional)"
+      "amount": "\u00bc tsp (optional)"
     },
     {
-      "name": "low‑fat English cheddar",
+      "name": "low\u2011fat English cheddar",
       "amount": "50g",
       "notes": "grated"
     },
     {
-      "name": "low‑fat milk",
+      "name": "low\u2011fat milk",
       "amount": "1 cup"
     },
     {
@@ -61,10 +61,10 @@
   "instructions": [
     "Bring a large pot of salted water to a boil. Add paccheri pasta and cook for 2 minutes less than package directions for al dente. Drain and set aside.",
     "Heat olive oil in a large skillet over medium heat.",
-    "Add cumin, coriander, turmeric, and cayenne pepper. Sauté for 1 minute until fragrant.",
+    "Add cumin, coriander, turmeric, and cayenne pepper. Saut\u00e9 for 1 minute until fragrant.",
     "Add sliced onion and cook, stirring, until translucent, about 3-4 minutes.",
     "Stir in minced garlic and cook for 30 seconds until aromatic.",
-    "Pour in low‑fat milk, bringing to a gentle simmer.",
+    "Pour in low\u2011fat milk, bringing to a gentle simmer.",
     "Reduce heat to low and stir in grated cheddar until fully melted and the sauce is smooth.",
     "Add lemon juice, sea salt, and black pepper to taste. Stir to combine.",
     "Return drained pasta to the skillet, tossing to coat each piece in the velvety sauce.",

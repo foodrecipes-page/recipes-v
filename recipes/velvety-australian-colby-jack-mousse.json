@@ -1,6 +1,6 @@
 {
   "title": "Velvety Australian Colby Jack Mousse",
-  "description": "A sugar‑free, creamy mousse that blends Colby Jack cheese with coconut milk and a touch of vanilla for a tropical twist.",
+  "description": "A sugarfree, creamy mousse that blends Colby Jack cheese with coconut milk and a touch of vanilla for a tropical twist.",
   "cuisine": "Australian",
   "diet": [
     "sugar-free",
@@ -17,7 +17,7 @@
       "amount": "200 ml"
     },
     {
-      "name": "Coconut milk (canned, full‑fat)",
+      "name": "Coconut milk (canned, full\u2011fat)",
       "amount": "200 ml"
     },
     {
@@ -40,7 +40,7 @@
   ],
   "instructions": [
     "Finely chop the Colby Jack cheese into small cubes.",
-    "Heat a large saucepan over low heat, add the cheese and a splash of coconut milk, stirring gently until the cheese melts into a smooth sauce – about 5 minutes.",
+    "Heat a large saucepan over low heat, add the cheese and a splash of coconut milk, stirring gently until the cheese melts into a smooth sauce \u2013 about 5 minutes.",
     "In a separate bowl whisk the heavy cream to soft peaks.",
     "Fold the melted cheese mixture into the whipped cream, then stir in stevia, vanilla extract, lime zest and a pinch of salt until fully combined.",
     "Transfer the mousse to a shallow dish, cover, and refrigerate for at least 3 hours or until set.",
@@ -48,7 +48,7 @@
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 5,
-  "totalTimeMin": 195,
+  "totalTimeMin": 15,
   "servings": 4,
   "difficulty": "easy",
   "tags": [

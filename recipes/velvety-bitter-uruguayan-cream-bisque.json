@@ -1,6 +1,6 @@
 {
   "title": "Velvety Bitter Uruguayan Cream Bisque",
-  "description": "A silky bisque that showcases Uruguay’s love of bitter yerba mate over a smooth single‑cream base, tempered with aromatic spices for a show‑off splash of flavor.",
+  "description": "A silky bisque that showcases Uruguays love of bitter yerba mate over a smooth singlecream base, tempered with aromatic spices for a showoff splash of flavor.",
   "cuisine": "Uruguayan",
   "diet": [
     "jain-friendly"
@@ -10,12 +10,12 @@
     {
       "name": "1% single cream",
       "amount": "1 L",
-      "notes": "creamy but low‑fat for a velvety texture"
+      "notes": "creamy but low\u2011fat for a velvety texture"
     },
     {
       "name": "Vegetable stock",
       "amount": "250 ml",
-      "notes": "Jain‑friendly, homemade or store‑bought"
+      "notes": "Jain\u2011friendly, homemade or store\u2011bought"
     },
     {
       "name": "Yerba mate infusion",
@@ -59,14 +59,14 @@
     }
   ],
   "instructions": [
-    "Brew the yerba mate: steep 2 tsp of dried leaves in 200 ml of hot water, let steep 5 min, then strain.",
-    "Heat the vegetable stock in a saucepan until it reaches 80 °C, then lower the heat.",
-    "In a small pan, warm the sesame oil over low heat and add cumin and coriander; toast until fragrant (about 30 s), then remove from heat.",
+    "Brew the yerba mate: steep 2 tsp of dried leaves in 200\u202fml of hot water, let steep 5\u202fmin, then strain.",
+    "Heat the vegetable stock in a saucepan until it reaches 80\u202f\u00b0C, then lower the heat.",
+    "In a small pan, warm the sesame oil over low heat and add cumin and coriander; toast until fragrant (about 30\u202fs), then remove from heat.",
     "Blend the roasted tomato puree with tomato paste until smooth, then stir it into the warm stock.",
-    "Add the tempered spice mixture to the stock and bring to a gentle simmer for 5 minutes to marry flavors.",
-    "Slowly pour in the single‑cream, whisking continuously to prevent curdling; let the bisque come to a low simmer, stirring constantly, for 10 minutes.",
-    "Incorporate the yerba mate infusion and lemon juice; simmer the bisque another 5 minutes, keeping temperature below 95 °C.",
-    "Season with sea salt; adjust seasoning as needed. Serve hot, optionally garnished with a swirl of single‑cream or a sprinkle of fresh herbs.",
+    "Add the tempered spice mixture to the stock and bring to a gentle simmer for 5\u202fminutes to marry flavors.",
+    "Slowly pour in the single\u2011cream, whisking continuously to prevent curdling; let the bisque come to a low simmer, stirring constantly, for 10\u202fminutes.",
+    "Incorporate the yerba mate infusion and lemon juice; simmer the bisque another 5\u202fminutes, keeping temperature below 95\u202f\u00b0C.",
+    "Season with sea salt; adjust seasoning as needed. Serve hot, optionally garnished with a swirl of single\u2011cream or a sprinkle of fresh herbs.",
     "Optional: finish with a drizzle of extra virgin olive oil for added sheen."
   ],
   "prepTimeMin": 15,

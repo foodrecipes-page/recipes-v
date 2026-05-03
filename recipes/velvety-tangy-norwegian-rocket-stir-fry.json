@@ -3,7 +3,7 @@
   "description": "A tangy and velvety brunch dish featuring rocket with a pressure-cooking twist for halal-friendly convenience.",
   "cuisine": "Norwegian",
   "diet": null,
-  "meal": "brunch",
+  "meal": "breakfast",
   "ingredients": [
     {
       "name": "rocket",
@@ -56,10 +56,10 @@
   ],
   "instructions": [
     "Heat olive oil in a wok or large skillet over medium heat.",
-    "Add garlic and ginger, sauté for about 1 minute until fragrant.",
+    "Add garlic and ginger, saut\u00e9 for about 1 minute until fragrant.",
     "Add diced chicken and cook until browned on all sides.",
     "Stir in rocket, tahini sauce, lime juice, soy sauce, rice vinegar, salt, and pepper. Mix well to coat vegetables and chicken evenly.",
-    "Cook under high pressure for approximately 30 seconds (adjust as needed based on your pressure cooker’s manual).",
+    "Cook under high pressure for approximately 30 seconds (adjust as needed based on your pressure cooker\u2019s manual).",
     "Open the lid carefully and let it sit for another minute before serving."
   ],
   "prepTimeMin": 15,

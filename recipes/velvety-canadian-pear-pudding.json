@@ -51,10 +51,10 @@
   ],
   "instructions": [
     "1. In a medium saucepan, combine water, maple syrup, sea salt, vanilla bean seeds (and pod if using), and lemon juice. Heat over medium until syrup dissolves, then reduce heat to low and add the pear halves, cut side up.",
-    "2. Simmer the pears gently for 8–10 minutes, until they are tender but still hold their shape. Flip them halfway through to ensure even poaching.",
+    "2. Simmer the pears gently for 8\u201310 minutes, until they are tender but still hold their shape. Flip them halfway through to ensure even poaching.",
     "3. In a small bowl, whisk arrowroot powder with 2 tbsp of the poaching liquid to make a smooth slurry. Stir this into the pan to thicken the broth into a velvety sauce, cooking for another 2 minutes.",
     "4. Once the pears are cooked, remove the saucepan from the heat. Stir in the coconut milk until well combined, creating a silky custard base. Taste and adjust flavor if needed.",
-    "5. Plate each pear half on a warm dessert dish, spooning the coconut‑vanilla sauce over the top.",
+    "5. Plate each pear half on a warm dessert dish, spooning the coconut\u2011vanilla sauce over the top.",
     "6. Sprinkle a pinch of ground cinnamon for aroma and a subtle spice note.",
     "7. Allow the pudding to rest for 5 minutes to meld flavors before serving.",
     "8. Serve warm, optionally garnished with fresh mint leaves or a drizzle of extra maple syrup."
@@ -76,5 +76,20 @@
     "mainIngredient": "Pear",
     "descriptor": "Velvety",
     "dishForm": "Pudding"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "canadian",
+    "dessert"
+  ]
 }

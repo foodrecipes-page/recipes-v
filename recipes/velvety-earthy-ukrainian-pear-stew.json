@@ -48,7 +48,7 @@
     },
     {
       "name": "Black pepper",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     },
     {
       "name": "Fresh parsley",
@@ -62,7 +62,7 @@
   ],
   "instructions": [
     "Heat a large saucepan over medium heat; add a splash of oil if desired.",
-    "Add the chopped onion and sauté until translucent, about 4-5 minutes.",
+    "Add the chopped onion and saut\u00e9 until translucent, about 4-5 minutes.",
     "Stir in the minced garlic and cook for another 30 seconds until fragrant.",
     "Add the diced carrots and pears, cooking for 3-4 minutes while stirring occasionally.",
     "Pour in the vegetable broth and tomato paste, stirring to combine fully.",
@@ -92,7 +92,7 @@
     "calories": 65,
     "protein": 1,
     "carbs": 14,
-    "fat": 0.3
+    "fat": 0
   },
   "slug": "velvety-earthy-ukrainian-pear-stew",
   "source": "ocloud-gpt-oss:20b",

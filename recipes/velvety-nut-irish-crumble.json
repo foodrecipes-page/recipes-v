@@ -34,7 +34,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350°F (180°C).",
+    "Preheat oven to 350\u00b0F (180\u00b0C).",
     "In a bowl, mix together dark soft brown sugar and chopped walnuts.",
     "Add coconut oil, unsweetened applesauce, milk, and vanilla extract. Mix until well combined.",
     "Transfer mixture into a prepared crumble dish or baking pan.",
@@ -54,7 +54,7 @@
   ],
   "nutrition": {
     "calories": 178,
-    "protein": 2.5,
+    "protein": 2,
     "carbs": 14,
     "fat": 9
   },

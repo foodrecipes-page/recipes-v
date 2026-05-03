@@ -1,6 +1,6 @@
 {
   "title": "Velvety Sweet Algerian Pumpkin Tagine",
-  "description": "A silky, mildly sweet pumpkin tagine enriched with rosemary and tart pickles, ideal for a post-workout snack that’s low on sugar but high on flavor.",
+  "description": "A silky, mildly sweet pumpkin tagine enriched with rosemary and tart pickles, ideal for a post-workout snack thats low on sugar but high on flavor.",
   "cuisine": "Algerian",
   "diet": [
     "low-sugar",
@@ -26,7 +26,7 @@
     {
       "name": "olive oil",
       "amount": "2 tbsp",
-      "notes": "extra‑virgin for flavor"
+      "notes": "extra\u2011virgin for flavor"
     },
     {
       "name": "unsweetened almond milk",
@@ -65,16 +65,16 @@
     }
   ],
   "instructions": [
-    "Heat the olive oil in a medium‑sized tagine or heavy‑bottomed pot over medium heat until shimmering.",
+    "Heat the olive oil in a medium\u2011sized tagine or heavy\u2011bottomed pot over medium heat until shimmering.",
     "Add the sliced onion and cook, stirring, until translucent, about 5 minutes.",
     "Stir in the minced garlic, cumin, cinnamon, salt, and pepper, and cook for another 30 seconds until fragrant.",
     "Add the pumpkin cubes, paprika, and rosemary sprigs, then pour in the almond milk. Stir to combine.",
     "Reduce heat to low, cover, and simmer for 20 minutes or until the pumpkin is tender and the sauce has thickened.",
-    "Meanwhile, toast the pickle slices lightly in a dry skillet for 1–2 minutes to mellow their tartness.",
+    "Meanwhile, toast the pickle slices lightly in a dry skillet for 1\u20132 minutes to mellow their tartness.",
     "Optional: blend a small portion of the cooked pumpkin mixture with the almond milk and strain to achieve a smooth, velvety consistency before adding back to the pot.",
     "Gently fold the pickles into the tagine, then simmer uncovered for an additional 5 minutes to meld flavors.",
     "Remove the rosemary sprigs, taste, and adjust seasoning if needed. Serve warm, garnished with a drizzle of olive oil if desired.",
-    "Enjoy immediately as a sweet, protein‑rich post‑workout snack."
+    "Enjoy immediately as a sweet, protein\u2011rich post\u2011workout snack."
   ],
   "slug": "velvety-sweet-algerian-pumpkin-tagine",
   "source": "ocloud-gpt-oss:20b",
@@ -93,5 +93,20 @@
     "mainIngredient": "Pumpkin",
     "descriptor": "Velvety Sweet",
     "dishForm": "Tagine"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "algerian",
+    "snack"
+  ]
 }

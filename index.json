@@ -1580,6 +1580,22 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-irish-eggplant-stew",
+    "title": "Velvety Irish Eggplant Stew",
+    "tags": [
+      "irish-stew",
+      "vegetarian",
+      "vegan",
+      "low-fat",
+      "slow-cook",
+      "eggplant",
+      "stew"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 55,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-italian-garlic-dish",
     "title": "Velvety Italian Garlic Dish",
     "tags": [
@@ -1897,6 +1913,26 @@
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 30,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-moroccan-sweetcorn-soup",
+    "title": "Velvety Moroccan Sweetcorn Soup",
+    "tags": [
+      "moroccan",
+      "vegetarian",
+      "low-sodium",
+      "gluten-free",
+      "vegan",
+      "sweetcorn",
+      "soup",
+      "velvety",
+      "quick",
+      "blanch",
+      "dairy-free"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
@@ -2883,6 +2919,21 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 25,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-zanzibari-chicken-pasta",
+    "title": "Velvety Zanzibari Chicken Pasta",
+    "tags": [
+      "velvety",
+      "zanzibari",
+      "high-protein",
+      "pasta",
+      "tagliatelle",
+      "poached-chicken"
+    ],
+    "cuisine": "Zanzibari",
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {

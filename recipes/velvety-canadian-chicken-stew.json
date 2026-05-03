@@ -1,6 +1,6 @@
 {
   "title": "Velvety Canadian Chicken Stew",
-  "description": "A comforting, low‑fat chicken stew infused with earthy Canadian flavors and a hint of fajita spice, perfect for a lazy Sunday.",
+  "description": "A comforting, lowfat chicken stew infused with earthy Canadian flavors and a hint of fajita spice, perfect for a lazy Sunday.",
   "cuisine": "Canadian",
   "diet": [
     "low-fat",
@@ -11,10 +11,10 @@
     {
       "name": "Skinless chicken breast",
       "amount": "680 g",
-      "notes": "trimmed and cut into 2‑inch pieces"
+      "notes": "trimmed and cut into 2\u2011inch pieces"
     },
     {
-      "name": "Low‑sodium chicken broth",
+      "name": "Low\u2011sodium chicken broth",
       "amount": "2 cups"
     },
     {
@@ -42,7 +42,7 @@
       "amount": "2"
     },
     {
-      "name": "Low‑sodium fajita seasoning",
+      "name": "Low\u2011sodium fajita seasoning",
       "amount": "2 tbsp"
     },
     {
@@ -51,10 +51,10 @@
     },
     {
       "name": "Ground cumin",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     },
     {
-      "name": "Olive oil (extra‑virgin)",
+      "name": "Olive oil (extra\u2011virgin)",
       "amount": "1 tsp"
     },
     {
@@ -63,11 +63,11 @@
     }
   ],
   "instructions": [
-    "Heat the olive oil in a large Dutch oven over medium‑high heat.",
-    "Season the chicken pieces with the fajita seasoning, salt, and pepper, then sear them in the pot until browned on all sides, about 3‑4 minutes per side. Remove the chicken and set aside.",
-    "Add the diced onions, carrots, celery, mushrooms, and minced garlic to the pot; sauté until the vegetables are softened, about 5 minutes.",
+    "Heat the olive oil in a large Dutch oven over medium\u2011high heat.",
+    "Season the chicken pieces with the fajita seasoning, salt, and pepper, then sear them in the pot until browned on all sides, about 3\u20114 minutes per side. Remove the chicken and set aside.",
+    "Add the diced onions, carrots, celery, mushrooms, and minced garlic to the pot; saut\u00e9 until the vegetables are softened, about 5 minutes.",
     "Return the chicken to the pot and pour in the chicken broth and almond milk. Stir in the smoked paprika, ground cumin, and lemon juice.",
-    "Bring the mixture to a gentle simmer, cover, and reduce the heat to low. Cook for 25‑30 minutes, until the chicken is tender and the flavors meld.",
+    "Bring the mixture to a gentle simmer, cover, and reduce the heat to low. Cook for 25\u201130 minutes, until the chicken is tender and the flavors meld.",
     "Use an immersion blender to partially blend the stew until it reaches a velvety, silky texture; alternatively, transfer a portion to a blender and blend, then return to the pot.",
     "Taste and adjust seasoning with additional salt, pepper, or lemon juice if desired.",
     "Serve hot, garnished with fresh herbs such as parsley or cilantro if desired."
@@ -89,5 +89,20 @@
     "mainIngredient": "chicken",
     "descriptor": "Velvety",
     "dishForm": "Stew"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "canadian",
+    "dinner"
+  ]
 }

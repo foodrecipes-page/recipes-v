@@ -1,6 +1,6 @@
 {
   "title": "Velvety Nutty Egyptian Lamb Biryani",
-  "description": "A luxurious, nut‑laden lamb biryani infused with a rich Egyptian spice blend, finished in a tandoor‑style oven for a smoky char and creamy coconut‑saffron sauce.",
+  "description": "A luxurious, nutladen lamb biryani infused with a rich Egyptian spice blend, finished in a tandoorstyle oven for a smoky char and creamy coconutsaffron sauce.",
   "cuisine": "Egyptian",
   "diet": [
     "kosher"
@@ -63,14 +63,14 @@
     }
   ],
   "instructions": [
-    "In a bowl, toss lamb cubes with olive oil, biryani masala, salt, and pepper. Let marinate for at least 30 minutes.",
-    "Preheat oven to 250 °C (or heat a tandoor) and sear lamb in a hot skillet until browned on all sides.",
-    "Transfer lamb to a baking dish and roast in the oven for 25–30 minutes until cooked through.",
-    "Meanwhile, rinse basmati rice until water runs clear and soak for 15 minutes.",
-    "In a saucepan, combine coconut milk, lamb broth, saffron infusion, sliced onion, and ½ tsp salt. Bring to a gentle simmer.",
-    "Drain rice, add to the saucepan, cover, reduce heat to low, and cook for 15 minutes, stirring occasionally, until rice is tender.",
-    "Remove roasted lamb, shred into bite‑size pieces, and fold into the cooked rice, mixing gently.",
-    "Stir in toasted nuts, chopped apricots, a tablespoon of lemon juice, and fresh chopped cilantro & mint. Let rest for 5 minutes.",
+    "In a bowl, toss lamb cubes with olive oil, biryani masala, salt, and pepper. Let marinate for at least 30\u202fminutes.",
+    "Preheat oven to 250\u202f\u00b0C (or heat a tandoor) and sear lamb in a hot skillet until browned on all sides.",
+    "Transfer lamb to a baking dish and roast in the oven for 25\u201330\u202fminutes until cooked through.",
+    "Meanwhile, rinse basmati rice until water runs clear and soak for 15\u202fminutes.",
+    "In a saucepan, combine coconut milk, lamb broth, saffron infusion, sliced onion, and \u00bd\u202ftsp salt. Bring to a gentle simmer.",
+    "Drain rice, add to the saucepan, cover, reduce heat to low, and cook for 15\u202fminutes, stirring occasionally, until rice is tender.",
+    "Remove roasted lamb, shred into bite\u2011size pieces, and fold into the cooked rice, mixing gently.",
+    "Stir in toasted nuts, chopped apricots, a tablespoon of lemon juice, and fresh chopped cilantro & mint. Let rest for 5\u202fminutes.",
     "Serve hot, garnished with extra nuts and herbs if desired."
   ],
   "slug": "velvety-nutty-egyptian-lamb-biryani",
@@ -90,5 +90,20 @@
     "mainIngredient": "Lamb",
     "descriptor": "Velvety Nutty",
     "dishForm": "Biryani"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "egyptian",
+    "dinner"
+  ]
 }

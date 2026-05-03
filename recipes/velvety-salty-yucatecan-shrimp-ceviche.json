@@ -1,6 +1,6 @@
 {
   "title": "Velvety Salty Yucatecan Shrimp Ceviche",
-  "description": "A silky, tangy shrimp ceviche from Yucatán, brimming with citrus and white vinegar, perfect for a low‑carb date night.",
+  "description": "A silky, tangy shrimp ceviche from Yucatan, brimming with citrus and white vinegar, perfect for a lowcarb date night.",
   "cuisine": "Mexican",
   "diet": [
     "gluten-free",
@@ -34,7 +34,7 @@
       "notes": null
     },
     {
-      "name": "jalapeño pepper, seeded and minced",
+      "name": "jalape\u00f1o pepper, seeded and minced",
       "amount": "1",
       "notes": null
     },
@@ -54,19 +54,19 @@
       "notes": null
     },
     {
-      "name": "extra‑virgin olive oil",
+      "name": "extra\u2011virgin olive oil",
       "amount": "1 tbsp",
       "notes": "optional"
     }
   ],
   "instructions": [
     "Place shrimp in a saucepan with 1 inch of water and a pinch of salt. Bring to a rolling boil over high heat and cook for 2 minutes until just pink. Drain and transfer to an ice water bath to stop cooking; let cool for 5 minutes.",
-    "Drain shrimp, pat dry, and cut into bite‑sized pieces.",
+    "Drain shrimp, pat dry, and cut into bite\u2011sized pieces.",
     "Whisk together lime juice, white wine vinegar, orange juice, sea salt, black pepper, and olive oil until the salt is dissolved.",
-    "Add the cooled shrimp, diced red onion, and minced jalapeño to the citrus mixture. Toss gently to coat.",
-    "Cover and refrigerate for 20–25 minutes, allowing the acid to “cook” the shrimp and meld flavors. Stir halfway through.",
+    "Add the cooled shrimp, diced red onion, and minced jalape\u00f1o to the citrus mixture. Toss gently to coat.",
+    "Cover and refrigerate for 20\u201325 minutes, allowing the acid to \u201ccook\u201d the shrimp and meld flavors. Stir halfway through.",
     "Just before serving, fold in chopped cilantro and adjust seasoning with extra salt or lime if desired.",
-    "Serve chilled over a bed of crisp lettuce or with corn tortillas for a vegan‑friendly option."
+    "Serve chilled over a bed of crisp lettuce or with corn tortillas for a vegan\u2011friendly option."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 5,

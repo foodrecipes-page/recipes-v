@@ -1,6 +1,6 @@
 {
   "title": "Velvety Sweet Egyptian Sausage Casserole",
-  "description": "A comforting one‑pot Egyptian dish that blends sweet potato, coconut milk, and wholesome spices with plant‑based sausage for a velvety, sweet‑savory experience.",
+  "description": "A comforting onepot Egyptian dish that blends sweet potato, coconut milk, and wholesome spices with plantbased sausage for a velvety, sweetsavory experience.",
   "cuisine": "Egyptian",
   "diet": [
     "vegetarian-friendly"
@@ -8,76 +8,76 @@
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "Plant‑based sausage links",
-      "amount": "4 (80 g each)",
+      "name": "Plant\u2011based sausage links",
+      "amount": "4 (80\u202fg each)",
       "notes": ""
     },
     {
       "name": "Sweet potato",
-      "amount": "1 medium (200 g)",
+      "amount": "1 medium (200\u202fg)",
       "notes": ""
     },
     {
       "name": "Onion",
-      "amount": "1 small (70 g)",
+      "amount": "1 small (70\u202fg)",
       "notes": ""
     },
     {
       "name": "Garlic",
-      "amount": "2 cloves (8 g)",
+      "amount": "2 cloves (8\u202fg)",
       "notes": ""
     },
     {
       "name": "Chickpea flour",
-      "amount": "2 tbsp (20 g)",
+      "amount": "2\u202ftbsp (20\u202fg)",
       "notes": ""
     },
     {
       "name": "Coconut milk",
-      "amount": "1 cup (240 ml)",
+      "amount": "1 cup (240\u202fml)",
       "notes": ""
     },
     {
       "name": "Maple syrup",
-      "amount": "2 tbsp (30 ml)",
+      "amount": "2\u202ftbsp (30\u202fml)",
       "notes": ""
     },
     {
       "name": "Ground almonds",
-      "amount": "2 tbsp (15 g)",
+      "amount": "2\u202ftbsp (15\u202fg)",
       "notes": ""
     },
     {
       "name": "Smoked paprika",
-      "amount": "1 tsp (2 g)",
+      "amount": "1\u202ftsp (2\u202fg)",
       "notes": ""
     },
     {
       "name": "Salt",
-      "amount": "1 tsp (5 g)",
+      "amount": "1\u202ftsp (5\u202fg)",
       "notes": ""
     },
     {
       "name": "Fresh cilantro",
-      "amount": "2 tbsp (10 g)",
+      "amount": "2\u202ftbsp (10\u202fg)",
       "notes": ""
     },
     {
       "name": "Lemon juice",
-      "amount": "1 tbsp (15 ml)",
+      "amount": "1\u202ftbsp (15\u202fml)",
       "notes": ""
     }
   ],
   "instructions": [
-    "Preheat the oven to 180 °C (350 °F).",
-    "In a large, oven‑proof skillet, sauté diced onion in a splash of oil until translucent, about 3 minutes.",
+    "Preheat the oven to 180\u202f\u00b0C (350\u202f\u00b0F).",
+    "In a large, oven\u2011proof skillet, saut\u00e9 diced onion in a splash of oil until translucent, about 3\u202fminutes.",
     "Add minced garlic; cook for another minute until fragrant.",
-    "Dice the sweet potato into 1‑inch cubes and add to the skillet, cooking for 5 minutes, stirring occasionally.",
-    "Slice the plant‑based sausage links into half‑meter rounds and add them to the skillet.",
+    "Dice the sweet potato into 1\u2011inch cubes and add to the skillet, cooking for 5\u202fminutes, stirring occasionally.",
+    "Slice the plant\u2011based sausage links into half\u2011meter rounds and add them to the skillet.",
     "Sprinkle chickpea flour, smoked paprika, and salt over the mixture, stirring to coat all ingredients evenly.",
     "Pour coconut milk over the contents, bringing the mixture to a gentle simmer.",
-    "Stir in maple syrup and ground almonds, then reduce heat to low and let simmer for 10 minutes until the sweet potato is tender.",
-    "Transfer the skillet to the preheated oven and bake for 15 minutes, allowing the flavors to meld.",
+    "Stir in maple syrup and ground almonds, then reduce heat to low and let simmer for 10\u202fminutes until the sweet potato is tender.",
+    "Transfer the skillet to the preheated oven and bake for 15\u202fminutes, allowing the flavors to meld.",
     "Remove from oven, stir in fresh cilantro and lemon juice, then serve hot."
   ],
   "slug": "velvety-sweet-egyptian-sausage-casserole",
@@ -97,5 +97,20 @@
     "mainIngredient": "sausage",
     "descriptor": "Velvety Sweet",
     "dishForm": "Casserole"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "egyptian",
+    "dinner"
+  ]
 }

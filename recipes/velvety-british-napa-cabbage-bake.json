@@ -1,6 +1,6 @@
 {
   "title": "Velvety British Napa Cabbage Bake",
-  "description": "A creamy, savory bake that marries tender napa cabbage with a luscious yogurt‑cheddar sauce, finished with a golden breadcrumb crust.",
+  "description": "A creamy, savory bake that marries tender napa cabbage with a luscious yogurtcheddar sauce, finished with a golden breadcrumb crust.",
   "cuisine": "British",
   "diet": [
     "vegetarian"
@@ -10,7 +10,7 @@
     {
       "name": "Napa cabbage",
       "amount": "1 large (about 1.5 lbs / 680 g), finely sliced",
-      "notes": "Remove the outer leaves and chop into bite‑sized pieces"
+      "notes": "Remove the outer leaves and chop into bite\u2011sized pieces"
     },
     {
       "name": "Onion",
@@ -20,7 +20,7 @@
     {
       "name": "Plain Greek yogurt",
       "amount": "1 cup (240 ml)",
-      "notes": "Full‑fat for the richest mouthfeel"
+      "notes": "Full\u2011fat for the richest mouthfeel"
     },
     {
       "name": "Cheddar cheese",
@@ -35,7 +35,7 @@
     {
       "name": "Olive oil",
       "amount": "2 tbsp (30 ml)",
-      "notes": "For sautéing the onion"
+      "notes": "For saut\u00e9ing the onion"
     },
     {
       "name": "Breadcrumbs",
@@ -54,15 +54,15 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 375°F (190°C).",
-    "Lightly oil a 9×13 inch baking dish.",
-    "Heat the olive oil in a large skillet over medium heat and sauté the diced onion until translucent, about 5 minutes.",
+    "Preheat your oven to 375\u00b0F (190\u00b0C).",
+    "Lightly oil a 9\u00d713 inch baking dish.",
+    "Heat the olive oil in a large skillet over medium heat and saut\u00e9 the diced onion until translucent, about 5 minutes.",
     "Add the sliced napa cabbage to the skillet and cook, stirring frequently, until it just starts to wilt, about 3 minutes.",
-    "Transfer the cabbage–onion mixture to the prepared baking dish.",
+    "Transfer the cabbage\u2013onion mixture to the prepared baking dish.",
     "In a bowl, whisk together Greek yogurt, whole milk, salt, and pepper until smooth.",
     "Pour the yogurt mixture evenly over the cabbage, then sprinkle the shredded cheddar on top.",
     "Toss the breadcrumbs with a pinch of salt, toast them in a dry pan until golden, then scatter them over the cheese.",
-    "Bake uncovered for 25–30 minutes, or until the top is golden brown and bubbling. Let rest 5 minutes before serving."
+    "Bake uncovered for 25\u201330 minutes, or until the top is golden brown and bubbling. Let rest 5 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,

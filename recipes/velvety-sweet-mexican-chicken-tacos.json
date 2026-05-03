@@ -1,6 +1,6 @@
 {
   "title": "Velvety Sweet Mexican Chicken Tacos",
-  "description": "A sweet, velvety, light Mexican dish featuring lemons and sous‑vide chicken, perfect for a Mediterranean‑friendly meal.",
+  "description": "A sweet, velvety, light Mexican dish featuring lemons and sousvide chicken, perfect for a Mediterraneanfriendly meal.",
   "cuisine": "Mexican",
   "diet": [
     "gluten-free",
@@ -11,7 +11,7 @@
     {
       "name": "Skinless chicken breast fillets",
       "amount": "1 lb (454 g)",
-      "notes": "Cut into bite‑sized pieces"
+      "notes": "Cut into bite\u2011sized pieces"
     },
     {
       "name": "Lemon",
@@ -26,7 +26,7 @@
     {
       "name": "Olive oil",
       "amount": "1 tsp",
-      "notes": "For sous‑vide bag"
+      "notes": "For sous\u2011vide bag"
     },
     {
       "name": "Kosher salt",
@@ -60,15 +60,15 @@
     }
   ],
   "instructions": [
-    "Preheat sous‑vide water bath to 140°F (60°C).",
+    "Preheat sous\u2011vide water bath to 140\u00b0F (60\u00b0C).",
     "Season chicken pieces with salt, pepper, cumin, paprika, and minced garlic.",
     "Whisk together lemon zest, lemon juice, honey, and olive oil in a small bowl.",
-    "Place seasoned chicken in a vacuum seal bag, pour the lemon‑honey mixture over it, and seal.",
-    "Cook sous‑vide for 45 minutes (or 1 hour for extra tenderness).",
-    "Remove chicken from bag, pat dry, and sear in a hot skillet with a little oil for 1–2 minutes per side until golden.",
-    "Warm corn tortillas in a dry skillet or microwave for 15–20 seconds.",
+    "Place seasoned chicken in a vacuum seal bag, pour the lemon\u2011honey mixture over it, and seal.",
+    "Cook sous\u2011vide for 45 minutes (or 1 hour for extra tenderness).",
+    "Remove chicken from bag, pat dry, and sear in a hot skillet with a little oil for 1\u20132 minutes per side until golden.",
+    "Warm corn tortillas in a dry skillet or microwave for 15\u201320 seconds.",
     "Slice seared chicken into strips.",
-    "Assemble tacos: lay chicken strips on tortilla, drizzle with remaining lemon‑honey sauce, sprinkle cilantro, add avocado slices if desired.",
+    "Assemble tacos: lay chicken strips on tortilla, drizzle with remaining lemon\u2011honey sauce, sprinkle cilantro, add avocado slices if desired.",
     "Serve immediately with lime wedges on the side."
   ],
   "slug": "velvety-sweet-mexican-chicken-tacos",
@@ -88,5 +88,20 @@
     "mainIngredient": "Chicken",
     "descriptor": "Velvety Sweet",
     "dishForm": "Tacos"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "mexican",
+    "dinner"
+  ]
 }

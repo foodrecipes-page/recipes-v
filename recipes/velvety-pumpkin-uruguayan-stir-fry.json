@@ -40,7 +40,7 @@
   ],
   "instructions": [
     "Heat butter in a pan over medium heat.",
-    "Add shallots and onion, sauté until translucent and fragrant. Add lime peel and cook for an additional minute.",
+    "Add shallots and onion, saut\u00e9 until translucent and fragrant. Add lime peel and cook for an additional minute.",
     "Stir in pumpkin and coconut milk, adjust seasoning with salt if needed, bring to boil.",
     "Reduce heat to low and let simmer for 20 minutes or until the pumpkin is very soft.",
     "Blend mixture until smooth using a hand blender. Season with lime juice as desired."
@@ -57,9 +57,9 @@
   ],
   "nutrition": {
     "calories": 195,
-    "protein": 6.2,
-    "carbs": 37.8,
-    "fat": 10.4
+    "protein": 6,
+    "carbs": 38,
+    "fat": 10
   },
   "slug": "velvety-pumpkin-uruguayan-stir-fry",
   "source": "ollama-qwen2.5:3b",

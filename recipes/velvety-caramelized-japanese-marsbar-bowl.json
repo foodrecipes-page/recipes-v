@@ -1,66 +1,66 @@
 {
   "title": "Velvety Caramelized Japanese Marsbar Bowl",
-  "description": "A velvety, savory bowl that blends caramelized Mars bar sweetness with miso‑infused rice, silken tofu, and edamame, perfect for a post‑workout pick‑me‑up.",
+  "description": "A velvety, savory bowl that blends caramelized Mars bar sweetness with misoinfused rice, silken tofu, and edamame, perfect for a postworkout pickmeup.",
   "cuisine": "Japanese",
   "diet": null,
   "meal": "snack",
   "ingredients": [
     {
-      "name": "Cooked short‑grain rice",
-      "amount": "150 g"
+      "name": "Cooked short\u2011grain rice",
+      "amount": "150\u202fg"
     },
     {
       "name": "Silken tofu",
-      "amount": "100 g"
+      "amount": "100\u202fg"
     },
     {
       "name": "Edamame (cooked)",
-      "amount": "50 g"
+      "amount": "50\u202fg"
     },
     {
       "name": "White miso paste",
-      "amount": "1 tbsp"
+      "amount": "1\u202ftbsp"
     },
     {
       "name": "Soy sauce",
-      "amount": "1 tbsp"
+      "amount": "1\u202ftbsp"
     },
     {
       "name": "Sesame oil",
-      "amount": "1 tsp"
+      "amount": "1\u202ftsp"
     },
     {
       "name": "Mirin",
-      "amount": "1 tsp"
+      "amount": "1\u202ftsp"
     },
     {
       "name": "Rice vinegar",
-      "amount": "1 tsp"
+      "amount": "1\u202ftsp"
     },
     {
       "name": "Fresh ginger (grated)",
-      "amount": "1 tsp"
+      "amount": "1\u202ftsp"
     },
     {
       "name": "Mars bar",
-      "amount": "1 bar (≈80 g)"
+      "amount": "1\u202fbar\u202f(\u224880\u202fg)"
     },
     {
       "name": "Sesame seeds",
-      "amount": "1 tsp"
+      "amount": "1\u202ftsp"
     },
     {
       "name": "Scallions (chopped)",
-      "amount": "1 tbsp"
+      "amount": "1\u202ftbsp"
     }
   ],
   "instructions": [
-    "Rinse the short‑grain rice and cook it in a rice cooker or by steaming; let it cool.",
+    "Rinse the short\u2011grain rice and cook it in a rice cooker or by steaming; let it cool.",
     "Press the silken tofu to remove excess liquid, then mash it lightly with a fork.",
-    "Heat a non‑stick pan over medium heat and add the Mars bar; break it into pieces and stir until it caramelizes and turns a deep amber, about 2–3 minutes.",
+    "Heat a non\u2011stick pan over medium heat and add the Mars bar; break it into pieces and stir until it caramelizes and turns a deep amber, about 2\u20133\u202fminutes.",
     "In a small bowl whisk together miso paste, soy sauce, sesame oil, mirin, rice vinegar, and grated ginger until smooth.",
     "In a serving bowl arrange the cooled rice, mashed tofu, and cooked edamame.",
-    "Drizzle the miso‑soy sauce mixture evenly over the bowl.",
+    "Drizzle the miso\u2011soy sauce mixture evenly over the bowl.",
     "Top with the caramelized Mars bar pieces, then sprinkle sesame seeds and chopped scallions.",
     "Serve immediately for the best texture and flavor."
   ],

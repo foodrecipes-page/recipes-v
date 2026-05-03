@@ -1,6 +1,6 @@
 {
   "title": "Velvety Moroccan Lamb Tagine",
-  "description": "Indulge in a buttery, creamy lamb tagine with a subtle cacao twist—perfect for midnight cravings and keto-friendly dining.",
+  "description": "Indulge in a buttery, creamy lamb tagine with a subtle cacao twist-perfect for midnight cravings and keto-friendly dining.",
   "cuisine": "Moroccan",
   "diet": [
     "keto"
@@ -8,14 +8,14 @@
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "Lamb shoulder, bone‑in",
-      "amount": "1.5 lb (680 g)",
+      "name": "Lamb shoulder, bone\u2011in",
+      "amount": "1.5\u202flb (680\u202fg)",
       "notes": "Pat dry and season"
     },
     {
       "name": "Onion, diced",
-      "amount": "1 medium (≈1 cup)",
-      "notes": "Sauté until translucent"
+      "amount": "1\u202fmedium (\u22481\u202fcup)",
+      "notes": "Saut\u00e9 until translucent"
     },
     {
       "name": "Garlic cloves, minced",
@@ -24,62 +24,62 @@
     },
     {
       "name": "Ground cumin",
-      "amount": "1 tsp",
+      "amount": "1\u202ftsp",
       "notes": ""
     },
     {
       "name": "Ground coriander",
-      "amount": "1 tsp",
+      "amount": "1\u202ftsp",
       "notes": ""
     },
     {
       "name": "Ground cinnamon",
-      "amount": "½ tsp",
+      "amount": "\u00bd\u202ftsp",
       "notes": ""
     },
     {
       "name": "Salt",
-      "amount": "1 tsp",
+      "amount": "1\u202ftsp",
       "notes": ""
     },
     {
       "name": "Black pepper",
-      "amount": "½ tsp",
+      "amount": "\u00bd\u202ftsp",
       "notes": ""
     },
     {
       "name": "Beef broth",
-      "amount": "2 cups (480 ml)",
-      "notes": "Low‑sodium if preferred"
+      "amount": "2\u202fcups (480\u202fml)",
+      "notes": "Low\u2011sodium if preferred"
     },
     {
       "name": "Unsweetened cocoa powder",
-      "amount": "1 tbsp",
+      "amount": "1\u202ftbsp",
       "notes": "Adds velvety depth and keeps carbs low"
     },
     {
       "name": "Fresh lemon juice",
-      "amount": "2 tbsp",
+      "amount": "2\u202ftbsp",
       "notes": "Brightens the sauce"
     },
     {
       "name": "Butter, unsalted",
-      "amount": "4 tbsp",
+      "amount": "4\u202ftbsp",
       "notes": "Used for searing and enriching the sauce"
     }
   ],
   "instructions": [
     "Pat the lamb dry and coat all sides with cumin, coriander, cinnamon, salt, and pepper.",
-    "Heat the pressure cooker on sauté mode and add butter; sear the lamb on all sides until browned, about 3–4 min per side. Remove and set aside.",
-    "Add the diced onion to the cooker and sauté until translucent, about 3 min.",
-    "Stir in the minced garlic and cook for 30 sec.",
-    "Add the cocoa powder, stirring to toast and release its aroma, about 1 min.",
+    "Heat the pressure cooker on saut\u00e9 mode and add butter; sear the lamb on all sides until browned, about 3\u20134\u202fmin per side. Remove and set aside.",
+    "Add the diced onion to the cooker and saut\u00e9 until translucent, about 3\u202fmin.",
+    "Stir in the minced garlic and cook for 30\u202fsec.",
+    "Add the cocoa powder, stirring to toast and release its aroma, about 1\u202fmin.",
     "Pour in the beef broth, scraping the bottom to loosen browned bits.",
     "Stir in the lemon juice.",
     "Return the lamb to the pot, spooning some sauce over it.",
-    "Seal the pressure cooker and cook on high pressure for 35 min.",
-    "Quick‑release the pressure when time is up, then open the cooker carefully.",
-    "Use an immersion blender to blend the sauce until silky and velvety—stop before it becomes too smooth to keep a hint of texture.",
+    "Seal the pressure cooker and cook on high pressure for 35\u202fmin.",
+    "Quick\u2011release the pressure when time is up, then open the cooker carefully.",
+    "Use an immersion blender to blend the sauce until silky and velvety\u2014stop before it becomes too smooth to keep a hint of texture.",
     "Serve the tagine hot, optionally garnishing with fresh herbs if desired."
   ],
   "slug": "velvety-moroccan-lamb-tagine",
@@ -99,5 +99,20 @@
     "mainIngredient": "Lamb",
     "descriptor": "Velvety",
     "dishForm": "Tagine"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "moroccan",
+    "dinner"
+  ]
 }

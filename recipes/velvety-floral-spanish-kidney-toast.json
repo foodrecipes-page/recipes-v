@@ -1,6 +1,6 @@
 {
   "title": "Velvety Floral Spanish Kidney Toast",
-  "description": "A romantic, nut‑free Spanish dish featuring silky beef kidney, fragrant saffron, and toasted bread, perfect for a date night.",
+  "description": "A romantic, nutfree Spanish dish featuring silky beef kidney, fragrant saffron, and toasted bread, perfect for a date night.",
   "cuisine": "Spanish",
   "diet": null,
   "meal": "dinner",
@@ -13,7 +13,7 @@
     {
       "name": "sourdough bread",
       "amount": "4 slices",
-      "notes": "nut‑free, toasted"
+      "notes": "nut\u2011free, toasted"
     },
     {
       "name": "yellow onion",
@@ -45,7 +45,7 @@
     {
       "name": "olive oil",
       "amount": "1 tbsp",
-      "notes": "nut‑free"
+      "notes": "nut\u2011free"
     },
     {
       "name": "fresh parsley",
@@ -72,15 +72,15 @@
   "instructions": [
     "Heat olive oil in a skillet over medium heat.",
     "Add sliced onion and cook until translucent, about 3 minutes.",
-    "Add garlic, sauté for 30 seconds until fragrant.",
+    "Add garlic, saut\u00e9 for 30 seconds until fragrant.",
     "Pour in the white wine and simmer until reduced by half, about 4 minutes.",
     "Add the beef broth, smoked paprika, and saffron water; bring to a gentle boil.",
-    "Add sliced kidney, season with salt and pepper, and cook for 5–7 minutes until the kidneys are tender but still firm.",
+    "Add sliced kidney, season with salt and pepper, and cook for 5\u20137 minutes until the kidneys are tender but still firm.",
     "Stir in lemon zest, lemon juice, and chopped parsley; remove from heat.",
     "Toast the bread slices until golden and crisp.",
     "Top each slice with a generous amount of the kidney mixture.",
     "Serve immediately while the toast is still warm.",
-    "Pair with a glass of dry Spanish sherry for a complete date‑night experience."
+    "Pair with a glass of dry Spanish sherry for a complete date\u2011night experience."
   ],
   "slug": "velvety-floral-spanish-kidney-toast",
   "source": "ocloud-gpt-oss:20b",
@@ -99,5 +99,20 @@
     "mainIngredient": "kidney",
     "descriptor": "Velvety Floral",
     "dishForm": "Toast"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "spanish",
+    "dinner"
+  ]
 }
