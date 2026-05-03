@@ -1,0 +1,103 @@
+{
+  "title": "Velvety Greek Yogurt Biryani",
+  "description": "A creamy, kid-friendly fusion dish that marries Greek yogurt with aromatic biryani masala, perfect for a quick, comforting meal.",
+  "cuisine": "Greek-Indian Fusion",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Greek Yogurt",
+      "amount": "250 g"
+    },
+    {
+      "name": "Biryani Masala",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cooked Basmati Rice",
+      "amount": "200 g",
+      "notes": "pre-cooked, slightly undercooked"
+    },
+    {
+      "name": "Mixed Vegetables (carrot, peas, beans)",
+      "amount": "150 g",
+      "notes": "steamed until tender"
+    },
+    {
+      "name": "Onion, sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive Oil or Ghee",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh Cilantro, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "0.5 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk the Greek yogurt with biryani masala, garlic, ginger, lemon juice, and salt until smooth.",
+    "Add the cooked rice to the yogurt mixture, folding gently so the rice is evenly coated.",
+    "Fold in the steamed mixed vegetables and sliced onions, ensuring even distribution.",
+    "Transfer the mixture to a lightly oiled saucepan and cook over medium heat for 5-7 minutes, stirring occasionally until the mixture is heated through and slightly golden.",
+    "Turn off the heat, stir in fresh cilantro and a splash of olive oil for added sheen.",
+    "Serve hot, garnishing with extra cilantro if desired. Optionally top with a dollop of plain yogurt for extra creaminess."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "dairy",
+    "kid-friendly",
+    "fusion",
+    "quick",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "velvety-greek-yogurt-biryani",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-greek-yogurt-biryani",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:24:52Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "velvety",
+    "mood": "kid-friendly",
+    "technique": "marinate",
+    "primaryIngredient": "biryani masala",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Yogurt",
+    "descriptor": "Velvety",
+    "dishForm": "Biryani"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "title": "Velvety Peruvian Almond Custard",
+  "description": "A light, creamy Peruvian dessert with a subtle almond flavor, made entirely with plant-based ingredients for a jain-friendly treat.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "jain"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "oat milk",
+      "amount": "1 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "light coconut milk",
+      "amount": "1 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "almond extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "pinch"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "toasted almonds",
+      "amount": "2 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the oat milk and coconut milk in a medium saucepan over medium heat until warm.",
+    "Add the sugar and stir until it completely dissolves.",
+    "Whisk the cornstarch with 2 tablespoons of cold water to make a smooth slurry.",
+    "Pour the slurry into the saucepan, whisking continuously, and cook until the mixture thickens to a custard consistency (about 5-7 minutes).",
+    "Remove from heat and stir in the almond extract, vanilla extract, ground cardamom, and lemon juice.",
+    "Let the custard cool to room temperature, then divide it among 4 ramekins or glasses.",
+    "Refrigerate for at least 2 hours to set and develop the flavors.",
+    "Just before serving, sprinkle the toasted almonds on top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "almond",
+    "jain-friendly",
+    "vegan",
+    "dessert",
+    "custard",
+    "sweet",
+    "creamy",
+    "light"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 4
+  },
+  "slug": "velvety-peruvian-almond-custard",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-peruvian-almond-custard",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:24:32Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "cure",
+    "primaryIngredient": "almond extract",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "almonds",
+    "descriptor": "Velvety",
+    "dishForm": "Custard"
+  }
+}

@@ -1275,6 +1275,21 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-greek-yogurt-biryani",
+    "title": "Velvety Greek Yogurt Biryani",
+    "tags": [
+      "vegetarian",
+      "dairy",
+      "kid-friendly",
+      "fusion",
+      "quick",
+      "comfort-food"
+    ],
+    "cuisine": "Greek-Indian Fusion",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-greek-yogurt-soup",
     "title": "Velvety Greek Yogurt Soup",
     "tags": [
@@ -1879,6 +1894,24 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-peruvian-almond-custard",
+    "title": "Velvety Peruvian Almond Custard",
+    "tags": [
+      "peruvian",
+      "almond",
+      "jain-friendly",
+      "vegan",
+      "dessert",
+      "custard",
+      "sweet",
+      "creamy",
+      "light"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 20,
     "shard": "v"
   },
   {
