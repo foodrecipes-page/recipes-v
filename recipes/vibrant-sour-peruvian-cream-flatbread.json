@@ -1,0 +1,101 @@
+{
+  "title": "Vibrant Sour Peruvian Cream Flatbread",
+  "description": "A chewy flatbread with a bright citrus tang and creamy finish, perfect for kids and adults alike.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "250 g"
+    },
+    {
+      "name": "warm water",
+      "amount": "150 ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "20 ml"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "single cream",
+      "amount": "100 ml"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "15 ml"
+    },
+    {
+      "name": "fresh cilantro, finely chopped",
+      "amount": "10 g"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "potato starch",
+      "amount": "10 g"
+    }
+  ],
+  "instructions": [
+    "In a large bowl stir the flour, salt, sugar, cumin and potato starch until well blended.",
+    "Add the warm water and olive oil to the dry mix and stir until a shaggy dough forms.",
+    "Fold in the single cream and lime juice, then knead the dough for about 3 minutes until it becomes smooth and elastic.",
+    "Cover the dough with a damp towel and let it rest for 5 minutes to relax the gluten.",
+    "Divide the rested dough into four equal portions and roll each into a thin circle about 10 cm in diameter.",
+    "Heat a non-stick skillet over medium heat and cook each flatbread for 2 minutes on each side or until lightly golden.",
+    "While the flatbread cooks, sprinkle chopped cilantro over the top of each piece.",
+    "Serve the flatbread warm, optionally with a side of fresh salsa or a light yogurt dip.",
+    "If not serving immediately, wrap the flatbread in foil to keep it soft.",
+    "Enjoy the sour, creamy, kid-friendly Peruvian flatbread as part of a hearty lunch."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chewy",
+    "flatbread",
+    "kid-friendly",
+    "no-bake",
+    "peruvian",
+    "quick",
+    "sour"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 50,
+    "fat": 12
+  },
+  "slug": "vibrant-sour-peruvian-cream-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-sour-peruvian-cream-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:40:21Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "knead",
+    "primaryIngredient": "single cream",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Cream",
+    "descriptor": "Vibrant Sour",
+    "dishForm": "Flatbread"
+  }
+}
