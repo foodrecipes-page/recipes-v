@@ -1,0 +1,94 @@
+{
+  "title": "Velvety Turkish Bean Soup",
+  "description": "A rich, smooth bean soup with a hint of citrus and ginger, perfect for easing hangovers and satisfying pescatarian cravings.",
+  "cuisine": "Turkish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried white beans",
+      "amount": "300g",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground turmeric",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fish stock",
+      "amount": "1.5L"
+    },
+    {
+      "name": "shrimp",
+      "amount": "200g",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Soak the dried beans overnight, rinse and drain them before cooking.",
+    "Bring a pot of water to a boil, blanch the beans for 5 minutes, then drain and set aside.",
+    "In a separate saucepan, heat the olive oil over medium heat and sauté the chopped onion and minced garlic until translucent.",
+    "Add the grated ginger, ground cumin, ground turmeric, and tomato paste; cook for 1 minute, stirring constantly.",
+    "Pour in the blanched beans and fish stock, bring to a gentle boil, then reduce heat and simmer for 45 minutes until the beans are tender and the broth is thickened.",
+    "Add the shrimp and simmer for an additional 3-4 minutes until the shrimp turn pink and are cooked through.",
+    "Stir in the lemon juice and season with salt and pepper to taste.",
+    "Using an immersion blender, blend the soup in the pot until silky and velvety. If preferred, transfer half of the soup to a countertop blender and blend before returning it to the pot.",
+    "Serve the soup hot, optionally garnished with fresh herbs if desired.",
+    ""
+  ],
+  "slug": "velvety-turkish-bean-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-turkish-bean-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:37:16Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "juicy",
+    "mood": "hangover-cure",
+    "technique": "blanch",
+    "primaryIngredient": "beans",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "beans",
+    "descriptor": "Velvety",
+    "dishForm": "Soup"
+  }
+}
