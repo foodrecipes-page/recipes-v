@@ -1,0 +1,89 @@
+{
+  "title": "Velvety Rich Norwegian Collards Bake",
+  "description": "A creamy, oven-baked collard greens dish with smoked salmon and a velvety cheese sauce, perfect for a cozy date night.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Collard greens",
+      "amount": "1 large bunch (≈800 g)",
+      "notes": "washed, stems removed, chopped"
+    },
+    {
+      "name": "Smoked salmon",
+      "amount": "200 g",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "100 ml",
+      "notes": "for sauce"
+    },
+    {
+      "name": "Gruyère cheese",
+      "amount": "100 g",
+      "notes": "grated"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 small",
+      "notes": "finely diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "150 ml",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1 tbsp",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190 °C).",
+    "Heat a large skillet over medium heat and melt the butter. Add the diced onion and minced garlic; sauté until translucent, about 2‑3 minutes. Add the chopped collard greens and cook until just wilted, about 2 minutes. Transfer the greens to a greased 9×13‑inch baking dish.",
+    "Layer the sliced smoked salmon evenly over the collards.",
+    "In the same skillet, pour in the heavy cream and chicken broth, stirring to combine. Add lemon zest and chopped dill, and bring to a gentle simmer. Let the mixture thicken slightly, about 3 minutes, then pour it over the collards and salmon. Sprinkle the grated Gruyère cheese on top.",
+    "Bake uncovered for 20‑25 minutes, or until the cheese is golden brown and bubbly.",
+    "Remove from oven and let rest for 5 minutes before serving.",
+    "Serve warm, garnished with extra dill if desired.",
+    "Enjoy a comforting, velvety Norwegian collards bake that’s both tasty and visually appealing."
+  ],
+  "slug": "velvety-rich-norwegian-collards-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-rich-norwegian-collards-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:20:07Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "tender",
+    "mood": "date-night",
+    "technique": "bake",
+    "primaryIngredient": "collards",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "collards",
+    "descriptor": "Velvety Rich",
+    "dishForm": "Bake"
+  }
+}
