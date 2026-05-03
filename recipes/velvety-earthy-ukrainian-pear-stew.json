@@ -1,0 +1,115 @@
+{
+  "title": "Velvety Earthy Ukrainian Pear Stew",
+  "description": "A cozy, kid-friendly Ukrainian stew that blends sweet pears with earthy vegetables into a silky, comforting bowl, perfect for any meal.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "egg-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pears",
+      "amount": "2 medium, peeled and diced",
+      "notes": "Choose sweet varieties like Bosc or Anjou"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium, diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups (480 ml)"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp (30 g)"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp (2 g)"
+    },
+    {
+      "name": "Bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "2 tbsp, chopped"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "1 tsp",
+      "notes": "Optional, for a subtle sweetness"
+    }
+  ],
+  "instructions": [
+    "Heat a large saucepan over medium heat; add a splash of oil if desired.",
+    "Add the chopped onion and sauté until translucent, about 4-5 minutes.",
+    "Stir in the minced garlic and cook for another 30 seconds until fragrant.",
+    "Add the diced carrots and pears, cooking for 3-4 minutes while stirring occasionally.",
+    "Pour in the vegetable broth and tomato paste, stirring to combine fully.",
+    "Sprinkle in smoked paprika, bay leaf, salt, and pepper; bring the mixture to a gentle simmer.",
+    "Reduce heat to low, cover, and let simmer for 18-20 minutes, or until the pears are tender and the flavors meld.",
+    "Remove the bay leaf, give the stew a final stir, and adjust seasoning if needed.",
+    "Garnish with chopped parsley before serving.",
+    "Serve warm with crusty bread or over cooked rice for a complete meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "vegan",
+    "kid-friendly",
+    "comfort-food",
+    "stew",
+    "pear",
+    "earthy",
+    "velvety",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 65,
+    "protein": 1,
+    "carbs": 14,
+    "fat": 0.3
+  },
+  "slug": "velvety-earthy-ukrainian-pear-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-earthy-ukrainian-pear-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:50:55Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "kid-friendly",
+    "technique": "bhuna",
+    "primaryIngredient": "pears",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Pear",
+    "descriptor": "Velvety Earthy",
+    "dishForm": "Stew"
+  }
+}
