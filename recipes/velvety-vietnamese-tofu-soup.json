@@ -1,0 +1,123 @@
+{
+  "title": "Velvety Vietnamese Tofu Soup",
+  "description": "A silky, umami-packed tofu soup with rapeseed oil that warms the soul and energizes the day.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegan",
+    "vegetarian",
+    "gluten-free-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "silken tofu",
+      "amount": "400 g",
+      "notes": "cut into 1.5 cm cubes, keep chilled until poaching"
+    },
+    {
+      "name": "rapeseed oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small, finely sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch, minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium, julienned"
+    },
+    {
+      "name": "shiitake mushrooms",
+      "amount": "100 g, sliced (optional)"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 liter, low sodium"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice wine vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon, optional"
+    },
+    {
+      "name": "cornstarch slurry",
+      "amount": "1 teaspoon cornstarch + 1 tablespoon water"
+    },
+    {
+      "name": "green onion",
+      "amount": "1 stalk, chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 teaspoon, chopped"
+    }
+  ],
+  "instructions": [
+    "Heat rapeseed oil in a medium saucepan over medium heat until shimmering.",
+    "Add sliced onion, minced garlic, and ginger; sauté for 3 minutes until fragrant and onion translucent.",
+    "Stir in julienned carrot and sliced mushrooms; cook for 2 minutes, letting the vegetables soften.",
+    "Pour in vegetable broth and bring to a gentle boil, then reduce heat and simmer for 5 minutes to infuse flavors.",
+    "Add soy sauce, rice wine vinegar, sesame oil, and sugar; taste and adjust seasoning if needed.",
+    "Fold in silken tofu cubes, being careful not to break them, and simmer for another 3 minutes until tofu is heated through.",
+    "In a small bowl, whisk cornstarch with water to create a slurry.",
+    "Gradually pour the slurry into the soup while stirring; cook for 1 minute until the soup thickens slightly and becomes velvety.",
+    "Turn off the heat and ladle the soup into bowls.",
+    "Garnish each bowl with chopped green onion and fresh cilantro before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "vegetarian",
+    "gluten-free-friendly",
+    "soups",
+    "tofu",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 10,
+    "carbs": 15,
+    "fat": 10
+  },
+  "slug": "velvety-vietnamese-tofu-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-vietnamese-tofu-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T16:57:37Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "poach",
+    "primaryIngredient": "rapeseed oil",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Tofu",
+    "descriptor": "Velvety",
+    "dishForm": "Soup"
+  }
+}
