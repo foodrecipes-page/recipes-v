@@ -1,0 +1,118 @@
+{
+  "title": "Velvety Catalan Beef Paella",
+  "description": "A creamy, earthy paella made with lean minced beef and aromatic spices, perfect for a brunch feeling.",
+  "cuisine": "Catalan",
+  "diet": [
+    "gluten-free",
+    "low-fat",
+    "high-protein"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "lean minced beef",
+      "amount": "200 g",
+      "notes": "trim excess fat"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "bell pepper, diced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomatoes, diced",
+      "amount": "2 medium"
+    },
+    {
+      "name": "short grain rice",
+      "amount": "250 g"
+    },
+    {
+      "name": "water",
+      "amount": "600 ml"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1 pinch"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add diced onion and minced garlic and sauté until onions are translucent.",
+    "Stir in minced beef, breaking it apart, and cook until browned.",
+    "Add diced bell pepper and tomatoes, cooking until softened.",
+    "Season with paprika, salt, and black pepper, stirring well.",
+    "Pour in water and add saffron threads, bringing the mixture to a simmer.",
+    "Add short grain rice, stir to coat the grains with the sauce, and reduce heat to low.",
+    "Cover the skillet and let it simmer for 20 minutes until the rice is tender and liquid is absorbed.",
+    "Garnish with chopped parsley and lemon zest before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "comfort-food",
+    "gluten-free",
+    "high-protein",
+    "low-fat",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 813,
+    "protein": 34,
+    "carbs": 109,
+    "fat": 24
+  },
+  "slug": "velvety-catalan-beef-paella",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-catalan-beef-paella",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:20:22Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "molten",
+    "mood": "brunch-mood",
+    "technique": "whisk",
+    "primaryIngredient": "lean minced beef",
+    "diet": "macrobiotic",
+    "region": "catalan",
+    "cuisineAdjective": "Catalan",
+    "mainIngredient": "beef",
+    "descriptor": "Velvety",
+    "dishForm": "Paella"
+  }
+}

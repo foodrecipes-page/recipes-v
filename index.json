@@ -900,6 +900,21 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-catalan-beef-paella",
+    "title": "Velvety Catalan Beef Paella",
+    "tags": [
+      "breakfast",
+      "comfort-food",
+      "gluten-free",
+      "high-protein",
+      "low-fat",
+      "one-pan"
+    ],
+    "cuisine": "Catalan",
+    "totalTimeMin": 40,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-chestnut-stir-fry",
     "title": "Velvety Chestnut Stir-fry",
     "tags": [
