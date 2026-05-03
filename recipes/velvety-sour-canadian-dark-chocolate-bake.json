@@ -1,0 +1,108 @@
+{
+  "title": "velvety sour canadian dark chocolate bake",
+  "description": "a rich and creamy dessert featuring dark chocolate and a tangy twist, ideal for a post-party hangover or a cozy night in.",
+  "cuisine": "canadian",
+  "diet": [
+    "vegetarian",
+    "vegan-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dark chocolate chips (70% cocoa)",
+      "amount": "1 cup",
+      "notes": "divided"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tbsp",
+      "notes": "grade a"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can (14 oz)",
+      "notes": "full-fat"
+    },
+    {
+      "name": "roasted coffee",
+      "amount": "2 tsp",
+      "notes": "coarse ground"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": "pure"
+    },
+    {
+      "name": "espresso powder",
+      "amount": "1 tsp",
+      "notes": "finely ground"
+    },
+    {
+      "name": "almond milk",
+      "amount": "1 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "roasted hazelnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sour cream",
+      "amount": "2 tbsp",
+      "notes": "full-fat"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 400f (200c) and position a rack in the lower third.",
+    "roast the hazelnuts in a small pan over medium heat, stirring frequently, until fragrant and lightly browned (about 5 minutes).",
+    "let the hazelnuts cool completely, then chop them coarsely and set aside.",
+    "in a medium bowl, whisk together the almond milk, espresso powder, and vanilla extract until well combined.",
+    "in a separate bowl, melt the dark chocolate chips in the microwave in 30-second increments, stirring between each interval, until smooth.",
+    "stir the melted chocolate into the milk mixture until well combined.",
+    "add the roasted coffee and stir to combine.",
+    "pour the batter into a greased and floured 9-inch (23cm) springform pan.",
+    "bake for 35-40 minutes or until the edges are set and the center is still slightly jiggly.",
+    "remove the pan from the oven and let it cool on a wire rack for 10 minutes.",
+    "run a knife around the edges of the pan to release the cake, then transfer it to a serving plate."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "chocolate-obsessed",
+    "coffee-lover",
+    "dinner-party",
+    "high-protein",
+    "make-ahead",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "velvety-sour-canadian-dark-chocolate-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-sour-canadian-dark-chocolate-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:59:06Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "velvety",
+    "mood": "hangover-cure",
+    "technique": "robata-grill",
+    "primaryIngredient": "dark chocolate",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Dark Chocolate",
+    "descriptor": "Velvety Sour",
+    "dishForm": "Bake"
+  }
+}
