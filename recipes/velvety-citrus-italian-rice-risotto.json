@@ -1,0 +1,109 @@
+{
+  "title": "Velvety Citrus Italian Rice Risotto",
+  "description": "A comforting Italian risotto infused with bright lemon and orange flavors, sweetened with maple syrup for a silky finish. Perfect for a quick, pressure‑cooked dinner that feels luxurious.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Arborio rice",
+      "amount": "1 cup (200 g)"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1/4 cup (60 ml)"
+    },
+    {
+      "name": "Orange zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Orange juice",
+      "amount": "1/4 cup (60 ml)"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "3 cups (720 ml)",
+      "notes": "preheated"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "2 tbsp (30 ml)"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tbsp (28 g)",
+      "notes": "room temperature"
+    },
+    {
+      "name": "Grated Parmesan cheese",
+      "amount": "1/2 cup (50 g)"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1 tbsp",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Set the pressure cooker to sauté mode and melt the butter.",
+    "Add the Arborio rice, stir until the edges become translucent.",
+    "Add lemon zest and orange zest, sauté for 30 seconds.",
+    "Pour in lemon juice, orange juice, and maple syrup; stir until the liquid is mostly absorbed.",
+    "Add the preheated vegetable broth, close the lid, and set to high pressure for 6 minutes.",
+    "Quick‑release the pressure and stir in the grated Parmesan cheese, salt, and pepper.",
+    "Cover the risotto and let it sit for 2 minutes to thicken.",
+    "Serve hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "citrus",
+    "vegetarian",
+    "comfort-food",
+    "pressure-cooker",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 460,
+    "protein": 30,
+    "carbs": 100,
+    "fat": 38
+  },
+  "slug": "velvety-citrus-italian-rice-risotto",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-citrus-italian-rice-risotto",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:14:40Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "velvety",
+    "mood": "comforting",
+    "technique": "pressure-cook",
+    "primaryIngredient": "maple syrup",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Rice",
+    "descriptor": "Velvety Citrus",
+    "dishForm": "Risotto"
+  }
+}
