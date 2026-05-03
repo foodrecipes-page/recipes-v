@@ -1,0 +1,109 @@
+{
+  "title": "Velvety Canadian Tofu Curry",
+  "description": "A buttery, dense, energizing Canadian dish that blends Massaman curry paste with maple-infused coconut milk and blanched tofu for a vegan, kosher-friendly dinner.",
+  "cuisine": "canadian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "kosher-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra‑firm tofu",
+      "amount": "200 g",
+      "notes": "pressed and cubed"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 Tbsp"
+    },
+    {
+      "name": "Massaman curry paste",
+      "amount": "2 Tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200 ml"
+    },
+    {
+      "name": "cooked brown rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsweetened peanut butter",
+      "amount": "1 Tbsp",
+      "notes": "adds creaminess, optional"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 Tbsp"
+    },
+    {
+      "name": "low‑sodium soy sauce",
+      "amount": "1 Tbsp",
+      "notes": "kosher"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Press the tofu for 15 minutes, then cut into 1‑inch cubes.",
+    "Heat the coconut oil in a large skillet over medium heat; add the Massaman curry paste and cook for 1–2 minutes until fragrant.",
+    "Add the tofu cubes and stir‑fry until lightly browned on all sides, about 3–4 minutes.",
+    "Pour in the coconut milk, maple syrup, and soy sauce; add the ground ginger and bring to a gentle simmer.",
+    "Reduce the heat to low and let the curry simmer for 10 minutes, allowing the sauce to thicken.",
+    "Stir in the peanut butter until fully incorporated and the sauce becomes silky.",
+    "Add the cooked brown rice, tossing to coat each grain and heat through, about 2 minutes.",
+    "Season with salt to taste, adjusting sweetness or salt as desired.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "vegan",
+    "kosher-friendly",
+    "tofu",
+    "massaman",
+    "curry",
+    "maple",
+    "rice",
+    "coconut",
+    "blanched",
+    "buttery"
+  ],
+  "nutrition": {
+    "calories": 700,
+    "protein": 18,
+    "carbs": 52,
+    "fat": 50
+  },
+  "slug": "velvety-canadian-tofu-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-canadian-tofu-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:23:02Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "dense",
+    "mood": "energizing",
+    "technique": "blanch",
+    "primaryIngredient": "massaman curry paste",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "tofu",
+    "descriptor": "Velvety",
+    "dishForm": "Curry"
+  }
+}

@@ -370,6 +370,24 @@
     "shard": "v"
   },
   {
+    "slug": "velvet-cantonese-almond-stew",
+    "title": "Velvet Cantonese Almond Stew",
+    "tags": [
+      "velvety",
+      "cantonese",
+      "almond",
+      "dairy-free",
+      "vegan",
+      "gluten-free",
+      "stew",
+      "comfort-food",
+      "quick"
+    ],
+    "cuisine": "Cantonese",
+    "totalTimeMin": 25,
+    "shard": "v"
+  },
+  {
     "slug": "velvet-chickpea-casserole",
     "title": "Velvet Chickpea Casserole",
     "tags": [
@@ -741,6 +759,26 @@
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 50,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-canadian-tofu-curry",
+    "title": "Velvety Canadian Tofu Curry",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "kosher-friendly",
+      "tofu",
+      "massaman",
+      "curry",
+      "maple",
+      "rice",
+      "coconut",
+      "blanched",
+      "buttery"
+    ],
+    "cuisine": "canadian",
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {

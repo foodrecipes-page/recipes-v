@@ -1,0 +1,119 @@
+{
+  "title": "Velvet Cantonese Almond Stew",
+  "description": "A dairy‑free, nutty Cantonese stew with a silky almond broth, tender tofu and fresh vegetables.",
+  "cuisine": "Cantonese",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground almonds",
+      "amount": "1 cup",
+      "notes": "almond meal"
+    },
+    {
+      "name": "Vegetable stock",
+      "amount": "4 cups",
+      "notes": "low‑sodium, homemade or store‑bought"
+    },
+    {
+      "name": "Tamari soy sauce",
+      "amount": "2 tbsp",
+      "notes": "gluten‑free, low‑sodium"
+    },
+    {
+      "name": "Hoisin sauce",
+      "amount": "1 tbsp",
+      "notes": "dairy‑free"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Silken tofu",
+      "amount": "200g",
+      "notes": "cubed"
+    },
+    {
+      "name": "Shiitake mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup",
+      "notes": "julienned"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine vegetable stock, tamari soy sauce, hoisin sauce, maple syrup, sesame oil, grated ginger, and minced garlic. Bring to a gentle simmer over medium heat, stirring to dissolve sugars.",
+    "Stir in ground almonds, whisking constantly, and let the mixture thicken until it becomes a smooth, velvety broth, about 3–4 minutes.",
+    "Add julienned carrots, sliced shiitake mushrooms, and tofu cubes. Reduce heat to low and simmer gently for 5–6 minutes, until vegetables are tender but still crisp.",
+    "Whisk 1 tablespoon cornstarch with 2 tablespoons cold water to make a slurry. Gradually pour the slurry into the stew, stirring until the sauce thickens to your desired consistency, about 1 minute.",
+    "Taste the stew and season with a pinch of salt if needed. Remove from heat.",
+    "Ladle the stew into bowls, garnish with sliced green onions, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "velvety",
+    "cantonese",
+    "almond",
+    "dairy-free",
+    "vegan",
+    "gluten-free",
+    "stew",
+    "comfort-food",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 265,
+    "protein": 11,
+    "carbs": 18,
+    "fat": 17
+  },
+  "slug": "velvet-cantonese-almond-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvet-cantonese-almond-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:22:35Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "velvety",
+    "mood": "comforting",
+    "technique": "braise",
+    "primaryIngredient": "ground almonds",
+    "diet": "dairy-free",
+    "region": "cantonese",
+    "cuisineAdjective": "Cantonese",
+    "mainIngredient": "Almond",
+    "descriptor": "Velvet",
+    "dishForm": "Stew"
+  }
+}
