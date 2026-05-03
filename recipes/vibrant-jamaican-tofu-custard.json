@@ -1,0 +1,100 @@
+{
+  "title": "Vibrant Jamaican Tofu Custard",
+  "description": "A garlicky, aerated custard featuring smoked tofu and vanilla custard, served cold for a date-night Jamaican dessert.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "400 ml",
+      "notes": "full fat"
+    },
+    {
+      "name": "whole milk",
+      "amount": "200 ml"
+    },
+    {
+      "name": "agar-agar powder",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked tofu",
+      "amount": "200 g",
+      "notes": "cubed"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut milk and whole milk in a saucepan over medium heat until barely simmering.",
+    "Whisk in the agar-agar powder until fully dissolved.",
+    "Add minced garlic, sea salt, black pepper, and maple syrup; stir until fragrant, about 2 minutes.",
+    "Stir in vanilla extract and a drop of liquid smoke, then remove from heat.",
+    "Fold in the smoked tofu cubes, ensuring even coating.",
+    "Pour the mixture into small ramekins or glass cups.",
+    "Chill in the refrigerator for at least 60 minutes until set and aerated.",
+    "Serve chilled, garnished with a sprinkle of smoked paprika or fresh herbs."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 85,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "airy",
+    "coconut-based",
+    "date-night",
+    "dessert",
+    "smoked-flavor"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 7,
+    "carbs": 15,
+    "fat": 16
+  },
+  "slug": "vibrant-jamaican-tofu-custard",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-jamaican-tofu-custard",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:19:20Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "aerated",
+    "mood": "date-night",
+    "technique": "smoke-cold",
+    "primaryIngredient": "vanilla custard",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Tofu",
+    "descriptor": "Vibrant",
+    "dishForm": "Custard"
+  }
+}
