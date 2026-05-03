@@ -1,0 +1,80 @@
+{
+  "title": "Velvety Buttery Dates Pilaf",
+  "description": "A creamy and flavorful date-night dish featuring dried red chillies for a spicy touch, ideal for Jain-friendly palates.",
+  "cuisine": "Malaysian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup long-grain rice",
+      "amount": "cup"
+    },
+    {
+      "name": "2 dates",
+      "amount": "pieces"
+    },
+    {
+      "name": "4-6 dried red chillies (adjust for spice preference)",
+      "amount": "pieces"
+    },
+    {
+      "name": "1/3 cup unsalted butter",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "1/4 cup coconut milk",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Grated zest of 1 lemon (optional)",
+      "notes": "for extra flavor"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice and soak it in water for at least an hour.",
+    "Drain the soaked rice and rinse again thoroughly. Add about 2 cups of water to the soaking water, bring to a boil, then reduce heat to simmer until the water evaporates, leaving only the rice with a small amount of moisture.",
+    "Heat butter in a saucepan over medium heat. Stir in dates, chopped red chillies, and coconut milk. Bring to a gentle simmer for about 5 minutes.",
+    "Add salt and lemon zest (if using) to taste, then add the cooked rice. Mix well until all rice is coated evenly with the mixture.",
+    "Transfer the pilaf to a serving dish and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "velvety",
+    "buttery",
+    "date-night",
+    "malaysian",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 9
+  },
+  "slug": "velvety-buttery-dates-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-buttery-dates-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T18:04:15Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "steam",
+    "primaryIngredient": "dried red chillies",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Dates",
+    "descriptor": "Buttery Velvety",
+    "dishForm": "Pilaf"
+  }
+}
