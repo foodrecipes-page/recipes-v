@@ -1,0 +1,123 @@
+{
+  "title": "Velvety Peruvian Pepper Soup",
+  "description": "A silky, umami-packed one‑pot soup brimming with mixed peppers and a touch of toasted bread for crunch, all while staying low‑calorie and vegetarian-friendly.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1 medium (about 150 g)",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 (about 150 g)",
+      "notes": "seeded and diced"
+    },
+    {
+      "name": "yellow bell pepper",
+      "amount": "1 (about 140 g)",
+      "notes": "diced"
+    },
+    {
+      "name": "orange bell pepper",
+      "amount": "1 (about 140 g)",
+      "notes": "diced"
+    },
+    {
+      "name": "low‑sodium vegetable broth",
+      "amount": "4 cups (960 ml)",
+      "notes": "for simmering"
+    },
+    {
+      "name": "low‑fat plain Greek yogurt",
+      "amount": "1 cup (250 ml)",
+      "notes": "stirred in at the end"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tablespoon (15 g)",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon (2 g)",
+      "notes": ""
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 pinch (0.5 g)",
+      "notes": ""
+    },
+    {
+      "name": "toasted whole‑grain bread",
+      "amount": "4 slices",
+      "notes": "cut into cubes, toasted"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the diced onion and sauté until translucent, about 4 minutes.",
+    "Stir in the minced garlic and cook for 30 seconds until fragrant.",
+    "Add the diced red, yellow, and orange bell peppers; cook, stirring occasionally, until they start to soften, about 5 minutes.",
+    "Mix in the tomato paste, smoked paprika, and pinch of sea salt; cook for 1 minute to bloom the flavors.",
+    "Pour in the vegetable broth and bring the mixture to a gentle simmer, then reduce the heat and let it cook for 10 minutes to meld the flavors.",
+    "Lower the heat again and whisk in the Greek yogurt until the soup is smooth and creamy; continue to simmer for an additional 5 minutes, being careful not to let it boil.",
+    "Taste and adjust seasoning if necessary.",
+    "Ladle the soup into bowls and top each serving with toasted bread cubes (and optionally, a dash of crushed pumpkin seeds).",
+    "Serve hot and enjoy the velvety texture and vibrant pepper flavors."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "one-pot",
+    "peruvian",
+    "low-calorie",
+    "vegetarian",
+    "umami",
+    "velvety",
+    "soup",
+    "pepper",
+    "toast"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 7,
+    "carbs": 35,
+    "fat": 6
+  },
+  "slug": "velvety-peruvian-pepper-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-peruvian-pepper-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:31:14Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "velvety",
+    "mood": "one-pot",
+    "technique": "toast",
+    "primaryIngredient": "mixed peppers",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "pepper",
+    "descriptor": "Velvety",
+    "dishForm": "Soup"
+  }
+}
