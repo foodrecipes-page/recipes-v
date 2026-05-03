@@ -1,0 +1,111 @@
+{
+  "title": "Velvety Maghrebi Lamb Tagine",
+  "description": "A nostalgic Mediterranean dish of slow‑cooked lamb, caramelized onions, apricots and a silky red wine jelly, crafted to be halal‑friendly and rich in flavor.",
+  "cuisine": "Maghrebi",
+  "diet": [
+    "Halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cubed",
+      "amount": "1.5 kg",
+      "notes": "bone-in, halal"
+    },
+    {
+      "name": "Onions, sliced",
+      "amount": "2 large"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Spice blend",
+      "amount": "1 tsp each of ground ginger, cinnamon, turmeric",
+      "notes": "ground ginger, ground cinnamon, ground turmeric"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Broth (beef or vegetable)",
+      "amount": "1 cup",
+      "notes": "halal"
+    },
+    {
+      "name": "Dried apricots, halved",
+      "amount": "200 g"
+    },
+    {
+      "name": "Toasted almonds",
+      "amount": "100 g"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Agar-agar powder",
+      "amount": "2 g",
+      "notes": "for red wine jelly"
+    }
+  ],
+  "instructions": [
+    "Prepare the red wine jelly: combine ½ cup red wine, 1 tbsp honey, and 2 g agar‑agar in a small saucepan. Heat until a gentle simmer, then remove from heat and let cool slightly. Transfer to a shallow dish, refrigerate until set (30–45 min). Keep the jelly separate until ready to add.",
+    "In a heavy tagine or Dutch oven, heat 2 tbsp olive oil over medium‑high. Add sliced onions and cook until caramelized, about 15 min. Add the remaining 1 tbsp olive oil and minced garlic, sauté 2 min.",
+    "Add the lamb cubes, season with salt and pepper, and brown on all sides, about 5–7 min.",
+    "Stir in the spice blend, honey, and a splash of red wine. Cook for 2 min to allow the spices to bloom.",
+    "Pour the remaining red wine and broth, add the apricots, and bring to a gentle simmer. Reduce the heat to low, cover, and simmer gently for 90 min, turning occasionally, until the lamb is tender and reaches an internal temperature of 165 °F (74 °C).",
+    "Stir in the toasted almonds during the last 10 min of cooking.",
+    "At the end of the cooking time, remove from heat. Fold in spoonfuls of the pre‑made red wine jelly to create a silky, glossy finish.",
+    "Let the tagine rest for 5 min, then ladle into serving bowls. Garnish with fresh cilantro or parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "maghrebi-lamb",
+    "halal-friendly",
+    "tagine",
+    "wine-jelly",
+    "silky",
+    "nostalgic",
+    "bitter"
+  ],
+  "nutrition": {
+    "calories": 1240,
+    "protein": 75,
+    "carbs": 60,
+    "fat": 78
+  },
+  "slug": "velvety-maghrebi-lamb-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-maghrebi-lamb-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:11:12Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "silky",
+    "mood": "nostalgic",
+    "technique": "caramelize",
+    "primaryIngredient": "red wine jelly",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Maghrebi",
+    "mainIngredient": "Lamb",
+    "descriptor": "Velvety",
+    "dishForm": "Tagine"
+  }
+}
