@@ -1,0 +1,105 @@
+{
+  "title": "Velvety Bitter Norwegian Cod Grill",
+  "description": "A sophisticated grilled cod dish with crisp fries and a silky almond‑mustard sauce, perfect for a romantic Norwegian date night.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "kosher-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fresh cod fillets (skin removed)",
+      "amount": "400 g (200 g each)"
+    },
+    {
+      "name": "russet potatoes",
+      "amount": "4 medium, cut into wedges"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh dill, chopped",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic clove, minced",
+      "amount": "1"
+    },
+    {
+      "name": "capers, rinsed",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 220 °C (425 °F). Toss potato wedges with 1 tbsp olive oil, smoked paprika, salt, and pepper, and spread them on a baking sheet. Roast 25‑30 min, flipping once, until golden and crisp.",
+    "Pat the cod fillets dry and season with salt and pepper. Set aside.",
+    "In a small saucepan, combine almond milk, lemon zest, lemon juice, Dijon mustard, capers, and minced garlic. Warm gently over low heat, whisking until the mixture is smooth and slightly thickened. Remove from heat.",
+    "Heat a grill pan or outdoor grill over medium‑high heat and brush with a little olive oil. Grill the cod fillets 3‑4 min per side until the flesh is opaque and the edges are lightly charred. Keep warm.",
+    "Serve each cod fillet over a bed of crisp fries, drizzle with the velvety sauce, and sprinkle with chopped dill. Garnish with a few toasted sesame seeds if desired.",
+    "Add a lemon wedge on the side for an extra burst of brightness. Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "kosher-friendly",
+    "grilled",
+    "seafood",
+    "bitter",
+    "velvety",
+    "date-night",
+    "norwegian"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 52,
+    "carbs": 45,
+    "fat": 17
+  },
+  "slug": "velvety-bitter-norwegian-cod-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-bitter-norwegian-cod-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:25:33Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "grill",
+    "primaryIngredient": "fries",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Cod",
+    "descriptor": "Velvety Bitter",
+    "dishForm": "Grill"
+  }
+}
