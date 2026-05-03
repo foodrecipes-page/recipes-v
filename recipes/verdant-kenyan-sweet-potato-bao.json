@@ -1,0 +1,104 @@
+{
+  "title": "Verdant Kenyan Sweet Potato Bao",
+  "description": "A quick, grassy bao filled with sweet, molten sweet potato and fragrant palm sugar, wrapped in laminated puff pastry for a flexitarian twist.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian",
+    "flexitarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sweet potato",
+      "amount": "300g"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "50g"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "100ml"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "2 stalks",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "puff pastry sheets",
+      "amount": "4 sheets"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 tsp"
+    }
+  ],
+  "instructions": [
+    "Dice the sweet potato into 1/2 inch cubes and sauté them in a skillet with sesame oil until they are caramelized and soft.",
+    "Add palm sugar, coconut milk, grated ginger, turmeric, soy sauce, salt, and pepper to the skillet and simmer until the mixture is thick and glossy, then remove from heat and let cool slightly.",
+    "Roll out each puff pastry sheet into a 4 inch square, place a spoonful of the sweet potato filling onto the center, and fold the corners into an envelope shape.",
+    "Seal the edges with a fork and bake at 200°C for 12 minutes, or until the pastry is puffed and golden.",
+    "Remove the bao from the oven and allow them to rest for 5 minutes before serving.",
+    "Scatter sliced scallions on top for a fresh, grassy finish.",
+    "Serve warm for a quick, satisfying lunch or snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "flexitarian",
+    "grassy",
+    "kenyan",
+    "puff-roux",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 5,
+    "carbs": 70,
+    "fat": 10
+  },
+  "slug": "verdant-kenyan-sweet-potato-bao",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/verdant-kenyan-sweet-potato-bao",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:31:58Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "molten",
+    "mood": "quick-fix",
+    "technique": "lamination-puff",
+    "primaryIngredient": "palm sugar",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "sweet potato",
+    "descriptor": "Verdant",
+    "dishForm": "Bao"
+  }
+}
