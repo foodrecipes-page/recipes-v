@@ -1,0 +1,114 @@
+{
+  "title": "Velvety Fermented Japanese Yellow Pepper Soup",
+  "description": "A low‑sodium, velvety Japanese soup that combines roasted yellow peppers with fermented miso and kombu for deep umami, perfect for a solo dinner.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-sodium",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yellow bell pepper",
+      "amount": "2 medium",
+      "notes": "roasted, peeled, seeded"
+    },
+    {
+      "name": "Dried shiitake mushrooms",
+      "amount": "4 pieces",
+      "notes": "reconstituted in warm water for 20 min"
+    },
+    {
+      "name": "Kombu (dried kelp)",
+      "amount": "1 small piece",
+      "notes": "2 cm long, soaked in water"
+    },
+    {
+      "name": "Low-sodium white miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Low-sodium vegetable stock",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "3 cups"
+    },
+    {
+      "name": "Low-sodium soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "2",
+      "notes": "sliced for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C). Halve the yellow bell peppers, remove seeds, and place cut-side down on a baking sheet.",
+    "Roast the peppers for 20 minutes until skins darken and flesh softens. Transfer to a bowl, cover, and let steam for 10 minutes to loosen skins.",
+    "Meanwhile, soak the kombu and shiitake mushrooms in 1 cup of warm water for 20 minutes. Drain the kombu, remove, and set aside.",
+    "In a saucepan, combine the water, vegetable stock, reconstituted shiitake, kombu, and miso paste. Simmer gently for 10 minutes, stirring occasionally to dissolve the miso.",
+    "Add the roasted pepper flesh, ginger, garlic, and soy sauce to the broth. Continue simmering for 10 minutes to meld flavors.",
+    "Remove the kombu from the pot, as it can impart bitterness if left too long. Adjust seasoning with a pinch of salt if needed.",
+    "Stir in sesame oil and rice vinegar. Let the soup finish cooking for a final 3 minutes.",
+    "Serve hot, garnished with sliced green onions. For extra velvety texture, briefly pulse the soup in a blender before serving.",
+    "Enjoy your low-sodium, fermented Japanese yellow pepper soup as a comforting solo dinner."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "fermented",
+    "low-sodium",
+    "vegetarian",
+    "dinner",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 4,
+    "carbs": 18,
+    "fat": 17
+  },
+  "slug": "velvety-fermented-japanese-yellow-pepper-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-fermented-japanese-yellow-pepper-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:27:11Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "velvety",
+    "mood": "solo-dinner",
+    "technique": "ferment",
+    "primaryIngredient": "yellow pepper",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "yellow pepper",
+    "descriptor": "Velvety Fermented",
+    "dishForm": "Soup"
+  }
+}
