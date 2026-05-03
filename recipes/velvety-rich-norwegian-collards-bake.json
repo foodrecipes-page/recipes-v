@@ -9,22 +9,22 @@
   "ingredients": [
     {
       "name": "Collard greens",
-      "amount": "1 large bunch (≈800 g)",
+      "amount": "1 large bunch (\u2248800\u202fg)",
       "notes": "washed, stems removed, chopped"
     },
     {
       "name": "Smoked salmon",
-      "amount": "200 g",
+      "amount": "200\u202fg",
       "notes": "sliced into thin strips"
     },
     {
       "name": "Heavy cream",
-      "amount": "100 ml",
+      "amount": "100\u202fml",
       "notes": "for sauce"
     },
     {
-      "name": "Gruyère cheese",
-      "amount": "100 g",
+      "name": "Gruy\u00e8re cheese",
+      "amount": "100\u202fg",
       "notes": "grated"
     },
     {
@@ -39,34 +39,34 @@
     },
     {
       "name": "Chicken broth",
-      "amount": "150 ml",
+      "amount": "150\u202fml",
       "notes": "low-sodium"
     },
     {
       "name": "Fresh dill",
-      "amount": "1 tbsp",
+      "amount": "1\u202ftbsp",
       "notes": "chopped"
     },
     {
       "name": "Lemon zest",
-      "amount": "1 tsp",
+      "amount": "1\u202ftsp",
       "notes": "grated"
     },
     {
       "name": "Unsalted butter",
-      "amount": "1 tbsp",
+      "amount": "1\u202ftbsp",
       "notes": "melted"
     }
   ],
   "instructions": [
-    "Preheat oven to 375°F (190 °C).",
-    "Heat a large skillet over medium heat and melt the butter. Add the diced onion and minced garlic; sauté until translucent, about 2‑3 minutes. Add the chopped collard greens and cook until just wilted, about 2 minutes. Transfer the greens to a greased 9×13‑inch baking dish.",
+    "Preheat oven to 375\u00b0F (190\u202f\u00b0C).",
+    "Heat a large skillet over medium heat and melt the butter. Add the diced onion and minced garlic; saut\u00e9 until translucent, about 2\u20113 minutes. Add the chopped collard greens and cook until just wilted, about 2 minutes. Transfer the greens to a greased 9\u00d713\u2011inch baking dish.",
     "Layer the sliced smoked salmon evenly over the collards.",
-    "In the same skillet, pour in the heavy cream and chicken broth, stirring to combine. Add lemon zest and chopped dill, and bring to a gentle simmer. Let the mixture thicken slightly, about 3 minutes, then pour it over the collards and salmon. Sprinkle the grated Gruyère cheese on top.",
-    "Bake uncovered for 20‑25 minutes, or until the cheese is golden brown and bubbly.",
+    "In the same skillet, pour in the heavy cream and chicken broth, stirring to combine. Add lemon zest and chopped dill, and bring to a gentle simmer. Let the mixture thicken slightly, about 3 minutes, then pour it over the collards and salmon. Sprinkle the grated Gruy\u00e8re cheese on top.",
+    "Bake uncovered for 20\u201125 minutes, or until the cheese is golden brown and bubbly.",
     "Remove from oven and let rest for 5 minutes before serving.",
     "Serve warm, garnished with extra dill if desired.",
-    "Enjoy a comforting, velvety Norwegian collards bake that’s both tasty and visually appealing."
+    "Enjoy a comforting, velvety Norwegian collards bake that\u2019s both tasty and visually appealing."
   ],
   "slug": "velvety-rich-norwegian-collards-bake",
   "source": "ocloud-gpt-oss:20b",
@@ -85,5 +85,20 @@
     "mainIngredient": "collards",
     "descriptor": "Velvety Rich",
     "dishForm": "Bake"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "norwegian",
+    "dinner"
+  ]
 }
