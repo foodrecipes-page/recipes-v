@@ -1,0 +1,95 @@
+{
+  "title": "Velvety Australian Cod Soup",
+  "description": "A silky, savory cod soup infused with Australian aromatics, finished with a swirl of coconut milk and lemon zest for a bright finish.",
+  "cuisine": "Australian",
+  "diet": [
+    "kosher",
+    "gluten-free",
+    "dairy-free",
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "400g",
+      "notes": "cut into 2cm cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "sliced carrot",
+      "amount": "1 large"
+    },
+    {
+      "name": "sliced celery",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fish stock",
+      "amount": "1.5L",
+      "notes": "kosher-certified"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "fresh lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "2 tbsp chopped"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat until shimmering.",
+    "Add the diced onion, carrot, and celery; sauté for 5 minutes until softened.",
+    "Stir in the minced garlic and cook for another 30 seconds until fragrant.",
+    "Add the tomato paste, coating the vegetables, and cook for 1 minute to deepen the flavor.",
+    "Pour in the fish stock, bring to a gentle boil, then reduce to a simmer for 10 minutes to allow the base to develop.",
+    "Gently fold in the cod cubes and simmer for 6-8 minutes, or until the fish is opaque and flakes easily.",
+    "Stir in the coconut milk and lemon zest, letting the soup heat through but not boil to preserve the silky texture.",
+    "Season with salt and pepper to taste.",
+    "Remove from heat, stir in the fresh dill, and let the soup rest for 2 minutes to meld the flavors.",
+    "Serve hot, optionally garnishing with an extra sprinkle of dill or a drizzle of coconut milk.",
+    ""
+  ],
+  "slug": "velvety-australian-cod-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-australian-cod-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:47:45Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "silky",
+    "mood": "show-off",
+    "technique": "simmer",
+    "primaryIngredient": "white fish",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "cod",
+    "descriptor": "velvety",
+    "dishForm": "Soup"
+  }
+}
