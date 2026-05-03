@@ -1,0 +1,114 @@
+{
+  "title": "Velvety Greek Yogurt Soup",
+  "description": "A fresh, cold, probiotic-packed soup that soothes hangovers with velvety yogurt, horseradish, and fermented tang.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "nut-free",
+    "dairy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Greek yogurt (plain, non-fat)",
+      "amount": "2 cups (480 g)",
+      "notes": "Use plain to keep it pure and creamy"
+    },
+    {
+      "name": "Low‑sodium vegetable broth, chilled",
+      "amount": "2 cups (480 ml)",
+      "notes": "Can be replaced with chicken broth for extra flavor"
+    },
+    {
+      "name": "Fresh cucumber, peeled, seeded, diced",
+      "amount": "1 cup (150 g)",
+      "notes": "Keep the skin on for extra nutrients"
+    },
+    {
+      "name": "Fresh dill, chopped",
+      "amount": "2 tbsp (10 g)",
+      "notes": "Adds a bright herbal note"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp (15 ml)",
+      "notes": "Freshly squeezed for best acidity"
+    },
+    {
+      "name": "Horseradish, grated",
+      "amount": "1 tsp (5 ml)",
+      "notes": "Fresh or prepared, adjust to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp (15 ml)",
+      "notes": "Extra‑virgin for best flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "½ tsp (2.5 g)",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "¼ tsp (1 g)",
+      "notes": "Freshly ground works best"
+    },
+    {
+      "name": "Fermented cucumber brine (from pickles)",
+      "amount": "1 tbsp (15 ml)",
+      "notes": "Optional – adds a probiotic kick"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk the Greek yogurt until smooth.",
+    "2. Gradually stir in the chilled vegetable broth, mixing until fully incorporated.",
+    "3. Fold in the diced cucumber, chopped dill, lemon juice, grated horseradish, and fermented brine if using.",
+    "4. Drizzle the olive oil over the mixture and season with salt and pepper.",
+    "5. Use a whisk or fork to combine all ingredients until the soup is velvety and well‑marinated.",
+    "6. Place the bowl in the refrigerator for at least 30 minutes to chill and allow flavors to meld.",
+    "7. Before serving, gently stir the soup again to ensure even distribution of herbs and horseradish.",
+    "8. Serve cold, garnished with a few extra dill sprigs or a light drizzle of olive oil if desired.",
+    "9. For an extra burst of freshness, add a splash of lemon juice or a pinch more horseradish.",
+    "10. Enjoy immediately as a revitalizing lunch or brunch."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "yogurt-soup",
+    "hangover-cure",
+    "mediterranean",
+    "fresh",
+    "cold",
+    "nut-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 166,
+    "protein": 11,
+    "carbs": 4,
+    "fat": 4
+  },
+  "slug": "velvety-greek-yogurt-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-greek-yogurt-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:55:36Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "velvety",
+    "mood": "hangover-cure",
+    "technique": "ferment",
+    "primaryIngredient": "horseradish",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "yogurt",
+    "descriptor": "Velvety",
+    "dishForm": "Soup"
+  }
+}

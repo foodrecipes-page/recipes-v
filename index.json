@@ -1237,6 +1237,23 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-greek-yogurt-soup",
+    "title": "Velvety Greek Yogurt Soup",
+    "tags": [
+      "greek",
+      "yogurt-soup",
+      "hangover-cure",
+      "mediterranean",
+      "fresh",
+      "cold",
+      "nut-free",
+      "vegetarian"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 10,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-herbal-collards-stir-fry",
     "title": "Velvety Herbal Collards Stir-fry",
     "tags": [
