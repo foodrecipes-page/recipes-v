@@ -1,0 +1,94 @@
+{
+  "title": "Velvety Italian Garlic Risotto",
+  "description": "A garlicky, velvety risotto with poppy seeds and caramelized onions that's keto-friendly and perfect for brunch.",
+  "cuisine": "italian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "arborio rice",
+      "amount": "1 1/2 cups",
+      "notes": "rinse thoroughly"
+    },
+    {
+      "name": "uncooked garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "caramelized onions",
+      "amount": "1 cup",
+      "notes": "coarsely chopped"
+    },
+    {
+      "name": "poppy seeds",
+      "amount": "1 tbsp",
+      "notes": "for garnish"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/8 tsp",
+      "notes": "for subtle sweetness"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "simmered"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, melt butter over medium heat until foamy.",
+    "Add minced garlic and sauté for 1 minute until fragrant.",
+    "Add 1/2 cup water, stir until rice is coated, then add 1/4 cup water and repeat 3 times.",
+    "Add 1 cup caramelized onions and 1/8 tsp cinnamon, mix well.",
+    "Simmer on low heat for 18-20 minutes until rice is tender and creamy.",
+    "Remove from heat, stir in 1 tbsp poppy seeds for garnish.",
+    "Serve hot with a drizzle of melted butter."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "keto",
+    "brunch",
+    "risotto",
+    "garlic",
+    "caramelized",
+    "poppy-seeds"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "velvety-italian-garlic-risotto",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-italian-garlic-risotto",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T07:05:42Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "velvety",
+    "mood": "brunch-mood",
+    "technique": "caramelize",
+    "primaryIngredient": "poppy seeds",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "garlic",
+    "descriptor": "velvety",
+    "dishForm": "Risotto"
+  }
+}
