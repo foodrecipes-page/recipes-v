@@ -1,0 +1,110 @@
+{
+  "title": "Velvety Bitter Uruguayan Cream Bisque",
+  "description": "A silky bisque that showcases Uruguay’s love of bitter yerba mate over a smooth single‑cream base, tempered with aromatic spices for a show‑off splash of flavor.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1% single cream",
+      "amount": "1 L",
+      "notes": "creamy but low‑fat for a velvety texture"
+    },
+    {
+      "name": "Vegetable stock",
+      "amount": "250 ml",
+      "notes": "Jain‑friendly, homemade or store‑bought"
+    },
+    {
+      "name": "Yerba mate infusion",
+      "amount": "200 ml",
+      "notes": "strongly brewed, then strained"
+    },
+    {
+      "name": "Roasted tomato puree",
+      "amount": "150 g",
+      "notes": "adds depth without onion"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": "for thickness and umami"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tbsp",
+      "notes": "for tempering spices"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp",
+      "notes": "to be tempered"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp",
+      "notes": "to be tempered"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp",
+      "notes": "brightens the bisque"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Brew the yerba mate: steep 2 tsp of dried leaves in 200 ml of hot water, let steep 5 min, then strain.",
+    "Heat the vegetable stock in a saucepan until it reaches 80 °C, then lower the heat.",
+    "In a small pan, warm the sesame oil over low heat and add cumin and coriander; toast until fragrant (about 30 s), then remove from heat.",
+    "Blend the roasted tomato puree with tomato paste until smooth, then stir it into the warm stock.",
+    "Add the tempered spice mixture to the stock and bring to a gentle simmer for 5 minutes to marry flavors.",
+    "Slowly pour in the single‑cream, whisking continuously to prevent curdling; let the bisque come to a low simmer, stirring constantly, for 10 minutes.",
+    "Incorporate the yerba mate infusion and lemon juice; simmer the bisque another 5 minutes, keeping temperature below 95 °C.",
+    "Season with sea salt; adjust seasoning as needed. Serve hot, optionally garnished with a swirl of single‑cream or a sprinkle of fresh herbs.",
+    "Optional: finish with a drizzle of extra virgin olive oil for added sheen."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "creamy",
+    "bitter",
+    "jain-friendly",
+    "bisque",
+    "single-cream",
+    "temper"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "velvety-bitter-uruguayan-cream-bisque",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-bitter-uruguayan-cream-bisque",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T16:54:32Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "velvety",
+    "mood": "show-off",
+    "technique": "temper",
+    "primaryIngredient": "single cream",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Cream",
+    "descriptor": "Velvety Bitter",
+    "dishForm": "Bisque"
+  }
+}
