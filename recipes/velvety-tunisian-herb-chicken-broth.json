@@ -1,0 +1,112 @@
+{
+  "title": "Velvety Tunisian Herb Chicken Broth",
+  "description": "A fragrant low-carb soup with tender chicken, aromatic herbs, and silky texture from sous-vide cooking and gelatin leaves.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "skinless boneless chicken thighs",
+      "amount": "500g"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1500ml"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "30g"
+    },
+    {
+      "name": "fresh coriander",
+      "amount": "30g"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "15g"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "gelatin leaves",
+      "amount": "2"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide bath to 65°C (149°F).",
+    "Season the chicken thighs with salt, pepper, turmeric, and paprika.",
+    "Seal the chicken with minced garlic and diced onion in a vacuum bag.",
+    "Place the bag in the sous-vide bath and cook for 2 hours.",
+    "Heat a saucepan over medium, add olive oil, and sauté parsley, coriander, and mint until fragrant.",
+    "Add the sautéed herbs to the chicken broth and bring to a gentle simmer.",
+    "Remove the chicken from the bag, shred it, and return it to the pot.",
+    "Soak gelatin leaves in cold water for 10 minutes, crush them into flakes, and stir into the broth.",
+    "Simmer the soup for an additional 10 minutes to melt the gelatin fully.",
+    "Serve hot, garnished with fresh herbs, and enjoy a velvety, low-carb delight."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 130,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "gelatin",
+    "herb-rich",
+    "low-carb",
+    "sous-vide",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "velvety-tunisian-herb-chicken-broth",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-tunisian-herb-chicken-broth",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:10:28Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "fluffy",
+    "mood": "midnight-craving",
+    "technique": "sous-vide",
+    "primaryIngredient": "gelatine leafs",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "chicken",
+    "descriptor": "Velvety",
+    "dishForm": "Broth"
+  }
+}
