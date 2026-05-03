@@ -1,0 +1,101 @@
+{
+  "title": "Velvety Smoky French Cod Stew",
+  "description": "A midnight‑craving, pescatarian-friendly French stew that marries tender cod with smoky paprika and a velvety tomato broth.",
+  "cuisine": "French",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets, skinless",
+      "amount": "800 g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Onion, finely diced",
+      "amount": "1 medium (200 g)"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "Fish stock",
+      "amount": "500 ml"
+    },
+    {
+      "name": "Crushed tomatoes",
+      "amount": "200 g"
+    },
+    {
+      "name": "Fresh thyme sprigs",
+      "amount": "2"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Pat cod fillets dry and season lightly with salt and pepper.",
+    "Heat 1 tbsp olive oil in a large pot over medium heat. Add cod and sear 2–3 min each side until just browned; remove and set aside.",
+    "In the same pot, add the remaining oil, onion, and garlic; sauté until the onion becomes translucent (~5 min).",
+    "Stir in smoked paprika and cook 1 min to toast the spices.",
+    "Add crushed tomatoes and fish stock, bring to a gentle simmer; add thyme sprigs.",
+    "Return the cod to the pot, cover, and simmer for 8 min until the fish flakes easily (internal temp 63 °C).",
+    "Remove the thyme sprigs and adjust seasoning with salt and pepper to taste.",
+    "Serve hot, optionally with a squeeze of lemon.",
+    ""
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pescatarian",
+    "gluten-free",
+    "smoky",
+    "creamy",
+    "cod",
+    "french",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 860,
+    "protein": 100,
+    "carbs": 21,
+    "fat": 38
+  },
+  "slug": "velvety-smoky-french-cod-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-smoky-french-cod-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:43:53Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "steam",
+    "primaryIngredient": "paprika",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Cod",
+    "descriptor": "Velvety Smoky",
+    "dishForm": "Stew"
+  }
+}
