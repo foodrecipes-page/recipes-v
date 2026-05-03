@@ -1,0 +1,104 @@
+{
+  "title": "Velvety Caramelized Japanese Marsbar Bowl",
+  "description": "A velvety, savory bowl that blends caramelized Mars bar sweetness with miso‑infused rice, silken tofu, and edamame, perfect for a post‑workout pick‑me‑up.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cooked short‑grain rice",
+      "amount": "150 g"
+    },
+    {
+      "name": "Silken tofu",
+      "amount": "100 g"
+    },
+    {
+      "name": "Edamame (cooked)",
+      "amount": "50 g"
+    },
+    {
+      "name": "White miso paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Mirin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh ginger (grated)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Mars bar",
+      "amount": "1 bar (≈80 g)"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Scallions (chopped)",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the short‑grain rice and cook it in a rice cooker or by steaming; let it cool.",
+    "Press the silken tofu to remove excess liquid, then mash it lightly with a fork.",
+    "Heat a non‑stick pan over medium heat and add the Mars bar; break it into pieces and stir until it caramelizes and turns a deep amber, about 2–3 minutes.",
+    "In a small bowl whisk together miso paste, soy sauce, sesame oil, mirin, rice vinegar, and grated ginger until smooth.",
+    "In a serving bowl arrange the cooled rice, mashed tofu, and cooked edamame.",
+    "Drizzle the miso‑soy sauce mixture evenly over the bowl.",
+    "Top with the caramelized Mars bar pieces, then sprinkle sesame seeds and chopped scallions.",
+    "Serve immediately for the best texture and flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "post-workout",
+    "raw-friendly",
+    "japanese",
+    "savory",
+    "dessert",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 877,
+    "protein": 24,
+    "carbs": 117,
+    "fat": 34
+  },
+  "slug": "velvety-caramelized-japanese-marsbar-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-caramelized-japanese-marsbar-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:16:35Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "velvety",
+    "mood": "post-workout",
+    "technique": "caramelize",
+    "primaryIngredient": "mars bar",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Marsbar",
+    "descriptor": "Velvety Caramelized",
+    "dishForm": "Bowl"
+  }
+}
