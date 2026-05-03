@@ -2311,6 +2311,21 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-turkish-beef-stir-fry",
+    "title": "Velvety Turkish Beef Stir-fry",
+    "tags": [
+      "keto-friendly",
+      "beef",
+      "stir-fry",
+      "turkish",
+      "spicy",
+      "velvety"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 25,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-turkish-mozzarella-bruschetta",
     "title": "Velvety Turkish Mozzarella Bruschetta",
     "tags": [

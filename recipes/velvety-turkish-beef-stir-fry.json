@@ -1,0 +1,113 @@
+{
+  "title": "Velvety Turkish Beef Stir-fry",
+  "description": "A spicy, velvety stir-fry featuring tender beef in a rich Turkish-inspired sauce, perfect for a keto-friendly dinner.",
+  "cuisine": "Turkish",
+  "diet": [
+    "keto-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef sirloin",
+      "amount": "400g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Turkish paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground sumac",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "beef stock",
+      "amount": "250ml",
+      "notes": "hot"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped, optional garnish"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium‑high heat.",
+    "Add the sliced beef, season with salt and pepper to taste, and sear until browned on all sides; remove from skillet and set aside.",
+    "In the same skillet, add the sliced onion and bell pepper; cook until softened, about 4 minutes.",
+    "Add the minced garlic and cook for an additional 30 seconds until fragrant.",
+    "Stir in the tomato paste, Turkish paprika, cumin, and sumac; cook for 1 minute to bloom the spices.",
+    "Return the beef to the skillet, pour in the hot beef stock, and bring the mixture to a gentle simmer.",
+    "Cover and reduce the heat to medium‑low; simmer for 5 minutes until the sauce thickens and the flavors meld.",
+    "Stir in the butter, adjust seasoning with salt and pepper if needed, and remove from heat.",
+    "Serve hot, garnished with chopped parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "keto-friendly",
+    "beef",
+    "stir-fry",
+    "turkish",
+    "spicy",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 32,
+    "carbs": 8,
+    "fat": 27
+  },
+  "slug": "velvety-turkish-beef-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-turkish-beef-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:38:06Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "velvety",
+    "mood": "indulgent",
+    "technique": "stir-fry",
+    "primaryIngredient": "hot beef stock",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "beef",
+    "descriptor": "Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
