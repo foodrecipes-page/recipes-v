@@ -2761,6 +2761,20 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-smoky-croatian-cod-stew",
+    "title": "Velvety Smoky Croatian Cod Stew",
+    "tags": [
+      "cod",
+      "lazy-sunday",
+      "mediterranean",
+      "one-pot",
+      "smoky"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 50,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-smoky-french-cod-stew",
     "title": "Velvety Smoky French Cod Stew",
     "tags": [

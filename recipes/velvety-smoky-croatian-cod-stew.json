@@ -1,0 +1,104 @@
+{
+  "title": "Velvety Smoky Croatian Cod Stew",
+  "description": "A slow‑cooked, smoky cod stew infused with fermented kimchi and aromatic herbs, perfect for a lazy Sunday dinner.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "800g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "200ml"
+    },
+    {
+      "name": "fish stock",
+      "amount": "400ml"
+    },
+    {
+      "name": "chopped fermented kimchi",
+      "amount": "100g"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a cataplana over medium heat.",
+    "Add diced onion and minced garlic, sauté until translucent.",
+    "Stir in smoked paprika and tomato paste, cooking for 1 minute.",
+    "Deglaze with white wine, allowing the alcohol to evaporate.",
+    "Pour in fish stock and bring to a gentle simmer.",
+    "Add chopped kimchi and simmer for 3 minutes to warm through.",
+    "Place cod fillets into the pot, cover, and simmer for 10 minutes until cooked.",
+    "Sprinkle fresh cilantro, adjust seasoning, and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cod",
+    "lazy-sunday",
+    "mediterranean",
+    "one-pot",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 20
+  },
+  "slug": "velvety-smoky-croatian-cod-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-smoky-croatian-cod-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:25:36Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "molten",
+    "mood": "lazy-sunday",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "cod",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "cod",
+    "descriptor": "Velvety Smoky",
+    "dishForm": "Stew"
+  }
+}
