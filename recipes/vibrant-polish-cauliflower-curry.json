@@ -1,0 +1,108 @@
+{
+  "title": "Vibrant Polish Cauliflower Curry",
+  "description": "A herbal, juicy, adventurous Polish dish featuring cauliflower, tadka, and macrobiotic-friendly ingredients cooked in a terracotta dish.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegan",
+    "macrobiotic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cauliflower florets",
+      "amount": "400g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tbsp, grated"
+    },
+    {
+      "name": "Tomato puree",
+      "amount": "200g"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "2 tbsp, chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Place the terracotta dish on medium heat and warm it gradually to avoid cracking.",
+    "Add olive oil to the dish and swirl to coat the base evenly.",
+    "Toss in diced onion and sauté until translucent and fragrant, about 3 minutes.",
+    "Stir in minced garlic and grated ginger, and cook until aromatic, about 30 seconds.",
+    "Add cauliflower florets and stir to brown lightly, about 5 minutes.",
+    "Pour in tomato puree and coconut milk, then stir in ground cumin, coriander, and turmeric.",
+    "Cover the dish, reduce heat to low, and simmer gently for 20 minutes, stirring occasionally until cauliflower is tender.",
+    "Uncover, season with salt to taste, and stir in fresh cilantro and lemon juice.",
+    "Remove from heat, let rest for 5 minutes, then serve hot directly from the terracotta dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cauliflower-curry",
+    "herbal",
+    "macrobiotic",
+    "one-pot",
+    "terracotta",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 225,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 19
+  },
+  "slug": "vibrant-polish-cauliflower-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-polish-cauliflower-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:24:11Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "tadka",
+    "primaryIngredient": "cauliflower",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Cauliflower",
+    "descriptor": "Vibrant",
+    "dishForm": "Curry"
+  }
+}
