@@ -1620,6 +1620,22 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-german-beef-stew",
+    "title": "Velvety German Beef Stew",
+    "tags": [
+      "beef",
+      "german",
+      "hangover-cure",
+      "hearty",
+      "slow-cook",
+      "smoky",
+      "stew"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 140,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-ginger-german-cabbage-gratin",
     "title": "Velvety Ginger German Cabbage Gratin",
     "tags": [
@@ -3962,6 +3978,20 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 20,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-malted-egyptian-flour-dumplings",
+    "title": "Vibrant Malted Egyptian Flour Dumplings",
+    "tags": [
+      "comfort-food",
+      "egyptian-dumplings",
+      "malt-flavor",
+      "quick-assembly",
+      "snack"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {

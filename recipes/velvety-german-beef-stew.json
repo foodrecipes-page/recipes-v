@@ -1,0 +1,112 @@
+{
+  "title": "Velvety German Beef Stew",
+  "description": "A malty, smoky German stew that soothes hangovers with hearty beef, beer, and a touch of jerk-inspired warmth.",
+  "cuisine": "German",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef chuck",
+      "amount": "1500 g"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tbsp",
+      "notes": "for smoky flavor"
+    },
+    {
+      "name": "dark lager",
+      "amount": "300 ml",
+      "notes": "for malty depth"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "potato",
+      "amount": "300 g"
+    },
+    {
+      "name": "beef broth",
+      "amount": "500 ml"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "for malty sweetness"
+    }
+  ],
+  "instructions": [
+    "Season the beef cubes with salt, pepper, smoked paprika, cumin, coriander, fennel seeds, and smoked salt, then toss to coat evenly.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat and brown the beef in batches, removing them to a plate as they brown.",
+    "In the same pot, add the diced onion and minced garlic and sauté until the onion becomes translucent.",
+    "Pour in the dark lager and use a wooden spoon to scrape up all the browned bits from the bottom of the pot.",
+    "Return the beef to the pot along with the sliced carrots, celery, thyme, and a pinch of smoked paprika, then stir to combine.",
+    "Add the diced potatoes, beef broth, and Worcestershire sauce, then bring the mixture to a gentle simmer.",
+    "Cover the pot, reduce the heat to low, and let the stew cook for 90 minutes, stirring occasionally.",
+    "Halfway through the simmer, drizzle honey to enhance the malty sweetness and stir thoroughly.",
+    "After the total cooking time, taste and adjust seasoning with additional smoked paprika, salt, and pepper if needed.",
+    "Serve the velvety beef stew hot, optionally garnished with fresh thyme and a sprinkle of smoked salt."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "german",
+    "hangover-cure",
+    "hearty",
+    "slow-cook",
+    "smoky",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 9,
+    "fat": 55
+  },
+  "slug": "velvety-german-beef-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-german-beef-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:01:22Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "juicy",
+    "mood": "hangover-cure",
+    "technique": "smoke",
+    "primaryIngredient": "jerk",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "beef",
+    "descriptor": "Velvety",
+    "dishForm": "Stew"
+  }
+}

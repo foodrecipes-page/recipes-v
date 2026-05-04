@@ -1,0 +1,99 @@
+{
+  "title": "Vibrant Malted Egyptian Flour Dumplings",
+  "description": "Malty, crumbly dumplings perfect for a sick day, made with simple flour and a touch of honey for comfort.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "white flour",
+      "amount": "1 cup",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "malted barley flour",
+      "amount": "1/4 cup",
+      "notes": "for malty flavor"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "large"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "whole or dairy-free"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "malt syrup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "softened"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for coating"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, whisk together white flour, malted barley flour, baking powder, and salt.",
+    "In another bowl, beat egg, milk, honey, and softened butter until smooth.",
+    "Pour the wet mixture into the dry ingredients and stir until just combined; the dough will be sticky.",
+    "Turn the dough onto a floured surface and fold it over itself 3 times, then shape into 12 small dumplings.",
+    "Place dumplings onto a parchment-lined baking sheet and brush each with a little olive oil.",
+    "Bake for 12-15 minutes until golden brown and firm.",
+    "Let cool for 5 minutes before serving in a lacquerware bowl.",
+    "Serve warm with a drizzle of honey or a sprinkle of fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "egyptian-dumplings",
+    "malt-flavor",
+    "quick-assembly",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 9
+  },
+  "slug": "vibrant-malted-egyptian-flour-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-malted-egyptian-flour-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:01:51Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "dum",
+    "primaryIngredient": "white flour",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Flour",
+    "descriptor": "Vibrant Malted",
+    "dishForm": "Dumplings"
+  }
+}
