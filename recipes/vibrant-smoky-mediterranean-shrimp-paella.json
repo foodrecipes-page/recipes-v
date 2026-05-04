@@ -1,0 +1,104 @@
+{
+  "title": "Vibrant Smoky Mediterranean Shrimp Paella",
+  "description": "A smoky and tender Mediterranean dish featuring shrimp stock, en-croute, and keto-friendly ingredients, perfect for a hangover cure.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "large, peeled, and deveined"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "shrimp stock",
+      "amount": "1 cup"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 degrees Fahrenheit.",
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add onion and garlic and cook until the onion is translucent.",
+    "Add smoked paprika and cook for 1 minute.",
+    "Add shrimp and cook until they are pink and fully cooked.",
+    "In a separate bowl, whisk together chicken broth, shrimp stock, saffron threads, salt, and pepper.",
+    "Pour the broth mixture over the shrimp and onion mixture.",
+    "Transfer the skillet to the preheated oven and bake for 15 minutes.",
+    "Remove from oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto-friendly",
+    "low-carb",
+    "mediterranean-cuisine",
+    "one-pan",
+    "seafood",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "vibrant-smoky-mediterranean-shrimp-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-smoky-mediterranean-shrimp-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:54:22Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "tender",
+    "mood": "hangover-cure",
+    "technique": "en-croute",
+    "primaryIngredient": "shrimp stock",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "shrimp",
+    "descriptor": "Vibrant Smoky",
+    "dishForm": "Paella"
+  }
+}
