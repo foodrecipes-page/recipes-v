@@ -1,0 +1,102 @@
+{
+  "title": "Vibrant Roasted Uruguayan Kielbasa Wrap",
+  "description": "A tangy and light Uruguayan dish featuring kielbasa, perfect for a brunch mood, wrapped in a low-carb corn husk wrap.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Uruguayan kielbasa",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "corn husks",
+      "amount": "4 large",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the sliced onion and diced red bell pepper with 1 tablespoon of olive oil, salt, and black pepper until they are evenly coated.",
+    "Spread the onion and bell pepper mixture on a baking sheet and roast in the oven for 20 minutes, or until they are tender and lightly browned.",
+    "While the vegetables are roasting, slice the Uruguayan kielbasa into 1/2 inch thick rounds.",
+    "In a large skillet, heat the remaining 1 tablespoon of olive oil over medium-high heat and cook the kielbasa slices for 2-3 minutes per side, or until they are browned and crispy.",
+    "Warm the corn husks by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by spreading a tablespoon of chimichurri sauce on each corn husk, followed by a few slices of the roasted kielbasa, some of the roasted onion and bell pepper, and a sprinkle of minced garlic.",
+    "Serve the wraps immediately and enjoy.",
+    "Garnish with additional chimichurri sauce and roasted vegetables, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "corn-husk-wraps",
+    "gluten-free",
+    "kielbasa-recipes",
+    "low-carb",
+    "uruguayan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "vibrant-roasted-uruguayan-kielbasa-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-roasted-uruguayan-kielbasa-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:25:27Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "light",
+    "mood": "brunch-mood",
+    "technique": "roast",
+    "primaryIngredient": "kielbasa",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "kielbasa",
+    "descriptor": "vibrant roasted",
+    "dishForm": "Wrap"
+  }
+}
