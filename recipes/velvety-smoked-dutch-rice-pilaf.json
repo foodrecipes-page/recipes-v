@@ -1,0 +1,97 @@
+{
+  "title": "Velvety Smoked Dutch Rice Pilaf",
+  "description": "This Dutch-inspired pilaf combines tender rice with smoky flavors and anti-inflammatory spices, finished with a rich wine reduction.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "short-grain rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "2 cups"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 piece"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the binchotan charcoal in a large Dutch oven over medium heat, stirring occasionally, until it reaches a smoky temperature.",
+    "Add the garlic and ginger to the pot and cook for 2-3 minutes, stirring occasionally, until fragrant.",
+    "Add the rice to the pot and cook for 1-2 minutes, stirring occasionally, until it is lightly toasted.",
+    "Add the chicken broth, white wine, apple cider vinegar, turmeric, cumin, salt, and black pepper to the pot. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 18-20 minutes, or until the liquid is absorbed and the rice is tender.",
+    "Fluff the pilaf with a fork and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "dutch",
+    "one-pan",
+    "smoked",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "velvety-smoked-dutch-rice-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-smoked-dutch-rice-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T01:08:54Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "velvety",
+    "mood": "adventurous",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "rice wine",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Rice",
+    "descriptor": "Velvety Smoked",
+    "dishForm": "Pilaf"
+  }
+}
