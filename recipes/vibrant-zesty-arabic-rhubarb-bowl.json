@@ -1,0 +1,106 @@
+{
+  "title": "Vibrant Zesty Arabic Rhubarb Bowl",
+  "description": "A peppery, aerated rhubarb bowl packed with Middle Eastern flavors, perfect for a plant‑based bento lunch.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "forced rhubarb",
+      "amount": "200g"
+    },
+    {
+      "name": "roasted chickpeas",
+      "amount": "80g"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "6, halved"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1 tbsp, chopped"
+    },
+    {
+      "name": "tahini",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "date syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200, roast 80g chickpeas on a sheet for 10 minutes, then let them cool to room temperature.",
+    "Slice the forced rhubarb into thin strips and place them in a bowl.",
+    "Add diced cucumber, halved cherry tomatoes, and chopped mint to the bowl with rhubarb.",
+    "Whisk tahini, date syrup, lemon zest, sumac, lemon juice, salt, and pepper until smooth.",
+    "Pour the tahini dressing over the vegetable mixture and toss gently to combine.",
+    "Divide the mixture into two compartments of a bento box, placing the chickpeas in the bottom layer.",
+    "Top the chickpeas with the rhubarb and vegetable mixture, pressing lightly to keep it aerated.",
+    "Garnish the bowl with a sprinkle of sumac and a few mint leaves for extra aroma.",
+    "Serve immediately or refrigerate for up to 2 hours before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "bento",
+    "mediterranean",
+    "peppery",
+    "plant-based",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 17,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "vibrant-zesty-arabic-rhubarb-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-zesty-arabic-rhubarb-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:43:23Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "aerated",
+    "mood": "energizing",
+    "technique": "rest",
+    "primaryIngredient": "forced-rhubarb",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Arabic",
+    "mainIngredient": "rhubarb",
+    "descriptor": "Vibrant Zesty",
+    "dishForm": "Bowl"
+  }
+}
