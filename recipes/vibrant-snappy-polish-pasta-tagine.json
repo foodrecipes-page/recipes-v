@@ -1,0 +1,106 @@
+{
+  "title": "Vibrant Snappy Polish Pasta Tagine",
+  "description": "A kid-friendly Polish dish featuring sweet chilli sauce and pasta water emulsion, cooked in a tagine pot and suitable for an ayurvedic sattvic diet.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "any shape, preferably short"
+    },
+    {
+      "name": "sweet chilli sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "pasta water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the tagine pot over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the chopped carrots and zucchini and cook until they are tender.",
+    "Add the sweet chilli sauce and stir to combine.",
+    "Add the pasta to the tagine pot and stir to combine with the sauce and vegetables.",
+    "Add the pasta water to the tagine pot and bring to a simmer.",
+    "Reduce the heat to low and let it cook for 10 minutes or until the pasta is al dente.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kid-friendly",
+    "one-pot",
+    "polish",
+    "sattvic",
+    "tagine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "vibrant-snappy-polish-pasta-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-snappy-polish-pasta-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:53:09Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "snappy",
+    "mood": "kid-friendly",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "sweet chilli sauce",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "pasta",
+    "descriptor": "vibrant snappy",
+    "dishForm": "Pasta"
+  }
+}
