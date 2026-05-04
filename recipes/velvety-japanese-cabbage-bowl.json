@@ -1,0 +1,105 @@
+{
+  "title": "Velvety Japanese Cabbage Bowl",
+  "description": "A citrusy, aerated, indulgent bowl featuring hepsi sweetheart cabbage in a fluffy egg custard, reminiscent of oyakodon.",
+  "cuisine": "japanese",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "hepsi sweetheart cabbage",
+      "amount": "300g"
+    },
+    {
+      "name": "medium onion, sliced",
+      "amount": "150g"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sake",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh ginger, grated",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh garlic, minced",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "water or dashi stock",
+      "amount": "200ml"
+    }
+  ],
+  "instructions": [
+    "In a bowl, beat the eggs with a pinch of salt.",
+    "Whisk soy sauce, mirin, sake, sugar, ginger, and garlic in a small saucepan until the sugar dissolves.",
+    "Add water to the saucepan and bring to a gentle simmer, then pour the hot mixture over the beaten eggs, stirring gently until the eggs start to set.",
+    "In a separate pan, heat sesame oil over medium heat and add the sliced onion, cooking until translucent.",
+    "Add the cabbage to the pan, stir, and cook until it wilts slightly, about 3 minutes.",
+    "Pour the egg mixture over the cabbage and onions, cover, and let steam until the eggs fully set, about 2 minutes.",
+    "Transfer the cooked mixture to serving bowls, sprinkle with toasted sesame seeds, and drizzle with a squeeze of fresh lemon juice for a citrusy finish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "cabbage",
+    "citrusy",
+    "comfort-food",
+    "indulgent",
+    "one-pan",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 445,
+    "protein": 20,
+    "carbs": 46,
+    "fat": 20
+  },
+  "slug": "velvety-japanese-cabbage-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-japanese-cabbage-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:08:22Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "aerated",
+    "mood": "indulgent",
+    "technique": "temper",
+    "primaryIngredient": "hispi sweetheart cabbage",
+    "diet": "buddhist-temple",
+    "region": "chubu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "cabbage",
+    "descriptor": "Velvety",
+    "dishForm": "Bowl"
+  }
+}
