@@ -1,0 +1,107 @@
+{
+  "title": "velvety syrian uni tagine",
+  "description": "a citrusy, velvety, festive syrian dish featuring uni, yuzu-cure, and a low-carb-friendly twist.",
+  "cuisine": "syrian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "uni (sea urchin)",
+      "amount": "12 oz"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "yuzu zest",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "heat 2 tbsp of olive oil in a large skillet over medium heat.",
+    "add the sliced onion and cook until softened, about 5 minutes.",
+    "add the minced garlic and grated ginger, cooking for another minute.",
+    "add the cumin, paprika, and a pinch of salt, stirring to combine.",
+    "add the yuzu juice and lemon juice, stirring to deglaze the pan.",
+    "add the uni, chicken broth, and heavy cream, stirring to combine.",
+    "bring the mixture to a simmer and cook for 8-10 minutes, or until the uni is cooked through.",
+    "season with salt and pepper to taste.",
+    "serve hot, garnished with yuzu zest and additional yuzu juice if desired.",
+    "serve immediately, as the uni will continue to cook and break down in the sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "citrusy",
+    "comfort-food",
+    "high-end",
+    "low-carb",
+    "one-pot",
+    "seafood",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 38,
+    "carbs": 15,
+    "fat": 44
+  },
+  "slug": "velvety-syrian-uni-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-syrian-uni-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T07:42:28Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "uni",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Uni",
+    "descriptor": "Velvety",
+    "dishForm": "Tagine"
+  }
+}
