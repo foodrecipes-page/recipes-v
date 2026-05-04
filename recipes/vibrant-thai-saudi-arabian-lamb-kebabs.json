@@ -1,0 +1,97 @@
+{
+  "title": "Vibrant Thai Saudi Arabian Lamb Kebabs",
+  "description": "Charred and tender lamb kebabs featuring Thai sweet basil and Saudi Arabian spices, cooked to perfection in an iron teppan",
+  "cuisine": "Thai Saudi Arabian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "Thai sweet basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Saudi Arabian spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan to medium high heat",
+    "In a large bowl, whisk together coconut milk, lemon juice, olive oil, garlic, salt, and black pepper",
+    "Add the lamb cubes to the bowl and marinate for at least 30 minutes",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each piece",
+    "Brush the teppan with a small amount of oil and cook the kebabs for 5-7 minutes per side, or until charred and cooked through",
+    "Stir in the chopped Thai sweet basil and Saudi Arabian spice mix into the remaining marinade",
+    "Brush the kebabs with the basil and spice mixture during the last minute of cooking",
+    "Serve the kebabs hot, garnished with additional Thai sweet basil if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "lamb-recipes",
+    "middle-eastern",
+    "one-pan",
+    "thai-inspired",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "vibrant-thai-saudi-arabian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-thai-saudi-arabian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:17:00Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "tender",
+    "mood": "show-off",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "thai-sweet-basil-horapa",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Vibrant Thai",
+    "dishForm": "Kebabs"
+  }
+}
