@@ -1,0 +1,106 @@
+{
+  "title": "Vivid Peruvian Redcurrant Skewers",
+  "description": "Fresh, glassy-jelly skewers glazed with a manteca-emulsified sauce, bursting with Peruvian flavors and low-FODMAP ingredients.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "redcurrants",
+      "amount": "200g"
+    },
+    {
+      "name": "pineapple chunks",
+      "amount": "100g"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "10g"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "10g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "20ml"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "15ml"
+    },
+    {
+      "name": "butter",
+      "amount": "20g"
+    },
+    {
+      "name": "sugar",
+      "amount": "10g"
+    },
+    {
+      "name": "lime juice",
+      "amount": "30ml"
+    },
+    {
+      "name": "ginger",
+      "amount": "5g"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "2g"
+    },
+    {
+      "name": "salt",
+      "amount": "2g"
+    }
+  ],
+  "instructions": [
+    "Soak wooden skewers in water for 30 minutes to prevent burning.",
+    "In a small bowl whisk together olive oil, red wine vinegar, sugar, lime juice, melted butter, grated ginger, chili flakes, and salt until smooth.",
+    "Thread alternating redcurrants and pineapple chunks onto soaked skewers.",
+    "Preheat an outdoor grill or grill pan to medium-high heat.",
+    "Brush the skewers with the manteca-emulsified glaze and place them on the grill.",
+    "Grill the skewers for about 3 minutes per side, basting with more glaze, until the fruit is lightly charred and syrupy.",
+    "Remove from the grill and sprinkle with fresh cilantro and toasted sesame seeds.",
+    "Serve immediately with a side of lime wedges for extra brightness."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 6,
+  "totalTimeMin": 26,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fodmap-friendly",
+    "low-fat",
+    "peruvian",
+    "quick",
+    "skewers",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 4,
+    "carbs": 49,
+    "fat": 40
+  },
+  "slug": "vivid-peruvian-redcurrant-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/vivid-peruvian-redcurrant-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:12:46Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "glassy-jelly",
+    "mood": "monsoon",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "redcurrants",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Redcurrant",
+    "descriptor": "Vivid",
+    "dishForm": "Skewers"
+  }
+}
