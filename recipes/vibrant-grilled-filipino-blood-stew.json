@@ -1,0 +1,99 @@
+{
+  "title": "Vibrant Grilled Filipino Blood Stew",
+  "description": "A pungent, crumbly quick-fix Filipino stew that grills blood, bread flour and mushroom stock into a hearty, macrobiotic-friendly dish.",
+  "cuisine": "Filipino",
+  "diet": [
+    "macrobiotic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork blood",
+      "amount": "500g"
+    },
+    {
+      "name": "pork fat",
+      "amount": "50g"
+    },
+    {
+      "name": "bread flour",
+      "amount": "30g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 cm"
+    },
+    {
+      "name": "dried red chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "mushroom stock",
+      "amount": "400ml"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to a medium-high setting and lightly oil the griddle surface.",
+    "In a large bowl, whisk pork blood with bread flour until a smooth, thick paste forms.",
+    "Add chopped onion, minced garlic, grated ginger, and dried chili flakes to the paste and stir to combine.",
+    "Pour the mixture onto the preheated raclette grill pan and cook, stirring continuously, until it thickens and starts to bubble.",
+    "Gradually pour in the mushroom stock while stirring to ensure a smooth consistency.",
+    "Add soy sauce and black pepper, then continue cooking for another 5 minutes until the flavors meld and the stew is heated through.",
+    "Taste and adjust seasoning if needed, then remove from heat.",
+    "Serve the vibrant grilled blood stew hot, garnished with a sprinkle of fresh scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "grilled",
+    "macrobiotic-friendly",
+    "one-pan",
+    "pork-dish",
+    "quick",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 620,
+    "protein": 38,
+    "carbs": 22,
+    "fat": 42
+  },
+  "slug": "vibrant-grilled-filipino-blood-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-grilled-filipino-blood-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:05:30Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "bread flour",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Blood",
+    "descriptor": "Vibrant Grilled",
+    "dishForm": "Stew"
+  }
+}
