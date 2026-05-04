@@ -1,0 +1,111 @@
+{
+  "title": "Vibrant Savory Filipino Wild Garlic Leaves Dinuguan",
+  "description": "A savory Filipino dish featuring wild garlic leaves in a rich and spicy bhuna sauce, served with a side of steamed rice for a comforting solo dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wild garlic leaves",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bhuna sauce",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "tofu",
+      "amount": "1/2 cup",
+      "notes": "cubed"
+    },
+    {
+      "name": "vinegar",
+      "amount": "2 tablespoons",
+      "notes": "apple cider or white"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "steamed"
+    },
+    {
+      "name": "vegan cheese",
+      "amount": "1/4 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the chopped wild garlic leaves and cook until wilted.",
+    "Add the cubed tofu and cook until golden brown.",
+    "Pour in the bhuna sauce and stir to combine.",
+    "Add the vinegar, salt, and black pepper, and stir to combine.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Serve the dinuguan over steamed rice and top with shredded vegan cheese.",
+    "Return the pan to medium heat and cook until the cheese is melted and bubbly.",
+    "Remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "filipino-food",
+    "one-pan",
+    "plant-based",
+    "spicy",
+    "wild-garlic"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "vibrant-savory-filipino-wild-garlic-leaves-dinuguan",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-savory-filipino-wild-garlic-leaves-dinuguan",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:05:16Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "cheese-pull",
+    "mood": "solo-dinner",
+    "technique": "bhuna",
+    "primaryIngredient": "wild garlic leaves",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "wild garlic leaves",
+    "descriptor": "Vibrant Savory",
+    "dishForm": "Dinuguan"
+  }
+}
