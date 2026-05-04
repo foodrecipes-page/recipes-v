@@ -1,0 +1,100 @@
+{
+  "title": "Velvety Sweet Uruguayan Pancetta Skillet",
+  "description": "A tangy and pillowy Uruguayan dish featuring pancetta, perfect for a date night, cooked in a stone bowl dolsot and friendly for those with nut allergies.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pancetta",
+      "amount": "6 slices",
+      "notes": "thick cut"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cook the pancetta slices in a large skillet over medium heat until crispy.",
+    "Remove the pancetta from the skillet and set aside.",
+    "Add the sliced onion to the skillet and cook until caramelized.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Add the diced red bell pepper to the skillet and cook until tender.",
+    "Add the halved cherry tomatoes to the skillet and cook until they start to release their juices.",
+    "Create 4 wells in the skillet and crack an egg into each well.",
+    "Sprinkle shredded cheese over the eggs and cook until the eggs are set.",
+    "Return the cooked pancetta to the skillet and stir to combine.",
+    "Transfer the skillet to the preheated oven and bake for 10 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "dinner-ideas",
+    "gluten-free",
+    "nut-free",
+    "one-pan",
+    "uruguayan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "velvety-sweet-uruguayan-pancetta-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-sweet-uruguayan-pancetta-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:15:52Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "pillowy",
+    "mood": "date-night",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "pancetta",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "pancetta",
+    "descriptor": "velvety sweet",
+    "dishForm": "Skillet"
+  }
+}
