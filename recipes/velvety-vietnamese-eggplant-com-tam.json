@@ -1,0 +1,105 @@
+{
+  "title": "Velvety Vietnamese Eggplant Com Tam",
+  "description": "A rich, fluffy, keto-friendly Vietnamese dish featuring eggplant and a silky sauce whisked to perfection.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "600g"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tamari",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tbsp, minced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "red chili",
+      "amount": "1, finely sliced"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "cilantro",
+      "amount": "2 tbsp, chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Slice the eggplant into 1-inch cubes.",
+    "Heat coconut oil in a skillet over medium heat and add the eggplant, cooking until golden and softened, about 8 minutes.",
+    "Stir in minced garlic, ginger, and sliced chili; cook for 2 minutes.",
+    "Add tamari, fish sauce, lime juice, and sugar; stir to coat and simmer for 3 minutes until the sauce thickens.",
+    "Remove the skillet from the heat and whisk in the egg until the mixture becomes silky and well incorporated.",
+    "Transfer the mixture to a bowl and sprinkle with chopped cilantro and toasted sesame seeds.",
+    "Serve immediately with cauliflower rice or a side of low-carb greens."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "eggplant",
+    "fluffy",
+    "keto-friendly",
+    "quick",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 312,
+    "protein": 9,
+    "carbs": 21,
+    "fat": 17
+  },
+  "slug": "velvety-vietnamese-eggplant-com-tam",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-vietnamese-eggplant-com-tam",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:50:13Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "whisk",
+    "primaryIngredient": "eggplant",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Eggplant",
+    "descriptor": "Velvety",
+    "dishForm": "Com Tam"
+  }
+}
