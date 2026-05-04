@@ -1,0 +1,111 @@
+{
+  "title": "Vibrant Dutch Tofu Bowl",
+  "description": "A garlicky, tender, adventurous Dutch-inspired vegan bowl featuring sun-dried tomatoes and pickled cucumber, served in a hot dolsot stone bowl.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra-firm tofu",
+      "amount": "400 g"
+    },
+    {
+      "name": "sun-dried tomatoes",
+      "amount": "50 g",
+      "notes": "oil-packed, chopped"
+    },
+    {
+      "name": "pickled cucumber ribbons",
+      "amount": "30 g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh spinach",
+      "amount": "100 g"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "30 ml"
+    },
+    {
+      "name": "tahini",
+      "amount": "20 ml"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "15 ml"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "15 ml"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "scallions",
+      "amount": "10 g",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Press the tofu to remove excess moisture and cut into 1-inch cubes.",
+    "In a bowl combine tofu, minced garlic, soy sauce, tahini, lemon juice, and sesame oil; marinate for 15 minutes.",
+    "Heat a non-stick skillet over medium heat and add the marinated tofu, cooking until golden on all sides, about 8 minutes.",
+    "While tofu cooks, sauté sun-dried tomatoes in a dry pan for 2 minutes to soften.",
+    "Add spinach to the skillet and sauté until wilted, about 2 minutes.",
+    "Transfer the cooked mixture into a preheated dolsot stone bowl.",
+    "Arrange pickled cucumber ribbons on top of the tofu mixture.",
+    "Sprinkle chopped scallions, salt, and pepper over the bowl.",
+    "Place the dolsot on a heat source for 2 minutes to create gentle steam and meld flavors.",
+    "Serve hot straight from the stone bowl with an optional drizzle of sesame oil."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "dutch-inspired",
+    "herb-vegetable",
+    "quick",
+    "stone-bowl",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 32,
+    "carbs": 21,
+    "fat": 35
+  },
+  "slug": "vibrant-dutch-tofu-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-dutch-tofu-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:31:21Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "tender",
+    "mood": "adventurous",
+    "technique": "pickle",
+    "primaryIngredient": "sun-dried tomatoes",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "tofu",
+    "descriptor": "Vibrant",
+    "dishForm": "Bowl"
+  }
+}
