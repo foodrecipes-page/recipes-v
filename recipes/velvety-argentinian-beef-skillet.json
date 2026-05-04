@@ -1,0 +1,107 @@
+{
+  "title": "Velvety Argentinian Beef Skillet",
+  "description": "A grassy, juicy skillet of marinated beef cooked with Marsala wine, perfect for a brunch-mood meal.",
+  "cuisine": "Argentinian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "beef sirloin",
+      "amount": "1.5 kg",
+      "notes": "sliced into 0.5 cm thick strips"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Marsala wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "low-sodium beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh thyme leaves",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat a cast‑iron skillet over medium heat until shimmering, then add the olive oil.",
+    "When the oil is hot, sear the beef strips in a single layer for about 2 minutes each side until browned.",
+    "Remove the beef from the skillet and set aside on a plate.",
+    "Pour the Marsala wine into the skillet, scraping up any browned bits, and reduce by half, about 3 minutes.",
+    "Add the beef broth, smoked paprika, oregano, thyme, sea salt, and pepper; stir and bring to a gentle simmer.",
+    "Return the beef to the skillet, fold in the butter, and cook, stirring occasionally, until the sauce thickens and the meat reaches medium‑rare, about 4–5 minutes.",
+    "Stir in the chopped parsley and lemon juice, taste, and adjust seasoning as needed.",
+    "Serve immediately, spooning the sauce over the meat, and enjoy your velvety Argentinian breakfast skillet."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "brunch",
+    "marinade",
+    "no-garlic",
+    "no-onion",
+    "one-pan",
+    "velvety",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 370,
+    "protein": 24,
+    "carbs": 12,
+    "fat": 26
+  },
+  "slug": "velvety-argentinian-beef-skillet",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-argentinian-beef-skillet",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:10:05Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "marsala-wine",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Velvety",
+    "dishForm": "Skillet"
+  }
+}
