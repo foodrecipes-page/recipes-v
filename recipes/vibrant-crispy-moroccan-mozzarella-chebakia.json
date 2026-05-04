@@ -1,0 +1,94 @@
+{
+  "title": "Vibrant Crispy Moroccan Mozzarella Chebakia",
+  "description": "A flexitarian-friendly Moroccan dish featuring crispy mozzarella balls and confit tomato in a floral and cozy chebakia form, perfect for a snack or dinner.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mozzarella cheese",
+      "amount": "12 oz",
+      "notes": "fresh"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, water, and olive oil to form a dough.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 12 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and place a mozzarella ball in the center of each disk.",
+    "Fold the dough over the mozzarella to form a triangle and press the edges together to seal.",
+    "Brush the tops of the chebakia with olive oil and sprinkle with sesame seeds and paprika.",
+    "Fry the chebakia in the preheated oil for 3-4 minutes on each side until golden brown.",
+    "Drain the chebakia on paper towels and serve with confit tomato.",
+    "Garnish with fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-lovers",
+    "crispy-snacks",
+    "flexitarian",
+    "moroccan-cuisine",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "vibrant-crispy-moroccan-mozzarella-chebakia",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-crispy-moroccan-mozzarella-chebakia",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:40:10Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crispy",
+    "mood": "cozy",
+    "technique": "confit-tomato",
+    "primaryIngredient": "mozzarella balls",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "mozzarella",
+    "descriptor": "Vibrant Crispy",
+    "dishForm": "Chebakia"
+  }
+}
