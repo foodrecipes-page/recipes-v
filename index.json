@@ -2861,6 +2861,21 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-spanish-almond-fritters",
+    "title": "Velvety Spanish Almond Fritters",
+    "tags": [
+      "almond",
+      "buddhist-temple-friendly",
+      "fritters",
+      "galician",
+      "quick",
+      "vegan"
+    ],
+    "cuisine": "galician",
+    "totalTimeMin": 18,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-spiced-british-chicken-stir-fry",
     "title": "Velvety Spiced British Chicken Stir-fry",
     "tags": [
@@ -3433,6 +3448,21 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 50,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-venezuelan-collards-stew",
+    "title": "Vibrant Venezuelan Collards Stew",
+    "tags": [
+      "cheese-pull",
+      "collards",
+      "meal-prep",
+      "soffritto",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 60,
     "shard": "v"
   },
   {

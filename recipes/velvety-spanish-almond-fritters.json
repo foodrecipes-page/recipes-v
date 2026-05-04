@@ -1,0 +1,100 @@
+{
+  "title": "Velvety Spanish Almond Fritters",
+  "description": "Quick, yeasty, velvety fritters made with almond flour and a hint of lemon, perfect for a Buddhist‑temple‑friendly dessert.",
+  "cuisine": "galician",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "200g"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "almond milk",
+      "amount": "150ml"
+    },
+    {
+      "name": "water",
+      "amount": "50ml",
+      "notes": "warm"
+    },
+    {
+      "name": "olive oil",
+      "amount": "30ml"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "0.5 tsp"
+    }
+  ],
+  "instructions": [
+    "In a bowl, whisk together almond flour, baking powder, yeast, salt, and sugar.",
+    "Combine warm almond milk and water; let it sit for 5 minutes until frothy.",
+    "Pour the liquid into dry mix, add vanilla, lemon zest, and stir until smooth batter forms.",
+    "Let batter rest for 10 minutes to develop lift.",
+    "Heat a nonstick skillet over medium heat and drizzle with olive oil.",
+    "Spoon tablespoonfuls of batter into skillet, flatten slightly, and cook 2-3 minutes per side.",
+    "Flip carefully and cook until golden and puffed.",
+    "Transfer fritters to a paper‑towel lined plate to drain excess oil.",
+    "Serve warm, optionally dusted with powdered sugar or paired with fresh fruit."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "almond",
+    "buddhist-temple-friendly",
+    "fritters",
+    "galician",
+    "quick",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 317,
+    "protein": 7,
+    "carbs": 8,
+    "fat": 18
+  },
+  "slug": "velvety-spanish-almond-fritters",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-spanish-almond-fritters",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:39:19Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "velvety",
+    "mood": "quick-fix",
+    "technique": "reduce",
+    "primaryIngredient": "almond flour",
+    "diet": "buddhist-temple",
+    "region": "galician",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "almonds",
+    "descriptor": "Velvety",
+    "dishForm": "Fritters"
+  }
+}

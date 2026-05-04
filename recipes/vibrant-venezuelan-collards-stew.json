@@ -1,0 +1,120 @@
+{
+  "title": "Vibrant Venezuelan Collards Stew",
+  "description": "A pungent, cheese-pulled stew that blends collards with a rich soffritto base, perfect for meal-prep and Ayurvedic-Rajasic friendly. It delivers hearty flavor with a creamy touch.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "collard greens",
+      "amount": "800g",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "canned chickpeas",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "queso fresco",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat until shimmering.",
+    "Add the diced onion, garlic, and diced red bell pepper, sautéing until the vegetables soften and become fragrant, about 5 minutes.",
+    "Stir in the tomato paste and red pepper flakes, cooking for another minute to develop depth.",
+    "Add the chopped collard greens, tossing to coat them in the sauce, cooking until they wilt slightly, about 3 minutes.",
+    "Pour in the vegetable broth, bring the mixture to a gentle simmer, and let it cook for 15 minutes so the flavors meld.",
+    "Stir in the drained chickpeas, cooking for an additional 5 minutes to heat through.",
+    "Taste and season with salt and black pepper, adjusting to preference.",
+    "Remove the pot from heat and sprinkle crumbled queso fresco evenly over the stew.",
+    "Cover the pot, allow the cheese to melt into the hot liquid for 2 minutes, then stir to combine.",
+    "Serve hot, or divide into meal-prep containers for up to 4 days in the refrigerator."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "collards",
+    "meal-prep",
+    "soffritto",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 35,
+    "fat": 15
+  },
+  "slug": "vibrant-venezuelan-collards-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-venezuelan-collards-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:39:33Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "cheese-pull",
+    "mood": "meal-prep",
+    "technique": "soffritto-base",
+    "primaryIngredient": "collards",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Collards",
+    "descriptor": "Vibrant",
+    "dishForm": "Stew"
+  }
+}
