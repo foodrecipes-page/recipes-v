@@ -1,0 +1,103 @@
+{
+  "title": "Vibrant Mexican Peas Elote Bowl",
+  "description": "A fermented-inspired, shattering quick-fix Mexican bowl with peas, toasted corn, sesame, and zesty lime that is perfect for a Buddhist temple-friendly meal.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dried green peas",
+      "amount": "1 cup",
+      "notes": "pre-soaked for 4 hours"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "toasted sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "gochujang",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "corn kernels (fresh or thawed)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "roasted coconut flakes",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat a dry skillet over medium heat and toast the corn kernels until golden brown, about 5 minutes.",
+    "Drain the soaked peas and rinse them under cold water.",
+    "Bring a pot of salted water to a boil, add the peas, and simmer for 10 minutes until tender.",
+    "Drain the peas and set them aside to cool slightly.",
+    "In a bowl, combine lime juice, sea salt, grated ginger, toasted sesame oil, gochujang, and a splash of water, stirring until smooth.",
+    "Toss the warm peas and toasted corn with the sauce, ensuring even coating.",
+    "Transfer the mixture to a serving bowl and sprinkle with chopped cilantro, toasted sesame seeds, and roasted coconut flakes.",
+    "Serve immediately for a burst of fermented‑like flavors and a shattering crunch."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "buddhist-temple-friendly",
+    "elote-bowl",
+    "fermented",
+    "quick-fix",
+    "shattering",
+    "sonoran"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 66,
+    "fat": 14
+  },
+  "slug": "vibrant-mexican-peas-elote-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-mexican-peas-elote-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:19:35Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "shattering",
+    "mood": "quick-fix",
+    "technique": "salt-bake",
+    "primaryIngredient": "peas",
+    "diet": "buddhist-temple",
+    "region": "sonoran",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "peas",
+    "descriptor": "Vibrant",
+    "dishForm": "Elote Bowl"
+  }
+}
