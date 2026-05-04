@@ -1,0 +1,98 @@
+{
+  "title": "Vibrant Garlicky Vietnamese Shrimp Cha Gio",
+  "description": "A light and garlicky Vietnamese dish featuring shrimp and dried oregano, perfect for a crowd, this recipe is a low-calorie-friendly version of traditional cha gio.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "rice paper wrappers",
+      "amount": "12 sheets"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine shrimp, garlic, and dried oregano, and mix well.",
+    "Lay a rice paper wrapper on a flat surface and brush with water.",
+    "Place about 1 tablespoon of the shrimp mixture in the center of the wrapper.",
+    "Fold the bottom half of the wrapper over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "Repeat with the remaining wrappers and filling.",
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "When the oil is hot, add a few of the cha gio to the skillet and fry until golden brown, about 2-3 minutes on each side.",
+    "Remove the cha gio from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "Serve the cha gio hot with a dipping sauce made from fish sauce, lime juice, salt, and black pepper."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "appetizer",
+    "finger-food",
+    "gluten-free",
+    "low-calorie",
+    "seafood",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 6,
+    "fat": 4
+  },
+  "slug": "vibrant-garlicky-vietnamese-shrimp-cha-gio",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-garlicky-vietnamese-shrimp-cha-gio",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:42:39Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "light",
+    "mood": "crowd-pleaser",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "dried oregano",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "shrimp",
+    "descriptor": "Vibrant Garlicky",
+    "dishForm": "Cha Gio"
+  }
+}
