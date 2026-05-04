@@ -1,0 +1,102 @@
+{
+  "title": "Velvety Italian Oysters Saltimbocca",
+  "description": "A nutty, romantic pescatarian dish that pairs fresh oysters with prosciutto and sage, finished in a buttery white wine sauce and served in a stone dolset on a lazy Susan spinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oysters",
+      "amount": "8 per serving",
+      "notes": "fresh, shucked"
+    },
+    {
+      "name": "prosciutto",
+      "amount": "8 slices",
+      "notes": "thin, salty"
+    },
+    {
+      "name": "fresh sage",
+      "amount": "8 leaves"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "butter",
+      "amount": "5 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 g"
+    },
+    {
+      "name": "white wine",
+      "amount": "30 ml"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "5 ml"
+    },
+    {
+      "name": "salt",
+      "amount": "1 g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 g"
+    }
+  ],
+  "instructions": [
+    "Heat a nonstick skillet over medium heat and add olive oil.",
+    "Place each oyster on the skillet and cook for 1 minute on each side until lightly browned.",
+    "Lay a slice of prosciutto over each oyster and press gently to adhere.",
+    "Add a fresh sage leaf and minced garlic to the skillet and sauté for 30 seconds.",
+    "Pour the white wine over the oysters, allowing it to bubble and reduce slightly.",
+    "Stir in butter until melted and the sauce becomes creamy.",
+    "Squeeze lemon juice, season with salt and pepper, and give the oysters a final stir.",
+    "Transfer the oysters to a stone dolset, arrange them on a lazy Susan spinner, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 17,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "one-pan",
+    "pescatarian",
+    "quick",
+    "romantic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 19,
+    "carbs": 10,
+    "fat": 65
+  },
+  "slug": "velvety-italian-oysters-saltimbocca",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-italian-oysters-saltimbocca",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:46:39Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "romantic",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "oysters",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Oysters",
+    "descriptor": "Velvety",
+    "dishForm": "Saltimbocca"
+  }
+}
