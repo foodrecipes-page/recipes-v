@@ -1136,6 +1136,21 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-crispy-polish-cheese-gratin",
+    "title": "Velvety Crispy Polish Cheese Gratin",
+    "tags": [
+      "cheesy",
+      "crispy",
+      "lazy-sunday",
+      "one-pot",
+      "quick-dinner",
+      "weeknight"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 30,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-crunchy-middle-eastern-tofu-stir-fry",
     "title": "Velvety Crunchy Middle Eastern Tofu Stir-fry",
     "tags": [
@@ -3214,6 +3229,21 @@
     ],
     "cuisine": "kenyan",
     "totalTimeMin": 25,
+    "shard": "v"
+  },
+  {
+    "slug": "very-flaky-uruguayan-mung-bean-sprout-sukju-and-soffritto-base-empanadas",
+    "title": "Sukju Empanadas con Soffritto y Semillas de Mungo",
+    "tags": [
+      "banana-leaf",
+      "kid-friendly",
+      "lunch",
+      "snack",
+      "uruguayan",
+      "vegetarian"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 45,
     "shard": "v"
   },
   {

@@ -1,0 +1,109 @@
+{
+  "title": "Velvety Crispy Polish Cheese Gratin",
+  "description": "A lazy-sunday Polish dish that is floral, crispy, and steam-rich, served straight from a mason jar.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "tamasic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grated kashkaval cheese",
+      "amount": "200 g",
+      "notes": "aged 2 weeks, cut into small cubes"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "for floral glaze"
+    },
+    {
+      "name": "Smoked bacon",
+      "amount": "50 g",
+      "notes": "diced, optional for extra flavor"
+    },
+    {
+      "name": "Whole milk",
+      "amount": "100 ml",
+      "notes": "to create steam"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 tsp",
+      "notes": "helps create light crust"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "for greasing jar"
+    },
+    {
+      "name": "Crushed walnuts",
+      "amount": "30 g",
+      "notes": "for crunch"
+    },
+    {
+      "name": "Fresh thyme leaves",
+      "amount": "1 tsp",
+      "notes": "aromatic finish"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C and lightly grease a mason jar with olive oil.",
+    "Whisk milk, baking powder, salt, pepper, and 2 tbsp honey together until smooth.",
+    "Layer the bottom of the jar with a thin coat of grated kashkaval cheese, sprinkle a bit of breadcrumbs if desired, and repeat until the jar is nearly full.",
+    "Pour the milk mixture over the cheese layers, ensuring it reaches the top of the jar.",
+    "Sprinkle diced smoked bacon and crushed walnuts over the top of the mixture.",
+    "Drizzle remaining honey over the surface to create a floral glaze.",
+    "Close the jar with its lid, place it on a baking sheet, and bake for 20 minutes until the top turns golden.",
+    "Remove the jar from the oven, let it rest for 5 minutes, and then gently open the lid.",
+    "Sprinkle fresh thyme leaves on top just before serving for an aromatic finish.",
+    "Slice a portion into a bowl, let the steam rise, and enjoy the velvety crispy gratin."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "crispy",
+    "lazy-sunday",
+    "one-pot",
+    "quick-dinner",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 670,
+    "protein": 34,
+    "carbs": 15,
+    "fat": 55
+  },
+  "slug": "velvety-crispy-polish-cheese-gratin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-crispy-polish-cheese-gratin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:04:24Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crispy",
+    "mood": "lazy-sunday",
+    "technique": "steam",
+    "primaryIngredient": "cheese",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Cheese",
+    "descriptor": "Velvety Crispy",
+    "dishForm": "Gratin"
+  }
+}

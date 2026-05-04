@@ -1,0 +1,97 @@
+{
+  "title": "Sukju Empanadas con Soffritto y Semillas de Mungo",
+  "description": "Sour and flaky Uruguayan empanadas filled with mung-bean-sprout-sukju and soffritto. Perfect for a kid-friendly snack or lunch.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lard",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "mung-bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soy sauce-based sukju",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "soffritto base",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion, finely chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, lard, and salt. Mix until a dough forms.",
+    "Gradually add water to the dough and knead for 10 minutes until smooth.",
+    "Roll out the dough to a thickness of 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "In a small pan, sauté the onion and garlic over medium heat until softened.",
+    "Add the mung-bean sprouts, sukju, and soffritto base to the pan and stir to combine.",
+    "Place a tablespoon of the filling mixture onto one half of each dough circle.",
+    "Fold the other half of the dough circle over the filling and press the edges together to seal.",
+    "Brush the tops of the empanadas with a little water and fold in the banana leaves to create a package.",
+    "Cook the empanadas in a steamer basket over boiling water for 15 minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "banana-leaf",
+    "kid-friendly",
+    "lunch",
+    "snack",
+    "uruguayan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 8
+  },
+  "slug": "very-flaky-uruguayan-mung-bean-sprout-sukju-and-soffritto-base-empanadas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/very-flaky-uruguayan-mung-bean-sprout-sukju-and-soffritto-base-empanadas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T02:04:52Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "soffritto-base",
+    "primaryIngredient": "mung-bean-sprout-sukju",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "mung-bean-sprout-sukju and soffritto-base",
+    "descriptor": "Very Flaky",
+    "dishForm": "Empanadas"
+  }
+}
