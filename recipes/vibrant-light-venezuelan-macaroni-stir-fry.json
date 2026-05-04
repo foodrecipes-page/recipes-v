@@ -1,0 +1,110 @@
+{
+  "title": "Vibrant Light Venezuelan Macaroni Stir-fry",
+  "description": "A pungent, light, comforting Venezuelan-inspired stir-fry featuring low-carb pasta, fresh vegetables, and aji amarillo for a burst of flavor.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "keto",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "low-carb pasta (dried)",
+      "amount": "1 cup",
+      "notes": "rinse before use"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium julienned"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1/2 cup diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1/2 cup sliced"
+    },
+    {
+      "name": "aji amarillo paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1 tbsp chopped"
+    },
+    {
+      "name": "lime",
+      "amount": "1 tbsp juice"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the low‑carb pasta in cold water and set aside.",
+    "Heat 1 tsp olive oil in a large skillet over medium heat.",
+    "Add diced onion and minced garlic, sautéing until translucent.",
+    "Stir in julienned carrot, sliced bell pepper, and diced cabbage, cooking for 3 minutes.",
+    "Add the rinsed pasta and a tablespoon of aji amarillo paste, tossing until the pasta is coated.",
+    "Pour in lime juice, sprinkle chopped cilantro, and season with salt and pepper.",
+    "Cook for an additional 2 minutes, stirring constantly.",
+    "Remove from heat and let sit for one minute to allow flavors to meld.",
+    "Serve hot, garnished with extra cilantro if desired.",
+    "Enjoy this vibrant, low‑carb Venezuelan stir‑fry as a comforting meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "keto-friendly",
+    "latin-american",
+    "one-pan",
+    "quick",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 335,
+    "protein": 8,
+    "carbs": 24,
+    "fat": 6
+  },
+  "slug": "vibrant-light-venezuelan-macaroni-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-light-venezuelan-macaroni-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:24:06Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "stir-fry",
+    "primaryIngredient": "macaroni",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "macaroni",
+    "descriptor": "Vibrant Light",
+    "dishForm": "Stir-fry"
+  }
+}
