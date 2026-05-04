@@ -1,0 +1,116 @@
+{
+  "title": "Velvety Arabian Split Pea Tagine",
+  "description": "A warm, malty split pea stew with a gentle aromatic blend of Middle Eastern spices, perfect for a comforting dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "split peas",
+      "amount": "1 cup",
+      "notes": "rinsed, drained"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2, minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium, diced"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add diced onion and cook until translucent, about 5 minutes.",
+    "Stir in minced garlic, diced carrot, and diced sweet potato; cook for 5 more minutes.",
+    "Add split peas, tomato paste, cumin, coriander, and smoked paprika; stir until peas are coated and fragrant.",
+    "Pour in vegetable broth and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 35 minutes until the peas are tender and the sauce has thickened.",
+    "Season with salt and black pepper, tasting and adjusting as needed.",
+    "Serve hot, garnished with chopped fresh cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "one-pot",
+    "root-vegetable",
+    "slow-cook",
+    "stew",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 55,
+    "fat": 8
+  },
+  "slug": "velvety-arabian-split-pea-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-arabian-split-pea-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:23:43Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "molten",
+    "mood": "nostalgic",
+    "technique": "poach",
+    "primaryIngredient": "split peas",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Arabian",
+    "mainIngredient": "Split Pea",
+    "descriptor": "Velvety",
+    "dishForm": "Tagine"
+  }
+}
