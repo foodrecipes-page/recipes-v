@@ -1,0 +1,98 @@
+{
+  "title": "Velvety Fermented Italian Taleggio Lasagna",
+  "description": "A midnight craving lasagna with fermented taleggio, spinach, and ricotta folded in an iron teppan for a silky texture.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Taleggio cheese",
+      "amount": "250g"
+    },
+    {
+      "name": "Whole wheat lasagna sheets",
+      "amount": "6 sheets"
+    },
+    {
+      "name": "Fresh spinach",
+      "amount": "200g"
+    },
+    {
+      "name": "Ricotta cheese",
+      "amount": "150g"
+    },
+    {
+      "name": "Tomato passata",
+      "amount": "200g"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Fresh basil leaves",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "Preheat an iron teppan over medium heat and lightly oil it.",
+    "In a bowl whisk the egg with ricotta, salt, pepper, and half the basil, then fold in shredded taleggio until creamy.",
+    "Blanch the spinach for 30 seconds, drain, and squeeze out excess water before adding to the ricotta mixture.",
+    "Spread a thin layer of tomato passata on the teppan, then lay down two lasagna sheets and spread the cheese mixture over them.",
+    "Repeat the layering twice more, finishing with a sheet of lasagna on top and cover with the remaining passata.",
+    "Cover the teppan with a lid and cook for 22 minutes, then remove the lid and cook for an additional 8 minutes until the top is golden.",
+    "Let the lasagna rest for 5 minutes before slicing, then garnish with the remaining basil.",
+    "Serve hot straight from the teppan for a rustic, velvety experience."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "italian",
+    "one-pan",
+    "satvik-friendly",
+    "slow-cook",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 513,
+    "protein": 19,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "velvety-fermented-italian-taleggio-lasagna",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-fermented-italian-taleggio-lasagna",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:07:14Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "velvety",
+    "mood": "midnight-craving",
+    "technique": "fold",
+    "primaryIngredient": "taleggio",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "taleggio",
+    "descriptor": "velvety fermented",
+    "dishForm": "lasagna"
+  }
+}

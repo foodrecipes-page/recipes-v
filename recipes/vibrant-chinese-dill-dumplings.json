@@ -1,0 +1,95 @@
+{
+  "title": "Vibrant Chinese Dill Dumplings",
+  "description": "Yeasty, bouncy-qq dumplings with fresh dill and a dash of Sichuan pepper, perfect for a hangover cure and served on a salt block for a smoky finish.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wheat flour",
+      "amount": "200g"
+    },
+    {
+      "name": "warm water",
+      "amount": "80ml"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh dill, chopped",
+      "amount": "100g"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "50g"
+    },
+    {
+      "name": "Sichuan peppercorn powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Mix flour, yeast, and salt in a bowl.",
+    "Add warm water and stir until a rough dough forms.",
+    "Knead the dough on a floured surface until smooth, about 5 minutes.",
+    "Let the dough rise in a warm place for 20 minutes until doubled.",
+    "Divide the dough into 12 equal pieces and roll each into a thin circle.",
+    "Place a tablespoon of dill, scallions, and peppercorn powder in the center of each dough circle.",
+    "Fold the dough over to form a half-moon shape and seal the edges with a pinch of sesame oil.",
+    "Bring a pot of salted water to a boil and drop dumplings in, cooking until they float and expand, about 4 minutes.",
+    "Serve the dumplings on a preheated salt block, drizzle with soy sauce and pour any pan juices over them."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bouncy-qq",
+    "dill",
+    "hangover-cure",
+    "salt-block",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 10
+  },
+  "slug": "vibrant-chinese-dill-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-chinese-dill-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:06:38Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "bouncy-qq",
+    "mood": "hangover-cure",
+    "technique": "emulsify",
+    "primaryIngredient": "dill",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Dill",
+    "descriptor": "Vibrant",
+    "dishForm": "Dumplings"
+  }
+}

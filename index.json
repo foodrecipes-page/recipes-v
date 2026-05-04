@@ -1430,6 +1430,21 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-fermented-italian-taleggio-lasagna",
+    "title": "Velvety Fermented Italian Taleggio Lasagna",
+    "tags": [
+      "fermented",
+      "italian",
+      "one-pan",
+      "satvik-friendly",
+      "slow-cook",
+      "velvety"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 60,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-fermented-japanese-yellow-pepper-soup",
     "title": "Velvety Fermented Japanese Yellow Pepper Soup",
     "tags": [
@@ -3806,6 +3821,20 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 180,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-chinese-dill-dumplings",
+    "title": "Vibrant Chinese Dill Dumplings",
+    "tags": [
+      "bouncy-qq",
+      "dill",
+      "hangover-cure",
+      "salt-block",
+      "yeasty"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
