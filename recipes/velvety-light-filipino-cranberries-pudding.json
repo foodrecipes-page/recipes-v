@@ -1,0 +1,86 @@
+{
+  "title": "Velvety Light Filipino Cranberries Pudding",
+  "description": "A creamy and light Filipino dessert featuring dried cranberries, this pudding is a perfect treat for any occasion, and it is sugar-free-friendly.",
+  "cuisine": "Filipino",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dried cranberries",
+      "amount": "1 cup",
+      "notes": "soaked in water for 4 hours"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "almond milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg yolks",
+      "amount": "4"
+    },
+    {
+      "name": "stevia powder",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Soak the dried cranberries in water for 4 hours, then drain and set aside.",
+    "In a blender, combine the coconut milk, almond milk, egg yolks, stevia powder, vanilla extract, and salt, and blend until smooth.",
+    "Pour the mixture into a bamboo tray and place it in a bain-marie.",
+    "Heat the bain-marie over low heat, stirring occasionally, until the mixture thickens and the pudding is set.",
+    "Remove the pudding from the bain-marie and stir in the soaked cranberries.",
+    "Let the pudding cool to room temperature, then refrigerate until chilled.",
+    "Serve the pudding chilled, garnished with additional dried cranberries if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert-recipe",
+    "filipino-food",
+    "healthy-snack",
+    "low-carb",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "velvety-light-filipino-cranberries-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-light-filipino-cranberries-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:33:17Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "bain-marie",
+    "primaryIngredient": "dried cranberries",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "cranberries",
+    "descriptor": "velvety light",
+    "dishForm": "Pudding"
+  }
+}
