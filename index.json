@@ -3669,6 +3669,21 @@
     "shard": "v"
   },
   {
+    "slug": "vibrant-spicy-tuscan-lamb-panforte",
+    "title": "Vibrant Spicy Tuscan Lamb Panforte",
+    "tags": [
+      "high-protein",
+      "italian",
+      "lamb",
+      "panforte",
+      "special-occasion",
+      "tuscan"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 45,
+    "shard": "v"
+  },
+  {
     "slug": "vibrant-tandoori-australian-olives-flatbread",
     "title": "Vibrant Tandoori Australian Olives Flatbread",
     "tags": [
@@ -3723,6 +3738,21 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
+    "slug": "vinegary-chewy-uruguayan-bread-flatbread",
+    "title": "Vinegary Chewy Uruguayan Bread Flatbread",
+    "tags": [
+      "chewy",
+      "double-rise",
+      "flatbread",
+      "sour",
+      "uruguayan",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 30,
     "shard": "v"
   },
   {

@@ -1,0 +1,96 @@
+{
+  "title": "Vinegary Chewy Uruguayan Bread Flatbread",
+  "description": "A tangy, chewy flatbread with sweet peppadew peppers, perfect for a solo dinner.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "500g"
+    },
+    {
+      "name": "warm water",
+      "amount": "200ml",
+      "notes": "about 40°C"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "7g",
+      "notes": "1 sachet"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "about 5g"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": "30ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "15ml"
+    },
+    {
+      "name": "sweet peppadew peppers",
+      "amount": "50g",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "white sugar",
+      "amount": "1 tsp",
+      "notes": "optional, 4g"
+    }
+  ],
+  "instructions": [
+    "Whisk together flour, salt, yeast and sugar in a large bowl.",
+    "Add warm water, vinegar and olive oil and stir until a shaggy dough forms.",
+    "Knead the dough on a floured surface for 8 minutes until smooth and elastic.",
+    "Place the dough in a lightly oiled bowl, cover and let rise for 60 minutes until doubled.",
+    "Punch down the dough, divide into four equal pieces and roll each into a flatbread shape.",
+    "Top each flatbread with chopped peppadew peppers, cover and let rise again for 30 minutes.",
+    "Preheat the oven to 220°C and bake the flatbreads for 15 minutes until golden and chewy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chewy",
+    "double-rise",
+    "flatbread",
+    "sour",
+    "uruguayan",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 13,
+    "carbs": 90,
+    "fat": 4
+  },
+  "slug": "vinegary-chewy-uruguayan-bread-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/vinegary-chewy-uruguayan-bread-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:58:54Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "solo-dinner",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "sweet peppadew peppers",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "bread",
+    "descriptor": "Vinegary Chewy",
+    "dishForm": "Flatbread"
+  }
+}

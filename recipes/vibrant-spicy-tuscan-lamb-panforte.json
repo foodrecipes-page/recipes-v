@@ -1,0 +1,103 @@
+{
+  "title": "Vibrant Spicy Tuscan Lamb Panforte",
+  "description": "A spicy and flaky Italian dish featuring ground cinnamon and tagine-cooked lamb, perfect for a dinner party.",
+  "cuisine": "Italian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "1 pound",
+      "notes": "tagine-cooked"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried cranberries",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cedar plank",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "In a large bowl, combine the cooked onion and garlic, ground lamb, ground cinnamon, dried cranberries, pine nuts, salt, and black pepper.",
+    "Mix well with your hands or a wooden spoon until just combined.",
+    "Transfer the mixture to a cedar plank, shaping into a round panforte shape.",
+    "Bake for 25 minutes, or until the edges are golden brown and the center is cooked through.",
+    "Remove from the oven and let rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "italian",
+    "lamb",
+    "panforte",
+    "special-occasion",
+    "tuscan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "vibrant-spicy-tuscan-lamb-panforte",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-spicy-tuscan-lamb-panforte",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:58:36Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "flaky",
+    "mood": "show-off",
+    "technique": "tagine-cook",
+    "primaryIngredient": "ground cinnamon",
+    "diet": "high-protein",
+    "region": "tuscan",
+    "cuisineAdjective": "Tuscan",
+    "mainIngredient": "lamb",
+    "descriptor": "Vibrant Spicy",
+    "dishForm": "Panforte"
+  }
+}
