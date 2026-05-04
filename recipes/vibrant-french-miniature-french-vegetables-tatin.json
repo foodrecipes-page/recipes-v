@@ -1,0 +1,100 @@
+{
+  "title": "Vibrant French Miniature French Vegetables Tatin",
+  "description": "A citrusy, crisp, high-protein French dish perfect for a crowd, featuring oregano and grilled vegetables in individual mini cocottes.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "high-protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "slice into 1/8-inch thick rounds"
+    },
+    {
+      "name": "yellow squash",
+      "amount": "2 medium",
+      "notes": "slice into 1/8-inch thick rounds"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "seed and slice into 1/8-inch thick rings"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly slice"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "use a high-quality, extra-virgin oil"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbly, high-protein option"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono-grill to medium-high heat. Place the grill grate 4-5 inches above the heat source.",
+    "Grill the zucchini, yellow squash, and red bell pepper for 3-4 minutes per side, or until tender and lightly charred.",
+    "In a large bowl, whisk together the olive oil, lemon juice, garlic, and chopped oregano.",
+    "In a separate bowl, toss the cooked vegetables with the oregano-herb mixture, salt, and pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "vegan-option",
+    "veggie-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "vibrant-french-miniature-french-vegetables-tatin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-french-miniature-french-vegetables-tatin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:36:46Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "oregano",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Vegetables",
+    "descriptor": "Vibrant French Miniature",
+    "dishForm": "Tatin"
+  }
+}
