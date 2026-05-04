@@ -1,0 +1,99 @@
+{
+  "title": "Velvety Molcajete Irish Tomato Crumble",
+  "description": "A comforting blend of jammy simmered tomatoes seasoned with Irish herbs and topped with a savory, buttery oat crumble.",
+  "cuisine": "Irish-Mexican Fusion",
+  "diet": [
+    "Vegetarian",
+    "Vegan-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Roma tomatoes",
+      "amount": "6 large",
+      "notes": "roughly chopped"
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1 small",
+      "notes": "finely diced"
+    },
+    {
+      "name": "Irish butter",
+      "amount": "4 tablespoons",
+      "notes": "cold and cubed, or plant-based substitute"
+    },
+    {
+      "name": "Rolled oats",
+      "amount": "1 cup",
+      "notes": "gluten-free if desired"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "0.5 cup",
+      "notes": "can use almond flour"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "to balance acidity"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "0.5 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375 degrees Fahrenheit.",
+    "Place the chopped tomatoes and onions into a large saucepan over medium heat.",
+    "Simmer the tomato mixture with the brown sugar and thyme for fifteen minutes until jammy.",
+    "Transfer the thickened tomato mixture into a seasoned molcajete or stone bowl.",
+    "In a separate bowl, rub the cold butter into the oats and flour until it resembles coarse crumbs.",
+    "Spread the oat crumble evenly over the top of the tomato base in the molcajete.",
+    "Place the molcajete on a baking sheet to catch any drips.",
+    "Bake for twenty minutes until the topping is golden brown and the edges are bubbling.",
+    "Allow the dish to rest for five minutes before serving to the children."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "kid-friendly",
+    "one-pot",
+    "plant-based",
+    "savory-crumble"
+  ],
+  "nutrition": {
+    "calories": 285,
+    "protein": 5,
+    "carbs": 38,
+    "fat": 14
+  },
+  "slug": "velvety-molcajete-irish-tomato-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-molcajete-irish-tomato-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-04T08:10:55Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crumbly",
+    "mood": "kid-friendly",
+    "technique": "simmer",
+    "primaryIngredient": "chopped tomatoes",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Tomato",
+    "descriptor": "Velvety Molcajete",
+    "dishForm": "Crumble"
+  }
+}

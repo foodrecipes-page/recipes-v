@@ -1,0 +1,107 @@
+{
+  "title": "Vibrant Irish Lemongrass Skewers",
+  "description": "Citrusy, crispy plant‑based skewers grilled on a yakimono, featuring lemongrass stalks and a smoky Irish herb blend.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lemongrass stalks",
+      "amount": "2",
+      "notes": "trimmed and halved lengthwise"
+    },
+    {
+      "name": "firm tofu",
+      "amount": "400 g",
+      "notes": "pressed and cubed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "agave syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to medium‑high heat.",
+    "Press the tofu for 30 minutes, then cut it into 1‑inch cubes.",
+    "Whisk together olive oil, soy sauce, agave syrup, lemon juice, smoked paprika, rosemary, sea salt, and pepper in a bowl.",
+    "Toss the tofu cubes in the bowl until evenly coated, then refrigerate for 15 minutes to marinate.",
+    "Soak the lemongrass stalk halves in warm water for 5 minutes to soften.",
+    "Thread the marinaded tofu cubes onto the lemongrass stalks, spacing them evenly and securing with kitchen twine if needed.",
+    "Grill the skewers for 8–10 minutes, turning every 2–3 minutes, until the tofu edges are golden and the lemongrass is crisp.",
+    "Remove from the grill, sprinkle with fresh parsley, and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "irish",
+    "low-fat",
+    "plant-based",
+    "quick",
+    "savory",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 9,
+    "carbs": 4,
+    "fat": 12
+  },
+  "slug": "vibrant-irish-lemongrass-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-irish-lemongrass-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:09:37Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "lemongrass stalks",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Lemongrass",
+    "descriptor": "Vibrant",
+    "dishForm": "Skewers"
+  }
+}

@@ -2196,6 +2196,20 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-molcajete-irish-tomato-crumble",
+    "title": "Velvety Molcajete Irish Tomato Crumble",
+    "tags": [
+      "comfort-food",
+      "kid-friendly",
+      "one-pot",
+      "plant-based",
+      "savory-crumble"
+    ],
+    "cuisine": "Irish-Mexican Fusion",
+    "totalTimeMin": 50,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-moroccan-almond-tagine",
     "title": "Velvety Moroccan Almond Tagine",
     "tags": [],
@@ -3745,6 +3759,23 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 40,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-irish-lemongrass-skewers",
+    "title": "Vibrant Irish Lemongrass Skewers",
+    "tags": [
+      "crispy",
+      "irish",
+      "low-fat",
+      "plant-based",
+      "quick",
+      "savory",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 30,
     "shard": "v"
   },
   {
