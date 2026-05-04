@@ -1,0 +1,99 @@
+{
+  "title": "Vibrant Crisp Japanese Oxtail Skewers",
+  "description": "Mustardy, crisp, comforting yakitori-style skewers with tender oxtail glazed in a tangy mustard-ginger sauce and finished with fresh scallion.",
+  "cuisine": "Japanese",
+  "diet": [
+    "lacto-vegetarian-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "oxtail",
+      "amount": "500g, trimmed and cut into 2cm pieces"
+    },
+    {
+      "name": "Japanese mustard (arugami shichimi)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tbsp, minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salted scallions",
+      "amount": "2 stalks, chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp, for grilling"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or skillet over medium-high heat and lightly oil the grates or pan.",
+    "In a bowl, whisk together Japanese mustard, minced ginger, soy sauce, mirin, sugar, water, and black pepper until the sugar dissolves.",
+    "Pat the oxtail pieces dry with paper towels and season them lightly with salt; thread each piece onto bamboo skewers, spacing them evenly.",
+    "Brush the oxtail skewers generously with the mustard glaze, reserving a small amount for later.",
+    "Place the skewers on the preheated grill and sear for 3 minutes on each side, turning carefully to avoid flare‑ups.",
+    "Reduce the heat to medium, brush with the remaining glaze, and continue cooking, turning every 2 minutes, until the oxtail is browned and a glaze coats every surface, about 20-25 minutes total.",
+    "Remove the skewers and let them rest for 5 minutes to allow juices to redistribute.",
+    "While resting, drizzle any leftover glaze over the skewers for an extra shine.",
+    "Garnish the finished skewers with chopped scallions and a light dusting of sesame seeds if desired.",
+    "Serve hot with steamed rice or a side of miso soup for a comforting meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 60,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "crisp",
+    "lacto-vegetarian-friendly",
+    "mustard",
+    "yakitori"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 50
+  },
+  "slug": "vibrant-crisp-japanese-oxtail-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-crisp-japanese-oxtail-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:57:43Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crisp",
+    "mood": "comforting",
+    "technique": "rest",
+    "primaryIngredient": "oxtail",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "oxtail",
+    "descriptor": "Vibrant Crisp",
+    "dishForm": "Skewers"
+  }
+}
