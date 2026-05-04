@@ -1,0 +1,125 @@
+{
+  "title": "Velvety Umami Russian Beef Wrap",
+  "description": "A rich, hangover-cure dish featuring beef gravy and leaf-wrapped steaming, perfect for a cold Russian winter morning.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Beef strips",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "Gravy mix",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "8 oz",
+      "notes": "Button or cremini work well."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced."
+    },
+    {
+      "name": "Dill",
+      "amount": "1 tsp",
+      "notes": "Fresh or dried."
+    },
+    {
+      "name": "Salt",
+      "amount": "+/- 1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "+/- 1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Tortilla wraps",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "+/- 1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pan, melt 1 tablespoon of butter over medium-high heat. Add beef strips and cook until browned, about 3 minutes.",
+    "Remove beef from the pan and set aside. Add the remaining 1 tablespoon of butter to the pan, then add the chopped onion and cook until softened, about 3 minutes.",
+    "Add the minced garlic to the pan and cook for 1 minute, until fragrant.",
+    "Add the mushrooms to the pan and cook until they release their liquid and start to brown, about 4 minutes.",
+    "Add the beef broth and gravy mix to the pan, stirring to combine. Bring the mixture to a simmer and cook until the gravy thickens, about 2 minutes.",
+    "Return the beef to the pan and stir to combine with the gravy. Season with salt, black pepper, and dill.",
+    "Warm the tortilla wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "To assemble the wraps, place a portion of the beef and gravy mixture onto the center of a tortilla, then top with chopped parsley. Fold the bottom half of the tortilla up over the filling, then fold in the sides and roll the wrap up to form a compact cylinder.",
+    "Repeat with the remaining filling and tortillas."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "breakfast",
+    "hangover-cure",
+    "high-protein",
+    "one-pan",
+    "russian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 30
+  },
+  "slug": "velvety-umami-russian-beef-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-umami-russian-beef-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:31:25Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "velvety",
+    "mood": "hangover-cure",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "beef gravy",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "velvety umami",
+    "dishForm": "wrap"
+  }
+}

@@ -2054,6 +2054,20 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-indulgent-spanish-rice-salmorejo",
+    "title": "Velvety Spanish Rice Salmorejo",
+    "tags": [
+      "basque",
+      "cream-based",
+      "one-pan",
+      "spanish",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 30,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-indulgent-venezuelan-ham-stir-fry",
     "title": "Velvety Indulgent Venezuelan Ham Stir-fry",
     "tags": [
@@ -2690,6 +2704,28 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 25,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-nostalgic-venezuelan-shrimp-empanada",
+    "title": "Velvety Nostalgic Venezuelan Shrimp Empanada",
+    "tags": [
+      "cozy",
+      "dinner",
+      "empanada",
+      "high-protein",
+      "night",
+      "one-pan",
+      "party",
+      "shrimp",
+      "velvet",
+      "velvety",
+      "venezuelan",
+      "weeknight",
+      "winey"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 45,
     "shard": "v"
   },
   {
@@ -3933,6 +3969,21 @@
     ],
     "cuisine": "German",
     "totalTimeMin": 30,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-umami-russian-beef-wrap",
+    "title": "Velvety Umami Russian Beef Wrap",
+    "tags": [
+      "breakfast",
+      "hangover-cure",
+      "high-protein",
+      "one-pan",
+      "russian",
+      "weeknight"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
