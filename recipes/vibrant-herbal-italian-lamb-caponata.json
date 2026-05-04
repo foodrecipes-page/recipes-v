@@ -1,0 +1,105 @@
+{
+  "title": "Vibrant Herbal Italian Lamb Caponata",
+  "description": "A hearty and flavorful Italian dish featuring lamb loin chops, beurre-monte, and a variety of herbs, perfect for a hangover cure or a special occasion.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb loin chops",
+      "amount": "1 1/2 pounds",
+      "notes": "preferably from Emilia-Romagna region"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "caperrberries",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "green olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 sprig"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the lamb loin chops with salt and black pepper.",
+    "In a large skillet, heat the beurre-monte over medium-high heat and sear the lamb loin chops until browned on both sides.",
+    "Transfer the lamb loin chops to a baking sheet and roast in the oven for 15 minutes or until cooked to desired doneness.",
+    "In the same skillet, add the chopped celery, caperrberries, green olives, and minced garlic, and cook until the celery is tender.",
+    "Stir in the red wine vinegar and cook for an additional 2 minutes.",
+    "Add the fresh rosemary and thyme to the skillet and cook for 1 minute.",
+    "To serve, slice the roasted lamb loin chops and top with the herbal caponata mixture.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "emilia-romagna",
+    "gluten-free",
+    "hangover-cure",
+    "herbal-dishes",
+    "italian-food",
+    "lamb-recipes"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 35
+  },
+  "slug": "vibrant-herbal-italian-lamb-caponata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-herbal-italian-lamb-caponata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T20:10:56Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "hangover-cure",
+    "technique": "beurre-monte",
+    "primaryIngredient": "lamb loin chops",
+    "diet": "gluten-free",
+    "region": "emilia-romagna",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "lamb",
+    "descriptor": "Vibrant Herbal",
+    "dishForm": "Caponata"
+  }
+}
