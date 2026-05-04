@@ -1,0 +1,100 @@
+{
+  "title": "Vividly Peppery Slovakian Black Pudding Papillote",
+  "description": "A traditional Slovakian dish featuring black pudding, this recipe is perfect for a sick day, with a dairy-free friendly twist and a peppery kick",
+  "cuisine": "Slovakian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "black pudding",
+      "amount": "1 pound",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tablespoons",
+      "notes": "smoked"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "kosher"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "parchment paper",
+      "amount": "4 sheets",
+      "notes": "cut into 12 inch squares"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the sliced onion, minced garlic, smoked paprika, black pepper, and salt, and mix until the onion is evenly coated.",
+    "Add the sliced black pudding to the bowl and mix gently until the pudding is evenly distributed among the onion mixture.",
+    "Brush one side of each parchment paper square with olive oil.",
+    "Place a quarter of the black pudding and onion mixture onto the oiled side of each parchment paper square, leaving a 1 inch border around the edges.",
+    "Fold the parchment paper over the filling to form a triangle or square shape, and press the edges together to seal the papillote.",
+    "Place the papillotes onto a baking sheet lined with parchment paper, leaving about 1 inch of space between each papillote.",
+    "Bake the papillotes in the preheated oven for 25 minutes, or until the parchment paper is puffed and golden brown.",
+    "Remove the papillotes from the oven and let them cool for a few minutes before serving.",
+    "Serve the papillotes hot, garnished with fresh parsley or chives if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "black-pudding",
+    "comfort-food",
+    "dairy-free",
+    "one-pan",
+    "papillote",
+    "slovakian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "vividly-peppery-slovakian-black-pudding-papillote",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vividly-peppery-slovakian-black-pudding-papillote",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:03:23Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "bouncy-qq",
+    "mood": "sick-day",
+    "technique": "papillote",
+    "primaryIngredient": "black pudding",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "black pudding",
+    "descriptor": "Vividly peppery",
+    "dishForm": "Papillote"
+  }
+}
