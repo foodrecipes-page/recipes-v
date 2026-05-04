@@ -1,0 +1,111 @@
+{
+  "title": "Vibrant Umami Croatian Vegetable Skewers",
+  "description": "A colorful and flavorful plant-based Croatian dish featuring tamarind paste and infused oil, perfect for a crowd-pleasing dinner or snack.",
+  "cuisine": "Croatian",
+  "diet": [
+    "plant-based",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tamarind paste",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 large",
+      "notes": "cut into 1-inch slices"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini, cut into 1-inch pieces"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a small bowl, whisk together tamarind paste, olive oil, garlic, smoked paprika, salt, and black pepper to make the infused oil.",
+    "Thread the red bell pepper, zucchini, cherry tomatoes, onion, and mushrooms onto skewers, leaving a little space between each piece.",
+    "Brush the infused oil mixture onto both sides of the vegetables.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the vegetables are tender and lightly charred.",
+    "Serve the skewers hot, garnished with fresh parsley or cilantro if desired.",
+    "Let the skewers rest for a few minutes before serving to allow the juices to redistribute.",
+    "Serve with your favorite sides, such as quinoa or roasted potatoes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "gluten-free",
+    "plant-based",
+    "summer-grilling",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "vibrant-umami-croatian-vegetable-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-umami-croatian-vegetable-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:27:53Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "bouncy-qq",
+    "mood": "crowd-pleaser",
+    "technique": "infuse-oil",
+    "primaryIngredient": "tamarind paste",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Vibrant Umami",
+    "dishForm": "Skewers"
+  }
+}
