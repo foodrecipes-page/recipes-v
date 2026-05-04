@@ -1,0 +1,102 @@
+{
+  "title": "Velvety Irish Barley Casserole",
+  "description": "A malty, chewy one-pot Irish barley dish sweetened with maple syrup and brightened by fermented kimchi, served solo for a satvik-friendly dinner.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish barley",
+      "amount": "200g"
+    },
+    {
+      "name": "Water",
+      "amount": "600ml"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "30ml"
+    },
+    {
+      "name": "Fermented kimchi",
+      "amount": "50g",
+      "notes": "lightly fermented"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "5g"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "10ml"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "2g"
+    },
+    {
+      "name": "Fresh rosemary",
+      "amount": "2g"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "5ml"
+    }
+  ],
+  "instructions": [
+    "Heat the fondue pot over medium heat and add the olive oil.",
+    "Sauté the thyme and rosemary until fragrant, about 30 seconds.",
+    "Add the barley and stir to coat in the herbs and oil.",
+    "Pour in the water and bring the mixture to a gentle boil, then reduce to a low simmer.",
+    "Stir in the maple syrup, sea salt, and black pepper, ensuring the syrup dissolves completely.",
+    "Cover the pot and let the barley cook for 45 minutes, stirring occasionally to prevent sticking.",
+    "After 45 minutes, add the fermented kimchi and stir to combine.",
+    "Continue simmering for an additional 10 minutes until the barley is tender and the liquid is absorbed.",
+    "Stir in the lemon juice and adjust seasoning if needed.",
+    "Serve hot, ladling the casserole directly from the fondue pot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "barley",
+    "chewy",
+    "fondue-pot",
+    "irish",
+    "malty",
+    "solo-dinner",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 12,
+    "carbs": 70,
+    "fat": 10
+  },
+  "slug": "velvety-irish-barley-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-irish-barley-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:05:18Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "chewy",
+    "mood": "solo-dinner",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "maple syrup",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "barley",
+    "descriptor": "Velvety",
+    "dishForm": "Casserole"
+  }
+}
