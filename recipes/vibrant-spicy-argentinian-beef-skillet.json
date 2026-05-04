@@ -1,0 +1,99 @@
+{
+  "title": "Vibrant Spicy Argentinian Beef Skillet",
+  "description": "A one-pot Argentinian dish featuring red chilli and low-carb ingredients, with a mustardy flavor and aerated texture from puff pastry",
+  "cuisine": "Argentinian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "red chilli flakes",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "Roll out the puff pastry on a floured surface to a thickness of 1/8 inch",
+    "In a large skillet, heat the olive oil over medium-high heat",
+    "Add the beef strips and cook until browned, about 3-4 minutes",
+    "Add the diced onion and cook until translucent, about 3-4 minutes",
+    "Add the minced garlic and cook for 1 minute",
+    "Stir in the Dijon mustard, red chilli flakes, salt, and black pepper",
+    "Place the puff pastry over the skillet, tucking the edges under the beef mixture",
+    "Bake the skillet in the preheated oven for 15-20 minutes, or until the pastry is golden brown"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "beef-recipes",
+    "gluten-free",
+    "low-carb",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "vibrant-spicy-argentinian-beef-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-spicy-argentinian-beef-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:08:33Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "aerated",
+    "mood": "one-pot",
+    "technique": "lamination-puff",
+    "primaryIngredient": "red chilli",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Vibrant Spicy",
+    "dishForm": "Skillet"
+  }
+}

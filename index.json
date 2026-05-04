@@ -3632,6 +3632,21 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-umami-turkish-scamorza-pide",
+    "title": "Velvety Umami Turkish Scamorza Pide",
+    "tags": [
+      "cheesy",
+      "date-night",
+      "diabetic-friendly",
+      "gluten-free",
+      "turkish-cuisine",
+      "umami-rich"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 45,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-uruguayan-apricot-bhuna",
     "title": "Velvety Uruguayan Apricot Bhuna",
     "tags": [
@@ -4422,6 +4437,20 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 25,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-spicy-argentinian-beef-skillet",
+    "title": "Vibrant Spicy Argentinian Beef Skillet",
+    "tags": [
+      "argentinian-cuisine",
+      "beef-recipes",
+      "gluten-free",
+      "low-carb",
+      "one-pan"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 45,
     "shard": "v"
   },
   {
