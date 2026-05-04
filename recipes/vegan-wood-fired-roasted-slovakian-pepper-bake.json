@@ -1,0 +1,109 @@
+{
+  "title": "Vegan Wood-Fired Roasted Slovakian Pepper Bake",
+  "description": "A light and comforting vegan dish featuring roasted peppers, baked to perfection in a wood-fired oven.",
+  "cuisine": "slovakian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 bell peppers",
+      "amount": "any color",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 onion",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup vegan mozzarella cheese",
+      "amount": "shredded",
+      "notes": ""
+    },
+    {
+      "name": "1 cup breadcrumbs",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon paprika",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper to taste",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon chopped fresh parsley",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 400°F (200°C).",
+    "Cut the peppers in half and remove the seeds and membranes.",
+    "In a large bowl, mix together the olive oil, onion, garlic, paprika, salt, and pepper.",
+    "Place the peppers in a comal or large baking dish and brush with the oil mixture.",
+    "Cover the comal with foil and bake for 30 minutes.",
+    "Remove the foil and top each pepper with vegan mozzarella cheese and breadcrumbs.",
+    "Return to the oven and bake for an additional 15 minutes, or until the cheese is melted and bubbly.",
+    "Garnish with chopped parsley.",
+    "Serve hot and enjoy!",
+    "Let the peppers cool slightly before serving.",
+    "If desired, serve with a side of your favorite dipping sauce.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "comfort-food",
+    "gluten-free",
+    "one-pan",
+    "slovakian",
+    "vegan",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "vegan-wood-fired-roasted-slovakian-pepper-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/vegan-wood-fired-roasted-slovakian-pepper-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:15:50Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "roasted pepper",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Pepper",
+    "descriptor": "Vegan Wood-Fired Roasted",
+    "dishForm": "Bake"
+  }
+}

@@ -243,6 +243,22 @@
     "shard": "v"
   },
   {
+    "slug": "vegan-wood-fired-roasted-slovakian-pepper-bake",
+    "title": "Vegan Wood-Fired Roasted Slovakian Pepper Bake",
+    "tags": [
+      "baked",
+      "comfort-food",
+      "gluten-free",
+      "one-pan",
+      "slovakian",
+      "vegan",
+      "wood-fired"
+    ],
+    "cuisine": "slovakian",
+    "totalTimeMin": 60,
+    "shard": "v"
+  },
+  {
     "slug": "vegeta-bhuna",
     "title": "VegetaBhuna",
     "tags": [
@@ -3959,6 +3975,20 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 40,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-brine-dry-mexican-corn-elote",
+    "title": "Vibrant Brine-Dry Mexican Corn Elote",
+    "tags": [
+      "low-fat",
+      "mexican",
+      "one-pan",
+      "snack",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
