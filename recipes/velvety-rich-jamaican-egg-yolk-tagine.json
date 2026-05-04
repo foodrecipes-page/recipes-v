@@ -1,0 +1,97 @@
+{
+  "title": "Velvety Rich Jamaican Egg Yolk Tagine",
+  "description": "A low-glycemic, earthy, and silky Jamaican dish featuring egg yolks, deglaze-fond, and rich flavors, cooked in a ceramic tagine.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "egg yolks",
+      "amount": "6 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2 medium",
+      "notes": "diced, seeds removed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a ceramic tagine, heat the coconut oil over medium heat.",
+    "Add the sliced onion and cook until it is lightly browned, stirring occasionally.",
+    "Add the diced scotch bonnet peppers, minced garlic, and grated ginger, and cook for 2 minutes, stirring constantly.",
+    "Add the chicken broth, dried thyme, and a pinch of salt, and stir to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook for 10 minutes, stirring occasionally.",
+    "Stir in the egg yolks and cook for an additional 2 minutes, or until the mixture is smooth and creamy.",
+    "Remove the tagine from the heat and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ceramic-cooking",
+    "cozy-dinner",
+    "jamaican-cuisine",
+    "low-glycemic",
+    "one-pot",
+    "rich-and-creamy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 12,
+    "fat": 24
+  },
+  "slug": "velvety-rich-jamaican-egg-yolk-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-rich-jamaican-egg-yolk-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:06:51Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "silky",
+    "mood": "cozy",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "egg yolks",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "egg yolks",
+    "descriptor": "Velvety Rich",
+    "dishForm": "Tagine"
+  }
+}
