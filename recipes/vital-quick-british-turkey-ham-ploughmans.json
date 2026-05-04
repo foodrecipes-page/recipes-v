@@ -1,0 +1,102 @@
+{
+  "title": "Vital Quick British Turkey Ham Ploughmans",
+  "description": "A fresh and quick British dish featuring turkey ham and steamed vegetables, perfect for a light lunch or snack, with anti-inflammatory friendly ingredients.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Turkey Ham",
+      "amount": "8 slices",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Mixed Greens",
+      "amount": "4 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Fill a large pot with 2 inches of water and bring to a boil over high heat.",
+    "Reduce the heat to medium-low and place a steamer basket over the pot.",
+    "Add the sliced carrots to the steamer basket and cover with a lid.",
+    "Steam the carrots for 5 minutes, or until they are tender but still crisp.",
+    "While the carrots are steaming, slice the turkey ham into thin strips.",
+    "In a small bowl, whisk together the apple cider vinegar and olive oil.",
+    "Add the sliced cucumber and cherry tomatoes to the bowl and toss to coat with the dressing.",
+    "To assemble the ploughmans, place a slice of turkey ham on a plate, then top with a spoonful of the steamed carrots, a handful of mixed greens, and a spoonful of the cucumber and tomato mixture.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british-cuisine",
+    "easy-lunch",
+    "gluten-free",
+    "healthy-snack",
+    "low-carb",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "vital-quick-british-turkey-ham-ploughmans",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vital-quick-british-turkey-ham-ploughmans",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:08:13Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "molten",
+    "mood": "quick-fix",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "turkey ham",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "turkey ham",
+    "descriptor": "Vital Quick",
+    "dishForm": "Ploughmans"
+  }
+}
