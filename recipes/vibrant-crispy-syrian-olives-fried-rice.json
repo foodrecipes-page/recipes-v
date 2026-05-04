@@ -1,0 +1,108 @@
+{
+  "title": "Vibrant Crispy Syrian Olives Fried-Rice",
+  "description": "A salty, crispy, festive Syrian dish featuring Castelvetrano olives and fry‑grind rice, perfect for a quick low‑FODMAP dinner.",
+  "cuisine": "syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "short-grain rice",
+      "amount": "200g"
+    },
+    {
+      "name": "Castelvetrano olives",
+      "amount": "50g",
+      "notes": "pitted, sliced"
+    },
+    {
+      "name": "low-FODMAP vegetable stock",
+      "amount": "300ml"
+    },
+    {
+      "name": "carrots",
+      "amount": "50g",
+      "notes": "diced"
+    },
+    {
+      "name": "frozen peas",
+      "amount": "50g"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "scallions green parts",
+      "amount": "2"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice in a fine‑mesh sieve until the water runs clear, then drain thoroughly.",
+    "Bring the stock to a simmer in a saucepan, add the drained rice, cover, reduce heat, and cook for 18 minutes until tender, then remove from heat and set aside.",
+    "Heat 2 tbsp of oil in a wok over medium‑high heat, add the sliced Castelvetrano olives, and fry for 2 minutes until lightly crispy, then remove with a slotted spoon and set aside.",
+    "Sauté the diced carrots in the same oil until slightly translucent, about 3 minutes, then add the frozen peas and stir‑fry for another 2 minutes.",
+    "Push the vegetable mixture to one side of the wok, crack the eggs into the empty space, and scramble them until just set before stirring them into the vegetables.",
+    "Add the cooked rice and fried olives to the wok, stir‑fry for 3–4 minutes, seasoning with salt and pepper, and then add the green parts of the scallions and chopped parsley in the last minute.",
+    "Sprinkle sesame seeds over the dish, give a final toss, and transfer the fragrant, crispy fried rice to a serving platter.",
+    "Serve immediately while hot for maximum crunchiness and flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fodmap-friendly",
+    "one-pan",
+    "quick",
+    "syrian-heritage",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 792,
+    "protein": 23,
+    "carbs": 82,
+    "fat": 47
+  },
+  "slug": "vibrant-crispy-syrian-olives-fried-rice",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-crispy-syrian-olives-fried-rice",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:01:35Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crispy",
+    "mood": "festive",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "castelvetrano-olives",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Olives",
+    "descriptor": "Vibrant Crispy",
+    "dishForm": "Fried-Rice"
+  }
+}
