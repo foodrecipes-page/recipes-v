@@ -1,0 +1,71 @@
+{
+  "title": "velvety nostalgic Slovakian grassy Galette",
+  "description": "a nostalgic dessert featuring a velvety texture and a grassy Slovakian twist, featuring full fat sour cream and tempering chocolate.",
+  "cuisine": "slovakian",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ground poppy seeds",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "full fat sour cream",
+      "amount": "1 cup",
+      "notes": "raw-friendly"
+    }
+  ],
+  "name": "granulated sugar",
+  "amount": "1 cup",
+  "notes": "use high-quality, fine-grained sugar for the best results",
+  "instructions": [
+    "In a large bowl, combine the ground poppy seeds, all-purpose flour and a pinch of salt."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "dessert",
+    "grassy",
+    "slovakian",
+    "tempering-chocolate",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 35
+  },
+  "slug": "velvety-nostalgic-slovakian-grassy-galette",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-nostalgic-slovakian-grassy-galette",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:41:48Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "full fat sour cream",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "grassy",
+    "descriptor": "velvety nostalgic",
+    "dishForm": "Galette"
+  }
+}

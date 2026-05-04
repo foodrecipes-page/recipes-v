@@ -1,0 +1,105 @@
+{
+  "title": "vegan savoury norwegian fries hash",
+  "description": "a hearty, umami-filled, crunchy norwegian dish featuring fries and nimono-simmer, perfect for a weeknight dinner.",
+  "cuisine": "norwegian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "frozen french fries",
+      "amount": "500g",
+      "notes": "preferably organic or locally sourced"
+    },
+    {
+      "name": "tofu",
+      "amount": "200g",
+      "notes": "drained and cubed"
+    },
+    {
+      "name": "nimono broth",
+      "amount": "250ml",
+      "notes": "homemade or store-bought, low-sodium"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "0.5 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "heat 1 tbsp olive oil in a large pan over medium-high heat.",
+    "add the french fries and cook until golden brown, about 5-7 minutes.",
+    "remove the fries from the pan and set aside.",
+    "in the same pan, add the remaining 1 tbsp olive oil and cook the tofu until golden brown, about 5 minutes.",
+    "add the nimono broth, soy sauce, thyme, onion powder, and garlic powder to the pan and stir to combine.",
+    "add the cooked fries back to the pan and stir to combine.",
+    "season with salt and black pepper to taste.",
+    "transfer the mixture to a serving dish and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "fries",
+    "norwegian",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 20,
+    "carbs": 70,
+    "fat": 22
+  },
+  "slug": "vegan-savoury-norwegian-fries-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/vegan-savoury-norwegian-fries-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:41:31Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "fries",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Fries",
+    "descriptor": "Vegan Savoury",
+    "dishForm": "Hash"
+  }
+}
