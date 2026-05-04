@@ -1501,6 +1501,21 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-fried-kenyan-sardines-skewers",
+    "title": "Velvety Fried Kenyan Sardines Skewers",
+    "tags": [
+      "fodmap-friendly",
+      "fried-food",
+      "gluten-free",
+      "kenyan-cuisine",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 27,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-garlicky-melon-stir-fry",
     "title": "Velvety Garlicky Melon Stir-fry",
     "tags": [
@@ -3503,6 +3518,21 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 45,
+    "shard": "v"
+  },
+  {
+    "slug": "vivid-malaysian-egg-noodle-noodles",
+    "title": "Vivid Malaysian Egg Noodle Bowl",
+    "tags": [
+      "cheese-pull",
+      "dairy-free",
+      "egg-noodles",
+      "malaysian",
+      "quick",
+      "sick-day"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 20,
     "shard": "v"
   },
   {

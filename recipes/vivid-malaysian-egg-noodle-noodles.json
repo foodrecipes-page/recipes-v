@@ -1,0 +1,109 @@
+{
+  "title": "Vivid Malaysian Egg Noodle Bowl",
+  "description": "A peppery, dairy-free egg noodle bowl with a melt-in-your-mouth cheese pull, perfect for a quick sick‑day meal.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "egg noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "400ml"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "100ml"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch, minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime",
+      "amount": "1, juiced"
+    },
+    {
+      "name": "vegan cheddar cheese",
+      "amount": "80g"
+    },
+    {
+      "name": "scallions",
+      "amount": "2, sliced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and blanch the egg noodles for 2 minutes, then drain and set aside.",
+    "In the same pot, heat 1 tbsp of oil over medium heat, add minced garlic and ginger, and sauté for 30 seconds until fragrant.",
+    "Pour in vegetable broth and coconut milk, bring to a simmer.",
+    "Stir in soy sauce, lime juice, and black pepper, and simmer for 3 minutes.",
+    "Return the blanched noodles to the pot, tossing to coat with the sauce.",
+    "Sprinkle the vegan cheddar cheese over the noodles, cover, and let it melt for 2 minutes.",
+    "Garnish with sliced scallions, chopped cilantro, and a pinch of chili flakes if desired.",
+    "Serve hot in bowls, adding extra lime wedges on the side.",
+    "Enjoy as a comforting, peppery, dairy-free dish for a sick-day recovery."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "cheese-pull",
+    "dairy-free",
+    "egg-noodles",
+    "malaysian",
+    "quick",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 740,
+    "protein": 23,
+    "carbs": 67,
+    "fat": 40
+  },
+  "slug": "vivid-malaysian-egg-noodle-noodles",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/vivid-malaysian-egg-noodle-noodles",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:15:31Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "cheese-pull",
+    "mood": "sick-day",
+    "technique": "blanch",
+    "primaryIngredient": "egg noodles",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "egg noodle",
+    "descriptor": "Vivid",
+    "dishForm": "Noodles"
+  }
+}

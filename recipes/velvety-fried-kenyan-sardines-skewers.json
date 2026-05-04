@@ -1,0 +1,94 @@
+{
+  "title": "Velvety Fried Kenyan Sardines Skewers",
+  "description": "A fatty and silky weeknight Kenyan dish featuring sardines, agemono-deep-fry, and FODMAP-friendly ingredients. This recipe is perfect for a quick and delicious dinner.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free",
+    "low-fiber"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sardines",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "In a bowl, mix together the chopped onion, garlic-infused oil, salt, and black pepper.",
+    "Add the chopped sardines to the bowl and mix well.",
+    "Thread the sardine mixture onto skewers, leaving a small space between each piece.",
+    "Dip each skewer into the coconut milk, coating the sardines completely.",
+    "Carefully place the skewers into the hot oil and fry for 3-4 minutes on each side.",
+    "Remove the skewers from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the skewers hot, squeezed with lemon juice.",
+    "Garnish with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "fried-food",
+    "gluten-free",
+    "kenyan-cuisine",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "velvety-fried-kenyan-sardines-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-fried-kenyan-sardines-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:15:31Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "sardines",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "sardines",
+    "descriptor": "velvety fried",
+    "dishForm": "Skewers"
+  }
+}
