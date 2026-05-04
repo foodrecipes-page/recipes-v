@@ -1,0 +1,121 @@
+{
+  "title": "Vibrant Mexican Avocado Toast",
+  "description": "A winey, bouncy Mexican-inspired toast that’s vegan and diabetic-friendly, served on a cedar plank for a rustic touch.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegan",
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "whole grain bread",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "ripe avocado",
+      "amount": "1",
+      "notes": "mashed"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "2 tbsp",
+      "notes": "softened"
+    },
+    {
+      "name": "diced tomato",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 tbsp",
+      "notes": "dry"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Place a cedar plank over medium heat until it smokes, then set aside.",
+    "Toast the bread slices on the cedar plank or a pan until golden, about 2 minutes per side.",
+    "Mash the avocado in a bowl and stir in the softened vegan butter until creamy.",
+    "Add the diced tomato, cilantro, lime juice, white wine, apple cider vinegar, oregano, smoked paprika, sea salt, and black pepper to the avocado mixture and combine gently.",
+    "Let the mixture rest for 2 minutes to allow flavors to meld.",
+    "Spread the avocado toast mixture evenly over each toasted bread slice.",
+    "Drizzle a small amount of vegan butter on top for extra richness.",
+    "Serve immediately on the cedar plank for a rustic presentation."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "cedar-plank",
+    "diabetic-friendly",
+    "fruit-based",
+    "high-fiber",
+    "mexican",
+    "no-bake",
+    "quick",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 370,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 22
+  },
+  "slug": "vibrant-mexican-avocado-toast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-mexican-avocado-toast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:08:39Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "bouncy-qq",
+    "mood": "post-workout",
+    "technique": "toast",
+    "primaryIngredient": "vegan butter",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Avocado",
+    "descriptor": "Vibrant",
+    "dishForm": "Toast"
+  }
+}

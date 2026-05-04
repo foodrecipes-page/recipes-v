@@ -3636,6 +3636,23 @@
     "shard": "v"
   },
   {
+    "slug": "vibrant-mexican-avocado-toast",
+    "title": "Vibrant Mexican Avocado Toast",
+    "tags": [
+      "cedar-plank",
+      "diabetic-friendly",
+      "fruit-based",
+      "high-fiber",
+      "mexican",
+      "no-bake",
+      "quick",
+      "vegan"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
+    "shard": "v"
+  },
+  {
     "slug": "vibrant-mexican-peas-elote-bowl",
     "title": "Vibrant Mexican Peas Elote Bowl",
     "tags": [
