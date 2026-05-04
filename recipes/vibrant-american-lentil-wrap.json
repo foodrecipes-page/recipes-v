@@ -1,0 +1,98 @@
+{
+  "title": "Vibrant American Lentil Wrap",
+  "description": "A kid-friendly American dish featuring lentils and ssam-wrap, this jain-friendly recipe is fermented and snappy, making it a great option for a quick lunch",
+  "cuisine": "American",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup",
+      "notes": "green or brown"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "hummus",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils and soak them in water for 30 minutes",
+    "Drain and cook the lentils in 2 cups of water until they are tender",
+    "Heat the ssam wrap in the microwave for 20 seconds",
+    "Spread hummus on each ssam wrap",
+    "Add sliced cucumber, carrot, and onion on top of the hummus",
+    "Add cooked lentils on top of the vegetables",
+    "Season with salt and pepper to taste",
+    "Roll up the wrap tightly and slice in half"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american-dishes",
+    "kid-friendly",
+    "lentil-recipes",
+    "quick-lunch",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "vibrant-american-lentil-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-american-lentil-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:04:39Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "snappy",
+    "mood": "kid-friendly",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "lentils",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "lentils",
+    "descriptor": "vibrant snappy",
+    "dishForm": "Wrap"
+  }
+}
