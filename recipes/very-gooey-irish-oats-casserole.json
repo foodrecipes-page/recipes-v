@@ -1,0 +1,95 @@
+{
+  "title": "Very Gooey Irish Oats Casserole",
+  "description": "A fresh and gooey Irish dish featuring oats and lamination puff, perfect for a solo dinner, and jain friendly.",
+  "cuisine": "Irish",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rolled Oats",
+      "amount": "1 cup",
+      "notes": "Old fashioned"
+    },
+    {
+      "name": "Lamination Puff",
+      "amount": "1 sheet",
+      "notes": "Thawed"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/4 cup",
+      "notes": "Melted"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Raisins",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Nutmeg",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the oats, brown sugar, raisins, cinnamon, nutmeg, and salt.",
+    "Roll out the lamination puff to a thickness of about 1/8 inch.",
+    "In a greased 6 inch round baking dish, place half of the oat mixture.",
+    "Place the rolled out lamination puff on top of the oat mixture.",
+    "Spread the melted butter over the lamination puff.",
+    "Top with the remaining oat mixture.",
+    "Bake for 35 minutes or until the top is golden brown.",
+    "Let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "comfort-food",
+    "irish-food",
+    "jain-friendly",
+    "oat-based",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "very-gooey-irish-oats-casserole",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/very-gooey-irish-oats-casserole",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-04T21:09:48Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "lamination-puff",
+    "primaryIngredient": "oats",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "oats",
+    "descriptor": "Very Gooey",
+    "dishForm": "Casserole"
+  }
+}

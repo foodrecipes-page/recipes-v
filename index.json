@@ -3918,6 +3918,21 @@
     "shard": "v"
   },
   {
+    "slug": "very-gooey-irish-oats-casserole",
+    "title": "Very Gooey Irish Oats Casserole",
+    "tags": [
+      "casserole",
+      "comfort-food",
+      "irish-food",
+      "jain-friendly",
+      "oat-based",
+      "vegetarian"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 65,
+    "shard": "v"
+  },
+  {
     "slug": "vibrant-american-lentil-wrap",
     "title": "Vibrant American Lentil Wrap",
     "tags": [
