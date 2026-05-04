@@ -1,0 +1,103 @@
+{
+  "title": "Velvety Smoky Jamaican Yam Skewers",
+  "description": "A malty, crispy, and romantic Jamaican dish featuring nuts and smoke, perfect for a dairy-free friendly meal. The combination of smoky flavors and velvety yams creates a unique taste experience.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yams",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "allspice",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together allspice, thyme, smoked paprika, salt, and black pepper.",
+    "Add the chopped yams to the bowl and toss to coat with the spice mixture.",
+    "Thread the yam cubes onto skewers, leaving a small space between each cube.",
+    "Brush the skewers with coconut oil and grill for 20 minutes, turning occasionally.",
+    "In a small bowl, mix together chopped almonds, scotch bonnet peppers, and lemon juice.",
+    "After the skewers have grilled for 15 minutes, brush with the almond mixture.",
+    "Continue grilling for an additional 5 minutes, or until the yams are tender and lightly charred.",
+    "Remove the skewers from the grill and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "grilled-vegetables",
+    "jamaican-cuisine",
+    "smoky-flavors",
+    "tropical-vibes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "velvety-smoky-jamaican-yam-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-smoky-jamaican-yam-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:13:56Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crispy",
+    "mood": "romantic",
+    "technique": "smoke",
+    "primaryIngredient": "nuts",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "yams",
+    "descriptor": "Velvety Smoky",
+    "dishForm": "Skewers"
+  }
+}
