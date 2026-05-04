@@ -3888,5 +3888,20 @@
     "cuisine": "irish",
     "totalTimeMin": 45,
     "shard": "v"
+  },
+  {
+    "slug": "vivid-smoky-mexican-corn-tacos",
+    "title": "Vivid Smoky Mexican Corn Tacos",
+    "tags": [
+      "kid-friendly",
+      "mexican",
+      "non-vegetarian",
+      "quick",
+      "smoky",
+      "whole30-friendly"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
+    "shard": "v"
   }
 ]

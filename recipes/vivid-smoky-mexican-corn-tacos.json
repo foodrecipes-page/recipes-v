@@ -1,0 +1,107 @@
+{
+  "title": "Vivid Smoky Mexican Corn Tacos",
+  "description": "Light, yeasty tacos with charred corn, harissa spice, and smoky flavor, perfect for kids and whole30 friends.",
+  "cuisine": "Mexican",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "corn tortillas",
+      "amount": "8",
+      "notes": "homemade or store-bought but whole wheat"
+    },
+    {
+      "name": "fresh corn kernels",
+      "amount": "2 cups"
+    },
+    {
+      "name": "harissa spice mix",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh lime",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "shredded red onion",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a molcajete over medium heat until it begins to smoke lightly.",
+    "Add the olive oil and let it swirl around the molcajete for 30 seconds.",
+    "Add the harissa spice mix and smoked paprika, grinding them together until fragrant.",
+    "Add the garlic and grind it into the spice base for 10 seconds.",
+    "Add the fresh corn kernels and grind them lightly to release their juices.",
+    "Add the red onion and continue grinding for 20 seconds until the mixture is slightly chunky.",
+    "Season with salt and pepper to taste, then remove from heat.",
+    "In a separate skillet, heat a splash of oil and cook the corn mixture, stirring continuously to create a smoky char.",
+    "Transfer the charred corn to a bowl, then add lime juice and chopped cilantro, stirring to combine.",
+    "Warm the corn tortillas in a dry skillet or on a griddle, then spoon the smoky corn mixture onto each.",
+    "Serve immediately, optionally garnishing with extra cilantro or a squeeze of lime."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kid-friendly",
+    "mexican",
+    "non-vegetarian",
+    "quick",
+    "smoky",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "vivid-smoky-mexican-corn-tacos",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/vivid-smoky-mexican-corn-tacos",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:21:07Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "light",
+    "mood": "kid-friendly",
+    "technique": "smoke",
+    "primaryIngredient": "harissa spice",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "corn",
+    "descriptor": "Vivid Smoky",
+    "dishForm": "Tacos"
+  }
+}
