@@ -1,0 +1,122 @@
+{
+  "title": "Velvety Festive German Lamb Sausage",
+  "description": "A tangy, velvety, and festive German dish featuring ground coriander, ideal for a weeknight dinner or as a special occasion dish.",
+  "cuisine": "German",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Mince (500g)",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince"
+    },
+    {
+      "name": "Ground Coriander",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Red Wine",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "100g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine lamb mince, onion, garlic, ground coriander, cayenne pepper, salt, and black pepper.",
+    "In a separate bowl, whisk together egg and a pinch of salt.",
+    "Add the egg mixture to the lamb mixture and mix well.",
+    "Add the Panko breadcrumbs and mix until just combined.",
+    "Cover the mixture and refrigerate for at least 30 minutes.",
+    "Heat a large non-stick pan over medium heat and add the olive oil.",
+    "Using a spoon, shape the mixture into small patties and add to the pan.",
+    "Cook for 3-4 minutes per side or until the sausage is cooked through.",
+    "Transfer the sausage to a plate and set aside.",
+    "Add the red wine to the pan and simmer for 1-2 minutes.",
+    "Return the sausage to the pan and simmer for a further 2-3 minutes.",
+    "Serve the sausage on a plate garnished with breadcrumbs and a side of your choice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "festive",
+    "german",
+    "high-protein",
+    "one-pan",
+    "sausage",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 8,
+    "fat": 20
+  },
+  "slug": "velvety-festive-german-lamb-sausage",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-festive-german-lamb-sausage",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:50:42Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "fold",
+    "primaryIngredient": "ground coriander",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Lamb",
+    "descriptor": "Velvety Festive",
+    "dishForm": "Sausage"
+  }
+}
