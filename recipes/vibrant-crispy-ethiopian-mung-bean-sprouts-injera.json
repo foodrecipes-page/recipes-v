@@ -1,0 +1,103 @@
+{
+  "title": "Vibrant Crispy Ethiopian Mung Bean Sprouts Injera",
+  "description": "A Whole30-friendly Ethiopian dish featuring crispy mung bean sprouts on a bed of injera, perfect for a romantic dinner",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "whole30",
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mung beans",
+      "amount": "1 cup",
+      "notes": "sprouted"
+    },
+    {
+      "name": "teff flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse the mung bean sprouts and blanch them in boiling water for 2 minutes",
+    "Drain the mung bean sprouts and set them aside to cool",
+    "In a large bowl, mix together the teff flour and water to form a smooth batter",
+    "Heat a non-stick skillet or injera pan over medium heat and brush with coconut oil",
+    "Pour about 1/4 cup of the batter onto the skillet and tilt to evenly coat the bottom",
+    "Cook the injera for 1-2 minutes, until the edges start to curl and the surface is dry",
+    "Repeat the process to make about 8-10 injera",
+    "In a separate pan, heat some coconut oil over medium heat and sauté the garlic and onion until softened",
+    "Add the cooled mung bean sprouts to the pan and stir to combine with the garlic and onion",
+    "Season with salt and black pepper to taste",
+    "To serve, place a few pieces of injera on a plate and top with the crispy mung bean sprouts and garnish with chopped cilantro"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "ethiopian-cuisine",
+    "gluten-free",
+    "romantic",
+    "vegan",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "vibrant-crispy-ethiopian-mung-bean-sprouts-injera",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-crispy-ethiopian-mung-bean-sprouts-injera",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:01:24Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crispy",
+    "mood": "romantic",
+    "technique": "blanch",
+    "primaryIngredient": "mung bean sprouts",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "mung bean sprouts",
+    "descriptor": "Vibrant crispy",
+    "dishForm": "Injera"
+  }
+}

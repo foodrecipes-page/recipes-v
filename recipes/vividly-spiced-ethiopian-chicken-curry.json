@@ -1,0 +1,105 @@
+{
+  "title": "Vividly Spiced Ethiopian Chicken Curry",
+  "description": "A malty, pillowy, and indulgent Ethiopian dish featuring turmeric, double-fry chicken, and a blend of spices, served on a banana leaf.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "turmeric",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the remaining 2 tablespoons of oil to the skillet and cook the onion, garlic, and ginger until the onion is translucent.",
+    "Add the turmeric, coriander, cumin, cayenne pepper, salt, and black pepper to the skillet and cook for 1 minute.",
+    "Add 1 cup of water to the skillet and bring to a boil.",
+    "Return the chicken to the skillet and simmer, covered, until the chicken is cooked through, about 15-20 minutes.",
+    "Serve the chicken curry on a banana leaf, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "international",
+    "one-pot",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "vividly-spiced-ethiopian-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vividly-spiced-ethiopian-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:00:40Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "pillowy",
+    "mood": "indulgent",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "turmeric",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "chicken",
+    "descriptor": "Vividly spiced",
+    "dishForm": "Curry"
+  }
+}

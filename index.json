@@ -3822,6 +3822,21 @@
     "shard": "v"
   },
   {
+    "slug": "vibrant-crispy-ethiopian-mung-bean-sprouts-injera",
+    "title": "Vibrant Crispy Ethiopian Mung Bean Sprouts Injera",
+    "tags": [
+      "crispy",
+      "ethiopian-cuisine",
+      "gluten-free",
+      "romantic",
+      "vegan",
+      "whole30-friendly"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 50,
+    "shard": "v"
+  },
+  {
     "slug": "vibrant-crispy-moroccan-mozzarella-chebakia",
     "title": "Vibrant Crispy Moroccan Mozzarella Chebakia",
     "tags": [
@@ -4555,6 +4570,20 @@
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 25,
+    "shard": "v"
+  },
+  {
+    "slug": "vividly-spiced-ethiopian-chicken-curry",
+    "title": "Vividly Spiced Ethiopian Chicken Curry",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "international",
+      "one-pot",
+      "spicy"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 45,
     "shard": "v"
   }
 ]
