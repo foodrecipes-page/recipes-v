@@ -1,0 +1,99 @@
+{
+  "title": "Velvety Slovakian Bananas Mousse",
+  "description": "A garlicky, aerated mousse that showcases fried ripe bananas in a shojin-friendly, Slovakian style dessert.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ripe bananas",
+      "amount": "3",
+      "notes": "peeled and mashed"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200 ml",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp",
+      "notes": "sweetener"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp",
+      "notes": "umami base"
+    },
+    {
+      "name": "aquafaba",
+      "amount": "30 ml",
+      "notes": "from canned chickpeas"
+    },
+    {
+      "name": "cashew cream",
+      "amount": "2 tbsp",
+      "notes": "for thickness"
+    },
+    {
+      "name": "sea salt",
+      "amount": "pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Peel and mash the bananas in a bowl.",
+    "Heat 2 tbsp coconut oil in a skillet over medium heat.",
+    "Fry the banana slices until golden, about 2 minutes per side.",
+    "Remove the fried bananas and set aside to cool slightly.",
+    "In a blender, combine coconut milk, garlic, maple syrup, soy sauce, aquafaba, cashew cream, and sea salt.",
+    "Blend until the mixture is smooth and aerated.",
+    "Fold in the fried banana slices gently into the mousse mixture.",
+    "Serve the mousse chilled in individual cups for a velvety finish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aerated",
+    "dessert",
+    "fried",
+    "garlic",
+    "shojin-friendly",
+    "slovakian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 505,
+    "protein": 8,
+    "carbs": 94,
+    "fat": 12
+  },
+  "slug": "velvety-slovakian-bananas-mousse",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-slovakian-bananas-mousse",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:43:10Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "aerated",
+    "mood": "show-off",
+    "technique": "emulsify",
+    "primaryIngredient": "fried ripe bananas",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Bananas",
+    "descriptor": "Velvety",
+    "dishForm": "Mousse"
+  }
+}
