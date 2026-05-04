@@ -1,0 +1,94 @@
+{
+  "title": "Vibrant Crisp American Chicken Skewers",
+  "description": "A paleo-friendly American dish featuring garlic sauce and a bain-marie cooking method, perfect for a healthy and flavorful meal prep option.",
+  "cuisine": "American",
+  "diet": [
+    "paleo",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "garlic sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together garlic sauce, lemon juice, olive oil, salt, black pepper, and paprika.",
+    "Add the chicken pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken onto the soaked wooden skewers, leaving a small space between each piece.",
+    "Place the skewers on a wooden board lined with parchment paper.",
+    "Create a bain-marie by placing the wooden board over a large pan of simmering water.",
+    "Cover the pan with aluminum foil and cook for 20 minutes.",
+    "Remove the foil and continue cooking for an additional 10-15 minutes, or until the chicken is cooked through and crispy.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "low-carb",
+    "meal-prep",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "vibrant-crisp-american-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-crisp-american-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:13:32Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crisp",
+    "mood": "meal-prep",
+    "technique": "bain-marie",
+    "primaryIngredient": "garlic sauce",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken",
+    "descriptor": "Vibrant Crisp",
+    "dishForm": "Skewers"
+  }
+}
