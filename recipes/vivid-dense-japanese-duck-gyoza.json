@@ -1,0 +1,96 @@
+{
+  "title": "Vivid Dense Japanese Duck Gyoza",
+  "description": "A sour and dense Japanese dish featuring wholegrain mustard and tempering chocolate, perfect for a date night, and sugar-free friendly.",
+  "cuisine": "Japanese",
+  "diet": [
+    "sugar-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck breast",
+      "amount": "1 pound",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "wholegrain mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "1 ounce"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "wonton wrappers",
+      "amount": "20 pieces"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the chopped duck breast, wholegrain mustard, tempering chocolate, green onions, soy sauce, sesame oil, and ginger, and mix well.",
+    "Lay a wonton wrapper on a flat surface and place a small spoonful of the duck mixture in the center of the wrapper.",
+    "Dip your finger in a small amount of water and run it along the edges of the wrapper.",
+    "Fold the wrapper into a triangle by bringing the two opposite corners together to form a point.",
+    "Press the edges together to seal the gyoza.",
+    "Repeat with the remaining wrappers and filling.",
+    "Heat a large skillet with a small amount of sesame oil over medium-high heat.",
+    "When the oil is hot, add the gyoza to the skillet and cook until the bottoms are golden brown.",
+    "Add a small amount of water to the skillet and cover with a lid to steam the gyoza.",
+    "Cook for an additional 5 minutes, then serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "duck-recipes",
+    "japanese-cuisine",
+    "low-carb",
+    "pan-fried",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "vivid-dense-japanese-duck-gyoza",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vivid-dense-japanese-duck-gyoza",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:59:57Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "wholegrain mustard",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "duck",
+    "descriptor": "Vivid Dense",
+    "dishForm": "Gyoza"
+  }
+}
