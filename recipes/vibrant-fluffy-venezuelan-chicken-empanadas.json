@@ -1,0 +1,98 @@
+{
+  "title": "Vibrant Venezuelan Chicken Empanadas",
+  "description": "A flexitarian friendly dish featuring herbal and fluffy empanadas with a kick of red chilli powder, perfect for a post workout meal",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cooked and shredded"
+    },
+    {
+      "name": "red chilli powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 375 degrees Fahrenheit",
+    "In a large bowl mix together flour and salt",
+    "Gradually add olive oil to the flour mixture and mix until a dough forms",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic",
+    "Divide the dough into 8 equal pieces and roll each into a ball",
+    "Roll out each ball into a thin circle",
+    "Place a tablespoon of shredded chicken in the center of each circle",
+    "Sprinkle red chilli powder and chopped cilantro over the chicken",
+    "Fold the dough over the filling to form a half moon shape and press the edges together to seal",
+    "Place the empanadas in the air fryer basket and cook for 5 minutes",
+    "Flip the empanadas over and cook for an additional 5 minutes"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "air-fryer",
+    "flexitarian",
+    "high-protein",
+    "one-pan",
+    "venezuelan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "vibrant-fluffy-venezuelan-chicken-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-fluffy-venezuelan-chicken-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:02:40Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "air-fry",
+    "primaryIngredient": "red chilli powder",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chicken",
+    "descriptor": "Vibrant fluffy",
+    "dishForm": "Empanadas"
+  }
+}
