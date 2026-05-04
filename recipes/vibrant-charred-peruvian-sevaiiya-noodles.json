@@ -1,0 +1,105 @@
+{
+  "title": "Vibrant Charred Peruvian Sevaiiya Noodles",
+  "description": "A one-pot Peruvian dish featuring charred sevaiiya noodles, pickle, and dairy-free friendly ingredients, this recipe combines the flavors of Peru with the comfort of noodles. It is a bouncy and qq textured dish with a smoky char.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sevaiiya noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "peruvian aji amarillo pepper",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "pickle",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large one-pot skillet over medium-high heat.",
+    "Add sliced red onion and cook until it starts to caramelize.",
+    "Add sliced aji amarillo pepper and cook for an additional 2 minutes.",
+    "Add sevaiiya noodles to the skillet and stir to combine with onion and pepper mixture.",
+    "Char the noodles by cooking for an additional 2 minutes without stirring.",
+    "Stir in soy sauce, lime juice, salt, and black pepper.",
+    "Add chopped pickle to the skillet and stir to combine.",
+    "Reduce heat to low and simmer for 5 minutes or until the noodles are cooked through.",
+    "Stir in chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "noodle-dish",
+    "one-pot",
+    "peruvian",
+    "smoky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "vibrant-charred-peruvian-sevaiiya-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-charred-peruvian-sevaiiya-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:18:17Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "bouncy-qq",
+    "mood": "one-pot",
+    "technique": "pickle",
+    "primaryIngredient": "sevaiiya",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "sevaiiya",
+    "descriptor": "vibrant charred",
+    "dishForm": "Noodles"
+  }
+}
