@@ -1,0 +1,111 @@
+{
+  "title": "Vibrant Venezuelan Annatto Stew",
+  "description": "A garlicky, dense stew bursting with ground annatto and bright peppers, perfect for a festive low‑fat dinner.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lean chicken breast",
+      "amount": "1 lb",
+      "notes": "diced"
+    },
+    {
+      "name": "low‑sodium chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "black beans",
+      "amount": "1 cup",
+      "notes": "canned, drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "ground annatto",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add the diced chicken and cook until browned on all sides, about 5 minutes.",
+    "Stir in onion, bell pepper, and garlic, sautéing until softened, about 3 minutes.",
+    "Mix in ground annatto, cumin, smoked paprika, salt, and pepper, cooking for 1 minute to bloom the spices.",
+    "Pour in the chicken broth and bring to a simmer.",
+    "Add the black beans and tomatoes, stirring to combine.",
+    "Reduce heat to low and simmer, uncovered, for 20 minutes to meld the flavors.",
+    "Taste and adjust seasoning with extra salt or pepper as needed.",
+    "Serve hot, optionally garnished with chopped cilantro or green onions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "family-friendly",
+    "holiday",
+    "low-fat",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 5
+  },
+  "slug": "vibrant-venezuelan-annatto-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-venezuelan-annatto-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:38:16Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "dense",
+    "mood": "festive",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "ground annatto",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "annatto",
+    "descriptor": "Vibrant",
+    "dishForm": "Stew"
+  }
+}

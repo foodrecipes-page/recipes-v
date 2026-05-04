@@ -2710,6 +2710,17 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-portuguese-pilchards-bowl",
+    "title": "Velvety Portuguese Pilchards Bowl",
+    "tags": [
+      "portuguese",
+      "dinner"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 40,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-pumpkin-uruguayan-stir-fry",
     "title": "Velvety Pumpkin Uruguayan Stir-fry",
     "tags": [
@@ -4575,6 +4586,20 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 32,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-venezuelan-annatto-stew",
+    "title": "Vibrant Venezuelan Annatto Stew",
+    "tags": [
+      "dinner",
+      "family-friendly",
+      "holiday",
+      "low-fat",
+      "one-pot"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 40,
     "shard": "v"
   },
   {

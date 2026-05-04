@@ -1,0 +1,97 @@
+{
+  "title": "Velvety Portuguese Pilchards Bowl",
+  "description": "A lush, midnight-craving bowl of Portuguese pilchards simmered with coconut milk and smoked paprika, finished with fresh herbs and served in a lacquerware bowl for a velvety, comforting experience.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "pescatarian",
+    "low-rajasic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pilchards fillets",
+      "amount": "6 (400g total)",
+      "notes": "fresh, small fillets"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2, minced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a skillet over medium heat.",
+    "Add diced onion and cook until translucent, about 5 minutes.",
+    "Stir in minced garlic and cook for 1 minute until fragrant.",
+    "Add pilchards fillets and cook for 2 minutes on each side until lightly browned.",
+    "Pour in coconut milk and tomato puree, then stir in smoked paprika, oregano, sea salt, and black pepper.",
+    "Reduce heat to low, cover, and simmer for 10 minutes to meld flavors and soften the fish.",
+    "Remove lid, increase heat to medium, and let the sauce thicken to a silky consistency, about 5 minutes.",
+    "Transfer the pilchards and sauce to a lacquerware bowl, garnish with chopped fresh herbs, and serve immediately."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "portuguese",
+    "dinner"
+  ],
+  "slug": "velvety-portuguese-pilchards-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-portuguese-pilchards-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:37:51Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "lamination-puff",
+    "primaryIngredient": "pilchards",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Pilchards",
+    "descriptor": "Velvety",
+    "dishForm": "Bowl"
+  }
+}
