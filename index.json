@@ -4185,6 +4185,21 @@
     "shard": "v"
   },
   {
+    "slug": "vibrant-roasted-moroccan-lamb-bissara",
+    "title": "Vibrant Roasted Moroccan Lamb Bissara",
+    "tags": [
+      "cozy-dinner",
+      "flexitarian-friendly",
+      "lamb-recipes",
+      "meal-prep",
+      "moroccan-cuisine",
+      "special-occasion"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 180,
+    "shard": "v"
+  },
+  {
     "slug": "vibrant-russian-broccoli-wrap",
     "title": "Vibrant Russian Broccoli Wrap",
     "tags": [
@@ -4228,6 +4243,21 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 55,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-smoky-brazilian-chicken-skewers",
+    "title": "Vibrant Smoky Brazilian Chicken Skewers",
+    "tags": [
+      "brazilian-food",
+      "dairy-free",
+      "gluten-free",
+      "grilled-chicken",
+      "high-protein",
+      "weeknight-meal"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {

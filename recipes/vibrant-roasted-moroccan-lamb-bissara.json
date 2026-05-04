@@ -1,0 +1,105 @@
+{
+  "title": "Vibrant Roasted Moroccan Lamb Bissara",
+  "description": "A hearty and flavorful Moroccan dish featuring roasted lamb and a unique cheese-pull effect, served in an agave leaf vessel and paired with crunchy cookies for a satisfying meal prep option. This flexitarian-friendly recipe is perfect for a special occasion or a cozy dinner.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "agave leaves",
+      "amount": "4 large"
+    },
+    {
+      "name": "moroccan cookies",
+      "amount": "1 package"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the lamb shoulder with paprika, cumin, salt, and pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat and sear the lamb until browned on all sides.",
+    "Add the chopped onion, minced garlic, and grated ginger to the pot and cook until the onion is translucent.",
+    "Transfer the pot to the preheated oven and roast the lamb for 2 1/2 hours, or until tender.",
+    "While the lamb is cooking, prepare the agave leaves by cleaning and drying them thoroughly.",
+    "Once the lamb is done, remove it from the oven and let it rest for 10 minutes before shredding it into bite-sized pieces.",
+    "To assemble the bissara, place a portion of the shredded lamb onto an agave leaf, followed by a spoonful of crumbly feta cheese and a few moroccan cookies.",
+    "Serve the bissara hot, garnished with fresh herbs and a side of crunchy cookies.",
+    "Repeat the assembly process with the remaining ingredients and store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cozy-dinner",
+    "flexitarian-friendly",
+    "lamb-recipes",
+    "meal-prep",
+    "moroccan-cuisine",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "vibrant-roasted-moroccan-lamb-bissara",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-roasted-moroccan-lamb-bissara",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:27:32Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "cheese-pull",
+    "mood": "meal-prep",
+    "technique": "roast",
+    "primaryIngredient": "cookies",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Vibrant Roasted",
+    "dishForm": "Bissara"
+  }
+}
