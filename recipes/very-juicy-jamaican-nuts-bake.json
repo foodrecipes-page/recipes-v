@@ -1,0 +1,113 @@
+{
+  "title": "Very Juicy Jamaican Nuts Bake",
+  "description": "A funky, juicy, and adventurous Jamaican dish featuring ground nut oil, glaze, and high-protein-friendly ingredients.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegetarian",
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ground almonds",
+      "amount": "2 cups",
+      "notes": "raw"
+    },
+    {
+      "name": "dates",
+      "amount": "1 cup",
+      "notes": "pitted, chopped"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground nut oil",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Grease a 9x13-inch baking dish with the melted ground nut oil.",
+    "In a large bowl, combine the ground almonds, dates, coconut sugar, eggs, vanilla extract, ground cinnamon, ground nutmeg, and salt.",
+    "Mix well until a dough forms.",
+    "Press the dough into the prepared baking dish.",
+    "Bake for 35 minutes.",
+    "While the nuts bake, prepare the glaze by whisking together the maple syrup and 1 tablespoon of water.",
+    "After the nuts have baked for 35 minutes, brush the glaze over the top of the nuts.",
+    "Return the nuts to the oven and bake for an additional 5-7 minutes, or until the glaze is set.",
+    "Remove from oven and let cool for 10 minutes before slicing and serving.",
+    "Serve warm, garnished with fresh fruit or whipped cream if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "very-juicy-jamaican-nuts-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/very-juicy-jamaican-nuts-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:49:13Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "glaze",
+    "primaryIngredient": "ground nut oil",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Nuts",
+    "descriptor": "Very Juicy",
+    "dishForm": "Bake"
+  }
+}
