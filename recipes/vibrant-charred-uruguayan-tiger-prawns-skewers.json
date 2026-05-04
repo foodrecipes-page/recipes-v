@@ -1,0 +1,105 @@
+{
+  "title": "Vibrant Charred Uruguayan Tiger Prawns Skewers",
+  "description": "A bold, gluten‑free seafood dish featuring tiger prawns marinated in dashi and smoked paprika, then charred on a binchotan grill for a smoky finish.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tiger prawns, peeled and deveined",
+      "amount": "12 (200g)"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tbsp (30ml)"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp (2g)"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp (2g)"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp (5g)"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp (2g)"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp (15ml)"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp (15ml)"
+    },
+    {
+      "name": "red onion, cut into wedges",
+      "amount": "1 small (50g)"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2 (6g)"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "1 small bunch (10g)"
+    }
+  ],
+  "instructions": [
+    "Whisk dashi extract, smoked paprika, cumin, salt, pepper, olive oil, lime juice, and garlic in a bowl.",
+    "Add the prawns, stir to coat, cover, and refrigerate for 10 minutes.",
+    "Preheat a binchotan grill to medium‑high and lightly oil the grates.",
+    "Thread each prawn onto a skewer, followed by an onion wedge and a pinch of cilantro, repeating until all are skewered.",
+    "Place the skewers on the grill and cook for 3 minutes; flip and cook another 3 minutes until prawns are opaque and onions are charred.",
+    "During the last minute of grilling, brush each skewer with leftover marinade to enhance flavor.",
+    "Remove the skewers and let them rest for 2 minutes to redistribute juices.",
+    "Arrange on a platter, drizzle a touch of lime juice, and sprinkle extra cilantro.",
+    "Serve immediately with quinoa or a simple mixed green salad.",
+    "Enjoy the smoky, savory flavor of the charred tiger prawns while still warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 6,
+  "totalTimeMin": 21,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "binchotan",
+    "charred",
+    "gluten-free",
+    "gourmet",
+    "seafood",
+    "spicy",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 10,
+    "carbs": 1,
+    "fat": 5
+  },
+  "slug": "vibrant-charred-uruguayan-tiger-prawns-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-charred-uruguayan-tiger-prawns-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:19:08Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "flaky",
+    "mood": "adventurous",
+    "technique": "dashi-extract",
+    "primaryIngredient": "tiger prawns",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "tiger prawns",
+    "descriptor": "Vibrant Charred",
+    "dishForm": "Skewers"
+  }
+}
