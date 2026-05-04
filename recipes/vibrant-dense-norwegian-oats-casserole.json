@@ -1,0 +1,95 @@
+{
+  "title": "Vibrant Dense Norwegian Oats Casserole",
+  "description": "A cultured, dense brunch casserole that marries oats, apple juice, and anti‑inflammatory ingredients for a warm, satisfying start to the day.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "anti-inflammatory"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "200 g"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "400 ml"
+    },
+    {
+      "name": "apple juice",
+      "amount": "200 ml"
+    },
+    {
+      "name": "ground flaxseed",
+      "amount": "30 g"
+    },
+    {
+      "name": "dried cranberries",
+      "amount": "50 g"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "50 g"
+    },
+    {
+      "name": "raw honey",
+      "amount": "20 g"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180 C and grease a medium baking dish.",
+    "In a bowl mix the oats, flaxseed, cranberries, walnuts, salt, and cinnamon.",
+    "Whisk the almond milk, apple juice, honey, and lemon zest in a separate bowl until fully combined.",
+    "Pour the liquid mixture over the dry ingredients and stir until everything is evenly moistened.",
+    "Transfer the mixture to the prepared baking dish and spread it out evenly.",
+    "Bake for 30 minutes until the top is golden and the oats are set.",
+    "Let the casserole rest for 10 minutes before slicing to set the flavors.",
+    "Serve warm with a drizzle of extra honey if desired."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "norwegian",
+    "breakfast"
+  ],
+  "slug": "vibrant-dense-norwegian-oats-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-dense-norwegian-oats-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:50:31Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "rest",
+    "primaryIngredient": "apple juice",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Oats",
+    "descriptor": "Vibrant Dense",
+    "dishForm": "Casserole"
+  }
+}
