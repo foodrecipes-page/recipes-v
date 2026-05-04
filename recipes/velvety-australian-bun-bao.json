@@ -1,0 +1,117 @@
+{
+  "title": "Velvety Australian Bun Bao",
+  "description": "A date-night dish featuring bun, dashi-extract, and an ayurvedic-sattvic-friendly twist.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Buns",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Dashi-Extract",
+      "amount": "",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Wild Mushrooms",
+      "amount": "",
+      "notes": "shiitake or oyster"
+    },
+    {
+      "name": "Australian Abalone",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Kombu Seaweed",
+      "amount": "",
+      "notes": "dried"
+    },
+    {
+      "name": "Shaoxing Wine",
+      "amount": "",
+      "notes": "or dry sherry"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2",
+      "notes": "grated"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "",
+      "notes": "or coconut sugar"
+    },
+    {
+      "name": "Scallions",
+      "amount": "",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C. Prepare a baking sheet by lining it with parchment paper.",
+    "In a small saucepan, combine dashi-extract and shaoxing wine. Bring to a simmer over medium heat.",
+    "In a large skillet, heat vegetable oil over medium-high heat. Add ginger and cook for 1 minute.",
+    "Add wild mushrooms to the skillet and cook until browned, about 4 minutes.",
+    "Add abalone to the skillet and cook for an additional 2 minutes, until browned.",
+    "Transfer the skillet contents to a baking dish. Add kombu seaweed, soy sauce, and brown sugar. Mix well.",
+    "Bake in the preheated oven for 10 minutes, or until the liquid has reduced slightly.",
+    "Meanwhile, steam the buns until heated through.",
+    "To assemble the bun bao, place a cooked bun on a plate and top with a spoonful of the abalone-mushroom mixture.",
+    "Garnish with chopped scallions and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "ayurvedic",
+    "date-night",
+    "pescatarian",
+    "sattvic",
+    "seafood",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "velvety-australian-bun-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-australian-bun-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:29:27Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "dashi-extract",
+    "primaryIngredient": "bun",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "bun",
+    "descriptor": "velvety",
+    "dishForm": "bao"
+  }
+}

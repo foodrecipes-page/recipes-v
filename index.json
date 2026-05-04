@@ -760,6 +760,22 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-australian-bun-bao",
+    "title": "Velvety Australian Bun Bao",
+    "tags": [
+      "australian",
+      "ayurvedic",
+      "date-night",
+      "pescatarian",
+      "sattvic",
+      "seafood",
+      "vegetarian"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 45,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-australian-cod-soup",
     "title": "Velvety Australian Cod Soup",
     "tags": [],
@@ -1696,6 +1712,20 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-fresh-australian-taleggio-lasagna",
+    "title": "Velvety Fresh Australian Taleggio Lasagna",
+    "tags": [
+      "australian",
+      "easy",
+      "healthy",
+      "italian",
+      "weeknight"
+    ],
+    "cuisine": "austalian",
+    "totalTimeMin": 60,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-fresh-german-peppers-casserole",
     "title": "Velvety Fresh German Peppers Casserole",
     "tags": [
@@ -1963,6 +1993,20 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-indian-shrimp-curry",
+    "title": "Velvety Indian Shrimp Curry",
+    "tags": [
+      "comfort-food",
+      "curry",
+      "indian",
+      "nighttime",
+      "seafood"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 45,
     "shard": "v"
   },
   {

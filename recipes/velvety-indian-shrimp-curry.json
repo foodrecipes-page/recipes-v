@@ -1,0 +1,126 @@
+{
+  "title": "Velvety Indian Shrimp Curry",
+  "description": "A rich and creamy Indian-inspired curry made with succulent shrimp, perfect for a mid-night craving.",
+  "cuisine": "Indian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Shrimp stock",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Tomato puree",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Curry powder",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add onion and cook until translucent, about 5 minutes.",
+    "Add ginger and garlic and cook for another minute.",
+    "Add shrimp and cook until pink, about 2-3 minutes.",
+    "Add shrimp stock, coconut milk, tomato puree, curry powder, cumin, coriander, salt, and cayenne pepper.",
+    "Stir well and bring to a boil.",
+    "Reduce heat to low and simmer for 10-15 minutes or until the sauce has thickened.",
+    "Stir in cilantro and cook for another minute.",
+    "Serve hot over basmati rice or with naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "curry",
+    "indian",
+    "nighttime",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 25
+  },
+  "slug": "velvety-indian-shrimp-curry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-indian-shrimp-curry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:29:22Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "velvety",
+    "mood": "midnight-craving",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "shrimp stock",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "shrimp",
+    "descriptor": "velvety",
+    "dishForm": "curry"
+  }
+}

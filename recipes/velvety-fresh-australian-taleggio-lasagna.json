@@ -1,0 +1,117 @@
+{
+  "title": "Velvety Fresh Australian Taleggio Lasagna",
+  "description": "A fresh, cozy take on the classic Italian dish, featuring Australian taleggio cheese and a dairy-free yuzu-cure.",
+  "cuisine": "austalian",
+  "diet": [
+    "vegetarian",
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "taleggio cheese",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "lasagna noodles",
+      "amount": "12-16 sheets",
+      "notes": "dairy-free option available"
+    },
+    {
+      "name": "yuzu-cure",
+      "amount": "4 tablespoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "",
+      "},{": ".name"
+    },
+    {
+      "name": "dried basil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the lasagna noodles according to the package instructions.",
+    "In a medium bowl, combine the yuzu-cure, minced garlic, salt, and pepper. ",
+    "In a large bowl, combine the taleggio cheese, chopped parsley, lemon juice, and olive oil.",
+    "In a separate bowl, combine the cooked lasagna noodles, the yuzu-cure mixture, and the taleggio cheese mixture. ",
+    "Transfer the mixture to a 9x13 inch baking dish and spread it evenly. ",
+    "Sprinkle the nutritional yeast and oregano over the top of the lasagna. ",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Let the lasagna rest for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 35,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "easy",
+    "healthy",
+    "italian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "velvety-fresh-australian-taleggio-lasagna",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-fresh-australian-taleggio-lasagna",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:29:34Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "velvety",
+    "mood": "cozy",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "taleggio",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "taleggio",
+    "descriptor": "velvety fresh",
+    "dishForm": "Lasagna"
+  }
+}
