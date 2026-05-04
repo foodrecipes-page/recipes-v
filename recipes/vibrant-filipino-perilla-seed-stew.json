@@ -1,0 +1,124 @@
+{
+  "title": "Vibrant Filipino Perilla Seed Stew",
+  "description": "Tangy aerated hangover cure stew featuring perilla seed deulkkae, reminiscent of classic pinakbet but with a bright citrus twist.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegan",
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "perilla seeds deulkkae",
+      "amount": "2 tbsp",
+      "notes": "toasted until fragrant"
+    },
+    {
+      "name": "eggplant",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "green beans",
+      "amount": "1 cup",
+      "notes": "trimmed"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a dry pan over medium heat and toast the perilla seeds deulkkae until fragrant, about 2 minutes.",
+    "In a large pot, sauté the onion, garlic, and ginger in a splash of oil until translucent, about 3 minutes.",
+    "Add the diced sweet potato, eggplant, and zucchini to the pot and cook for another 5 minutes, stirring frequently.",
+    "Pour in the vegetable broth and bring the mixture to a gentle boil, then reduce heat to maintain a steady simmer.",
+    "Add the green beans, toasted perilla seeds, soy sauce, lime juice, and lime zest, stirring to combine.",
+    "Simmer the stew uncovered for 15 minutes, or until the vegetables are tender and flavors meld.",
+    "Taste and adjust seasoning with salt as needed.",
+    "Remove from heat and stir in chopped fresh cilantro.",
+    "Serve the stew hot, optionally accompanied by steamed rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "hangover-cure",
+    "low-glycemic",
+    "pinakbet-inspired",
+    "soup",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 7,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "vibrant-filipino-perilla-seed-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-filipino-perilla-seed-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:36:59Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "aerated",
+    "mood": "hangover-cure",
+    "technique": "poach",
+    "primaryIngredient": "perilla-seed-deulkkae",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Perilla Seed",
+    "descriptor": "Vibrant",
+    "dishForm": "Stew"
+  }
+}
