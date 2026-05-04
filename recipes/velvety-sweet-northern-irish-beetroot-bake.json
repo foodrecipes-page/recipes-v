@@ -1,0 +1,113 @@
+{
+  "title": "Velvety Sweet Northern Irish Beetroot Bake",
+  "description": "A comforting, creamy dish from Northern Ireland featuring cooked beetroot, perfect for a cozy meal or snack.",
+  "cuisine": "British",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beetroot",
+      "amount": "4 medium-sized",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "60g",
+      "notes": ""
+    },
+    {
+      "name": "low-fat milk",
+      "amount": "250ml",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Peel and chop the beetroot into 2cm (¾ inch) cubes.",
+    "In a medium saucepan, melt the butter over low heat.",
+    "Add the flour and cook for 1-2 minutes, stirring constantly, to make a roux.",
+    "Gradually add the milk, whisking continuously, and bring to a simmer.",
+    "Add the baking powder and salt, and cook for 2-3 minutes, or until the sauce thickens.",
+    "Add the cooked beetroot, brown sugar, eggs, and plain yogurt to the saucepan and stir until well combined.",
+    "Pour the mixture into a greased 20cm (8 inch) round baking dish or wooden board.",
+    "Drizzle the honey over the top and sprinkle with fresh thyme.",
+    "Bake for 35 minutes, or until the top is golden brown and the edges are set.",
+    "Remove from the oven and let cool for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "comfort-food",
+    "low-calorie",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "velvety-sweet-northern-irish-beetroot-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-sweet-northern-irish-beetroot-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:34:15Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "creamy",
+    "mood": "nostalgic",
+    "technique": "emulsify",
+    "primaryIngredient": "cooked beetroot",
+    "diet": "low-calorie",
+    "region": "northern-irish",
+    "cuisineAdjective": "Northern Irish",
+    "mainIngredient": "Beetroot",
+    "descriptor": "Velvety Sweet",
+    "dishForm": "Bake"
+  }
+}

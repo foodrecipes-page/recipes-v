@@ -1,0 +1,113 @@
+{
+  "title": "Velvety Australian Lamb Roast",
+  "description": "A rich and indulgent lamb roast recipe featuring a velvety sake glaze, perfect for a special occasion dinner.",
+  "cuisine": "australian",
+  "diet": [
+    "lamb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": ""
+    },
+    {
+      "name": "Sake",
+      "amount": "1 cup",
+      "notes": "Japanese rice wine for added depth of flavor"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 tsp",
+      "notes": "Freshly grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Rosemary",
+      "amount": "2 sprigs",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "4-6",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "Rub the lamb shoulder with olive oil, salt, and pepper, making sure to coat it evenly.",
+    "In a small saucepan, combine sake, honey, brown sugar, ginger, and garlic. Bring to a simmer over medium heat, whisking until the sugar dissolves.",
+    "Transfer the lamb to a large roasting pan and brush the sake glaze all over the meat.",
+    "Place the rosemary sprigs on top of the lamb and roast in the preheated oven for 20 minutes per kilogram, or until the internal temperature reaches 60°C (140°F) for medium-rare.",
+    "While the lamb is roasting, peel and chop the potatoes into large chunks.",
+    "After the lamb has rested for 10 minutes, slice it thinly against the grain and serve with the potatoes, spooning some of the remaining sake glaze over the top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 360,
+  "totalTimeMin": 390,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "dinner",
+    "gluten-free",
+    "lamb",
+    "one-pan",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 54,
+    "carbs": 24,
+    "fat": 45
+  },
+  "slug": "velvety-australian-lamb-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-australian-lamb-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:34:37Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "velvety",
+    "mood": "indulgent",
+    "technique": "glaze",
+    "primaryIngredient": "sake",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "lamb",
+    "descriptor": "velvety",
+    "dishForm": "roast"
+  }
+}

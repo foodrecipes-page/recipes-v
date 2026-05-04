@@ -816,6 +816,21 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-australian-lamb-roast",
+    "title": "Velvety Australian Lamb Roast",
+    "tags": [
+      "australian",
+      "dinner",
+      "gluten-free",
+      "lamb",
+      "one-pan",
+      "special-occasion"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 390,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-australian-ricotta-bake",
     "title": "Velvety Australian Ricotta Bake",
     "tags": [
@@ -1396,6 +1411,19 @@
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-earthly-polish-stew",
+    "title": "Velvety Earthly Polish Stew",
+    "tags": [
+      "comfort-food",
+      "lacto-vegetarian",
+      "one-pot",
+      "sick-day"
+    ],
+    "cuisine": "polish",
+    "totalTimeMin": 45,
     "shard": "v"
   },
   {
@@ -3763,6 +3791,20 @@
     "tags": [],
     "cuisine": "Mexican",
     "totalTimeMin": null,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-sweet-northern-irish-beetroot-bake",
+    "title": "Velvety Sweet Northern Irish Beetroot Bake",
+    "tags": [
+      "british",
+      "comfort-food",
+      "low-calorie",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 50,
     "shard": "v"
   },
   {

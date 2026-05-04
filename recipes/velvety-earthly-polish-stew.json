@@ -1,0 +1,122 @@
+{
+  "title": "Velvety Earthly Polish Stew",
+  "description": "A hearty, earthy stew perfect for a sick day, made with a medley of mushrooms and topped with shaved bonito flakes.",
+  "cuisine": "polish",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "mixed wild mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "beetroot",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "parsley",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Sauté onion and garlic until softened, about 3 minutes.",
+    "Add mixed wild mushrooms and cook until browned, about 5 minutes.",
+    "Add carrots, potatoes, allspice, bay leaves, beetroot, and vegetable broth, and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20 minutes.",
+    "Stir in sour cream and flour to thicken.",
+    "Season with salt and pepper to taste.",
+    "Garnish with shaved bonito flakes and parsley before serving.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lacto-vegetarian",
+    "one-pot",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "velvety-earthly-polish-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-earthly-polish-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:34:59Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "sick-day",
+    "technique": "bonito-shave",
+    "primaryIngredient": "mixed spice",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "earthly",
+    "mainIngredient": "polish",
+    "descriptor": "velvety",
+    "dishForm": "stew"
+  }
+}
