@@ -1,0 +1,106 @@
+{
+  "title": "Velvety Vietnamese Cookies Mi Quang",
+  "description": "A creamy, single-serving Vietnamese-inspired soup that melts crunchy cookies into a velvety broth with fragrant lemongrass and coconut milk.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shortbread cookies",
+      "amount": "200g",
+      "notes": "crushed"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "400ml"
+    },
+    {
+      "name": "water",
+      "amount": "500ml"
+    },
+    {
+      "name": "lemongrass stalk",
+      "amount": "2, smashed"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tsp, sliced"
+    },
+    {
+      "name": "star anise",
+      "amount": "1, whole"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lime leaf",
+      "amount": "1, torn"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "2 tbsp, garnish"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tsp, for sauté"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat and add 2 tsp vegetable oil until shimmering.",
+    "Add the smashed lemongrass, sliced ginger, whole star anise, and 1 tsp turmeric powder; sauté for 2 minutes until fragrant.",
+    "Pour in 500ml water and 400ml coconut milk, then bring the mixture to a gentle simmer.",
+    "Stir in 1 tsp salt, 1 tbsp sugar, and the torn lime leaf until the sugar dissolves.",
+    "Reduce the heat to low, and gradually add the crushed shortbread cookies, stirring constantly until they melt into a velvety broth.",
+    "Continue to simmer for 10 minutes at low heat, allowing the flavors to meld and the cookies to fully dissolve.",
+    "Remove the skillet from heat and discard the lemongrass, ginger, star anise, and lime leaf pieces.",
+    "Ladle the soup into bowls, then sprinkle with 2 tbsp toasted sesame seeds as garnish.",
+    "Serve the hot, creamy soup immediately as a satisfying solo dinner."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "one-pot",
+    "quick",
+    "satvik-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 1350,
+    "protein": 12,
+    "carbs": 74,
+    "fat": 87
+  },
+  "slug": "velvety-vietnamese-cookies-mi-quang",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-vietnamese-cookies-mi-quang",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:44:17Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "creamy",
+    "mood": "solo-dinner",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "cookies",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "cookies",
+    "descriptor": "Velvety",
+    "dishForm": "Mi Quang"
+  }
+}
