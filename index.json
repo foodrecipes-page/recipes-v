@@ -192,6 +192,20 @@
     "shard": "v"
   },
   {
+    "slug": "vegan-german-eggs-quiche",
+    "title": "Vegan German Eggs Quiche",
+    "tags": [
+      "breakfast",
+      "gluten-free",
+      "one-pan",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 70,
+    "shard": "v"
+  },
+  {
     "slug": "vegan-golden-brownie-halwa",
     "title": "Vegan Golden Brownie Halwa",
     "tags": [
@@ -240,6 +254,23 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 22,
+    "shard": "v"
+  },
+  {
+    "slug": "vegan-velvety-slovakian-butternut-squash-stew",
+    "title": "Vegan Velvety Slovakian Butternut Squash Stew",
+    "tags": [
+      "butternut-squash",
+      "comfort-food",
+      "one-pan",
+      "slovakian",
+      "stew",
+      "vegan",
+      "warming",
+      "weeknight"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 40,
     "shard": "v"
   },
   {
@@ -3887,6 +3918,20 @@
     ],
     "cuisine": "Zanzibari",
     "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
+    "slug": "verbally-viscous-moroccan-pork-shoulder-tangia",
+    "title": "Verbally Viscous Moroccan Pork Shoulder Tangia",
+    "tags": [
+      "claypot",
+      "moroccan",
+      "one-pan",
+      "pork",
+      "weeknight"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 240,
     "shard": "v"
   },
   {

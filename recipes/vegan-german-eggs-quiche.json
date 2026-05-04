@@ -1,0 +1,120 @@
+{
+  "title": "Vegan German Eggs Quiche",
+  "description": "A rich, crumbly, vegan quiche that's perfect for a lazy Sunday morning. Inspired by traditional German cuisine, this dish features tofu scramble and smoked tofu instead of eggs.",
+  "cuisine": "German",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": ""
+    },
+    {
+      "name": "unsalted vegan butter",
+      "amount": "1 cup",
+      "notes": "chilled and cubed"
+    },
+    {
+      "name": "smoked tofu",
+      "amount": "1 block, drained and crumbled",
+      "notes": ""
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block, drained and crumbled",
+      "notes": ""
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "2 tablespoons",
+      "notes": "replaces cheesy flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "non-dairy milk",
+      "amount": "1 cup",
+      "notes": "such as almond, soy, or coconut milk"
+    },
+    {
+      "name": "shio-cured tofu",
+      "amount": "1/2 cup, diced",
+      "notes": ""
+    },
+    {
+      "name": "shio-cured capers",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Roll out the chilled dough on a lightly floured surface to a thickness of about 1/8 inch.",
+    "Transfer the dough to a 9-inch round baking dish and trim the edges.",
+    "In a skillet, sauté the crumbled tofu, smoked tofu, and shio-cured tofu until lightly browned, breaking up the tofu with a spoon as it cooks.",
+    "Add the nutritional yeast, salt, and black pepper to the skillet and stir to combine.",
+    "Pour the non-dairy milk into the skillet and stir to combine, allowing the mixture to simmer for about 5 minutes, or until the liquid has thickened slightly.",
+    "Add the shio-cured capers and turmeric (if using) to the skillet and stir to combine.",
+    "Pour the tofu mixture into the dough-lined baking dish and spread it evenly.",
+    "Garnish the quiche with chopped parsley and bake for 35-40 minutes, or until the crust is golden brown and the filling is set.",
+    "Let the quiche cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "gluten-free",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "vegan-german-eggs-quiche",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/vegan-german-eggs-quiche",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:20:23Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crumbly",
+    "mood": "lazy-sunday",
+    "technique": "shio-cure",
+    "primaryIngredient": "eggs",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Eggs",
+    "descriptor": "Vegan",
+    "dishForm": "Quiche"
+  }
+}

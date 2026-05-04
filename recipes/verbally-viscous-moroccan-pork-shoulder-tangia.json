@@ -1,0 +1,124 @@
+{
+  "title": "Verbally Viscous Moroccan Pork Shoulder Tangia",
+  "description": "Funky, chewy Moroccan dish featuring pork shoulder, papillote, served in a claypot.",
+  "cuisine": "Moroccan",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1, 1.8kg",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "fresh, peeled"
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Prunes",
+      "amount": "6",
+      "notes": "pitted"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Score the pork shoulder in a crisscross pattern to help it cook evenly.",
+    "In a small bowl, mix together cumin, cayenne pepper, coriander, paprika, salt, and black pepper.",
+    "Rub the spice mixture all over the pork shoulder, making sure to get some under the skin as well.",
+    "Heat the olive oil in a large skillet over medium-high heat. Sear the pork shoulder on all sides until it's nicely browned, about 2-3 minutes per side.",
+    "Place the prunes on the bottom of a claypot, followed by the browned pork shoulder.",
+    "Add the chopped onion, minced garlic, and grated ginger on top of the pork shoulder.",
+    "Drizzle the lemon juice over the onion mixture.",
+    "Cover the claypot with foil and transfer it to the preheated oven.",
+    "Bake for 2 hours, or until the pork is tender and easily shreds with a fork.",
+    "Remove the foil and continue baking for another 30 minutes to crisp up the skin.",
+    "Let the pork rest for 10-15 minutes before slicing it thinly and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 210,
+  "totalTimeMin": 240,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "claypot",
+    "moroccan",
+    "one-pan",
+    "pork",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 80,
+    "carbs": 24,
+    "fat": 44
+  },
+  "slug": "verbally-viscous-moroccan-pork-shoulder-tangia",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/verbally-viscous-moroccan-pork-shoulder-tangia",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:20:11Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "papillote",
+    "primaryIngredient": "pork shoulder",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Pork Shoulder",
+    "descriptor": "Verbally Viscous",
+    "dishForm": "Tangia"
+  }
+}

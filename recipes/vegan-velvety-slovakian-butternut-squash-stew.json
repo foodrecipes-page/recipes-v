@@ -1,0 +1,121 @@
+{
+  "title": "Vegan Velvety Slovakian Butternut Squash Stew",
+  "description": "A hearty, comforting stew featuring roasted butternut squash and a blend of aromatic spices, served in a traditional Slovakian lacquerware bowl.",
+  "cuisine": "Slovakian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 medium butternut squash",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons vegetable oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 onion",
+      "amount": "medium",
+      "notes": ""
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "minced",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon smoked paprika",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon caraway seeds",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup vegetable broth",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup coconut cream",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large clay pot over medium heat.",
+    "Add the onion and cook, stirring occasionally, until softened and lightly browned, about 5 minutes.",
+    "Add the garlic, cumin, smoked paprika, caraway seeds, salt, and pepper, and cook for 1 minute, stirring constantly.",
+    "Add the butternut squash and vegetable broth, and bring to a simmer.",
+    "Reduce heat to low, cover the pot, and cook for 20 minutes, or until the squash is tender.",
+    "Stir in the coconut cream and cook for an additional 2 minutes.",
+    "Serve hot, garnished with chopped parsley.",
+    "Adjust seasoning as needed.",
+    "Serve immediately, in traditional Slovakian lacquerware bowls.",
+    "Optional: Serve with crusty bread on the side for a satisfying accompaniment.",
+    "Note: Traditionally, this stew is cooked in a clay pot over an open flame, but a conventional oven or stovetop will also yield delicious results."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "butternut-squash",
+    "comfort-food",
+    "one-pan",
+    "slovakian",
+    "stew",
+    "vegan",
+    "warming",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "vegan-velvety-slovakian-butternut-squash-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/vegan-velvety-slovakian-butternut-squash-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:20:28Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "fluffy",
+    "mood": "adventurous",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "butternut squash",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "butternut squash",
+    "descriptor": "Vegan Velvety",
+    "dishForm": "Stew"
+  }
+}
