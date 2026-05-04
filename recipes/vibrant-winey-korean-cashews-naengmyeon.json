@@ -1,0 +1,97 @@
+{
+  "title": "Vibrant Winey Korean Cashews Naengmyeon",
+  "description": "A refreshing and crunchy Korean dish featuring cashews and a winey flavor, perfect for a brunch mood. This Mediterranean-friendly naengmyeon dish is a unique twist on traditional Korean cuisine.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cashews",
+      "amount": "1 cup",
+      "notes": "roasted and chopped"
+    },
+    {
+      "name": "naengmyeon noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red wine",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Cook the naengmyeon noodles according to package instructions and set aside.",
+    "In a blender or food processor, combine gochujang, soy sauce, rice vinegar, honey, garlic, and sesame oil, and blend until smooth.",
+    "In a large bowl, combine the cooked noodles, blended sauce, and chopped cashews, and toss to combine.",
+    "Add the red wine to the bowl and toss to coat the noodles and cashews.",
+    "Season with salt and pepper to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the noodles and cashews a good toss to redistribute the sauce.",
+    "Serve the naengmyeon cold, garnished with additional chopped cashews if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "cashew-based",
+    "gluten-free",
+    "korean-cuisine",
+    "mediterranean-friendly",
+    "wine-infused"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "vibrant-winey-korean-cashews-naengmyeon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-winey-korean-cashews-naengmyeon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:26:43Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crunchy",
+    "mood": "brunch-mood",
+    "technique": "ferment",
+    "primaryIngredient": "cashews",
+    "diet": "mediterranean",
+    "region": "gangwon",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "cashews",
+    "descriptor": "Vibrant winey",
+    "dishForm": "Naengmyeon"
+  }
+}
