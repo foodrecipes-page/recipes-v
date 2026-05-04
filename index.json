@@ -1669,6 +1669,20 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-indian-lentils-thali",
+    "title": "Velvety Indian Lentils Thali",
+    "tags": [
+      "indian-cuisine",
+      "lentil-recipes",
+      "macrobiotic-friendly",
+      "post-workout-meal",
+      "vegetarian-options"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 40,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-indian-rice-krispies-stir-fry",
     "title": "Velvety Indian Rice Krispies Stir-fry",
     "tags": [
@@ -3561,6 +3575,21 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 45,
+    "shard": "v"
+  },
+  {
+    "slug": "vivid-jiangsu-olives-dumplings",
+    "title": "Vivid Jiangsu Olives Dumplings",
+    "tags": [
+      "ayurvedic-friendly",
+      "dumplings",
+      "leaf-wrap",
+      "one-pot",
+      "quick",
+      "vegetarian"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 18,
     "shard": "v"
   },
   {

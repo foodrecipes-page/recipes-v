@@ -1,0 +1,102 @@
+{
+  "title": "Velvety Indian Lentils Thali",
+  "description": "A winey, molten post-workout Indian dish featuring ground coriander, served on a cedar-plank thali, macrobiotic-friendly and full of flavor.",
+  "cuisine": "Indian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the ground coriander, cumin, turmeric, and garam masala and cook for 1 minute.",
+    "Add the red lentils, salt, and water to the saucepan and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes or until the lentils are tender.",
+    "Use an immersion blender to puree the lentils to a velvety consistency.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the lentils hot on a cedar-plank thali."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-cuisine",
+    "lentil-recipes",
+    "macrobiotic-friendly",
+    "post-workout-meal",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "velvety-indian-lentils-thali",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-indian-lentils-thali",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:52:23Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "molten",
+    "mood": "post-workout",
+    "technique": "fold",
+    "primaryIngredient": "ground coriander",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lentils",
+    "descriptor": "velvety molten",
+    "dishForm": "Thali"
+  }
+}

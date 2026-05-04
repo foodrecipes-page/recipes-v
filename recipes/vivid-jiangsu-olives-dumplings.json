@@ -1,0 +1,117 @@
+{
+  "title": "Vivid Jiangsu Olives Dumplings",
+  "description": "Sour and crunchy leaf‑wrapped dumplings with pitted black olives, perfect for a quick one‑pot Jiangsu style meal.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dumpling wrapper",
+      "amount": "20 pieces",
+      "notes": "Round wheat flour wrappers"
+    },
+    {
+      "name": "black olives (pitted, finely chopped)",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "firm tofu, crumbled",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "ginger, minced",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "scallions, sliced",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "rice wine",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "½ tsp",
+      "notes": ""
+    },
+    {
+      "name": "white pepper",
+      "amount": "¼ tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine the crumbled tofu, minced black olives, diced ginger, minced garlic, sliced scallions, soy sauce, rice wine, sesame oil, cornstarch, salt, and pepper until well mixed.",
+    "Place a teaspoon of the filling onto each dumpling wrapper.",
+    "Fold each wrapper in half and pinch the edges together, adding a little water to seal.",
+    "Line a steamer basket with parchment paper and arrange the dumplings without touching.",
+    "Bring water to a boil and steam the dumplings over high heat for 8 minutes.",
+    "Remove the dumplings from the steamer and let them rest for one minute.",
+    "Serve hot with a small bowl of light soy dipping sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ayurvedic-friendly",
+    "dumplings",
+    "leaf-wrap",
+    "one-pot",
+    "quick",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 80,
+    "fat": 8
+  },
+  "slug": "vivid-jiangsu-olives-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/vivid-jiangsu-olives-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:51:59Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "one-pot",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "pitted black olives",
+    "diet": "ayurvedic-tamasic",
+    "region": "jiangsu",
+    "cuisineAdjective": "Jiangsu",
+    "mainIngredient": "Olives",
+    "descriptor": "Vivid",
+    "dishForm": "Dumplings"
+  }
+}
