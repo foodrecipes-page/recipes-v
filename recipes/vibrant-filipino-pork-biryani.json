@@ -1,0 +1,104 @@
+{
+  "title": "Vibrant Filipino Pork Biryani",
+  "description": "A jammy and glassy-jelly Filipino dish featuring green cardamom pods, this vibrant biryani is a show-off dish that is sure to impress, with a dash-friendly flavor profile that will leave you wanting more. It combines the richness of pork with the brightness of Filipino spices.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "green cardamom pods",
+      "amount": "6 pods",
+      "notes": "crushed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "biryani spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "jasmine rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat and cook the onion until it is lightly browned.",
+    "Add the garlic and ginger and cook for 1 minute, stirring constantly.",
+    "Add the pork and cook until it is browned on all sides, about 5 minutes.",
+    "Add the crushed green cardamom pods, biryani spice mix, salt, and black pepper, and cook for 1 minute, stirring constantly.",
+    "Add the coconut milk and bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, until the pork is tender, about 20 minutes.",
+    "Stir in the jasmine rice and cook, covered, until the rice is tender and the liquid has been absorbed, about 20 minutes.",
+    "Deglaze the saucepan with a little water to remove any browned bits from the bottom.",
+    "Fluff the biryani with a fork and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-milk-recipes",
+    "filipino-food",
+    "gluten-free",
+    "one-pot-meals",
+    "pork-recipes",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "vibrant-filipino-pork-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-filipino-pork-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:10:58Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "glassy-jelly",
+    "mood": "show-off",
+    "technique": "deglaze",
+    "primaryIngredient": "green cardamom pods",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "pork",
+    "descriptor": "Vibrant",
+    "dishForm": "Biryani"
+  }
+}

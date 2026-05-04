@@ -1,0 +1,89 @@
+{
+  "title": "Velvety Indian Yogurt Kheer",
+  "description": "A comforting and citrusy Indian dessert featuring full fat yogurt, with a shio-koji cure for added depth of flavor, this kheer is a no-onion-no-garlic friendly treat, perfect for warm evenings.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "full fat yogurt",
+      "amount": "2 cups",
+      "notes": "chilled"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "pistachios",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a kadhai, combine the chilled yogurt, shio-koji, sugar, and cardamom powder, and whisk until smooth.",
+    "Cook over medium heat, stirring constantly, until the mixture comes to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes, or until the kheer has thickened slightly.",
+    "Stir in the rose water and lemon zest.",
+    "Continue to cook for an additional 5 minutes, or until the kheer has reached the desired consistency.",
+    "Remove the kadhai from the heat and stir in the chopped pistachios.",
+    "Let the kheer cool to room temperature, then refrigerate until chilled.",
+    "Serve the kheer chilled, garnished with additional pistachios if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "comfort-food",
+    "gluten-free",
+    "indian-desserts",
+    "no-onion-no-garlic",
+    "yogurt-based"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "velvety-indian-yogurt-kheer",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-indian-yogurt-kheer",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:10:29Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "shattering",
+    "mood": "comforting",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "full fat yogurt",
+    "diet": "no-onion-no-garlic",
+    "region": "goan",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "yogurt",
+    "descriptor": "Velvety Comforting",
+    "dishForm": "Kheer"
+  }
+}

@@ -1845,6 +1845,21 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-indian-yogurt-kheer",
+    "title": "Velvety Indian Yogurt Kheer",
+    "tags": [
+      "citrusy",
+      "comfort-food",
+      "gluten-free",
+      "indian-desserts",
+      "no-onion-no-garlic",
+      "yogurt-based"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-indulgent-kenyan-garlic-stir-fry",
     "title": "Velvety Indulgent Kenyan Garlic Stir-fry",
     "tags": [
@@ -4088,6 +4103,21 @@
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-filipino-pork-biryani",
+    "title": "Vibrant Filipino Pork Biryani",
+    "tags": [
+      "coconut-milk-recipes",
+      "filipino-food",
+      "gluten-free",
+      "one-pot-meals",
+      "pork-recipes",
+      "spicy-food"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 60,
     "shard": "v"
   },
   {
