@@ -3301,6 +3301,20 @@
     "shard": "v"
   },
   {
+    "slug": "vibrant-kenyan-chicken-stew",
+    "title": "Vibrant Kenyan Chicken Stew",
+    "tags": [
+      "african",
+      "comfort-food",
+      "gluten-free",
+      "low-sodium",
+      "one-pot"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 40,
+    "shard": "v"
+  },
+  {
     "slug": "vibrant-mexican-peas-elote-bowl",
     "title": "Vibrant Mexican Peas Elote Bowl",
     "tags": [
