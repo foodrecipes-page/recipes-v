@@ -1,0 +1,89 @@
+{
+  "title": "Vibrant Caramelized Mediterranean Wild Garlic Flatbread",
+  "description": "A salty and flaky post-workout Mediterranean dish featuring wild garlic leaves, this flatbread is perfect for a snack or light meal. It is made with ayurvedic-sattvic-friendly ingredients and cooked in an agave leaf vessel.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Wild garlic leaves",
+      "amount": "1 cup",
+      "notes": "freshly picked"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Flatbread dough",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Agave syrup",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 sprig"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the flatbread dough to a thickness of 1/4 inch.",
+    "Brush the dough with olive oil and sprinkle with sea salt.",
+    "Arrange the wild garlic leaves on top of the dough, leaving a 1 inch border around the edges.",
+    "Drizzle the lemon juice and agave syrup over the garlic leaves.",
+    "Sprinkle the fresh thyme sprig over the top.",
+    "Place the flatbread in the agave leaf vessel and bake for 20 minutes.",
+    "Remove the flatbread from the oven and let it cool for 5 minutes.",
+    "Slice the flatbread into wedges and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flatbread",
+    "mediterranean",
+    "post-workout",
+    "snack",
+    "vegan-friendly",
+    "wild-garlic"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "vibrant-caramelized-mediterranean-wild-garlic-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-caramelized-mediterranean-wild-garlic-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:33:11Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "flaky",
+    "mood": "post-workout",
+    "technique": "caramelize",
+    "primaryIngredient": "wild garlic leaves",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "wild garlic",
+    "descriptor": "vibrant caramelized",
+    "dishForm": "Flatbread"
+  }
+}
