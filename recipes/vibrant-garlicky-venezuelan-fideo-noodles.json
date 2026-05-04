@@ -1,0 +1,102 @@
+{
+  "title": "Vibrant Garlicky Venezuelan Fideo Noodles",
+  "description": "A garlicky and shattering Venezuelan dish featuring fideo noodles, perfect for a brunch mood, made with mortar-pestle-pound technique and shojin-friendly ingredients.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "fideo noodles",
+      "amount": "8 oz",
+      "notes": "dry"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "peeled"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Pound garlic cloves in a mortar until well crushed.",
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add chopped onion and cook until translucent.",
+    "Add chopped red bell pepper and cook until tender.",
+    "Add crushed garlic and cook for 1 minute.",
+    "Add fideo noodles and stir to combine with garlic mixture.",
+    "Add salt, black pepper, and paprika, and stir to combine.",
+    "Cook for 5 minutes or until noodles are slightly toasted.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "fideo",
+    "garlicky",
+    "noodles",
+    "shojin-friendly",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "vibrant-garlicky-venezuelan-fideo-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-garlicky-venezuelan-fideo-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:39:04Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "shattering",
+    "mood": "brunch-mood",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "fideo",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "fideo",
+    "descriptor": "Vibrant Garlicky",
+    "dishForm": "Noodles"
+  }
+}
