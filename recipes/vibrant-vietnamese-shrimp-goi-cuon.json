@@ -1,0 +1,93 @@
+{
+  "title": "Vibrant Vietnamese Shrimp Goi Cuon",
+  "description": "A fresh and energizing Vietnamese dish featuring shrimp and naan bread, served in a goi cuon form and grilled to perfection on a robata grill, kosher friendly and deep fry tod for added crunch.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "naan bread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "julienne"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "mint leaves",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "peanut sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Prepare the robata grill by preheating it to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the shrimp, rice noodles, carrots, cucumber, and mint leaves.",
+    "In a small bowl, whisk together the peanut sauce and vegetable oil.",
+    "Add the peanut sauce mixture to the shrimp mixture and toss to combine.",
+    "Cut the naan bread into quarters and grill on the robata grill for 2 minutes per side.",
+    "Assemble the goi cuon by placing a quarter of the shrimp mixture onto a piece of grilled naan bread and rolling it up.",
+    "Deep fry the rolled goi cuon in 350 degree Fahrenheit oil for 2 minutes or until golden brown.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fried",
+    "grilled",
+    "kosher-friendly",
+    "lunch-ideas",
+    "seafood",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "vibrant-vietnamese-shrimp-goi-cuon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-vietnamese-shrimp-goi-cuon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:14:22Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "springy",
+    "mood": "energizing",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "naan bread",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "shrimp",
+    "descriptor": "Vibrant Springy",
+    "dishForm": "Goi Cuon"
+  }
+}
