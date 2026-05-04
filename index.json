@@ -3255,5 +3255,21 @@
     "cuisine": "Uruguayan",
     "totalTimeMin": 45,
     "shard": "v"
+  },
+  {
+    "slug": "vivid-midnight-indulgence-irish-smoked-fish-pho",
+    "title": "Vivid Midnight Indulgence Irish Smoked Fish Pho",
+    "tags": [
+      "high-protein",
+      "irish",
+      "one-pan",
+      "pho",
+      "smoked-fish",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "irish",
+    "totalTimeMin": 45,
+    "shard": "v"
   }
 ]

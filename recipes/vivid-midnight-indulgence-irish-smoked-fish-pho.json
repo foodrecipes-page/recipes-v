@@ -1,0 +1,104 @@
+{
+  "title": "Vivid Midnight Indulgence Irish Smoked Fish Pho",
+  "description": "A pungent and refreshing Irish dish featuring smoked fish and rice vermicelli, perfect for a midnight craving. This vegan-friendly version of a traditional Pho substitutes fish sauce with a smoky miso.",
+  "cuisine": "irish",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Irish Smoked Salmon Fillets",
+      "amount": "4",
+      "notes": "wild-caught, smoked with applewood"
+    },
+    {
+      "name": "Rice Vermicelli",
+      "amount": "200g",
+      "notes": "gluten-free, made from rice flour"
+    },
+    {
+      "name": "Miso Paste",
+      "amount": "2 tbsp",
+      "notes": "smoked, vegan-friendly"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups",
+      "notes": "homemade, vegan-friendly"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "fresh, peeled and sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch",
+      "notes": "thinly sliced, for garnish"
+    }
+  ],
+  "instructions": [
+    "Cook the rice vermicelli in a large pot of boiling water until al dente, about 8 minutes.",
+    "Drain the vermicelli and set aside.",
+    "In a large saucepan, combine the vegetable broth, miso paste, ginger, and garlic.",
+    "Whisk until the miso paste is dissolved, then bring the mixture to a simmer.",
+    "Reduce the heat to low and let the broth simmer for 10 minutes.",
+    "Add the smoked salmon fillets to the broth and poach for 2-3 minutes per side, or until cooked through.",
+    "Remove the salmon from the broth and let it cool slightly.",
+    "Strain the broth through a fine-mesh sieve into a clean saucepan, discarding the solids.",
+    "Add the cooked vermicelli to the broth and cook for an additional 2-3 minutes, or until heated through.",
+    "Slice the smoked salmon into thin pieces and add to the broth.",
+    "Stir in the lime juice and season with salt to taste.",
+    "Serve the Pho hot, garnished with thinly sliced scallions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "irish",
+    "one-pan",
+    "pho",
+    "smoked-fish",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "vivid-midnight-indulgence-irish-smoked-fish-pho",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/vivid-midnight-indulgence-irish-smoked-fish-pho",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:29:05Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "glassy-jelly",
+    "mood": "midnight-craving",
+    "technique": "smoke",
+    "primaryIngredient": "rice vermicelli",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "smoked fish",
+    "descriptor": "Vivid midnight indulgence",
+    "dishForm": "Pho"
+  }
+}
