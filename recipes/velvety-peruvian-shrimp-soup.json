@@ -1,0 +1,146 @@
+{
+  "title": "Velvety Peruvian Shrimp Soup",
+  "description": "A spicy, velvety Peruvian shrimp soup featuring juniper berries and fermented soy for depth, known as chupe de camarones.",
+  "cuisine": "peruvian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "250g",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "potatoes",
+      "amount": "300g",
+      "notes": "diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "200g",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "150g",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sauté"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fish stock",
+      "amount": "950ml",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "juniper berries",
+      "amount": "10 whole",
+      "notes": "lightly crushed"
+    },
+    {
+      "name": "fermented soy sauce",
+      "amount": "15ml",
+      "notes": "for umami"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml",
+      "notes": "full-fat for velvety texture"
+    },
+    {
+      "name": "cilantro",
+      "amount": "20g",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "lime",
+      "amount": "1",
+      "notes": "cut into wedges"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add diced onion and minced garlic, sauté until translucent.",
+    "Stir in sliced carrots and diced potatoes, cooking for 3 minutes.",
+    "Sprinkle cumin, paprika, and red pepper flakes, tossing to coat vegetables.",
+    "Pour in fish stock, bring mixture to a gentle boil.",
+    "Add whole juniper berries, reduce heat and simmer for 10 minutes.",
+    "Stir in fermented soy sauce and season with salt and pepper to taste.",
+    "Add shrimp and simmer until shrimp turn pink, about 3 to 4 minutes.",
+    "Pour in coconut milk, simmer for an additional 2 minutes.",
+    "Remove juniper berries, adjust seasoning, and serve hot garnished with cilantro and a squeeze of lime."
+  ],
+  "prepTimeMin": 12,
+  "cookTimeMin": 20,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian",
+    "peruvian",
+    "seafood",
+    "soupy",
+    "spicy",
+    "velvety",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 17,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "velvety-peruvian-shrimp-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-peruvian-shrimp-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:55:43Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "ferment",
+    "primaryIngredient": "juniper berries",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Velvety",
+    "dishForm": "Soup"
+  }
+}
