@@ -1,0 +1,104 @@
+{
+  "title": "Vibrant Resinous Algerian Chuck Roast Tagine",
+  "description": "A rich and flavorful Algerian dish featuring a tender chuck roast, this tagine is perfect for special occasions. The resinous flavors come from a blend of aromatic spices and herbs.",
+  "cuisine": "Algerian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chuck roast",
+      "amount": "2 pounds",
+      "notes": "grass fed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the chuck roast with salt, black pepper, cumin, coriander, and cinnamon.",
+    "Heat the olive oil in a large Dutch oven over medium high heat.",
+    "Sear the chuck roast until browned on all sides, then remove from the pot.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger to the pot and cook for an additional minute.",
+    "Return the chuck roast to the pot and add enough water to cover the roast.",
+    "Cover the pot and transfer to the preheated oven.",
+    "Braise the tagine for 2 1/2 hours, or until the meat is tender.",
+    "Remove the pot from the oven and let the tagine cool slightly before slicing the roast.",
+    "Serve the tagine on a wooden board, garnished with fresh herbs."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "braised-meat",
+    "resinous-flavors",
+    "special-occasion",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 39
+  },
+  "slug": "vibrant-resinous-algerian-chuck-roast-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-resinous-algerian-chuck-roast-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:45:48Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "shaggy",
+    "mood": "show-off",
+    "technique": "simmer",
+    "primaryIngredient": "chuck roast",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "chuck roast",
+    "descriptor": "Vibrant Resinous",
+    "dishForm": "Tagine"
+  }
+}
