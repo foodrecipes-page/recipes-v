@@ -1,0 +1,104 @@
+{
+  "title": "Velvety Spanish Almond Paella",
+  "description": "A nutty, gooey, lazy-sunday Spanish dish featuring creamy coconut milk and toasted almonds for a Mediterranean-friendly comfort meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "roasted almonds, chopped",
+      "amount": "1 cup",
+      "notes": "toasted beforehand"
+    },
+    {
+      "name": "arborio rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "saffron strands",
+      "amount": "1 tsp",
+      "notes": "soaked in 2 tbsp warm water"
+    },
+    {
+      "name": "chicken or vegetable broth",
+      "amount": "3 cups"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pan over medium heat.",
+    "Add the diced onion and sauté until translucent.",
+    "Stir in the minced garlic and smoked paprika, cooking for 1 minute until fragrant.",
+    "Add the arborio rice and toast it lightly, stirring constantly for 2 minutes.",
+    "Pour in the coconut milk, saffron infusion, and broth, bringing the mixture to a gentle boil.",
+    "Add the chopped almonds to the pan, ensuring they mingle with the rice.",
+    "Reduce heat to low, cover, and let the paella simmer for 15 minutes or until the liquid is absorbed.",
+    "Remove from heat, fluff the rice with a fork, garnish with parsley, and serve with lemon wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "lazy-sunday",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "velvety-spanish-almond-paella",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-spanish-almond-paella",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:49:03Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "gooey",
+    "mood": "lazy-sunday",
+    "technique": "tadka",
+    "primaryIngredient": "unsweetened coconut milk",
+    "diet": "mediterranean",
+    "region": "andalusian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "almonds",
+    "descriptor": "Velvety",
+    "dishForm": "Paella"
+  }
+}
