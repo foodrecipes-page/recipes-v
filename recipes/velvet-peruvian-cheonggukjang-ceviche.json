@@ -1,0 +1,86 @@
+{
+  "title": "Velvet Peruvian Cheonggukjang Ceviche",
+  "description": "A buttery, aerated tiradito style ceviche using fermented soybean paste and bonito shavings, served on a wooden board for a low-fat Peruvian twist.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cheonggukjang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Bonito shavings",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh cilantro leaves",
+      "amount": "2 tbsp chopped"
+    },
+    {
+      "name": "Thinly sliced cucumber",
+      "amount": "1 small cucumber"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Thinly slice the cucumber into matchstick strips of equal length.",
+    "In a bowl mix the cheonggukjang, lime juice, rice vinegar, chili powder, and salt until smooth.",
+    "Add the bonito shavings to the sauce and gentle stir to incorporate.",
+    "Place the cucumber strips on a wooden board and pour the sauce over them, ensuring even coverage.",
+    "Garnish with chopped cilantro and a few extra bonito shavings for aroma.",
+    "Let the mixture rest for 5 minutes to allow flavors to meld.",
+    "Serve immediately with a side of fresh lettuce leaves for a crisp bite.",
+    "Enjoy the velvety and aerated texture of this Peruvian tiradito."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "peruvian",
+    "lunch"
+  ],
+  "slug": "velvet-peruvian-cheonggukjang-ceviche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvet-peruvian-cheonggukjang-ceviche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:05:31Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "aerated",
+    "mood": "quick-fix",
+    "technique": "bonito-shave",
+    "primaryIngredient": "cheonggukjang",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "cheonggukjang",
+    "descriptor": "Velvet",
+    "dishForm": "Ceviche"
+  }
+}
