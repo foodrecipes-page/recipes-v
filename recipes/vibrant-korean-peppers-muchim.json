@@ -1,0 +1,94 @@
+{
+  "title": "Vibrant Korean Peppers Muchim",
+  "description": "A peppery, crumbly Korean dish featuring sweet peppadew peppers, soffritto-base, and keto-friendly ingredients, served on a hot-stone-plate.",
+  "cuisine": "Korean",
+  "diet": [
+    "keto",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "peppadew peppers",
+      "amount": "12 oz",
+      "notes": "sweet and mild"
+    },
+    {
+      "name": "soffritto mix",
+      "amount": "1 cup",
+      "notes": "onion, garlic, ginger"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "gochujang",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped green onions",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the hot-stone-plate to 400 degrees Fahrenheit.",
+    "In a blender, blend the soffritto mix until well combined.",
+    "In a large bowl, whisk together the sesame oil, soy sauce, rice vinegar, and gochujang.",
+    "Add the blended soffritto mix to the bowl and stir until well coated.",
+    "Add the peppadew peppers to the bowl and toss until they are evenly coated with the soffritto mixture.",
+    "Arrange the peppers on the preheated hot-stone-plate in a single layer.",
+    "Sprinkle the toasted sesame seeds and chopped green onions over the peppers.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional green onions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "keto-friendly",
+    "korean-cuisine",
+    "low-carb",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "vibrant-korean-peppers-muchim",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-korean-peppers-muchim",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:06:17Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crumbly",
+    "mood": "show-off",
+    "technique": "soffritto-base",
+    "primaryIngredient": "sweet peppadew peppers",
+    "diet": "keto",
+    "region": "jeolla",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "peppers",
+    "descriptor": "Vibrant crumbly",
+    "dishForm": "Muchim"
+  }
+}
