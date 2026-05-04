@@ -1,0 +1,107 @@
+{
+  "title": "Vibrant Brazilian Vegetable Pilaf",
+  "description": "A nutty and springy Brazilian dish featuring red curry paste and beurre monte, made in a copper pot with plant-based friendly ingredients.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "plant-based",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "use vegan curry paste"
+    },
+    {
+      "name": "beurre monte",
+      "amount": "1/4 cup",
+      "notes": "use vegan beurre monte"
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "mixed vegetables",
+      "amount": "2 cups",
+      "notes": "such as carrots, peas, and corn"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the copper pot over medium heat and add the beurre monte.",
+    "Add the chopped onion and cook until softened, about 3 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the red curry paste and cook for 1 minute, stirring constantly.",
+    "Add the mixed vegetables, salt, and black pepper, and cook for 2 minutes.",
+    "Add the brown rice and water, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes.",
+    "Fluff the pilaf with a fork and stir in the chopped parsley.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "gluten-free",
+    "lunch-ideas",
+    "one-pot",
+    "plant-based",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "vibrant-brazilian-vegetable-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-brazilian-vegetable-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:26:13Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "springy",
+    "mood": "light",
+    "technique": "beurre-monte",
+    "primaryIngredient": "red-curry-paste",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "vegetables",
+    "descriptor": "vibrant springy",
+    "dishForm": "Pilaf"
+  }
+}
