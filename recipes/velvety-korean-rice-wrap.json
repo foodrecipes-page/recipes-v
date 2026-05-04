@@ -1,0 +1,116 @@
+{
+  "title": "Velvety Korean Rice Wrap",
+  "description": "Floral, pillowy wraps filled with silky tofu and crisp veggies, finished with a glossy caramel drizzle for a festive vegetarian treat.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "short-grain rice",
+      "amount": "1 cup uncooked",
+      "notes": "Rinse until water runs clear"
+    },
+    {
+      "name": "water",
+      "amount": "1.5 cups",
+      "notes": "for cooking rice"
+    },
+    {
+      "name": "napa cabbage leaves",
+      "amount": "4 large",
+      "notes": "steam 30 sec, rinse, pat dry"
+    },
+    {
+      "name": "silken tofu",
+      "amount": "200 g",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 small",
+      "notes": "julienned"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 small",
+      "notes": "julienned"
+    },
+    {
+      "name": "green onion",
+      "amount": "2 stalks",
+      "notes": "sliced"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice until water runs clear, then cook with 1.5 cups water in a rice cooker until fluffy.",
+    "While rice cooks, steam the napa cabbage leaves for 30 seconds, then rinse under cool water and pat dry.",
+    "In a bowl, mix silken tofu, julienned carrot, cucumber, and sliced green onion.",
+    "In a small saucepan, melt butter over medium heat, then stir in sugar until dissolved and the mixture turns golden.",
+    "Add soy sauce and sesame oil to the caramel sauce, simmer for 2 minutes, then remove from heat.",
+    "Warm the rice in a microwave for 1 minute to make it easier to spread.",
+    "Place a spoonful of rice on a cabbage leaf, top with the tofu mixture, and drizzle a little caramel sauce over the filling.",
+    "Sprinkle sesame seeds, then fold the edges of the leaf over the rice and roll tightly to form a wrap.",
+    "Steam the wrapped bundles in a steamer basket for 5 minutes to seal the edges and warm the filling.",
+    "Drizzle the remaining caramel sauce over the finished wraps before serving.",
+    "Garnish with additional sesame seeds if desired, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "caramel-drizzle",
+    "festive",
+    "korean",
+    "rice-wrap",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 48,
+    "fat": 4
+  },
+  "slug": "velvety-korean-rice-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-korean-rice-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:10:52Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "pillowy",
+    "mood": "festive",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "caramel sauce",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Rice",
+    "descriptor": "Velvety",
+    "dishForm": "Wrap"
+  }
+}
