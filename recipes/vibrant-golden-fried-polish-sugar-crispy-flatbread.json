@@ -1,0 +1,121 @@
+{
+  "title": "Vibrant Golden Fried Polish Sugar Crispy Flatbread",
+  "description": "A traditional Polish flatbread, rich and crispy from the inside, with a sweet and sticky sugar lacquer-glaze on the outside.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "large egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar lacquer-glaze",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "poppy seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "unflavored oil",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Combine warm milk and yeast in a large mixing bowl. Let it sit for 5 minutes until frothy.",
+    "Add flour, sugar, salt, and egg to the mixing bowl. Mix well to form a dough.",
+    "Knead the dough for 10 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour.",
+    "Preheat a hot stone plate in the oven at 450°F (230°C) for 30 minutes.",
+    "Punch down the dough and divide it into 8 equal pieces.",
+    "Roll each piece into a ball and flatten it slightly into an oval shape.",
+    "Brush the top of each flatbread with melted butter and sprinkle with poppy seeds.",
+    "Transfer the flatbreads to the preheated stone plate and bake for 5-7 minutes or until golden brown.",
+    "While the flatbreads are baking, mix sugar and water in a small saucepan to make a sugar lacquer-glaze. Bring it to a boil, then reduce the heat to medium-low and simmer for 5 minutes until thickened.",
+    "Remove the flatbreads from the oven and brush them with the sugar lacquer-glaze.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "easy-to-make",
+    "fried",
+    "polish",
+    "sugar",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 6
+  },
+  "slug": "vibrant-golden-fried-polish-sugar-crispy-flatbread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-golden-fried-polish-sugar-crispy-flatbread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:47:27Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "shaggy",
+    "mood": "festive",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "sugar",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Sugar",
+    "descriptor": "Vibrant Golden Fried",
+    "dishForm": "Crispy Flatbread"
+  }
+}
