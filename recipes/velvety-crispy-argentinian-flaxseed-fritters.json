@@ -1,0 +1,102 @@
+{
+  "title": "Velvety Crispy Argentinian Flaxseed Fritters",
+  "description": "Al dente, crispy fritters infused with Argentinian flavors, using flaxseed meal for a velvety bite and chickpea flour for a hearty texture.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "macrobiotic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "flaxseed meal",
+      "amount": "1 cup",
+      "notes": "ground for better texture"
+    },
+    {
+      "name": "chickpea flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a bowl whisk together flaxseed meal, chickpea flour, salt, pepper, cumin, oregano, and parsley until well mixed.",
+    "Add water gradually, stirring until a thick batter forms with no lumps.",
+    "Let the batter rest for 10 minutes to allow the flaxseed to swell and thicken.",
+    "Heat a non‑stick skillet over medium heat and add olive oil, swirling to coat the bottom.",
+    "Once the oil reaches 375°F, ladle spoonfuls of batter into the skillet, spacing them about 2 inches apart.",
+    "Sear the fritters for 3 minutes on one side until golden and crisp, then flip carefully.",
+    "Cook the other side for an additional 2–3 minutes until evenly browned.",
+    "Remove the fritters onto a paper towel‑lined plate to drain excess oil.",
+    "Season the hot fritters with a pinch more salt if desired.",
+    "Serve immediately with a squeeze of fresh lemon or a side of chimichurri sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "crispy",
+    "flaxseed",
+    "fritter",
+    "macro-vegetarian",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 422,
+    "protein": 12,
+    "carbs": 28,
+    "fat": 30
+  },
+  "slug": "velvety-crispy-argentinian-flaxseed-fritters",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-crispy-argentinian-flaxseed-fritters",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:56:59Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crispy",
+    "mood": "cozy",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "flaxseed",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "flaxseed",
+    "descriptor": "Velvety Crispy",
+    "dishForm": "Fritters"
+  }
+}
