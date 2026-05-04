@@ -1,0 +1,101 @@
+{
+  "title": "Vibrant Japanese Tomato Skewers",
+  "description": "A nutty, monsoon‑polish inspired dish featuring cherry tomatoes, tofu, and a savory robata‑grilled sauce.",
+  "cuisine": "Japanese",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cherry tomatoes",
+      "amount": "12",
+      "notes": "whole"
+    },
+    {
+      "name": "firm tofu",
+      "amount": "200 g",
+      "notes": "cut 1 cm cubes"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 teaspoon",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "6 leaves",
+      "notes": "chiffonade"
+    },
+    {
+      "name": "sea salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10",
+      "notes": "soaked 30 min"
+    }
+  ],
+  "instructions": [
+    "Preheat robata grill to medium‑high.",
+    "Cut tofu into 1 cm cubes and pat dry.",
+    "In a bowl mix soy sauce, mirin, sesame oil, minced garlic, salt and pepper.",
+    "Thread alternating tomato, tofu, basil onto soaked skewers.",
+    "Brush skewers with sauce mixture before grilling.",
+    "Place skewers on robata grill and close lid.",
+    "Grill 2–3 minutes on each side until tomatoes blister.",
+    "Remove from grill, drizzle remaining sauce, and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "monsoon",
+    "quick",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 83,
+    "protein": 10,
+    "carbs": 6,
+    "fat": 8
+  },
+  "slug": "vibrant-japanese-tomato-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-japanese-tomato-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:53:40Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "shattering",
+    "mood": "monsoon",
+    "technique": "robata-grill",
+    "primaryIngredient": "tomato",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Tomato",
+    "descriptor": "Vibrant",
+    "dishForm": "Skewers"
+  }
+}
