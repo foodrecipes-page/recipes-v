@@ -1,0 +1,96 @@
+{
+  "title": "Velvety Decadent Thai Dark Chocolate Khanom Krok",
+  "description": "An exotic Thai dessert featuring a sour and velvety dark chocolate custard, wrapped in a delicate coconut-based wrapper.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Dark chocolate chips",
+      "amount": "1 cup",
+      "notes": "at least 85% cocoa solids"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Large egg yolks",
+      "amount": "4",
+      "notes": "room temperature"
+    }
+  ],
+  "instructions": [
+    "Whisk together the coconut milk, cornstarch, and sugar in a medium saucepan until the cornstarch is fully dissolved.",
+    "Cook over medium heat, whisking constantly, until the mixture comes to a boil.",
+    "Reduce the heat to low and simmer for 2 minutes, or until the mixture has thickened.",
+    "Remove from heat and stir in the dark chocolate chips until melted and smooth.",
+    "Let cool slightly, then whisk in the egg yolks and salt.",
+    "Strain the mixture into a clean bowl and let cool to room temperature.",
+    "Chill in the refrigerator for at least 2 hours or overnight.",
+    "When ready to serve, heat the mixture in the microwave or in a double boiler until warm and fragrant.",
+    "Pour the mixture into small ceramic cups or ramekins and chill in the refrigerator for another 10-15 minutes to set.",
+    "Serve chilled, garnished with a sprinkle of lime zest if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "dairyfree",
+    "darkchocolate",
+    "fodmapfriendly",
+    "glutenfree",
+    "khanommork",
+    "thaidecember"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "velvety-decadent-thai-dark-chocolate-khanom-krok",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-decadent-thai-dark-chocolate-khanom-krok",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:37:08Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "velvety",
+    "mood": "romantic",
+    "technique": "score-fat",
+    "primaryIngredient": "dark chocolate chips",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "dark chocolate",
+    "descriptor": "velvety decadent",
+    "dishForm": "Khanom Krok"
+  }
+}

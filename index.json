@@ -1362,6 +1362,21 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-decadent-thai-dark-chocolate-khanom-krok",
+    "title": "Velvety Decadent Thai Dark Chocolate Khanom Krok",
+    "tags": [
+      "dairyfree",
+      "darkchocolate",
+      "fodmapfriendly",
+      "glutenfree",
+      "khanommork",
+      "thaidecember"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 60,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-dough-pie",
     "title": "Velvety Dough Pie",
     "tags": [
@@ -4490,6 +4505,23 @@
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 60,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-flaky-jamaican-mussels-bake",
+    "title": "vibrant flaky jamaican mussels bake",
+    "tags": [
+      "fish",
+      "jamaican",
+      "low-carb",
+      "mussels",
+      "one-pan",
+      "seafood",
+      "sous-vide",
+      "weeknight"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 45,
     "shard": "v"
   },
   {

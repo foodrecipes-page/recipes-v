@@ -1,0 +1,102 @@
+{
+  "title": "vibrant flaky jamaican mussels bake",
+  "description": "a nostalgic jamaican dish featuring mussels, sous-vide, and flaky crust that is low-carb-friendly and perfect for a weeknight dinner.",
+  "cuisine": "jamaican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mussels",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375 degrees fahrenheit.",
+    "discard any broken mussels and scrub them clean.",
+    "in a large bowl, combine butter, garlic, onions, and scotch bonnet peppers.",
+    "add the mussels, flour, parmesan cheese, coconut milk, and salt to the bowl and stir to combine.",
+    "cover the bowl with plastic wrap and cook in a sous-vide water bath at 130 degrees fahrenheit for 30 minutes.",
+    "remove the bowl from the water bath and let it cool slightly.",
+    "sprinkle the top with cilantro and serve hot.",
+    "meanwhile, in a separate bowl, mix together the flour and butter until it resembles coarse crumbs.",
+    "add the flaky crust mixture to the bowl with the mussel mixture and stir to combine.",
+    "transfer the mixture to a baking dish and bake in the preheated oven for 20 minutes, or until the crust is golden brown.",
+    "serve the mussels hot, garnished with cilantro and a side of crusty bread.",
+    "cook time can be reduced to 10 minutes if using a conventional oven."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "jamaican",
+    "low-carb",
+    "mussels",
+    "one-pan",
+    "seafood",
+    "sous-vide",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 22,
+    "fat": 36
+  },
+  "slug": "vibrant-flaky-jamaican-mussels-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-flaky-jamaican-mussels-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:38:18Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "flaky",
+    "mood": "nostalgic",
+    "technique": "sous-vide",
+    "primaryIngredient": "mussels",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Mussels",
+    "descriptor": "Vibrant Flaky",
+    "dishForm": "Bake"
+  }
+}
