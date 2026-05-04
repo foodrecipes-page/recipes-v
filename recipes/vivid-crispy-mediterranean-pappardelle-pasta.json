@@ -1,0 +1,120 @@
+{
+  "title": "Vivid Crispy Mediterranean Pappardelle Pasta",
+  "description": "A brunch‑friendly Mediterranean pasta that balances umami and crispiness while staying light on calories.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "low‑carb pappardelle",
+      "amount": "200 g",
+      "notes": "fresh and slightly firm"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small",
+      "notes": "sliced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "200 g",
+      "notes": "halved"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "50 g",
+      "notes": "pitted and sliced"
+    },
+    {
+      "name": "capers",
+      "amount": "1 tbsp",
+      "notes": "rinsed"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "grated Parmesan",
+      "amount": "1 tbsp",
+      "notes": "low‑fat"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil, then cook the pappardelle according to package directions until al dente; drain and set aside.",
+    "While the pasta cooks, heat the olive oil in a large skillet over medium heat and add the minced garlic and sliced onion, sautéing until fragrant and translucent, about 3 minutes.",
+    "Add the cherry tomatoes to the skillet, cooking until they begin to soften and release juices, about 5 minutes.",
+    "Stir in the sliced olives, capers, dried oregano, smoked paprika, and lemon juice, allowing the mixture to simmer for 2 minutes to meld flavors.",
+    "Toss the drained pasta into the skillet, coating it evenly with the tomato‑olive sauce, and cook for an additional 2 minutes so the pasta absorbs the umami.",
+    "Remove from heat and stir in the chopped parsley and basil, then sprinkle grated Parmesan over the top.",
+    "Transfer the pasta to a serving dish, ensuring it remains slightly crispy from the skillet, and serve immediately with a wedge of lemon if desired.",
+    "For an extra crunch, lightly toast 1 tsp of extra virgin olive oil in a separate pan, then drizzle over the finished pasta before plating."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "brunch",
+    "crispy",
+    "low-calorie",
+    "mediterranean",
+    "quick",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 11,
+    "carbs": 35,
+    "fat": 36
+  },
+  "slug": "vivid-crispy-mediterranean-pappardelle-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/vivid-crispy-mediterranean-pappardelle-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:02:20Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "deglaze",
+    "primaryIngredient": "pappardelle pasta",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "pappardelle",
+    "descriptor": "Vivid Crispy",
+    "dishForm": "Pasta"
+  }
+}
