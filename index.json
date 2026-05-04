@@ -1293,6 +1293,20 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-dutch-rice-pilaf",
+    "title": "Velvety Dutch Rice Pilaf",
+    "tags": [
+      "high-fiber",
+      "jain-friendly",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-earthy-algerian-chicken-stir-fry",
     "title": "Velvety Earthy Algerian Chicken Stir-fry",
     "tags": [
@@ -1690,6 +1704,21 @@
       "sugar-free"
     ],
     "cuisine": "German",
+    "totalTimeMin": 50,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-golden-irish-potato-hash",
+    "title": "Velvety Golden Irish Potato Hash",
+    "tags": [
+      "breakfast-recipes",
+      "hojicha-infused",
+      "irish-cuisine",
+      "kosher-friendly",
+      "potato-dishes",
+      "tava-griddle-recipes"
+    ],
+    "cuisine": "Irish",
     "totalTimeMin": 50,
     "shard": "v"
   },

@@ -1,0 +1,96 @@
+{
+  "title": "Velvety Golden Irish Potato Hash",
+  "description": "A savory and cozy Irish dish featuring hojicha and katsuramuki-cut potatoes, perfect for a comforting meal. This kosher-friendly recipe is made using a tava-griddle.",
+  "cuisine": "Irish",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and katsuramuki-cut"
+    },
+    {
+      "name": "hojicha powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the tava-griddle over medium heat.",
+    "In a large bowl, toss the katsuramuki-cut potatoes with hojicha powder, salt, and black pepper until they are evenly coated.",
+    "Heat the vegetable oil on the preheated tava-griddle and add the diced onion, cooking until it is translucent.",
+    "Add the minced garlic to the tava-griddle and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the coated potatoes to the tava-griddle, stirring to combine with the onion and garlic mixture.",
+    "Cook the potato mixture for 20 minutes, stirring occasionally, until the potatoes are golden brown and crispy.",
+    "Use a spatula to shape the potato mixture into a flat, even layer on the tava-griddle.",
+    "Cook for an additional 5 minutes, until the bottom of the potato hash is crispy and golden brown.",
+    "Remove the tava-griddle from the heat and sprinkle with chopped scallions, if desired.",
+    "Serve the Velvety Golden Irish Potato Hash hot, straight from the tava-griddle."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-recipes",
+    "hojicha-infused",
+    "irish-cuisine",
+    "kosher-friendly",
+    "potato-dishes",
+    "tava-griddle-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "velvety-golden-irish-potato-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-golden-irish-potato-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:52:32Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "aerated",
+    "mood": "cozy",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "hojicha",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "potatoes",
+    "descriptor": "Velvety Golden",
+    "dishForm": "Hash"
+  }
+}

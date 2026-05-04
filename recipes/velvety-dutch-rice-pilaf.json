@@ -1,0 +1,109 @@
+{
+  "title": "Velvety Dutch Rice Pilaf",
+  "description": "A creamy and savory Dutch pilaf dish featuring rice, jocheong (Korean soy paste), and rice syrup, perfect for a weeknight dinner. This recipe is free from animal products and ideal for Jain dietary needs.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "long-grain rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "jocheong (Korean soy paste)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "rice syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "toasted sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large saucepan over medium heat.",
+    "Add the chopped onion and sauté until translucent, about 5 minutes.",
+    "Add the minced garlic and grated ginger; sauté for another minute.",
+    "Add the long-grain rice and stir to coat with oil and mix with the onion-garlic-ginger mixture.",
+    "Add the vegetable broth, salt, and black pepper to the saucepan.",
+    "Bring to a boil, then reduce the heat to low, cover, and simmer for 15 minutes.",
+    "While the rice cooks, whisk together the jocheong and rice syrup in a small bowl until smooth.",
+    "After 15 minutes, stir the jocheong-rice syrup mixture into the cooked rice.",
+    "Continue to simmer, uncovered, for an additional 5 minutes, stirring occasionally.",
+    "Stir in the toasted sesame oil and adjust seasoning as needed.",
+    "Serve the velvety Dutch rice pilaf hot, garnished with chopped green onions or toasted sesame seeds, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-fiber",
+    "jain-friendly",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 80,
+    "fat": 8
+  },
+  "slug": "velvety-dutch-rice-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-dutch-rice-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T18:52:55Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "brine-dry",
+    "primaryIngredient": "rice-syrup-jocheong",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "rice",
+    "descriptor": "Velvety",
+    "dishForm": "Pilaf"
+  }
+}
