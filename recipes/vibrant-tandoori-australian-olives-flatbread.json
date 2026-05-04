@@ -1,0 +1,111 @@
+{
+  "title": "Vibrant Tandoori Australian Olives Flatbread",
+  "description": "Mustardy, flaky flatbread infused with pitted black olives and tandoori spices, baked on a cedar-plank for a low-calorie Australian twist.",
+  "cuisine": "Australian fusion",
+  "diet": [
+    "vegetarian",
+    "low-fat",
+    "low-calorie"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "whole wheat flour",
+      "amount": "200 g"
+    },
+    {
+      "name": "warm water",
+      "amount": "120 ml"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "pitted black olives",
+      "amount": "150 g"
+    },
+    {
+      "name": "tandoori spice mix",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "crushed mustard seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "low-fat plain yogurt",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh coriander",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a bowl combine whole wheat flour, active dry yeast, and salt.",
+    "Add warm water and olive oil to the dry mix and stir until a dough forms.",
+    "Knead the dough on a lightly floured surface for 6 minutes until smooth.",
+    "Place the dough in a greased bowl, cover, and let rise for 20 minutes until doubled.",
+    "Preheat the oven to 220°C and place a cedar-plank on the middle rack.",
+    "Roll the risen dough into a flat circle about 3 mm thick and transfer to a parchment-lined tray.",
+    "Brush the dough with low-fat yogurt, sprinkle tandoori spice mix, crushed mustard seeds, lemon zest, and fresh coriander.",
+    "Arrange pitted black olives evenly across the surface, then drizzle a thin layer of lemon juice.",
+    "Bake the flatbread on the cedar-plank for 15 minutes until edges are golden and the surface feels flaky.",
+    "Remove from oven, let cool for 5 minutes, then slice and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cedar-plank",
+    "energizing",
+    "flaky",
+    "low-fat",
+    "olive",
+    "tandoori",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 9,
+    "carbs": 35,
+    "fat": 7
+  },
+  "slug": "vibrant-tandoori-australian-olives-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-tandoori-australian-olives-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:21:54Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "flaky",
+    "mood": "energizing",
+    "technique": "tandoor",
+    "primaryIngredient": "pitted black olives",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Olives",
+    "descriptor": "Vibrant Tandoori",
+    "dishForm": "Flatbread"
+  }
+}
