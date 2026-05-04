@@ -1813,6 +1813,21 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-italian-milk-chocolate-mousse",
+    "title": "Velvety Italian Milk Chocolate Mousse",
+    "tags": [
+      "cocoa",
+      "dessert",
+      "easy",
+      "mousse",
+      "no-bake",
+      "plant-based"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 25,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-italian-papelon-stir-fry",
     "title": "Velvety Italian Papelon Stir-fry",
     "tags": [
@@ -3498,6 +3513,20 @@
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 40,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-korean-almond-wrap",
+    "title": "Vibrant Korean Almond Wrap",
+    "tags": [
+      "copper-pot",
+      "korean-inspired",
+      "leaf-wrap",
+      "raw-friendly",
+      "szechuan-pepper"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 31,
     "shard": "v"
   },
   {

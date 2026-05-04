@@ -1,0 +1,104 @@
+{
+  "title": "Velvety Italian Milk Chocolate Mousse",
+  "description": "A silky, plant-based Italian milk chocolate mousse that shatters with every spoonful, cooked in a traditional ttukbaegi earthenware pot for a touch of rustic charm.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "milk chocolate",
+      "amount": "150 g",
+      "notes": "plant-based, 32% cocoa"
+    },
+    {
+      "name": "unsweetened soy milk",
+      "amount": "200 ml",
+      "notes": ""
+    },
+    {
+      "name": "caster sugar",
+      "amount": "50 g",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut cream",
+      "amount": "200 ml",
+      "notes": "chilled, canned"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sea salt",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "cacao powder",
+      "amount": "2 tbsp",
+      "notes": "for dusting"
+    }
+  ],
+  "instructions": [
+    "Place soy milk in a ttukbaegi earthenware pot and heat gently until warm but not boiling.",
+    "Add chopped milk chocolate to the pot and stir until completely melted.",
+    "Whisk in caster sugar, cornstarch, and a pinch of sea salt until the mixture is smooth and thick.",
+    "Remove the pot from heat and let the chocolate base cool to room temperature.",
+    "In a separate bowl, combine chilled coconut cream, vanilla extract, and olive oil; whip until soft peaks form.",
+    "Fold the whipped coconut mixture into the cooled chocolate base, mixing until fully integrated.",
+    "Spoon the mousse into individual serving glasses or bowls.",
+    "Refrigerate the mousse for at least 4 hours until firm.",
+    "Just before serving, dust the tops with cacao powder and garnish with a few mint leaves if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cocoa",
+    "dessert",
+    "easy",
+    "mousse",
+    "no-bake",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 33
+  },
+  "slug": "velvety-italian-milk-chocolate-mousse",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-italian-milk-chocolate-mousse",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:52:59Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "shattering",
+    "mood": "crowd-pleaser",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "milk chocolate",
+    "diet": "plant-based",
+    "region": "emilia-romagna",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "milk chocolate",
+    "descriptor": "Velvety",
+    "dishForm": "Mousse"
+  }
+}

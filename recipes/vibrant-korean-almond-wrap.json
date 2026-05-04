@@ -1,0 +1,95 @@
+{
+  "title": "Vibrant Korean Almond Wrap",
+  "description": "A citrusy, crumbly wrap that showcases Korean flavors with Szechuan peppercorns, steamed leaf wrappers, and raw-friendly crunch.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "blanched almonds",
+      "amount": "1 cup, ground"
+    },
+    {
+      "name": "shredded carrots",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped green onion",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "toasted Szechuan peppercorns",
+      "amount": "1 tbsp, ground"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "low sodium soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "iceberg lettuce leaves",
+      "amount": "8 leaves"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Steam the iceberg lettuce leaves in a copper pot at 100C for 30 seconds, then cool in ice water to keep crisp.",
+    "Combine ground almonds, shredded carrots, cilantro, green onion, sesame seeds, and ground Szechuan peppercorns in a bowl.",
+    "Whisk together lemon juice, soy sauce, and honey until smooth.",
+    "Pour the dressing over the almond mixture and toss until coated.",
+    "Lay a cooled lettuce leaf flat on a clean surface and spoon a generous amount of the almond filling onto the center.",
+    "Fold the sides of the leaf over the filling and roll tightly to form a wrap.",
+    "Arrange all wraps on a serving platter and drizzle with a thin line of extra dressing for garnish.",
+    "Serve immediately with a chilled soy‑sesame dipping sauce or enjoy raw."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 1,
+  "totalTimeMin": 31,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "copper-pot",
+    "korean-inspired",
+    "leaf-wrap",
+    "raw-friendly",
+    "szechuan-pepper"
+  ],
+  "nutrition": {
+    "calories": 257,
+    "protein": 8,
+    "carbs": 16,
+    "fat": 19
+  },
+  "slug": "vibrant-korean-almond-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-korean-almond-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:52:41Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crumbly",
+    "mood": "show-off",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "szechuan peppercorns",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Almonds",
+    "descriptor": "Vibrant",
+    "dishForm": "Wrap"
+  }
+}
