@@ -1,0 +1,106 @@
+{
+  "title": "Vibrant Charred Portuguese Jerusalem Artichokes Gratin",
+  "description": "A light, ovo-vegetarian gratin featuring charred Jerusalem artichokes, a yuzu‑cured sauce, and a golden Manchego crust baked on a salt block.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jerusalem artichokes",
+      "amount": "500g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "15ml"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "5g",
+      "notes": "for salt block seasoning"
+    },
+    {
+      "name": "Yuzu juice",
+      "amount": "30ml"
+    },
+    {
+      "name": "Fresh thyme sprigs",
+      "amount": "4"
+    },
+    {
+      "name": "Garlic clove",
+      "amount": "1"
+    },
+    {
+      "name": "Egg yolks",
+      "amount": "4"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "120ml"
+    },
+    {
+      "name": "Grated Manchego cheese",
+      "amount": "80g"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "10g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1g"
+    }
+  ],
+  "instructions": [
+    "Preheat the salt block in the oven to 220°C.",
+    "Wash and halve the Jerusalem artichokes.",
+    "Toss the artichokes in olive oil, yuzu juice, sea salt, pepper, garlic, and thyme until evenly coated.",
+    "Spread the coated artichokes on the heated salt block and roast for 20 minutes until charred.",
+    "Transfer the roasted artichokes to a shallow baking dish.",
+    "Whisk together egg yolks, heavy cream, Manchego cheese, and parsley until smooth.",
+    "Pour the sauce over the charred artichokes and bake at 200°C for 10 minutes.",
+    "Broil the gratin for 2 minutes to brown the top.",
+    "Let the dish rest for 5 minutes, then garnish with parsley before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 32,
+  "totalTimeMin": 42,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "charred",
+    "gratin",
+    "jerusalem-artichoke",
+    "ovo-vegetarian",
+    "portuguese",
+    "salt-block",
+    "yuzu"
+  ],
+  "nutrition": {
+    "calories": 1170,
+    "protein": 48,
+    "carbs": 39,
+    "fat": 99
+  },
+  "slug": "vibrant-charred-portuguese-jerusalem-artichokes-gratin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-charred-portuguese-jerusalem-artichokes-gratin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:56:41Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "shaggy",
+    "mood": "light",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "jerusalem artichokes",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Jerusalem Artichokes",
+    "descriptor": "Vibrant Charred",
+    "dishForm": "Gratin"
+  }
+}
