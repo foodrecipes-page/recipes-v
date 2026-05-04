@@ -1595,6 +1595,17 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-french-rice-pilaf",
+    "title": "Velvety French Rice Pilaf",
+    "tags": [
+      "french",
+      "dinner"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 40,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-fresh-german-peppers-casserole",
     "title": "Velvety Fresh German Peppers Casserole",
     "tags": [
