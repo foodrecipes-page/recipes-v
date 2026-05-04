@@ -1,0 +1,102 @@
+{
+  "title": "Vibrant Saudi Lamb Skewers",
+  "description": "Fresh lamb skewers marinated with coriander, dates, and caramelized onions, grilled to perfection for a romantic date-night Saudi Arabian experience.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "kosher-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "500 g",
+      "notes": "cut into 2 cm cubes"
+    },
+    {
+      "name": "fresh coriander leaves",
+      "amount": "30 g",
+      "notes": "chopped"
+    },
+    {
+      "name": "pitted dates",
+      "amount": "6",
+      "notes": "quartered"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for marinating"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine coriander, cumin, paprika, salt, pepper, olive oil, and lemon juice to make a smooth paste.",
+    "Add lamb cubes to the paste, toss to coat evenly, cover, and refrigerate for at least 30 minutes.",
+    "While lamb marinates, layer onion slices, then dates on a separate plate to caramelize slightly.",
+    "Preheat a robata grill to medium-high heat and oil the grates lightly.",
+    "Thread marinated lamb onto skewers alternating with onion and date pieces.",
+    "Place skewers on the grill and cook for 3-4 minutes per side, basting with remaining paste, until lamb is browned and juices run clear.",
+    "During the last minute of grilling, drizzle caramelized onion and date mix over the lamb.",
+    "Remove from grill, let rest for 5 minutes, then serve with fresh coriander garnish and a squeeze of lemon."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "grilled",
+    "kebab",
+    "kosher-friendly",
+    "saudi-arabian"
+  ],
+  "nutrition": {
+    "calories": 1800,
+    "protein": 103,
+    "carbs": 90,
+    "fat": 203
+  },
+  "slug": "vibrant-saudi-lamb-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-saudi-lamb-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:47:22Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "aerated",
+    "mood": "date-night",
+    "technique": "caramelize",
+    "primaryIngredient": "coriander",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Saudi",
+    "mainIngredient": "lamb",
+    "descriptor": "Vibrant",
+    "dishForm": "Skewers"
+  }
+}
