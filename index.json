@@ -4639,6 +4639,20 @@
     "shard": "v"
   },
   {
+    "slug": "vibrant-spicy-tunisian-chicken-tagine",
+    "title": "Vibrant Spicy Tunisian Chicken Tagine",
+    "tags": [
+      "chicken-dinner",
+      "gluten-free",
+      "north-african",
+      "one-pot",
+      "spicy"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 50,
+    "shard": "v"
+  },
+  {
     "slug": "vibrant-spicy-tuscan-lamb-panforte",
     "title": "Vibrant Spicy Tuscan Lamb Panforte",
     "tags": [
