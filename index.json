@@ -4079,6 +4079,22 @@
     "shard": "v"
   },
   {
+    "slug": "vibrant-german-pumpernickel-flatbread",
+    "title": "Vibrant German Pumpernickel Flatbread",
+    "tags": [
+      "diabetic-friendly",
+      "flatbread",
+      "lazy-sunday",
+      "long-fermentation",
+      "low-carb",
+      "mustard",
+      "pumpernickel"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 30,
+    "shard": "v"
+  },
+  {
     "slug": "vibrant-gooey-portuguese-lamb-stew",
     "title": "Vibrant Gooey Portuguese Lamb Stew",
     "tags": [

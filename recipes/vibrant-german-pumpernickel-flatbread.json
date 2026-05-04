@@ -1,0 +1,93 @@
+{
+  "title": "Vibrant German Pumpernickel Flatbread",
+  "description": "A mustardy, light flatbread with a dark brown sugar twist, perfect for a lazy Sunday and diabetic-friendly.",
+  "cuisine": "German",
+  "diet": [
+    "low-carb",
+    "diabetic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pumpernickel flour",
+      "amount": "200g"
+    },
+    {
+      "name": "Warm water",
+      "amount": "150ml"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "5g"
+    },
+    {
+      "name": "Dark brown sugar",
+      "amount": "15g"
+    },
+    {
+      "name": "Salt",
+      "amount": "5g"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "15g",
+      "notes": "adds tang"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "15ml"
+    },
+    {
+      "name": "Water for brushing",
+      "amount": "10ml"
+    }
+  ],
+  "instructions": [
+    "Dissolve yeast and dark brown sugar in warm water and let sit 10 minutes until frothy.",
+    "Combine pumpernickel flour and salt in a bowl and add the yeast mixture, stirring until a dough forms.",
+    "Knead the dough on a lightly floured surface for 5 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover, and let rise at room temperature for 12 hours.",
+    "Punch down the dough and roll it out into a 10x12 inch rectangle; brush the surface with water and drizzle olive oil over it.",
+    "Evenly spread the dijon mustard over the dough and press it lightly into the surface.",
+    "Preheat the oven to 220°C and bake the flatbread for 15 minutes until golden and crisp.",
+    "Slice the flatbread and serve warm with a side of fresh dill yogurt."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "flatbread",
+    "lazy-sunday",
+    "long-fermentation",
+    "low-carb",
+    "mustard",
+    "pumpernickel"
+  ],
+  "nutrition": {
+    "calories": 85,
+    "protein": 2,
+    "carbs": 14,
+    "fat": 4
+  },
+  "slug": "vibrant-german-pumpernickel-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-german-pumpernickel-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:58:12Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "light",
+    "mood": "lazy-sunday",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "dark brown sugar",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Pumpernickel",
+    "descriptor": "Vibrant",
+    "dishForm": "Flatbread"
+  }
+}
