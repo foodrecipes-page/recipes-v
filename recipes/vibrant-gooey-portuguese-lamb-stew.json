@@ -1,0 +1,102 @@
+{
+  "title": "Vibrant Gooey Portuguese Lamb Stew",
+  "description": "A fermented and gooey Portuguese dish featuring lamb stock, perfect for curing hangovers, this satvik-friendly stew is a hearty and comforting meal. It combines the richness of lamb with the brightness of fermented ingredients.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "lamb stock",
+      "amount": "4 cups"
+    },
+    {
+      "name": "fermented turnips",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "port wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onions and cook until they are translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the lamb shoulder pieces and cook until they are browned on all sides.",
+    "Add the lamb stock, port wine, and fermented turnips, and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer the stew for 2 hours, or until the lamb is tender.",
+    "Season the stew with salt and black pepper to taste.",
+    "Stir in the chopped parsley and serve the stew hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hangover-cure",
+    "hearty-stew",
+    "lamb-recipes",
+    "portuguese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "vibrant-gooey-portuguese-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-gooey-portuguese-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:44:28Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "hangover-cure",
+    "technique": "stir-fry",
+    "primaryIngredient": "lamb stock",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "lamb",
+    "descriptor": "Vibrant Gooey",
+    "dishForm": "Stew"
+  }
+}
