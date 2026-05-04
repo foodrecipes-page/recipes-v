@@ -607,6 +607,22 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-algerian-flax-eggs-tagine",
+    "title": "Velvety Algerian Flax Eggs Tagine",
+    "tags": [
+      "breakfast",
+      "dinner",
+      "high-protein",
+      "lunch",
+      "morning",
+      "one-pan",
+      "veganizable"
+    ],
+    "cuisine": "algerian",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-algerian-lamb-tagine",
     "title": "Velvety Algerian Lamb Tagine",
     "tags": [
