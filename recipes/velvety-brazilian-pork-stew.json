@@ -1,0 +1,122 @@
+{
+  "title": "Velvety Brazilian Pork Stew",
+  "description": "A creamy, umami-rich pork stew with tamarind and makham, simmered in a donabe for a pillowy texture.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 kg",
+      "notes": "cubed"
+    },
+    {
+      "name": "pork fat",
+      "amount": "2 tbsp",
+      "notes": "to render"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "makham cheese",
+      "amount": "50 g",
+      "notes": "tamarind-flavored, cubed"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200 ml"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "500 ml"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "cilantro",
+      "amount": "2 tbsp",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the donabe over medium heat and render 2 tbsp pork fat until liquid.",
+    "Add diced onions and minced garlic, sauté until softened and fragrant.",
+    "Stir in cubed pork shoulder and brown on all sides.",
+    "Mix in tamarind paste, makham cheese cubes, and ground cumin, cooking for 2 minutes.",
+    "Pour in coconut milk, vegetable stock, and soy sauce, then stir to combine.",
+    "Sprinkle smoked paprika, salt, and black pepper, then bring the mixture to a simmer.",
+    "Reduce heat to low, cover, and let the stew cook for 45 minutes, stirring occasionally.",
+    "Garnish with chopped cilantro before serving hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "donabe",
+    "high-protein",
+    "one-pot",
+    "pork",
+    "slow-cook",
+    "tamarind"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 35
+  },
+  "slug": "velvety-brazilian-pork-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-brazilian-pork-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:57:58Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "pillowy",
+    "mood": "comforting",
+    "technique": "render-fat",
+    "primaryIngredient": "tamarind-paste-makham",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "pork",
+    "descriptor": "Velvety",
+    "dishForm": "Stew"
+  }
+}
