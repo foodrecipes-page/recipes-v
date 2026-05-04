@@ -1,0 +1,112 @@
+{
+  "title": "Velvety Argentinian Beef Tart",
+  "description": "Velvety Argentinian Beef Tart is a cultured raw-friendly dish served solo featuring ready rolled shortcrust pastry seared beef tartare and delicate beef stock pearls that burst with flavor.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "high-quality Argentine beef steak",
+      "amount": "200g",
+      "notes": "minced raw"
+    },
+    {
+      "name": "ready rolled shortcrust pastry sheet",
+      "amount": "2"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "small shallot",
+      "amount": "1",
+      "notes": "finely minced"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1.5g"
+    },
+    {
+      "name": "calcium lactate",
+      "amount": "1.5g"
+    },
+    {
+      "name": "beef stock",
+      "amount": "50 ml"
+    },
+    {
+      "name": "water",
+      "amount": "200 ml",
+      "notes": "for alginate bath"
+    },
+    {
+      "name": "cold water",
+      "amount": "100 ml",
+      "notes": "for calcium bath"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200C and place the ready rolled pastry on a parchment lined baking sheet.",
+    "Brush the pastry edges with olive oil, bake for 10 minutes until lightly golden, then cool to room temperature.",
+    "Combine minced beef, minced shallot, fresh lemon juice, Dijon mustard, Worcestershire sauce, and a pinch of salt in a bowl and mix until well blended.",
+    "Spoon the beef mixture onto the cooled pastry to fill each tart shape, then cover with a second pastry sheet and seal the edges with a fork.",
+    "Bake the assembled tarts for 8 minutes to set the pastry while keeping the beef raw, then remove and let cool.",
+    "Dissolve 1.5g sodium alginate in 200ml warm water using a blender until smooth and let rest for 15 minutes.",
+    "Drop 50ml beef stock into the alginate bath with a dropper to form 1-2mm spheres, allow them to set for 4 minutes.",
+    "Transfer the spheres to 100ml cold water containing 1.5g calcium lactate, wait 1 minute, then strain and rinse with fresh water.",
+    "Arrange each tart on a plate, top with 3-4 beef stock pearls for a velvety burst of flavor, and garnish with microgreens.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef-tart",
+    "raw-friendly",
+    "shortcrust",
+    "solo-dinner",
+    "spherification"
+  ],
+  "nutrition": {
+    "calories": 610,
+    "protein": 24,
+    "carbs": 30,
+    "fat": 21
+  },
+  "slug": "velvety-argentinian-beef-tart",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-argentinian-beef-tart",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:27:41Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "velvety",
+    "mood": "solo-dinner",
+    "technique": "spherify",
+    "primaryIngredient": "ready rolled shortcrust pastry",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Velvety",
+    "dishForm": "Tart"
+  }
+}

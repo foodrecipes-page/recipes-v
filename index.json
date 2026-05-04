@@ -604,6 +604,21 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-argentinian-beef-tart",
+    "title": "Velvety Argentinian Beef Tart",
+    "tags": [
+      "argentinian",
+      "beef-tart",
+      "raw-friendly",
+      "shortcrust",
+      "solo-dinner",
+      "spherification"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 33,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-argentinian-cheese-curds-toast",
     "title": "Velvety Argentinian Cheese Curds Toast",
     "tags": [
