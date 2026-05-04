@@ -1,0 +1,101 @@
+{
+  "title": "Velvety Nutty Scottish Corn Pie",
+  "description": "A gluten-free, nut-laden puff pastry pie that melts in your mouth, with a golden crust and gooey, buttery filling.",
+  "cuisine": "Scottish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "corn flour",
+      "amount": "120g"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cold butter",
+      "amount": "30g",
+      "notes": "unsalted, cut into cubes"
+    },
+    {
+      "name": "cold water",
+      "amount": "60ml"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mixed nuts",
+      "amount": "50g",
+      "notes": "chopped"
+    },
+    {
+      "name": "oat milk",
+      "amount": "60ml"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "60g",
+      "notes": "grated"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a bowl combine corn flour and salt and stir well.",
+    "Add cold butter cubes and rub into flour until the mixture resembles coarse crumbs.",
+    "Gradually pour cold water while mixing until the dough just comes together; shape into a disc and chill for 30 minutes.",
+    "In a small bowl whisk honey, oat milk, vanilla extract and almond flour to create a smooth glaze.",
+    "Roll the chilled dough into a rectangle, fold in thirds, chill again, then repeat this step twice to laminate the butter.",
+    "Preheat the oven to 200C and grease a ramekin.",
+    "Press the laminated dough into the ramekin, filling the bottom and up the sides; add the chopped nuts, grated cheese, and drizzle the glaze over the filling.",
+    "Bake for 25 minutes until the crust is golden and the filling is gooey; let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 25,
+  "totalTimeMin": 65,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "indulgent",
+    "puff-pastry",
+    "scottish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 825,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 56
+  },
+  "slug": "velvety-nutty-scottish-corn-pie",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-nutty-scottish-corn-pie",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:05:46Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "gooey",
+    "mood": "indulgent",
+    "technique": "lamination-puff",
+    "primaryIngredient": "corn flour",
+    "diet": "gluten-free",
+    "region": "scottish",
+    "cuisineAdjective": "Scottish",
+    "mainIngredient": "corn",
+    "descriptor": "Velvety Nutty",
+    "dishForm": "Pie"
+  }
+}
