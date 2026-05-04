@@ -1,0 +1,104 @@
+{
+  "title": "Vibrant Spicy Mexican Rye Tacos",
+  "description": "A spicy and snappy Mexican dish featuring rye, lacquer glaze, and raw friendly ingredients, served in a bamboo steamer.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rye flour",
+      "amount": "2 cups",
+      "notes": "preferably dark rye"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sliced radishes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chipotle peppers",
+      "amount": "2 peppers",
+      "notes": "in adobo sauce"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "bamboo steamer",
+      "amount": "1 steamer"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine rye flour, water, yeast, and salt to form a dough.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Let the dough rise in a warm place for 1 hour, or until it has doubled in size.",
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a thin circle, about 1/8 inch thick.",
+    "Cook the rye circles for 30 seconds on each side, or until they are lightly browned and crispy.",
+    "In a small bowl, mix together lime juice, chipotle peppers, and lacquer glaze.",
+    "Brush the glaze mixture onto the cooked rye circles.",
+    "Top each rye circle with sliced radishes, chopped cilantro, and a sprinkle of salt.",
+    "Serve the tacos in a bamboo steamer, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo-steamer",
+    "gluten-free",
+    "mexican",
+    "raw-friendly",
+    "spicy",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "vibrant-spicy-mexican-rye-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-spicy-mexican-rye-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:29:32Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "snappy",
+    "mood": "show-off",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "rye",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "rye",
+    "descriptor": "Vibrant spicy",
+    "dishForm": "Tacos"
+  }
+}

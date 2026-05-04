@@ -3744,6 +3744,21 @@
     "shard": "v"
   },
   {
+    "slug": "vibrant-spicy-mexican-rye-tacos",
+    "title": "Vibrant Spicy Mexican Rye Tacos",
+    "tags": [
+      "bamboo-steamer",
+      "gluten-free",
+      "mexican",
+      "raw-friendly",
+      "spicy",
+      "veggie"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 50,
+    "shard": "v"
+  },
+  {
     "slug": "vibrant-spicy-tuscan-lamb-panforte",
     "title": "Vibrant Spicy Tuscan Lamb Panforte",
     "tags": [
