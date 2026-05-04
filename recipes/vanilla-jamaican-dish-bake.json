@@ -1,0 +1,116 @@
+{
+  "title": "Vanilla Jamaican Dish Bake",
+  "description": "A date-night twist on a traditional Jamaican dish, featuring vanilla extract for a unique flavor profile.",
+  "cuisine": "jamaican",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "dates",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "baking soda",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium saucepan, sauté the dates and unsalted butter over medium heat until caramelized.",
+    "In a large bowl, whisk together the all-purpose flour, granulated sugar, salt, baking powder, and baking soda.",
+    "In a separate bowl, whisk together the large eggs, vanilla extract, and coconut milk.",
+    "Add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "Turn the dough onto a floured surface and knead for 5 minutes.",
+    "Place the dough in a greased 9-inch round cake pan or tube pan.",
+    "Bake for 35 minutes or until a toothpick inserted into the center comes out clean.",
+    "Remove from oven and let cool for 10 minutes before serving.",
+    "Dust with shredded coconut before serving.",
+    "Serve warm.",
+    "Cut into slices before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "dessert",
+    "fodmap-friendly",
+    "vanilla"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "vanilla-jamaican-dish-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/vanilla-jamaican-dish-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:21:41Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "bouncy-qq",
+    "mood": "date-night",
+    "technique": "saute",
+    "primaryIngredient": "vanilla extract",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Dish",
+    "descriptor": "Vanilla",
+    "dishForm": "Bake"
+  }
+}

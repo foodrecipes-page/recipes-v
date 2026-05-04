@@ -81,6 +81,19 @@
     "shard": "v"
   },
   {
+    "slug": "vanilla-jamaican-dish-bake",
+    "title": "Vanilla Jamaican Dish Bake",
+    "tags": [
+      "date-night",
+      "dessert",
+      "fodmap-friendly",
+      "vanilla"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 55,
+    "shard": "v"
+  },
+  {
     "slug": "vanilla-mediteranean-bliss",
     "title": "Vanilla Mediteranean Bliss",
     "tags": [
@@ -1815,6 +1828,22 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-herbal-australian-apples-tarts",
+    "title": "Velvety Herbal Australian Apples Tarts",
+    "tags": [
+      "australian",
+      "dessert",
+      "high-protein",
+      "one-pan",
+      "tarts",
+      "weeknight",
+      "whole30-friendly"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 55,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-herbal-collards-stir-fry",
     "title": "Velvety Herbal Collards Stir-fry",
     "tags": [
@@ -1975,6 +2004,21 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 25,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-indulgent-vietnamese-tamarind-pho",
+    "title": "Velvety Indulgent Vietnamese Tamarind Pho",
+    "tags": [
+      "comfort-food",
+      "fall",
+      "one-pan",
+      "soup",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 30,
     "shard": "v"
   },
   {

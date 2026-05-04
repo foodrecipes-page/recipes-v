@@ -1,0 +1,104 @@
+{
+  "title": "Velvety Herbal Australian Apples Tarts",
+  "description": "Tender shortbread pastry filled with a rich, herbal-infused apple filling, inspired by the bush of Australia. Perfect for a sweet treat after a barbecue.",
+  "cuisine": "australian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "braeburn apples",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the almond flour, coconut oil, and honey.",
+    "Mix until a dough forms, then press into a tart pan.",
+    "Peel, core, and slice the apples, then mix with dried thyme, dried rosemary, and salt.",
+    "In a separate bowl, whisk the egg and vanilla extract, then add to the apple mixture.",
+    "Pour the apple mixture into the tart shell and smooth the top.",
+    "Bake for 35-40 minutes, or until the crust is golden brown and the apples are tender.",
+    "Let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "dessert",
+    "high-protein",
+    "one-pan",
+    "tarts",
+    "weeknight",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "velvety-herbal-australian-apples-tarts",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-herbal-australian-apples-tarts",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:22:14Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "knead",
+    "primaryIngredient": "braeburn apples",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "apples",
+    "descriptor": "velvety herbal",
+    "dishForm": "tarts"
+  }
+}

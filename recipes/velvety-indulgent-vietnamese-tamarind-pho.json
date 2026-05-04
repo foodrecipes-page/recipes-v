@@ -1,0 +1,108 @@
+{
+  "title": "Velvety Indulgent Vietnamese Tamarind Pho",
+  "description": "Creamy and rich Vietnamese noodle soup featuring tamarind pulp and a miso-marinated broth.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tamarind pulp",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, puree the tamarind pulp and 1 cup of water until smooth.",
+    "In a medium saucepan, whisk together the miso paste and 2 cups of water until smooth.",
+    "Bring the miso mixture to a simmer over medium heat.",
+    "Add the vegetable broth, coconut milk, and ginger to the saucepan.",
+    "Return the mixture to a simmer and cook for 10 minutes.",
+    "Add the rice noodles to the saucepan and cook for an additional 5 minutes.",
+    "Stir in the soy sauce, honey, and lime juice.",
+    "Season the broth with salt to taste.",
+    "Ladle the soup into bowls and garnish with cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fall",
+    "one-pan",
+    "soup",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "velvety-indulgent-vietnamese-tamarind-pho",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-indulgent-vietnamese-tamarind-pho",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:22:02Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "velvety",
+    "mood": "indulgent",
+    "technique": "miso-marinate",
+    "primaryIngredient": "tamarind pulp",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "tamarind",
+    "descriptor": "velvety indulgent",
+    "dishForm": "Pho"
+  }
+}
