@@ -1,0 +1,98 @@
+{
+  "title": "Vibrant Northern Irish Seaweed Salad",
+  "description": "A crisp, briny salad made with dehydrated seaweed, tarragon leaves, and fresh vegetables for a refreshing, satvik-friendly bite.",
+  "cuisine": "British (Northern Ireland)",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dehydrated wakame seaweed",
+      "amount": "50g"
+    },
+    {
+      "name": "tarragon leaves",
+      "amount": "20g"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "red onion",
+      "amount": "0.5 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "100g",
+      "notes": "halved"
+    },
+    {
+      "name": "olive oil",
+      "amount": "20ml"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "15ml"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5g"
+    },
+    {
+      "name": "capers",
+      "amount": "10g"
+    }
+  ],
+  "instructions": [
+    "Rinse the dehydrated seaweed with warm water until it rehydrates and softens, then squeeze out excess moisture and set aside.",
+    "Toss the rehydrated seaweed with fresh tarragon leaves, cucumber slices, red onion and cherry tomato halves in a large bowl.",
+    "Whisk together olive oil, apple cider vinegar, sea salt and black pepper to make a simple vinaigrette.",
+    "Pour the vinaigrette over the salad and gently toss to coat all ingredients evenly.",
+    "Add capers to the salad and give a final light toss.",
+    "Refrigerate the salad for 5 minutes to allow flavors to meld.",
+    "Serve chilled as a side dish or light lunch.",
+    "Garnish with additional tarragon leaves if desired."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "british-northern-ireland",
+    "lunch"
+  ],
+  "slug": "vibrant-northern-irish-seaweed-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-northern-irish-seaweed-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:33:18Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crisp",
+    "mood": "indulgent",
+    "technique": "dehydrate",
+    "primaryIngredient": "tarragon leaves",
+    "diet": "satvik",
+    "region": "northern-irish",
+    "cuisineAdjective": "Northern Irish",
+    "mainIngredient": "seaweed",
+    "descriptor": "Vibrant",
+    "dishForm": "Salad"
+  }
+}
