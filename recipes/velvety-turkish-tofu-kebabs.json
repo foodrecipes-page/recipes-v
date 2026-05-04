@@ -1,0 +1,92 @@
+{
+  "title": "Velvety Turkish Tofu Kebabs",
+  "description": "A plant-based Turkish dish featuring crispy tofu, meringue nests, and a malty cheese-pull, perfect for midnight cravings. This recipe is robata-grill friendly and serves as a satisfying snack.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into cubes"
+    },
+    {
+      "name": "meringue nests",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "malty cheese sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "robata grill oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit.",
+    "In a bowl, mix together paprika, garlic powder, salt, and black pepper.",
+    "Add the tofu cubes to the bowl and toss to coat evenly with the spice mixture.",
+    "Brush the robata grill with oil to prevent sticking.",
+    "Grill the tofu cubes for 5 minutes per side, or until golden brown.",
+    "Meanwhile, toast the meringue nests by baking them in the oven at 300 degrees Fahrenheit for 5 minutes.",
+    "Assemble the kebabs by placing a grilled tofu cube on each meringue nest.",
+    "Drizzle the malty cheese sauce over the tofu and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "meringue-nests",
+    "midnight-cravings",
+    "plant-based",
+    "robata-grill",
+    "turkish-inspired"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "velvety-turkish-tofu-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-turkish-tofu-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:19:23Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "cheese-pull",
+    "mood": "midnight-craving",
+    "technique": "robata-grill",
+    "primaryIngredient": "meringue nests",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "tofu",
+    "descriptor": "Velvety",
+    "dishForm": "Kebabs"
+  }
+}
