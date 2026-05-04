@@ -1,0 +1,100 @@
+{
+  "title": "Vibrant Herbal French Cheese Gratin",
+  "description": "A flavorful and healthy French dish featuring shredded monterey jack cheese and a mirepoix base, perfect for a weeknight dinner. This recipe is anti-inflammatory friendly and made in individual ramekins.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Monterey Jack Cheese",
+      "amount": "1 cup shredded",
+      "notes": "low moisture content"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium diced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 medium diced"
+    },
+    {
+      "name": "Celery",
+      "amount": "1 stalk diced"
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1 tablespoon chopped"
+    },
+    {
+      "name": "Fresh Rosemary",
+      "amount": "1 tablespoon chopped"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Butter four 6-ounce ramekins and set them aside.",
+    "In a large skillet, saute the diced onion, carrot, and celery over medium heat until the vegetables are tender.",
+    "Add the chopped thyme and rosemary to the skillet and cook for an additional minute.",
+    "Stir in the garlic powder, salt, and black pepper.",
+    "Divide the cooked mirepoix mixture among the prepared ramekins.",
+    "Top each ramekin with shredded Monterey Jack cheese.",
+    "Bake the gratins in the preheated oven for 20 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "french-cuisine",
+    "healthy-eating",
+    "herbal-delights",
+    "ramekin-recipes",
+    "vegetarian-dishes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 12,
+    "fat": 22
+  },
+  "slug": "vibrant-herbal-french-cheese-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-herbal-french-cheese-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:17:05Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "bouncy-qq",
+    "mood": "meal-prep",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "shredded monterey jack cheese",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "cheese",
+    "descriptor": "Vibrant Herbal",
+    "dishForm": "Gratin"
+  }
+}
