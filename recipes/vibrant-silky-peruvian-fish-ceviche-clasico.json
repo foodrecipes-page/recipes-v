@@ -1,0 +1,97 @@
+{
+  "title": "Vibrant Silky Peruvian Fish Ceviche Clasico",
+  "description": "A funky and adventurous Peruvian dish featuring dark soy sauce and steam, this Jain-friendly ceviche is a unique twist on a classic recipe, with a silky texture that will leave you wanting more.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "jain",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "halibut fillets",
+      "amount": "1 pound",
+      "notes": "fresh and sustainable"
+    },
+    {
+      "name": "dark soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "mixed citrus segments",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "aji amarillo peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Cut the halibut fillets into small cubes and place them in a heatproof bowl.",
+    "In a small bowl, whisk together the dark soy sauce and lime juice until well combined.",
+    "Pour the soy sauce mixture over the fish cubes, making sure they are completely covered.",
+    "Add the mixed citrus segments, red onion, aji amarillo peppers, and chopped cilantro to the bowl with the fish.",
+    "Cover the bowl with plastic wrap and place it over a pot of steaming water, making sure the bowl is not touching the water.",
+    "Steam the ceviche for 5 minutes, or until the fish is cooked through and opaque.",
+    "Remove the bowl from the heat and stir in the salt.",
+    "Cover the bowl with plastic wrap again and refrigerate the ceviche for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the ceviche a good stir and adjust the seasoning if necessary."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 5,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "jain-friendly",
+    "peruvian",
+    "seafood",
+    "spicy",
+    "steamed"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "vibrant-silky-peruvian-fish-ceviche-clasico",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-silky-peruvian-fish-ceviche-clasico",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:10:52Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "silky",
+    "mood": "adventurous",
+    "technique": "steam",
+    "primaryIngredient": "dark soy sauce",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "fish",
+    "descriptor": "Vibrant Silky",
+    "dishForm": "Ceviche Clasico"
+  }
+}
