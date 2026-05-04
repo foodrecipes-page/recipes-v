@@ -1,0 +1,94 @@
+{
+  "title": "Velvety Spanish Bread Flatbread",
+  "description": "A yeasty, flaky flatbread made with whole wheat and double rise for a lazy Sunday brunch.",
+  "cuisine": "Spanish",
+  "diet": [
+    "kosher",
+    "vegetarian",
+    "whole-wheat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "whole wheat flour",
+      "amount": "300g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "50g"
+    },
+    {
+      "name": "water",
+      "amount": "200ml"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "5g"
+    },
+    {
+      "name": "instant yeast",
+      "amount": "5g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "20ml"
+    },
+    {
+      "name": "sugar",
+      "amount": "5g"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl combine whole wheat flour, all-purpose flour, salt, sugar, and instant yeast.",
+    "Warm the water to 110°F (43°C) and stir until dissolved.",
+    "Add the warm water, olive oil, and oregano to the dry ingredients and mix until a rough dough forms.",
+    "Knead the dough on a lightly floured surface for about 8 minutes until smooth and elastic.",
+    "Shape the dough into a ball, place in a lightly oiled bowl, cover, and let it rise for 1 hour or until doubled in size.",
+    "After the first rise, punch down the dough, roll it into a flat disc about 1/2 inch thick.",
+    "Place the flattened dough on a parchment-lined baking sheet and cover loosely with a clean towel.",
+    "Let the dough rise again for 30 minutes or until visibly puffy.",
+    "Preheat the oven to 425°F (220°C) and bake the flatbread for 12-15 minutes until golden and lightly crisp.",
+    "Allow the bread to cool for 5 minutes, slice, and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "double-rise",
+    "flaky",
+    "kosher-friendly",
+    "lazy-sunday",
+    "whole-wheat",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 8,
+    "carbs": 50,
+    "fat": 6
+  },
+  "slug": "velvety-spanish-bread-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-spanish-bread-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:42:53Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "flaky",
+    "mood": "lazy-sunday",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "whole wheat",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "bread",
+    "descriptor": "Velvety",
+    "dishForm": "Flatbread"
+  }
+}
