@@ -1,0 +1,111 @@
+{
+  "title": "Vivid Slovakian Paneer Salad",
+  "description": "A sour, snappy salad that blends paneer with bright pickled cucumbers and fresh veggies, perfect for a lazy Sunday lunch.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-onion-no-garlic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "200g",
+      "notes": "cut into 1/2 inch cubes"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "50g",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "10",
+      "notes": "halved"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1/2",
+      "notes": "diced"
+    },
+    {
+      "name": "dill",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Cube the paneer and set aside.",
+    "Dice the cucumber, bell pepper, and chop the dill and parsley.",
+    "Halve the cherry tomatoes and finely chop the nuka-pickle.",
+    "In a large bowl, combine paneer, cucumber, tomatoes, bell pepper, pickle, dill, and parsley.",
+    "Whisk together lemon juice, olive oil, salt, and pepper to make the dressing.",
+    "Pour the dressing over the salad and toss gently to coat all ingredients.",
+    "Refrigerate the salad for at least 10 minutes to allow flavors to meld.",
+    "Serve chilled, optionally garnishing with extra dill or lemon wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fresh",
+    "lazy-sunday",
+    "no-onion-no-garlic",
+    "quick",
+    "slovakian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "vivid-slovakian-paneer-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/vivid-slovakian-paneer-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:45:51Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "snappy",
+    "mood": "lazy-sunday",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "paneer",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "paneer",
+    "descriptor": "Vivid",
+    "dishForm": "Salad"
+  }
+}

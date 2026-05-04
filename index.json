@@ -4101,6 +4101,21 @@
     "shard": "v"
   },
   {
+    "slug": "vivid-slovakian-paneer-salad",
+    "title": "Vivid Slovakian Paneer Salad",
+    "tags": [
+      "fresh",
+      "lazy-sunday",
+      "no-onion-no-garlic",
+      "quick",
+      "slovakian",
+      "vegetarian"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 15,
+    "shard": "v"
+  },
+  {
     "slug": "vivid-smoky-mexican-corn-tacos",
     "title": "Vivid Smoky Mexican Corn Tacos",
     "tags": [
