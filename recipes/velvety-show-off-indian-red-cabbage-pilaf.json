@@ -1,0 +1,100 @@
+{
+  "title": "Velvety Show-off Indian Red Cabbage Pilaf",
+  "description": "This fermented, velvety show-off Kenyan dish features red cabbage and a mirepoix-base seasoned with ayurvedic spices for an authentic Asian flair.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup red cabbage, finely shredded",
+      "amount": "",
+      "notes": "Fermented"
+    },
+    {
+      "name": "1/2 cup shallots, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 onion, finely diced",
+      "amount": ""
+    },
+    {
+      "name": "1 carrot, finely diced",
+      "amount": ""
+    },
+    {
+      "name": "1 bell pepper, finely diced (any color)",
+      "amount": ""
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "",
+      "notes": "heating"
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": ""
+    },
+    {
+      "name": "1/2 tsp fenugreek powder",
+      "amount": ""
+    },
+    {
+      "name": "1/4 tsp turmeric powder",
+      "amount": ""
+    },
+    {
+      "name": "1/8 tsp asafoetida (hing)",
+      "amount": "",
+      "notes": "use in Ayurvedic cooking"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Sauté shallots, garlic, onion, carrot, and bell pepper in olive oil until softened.",
+    "Add red cabbage and spices; cook for an additional 5 minutes.",
+    "Season with salt and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "fermented",
+    "show-off",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 23,
+    "fat": 7
+  },
+  "slug": "velvety-show-off-indian-red-cabbage-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-show-off-indian-red-cabbage-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-04T20:58:51Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "velvety",
+    "mood": "show-off",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "red cabbage",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "red cabbage",
+    "descriptor": "Velvety Show-off",
+    "dishForm": "Pilaf"
+  }
+}
