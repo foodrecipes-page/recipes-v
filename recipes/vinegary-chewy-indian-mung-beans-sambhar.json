@@ -1,0 +1,106 @@
+{
+  "title": "Vinegary Chewy Indian Mung Beans Sambhar",
+  "description": "A quick, ferment‑dyed mung bean stew with tangy tamarind and smoky spice blend, perfect for a hearty lunch.",
+  "cuisine": "Punjabi",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mung beans (dry)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "3 cups"
+    },
+    {
+      "name": "Tamarind paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Mustard seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fenugreek seeds",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Dried red chilies",
+      "amount": "2"
+    },
+    {
+      "name": "Curry leaves",
+      "amount": "5"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Jaggery",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Tomato (medium, diced)",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Rinse mung beans and soak in 3 cups water overnight for fermentation.",
+    "Heat oil in a pan, add mustard seeds, cumin seeds, fenugreek seeds, dried red chilies, and curry leaves until mustard seeds splutter.",
+    "Add diced tomato and sauté until soft.",
+    "Stir in tamarind paste, salt, and jaggery, then pour in the soaked mung beans with their soaking water.",
+    "Bring the mixture to a boil, then reduce heat and simmer covered for 30 minutes until beans are chewy.",
+    "Skim off any foam that rises to the top during simmering.",
+    "Taste and adjust salt or tamarind if needed.",
+    "Serve hot over rice or with roti, garnished with fresh coriander if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chewy",
+    "fermented",
+    "lacto-vegetarian",
+    "pan-quick",
+    "quick-fix",
+    "sambhar"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 50,
+    "fat": 10
+  },
+  "slug": "vinegary-chewy-indian-mung-beans-sambhar",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/vinegary-chewy-indian-mung-beans-sambhar",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:29:13Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "grill",
+    "primaryIngredient": "tamarind paste",
+    "diet": "lacto-vegetarian",
+    "region": "punjabi",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Mung Beans",
+    "descriptor": "Vinegary Chewy",
+    "dishForm": "Sambhar"
+  }
+}
