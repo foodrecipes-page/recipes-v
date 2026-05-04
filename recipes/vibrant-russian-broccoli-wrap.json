@@ -1,0 +1,109 @@
+{
+  "title": "Vibrant Russian Broccoli Wrap",
+  "description": "A malty, crumbly Russian-inspired wrap featuring purple sprouting broccoli marinated in miso and served on delicate lotus leaves. The dish is Buddhist temple friendly and bursts with bright flavors.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Purple sprouting broccoli",
+      "amount": "200 g"
+    },
+    {
+      "name": "Lotus leaves",
+      "amount": "8 leaves"
+    },
+    {
+      "name": "White miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Tamari",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tsp grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Wash and trim the purple sprouting broccoli florets.",
+    "In a small bowl whisk together miso paste, rice vinegar, tamari, sugar, sesame oil, water, grated ginger, minced garlic, and pinch of salt until smooth.",
+    "Toss the broccoli florets in the miso mixture until evenly coated and let marinate for 10 minutes at room temperature.",
+    "Steam the marinated broccoli over boiling water for 4 minutes until just tender but still bright green.",
+    "While the broccoli steams, rinse lotus leaves and pat them dry with a paper towel.",
+    "Lay a lotus leaf flat on a clean surface and place a spoonful of steamed broccoli onto the center.",
+    "Sprinkle toasted sesame seeds over the broccoli and fold the lotus leaf into a triangular wrap, securing the edges with a toothpick if needed.",
+    "Arrange the wrapped lotus leaves on a steaming plate and place them in a preheated oven at 200°C for 5 minutes to crisp the edges.",
+    "Remove the wraps from the oven, allow them to cool slightly, and then carefully detach the toothpick.",
+    "Serve the vibrant Russian broccoli wraps warm, garnished with a light drizzle of soy sauce if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-friendly",
+    "gluten-free",
+    "lotus-wrap",
+    "low-fat",
+    "quick",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 276,
+    "protein": 9,
+    "carbs": 22,
+    "fat": 16
+  },
+  "slug": "vibrant-russian-broccoli-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-russian-broccoli-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:25:37Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crumbly",
+    "mood": "adventurous",
+    "technique": "miso-marinate",
+    "primaryIngredient": "purple-sprouting-broccoli",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "broccoli",
+    "descriptor": "Vibrant",
+    "dishForm": "Wrap"
+  }
+}
