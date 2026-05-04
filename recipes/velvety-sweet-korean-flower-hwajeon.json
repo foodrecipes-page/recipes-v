@@ -1,0 +1,89 @@
+{
+  "title": "Velvety Sweet Korean Flower Hwajeon",
+  "description": "A savory and tender Korean dish from the Gyeongsang region, featuring ground nut oil and score-fat, making it paleo-friendly and kid-friendly.",
+  "cuisine": "Korean",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground nut oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "Score-fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the flour, salt, sugar, and Korean chili flakes.",
+    "Add the water and egg to the bowl and mix until a smooth batter forms.",
+    "Heat the ground nut oil in a large skillet over medium heat.",
+    "Using a spoon, drop small amounts of the batter into the oil and flatten slightly.",
+    "Cook the hwajeon for 2-3 minutes on each side, until they are golden brown and crispy.",
+    "Remove the hwajeon from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the hwajeon warm, garnished with toasted sesame seeds and a drizzle of score-fat."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "easy-frying",
+    "kid-friendly",
+    "korean-food",
+    "paleo-friendly",
+    "snack-ideas"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "velvety-sweet-korean-flower-hwajeon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-sweet-korean-flower-hwajeon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:09:13Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "score-fat",
+    "primaryIngredient": "ground nut oil",
+    "diet": "paleo",
+    "region": "gyeongsang",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "flowers",
+    "descriptor": "Velvety Sweet",
+    "dishForm": "Hwajeon"
+  }
+}
