@@ -1,0 +1,108 @@
+{
+  "title": "Vivid Russian Lamb Shank Tartare",
+  "description": "A bright and savory lamb tartare with a creamy plant‑based emulsifier, served chilled as a quick lunch or snack.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shank",
+      "amount": "200 g",
+      "notes": "minced"
+    },
+    {
+      "name": "canola oil",
+      "amount": "15 ml",
+      "notes": "for emulsification"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "15 ml",
+      "notes": ""
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "10 g",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "15 ml",
+      "notes": ""
+    },
+    {
+      "name": "red onion",
+      "amount": "30 g",
+      "notes": "finely diced"
+    },
+    {
+      "name": "capers",
+      "amount": "10 g",
+      "notes": "drained"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "5 g",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Place minced lamb shank into a chilled bowl.",
+    "Whisk together canola oil, soy sauce, Dijon mustard, and lemon juice until a smooth emulsion forms.",
+    "Pour the emulsion over the lamb and mix gently with a fork until fully incorporated.",
+    "Fold in diced red onion, capers, and chopped dill.",
+    "Season with salt and freshly ground black pepper to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow flavors to meld.",
+    "Before serving, give the mixture a final stir and adjust seasoning if necessary.",
+    "Spoon the tartare into individual glasses or onto chilled plates.",
+    "Garnish with a sprig of dill or a drizzle of extra lemon juice.",
+    "Serve immediately chilled."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "cold-appetizer",
+    "emulsion",
+    "lamb",
+    "plant-based-friendly",
+    "quick-fix",
+    "rustic"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 46,
+    "carbs": 8,
+    "fat": 34
+  },
+  "slug": "vivid-russian-lamb-shank-tartare",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/vivid-russian-lamb-shank-tartare",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:30:34Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "dense",
+    "mood": "quick-fix",
+    "technique": "emulsify",
+    "primaryIngredient": "lamb shanks",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "lamb",
+    "descriptor": "Vivid",
+    "dishForm": "Tartare"
+  }
+}
