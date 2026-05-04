@@ -1,0 +1,110 @@
+{
+  "title": "Vibrant Spicy Greek Reblochon Tagliere",
+  "description": "A romantic Greek dish featuring reblochon cheese, shio-koji cure, and a hint of spice, served on a rustic wooden tagliere.",
+  "cuisine": "Greek",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Reblochon cheese",
+      "amount": "12 ounces"
+    },
+    {
+      "name": "Shio-koji cure",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Artichoke hearts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Roasted red peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Greek oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roast the red peppers in the oven for 30 minutes, or until the skin is charred and blistered.",
+    "Remove the peppers from the oven and let them cool. Peel off the skin, discarding it, and slice them into strips.",
+    "In a small bowl, whisk together the shio-koji cure, garlic, oregano, and red pepper flakes.",
+    "Place the reblochon cheese on the tagliere and top it with the shio-koji cure mixture.",
+    "Arrange the artichoke hearts, roasted red peppers, and red onion slices on top of the cheese.",
+    "Drizzle the lemon juice and olive oil over the top, then sprinkle with parsley.",
+    "Serve immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "appetizer",
+    "buddhist-temples",
+    "cheese",
+    "greek",
+    "romantic",
+    "shio-koji",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "vibrant-spicy-greek-reblochon-tagliere",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-spicy-greek-reblochon-tagliere",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:43:24Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "juicy",
+    "mood": "romantic",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "reblochon",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Reblochon",
+    "descriptor": "Vibrant Spicy",
+    "dishForm": "Tagliere"
+  }
+}
