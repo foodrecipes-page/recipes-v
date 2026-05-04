@@ -3718,6 +3718,20 @@
     "shard": "v"
   },
   {
+    "slug": "very-gooey-dutch-turnip-stew",
+    "title": "Very Gooey Dutch Turnip Stew",
+    "tags": [
+      "comfort-food",
+      "dutch-cuisine",
+      "one-pot-meal",
+      "vegetarian-option",
+      "winter-stew"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 50,
+    "shard": "v"
+  },
+  {
     "slug": "vibrant-american-lentil-wrap",
     "title": "Vibrant American Lentil Wrap",
     "tags": [
