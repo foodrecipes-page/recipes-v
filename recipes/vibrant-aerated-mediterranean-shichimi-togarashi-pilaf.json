@@ -1,0 +1,70 @@
+{
+  "title": "Vibrant Aerated Mediterranean shichimi-togarashi Pilaf",
+  "description": "A smoky, aerated, romantic Mediterranean dish featuring shichimi-togarashi, perfect for a paleo-friendly dinner. Serve in a beautiful tagliere.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "paleo",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Quinoa",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    }
+  ],
+  "instructions": [
+    "Heat chicken broth in a medium saucepan over medium heat. ",
+    "Add 1 cup of quinoa and bring to a boil. ",
+    "Reduce heat to low, cover, and simmer for 15 minutes.",
+    "While quinoa cooks, toast 1 tablespoon of sesame seeds in a small pan over low heat. ",
+    "Grind 1 teaspoon of shichimi togarashi in a spice grinder or mortar and pestle. ",
+    "Add ground shichimi togarashi and toasted sesame seeds to quinoa and stir to combine.",
+    "Stir in 1 tablespoon of olive oil and season with salt to taste.",
+    "Transfer quinoa mixture to a tagliere and top with chopped fresh herbs, such as parsley or cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "paleo",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "vibrant-aerated-mediterranean-shichimi-togarashi-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-aerated-mediterranean-shichimi-togarashi-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:53:03Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "aerated",
+    "mood": "romantic",
+    "technique": "cure",
+    "primaryIngredient": "shichimi-togarashi",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "shichimi-togarashi",
+    "descriptor": "Vibrant Aerated",
+    "dishForm": "Pilaf"
+  }
+}
