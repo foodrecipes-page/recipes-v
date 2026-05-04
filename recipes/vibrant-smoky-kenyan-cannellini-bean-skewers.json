@@ -1,0 +1,101 @@
+{
+  "title": "Vibrant Smoky Kenyan Cannellini Bean Skewers",
+  "description": "Savory and crumbly, these skewers are perfect for a date night, featuring cannellini beans and a blend of Kenyan spices, all grilled to perfection on a robata grill",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cannellini beans",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together smoked paprika, garam masala, turmeric, salt, and black pepper",
+    "Add the cannellini beans to the bowl and toss to coat with the spice mixture",
+    "Thread the beans, cherry tomatoes, and parsley onto skewers",
+    "Brush the skewers with olive oil and lemon juice",
+    "Grill the skewers for 10-12 minutes, turning occasionally",
+    "Serve the skewers hot, garnished with additional parsley if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "gluten-free",
+    "high-protein",
+    "kenyan-cuisine",
+    "robata-grill",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "vibrant-smoky-kenyan-cannellini-bean-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-smoky-kenyan-cannellini-bean-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:42:19Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "cannellini beans",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "cannellini beans",
+    "descriptor": "Vibrant Smoky",
+    "dishForm": "Skewers"
+  }
+}
