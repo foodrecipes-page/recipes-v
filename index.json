@@ -1917,6 +1917,20 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-korean-beef-kidney-tteok",
+    "title": "Velvety Korean Beef Kidney Tteok",
+    "tags": [
+      "beef-kidney",
+      "corn-husk",
+      "korean-food",
+      "steamed-dish",
+      "vegan-friendly"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 55,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-korean-chicken-stew",
     "title": "Velvety Korean Chicken Stew",
     "tags": [],

@@ -1,0 +1,96 @@
+{
+  "title": "Velvety Korean Beef Kidney Tteok",
+  "description": "A creamy and fatty Korean dish featuring beef kidney in a pasta-water-emulsion, wrapped in a corn husk, suitable for vegan-friendly modification",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef kidney",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "rice flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "corn husks",
+      "amount": "12 pieces"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together rice flour and cornstarch",
+    "Gradually add in water to form a smooth dough",
+    "Knead the dough for 10 minutes until it becomes pliable",
+    "Divide the dough into 12 equal pieces",
+    "Roll out each piece into a thin circle",
+    "In a separate pan, heat sesame oil and saute sliced beef kidney until browned",
+    "Add in soy sauce, garlic, and ginger, and stir fry for 2 minutes",
+    "Assemble the tteok by placing a spoonful of the beef kidney mixture onto a dough circle",
+    "Fold the dough over the filling to form a half moon shape and press the edges together to seal",
+    "Wrap each tteok in a corn husk and steam for 15 minutes"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "beef-kidney",
+    "corn-husk",
+    "korean-food",
+    "steamed-dish",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "velvety-korean-beef-kidney-tteok",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-korean-beef-kidney-tteok",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:04:48Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "beef kidney",
+    "diet": "vegan",
+    "region": "seoul",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "beef kidney",
+    "descriptor": "Velvety Creamy",
+    "dishForm": "Tteok"
+  }
+}
