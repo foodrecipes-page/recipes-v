@@ -1,0 +1,98 @@
+{
+  "title": "Vibrant German Bread Grill",
+  "description": "A yeasty, coconut milk infused German bread grilled to a crisp, with a gooey center, perfect for an energizing breakfast or snack.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "300g"
+    },
+    {
+      "name": "warm coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "7g"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "warm water",
+      "amount": "50ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh dill, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "butter, melted",
+      "amount": "30g"
+    }
+  ],
+  "instructions": [
+    "In a large bowl combine flour, yeast, salt, and sugar.",
+    "Add warm coconut milk, warm water, and olive oil; mix until a sticky dough forms.",
+    "Knead the dough on a floured surface for about 8 minutes until smooth and elastic.",
+    "Place the dough in a lightly oiled bowl, cover, and let rise in a warm spot for 1 hour until doubled in size.",
+    "Punch down the dough, divide it into four equal portions, and shape each into a flat oval.",
+    "Preheat a robata grill to medium-high heat and lightly oil the grill grate.",
+    "Place the dough ovals on the grill, covering with a lid, and cook for 4-5 minutes per side until golden brown and a crackling sound is heard.",
+    "Brush each grilled bread with melted butter, sprinkle sesame seeds and dill, and finish grilling for an additional minute.",
+    "Remove from the grill, slice into thick wedges, and serve warm for an energizing breakfast.",
+    "Optionally, drizzle a light coconut cream over the wedges to enhance gooeyness."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut",
+    "robata-grill",
+    "vegetarian",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 9,
+    "carbs": 64,
+    "fat": 19
+  },
+  "slug": "vibrant-german-bread-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-german-bread-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:34:58Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "gooey",
+    "mood": "energizing",
+    "technique": "blanch",
+    "primaryIngredient": "coconut milk",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Bread",
+    "descriptor": "Vibrant",
+    "dishForm": "Grill"
+  }
+}

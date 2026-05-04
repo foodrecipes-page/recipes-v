@@ -3417,6 +3417,19 @@
     "shard": "v"
   },
   {
+    "slug": "vibrant-german-bread-grill",
+    "title": "Vibrant German Bread Grill",
+    "tags": [
+      "coconut",
+      "robata-grill",
+      "vegetarian",
+      "yeasty"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 40,
+    "shard": "v"
+  },
+  {
     "slug": "vibrant-jamaican-tofu-custard",
     "title": "Vibrant Jamaican Tofu Custard",
     "tags": [
