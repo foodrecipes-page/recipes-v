@@ -1,0 +1,103 @@
+{
+  "title": "Velvety Smoked Portuguese Steak Stew",
+  "description": "A mustardy and creamy Portuguese dish featuring lean minced steak, smoke, and satvik-friendly ingredients, perfect for a romantic dinner",
+  "cuisine": "Portuguese",
+  "diet": [
+    "satvik",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lean minced steak",
+      "amount": "1 pound",
+      "notes": "preferably grass-fed"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat",
+    "Add the chopped onion and cook until softened, about 5 minutes",
+    "Add the minced garlic and cook for an additional minute",
+    "Add the lean minced steak and cook until browned, breaking it up into small pieces as it cooks",
+    "Add the smoked paprika, dijon mustard, salt, and black pepper, and stir to combine",
+    "Pour in the coconut cream and bring the mixture to a simmer",
+    "Reduce the heat to low and let the stew cook, covered, for 20 minutes",
+    "Stir in the chopped fresh parsley and serve hot"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "portuguese",
+    "romantic",
+    "smoky",
+    "steak",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "velvety-smoked-portuguese-steak-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-smoked-portuguese-steak-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:00:54Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "smoke",
+    "primaryIngredient": "lean minced steak",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "steak",
+    "descriptor": "Velvety Smoked",
+    "dishForm": "Stew"
+  }
+}

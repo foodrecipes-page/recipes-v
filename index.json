@@ -2635,6 +2635,21 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-smoked-portuguese-steak-stew",
+    "title": "Velvety Smoked Portuguese Steak Stew",
+    "tags": [
+      "creamy",
+      "portuguese",
+      "romantic",
+      "smoky",
+      "steak",
+      "stew"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 40,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-smoked-spanish-garlic-stir-fry",
     "title": "Velvety Smoked Spanish Garlic Stir-fry",
     "tags": [
