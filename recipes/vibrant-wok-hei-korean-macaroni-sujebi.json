@@ -1,0 +1,126 @@
+{
+  "title": "Vibrant Wok-Hei Korean Macaroni Sujebi",
+  "description": "An adventurous Korean dish featuring roasted macaroni and wok-hei, perfect for a paleo-friendly dinner.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "macaroni",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "gochugaru",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "crushed red pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in an earthenware bowl over medium-high heat.",
+    "Add garlic and ginger and cook for 1 minute, until fragrant.",
+    "Add gochujang and gochugaru and cook for 1 minute, until combined.",
+    "Add soy sauce, coconut aminos, brown sugar, and sesame seeds, and stir until combined.",
+    "Add macaroni and cook for 2-3 minutes, until coated in the sauce.",
+    "Add green onions and crushed red pepper, and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "korean",
+    "one-pan",
+    "paleo",
+    "weeknight",
+    "wok-hei"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "vibrant-wok-hei-korean-macaroni-sujebi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-wok-hei-korean-macaroni-sujebi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:16:10Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "bouncy-qq",
+    "mood": "adventurous",
+    "technique": "wok-hei",
+    "primaryIngredient": "macaroni",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "macaroni",
+    "descriptor": "Vibrant Wok-Hei",
+    "dishForm": "Sujebi"
+  }
+}
