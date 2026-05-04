@@ -1,0 +1,105 @@
+{
+  "title": "Velvety Fluffy Thai Chicken Kao Mun Gai",
+  "description": "A mustardy, fluffy, and comforting Thai dish featuring Thai bird chili, poached chicken, and ayurvedic sattvic friendly ingredients, served with kao mun gai.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "ayurvedic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Thai bird chili",
+      "amount": "2",
+      "notes": "seeded, chopped"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups",
+      "notes": "cooked, fluffy"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "peeled, grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Poach the chicken breast in boiling water until it reaches an internal temperature of 165 degrees.",
+    "Shred the cooked chicken into bite-sized pieces and set aside.",
+    "In a blender or food processor, combine the chopped Thai bird chili, mustard, fish sauce, lime juice, ginger, and garlic, and blend until smooth.",
+    "In a large saucepan, combine the blended chili mixture and coconut milk, and bring to a simmer over medium heat.",
+    "Reduce the heat to low and let the sauce simmer for 10 minutes, stirring occasionally.",
+    "Fluff the cooked rice with a fork and stir in the chopped scallions.",
+    "To serve, place a scoop of the fluffy rice on a plate, followed by a portion of the shredded chicken, and spoon the velvety sauce over the top.",
+    "Garnish with additional chopped scallions and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "comfort-food",
+    "gluten-free",
+    "one-pot",
+    "spicy",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "velvety-fluffy-thai-chicken-kao-mun-gai",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-fluffy-thai-chicken-kao-mun-gai",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:32:09Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "fluffy",
+    "mood": "comforting",
+    "technique": "poach",
+    "primaryIngredient": "thai-bird-chili",
+    "diet": "ayurvedic-sattvic",
+    "region": "northern-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "velvety fluffy",
+    "dishForm": "Kao Mun Gai"
+  }
+}
