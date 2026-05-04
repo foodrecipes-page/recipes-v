@@ -1,0 +1,110 @@
+{
+  "title": "Velvety Smoky Norwegian Butternut Squash Quiche",
+  "description": "A flaky, brunch‑ready quiche with caramelized butternut squash, smoked salmon, and a velvety egg custard, served in a cazuela for a Norwegian twist.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-carb",
+    "low-sugar"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "butternut squash, peeled and cubed",
+      "amount": "300g"
+    },
+    {
+      "name": "smoked salmon, sliced",
+      "amount": "100g"
+    },
+    {
+      "name": "eggs, large",
+      "amount": "3"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "200ml"
+    },
+    {
+      "name": "feta cheese, crumbled",
+      "amount": "50g"
+    },
+    {
+      "name": "mozzarella, shredded",
+      "amount": "50g"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "fresh sage leaves",
+      "amount": "4"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200C.",
+    "Toss the butternut cubes with olive oil, salt, pepper, smoked paprika, and sage.",
+    "Spread the mixture in a cazuela and roast until caramelized, about 20 minutes.",
+    "Whisk together eggs, cream, melted olive oil, minced garlic, salt, pepper, and smoked paprika until smooth.",
+    "Stir in shredded mozzarella and crumbled feta.",
+    "Remove the squash from the oven and arrange the smoked salmon on top.",
+    "Pour the egg mixture evenly over the salmon and squash.",
+    "Bake the quiche until set and the top is golden, about 15 minutes.",
+    "Let the quiche cool for 5 minutes before slicing.",
+    "Serve warm and optionally garnish with fresh sage leaves."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "butternut-squash",
+    "cazuela",
+    "diabetic-friendly",
+    "nordic",
+    "smoky",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 1368,
+    "protein": 48,
+    "carbs": 14,
+    "fat": 79
+  },
+  "slug": "velvety-smoky-norwegian-butternut-squash-quiche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-smoky-norwegian-butternut-squash-quiche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:41:43Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "caramelize",
+    "primaryIngredient": "butternut squash",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "butternut squash",
+    "descriptor": "Velvety Smoky",
+    "dishForm": "Quiche"
+  }
+}
