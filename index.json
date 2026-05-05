@@ -1,5 +1,22 @@
 [
   {
+    "slug": "valley-warm-roasted-italian-cheese-lasagna",
+    "title": "Valley Warm Roasted Italian Cheese Lasagna",
+    "tags": [
+      "cheese",
+      "comfort-food",
+      "family-friendly",
+      "italian",
+      "lacto-ovo-vegetarian",
+      "one-pan",
+      "romantic",
+      "weeknight"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 65,
+    "shard": "v"
+  },
+  {
     "slug": "vanilla-canadian-cashews-bowl",
     "title": "Vanilla Canadian Cashews Bowl",
     "tags": [
@@ -4280,6 +4297,21 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 25,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-winey-argentinian-almond-butter-hash",
+    "title": "Velvety Winey Argentinian Almond Butter Hash",
+    "tags": [
+      "argentinian",
+      "breakfast",
+      "high-protein",
+      "one-pan",
+      "weeknight",
+      "wine-based"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {

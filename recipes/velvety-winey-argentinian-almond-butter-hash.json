@@ -1,0 +1,113 @@
+{
+  "title": "Velvety Winey Argentinian Almond Butter Hash",
+  "description": "A rich and indulgent breakfast dish from Argentina, combining the creaminess of almond butter with the warmth of wine and the crunch of vegetables, all in one cast-iron skillet.",
+  "cuisine": "argentinian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "almond butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "2 tablespoons",
+      "notes": "use a full-bodied wine like Malbec or Cabernet Sauvignon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "zucchini",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large cast-iron skillet over medium heat.",
+    "Add the diced onion and cook, stirring occasionally, until it's softened and lightly browned, about 8 minutes.",
+    "Add the minced garlic and cook, stirring constantly, for 1 minute, until fragrant.",
+    "Add the sliced red bell pepper and cook, stirring occasionally, until it's tender, about 4 minutes.",
+    "Add the sliced zucchini and cook, stirring occasionally, until it's tender, about 4 minutes.",
+    "Add the diced tomato and cook, stirring occasionally, until it's heated through, about 2 minutes.",
+    "Stir in the almond butter and red wine, and cook, stirring constantly, until the mixture is smooth and heated through, about 2 minutes.",
+    "Season with salt and black pepper to taste.",
+    "If desired, garnish with chopped fresh parsley and serve hot.",
+    "Let the hash rest for a few minutes before serving, to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "argentinian",
+    "breakfast",
+    "high-protein",
+    "one-pan",
+    "weeknight",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 30
+  },
+  "slug": "velvety-winey-argentinian-almond-butter-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-winey-argentinian-almond-butter-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:24:28Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "velvety",
+    "mood": "indulgent",
+    "technique": "steam",
+    "primaryIngredient": "almond butter",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "almond butter",
+    "descriptor": "velvety winey",
+    "dishForm": "Hash"
+  }
+}

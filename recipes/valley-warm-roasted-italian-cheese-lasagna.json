@@ -1,0 +1,139 @@
+{
+  "title": "Valley Warm Roasted Italian Cheese Lasagna",
+  "description": "A romantic Italian cheese dish featuring roasted vegetables and a creamy cheese pull, served from a warm terracotta dish.",
+  "cuisine": "italian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna noodles",
+      "amount": "8-10 sheets",
+      "notes": ""
+    },
+    {
+      "name": "jarred marinara sauce",
+      "amount": "1 jar",
+      "notes": ""
+    },
+    {
+      "name": "roasted eggplant",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "roasted zucchini",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "roasted red bell pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "16 oz",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "canola oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Sauté garlic in canola oil until fragrant, then set aside.",
+    "Roast eggplant, zucchini, and red bell pepper in the oven for 20-25 minutes, or until tender.",
+    "Cook lasagna noodles according to package instructions and set aside.",
+    "Combine ricotta cheese, parmesan cheese, mozzarella cheese, and a pinch of salt and pepper in a bowl.",
+    "Spread a thin layer of marinara sauce on the bottom of a 9x13-inch baking dish.",
+    "Arrange 4 lasagna noodles on the bottom of the baking dish.",
+    "Spread half of the ricotta cheese mixture over the noodles.",
+    "Add a layer of roasted vegetables, followed by a layer of marinara sauce.",
+    "Repeat the layers, ending with a layer of mozzarella cheese on top.",
+    "Sprinkle nutritional yeast and italian seasoning over the top of the cheese.",
+    "Bake in the preheated oven for 25-30 minutes, or until the cheese is melted and bubbly.",
+    "Let cool for 10-15 minutes before serving.",
+    "Serve warm, garnished with fresh basil."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese",
+    "comfort-food",
+    "family-friendly",
+    "italian",
+    "lacto-ovo-vegetarian",
+    "one-pan",
+    "romantic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 60,
+    "fat": 26
+  },
+  "slug": "valley-warm-roasted-italian-cheese-lasagna",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/valley-warm-roasted-italian-cheese-lasagna",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:24:24Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "cheese-pull",
+    "mood": "romantic",
+    "technique": "simmer",
+    "primaryIngredient": "canola oil",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "cheese",
+    "descriptor": "Valley Warm Roasted",
+    "dishForm": "Lasagna"
+  }
+}
