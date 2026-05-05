@@ -1,0 +1,106 @@
+{
+  "title": "Velvety Lazy Korean Collards Bowl",
+  "description": "A deliciously easy, paleo-friendly Korean-inspired dish featuring roasted collards, a velvety miso-marinate, and a variety of flavors.",
+  "cuisine": "korean",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Collard greens",
+      "amount": "2 bunches",
+      "notes": "any variety, but loose-leaf works best"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Trim and cut the collard greens into bite-sized pieces.",
+    "In a blender or food processor, combine the miso paste, gochujang, sesame oil, soy sauce, brown sugar, garlic, ginger, and Korean chili flakes. Blend until smooth.",
+    "Transfer the marinade to a large bowl and add the collard greens. Toss to coat, then cover and refrigerate for at least 30 minutes or up to 2 hours.",
+    "Remove the collards from the marinade and transfer them to a baking sheet lined with parchment paper.",
+    "Roast the collards in the preheated oven for 20-25 minutes, or until tender and slightly caramelized.",
+    "While the collards are roasting, toast the sesame seeds in a small skillet over medium heat, stirring frequently, until lightly browned and fragrant.",
+    "To assemble the bowls, place a portion of the roasted collards on each plate, then drizzle with the remaining marinade and top with toasted sesame seeds and chopped scallions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-fiber",
+    "korean",
+    "one-pan",
+    "paleo",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "velvety-lazy-korean-collards-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-lazy-korean-collards-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:26:43Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "miso-marinate",
+    "primaryIngredient": "collards",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "collards",
+    "descriptor": "velvety lazy",
+    "dishForm": "Bowl"
+  }
+}
