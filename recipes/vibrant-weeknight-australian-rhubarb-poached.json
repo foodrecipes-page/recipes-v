@@ -1,0 +1,92 @@
+{
+  "title": "Vibrant Weeknight Australian Rhubarb Poached",
+  "description": "A flavorful, tender, and colorful Australian-inspired dessert featuring poached rhubarb. Perfect for a quick weeknight treat.",
+  "cuisine": "australian",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "rhubarb stalks",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "caster sugar",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "star anise",
+      "amount": "1 whole",
+      "notes": null
+    },
+    {
+      "name": "pink peppercorns",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Combine rhubarb, sugar, water, lemon juice, star anise, and pink peppercorns in a large saucepan.",
+    "Place the saucepan over medium heat and bring to a simmer.",
+    "Once the mixture is simmering, reduce the heat to low and poach for 15-20 minutes or until the rhubarb is tender.",
+    "Remove the star anise and bay leaves from the poaching liquid and stir to combine.",
+    "Transfer the poached rhubarb to a fondue pot and serve warm.",
+    "Garnish with additional lemon juice and sugar to taste, if desired.",
+    "Serve over yogurt or oatmeal for a delicious breakfast or brunch option.",
+    "Store leftover poached rhubarb in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "dessert",
+    "poached",
+    "rhubarb",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 0
+  },
+  "slug": "vibrant-weeknight-australian-rhubarb-poached",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-weeknight-australian-rhubarb-poached",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:47:24Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "spherify",
+    "primaryIngredient": "rhubarb",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Rhubarb",
+    "descriptor": "Vibrant Weeknight",
+    "dishForm": "Poached"
+  }
+}
