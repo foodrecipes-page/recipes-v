@@ -1,0 +1,87 @@
+{
+  "title": "Velvety Indian Mustard Seeds Mustard Korma Fondue-Pot",
+  "description": "A velvety one-pot Indian dish featuring mustard seeds and confit-tomato sauce. High-protein-friendly with breadcrumbs added for extra protein, ready in a fondue-pot.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mustard Seeds",
+      "amount": 1
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Confit-Tomato Sauce",
+      "amount": "300ml"
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Curry Leaves",
+      "amount": "4-5 fresh"
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion, Chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic, Minced",
+      "amount": "3 cloves"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a fondue-pot over medium heat.",
+    "Add chopped onion and garlic to the pot.",
+    "Sauté until onions turn translucent.",
+    "Stir in mustard seeds and curry leaves.",
+    "Pour in confit-tomato sauce, reduce to simmer for 15 mins.",
+    "Add breadcrumbs and Garam Masala, mix well.",
+    "Simmer for another 10 minutes until the mixture thickens and coats the bottom of the pot.",
+    "Serve warm as a protein-rich fondue."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "korma",
+    "mustard-seeds",
+    "one-pot",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "velvety-indian-mustard-seeds-mustard-korma-fondue-pot",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-indian-mustard-seeds-mustard-korma-fondue-pot",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T12:21:58Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "velvety",
+    "mood": "one-pot",
+    "technique": "confit-tomato",
+    "primaryIngredient": "breadcrumbs",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Mustard Seeds",
+    "descriptor": "Velvety",
+    "dishForm": "Mustard Korma Fondue-Pot"
+  }
+}
