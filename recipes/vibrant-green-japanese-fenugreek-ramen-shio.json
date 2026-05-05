@@ -1,0 +1,109 @@
+{
+  "title": "Vibrant Green Japanese Fenugreek Ramen-Shio",
+  "description": "A light and refreshing ramen-shio dish featuring sashimi-cut fenugreek, inspired by the flavors of Kyushu, Japan.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fenugreek",
+      "amount": "200g",
+      "notes": "sashimi-cut"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "10g",
+      "notes": "shoyu-style"
+    },
+    {
+      "name": "Mirin",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "50g",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Kombu",
+      "amount": "50g",
+      "notes": "dried kelp"
+    },
+    {
+      "name": "Water",
+      "amount": "800ml",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "5g",
+      "notes": "shio-style"
+    }
+  ],
+  "instructions": [
+    "Combine the kombu and water in a saucepan and bring to a boil, then reduce the heat and simmer for 10 minutes.",
+    "Strain the kombu from the broth and discard.",
+    "Add the miso paste to the broth and whisk until dissolved.",
+    "Add the soy sauce, mirin, and rice vinegar to the broth and whisk to combine.",
+    "Add the sashimi-cut fenugreek to the broth and cook for 2 minutes.",
+    "Taste and adjust the seasoning with salt as needed.",
+    "Serve the fenugreek and broth hot, garnished with green onions and grated ginger.",
+    "Optional: add a sprinkle of salt for added flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "japanese",
+    "one-pan",
+    "ramen",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "vibrant-green-japanese-fenugreek-ramen-shio",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-green-japanese-fenugreek-ramen-shio",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:39:24Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "fenugreek",
+    "diet": "gluten-free",
+    "region": "kyushu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Fenugreek",
+    "descriptor": "Vibrant Green",
+    "dishForm": "Ramen"
+  }
+}
