@@ -1,0 +1,67 @@
+{
+  "title": "Velvet British Cashew Veggie Scrambled Egg",
+  "description": "A fresh, fluffy, cozy British dish featuring nutmeg and dumplings in a plant-based-friendly scotch-egg style.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "2 tablespoons cashew pieces",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "1/4 cup dumplings (vegetarian)",
+      "amount": "cup"
+    },
+    {
+      "name": "pinch nutmeg, ground",
+      "amount": null
+    },
+    {
+      "name": "salt and pepper to taste",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Heat a nonstick skillet over medium heat.",
+    "Add cashew pieces and cook for about 2 minutes or until golden brown.",
+    "Add dumplings, salt, and pepper. Stir occasionally for another 3-4 minutes until heated through.",
+    "Garnish with ground nutmeg just before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 12,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "nut-free",
+    "quick-cook",
+    "scotch-egg",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 9
+  },
+  "slug": "velvet-british-cashew-veggie-scrambled-egg",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvet-british-cashew-veggie-scrambled-egg",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T01:43:41Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "cozy",
+    "technique": "dum",
+    "primaryIngredient": "nutmeg",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Cashew",
+    "descriptor": "Velvet",
+    "dishForm": "Veggie Scrambled Egg"
+  }
+}
