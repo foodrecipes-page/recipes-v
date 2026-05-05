@@ -1,0 +1,112 @@
+{
+  "title": "vibrant vegan mincemeat pinakbet",
+  "description": "a citrusy, kid-friendly filipino dish featuring mincemeat and roast, served in scallop shells. perfect for a weeknight dinner.",
+  "cuisine": "filipino",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vegan mincemeat",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "scallops shells",
+      "amount": "12 shells",
+      "notes": "clean and dry before use"
+    },
+    {
+      "name": "purple yam",
+      "amount": "1 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "eggplant",
+      "amount": "1 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "long green chili",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat, 14 oz"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 bunch",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for roasting"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375°f (190°c).",
+    "in a large bowl, combine vegan mincemeat, purple yam, eggplant, and long green chili.",
+    "add coconut milk and mix well to coat the vegetables.",
+    "transer the mixture to the scallops shells and drizzle with coconut oil.",
+    "roast in the oven for 25-30 minutes, or until the vegetables are tender and lightly browned.",
+    "meanwhile, heat the fresh lime juice in a small saucepan over medium heat.",
+    "simmer for 5-7 minutes, or until the juice has reduced by half.",
+    "remove from heat and stir in chopped cilantro.",
+    "serve the roasted mixture in the scallops shells with the lime-cilantro sauce spooned over the top.",
+    "garnish with additional cilantro if desired.",
+    "serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "filipino",
+    "kid-friendly",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 22
+  },
+  "slug": "vibrant-vegan-mincemeat-pinakbet",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-vegan-mincemeat-pinakbet",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:49:58Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "shattering",
+    "mood": "kid-friendly",
+    "technique": "roast",
+    "primaryIngredient": "mincemeat",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": null,
+    "descriptor": "Citrusy Shattering Vegan",
+    "dishForm": "Pinakbet"
+  }
+}
