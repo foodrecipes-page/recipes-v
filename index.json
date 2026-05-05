@@ -3489,6 +3489,24 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-slovakian-cauliflower-casserole",
+    "title": "Velvety Slovakian Cauliflower Casserole",
+    "tags": [
+      "casserole",
+      "cauliflower",
+      "crumbly",
+      "dinner",
+      "gluten-free",
+      "paleo",
+      "slovakian",
+      "sweet",
+      "whole30"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 55,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-slovakian-eggs-stir-fry",
     "title": "Earthly Velvety Slovakian Eggs Stir-Fry",
     "tags": [
@@ -4354,6 +4372,23 @@
     ],
     "cuisine": "Asian",
     "totalTimeMin": 22,
+    "shard": "v"
+  },
+  {
+    "slug": "venerable-greek-revithia-revithia",
+    "title": "Venerable Greek Revithia",
+    "tags": [
+      "comfort-food",
+      "crowd-pleaser",
+      "genmaicha",
+      "greek",
+      "indulgent",
+      "lactose-free",
+      "one-pan",
+      "revithia"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 45,
     "shard": "v"
   },
   {

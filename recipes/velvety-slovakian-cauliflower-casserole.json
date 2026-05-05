@@ -1,0 +1,126 @@
+{
+  "title": "Velvety Slovakian Cauliflower Casserole",
+  "description": "A hearty, whole30-friendly casserole featuring cauliflower, sweet and crumbly textures, and a simple preparation process. This dish is a delightful twist on traditional Slovakian cuisine.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "whole30",
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cauliflower",
+      "amount": "1 medium head",
+      "notes": ""
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "nigiri-shaped almonds",
+      "amount": "4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Rinse the cauliflower and remove the leaves and stem.",
+    "Break the cauliflower into large florets and place them in a food processor.",
+    "Process the cauliflower until it resembles rice.",
+    "Transfer the cauliflower to a mixing bowl and stir in the almond flour, coconut oil, honey, eggs, vanilla extract, salt, and black pepper.",
+    "Mix the batter until it's smooth and free of lumps.",
+    "Pour the batter into a 9x13 inch baking dish and smooth the top.",
+    "Sprinkle the cocoa powder, shredded coconut, and chopped walnuts evenly over the top of the cauliflower mixture.",
+    "Arrange the nigiri-shaped almonds on top of the casserole, leaving a 1-inch gap between each almond.",
+    "Bake the casserole in the preheated oven for 35 minutes, or until it's golden brown and set.",
+    "Remove the casserole from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "cauliflower",
+    "crumbly",
+    "dinner",
+    "gluten-free",
+    "paleo",
+    "slovakian",
+    "sweet",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 25
+  },
+  "slug": "velvety-slovakian-cauliflower-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-slovakian-cauliflower-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:32:29Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crumbly",
+    "mood": "one-pot",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "cauliflower",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "cauliflower",
+    "descriptor": "Velvety",
+    "dishForm": "Casserole"
+  }
+}
