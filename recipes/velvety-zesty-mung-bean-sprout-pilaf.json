@@ -1,0 +1,95 @@
+{
+  "title": "Velvety Zesty Mung Bean Sprout Pilaf",
+  "description": "A savory, velvety dish featuring mung bean sprouts that is perfect for a weeknight dinner with its easy preparation and high-protein content.",
+  "cuisine": "Asian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup",
+      "amount": "mung bean sprouts"
+    },
+    {
+      "name": "2 tablespoons",
+      "amount": "vegetable oil"
+    },
+    {
+      "name": "1 clove",
+      "amount": "garlic, minced"
+    },
+    {
+      "name": "1 tablespoon",
+      "amount": "fresh ginger, minced"
+    },
+    {
+      "name": "1/4 cup",
+      "amount": "soy sauce"
+    },
+    {
+      "name": "1/4 cup",
+      "amount": "rice vinegar"
+    },
+    {
+      "name": "1 teaspoon",
+      "amount": "sesame oil"
+    },
+    {
+      "name": "1/2 teaspoon",
+      "amount": "five spice powder"
+    },
+    {
+      "name": "pinch",
+      "amount": "pepper flakes"
+    },
+    {
+      "name": "1 cup",
+      "amount": "cooked white rice (optional, for serving)"
+    },
+    {
+      "name": "1/4 cup",
+      "amount": "sesame seeds"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add garlic and ginger; sauté until fragrant, about 30 seconds.",
+    "Add mung bean sprouts and cook for about 2 minutes, stirring occasionally to prevent sticking.",
+    "Pour in soy sauce, rice vinegar, sesame oil, five spice powder, and pepper flakes. Stir well to combine ingredients evenly.",
+    "Let the mixture simmer until slightly thickened, about 3-5 minutes. If desired, stir in cooked white rice as a garnish.",
+    "Sprinkle with toasted sesame seeds before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "veggie-friendly",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 308,
+    "protein": 17,
+    "carbs": 25,
+    "fat": 9
+  },
+  "slug": "velvety-zesty-mung-bean-sprout-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-zesty-mung-bean-sprout-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T09:07:53Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "velvety",
+    "mood": "weeknight",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "mung bean sprouts",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Zesty",
+    "mainIngredient": "Mung Bean Sprouts",
+    "descriptor": "Velvety",
+    "dishForm": "Pilaf"
+  }
+}
