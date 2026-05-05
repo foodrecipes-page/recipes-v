@@ -1,0 +1,100 @@
+{
+  "title": "Velvety Fermented Malaysian Vegetable Stock Tagine",
+  "description": "A rich and hearty, fermented, velvety dish featuring a creamy Malaysian vegetable stock, slow-cooked in a traditional Tajine clay pot. This recipe is a nostalgic tribute to the flavors of Malaysia, with a FODMAP-friendly twist.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vegetable stock",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Fermented rice bran oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fish-free vegetable curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic-infused oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Kecap manis",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "2 sprigs",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the fermented rice bran oil in a Tajine clay pot over medium-low heat. Add the onion and cook until softened, about 10 minutes. Add the curry paste and cook for 1-2 minutes, until fragrant. Stir in the kecap manis and cook for an additional 1-2 minutes. Add the vegetable stock and bring to a simmer. Stir in the coconut cream and bring to a gentle boil. Reduce heat to low and let simmer for 10-15 minutes. Stir in the lime juice and chopped cilantro. Season with salt to taste. Serve hot over steamed vegetables or with steamed rice.",
+    "Transfer the Tajine pot to a preheated oven or tandoor at 300°F (150°C) for an additional 30 minutes to enhance the fermentation process and flavor.",
+    "Let the dish rest for 10-15 minutes before serving. This will allow the flavors to meld and the stock to thicken.",
+    "Adjust seasoning as needed before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "gluten-free",
+    "malaysian",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 25
+  },
+  "slug": "velvety-fermented-malaysian-vegetable-stock-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-fermented-malaysian-vegetable-stock-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:18:05Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "tandoor",
+    "primaryIngredient": "vegetable stock",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "vegetable stock",
+    "descriptor": "velvety fermented",
+    "dishForm": "Tagine"
+  }
+}
