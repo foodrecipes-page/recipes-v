@@ -1,0 +1,128 @@
+{
+  "title": "Velvety Festive Greek Lamb Gyro",
+  "description": "A twist on traditional Greek lamb gyro, featuring the sweetness of peach juice and the richness of render-fat, all in a festive tagine pot serving.",
+  "cuisine": "Greek",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Greek lamb shoulder",
+      "amount": "1.5",
+      "notes": "Bone-in or boneless works, about 2 lbs."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced."
+    },
+    {
+      "name": "Garlic",
+      "amount": "4-6 cloves",
+      "notes": "Mince them."
+    },
+    {
+      "name": "Fresh oregano",
+      "amount": "2 tbsp",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Rendered fat",
+      "amount": "2 tbsp",
+      "notes": "Beef or lamb tallow works."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Coarse kosher salt is best."
+    },
+    {
+      "name": "Coarsely ground black pepper",
+      "amount": "1 tsp",
+      "notes": "Freshly ground is best."
+    },
+    {
+      "name": "Peach juice",
+      "amount": "1/2 cup",
+      "notes": "Canned or fresh, about 4 oz."
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/4 cup",
+      "notes": "Full-fat for best flavor."
+    },
+    {
+      "name": "Fresh cucumber",
+      "amount": "1 medium",
+      "notes": "Thinly sliced."
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1/4 cup",
+      "notes": "Pitted."
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Tagine pot",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 300\u00114\u0016F (150\u0016C).\n",
+    "Season the lamb shoulder with salt, pepper, and oregano. Rub well to coat.\n",
+    "Sear the lamb in a skillet with a little fat over medium-high heat until browned on all sides, about 5 minutes. \n",
+    "Transfer the lamb to a tagine pot or Dutch oven and add sliced onion, minced garlic, and rendered fat. Stir to coat.\n",
+    "Cover the tagine pot and transfer it to the preheated oven for 2.5 hours, or until the lamb is tender and easily shreds.\n",
+    "Meanwhile, toast some pita bread in the oven until lightly browned. \n",
+    "To assemble the gyros, slice the lamb into thin strips and serve with toasted pita, yogurt sauce, cucumber, olives, and parsley.\n",
+    "To make the yogurt sauce, mix together Greek yogurt, peach juice, salt, and pepper in a bowl until combined.\n",
+    "Taste and adjust the sauce as needed.\n",
+    "Serve the gyros hot, garnished with a sprig of parsley and a dollop of yogurt sauce.\n",
+    "Serve immediately and enjoy!\n"
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 150,
+  "totalTimeMin": 175,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "greek",
+    "gyro",
+    "high-protein",
+    "lamb",
+    "peach",
+    "tagine",
+    "yogurt"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 10,
+    "fat": 32
+  },
+  "slug": "velvety-festive-greek-lamb-gyro",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-festive-greek-lamb-gyro",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:20:36Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "render-fat",
+    "primaryIngredient": "peach juice",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "velvety, festive",
+    "dishForm": "Gyro"
+  }
+}

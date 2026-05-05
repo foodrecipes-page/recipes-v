@@ -1757,6 +1757,23 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-festive-greek-lamb-gyro",
+    "title": "Velvety Festive Greek Lamb Gyro",
+    "tags": [
+      "easy-dinner",
+      "greek",
+      "gyro",
+      "high-protein",
+      "lamb",
+      "peach",
+      "tagine",
+      "yogurt"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 175,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-filipino-corned-beef-stew",
     "title": "Velvety Filipino Corned Beef Stew",
     "tags": [
