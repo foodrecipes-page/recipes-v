@@ -1,0 +1,104 @@
+{
+  "title": "Velvety Sour Spanish Chicken Paella",
+  "description": "A comforting Spanish dish featuring grand marnier and sashimi-cut chicken, perfect for a weeknight dinner. Sour and velvety, this low-fat-friendly paella is a twist on the classic Spanish recipe.",
+  "cuisine": "Spanish",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into thin strips, sashimi-style"
+    },
+    {
+      "name": "Grand Marnier",
+      "amount": "2 tablespoons",
+      "notes": "or other orange-flavored liqueur"
+    },
+    {
+      "name": "White wine",
+      "amount": "1 cup",
+      "notes": "dry, such as Sauvignon Blanc"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Saffron threads",
+      "amount": "1/2 teaspoon",
+      "notes": "soaked in 2 tablespoons hot water"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "optional, for added smokiness"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "Spanish short-grain rice, such as Bomba or Calasparra"
+    },
+    {
+      "name": "Egg yolks",
+      "amount": "2",
+      "notes": "for the velvety sauce"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large paella pan over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Add the white wine and vegetable broth, scraping up any browned bits from the bottom of the pan.",
+    "Add the saffron threads and their soaking liquid, smoked paprika, and tomato paste. Cook, stirring constantly, for 1 minute.",
+    "Add the rice and cook, stirring constantly, for 1-2 minutes.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "While the rice is cooking, prepare the velvety sauce by whisking together the egg yolks and Grand Marnier in a small bowl.",
+    "When the rice is cooked, stir in the velvety sauce and cook for 1-2 minutes, until heated through.",
+    "Serve the paella hot, garnished with lemon wedges and fresh herbs, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "comforting",
+    "low-fat",
+    "one-pan",
+    "sour",
+    "spanish",
+    "velvety",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "velvety-sour-spanish-chicken-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-sour-spanish-chicken-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:46:55Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "velvety",
+    "mood": "comforting",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "grand marnier",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "velvety sour",
+    "dishForm": "Paella"
+  }
+}

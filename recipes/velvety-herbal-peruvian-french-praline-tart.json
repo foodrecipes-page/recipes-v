@@ -1,0 +1,117 @@
+{
+  "title": "Velvety Herbal Peruvian French Praline Tart",
+  "description": "A rich and creamy tart featuring the unique flavors of Peruvian herbs and French praline. Perfect for a date-night dessert.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "date syrup",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "dried hibiscus flowers",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "matcha powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "praline paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "walnuts",
+      "amount": "1 cup chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Line a 9-inch (23 cm) tart pan with parchment paper",
+    "In a medium bowl, whisk together the almond flour, powdered sugar, and salt.",
+    "Add the coconut oil and mix until the mixture resembles coarse crumbs.",
+    "Press the mixture into the prepared tart pan and refrigerate for 15 minutes.",
+    "Bake for 18-20 minutes or until lightly golden.",
+    "In a blender, combine the date syrup, hibiscus flowers, lemon juice, matcha powder, and unsweetened almond milk. Blend until smooth.",
+    "In a separate bowl, whisk together the praline paste and coconut oil until well combined.",
+    "Pour the date mixture into the baked tart shell and smooth the top.",
+    "Drizzle the praline mixture over the top and sprinkle with chopped walnuts.",
+    "Bake for an additional 10-12 minutes or until the filling is set.",
+    "Let the tart cool completely before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "gluten-free",
+    "praline",
+    "tart",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "velvety-herbal-peruvian-french-praline-tart",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-herbal-peruvian-french-praline-tart",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:46:30Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "temper",
+    "primaryIngredient": "praline-french",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "French praline",
+    "descriptor": "Velvety herbal",
+    "dishForm": "Tart"
+  }
+}

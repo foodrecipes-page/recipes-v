@@ -2069,6 +2069,20 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-herbal-peruvian-french-praline-tart",
+    "title": "Velvety Herbal Peruvian French Praline Tart",
+    "tags": [
+      "date-night",
+      "gluten-free",
+      "praline",
+      "tart",
+      "vegan"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 65,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-herbal-tripe-stir-fry",
     "title": "Velvety Herbal Tripe Stir-fry",
     "tags": [
@@ -3761,6 +3775,23 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-sour-spanish-chicken-paella",
+    "title": "Velvety Sour Spanish Chicken Paella",
+    "tags": [
+      "chicken",
+      "comforting",
+      "low-fat",
+      "one-pan",
+      "sour",
+      "spanish",
+      "velvety",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 55,
     "shard": "v"
   },
   {
