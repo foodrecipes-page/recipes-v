@@ -1,0 +1,93 @@
+{
+  "title": "Vibrant Steamed Chinese Rhubarb Mushimono",
+  "description": "A flavorful, satvik-friendly dim-sum dish featuring rhubarb and mushrooms, steamed in corn husks. Great for a quick snack or meal prep.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "rhubarb",
+      "amount": "1 pound"
+    },
+    {
+      "name": "shiitake mushrooms",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "corn husks",
+      "amount": "12-15"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch"
+    }
+  ],
+  "instructions": [
+    "Rinse and cut the rhubarb into 1-inch pieces.",
+    "Prepare the corn husks by soaking them in water for 30 minutes.",
+    "In a small bowl, mix together sesame oil, soy sauce, grated ginger, and minced garlic.",
+    "Add the sliced mushrooms to the bowl and toss to coat with the marinade.",
+    "Place a few pieces of rhubarb and a few mushrooms in the center of each corn husk.",
+    "Fold the husk over the filling and tie with kitchen twine.",
+    "Steam the mushimono over boiling water for 10-12 minutes, or until the rhubarb is tender.",
+    "Serve hot, garnished with chopped scallions.",
+    "Repeat with the remaining ingredients.",
+    "Serve immediately, or refrigerate for up to 24 hours and reheat before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "dim-sum",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "vibrant-steamed-chinese-rhubarb-mushimono",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-steamed-chinese-rhubarb-mushimono",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:50:43Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "snappy",
+    "mood": "meal-prep",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "rhubarb",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "rhubarb",
+    "descriptor": "Vibrant Steamed",
+    "dishForm": "Mushimono"
+  }
+}

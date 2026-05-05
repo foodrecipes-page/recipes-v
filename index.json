@@ -3487,6 +3487,18 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-silky-kenyan-coconut-cream-fondue",
+    "title": "Velvety Silky Kenyan Coconut Cream Fondue",
+    "tags": [
+      "dessert",
+      "fondue",
+      "kenyan"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-slovakian-bananas-mousse",
     "title": "Velvety Slovakian Bananas Mousse",
     "tags": [
@@ -5539,6 +5551,21 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 45,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-steamed-chinese-rhubarb-mushimono",
+    "title": "Vibrant Steamed Chinese Rhubarb Mushimono",
+    "tags": [
+      "dim-sum",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 30,
     "shard": "v"
   },
   {

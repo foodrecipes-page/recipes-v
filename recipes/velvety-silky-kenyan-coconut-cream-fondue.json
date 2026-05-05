@@ -1,0 +1,111 @@
+{
+  "title": "Velvety Silky Kenyan Coconut Cream Fondue",
+  "description": "A rich and indulgent Kenyan dish featuring coconut cream, a soffritto-base, and no nuts. Perfect for dipping fresh fruits or cookies. ",
+  "cuisine": "kenyan",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "coconut cream",
+      "amount": "1 14-oz can",
+      "notes": "full-fat, unsweetened"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "hot sauce",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "2 tablespoons",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "egg yolks",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the coconut cream in a small saucepan over medium heat, stirring occasionally, until warm and fragrant.",
+    "Add the onion, garlic, and ginger to the saucepan and cook, stirring occasionally, until the onion is translucent.",
+    "Add the lime juice, hot sauce, salt, and cinnamon to the saucepan and stir to combine.",
+    "Add the cocoa powder to the saucepan and stir to combine.",
+    "Gradually add the heavy cream to the saucepan, stirring constantly, until the mixture thickens slightly.",
+    "In a small bowl, whisk together the egg yolks and a splash of the warm coconut cream mixture.",
+    "Temper the egg yolks by slowly pouring the warm coconut cream mixture into the egg yolks, whisking constantly.",
+    "Return the saucepan to the heat and cook, stirring constantly, until the mixture thickens and reaches 160°F.",
+    "Remove the saucepan from the heat and let cool slightly.",
+    "Transfer the fondue to a fondue pot and keep warm.",
+    "To serve, dip fresh fruits or cookies into the fondue and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "fondue",
+    "kenyan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 32
+  },
+  "slug": "velvety-silky-kenyan-coconut-cream-fondue",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-silky-kenyan-coconut-cream-fondue",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:50:39Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "soffritto-base",
+    "primaryIngredient": "coconut cream",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "coconut cream",
+    "descriptor": "Velvety Silky",
+    "dishForm": "fondue"
+  }
+}
