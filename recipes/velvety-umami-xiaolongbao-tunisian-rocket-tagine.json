@@ -1,0 +1,162 @@
+{
+  "title": "Velvety Umami Xiaolongbao Tunisian Rocket Tagine",
+  "description": "Romantic, flavorful dish featuring xiaolongbao, rocket, and Tunisian spices, cooked in a comal vessel and served with a side of velvety rice dish, khao khua.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Khao Khua Rice",
+      "amount": "2 cups",
+      "notes": "+mix of deep fried and ground rice"
+    },
+    {
+      "name": "Rocket Leaves",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Ground Pork",
+      "amount": "1 pound",
+      "notes": "+mix of pork and mushroom duxelles"
+    },
+    {
+      "name": "Pork Fat",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "+minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "+grated"
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": "+freshly squeezed"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Xiaolongbao Dough",
+      "amount": "24 pieces",
+      "notes": "+homemade or store-bought"
+    },
+    {
+      "name": "Egg Yolks",
+      "amount": "2",
+      "notes": "+for egg wash"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "+for boiling xiaolongbao"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon",
+      "notes": "+for serving"
+    }
+  ],
+  "instructions": [
+    "Combine rice and 2 cups of water in a medium saucepan and cook over high heat until the water is absorbed and the rice is tender, about 15 minutes.",
+    "In a separate pan, heat 1 tablespoon of olive oil over medium heat and cook the onion until softened, about 3-4 minutes.",
+    "Add the garlic and ginger to the pan and cook for an additional 1-2 minutes, until fragrant.",
+    "In a separate pan, heat 1 tablespoon of olive oil over medium heat and cook the ground pork and mushroom duxelles until browned, about 5-6 minutes.",
+    "Add the cumin powder, paprika, salt, black pepper, and red pepper flakes to the pan and cook for an additional 1 minute, stirring constantly.",
+    "Add the lemon juice and fish sauce to the pan and stir to combine.",
+    "Bring a large pot of water to a boil and cook the xiaolongbao according to package instructions, about 10-12 minutes.",
+    "While the xiaolongbao is cooking, heat a comal vessel over medium heat and add a small amount of olive oil to the bottom of the vessel.",
+    "Using a slotted spoon, carefully place the cooked xiaolongbao into the comal vessel, leaving a small amount of space between each piece.",
+    "Brush the tops of the xiaolongbao with the egg wash and cover the vessel with a lid to trap the steam.",
+    "Cook the xiaolongbao for an additional 2-3 minutes, until the tops are golden brown and the dumplings are cooked through.",
+    "To serve, place a few pieces of xiaolongbao onto a plate and serve with a side of khao khua and a sprinkle of sesame oil and chopped rocket leaves.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "flexitarian",
+    "one-pan",
+    "romantic",
+    "tunisian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 22
+  },
+  "slug": "velvety-umami-xiaolongbao-tunisian-rocket-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-umami-xiaolongbao-tunisian-rocket-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:35:55Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "velvety",
+    "mood": "romantic",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "rocket",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "rocket",
+    "descriptor": "velvety umami xiaolongbao",
+    "dishForm": "Tagine"
+  }
+}
