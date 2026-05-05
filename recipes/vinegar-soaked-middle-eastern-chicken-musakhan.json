@@ -1,0 +1,78 @@
+{
+  "title": "Vinegar-Soaked Middle Eastern Chicken Musakhan",
+  "description": "A flavorful Middle Eastern dish featuring juicy chicken, crispy onions, and a hint of lime juice. This recipe is easy to make and perfect for a weeknight dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "lardons (small pieces of bacon)",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of olive oil in a large skillet over medium-high heat",
+    "Add the lardons to the skillet and cook until crispy, about 4 minutes",
+    "Remove the lardons from the skillet and set aside",
+    "Add the thinly sliced onion to the skillet and cook until caramelized, about 8 minutes",
+    "In a separate bowl, whisk together 1/4 cup of lime juice and 2 tablespoons of vinegar",
+    "Add the chicken thighs to the bowl and marinate for at least 30 minutes",
+    "Preheat the oven to 400°F (200°C)",
+    "Remove the chicken from the marinade and cook in the skillet with the onion until browned on both sides, about 6 minutes",
+    "Transfer the chicken to a baking dish and top with the crispy lardons and onion",
+    "Bake in the preheated oven until the chicken is cooked through, about 20 minutes",
+    "Let the chicken rest for 5 minutes before slicing and serving",
+    "Garnish with fresh parsley and serve hot",
+    "Serve with a side of basmati rice or pita bread, if desired",
+    "Adjust seasoning as needed",
+    "Serve immediately"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "easy-middle-eastern",
+    "high-protein",
+    "musakhan",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "vinegar-soaked-middle-eastern-chicken-musakhan",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/vinegar-soaked-middle-eastern-chicken-musakhan",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:08:23Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "cheese-pull",
+    "mood": "show-off",
+    "technique": "lardons-render",
+    "primaryIngredient": "lime juice",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "chicken",
+    "descriptor": "vinegar-soaked",
+    "dishForm": "Musakhan"
+  }
+}
