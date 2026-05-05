@@ -1,0 +1,93 @@
+{
+  "title": "Vegan Friendly Energizing Middle Eastern Oyster Mushroom Muhammara",
+  "description": "A flavorful and energizing vegan-friendly middle eastern dish featuring oyster mushrooms as the base, topped with a creamy score-fat sauce and a crunchy finishing touch.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Oyster mushrooms",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Roasted red pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Pomegranate molasses",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Score-fat sauce",
+      "amount": "250g",
+      "notes": "See below for recipe"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "Rinse the oyster mushrooms and pat them dry with a paper towel. ",
+    "Place the mushrooms on a baking sheet lined with parchment paper and roast in the oven for 10 minutes.",
+    "While the mushrooms are roasting, mix the roasted red pepper, pomegranate molasses, lime juice, smoked paprika, garlic, and chopped parsley in a bowl.",
+    "Once the mushrooms are done, remove them from the oven and let them cool for a minute. ",
+    "In a pan, heat the olive oil over medium heat and sauté the mushrooms until they are coated in the oil and fragrant.",
+    "Mix the score-fat sauce with the roasted red pepper mixture and pour it over the mushrooms.",
+    "Serve immediately and garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "dinner",
+    "easy-to-make",
+    "gluten-free",
+    "lunch",
+    "middle-eastern",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "vegan-friendly-energizing-middle-eastern-oyster-mushrooms-muhammara",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/vegan-friendly-energizing-middle-eastern-oyster-mushrooms-muhammara",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:50:06Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crisp",
+    "mood": "energizing",
+    "technique": "score-fat",
+    "primaryIngredient": "oyster mushrooms",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Middle-eastern",
+    "mainIngredient": "Oyster mushrooms",
+    "descriptor": "Vegan friendly energizing",
+    "dishForm": "Muhammara"
+  }
+}
