@@ -1,0 +1,91 @@
+{
+  "title": "Velvety Russian Cashew Blini",
+  "description": "A rich, creamy, and spicy breakfast dish featuring cashews and fermented kimchi, inspired by the flavors of Russia and Buddhism.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Cashews",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "Fermented Kimchi ",
+      "amount": "1/2 cup",
+      "notes": "see note"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1 cup",
+      "notes": "plain, unflavored"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Buckwheat Flour",
+      "amount": "1/2 cup",
+      "notes": "see note"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, puree the soaked cashews, fermented kimchi, Greek yogurt, honey, lemon juice, ginger, and salt until smooth and creamy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "velvety-russian-cashews-blini",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-russian-cashews-blini",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:16:43Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "cashews",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "cashews",
+    "descriptor": "velvety",
+    "dishForm": "Blini"
+  }
+}

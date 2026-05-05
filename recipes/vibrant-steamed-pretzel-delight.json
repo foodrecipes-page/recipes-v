@@ -1,0 +1,101 @@
+{
+  "title": "vibrant steamed pretzel delight",
+  "description": "a sour, aerated venezuelan dish featuring pretzels, perfect for a solo dinner. made with a mortar and pestle for added texture.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pretzels",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "in a mortar and pestle, combine lime juice, garlic, ginger, salt, and black pepper.",
+    "add pretzels to the mortar and pestle, and pound them into small pieces.",
+    "add yeast, water, and coconut oil to the mortar and pestle, and mix until a smooth batter forms.",
+    "transfer the batter to a bamboo steamer, and steam over boiling water for 20 minutes.",
+    "remove the steamer from the heat, and let the pretzel delight cool for 5 minutes.",
+    "serve the vibrant steamed pretzel delight warm, garnished with additional lime wedges if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "aerated",
+    "easy-to-make",
+    "healthy",
+    "one-pan",
+    "sour",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "vibrant-steamed-pretzel-delight",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-steamed-pretzel-delight",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:16:59Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "aerated",
+    "mood": "solo-dinner",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "pretzels",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Pretzels",
+    "descriptor": "Steamed",
+    "dishForm": "Bowl"
+  }
+}

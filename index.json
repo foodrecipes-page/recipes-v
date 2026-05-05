@@ -3230,6 +3230,20 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-russian-cashews-blini",
+    "title": "Velvety Russian Cashew Blini",
+    "tags": [
+      "breakfast",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 20,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-russian-sugar-bowl",
     "title": "Velvety Russian Sugar Bowl",
     "tags": [
@@ -5308,6 +5322,21 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 45,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-steamed-pretzel-delight",
+    "title": "vibrant steamed pretzel delight",
+    "tags": [
+      "aerated",
+      "easy-to-make",
+      "healthy",
+      "one-pan",
+      "sour",
+      "venezuelan"
+    ],
+    "cuisine": "venezuelan",
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
