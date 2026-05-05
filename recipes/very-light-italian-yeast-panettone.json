@@ -1,0 +1,106 @@
+{
+  "title": "Very Light Italian Yeast Panettone",
+  "description": "A lighter and fluffier version of the traditional panettone, featuring shio-koji and cooked in a ttukbaegi earthenware pot, perfect for a solo dinner",
+  "cuisine": "italian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rye flour",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "plant-based milk",
+      "amount": "125g",
+      "notes": "such as almond or soy milk"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "15g",
+      "notes": "see notes on using shio-koji in bread recipes"
+    },
+    {
+      "name": "yeast",
+      "amount": "10g",
+      "notes": "active dry yeast"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "unsalted plant-based butter",
+      "amount": "50g",
+      "notes": "such as Earth Balance"
+    },
+    {
+      "name": "egg replacement",
+      "amount": "2",
+      "notes": "such as flaxseed or mashed banana"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1g",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "chopped candied citrus peel",
+      "amount": "25g",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Combine rye flour, plant-based milk, shio-koji, yeast, and granulated sugar in a mixing bowl and stir until a shaggy dough forms",
+    "Add unsalted plant-based butter, egg replacement, vanilla extract, and salt to the dough and mix until a sticky ball forms",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic",
+    "Place the dough in a greased ttukbaegi earthenware pot and let it rise in a warm place for 1 hour",
+    "Preheat the oven to 375°F (190°C) and bake the panettone for 35 minutes",
+    "Let the panettone cool in the pot for 10 minutes before transferring it to a wire rack to cool completely",
+    "If desired, top the panettone with chopped candied citrus peel"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "high-fat",
+    "italian-bread",
+    "plant-based",
+    "solo-dinner",
+    "yeast-bread"
+  ],
+  "nutrition": {
+    "calories": 3200,
+    "protein": 60,
+    "carbs": 40,
+    "fat": 140
+  },
+  "slug": "very-light-italian-yeast-panettone",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/very-light-italian-yeast-panettone",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:37:10Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "shio-koji",
+    "diet": "plant-based",
+    "region": "piedmontese",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "yeast",
+    "descriptor": "Very Light",
+    "dishForm": "Panettone"
+  }
+}
