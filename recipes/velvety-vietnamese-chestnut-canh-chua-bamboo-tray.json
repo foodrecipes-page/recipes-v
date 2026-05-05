@@ -1,0 +1,62 @@
+{
+  "title": "Velvety Vietnamese Chestnut Canh Chua Bamboo Tray",
+  "description": "A comforting, cultured Vietnamese dish featuring cooked chestnuts in a rich and velvety broth, perfect for a weekend brunch on a bamboo tray.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "sliced bamboo shoots",
+      "amount": "2 cups",
+      "notes": "fresh or canned, drained and sliced"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of lemongrass oil in a large saucepan over medium heat.",
+    "Add sliced ginger and cook for 1 minute, until fragrant.",
+    "Add chicken broth, kosher salt, roasted chestnuts, and kombu seaweed. Bring to a boil, then reduce heat to low and simmer for 15 minutes.",
+    "Remove kombu seaweed and add sliced bamboo shoots, fish sauce, black peppercorns, and cayenne pepper. Simmer for an additional 10 minutes, until the broth is rich and velvety.",
+    "Stir in coconut milk and bamboo shoots liquid. Cook for 2-3 minutes, until heated through.",
+    "Taste and adjust seasoning as needed.",
+    "Transfer the Canh Chua to a bamboo tray and garnish with fresh lemongrass and lime wedges."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "vegetarian",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "velvety-vietnamese-chestnut-canh-chua-bamboo-tray",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-vietnamese-chestnut-canh-chua-bamboo-tray",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:33:17Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "velvety",
+    "mood": "brunch-mood",
+    "technique": "roast",
+    "primaryIngredient": "cooked chestnut",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "chestnut",
+    "descriptor": "Velvety, X-traordinary",
+    "dishForm": "Canh Chua"
+  }
+}

@@ -4275,6 +4275,20 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-vietnamese-chestnut-canh-chua-bamboo-tray",
+    "title": "Velvety Vietnamese Chestnut Canh Chua Bamboo Tray",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "vegetarian",
+      "vietnamese",
+      "weeknight"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 70,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-vietnamese-cookies-mi-quang",
     "title": "Velvety Vietnamese Cookies Mi Quang",
     "tags": [
@@ -4506,6 +4520,22 @@
     ],
     "cuisine": "American",
     "totalTimeMin": 45,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-blanch-korean-mushroom-sujjuk-jjigae",
+    "title": "Vibrant Blanch Korean mushroom Sujjuk Jjigae",
+    "tags": [
+      "brunch",
+      "jjigae",
+      "korean",
+      "mushroom",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
