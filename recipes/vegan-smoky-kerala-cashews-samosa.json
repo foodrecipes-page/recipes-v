@@ -1,0 +1,126 @@
+{
+  "title": "Vegan Smoky Kerala Cashews Samosa",
+  "description": "A smoky, post-workout samosa featuring cashews from Kerala, India, perfect for a diabetic-friendly snack. This recipe combines the crunch of cashews with the warmth of spices, creating a unique flavor profile that is both satisfying and healthy.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cashews",
+      "amount": "1 cup, roasted",
+      "notes": "unsalted, unsweetened"
+    },
+    {
+      "name": "Whole wheat flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Ghee or vegan alternative",
+      "amount": "2 tablespoons",
+      "notes": "for brushing pastry"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegan yogurt (optional)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Mix together the roasted cashews, whole wheat flour, ghee or vegan alternative, smoked paprika, garam masala, cumin powder, coriander powder, and salt in a large bowl until well combined.",
+    "Gradually add the water to the mixture and knead for 5-7 minutes until a smooth dough forms.",
+    "Cover the dough with a damp cloth and let it rest for 30 minutes.",
+    "Divide the dough into 8-10 equal portions and shape each portion into a ball.",
+    "Roll out each ball into a thin circle, about 3-4 inches in diameter.",
+    "Place 1 tablespoon of the cashew mixture in the center of each circle and brush the edges with a little water.",
+    "Fold the circle in half to form a triangle and press the edges to seal the samosa.",
+    "Place the samosas on a baking sheet lined with parchment paper and brush with a little ghee or vegan alternative.",
+    "Bake the samosas in the preheated oven for 20-25 minutes, or until golden brown.",
+    "Serve the samosas hot with a dollop of vegan yogurt (if using) and garnished with chopped cilantro.",
+    "Store leftover samosas in an airtight container in the refrigerator for up to 3 days or freeze for up to 2 months."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cashews",
+    "diabetic-friendly",
+    "healthy",
+    "indian",
+    "kerala",
+    "smoky",
+    "snack",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "vegan-smoky-kerala-cashews-samosa",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/vegan-smoky-kerala-cashews-samosa",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:56:17Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "chewy",
+    "mood": "post-workout",
+    "technique": "smoke-cold",
+    "primaryIngredient": "cashews",
+    "diet": "diabetic-friendly",
+    "region": "kerala",
+    "cuisineAdjective": "Kerala",
+    "mainIngredient": "cashews",
+    "descriptor": "Vegan, smoky",
+    "dishForm": "Samosa"
+  }
+}
