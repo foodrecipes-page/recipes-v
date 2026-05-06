@@ -1,0 +1,80 @@
+{
+  "title": "VelvetySour Italian Emmentaler Cheese PestoRobataGrill",
+  "description": "A meal-prep Italian dish featuring emmentaler cheese sautéed with sugar-free-friendly ingredients for a velvety and sour flavor profile, perfect for a quick weeknight dinner.",
+  "cuisine": "Italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Emmentaler Cheese",
+      "amount": "100 grams"
+    },
+    {
+      "name": "Pesto Sauce Base (optional)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dairy-Free Olive Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Almonds, sliced",
+      "amount": "5 pieces"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Sugar-Free Sugar or Stevia",
+      "amount": "2 teaspoons (optional)"
+    },
+    {
+      "name": "Garlic Cloves, minced",
+      "amount": "3 cloves"
+    }
+  ],
+  "instructions": [
+    "Preheat Robata grill to high heat.",
+    "Chop almonds and mince garlic. If using pesto base, mix it with a bit of dairy-free olive oil until smooth.",
+    "Heat oil in a pan over medium-high heat. Add emmentaler cheese first, then add pesto if using, followed by minced garlic and lemon zest.",
+    "Stir continuously until the mixture starts to thicken and becomes velvety-smooth, about 3-5 minutes.",
+    "Once fully smooth, remove from heat and fold in sliced almonds.",
+    "Serve immediately on a Robata grill for maximum freshness and flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "meal-prep",
+    "robata-grill",
+    "sugar-free-friendly",
+    "velvety-cheese-dish"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 9,
+    "carbs": 4,
+    "fat": 7
+  },
+  "slug": "velvety-sour-italian-emmentaler-cheese-pesto-robata-grill",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-sour-italian-emmentaler-cheese-pesto-robata-grill",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T02:43:00Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "velvety",
+    "mood": "meal-prep",
+    "technique": "saute",
+    "primaryIngredient": "emmentaler cheese",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Emmentaler Cheese",
+    "descriptor": "VelvetySour",
+    "dishForm": "PestoRobataGrill"
+  }
+}
