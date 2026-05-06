@@ -1,0 +1,116 @@
+{
+  "title": "Vibrant Slow-Cooked Tunisian Egg White Tagine",
+  "description": "A rich, pillowy, high-protein-friendly Tunisian dish featuring egg whites, slow-cooked to perfection in a Binchotan-grill vessel, perfect for a date-night dinner.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Egg Whites",
+      "amount": "12 large egg whites",
+      "notes": "whipped to stiff peaks"
+    },
+    {
+      "name": "Dates",
+      "amount": "1 cup pitted dates",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "Almonds",
+      "amount": "1 cup sliced almonds",
+      "notes": "raw"
+    },
+    {
+      "name": "Pistachios",
+      "amount": "1 cup chopped pistachios",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp ground cinnamon",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp ground ginger",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp freshly squeezed lemon juice",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp extra virgin olive oil",
+      "notes": "cold-pressed"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp flaky sea salt",
+      "notes": "himalayan pink salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp freshly ground black pepper",
+      "notes": "freshly toasted"
+    },
+    {
+      "name": "Labneh",
+      "amount": "1/2 cup crumbled labneh cheese",
+      "notes": "unsalted"
+    }
+  ],
+  "instructions": [
+    "Preheat Binchotan-grill to 400°F (200°C).",
+    "Whisk egg whites until stiff peaks form in a large mixing bowl.",
+    "In a separate bowl, mix together sliced almonds, chopped pistachios, ground cinnamon, ground ginger, and a pinch of salt.",
+    "Add the date mixture to the egg whites and whip until well combined.",
+    "Spoon the egg white mixture onto the preheated Binchotan-grill in a circular motion to form a bed of egg whites.",
+    "Drizzle the olive oil over the egg whites, followed by the lemon juice and the spice mixture.",
+    "Sprinkle the crumbled labneh cheese over the egg whites.",
+    "Place the Binchotan-grill under a preheated broiler for 5-7 minutes or until the egg whites are cooked through.",
+    "Remove the Binchotan-grill from the oven and sprinkle the black pepper over the egg whites.",
+    "Serve hot, garnished with additional sliced almonds and a sprinkle of cinnamon, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "egg-white",
+    "high-protein",
+    "one-pan",
+    "slow-cooked",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 17
+  },
+  "slug": "vibrant-slow-cooked-tunisian-egg-white-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-slow-cooked-tunisian-egg-white-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:05:27Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "pillowy",
+    "mood": "date-night",
+    "technique": "slow-cook",
+    "primaryIngredient": "egg white",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "egg white",
+    "descriptor": "Vibrant Slow-Cooked",
+    "dishForm": "Tagine"
+  }
+}

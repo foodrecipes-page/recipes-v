@@ -953,6 +953,21 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-bitter-malaysian-monterey-jack-cheese-quesadilla",
+    "title": "Velvety Bitter Malaysian Monterey Jack Cheese Quesadilla",
+    "tags": [
+      "dairy-free",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 27,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-bitter-norwegian-cod-grill",
     "title": "Velvety Bitter Norwegian Cod Grill",
     "tags": [
@@ -5578,6 +5593,21 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 55,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-slow-cooked-tunisian-egg-white-tagine",
+    "title": "Vibrant Slow-Cooked Tunisian Egg White Tagine",
+    "tags": [
+      "date-night",
+      "egg-white",
+      "high-protein",
+      "one-pan",
+      "slow-cooked",
+      "tunisian"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {

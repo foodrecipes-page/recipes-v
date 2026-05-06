@@ -1,0 +1,109 @@
+{
+  "title": "Velvety Bitter Malaysian Monterey Jack Cheese Quesadilla",
+  "description": "A rich and savory quesadilla filled with velvety Malaysian-inspired bitter flavors and melted Monterey Jack cheese. Perfect for a weeknight dinner or meal prep snack.",
+  "cuisine": "mexican",
+  "diet": [
+    null,
+    "dairy-free",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Monterey Jack cheese",
+      "amount": "220g",
+      "notes": "shredded, bitter, Malaysian-flavored"
+    },
+    {
+      "name": "Malaysian bitter melon",
+      "amount": "1 medium",
+      "notes": "seeded, sliced"
+    },
+    {
+      "name": "Gochujang sauce",
+      "amount": "35g",
+      "notes": "spicy, savory"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "10g",
+      "notes": "toasted, fragrant"
+    },
+    {
+      "name": "Kaffir lime leaves",
+      "amount": "4",
+      "notes": "fresh, aromatic"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "120ml",
+      "notes": "dairy-free, creamy"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "20g",
+      "notes": "fresh, fragrant"
+    },
+    {
+      "name": "Cumin",
+      "amount": "5g",
+      "notes": "ground, toasted"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2g",
+      "notes": "pungent, smoky"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick skillet over medium-high heat.",
+    "Add 1 tablespoon of sesame oil and swirl to coat the pan.",
+    "Add the sliced bitter melon and cook until tender, about 3-4 minutes.",
+    "Add the gochujang sauce, cumin, and smoked paprika, stirring to combine.",
+    "Add the shredded Monterey Jack cheese and stir until melted and gooey.",
+    "Add the chopped cilantro and kaffir lime leaves, stir to combine.",
+    "Pour in the coconut milk and stir until heated through.",
+    "Place a tortilla in the skillet and sprinkle with the bitter melon mixture.",
+    "Fold the tortilla in half and cook until crispy and golden, about 2-3 minutes per side.",
+    "Repeat with the remaining ingredients and serve hot.",
+    "Serve the quesadillas with a side of Malaysian bitter melon salsa or raita for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 35
+  },
+  "slug": "velvety-bitter-malaysian-monterey-jack-cheese-quesadilla",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-bitter-malaysian-monterey-jack-cheese-quesadilla",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:04:56Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "velvety",
+    "mood": "show-off",
+    "technique": "brine-wet",
+    "primaryIngredient": "shredded monterey jack cheese",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Monterey Jack Cheese",
+    "descriptor": "Velvety Bitter",
+    "dishForm": "Quesadilla"
+  }
+}
