@@ -1,0 +1,125 @@
+{
+  "title": "velvety one-pot pungent portuguese basil stew",
+  "description": "a hearty, one-pot stew originating from portugal, featuring a velvety texture and pungent basil flavor, suitable for diabetics.",
+  "cuisine": "portuguese",
+  "diet": [
+    "diabetic-friendlY",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "portuguese-style chorizo",
+      "amount": "1 link, sliced",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "basil",
+      "amount": "1 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "kale",
+      "amount": "1 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sauteed sweet potato",
+      "amount": "1 medium, diced",
+      "notes": "cooked in advance"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large wok over medium-high heat.",
+    "add the sliced chorizo and cook until browned, about 3-4 minutes.",
+    "add the onion and garlic and cook until the onion is translucent, about 5 minutes.",
+    "add the bay leaf, oregano, salt, and black pepper, and stir to combine.",
+    "add the kale and sweet potato, and stir to combine.",
+    "add the chicken broth, and bring the mixture to a boil.",
+    "reduce the heat to medium-low and simmer, covered, for 15-20 minutes, or until the kale is tender.",
+    "stir in the heavy cream and basil, and cook for an additional 2-3 minutes, or until the stew has thickened slightly.",
+    "taste and adjust the seasoning as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "hearty",
+    "one-pan",
+    "portuguese",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "velvety-one-pot-pungent-portuguese-basil-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-one-pot-pungent-portuguese-basil-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:54:32Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "velvety",
+    "mood": "one-pot",
+    "technique": "dehydrate",
+    "primaryIngredient": "basil",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "basil",
+    "descriptor": "velvety one-pot pungent",
+    "dishForm": "stew"
+  }
+}
