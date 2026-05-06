@@ -1,0 +1,107 @@
+{
+  "title": "Velvety Vegetal Venison Stir-fry",
+  "description": "A savory solo-dinner Uruguayan dish featuring ground beef in a creamy sauce made with vegetables and without eggs.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": 200
+    },
+    {
+      "name": "onions",
+      "amount": 4,
+      "notes": "chopped finely"
+    },
+    {
+      "name": "bell peppers",
+      "amount": 3,
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "carrots",
+      "amount": 2,
+      "notes": "julienned"
+    },
+    {
+      "name": "celery stalks",
+      "amount": 4,
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": 6
+    },
+    {
+      "name": "red bell pepper",
+      "amount": 1,
+      "notes": "diced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": 2
+    },
+    {
+      "name": "soy sauce",
+      "amount": 40
+    },
+    {
+      "name": "vegetable broth",
+      "amount": 300
+    },
+    {
+      "name": "unsalted butter",
+      "amount": 50
+    },
+    {
+      "name": "cream cheese",
+      "amount": 100
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a wok or large skillet over medium heat.",
+    "Add ground beef and cook until browned, breaking it into small pieces as it cooks.",
+    "Add onions, bell peppers, carrots, celery, and garlic to the pan. Stir-fry for about 5 minutes.",
+    "Pour in vegetable broth, soy sauce, and cream cheese. Simmer gently for 10 minutes or until thickened.",
+    "Serve hot with steamed rice if desired.",
+    "Enjoy your Velvety Vegetal Venison Stir-fry as a solo-dinner dish!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "quick-cook",
+    "simple-recipe",
+    "solo-dinner",
+    "uruguayan-flavor",
+    "vegan-friendly",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 32,
+    "carbs": 47,
+    "fat": 18
+  },
+  "slug": "velvety-vegetal-venison-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-vegetal-venison-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T13:08:20Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shaggy",
+    "mood": "solo-dinner",
+    "technique": "stir-fry",
+    "primaryIngredient": "ground beef",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Vegetal",
+    "mainIngredient": "Venison",
+    "descriptor": "Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
