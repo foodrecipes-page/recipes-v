@@ -1,0 +1,117 @@
+{
+  "title": "Vibrant Light Ethiopian Lettuce Dabo",
+  "description": "A comforting, tangy, and light Ethiopian-inspired dish using iceberg lettuce, perfect for a plant-based-friendly meal. Serve in a Korean-style brass bowl for added flair.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Iceberg Lettuce",
+      "amount": "2 heads",
+      "notes": ""
+    },
+    {
+      "name": "Teff Flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ghee or Vegan Butter",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Berbere Spice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "handful",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large pot, bring 2 cups of water to a boil over high heat.",
+    "Add 1 tablespoon of ghee or vegan butter to prevent sticking.",
+    "Add 1 medium chopped onion to the pot and cook for 3 minutes.",
+    "Add 2 cloves minced garlic and 1-inch grated ginger to the pot and cook for an additional 1 minute.",
+    "Add 1 teaspoon berbere spice and cook for 1 minute, stirring constantly.",
+    "Add 2 heads of iceberg lettuce to the pot, folding in the spices and onion mixture.",
+    "Cook for 4-5 minutes, or until the lettuce is tender but still crisp.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the lettuce mixture to a large Korean-style brass bowl.",
+    "Serve hot, garnished with chopped fresh cilantro and a squeeze of lemon juice.",
+    "Optional: Add 2 tablespoons of ghee or vegan butter on top of the lettuce for added richness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comforting",
+    "ethiopian",
+    "light",
+    "plant-based",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "vibrant-light-ethiopian-lettuce-dabo",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-light-ethiopian-lettuce-dabo",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:49:24Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "iceberg lettuce",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Lettuce",
+    "descriptor": "Vibrant Light",
+    "dishForm": "Dabo"
+  }
+}
