@@ -1,0 +1,109 @@
+{
+  "title": "Velvety Sweet Portuguese Kabocha Bake",
+  "description": "A festive Portuguese dish featuring kabocha and bhuna flavors, perfect for a pescatarian-friendly dinner. This recipe is a twist on traditional Portuguese cuisine, with a rich and velvety texture from the kabocha and a hint of mustardy flavor from the bhuna spice mix.",
+  "cuisine": "portuguese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kabocha squash",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "bhuna spice mix",
+      "amount": "1 tsp",
+      "notes": "available at Indian or Asian grocery stores"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for greasing the baking dish"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "vegetable broth works too"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "approx 1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "approx 1/2 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Grease a 9x13-inch baking dish with olive oil.",
+    "Peel and cube the kabocha squash and set aside.",
+    "In a large skillet, sauté the onion and garlic until softened, about 5 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fall-recipes",
+    "one-pan",
+    "pescatarian",
+    "portuguese",
+    "winter-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 45,
+    "fat": 24
+  },
+  "slug": "velvety-sweet-portuguese-kabocha-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-sweet-portuguese-kabocha-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:58:40Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "bhuna",
+    "primaryIngredient": "kabocha",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "kabocha",
+    "descriptor": "velvety sweet",
+    "dishForm": "bake"
+  }
+}
