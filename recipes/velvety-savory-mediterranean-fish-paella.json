@@ -1,0 +1,121 @@
+{
+  "title": "Velvety Savory Mediterranean Fish Paella",
+  "description": "A rich, indulgent Mediterranean paella dish featuring succulent fish, infused with the warmth of spices and the creaminess of melted butter. Perfect for a special dinner occasion.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish (such as cod or snapper)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Mediterranean rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Saffron threads",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium heat.",
+    "Add the garlic and saut\u0014 until fragrant, about 1 minute.",
+    "Add the tomato paste and cook for 1 minute, stirring constantly.",
+    "Add the Mediterranean rice and cook for 1-2 minutes, stirring constantly.",
+    "Add the chicken broth, water, and saffron threads, and bring to a boil.",
+    "Add the fish and cook for 2-3 minutes, or until it starts to flake apart.",
+    "Add the unsalted butter and stir until melted.",
+    "Stir in the salt and cook for 1-2 minutes, or until the rice is cooked and the fish is cooked through.",
+    "Let the paella rest for 5 minutes before serving.",
+    "Garnish with chopped fresh parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "fish",
+    "mediterranean",
+    "one-pan",
+    "paella",
+    "seafood",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "velvety-savory-mediterranean-fish-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-savory-mediterranean-fish-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:55:09Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "velvety",
+    "mood": "indulgent",
+    "technique": "temper",
+    "primaryIngredient": "melted butter",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "fish",
+    "descriptor": "velvety savory",
+    "dishForm": "Paella"
+  }
+}
