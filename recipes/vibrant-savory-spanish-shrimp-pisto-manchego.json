@@ -1,0 +1,106 @@
+{
+  "title": "Vibrant Savory Spanish Shrimp Pisto Manchego",
+  "description": "A savory and pillowy Spanish dish featuring shrimp, pisto manchego, and a mirepoix base, perfect for a crowd-pleasing dinner. This recipe combines the flavors of Spain with the convenience of a one-pot meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "shellfish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "pisto manchego paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 can",
+      "notes": "diced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large hot pot vessel over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the chopped red bell pepper and cook until tender, about 5 minutes.",
+    "Add the pisto manchego paste and cook for 1 minute, stirring constantly.",
+    "Add the diced tomato, smoked paprika, salt, and black pepper, and stir to combine.",
+    "Add the peeled and deveined shrimp and cook until pink and fully cooked, about 5 minutes.",
+    "Serve the vibrant savory Spanish shrimp pisto manchego hot, garnished with fresh parsley or cilantro if desired.",
+    "Offer crusty bread or rice on the side to soak up the flavorful sauce.",
+    "Enjoy the dish with a glass of red wine or a refreshing Spanish beer."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "gluten-free",
+    "one-pot",
+    "seafood",
+    "spanish-cuisine",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "vibrant-savory-spanish-shrimp-pisto-manchego",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-savory-spanish-shrimp-pisto-manchego",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-06T21:09:05Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "pillowy",
+    "mood": "crowd-pleaser",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "shrimp-paste-kapi",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "shrimp",
+    "descriptor": "Vibrant Savory",
+    "dishForm": "Pisto Manchego"
+  }
+}
