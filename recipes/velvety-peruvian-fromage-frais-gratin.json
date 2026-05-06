@@ -1,0 +1,98 @@
+{
+  "title": "Velvety Peruvian Fromage Frais Gratin",
+  "description": "A creamy, briny twist on a classic Peruvian dish, adapted for a dairy-free lifestyle. Perfect for kids and a quick weeknight meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fromage frais (dairy-free version or regular)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Canned queso fresco",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Minced red onion",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh aji amarillo pepper",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "Boiling water",
+      "amount": "as needed",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine fromage frais, queso fresco, cilantro, onion, and pepper in a blender or food processor until smooth.",
+    "Transfer the mixture to a saucepan and heat over low heat, stirring occasionally.",
+    "Add boiling water to achieve the desired consistency (a velvety, pourable sauce).",
+    "Season with salt and black pepper to taste.",
+    "Transfer the sauce to a baking dish and top with additional queso fresco and a sprinkle of cilantro.",
+    "Bake in a preheated oven at 375°F (190°C) for 15-20 minutes, or until the top is lightly golden brown.",
+    "Serve warm or chilled, garnished with additional cilantro if desired.",
+    "Note: For a dairy-free version, use a non-dairy milk and omit the queso fresco, or substitute with a dairy-free cheese alternative.",
+    "If using a dairy-free milk, you may need to adjust the amount of thickening agents (such as cornstarch or tapioca starch) to achieve the desired consistency."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "dairy-free",
+    "kid-friendly",
+    "one-pan",
+    "peruvian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "velvety-peruvian-fromage-frais-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-peruvian-fromage-frais-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:02:35Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "velvety",
+    "mood": "kid-friendly",
+    "technique": "boil",
+    "primaryIngredient": "fromage frais",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "peruvian",
+    "mainIngredient": "fromage frais",
+    "descriptor": "velvety",
+    "dishForm": "gratin"
+  }
+}

@@ -280,6 +280,21 @@
     "shard": "v"
   },
   {
+    "slug": "vegan-nutty-indian-marmite-vegetable-lentil-sambhar",
+    "title": "Vegan Nutty Indian Marmite Vegetable Lentil Sambhar",
+    "tags": [
+      "date-night",
+      "gluten-free",
+      "high-protein",
+      "indian",
+      "one-pan",
+      "vegan"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 45,
+    "shard": "v"
+  },
+  {
     "slug": "vegan-salt-cod-delight",
     "title": "Vegan Salt Cod Delight",
     "tags": [
@@ -1492,6 +1507,21 @@
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 80,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-dutch-rest-meat-casserole",
+    "title": "Velvety Dutch Rest-Meat Casserole",
+    "tags": [
+      "casserole",
+      "comfort-food",
+      "dutch",
+      "fodmap-friendly",
+      "gluten-free",
+      "high-protein"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 55,
     "shard": "v"
   },
   {
@@ -3111,6 +3141,20 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-peruvian-fromage-frais-gratin",
+    "title": "Velvety Peruvian Fromage Frais Gratin",
+    "tags": [
+      "dairy-free",
+      "kid-friendly",
+      "one-pan",
+      "peruvian",
+      "weeknight"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 30,
     "shard": "v"
   },
   {
@@ -4800,6 +4844,21 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-creamy-thai-curry-bowl",
+    "title": "Vibrant Creamy Thai Curry Bowl",
+    "tags": [
+      "curry",
+      "easy-vegan",
+      "fermented",
+      "one-pan",
+      "quick-cooking",
+      "thaicuisine"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 40,
     "shard": "v"
   },
   {

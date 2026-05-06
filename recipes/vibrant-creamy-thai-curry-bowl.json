@@ -1,0 +1,63 @@
+{
+  "title": "Vibrant Creamy Thai Curry Bowl",
+  "description": "A delicious, fermented, and creamy Thai curry dish, ovo-vegetarian friendly, served on a hot stone plate.",
+  "cuisine": "Thai",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Coconut milk",
+      "amount": "1 can (14 oz)"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat and fry the lemongrass, galangal, and turmeric until fragrant.",
+    "Add the mother sauce and cook for 1 minute, stirring constantly.",
+    "Add the coconut milk, fish sauce, palm sugar, and lime juice, and stir to combine.",
+    "Add the Thai chilies and cook for 5 minutes, stirring occasionally.",
+    "Stir in the fermented bean paste and cook for an additional 2 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Cook the brown rice according to package instructions.",
+    "To assemble the bowls, place a scoop of brown rice on a hot stone plate, then spoon the curry over the top.",
+    "Garnish with toasted peanuts, fresh cilantro, and a sprinkle of fermented bean paste (if using)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry",
+    "easy-vegan",
+    "fermented",
+    "one-pan",
+    "quick-cooking",
+    "thaicuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 36
+  },
+  "slug": "vibrant-creamy-thai-curry-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-creamy-thai-curry-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:02:26Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "chilli",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "curry",
+    "descriptor": "vibrant creamy",
+    "dishForm": "Bowl"
+  }
+}

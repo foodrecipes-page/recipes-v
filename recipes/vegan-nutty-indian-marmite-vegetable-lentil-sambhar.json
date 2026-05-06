@@ -1,0 +1,120 @@
+{
+  "title": "Vegan Nutty Indian Marmite Vegetable Lentil Sambhar",
+  "description": "A rich and savory Indian-inspired sambhar dish made with lentils, vegetables, and nutty flavors, perfect for a date night or a special occasion.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "lactose-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red Lentils",
+      "amount": "1 cup",
+      "notes": "Rinsed and drained"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Green Chili",
+      "amount": "2",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Grated"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Marmite",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Ferment-Jang",
+      "amount": "1 teaspoon",
+      "notes": "Note: adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add cumin seeds and let them sizzle for a few seconds.",
+    "Add onion, ginger, and green chili, and sauté till the onion is translucent.",
+    "Add carrot, coriander powder, turmeric powder, and salt. Mix well.",
+    "Add the lentils, water, and tomato, and bring to a boil.",
+    "Reduce the heat to low and cook covered for 30 minutes, or till the lentils are cooked.",
+    "Add Marmite and Ferment-Jang. Mix well and let it simmer for a few minutes.",
+    "Adjust the seasoning as needed and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "gluten-free",
+    "high-protein",
+    "indian",
+    "one-pan",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "vegan-nutty-indian-marmite-vegetable-lentil-sambhar",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/vegan-nutty-indian-marmite-vegetable-lentil-sambhar",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:02:14Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "shaggy",
+    "mood": "date-night",
+    "technique": "ferment-jang",
+    "primaryIngredient": "marmite",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "marmite",
+    "descriptor": "Vegan Nutty",
+    "dishForm": "Vegetable Lentil Sambhar"
+  }
+}
