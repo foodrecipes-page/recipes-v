@@ -1,0 +1,95 @@
+{
+  "title": "Vibrant Vegetable Ethiopian Coriander Tibs",
+  "description": "A tangy and flavorful Ethiopian-inspired dish featuring coriander leaves, perfect for a quick weeknight meal.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "coriander leaves ",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "cabbage cut into katsuramuki pieces",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a raclette-grill or skillet over medium-high heat.",
+    "Add 1 tablespoon of oil and swirl to coat.",
+    "Add the onion and cook until translucent, about 3 minutes.",
+    "Add the red bell pepper and cook for an additional 2-3 minutes, until tender.",
+    "Add the garlic and ginger and cook for 1 minute, until fragrant.",
+    "Add the cabbage and cook until slightly wilted, about 2-3 minutes.",
+    "Add the coriander leaves and berbere spice, and stir to combine.",
+    "Cook for an additional 1-2 minutes, until the leaves are slightly wilted and the flavors have melded together.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with additional coriander leaves if desired.",
+    "Adjust seasoning as needed before serving.",
+    "Serve immediately and enjoy!",
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days, reheating as needed."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-vegan",
+    "high-fiber",
+    "low-fat",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 242,
+    "protein": 4,
+    "carbs": 32,
+    "fat": 9
+  },
+  "slug": "vibrant-vegetable-ethiopian-coriander-tibs",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-vegetable-ethiopian-coriander-tibs",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:45:39Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "bouncy-qq",
+    "mood": "weeknight",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "coriander leaves",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Coriander",
+    "descriptor": "Vibrant Vegetable",
+    "dishForm": "Tibs"
+  }
+}
