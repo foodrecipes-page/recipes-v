@@ -1,0 +1,102 @@
+{
+  "title": "Velvety Mexican Mackerel Tamales",
+  "description": "A creamy, cultured dish featuring mackerel in a nimono-simmered sauce wrapped in corn husks for a solo dinner option.",
+  "cuisine": "Mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mackerel",
+      "amount": 4
+    },
+    {
+      "name": "Corn Husks",
+      "amount": 8
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": 200
+    },
+    {
+      "name": "Canned Tomatoes",
+      "amount": 1
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": 50
+    },
+    {
+      "name": "Dijon Mustard",
+      "amount": 10
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": 250
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": 150
+    },
+    {
+      "name": "Cilantro",
+      "amount": 20
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": 2
+    },
+    {
+      "name": "Onion",
+      "amount": 1
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": 4
+    }
+  ],
+  "instructions": [
+    "Prepare the corn husks by soaking them in hot water for at least an hour.",
+    "Clean and scale the mackerel, then score its skin lightly with a sharp knife.",
+    "Heat vegetable oil in a pan over medium heat. Add onions, garlic, red bell pepper, and spices (cumin, coriander, chili powder) to sauté until softened.",
+    "Add canned tomatoes, rice vinegar, dijon mustard, chicken broth, coconut milk, mackerel, cilantro, and salt to the pan. Simmer for about 20 minutes or until thickened.",
+    "Roll each corn husk around a piece of mackerel and place in a steamer basket lined with cheesecloth.",
+    "Steam the tamales covered for approximately 15-20 minutes until cooked through and tender.",
+    "Serve hot as a solo dinner dish."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-rajasic-friendly",
+    "mackerel",
+    "nimono-simmered",
+    "tamales",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "velvety-mexican-mackerel-tamales",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-mexican-mackerel-tamales",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T18:26:31Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crunchy",
+    "mood": "solo-dinner",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "mackerel",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Mackerel",
+    "descriptor": "Velvety",
+    "dishForm": "Tamales"
+  }
+}
