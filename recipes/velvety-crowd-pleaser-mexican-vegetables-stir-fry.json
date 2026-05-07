@@ -1,0 +1,111 @@
+{
+  "title": "velvety crowd-pleaser mexican vegetables stir-fry",
+  "description": "a rich and flavorful mexican-inspired dish featuring stir-fried vegetables, perfect for a quick dinner",
+  "cuisine": "mexican",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup sliced",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup",
+      "notes": "low-fat alternative"
+    }
+  ],
+  "instructions": [
+    "heat the vegetable oil in a large skillet over medium-high heat",
+    "add the onion and bell pepper and cook until tender",
+    "add the zucchini and mushrooms and cook until tender",
+    "add the garlic, cumin, chili powder, salt, and black pepper and cook for 1 minute",
+    "stir in the sour cream and serve hot",
+    "serve immediately",
+    "garnish with chopped cilantro or scallions if desired"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "quick-dinner",
+    "stir-fry",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "velvety-crowd-pleaser-mexican-vegetables-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-crowd-pleaser-mexican-vegetables-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:18:47Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "velvety",
+    "mood": "crowd-pleaser",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "stir-fry vegetables",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "mexican",
+    "mainIngredient": "vegetables",
+    "descriptor": "velvety crowd-pleaser",
+    "dishForm": "stir-fry"
+  }
+}
