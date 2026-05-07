@@ -1,0 +1,86 @@
+{
+  "title": "Vital Spanish Pisto-Manchego Bake",
+  "description": "A kid-friendly, macrobiotic-friendly Spanish dish featuring whole wheat and wood-fired-bake method. Herbal in flavor with a glassy-jelly texture.",
+  "cuisine": "spanish (basque)",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole wheat bread crumbs",
+      "amount": 100
+    },
+    {
+      "name": "tomato puree",
+      "amount": 150
+    },
+    {
+      "name": "olive oil",
+      "amount": 75
+    },
+    {
+      "name": "mixed herbs",
+      "amount": 30
+    },
+    {
+      "name": "sour cream",
+      "amount": 20
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": 50
+    },
+    {
+      "name": "paprika",
+      "amount": 10
+    },
+    {
+      "name": "egg whites",
+      "amount": 8
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Mix tomato puree with olive oil, mixed herbs, and paprika in a bowl.",
+    "Stir in egg whites until well combined. Mix in sour cream and cheddar cheese.",
+    "Press bread crumbs into the bottom of an oven-proof dish.",
+    "Pour mixture over bread crumbs evenly. Bake for 25 minutes or until golden brown.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "glassy-jelly-texture",
+    "kids-friendly",
+    "macrobiotic-friendly",
+    "spanish-dish",
+    "whole-wheat",
+    "wood-fired-bake"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 18
+  },
+  "slug": "vital-spanish-pisto-manchego-bake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/vital-spanish-pisto-manchego-bake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T08:44:59Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "glassy-jelly",
+    "mood": "kid-friendly",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "whole wheat",
+    "diet": "macrobiotic",
+    "region": "basque",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Whole Wheat",
+    "descriptor": "Vital",
+    "dishForm": "Pisto-Manchego Whole Wheat Bake"
+  }
+}
