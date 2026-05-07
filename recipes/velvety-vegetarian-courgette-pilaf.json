@@ -1,0 +1,84 @@
+{
+  "title": "Velvety Vegetarian Courgette Pilaf",
+  "description": "A resinous and pillowy brunch dish featuring roasted courgettes in a satvik-friendly american style.",
+  "cuisine": "american",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "courgettes",
+      "amount": 4
+    },
+    {
+      "name": "onions",
+      "amount": 1
+    },
+    {
+      "name": "garlic cloves",
+      "amount": 3
+    },
+    {
+      "name": "cilantro",
+      "amount": "handful"
+    },
+    {
+      "name": "lime juice",
+      "amount": "juice of 1 lime"
+    },
+    {
+      "name": "cooking oil",
+      "amount": 20
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425 degrees F.",
+    "Cut courgettes into small cubes and onions into thin wedges.",
+    "In a pan, sauté onion and garlic with oil until translucent.",
+    "Add courgette cubes and cook for about 5 minutes.",
+    "Season with salt and pepper, then squeeze in lime juice.",
+    "Transfer to an oven-safe dish and bake for 10-12 minutes or until tender but not mushy.",
+    "Garnish with cilantro before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "courgette-pilaf",
+    "resinous-courgette",
+    "satvik-friendly"
+  ],
+  "nutrition": {
+    "calories": 375,
+    "protein": 10,
+    "carbs": 49,
+    "fat": 12
+  },
+  "slug": "velvety-vegetarian-courgette-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-vegetarian-courgette-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T21:12:37Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "pillowy",
+    "mood": "brunch-mood",
+    "technique": "roast",
+    "primaryIngredient": "courgettes",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Vegetarian",
+    "mainIngredient": "Courgettes",
+    "descriptor": "Velvety",
+    "dishForm": "Pilaf"
+  }
+}
