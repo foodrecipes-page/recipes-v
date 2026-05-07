@@ -1,0 +1,113 @@
+{
+  "title": "Vibrant Valencian Cassaba Jjigae Wrap",
+  "description": "This Spanish Galician dish features cassaba, roast, and a shojin-friendly twist, served in a corn-husk-wrap. The vibrant flavors and flaky texture make it a show-off dish.",
+  "cuisine": "galician",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cassaba",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "roast chicken",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "corn husks",
+      "amount": "4-6 wraps",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": "garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the oven to 400°F (200°C).",
+    "Peel the cassaba and cut it into 1-inch cubes.",
+    "Toss the cassaba with olive oil, smoked paprika, cumin, salt, and black pepper on a baking sheet.",
+    "Roast in the oven for 20 minutes, or until tender and lightly browned.",
+    "Shred the roast chicken into bite-sized pieces.",
+    "Heat 1 tablespoon of olive oil in a large skillet over medium heat.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the shredded chicken and cook for 2 minutes, until heated through.",
+    "Warm the corn husks by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by spooning the chicken and cassaba mixture onto the center of each husk, then topping with chopped cilantro.",
+    "Serve immediately, and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "cassaba",
+    "galician",
+    "high-protein",
+    "one-pan",
+    "shojin",
+    "spanish",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "vibrant-valencian-cassaba-jjigae-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-valencian-cassaba-jjigae-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:19:57Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "flaky",
+    "mood": "show-off",
+    "technique": "roast",
+    "primaryIngredient": "cassaba",
+    "diet": "shojin",
+    "region": "galician",
+    "cuisineAdjective": "Galician",
+    "mainIngredient": "Cassaba",
+    "descriptor": "Vibrant Valencian",
+    "dishForm": null
+  }
+}
