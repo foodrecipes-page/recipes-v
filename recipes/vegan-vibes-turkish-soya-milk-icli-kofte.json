@@ -1,0 +1,132 @@
+{
+  "title": "Vegan Vibes Turkish Soya Milk Icli Kofte",
+  "description": "A savory and tender Turkish dish made with soya milk and featuring coconut cream. This lacto-vegetarian-friendly recipe is perfect for a weeknight dinner.",
+  "cuisine": "Turkish",
+  "diet": [
+    "lacto-vegetarian",
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "soya milk",
+      "amount": "500ml",
+      "notes": ""
+    },
+    {
+      "name": "medium onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "finely chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "minced fresh mint",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "coconut cream",
+      "amount": "60g",
+      "notes": ""
+    },
+    {
+      "name": "fine bulgur",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Sauté the minced garlic for 1 minute, until fragrant.",
+    "Add the chopped onion and sauté for 3-4 minutes, until translucent.",
+    "Add the cumin, paprika, salt, and black pepper. Cook for 1 minute, stirring constantly.",
+    "Add the chopped parsley, mint, and dill. Cook for 1 minute, stirring constantly.",
+    "Add the fine bulgur and cook for 1 minute, stirring constantly.",
+    "Pour in the soya milk and bring to a boil.",
+    "Reduce the heat to low and simmer for 10-12 minutes, stirring occasionally, or until the bulgur is cooked and the liquid has been absorbed.",
+    "Stir in the coconut cream.",
+    "Form the mixture into small oval-shaped koftas and place them on a plate or tray.",
+    "Refrigerate for at least 30 minutes to help the koftas hold their shape.",
+    "Cook the koftas in the skillet over medium heat for 2-3 minutes on each side, until lightly browned and cooked through."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-cream",
+    "easy-dinner",
+    "gluten-free",
+    "lacto-vegetarian",
+    "soya-milk",
+    "turkish",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 12,
+    "carbs": 55,
+    "fat": 16
+  },
+  "slug": "vegan-vibes-turkish-soya-milk-icli-kofte",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/vegan-vibes-turkish-soya-milk-icli-kofte",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:22:32Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "tender",
+    "mood": "one-pot",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "soya milk",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "soya milk",
+    "descriptor": "Vegan Vibes",
+    "dishForm": "Icli Kofte"
+  }
+}
