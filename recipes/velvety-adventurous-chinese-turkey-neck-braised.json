@@ -1,0 +1,120 @@
+{
+  "title": "Velvety Adventurous Chinese Turkey Neck Braised",
+  "description": "A pungent, savory, and velvety Hunan-inspired dish featuring turkey neck with a touch of yuzu-cure. The rich, savory flavors pair perfectly with steamed bok choy or rice.",
+  "cuisine": "Chinese",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turkey necks (4-6)",
+      "amount": "2 pounds",
+      "notes": "You can also use a combination of necks and giblets for added flavor."
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Slice into thin strips."
+    },
+    {
+      "name": "Szechuan peppercorns",
+      "amount": "1 tablespoon",
+      "notes": "Toast in a dry pan for added depth of flavor."
+    },
+    {
+      "name": "Yuzu juice",
+      "amount": "2 tablespoons",
+      "notes": "Use fresh yuzu juice for the best flavor."
+    },
+    {
+      "name": "Dark soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-quality soy sauce for the best flavor."
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-quality soy sauce for the best flavor."
+    },
+    {
+      "name": "Hoisin sauce",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-quality hoisin sauce for the best flavor."
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tablespoon",
+      "notes": "Mix with a small amount of water to create a slurry."
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch",
+      "notes": "Chopped for garnish."
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1 bunch",
+      "notes": "Chopped for garnish."
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Add the garlic, ginger, and Szechuan peppercorns and cook until fragrant, about 2 minutes.",
+    "Add the turkey necks and cook until browned on all sides, about 5-7 minutes.",
+    "Add the yuzu juice, dark soy sauce, soy sauce, and hoisin sauce to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 hours, or until the turkey is tender and falls off the bone.",
+    "Remove the turkey from the pot and let it cool slightly.",
+    "Shred the turkey with two forks and return it to the pot.",
+    "Stir in the cornstarch slurry and cook for an additional 2 minutes, or until the sauce has thickened.",
+    "Garnish with scallions and cilantro."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "braised",
+    "chinese",
+    "easy-to-make",
+    "high-protein",
+    "hunan",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 960,
+    "protein": 64,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "velvety-adventurous-chinese-turkey-neck-braised",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-adventurous-chinese-turkey-neck-braised",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:15:11Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "velvety",
+    "mood": "adventurous",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "turkey neck",
+    "diet": "dash",
+    "region": "hunan",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "turkey neck",
+    "descriptor": "velvety adventurous",
+    "dishForm": "Braised"
+  }
+}
