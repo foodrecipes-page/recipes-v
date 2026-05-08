@@ -1,0 +1,96 @@
+{
+  "title": "Vibrant Polish Pork Casserole",
+  "description": "A comforting Polish dish featuring ginger garlic paste, pork, and vegetables in a winey sauce, all enclosed in a crispy crust, served in a tagliere and suitable for a keto diet.",
+  "cuisine": "Polish",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "ginger garlic paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, saute the onion and mushrooms in butter until the onion is translucent.",
+    "Add the pork shoulder to the skillet and cook until browned on all sides.",
+    "Add the ginger garlic paste, red wine, and beef broth to the skillet and stir to combine.",
+    "In a large bowl, combine the almond flour and egg to make the crust mixture.",
+    "Grease the tagliere with butter and add the crust mixture to the bottom and sides of the dish.",
+    "Add the pork and vegetable mixture to the tagliere and cover with the remaining crust mixture.",
+    "Bake the casserole in the preheated oven for 45 minutes.",
+    "Remove the casserole from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "keto-friendly",
+    "one-dish",
+    "polish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "vibrant-polish-pork-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-polish-pork-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:04:09Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "bouncy-qq",
+    "mood": "comforting",
+    "technique": "en-croute",
+    "primaryIngredient": "ginger garlic paste",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "pork",
+    "descriptor": "Vibrant Bouncy",
+    "dishForm": "Casserole"
+  }
+}
