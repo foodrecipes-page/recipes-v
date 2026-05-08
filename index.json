@@ -5778,6 +5778,21 @@
     "shard": "v"
   },
   {
+    "slug": "vibrant-light-american-eggs-frittata",
+    "title": "Vibrant Light American Eggs Frittata",
+    "tags": [
+      "american",
+      "breakfast",
+      "high-protein",
+      "one-pan",
+      "pescatarian",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 40,
+    "shard": "v"
+  },
+  {
     "slug": "vibrant-light-ethiopian-lettuce-dabo",
     "title": "Vibrant Light Ethiopian Lettuce Dabo",
     "tags": [
