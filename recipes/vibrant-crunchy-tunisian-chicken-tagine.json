@@ -1,0 +1,108 @@
+{
+  "title": "Vibrant Crunchy Tunisian Chicken Tagine",
+  "description": "A nutty and crunchy Tunisian dish featuring pine nuts, perfect for a date night, and can be made nut-free friendly, served in a bento box.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1/4 cup",
+      "notes": "or substitute with sunflower seeds for nut-free option"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dates",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "spices",
+      "amount": "1 teaspoon",
+      "notes": "including cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the chicken breast with salt, black pepper, and spices.",
+    "Heat the olive oil in a large skillet over medium-high heat and sear the chicken breast until browned on both sides.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the chopped onion to the skillet and cook until translucent.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "Add the pine nuts to the skillet and cook until lightly toasted.",
+    "Add the chicken broth to the skillet and deglaze, scraping up any browned bits from the bottom.",
+    "Add the pitted dates to the skillet and stir to combine.",
+    "Return the chicken breast to the skillet and spoon some of the sauce over the top.",
+    "Transfer the skillet to the preheated oven and bake for 25 minutes or until the chicken is cooked through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "bento-box",
+    "dairy-free",
+    "date-night",
+    "gluten-free",
+    "middle-eastern",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "vibrant-crunchy-tunisian-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-crunchy-tunisian-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:25:23Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "deglaze",
+    "primaryIngredient": "pine nuts",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "chicken",
+    "descriptor": "Vibrant crunchy",
+    "dishForm": "Tagine"
+  }
+}
