@@ -1,0 +1,101 @@
+{
+  "title": "Vibrant Smoky American Yautia Wrap",
+  "description": "A smoky and creamy American dish featuring yautia, wrapped in a pandan leaf wrap, perfect for a lunch or snack",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yautia",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4 large",
+      "notes": "for wrapping"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat and add the olive oil",
+    "Add the diced yautia to the skillet and cook for 5 minutes, or until tender",
+    "Add the minced garlic to the skillet and cook for an additional 1 minute",
+    "Stir in the smoked paprika, salt, and black pepper",
+    "In a small bowl, mix together the Greek yogurt and a pinch of salt and pepper",
+    "To assemble the wrap, lay a pandan leaf flat on a work surface",
+    "Spoon the yautia mixture onto the center of the pandan leaf",
+    "Top the yautia mixture with a dollop of the yogurt mixture",
+    "Garnish with chopped fresh cilantro and serve immediately"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "gluten-free",
+    "lunch",
+    "pandan",
+    "smoky",
+    "vegetarian",
+    "yautia"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "vibrant-smoky-american-yautia-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-smoky-american-yautia-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:44:13Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "creamy",
+    "mood": "energizing",
+    "technique": "saute",
+    "primaryIngredient": "yautia",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "yautia",
+    "descriptor": "Vibrant Smoky",
+    "dishForm": "Wrap"
+  }
+}
