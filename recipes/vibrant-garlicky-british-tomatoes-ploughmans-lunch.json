@@ -1,0 +1,93 @@
+{
+  "title": "Vibrant Garlicky British Tomatoes Ploughmans Lunch",
+  "description": "A traditional British dish originating from Yorkshire, this ploughman's lunch features garlicky, chewy, and flavorful ingredients, including tomatoes and bonito flakes, all shojin-friendly.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "4 medium",
+      "notes": "preferably vine-ripened"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Slice the whole wheat bread into 1-inch thick slices and toast until lightly browned.",
+    "Butter each slice of toasted bread.",
+    "Mince the garlic cloves and sprinkle over the buttered bread.",
+    "Slice the tomatoes into 1/2-inch thick slices and place on top of the garlic.",
+    "Sprinkle bonito flakes over the tomatoes.",
+    "Drizzle apple cider vinegar over the bonito flakes.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british-cuisine",
+    "garlicky",
+    "lunch-ideas",
+    "ploughmans-lunch",
+    "shojin-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "vibrant-garlicky-british-tomatoes-ploughmans-lunch",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-garlicky-british-tomatoes-ploughmans-lunch",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:43:52Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "chewy",
+    "mood": "sick-day",
+    "technique": "bonito-shave",
+    "primaryIngredient": "tomatoes",
+    "diet": "shojin",
+    "region": "yorkshire",
+    "cuisineAdjective": "British",
+    "mainIngredient": "tomatoes",
+    "descriptor": "vibrant garlicky",
+    "dishForm": "Ploughmans Lunch"
+  }
+}
