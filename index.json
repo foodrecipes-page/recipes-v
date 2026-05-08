@@ -6084,6 +6084,20 @@
     "shard": "v"
   },
   {
+    "slug": "vibrant-crunchy-italian-chuck-roast-trofie",
+    "title": "Vibrant Crunchy Italian Chuck Roast Trofie",
+    "tags": [
+      "comfort-food",
+      "italian-food",
+      "one-pot",
+      "paleo-diet",
+      "slow-cooker"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 180,
+    "shard": "v"
+  },
+  {
     "slug": "vibrant-crunchy-jamaican-cornmeal-bake",
     "title": "Vibrant Crunchy Jamaican Cornmeal Bake",
     "tags": [
@@ -6316,6 +6330,23 @@
     ],
     "cuisine": "Argentinian",
     "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-garlicky-brazilian-cheese-wrap",
+    "title": "Vibrant Garlicky Brazilian Cheese Wrap",
+    "tags": [
+      "brazilian-food",
+      "cheese-lovers",
+      "easy-snacks",
+      "garlic-delight",
+      "orange-juice",
+      "ovo-vegetarian",
+      "quick-meals",
+      "ssam-wrap"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 15,
     "shard": "v"
   },
   {

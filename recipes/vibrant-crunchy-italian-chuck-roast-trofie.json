@@ -1,0 +1,100 @@
+{
+  "title": "Vibrant Crunchy Italian Chuck Roast Trofie",
+  "description": "A floral and crunchy Italian dish featuring chuck roast, cooked in a ttukbaegi earthenware pot and served with trofie pasta, perfect for a cozy dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chuck roast",
+      "amount": "2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "trofie pasta",
+      "amount": "12 ounces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 sprig"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the chuck roast with sea salt and black pepper.",
+    "Heat the olive oil in a ttukbaegi earthenware pot over medium high heat.",
+    "Sear the chuck roast until browned on all sides, then remove from the pot.",
+    "Add the garlic, rosemary, and thyme to the pot and cook until fragrant.",
+    "Add the trofie pasta to the pot and cook until lightly toasted.",
+    "Return the chuck roast to the pot and add the lemon zest and pine nuts.",
+    "Cover the pot and transfer to the preheated oven.",
+    "Braise the chuck roast for 2 1/2 hours, or until tender.",
+    "Serve the chuck roast with the trofie pasta and sauce, garnished with additional rosemary and lemon zest if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "italian-food",
+    "one-pot",
+    "paleo-diet",
+    "slow-cooker"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "vibrant-crunchy-italian-chuck-roast-trofie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-crunchy-italian-chuck-roast-trofie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:11:08Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crunchy",
+    "mood": "cozy",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "chuck roast",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "chuck roast",
+    "descriptor": "Vibrant crunchy",
+    "dishForm": "Trofie"
+  }
+}

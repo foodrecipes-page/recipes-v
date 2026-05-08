@@ -1,0 +1,95 @@
+{
+  "title": "Vibrant Garlicky Brazilian Cheese Wrap",
+  "description": "A romantic Brazilian dish featuring garlicky and crumbly cheese, wrapped in a ssam-wrap and infused with orange juice, perfect for a snack or light meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Brazilian cheese",
+      "amount": "1 cup",
+      "notes": "crumbly, such as queijo coalho"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "orange juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ssam-wrap",
+      "amount": "4 sheets"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat and add the olive oil.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the crumbly Brazilian cheese and cook, stirring occasionally, until melted and slightly browned.",
+    "Stir in the orange juice, salt, and black pepper.",
+    "Warm the ssam-wrap sheets by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Spoon about 1/4 cup of the cheese mixture onto the center of each ssam-wrap sheet.",
+    "Fold the bottom half of the ssam-wrap up over the filling, then fold in the sides and roll up to form a tight cylinder.",
+    "Serve the wraps hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian-food",
+    "cheese-lovers",
+    "easy-snacks",
+    "garlic-delight",
+    "orange-juice",
+    "ovo-vegetarian",
+    "quick-meals",
+    "ssam-wrap"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "vibrant-garlicky-brazilian-cheese-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-garlicky-brazilian-cheese-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:11:39Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "romantic",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "orange juice",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "cheese",
+    "descriptor": "vibrant garlicky",
+    "dishForm": "Wrap"
+  }
+}
