@@ -1,0 +1,99 @@
+{
+  "title": "Vividly Smoky Japanese Cabbage Okonomiyaki",
+  "description": "A nostalgic Japanese dish from the Kansai region, featuring roasted cabbage and a smoky flavor, made jain-friendly and served in the form of okonomiyaki, with a glassy-jelly texture and a spicy kick from hotsauce.",
+  "cuisine": "Japanese",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 large head",
+      "notes": "shredded"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "hotsauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "green onion",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, water, hotsauce, smoked paprika, salt, and black pepper.",
+    "Add the shredded cabbage to the bowl and mix until the cabbage is well coated with the batter.",
+    "Heat the sesame oil in a large non-stick skillet over medium heat.",
+    "Using a 1/4 cup measuring cup, scoop the cabbage mixture into the skillet and shape into a round okonomiyaki.",
+    "Cook the okonomiyaki for 4 minutes on the first side, until the bottom is golden brown.",
+    "Flip the okonomiyaki and cook for an additional 4 minutes, until the other side is also golden brown.",
+    "Transfer the okonomiyaki to a baking sheet and bake in the preheated oven for 10 minutes, until crispy and golden brown.",
+    "Remove the okonomiyaki from the oven and top with chopped green onion.",
+    "Serve the okonomiyaki hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jain-friendly",
+    "japanese-cuisine",
+    "okonomiyaki-recipe",
+    "one-pan-meal",
+    "smoky-flavor",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "vividly-smoky-japanese-cabbage-okonomiyaki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vividly-smoky-japanese-cabbage-okonomiyaki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:38:46Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "glassy-jelly",
+    "mood": "nostalgic",
+    "technique": "smoke",
+    "primaryIngredient": "hotsauce",
+    "diet": "jain",
+    "region": "kansai",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "cabbage",
+    "descriptor": "Vividly Smoky",
+    "dishForm": "Okonomiyaki"
+  }
+}
