@@ -1,0 +1,106 @@
+{
+  "title": "Vibrant Crunchy Portuguese Lentil Stew",
+  "description": "A hearty and comforting Portuguese lentil stew with a crunchy twist, perfect for a sick day, featuring sherry and fermented flavors in a Jain-friendly dish, where the dough is kneaded to create a crispy crust.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "sherry",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "kale",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "1 loaf",
+      "notes": "for kneading and crust"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fermented vegetable broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large pot, heat the olive oil over medium heat and saute the onion and garlic until softened.",
+    "Add the sherry and cook until the liquid is almost completely reduced.",
+    "Add the lentils, kale, salt, and pepper, and stir to combine.",
+    "Pour in the fermented vegetable broth and bring to a boil, then reduce the heat and simmer for 30 minutes.",
+    "While the stew is cooking, knead the whole wheat bread until it becomes pliable and easy to shape.",
+    "Shape the bread into a crust and place it on top of the stew.",
+    "Transfer the pot to the preheated oven and bake for 20 minutes, or until the crust is golden brown and crispy.",
+    "Remove the pot from the oven and let it cool for a few minutes before serving.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-fiber",
+    "jain-friendly",
+    "one-pot",
+    "portuguese-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "vibrant-crunchy-portuguese-lentil-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-crunchy-portuguese-lentil-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:58:27Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crunchy",
+    "mood": "sick-day",
+    "technique": "knead",
+    "primaryIngredient": "sherry",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "lentils",
+    "descriptor": "Vibrant Crunchy",
+    "dishForm": "Stew"
+  }
+}
