@@ -1,0 +1,95 @@
+{
+  "title": "Vibrant Caramelized Venezuelan Yukon Gold Potatoes Hash",
+  "description": "A mustardy and snappy Venezuelan dish featuring caramelized Yukon gold potatoes, perfect for a sick day, this low-calorie-friendly recipe is a delicious and healthy option.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Yukon gold potatoes",
+      "amount": "4 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "yellow mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the diced potatoes with 1 tablespoon of olive oil, salt, black pepper, and garlic powder until they are evenly coated.",
+    "Spread the potatoes out in a single layer on a baking sheet and roast in the oven for 20 minutes.",
+    "While the potatoes are roasting, heat the remaining 1 tablespoon of olive oil in a large skillet over medium heat.",
+    "Add the diced onion to the skillet and cook until it is translucent and starting to caramelize, about 8 minutes.",
+    "Add the roasted potatoes to the skillet with the onion and cook for an additional 2 minutes, stirring frequently.",
+    "Stir in the yellow mustard and cook for 1 minute, until the potatoes are well coated.",
+    "Remove the skillet from the heat and stir in the chopped cilantro.",
+    "Serve the potato hash hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "low-calorie",
+    "one-pan",
+    "venezuelan-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "vibrant-caramelized-venezuelan-yukon-gold-potatoes-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-caramelized-venezuelan-yukon-gold-potatoes-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:16:33Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "snappy",
+    "mood": "sick-day",
+    "technique": "caramelize",
+    "primaryIngredient": "yukon gold potatoes",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "yukon gold potatoes",
+    "descriptor": "Vibrant Caramelized",
+    "dishForm": "Hash"
+  }
+}
