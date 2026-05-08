@@ -1,0 +1,84 @@
+{
+  "title": "Velvety Wilted Broccoli Crumble",
+  "description": "A winey and crumbly post-workout Dutch dish featuring vegetable stock deglazed with red wine. Vegetarian-friendly.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup broccoli florets",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1/4 cup red wine",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 teaspoon kosher salt",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "1/8 teaspoon black pepper",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "2 cups water",
+      "amount": "cups"
+    },
+    {
+      "name": "5 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1/4 cup all-purpose flour",
+      "amount": "cup"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a saucepan over medium heat.",
+    "Add broccoli and cook until wilted, about 3 minutes.",
+    "Deglaze with red wine, scraping the bottom of the pan to loosen any brown bits.",
+    "Stir in water, garlic, salt, pepper, and flour. Bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15 minutes or until thickened.",
+    "Serve warm as a side dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "light-entree",
+    "simple-dish",
+    "vegan-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 128,
+    "protein": 6,
+    "carbs": 9,
+    "fat": 5
+  },
+  "slug": "velvety-wilted-broccoli-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-wilted-broccoli-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-08T04:25:18Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "deglaze",
+    "primaryIngredient": "vegetable stock",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Winey",
+    "mainIngredient": "Broccoli",
+    "descriptor": "Vegetarian-friendly",
+    "dishForm": "Crumble"
+  }
+}
