@@ -5653,6 +5653,21 @@
     "shard": "v"
   },
   {
+    "slug": "vibrant-brazilian-cheese-toast",
+    "title": "Vibrant Brazilian Cheese Toast",
+    "tags": [
+      "brazilian-cuisine",
+      "brunch-recipe",
+      "cheese-toast",
+      "copper-mug",
+      "gluten-free",
+      "vegetarian"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 20,
+    "shard": "v"
+  },
+  {
     "slug": "vibrant-brazilian-vegetable-pilaf",
     "title": "Vibrant Brazilian Vegetable Pilaf",
     "tags": [

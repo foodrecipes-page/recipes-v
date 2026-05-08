@@ -1,0 +1,94 @@
+{
+  "title": "Vibrant Brazilian Cheese Toast",
+  "description": "A tangy and cheesy Brazilian dish featuring Shaoxing wine, perfect for a brunch mood, served in a copper mug. This ayurvedic-sattvic-friendly recipe is a unique twist on traditional cheese toast.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "shaoxing wine",
+      "amount": "2 tablespoons",
+      "notes": "or substitute with dry white wine"
+    },
+    {
+      "name": "brazilian cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a small bowl, whisk together Shaoxing wine and lemon juice.",
+    "Brush the coconut oil onto each slice of whole wheat bread.",
+    "Place the bread slices onto a baking sheet lined with parchment paper.",
+    "Sprinkle the shredded Brazilian cheese evenly over the bread slices.",
+    "Drizzle the Shaoxing wine mixture over the cheese.",
+    "Season with salt and black pepper to taste.",
+    "Bake in the preheated oven for 10 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and sprinkle with chopped fresh cilantro.",
+    "Serve immediately in a copper mug."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian-cuisine",
+    "brunch-recipe",
+    "cheese-toast",
+    "copper-mug",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 16
+  },
+  "slug": "vibrant-brazilian-cheese-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-brazilian-cheese-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:26:39Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "cheese-pull",
+    "mood": "brunch-mood",
+    "technique": "toast",
+    "primaryIngredient": "shaoxing wine",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "cheese",
+    "descriptor": "vibrant cheesy",
+    "dishForm": "Toast"
+  }
+}
