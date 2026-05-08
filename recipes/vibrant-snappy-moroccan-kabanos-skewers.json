@@ -1,0 +1,101 @@
+{
+  "title": "Vibrant Snappy Moroccan Kabanos Skewers",
+  "description": "A malty and snappy solo dinner dish featuring Polish kabanos, infused oil, and Mediterranean friendly flavors, cooked to perfection on a tava griddle.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kabanos sausage",
+      "amount": "12 slices",
+      "notes": "Polish sausage"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "infused with garlic and herbs"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "malty syrup",
+      "amount": "2 tbsp",
+      "notes": "date syrup or honey"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the tava griddle to medium high heat.",
+    "Thread kabanos slices, red bell pepper, and onion onto skewers.",
+    "Brush the skewers with infused olive oil and season with paprika, salt, and black pepper.",
+    "Cook the skewers for 10 minutes, turning occasionally.",
+    "Brush the skewers with malty syrup during the last 2 minutes of cooking.",
+    "Serve the skewers hot with a squeeze of lemon juice.",
+    "Garnish with fresh parsley or cilantro if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "gluten-free",
+    "meat-based",
+    "mediterranean",
+    "one-pan",
+    "quick",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "vibrant-snappy-moroccan-kabanos-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-snappy-moroccan-kabanos-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:20:41Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "snappy",
+    "mood": "solo-dinner",
+    "technique": "infuse-oil",
+    "primaryIngredient": "polish kabanos",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "kabanos",
+    "descriptor": "Vibrant snappy",
+    "dishForm": "Skewers"
+  }
+}
