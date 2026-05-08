@@ -1,0 +1,100 @@
+{
+  "title": "Vibrant Light Mediterranean Pappardelle Pasta",
+  "description": "A light and refreshing Mediterranean dish featuring pappardelle pasta, perfect for a lazy Sunday, with a grassy and emulsified sauce that is raw-friendly.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pappardelle pasta",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pappardelle pasta according to the package instructions until al dente.",
+    "In a large bowl, whisk together the olive oil, lemon juice, garlic, salt, and black pepper to create an emulsified sauce.",
+    "Add the chopped fresh basil to the bowl and stir to combine.",
+    "Drain the cooked pappardelle pasta and add it to the bowl, tossing to coat the pasta with the sauce.",
+    "Stir in the grated parmesan cheese until well combined.",
+    "Add the halved cherry tomatoes to the bowl and toss gently to combine.",
+    "Season the pasta with additional salt and black pepper to taste.",
+    "Serve the Vibrant Light Mediterranean Pappardelle Pasta immediately, garnished with additional basil if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "lazy-sunday",
+    "light-meal",
+    "mediterranean",
+    "pasta",
+    "raw-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "vibrant-light-mediterranean-pappardelle-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-light-mediterranean-pappardelle-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:00:18Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "light",
+    "mood": "lazy-sunday",
+    "technique": "emulsify",
+    "primaryIngredient": "pappardelle pasta",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "pappardelle",
+    "descriptor": "Vibrant Light",
+    "dishForm": "Pasta"
+  }
+}
