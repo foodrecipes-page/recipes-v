@@ -1,0 +1,96 @@
+{
+  "title": "Velvety Soothing British Vanilla Victoria Sponge",
+  "description": "A classic British dessert featuring vanilla extract and a hint of smokiness, perfect for a sick day pick-me-up",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "large eggs",
+      "amount": "4",
+      "notes": "room temperature"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "pure vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked sea salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/4 teaspoon",
+      "notes": "anti-inflammatory properties"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit and grease two 8-inch round cake pans",
+    "In a medium bowl, whisk together the flour, baking powder, and smoked sea salt",
+    "In a large bowl, use an electric mixer to beat the eggs and sugar until light and fluffy",
+    "Add the softened butter to the egg mixture and beat until well combined",
+    "Gradually add the flour mixture to the egg mixture and beat until smooth",
+    "Divide the batter evenly between the prepared pans and smooth the tops",
+    "Bake for 20-25 minutes or until a toothpick inserted into the center comes out clean",
+    "Allow the cakes to cool in the pans for 5 minutes before transferring to a wire rack to cool completely",
+    "Once the cakes are cool, use a serrated knife to level them if necessary",
+    "Place one cake layer on a serving plate and spread a layer of jam or preserves on top",
+    "Place the second cake layer on top and dust with powdered sugar"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "british-classics",
+    "comfort-food",
+    "smoky-flavors",
+    "vanilla-lovers",
+    "weekend-baking"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "velvety-soothing-british-vanilla-victoria-sponge",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-soothing-british-vanilla-victoria-sponge",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:05:32Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "pillowy",
+    "mood": "sick-day",
+    "technique": "smoke",
+    "primaryIngredient": "vanilla extract",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "vanilla",
+    "descriptor": "velvety soothing",
+    "dishForm": "Victoria Sponge"
+  }
+}
