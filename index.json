@@ -2269,6 +2269,21 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-german-hake-stew",
+    "title": "Velvety German Hake Stew",
+    "tags": [
+      "comfort-food",
+      "diabetic-friendly",
+      "german-cuisine",
+      "gluten-free",
+      "one-pot",
+      "seafood-stew"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 60,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-german-pork-skewers",
     "title": "Velvety German Pork Skewers",
     "tags": [

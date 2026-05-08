@@ -1,0 +1,106 @@
+{
+  "title": "Velvety German Hake Stew",
+  "description": "A comforting and winey German dish featuring hake, cooked to perfection in a fondue pot, suitable for diabetic diets. This recipe uses sous-vide cooking for a velvety texture.",
+  "cuisine": "German",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hake fillets",
+      "amount": "4 fillets",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "fish stock",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 130 degrees Fahrenheit.",
+    "Season the hake fillets with salt and pepper.",
+    "Place the hake fillets in a sous-vide bag with white wine, fish stock, onion, carrot, celery, and garlic.",
+    "Seal the bag and cook for 30 minutes.",
+    "Remove the bag from the sous-vide machine and carefully open it.",
+    "Transfer the contents to a fondue pot and add lemon juice.",
+    "Simmer the stew over low heat for 10 minutes.",
+    "Stir in chopped parsley and serve hot.",
+    "Serve with crusty bread or over mashed potatoes.",
+    "Garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "diabetic-friendly",
+    "german-cuisine",
+    "gluten-free",
+    "one-pot",
+    "seafood-stew"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "velvety-german-hake-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-german-hake-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:14:38Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "molten",
+    "mood": "comforting",
+    "technique": "sous-vide",
+    "primaryIngredient": "hake",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "hake",
+    "descriptor": "Velvety Winey",
+    "dishForm": "Stew"
+  }
+}
