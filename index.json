@@ -5713,6 +5713,21 @@
     "shard": "v"
   },
   {
+    "slug": "vibrant-citrusy-dutch-smoked-salmon-salad",
+    "title": "Vibrant Citrusy Dutch Smoked Salmon Salad",
+    "tags": [
+      "dutch-cuisine",
+      "gluten-free",
+      "high-protein",
+      "nut-free",
+      "one-bowl",
+      "weeknight"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 50,
+    "shard": "v"
+  },
+  {
     "slug": "vibrant-citrusy-greek-sausages-saganaki",
     "title": "Vibrant Citrusy Greek Sausages Saganaki",
     "tags": [
@@ -6347,6 +6362,20 @@
     ],
     "cuisine": "Jamaican",
     "totalTimeMin": 85,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-japanese-fruit-mix-parfait",
+    "title": "Vibrant Japanese Fruit Mix Parfait",
+    "tags": [
+      "easy-to-make",
+      "fruit-based",
+      "japanese-dessert",
+      "refreshing",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 40,
     "shard": "v"
   },
   {

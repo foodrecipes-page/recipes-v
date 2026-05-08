@@ -1,0 +1,105 @@
+{
+  "title": "Vibrant Citrusy Dutch Smoked Salmon Salad",
+  "description": "A refreshing and romantic Dutch dish featuring smoked salmon, citrus, and crunchy elements, perfect for a light lunch or dinner, and safe for those with nut allergies.",
+  "cuisine": "Dutch",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked Salmon",
+      "amount": "12 oz",
+      "notes": "sliced into thin pieces"
+    },
+    {
+      "name": "Mixed Greens",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Orange",
+      "amount": "2",
+      "notes": "peeled and segmented"
+    },
+    {
+      "name": "Grapefruit",
+      "amount": "1",
+      "notes": "peeled and segmented"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the mixed greens, orange segments, grapefruit segments, and thinly sliced red onion.",
+    "In a small bowl, whisk together the lemon juice and olive oil to make the dressing.",
+    "Season the dressing with salt and pepper to taste.",
+    "Drizzle the dressing over the salad and toss to combine.",
+    "Arrange the smoked salmon slices on top of the salad.",
+    "Sprinkle the chopped fresh dill over the salmon.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the salad a gentle toss to redistribute the ingredients.",
+    "Serve the salad chilled, garnished with additional dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dutch-cuisine",
+    "gluten-free",
+    "high-protein",
+    "nut-free",
+    "one-bowl",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "vibrant-citrusy-dutch-smoked-salmon-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-citrusy-dutch-smoked-salmon-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:27:41Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "steam",
+    "primaryIngredient": "smoked salmon",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "smoked salmon",
+    "descriptor": "vibrant citrusy",
+    "dishForm": "Salad"
+  }
+}

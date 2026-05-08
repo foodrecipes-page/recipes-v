@@ -1,0 +1,94 @@
+{
+  "title": "Vibrant Japanese Fruit Mix Parfait",
+  "description": "A sweet and refreshing Japanese dessert featuring a mix of seasonal fruits and glassy jelly, perfect for warm weather.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Kanten jelly",
+      "amount": "1 package",
+      "notes": "dried"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mixed seasonal fruits",
+      "amount": "2 cups",
+      "notes": "such as strawberries, blueberries, and kiwi"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Ice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Matcha powder",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the dried Kanten jelly in cold water, then soak it in water for 4 hours.",
+    "Drain and rinse the soaked jelly, then cut it into small pieces.",
+    "Combine the jelly pieces and water in a saucepan and bring to a boil.",
+    "Reduce the heat and simmer for 10 minutes, or until the jelly is dissolved.",
+    "Add the sugar to the saucepan and stir until it is fully dissolved.",
+    "Remove the saucepan from the heat and let it cool to room temperature.",
+    "Once the jelly mixture has cooled, refrigerate it until it is chilled and set.",
+    "Cut the mixed seasonal fruits into bite-sized pieces and set them aside.",
+    "To assemble the parfait, layer the jelly, fruits, and coconut milk in a glass or bowl.",
+    "Sprinkle sesame seeds and matcha powder on top of the parfait.",
+    "Place the parfait in an ice bath to chill and set for at least 30 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "fruit-based",
+    "japanese-dessert",
+    "refreshing",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "vibrant-japanese-fruit-mix-parfait",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-japanese-fruit-mix-parfait",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:27:10Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "glassy-jelly",
+    "mood": "light",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "fruit mix",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "fruit mix",
+    "descriptor": "Vibrant",
+    "dishForm": "Parfait"
+  }
+}
