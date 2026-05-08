@@ -1,0 +1,92 @@
+{
+  "title": "Velvety Polish Chocolate Bake",
+  "description": "A rich and cozy Polish dessert featuring charred, velvety plain chocolate and bhuna spices, made with gluten-free-friendly ingredients.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "plain chocolate",
+      "amount": "200g",
+      "notes": "broken into pieces"
+    },
+    {
+      "name": "bhuna spice mix",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "gluten-free flour",
+      "amount": "100g"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "100g",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "150g"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "100ml"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180 degrees Celsius.",
+    "In a medium bowl, whisk together the gluten-free flour and bhuna spice mix.",
+    "In a large bowl, melt the chocolate in the microwave in 30-second increments, stirring between each interval.",
+    "In a separate bowl, whisk together the eggs, sugar, and vanilla extract.",
+    "Add the melted chocolate to the egg mixture and whisk until smooth.",
+    "Add the flour mixture to the chocolate mixture and whisk until just combined.",
+    "Pour in the heavy cream and melted butter, and whisk until the batter is smooth.",
+    "Pour the batter into a 20cm round baking dish and bake for 35 minutes.",
+    "Remove the bake from the oven and let it cool for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bhuna-spices",
+    "chocolate-bake",
+    "cozy-treats",
+    "gluten-free",
+    "polish-dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "velvety-polish-chocolate-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-polish-chocolate-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:51:30Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "velvety",
+    "mood": "cozy",
+    "technique": "bhuna",
+    "primaryIngredient": "plain chocolate",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "chocolate",
+    "descriptor": "velvety",
+    "dishForm": "Bake"
+  }
+}
