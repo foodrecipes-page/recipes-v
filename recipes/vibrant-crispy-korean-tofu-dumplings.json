@@ -1,0 +1,100 @@
+{
+  "title": "Vibrant Crispy Korean Tofu Dumplings",
+  "description": "A garlicky and crispy Korean dish featuring soy milk and leaf-wrap-steam, perfect for meal prep and FODMAP-friendly diets",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and crumbled"
+    },
+    {
+      "name": "soy milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "napa cabbage leaves",
+      "amount": "12 leaves"
+    }
+  ],
+  "instructions": [
+    "In a blender, combine soy milk, garlic, sesame oil, rice vinegar, Gochujang, salt, and black pepper, and blend until smooth",
+    "In a large bowl, combine the crumbled tofu and the blended mixture, and mix until well combined",
+    "Lay a napa cabbage leaf flat on a work surface, and place about 1 tablespoon of the tofu mixture in the center of the leaf",
+    "Fold the stem end of the leaf over the filling, then fold in the sides and roll the leaf into a tight cylinder",
+    "Repeat with the remaining leaves and filling",
+    "In a large skillet, heat about 1/2 inch of sesame oil over medium-high heat",
+    "When the oil is hot, add a few of the dumplings to the skillet, being careful not to overcrowd",
+    "Cook the dumplings for about 3-4 minutes on each side, until they are crispy and golden brown",
+    "Repeat with the remaining dumplings",
+    "Serve the dumplings hot, garnished with chopped green onions and a drizzle of soy sauce"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "fodmap-friendly",
+    "garlicky",
+    "gluten-free",
+    "korean-food",
+    "meal-prep",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "vibrant-crispy-korean-tofu-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-crispy-korean-tofu-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:50:08Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "soy milk",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "tofu",
+    "descriptor": "Vibrant Crispy",
+    "dishForm": "Dumplings"
+  }
+}
