@@ -1,0 +1,91 @@
+{
+  "title": "Velvety Croatian Pork Wrap",
+  "description": "A kid-friendly Croatian dish featuring dark soy sauce and score-fat, wrapped in a ti-leaf for a fun and unique meal. This dish is perfect for a weeknight dinner or a special occasion.",
+  "cuisine": "Croatian",
+  "diet": [
+    "pork",
+    "soy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "fatty cuts work best"
+    },
+    {
+      "name": "dark soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "score-fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ti-leaves",
+      "amount": "4-6 leaves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Score the pork shoulder in a crisscross pattern and season with salt and black pepper.",
+    "Wrap the pork shoulder in foil and roast for 2 hours.",
+    "Remove the pork from the oven and let it rest for 10 minutes.",
+    "Shred the pork into bite-sized pieces and mix with dark soy sauce and score-fat.",
+    "Add diced onion and minced garlic to the pork mixture and stir to combine.",
+    "Wrap the pork mixture in ti-leaves, making sure to seal the edges tightly.",
+    "Serve the wraps hot, garnished with additional soy sauce and score-fat if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "croatian-cuisine",
+    "family-friendly",
+    "one-pan",
+    "pork-recipes"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "velvety-croatian-pork-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-croatian-pork-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:59:37Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "shaggy",
+    "mood": "kid-friendly",
+    "technique": "score-fat",
+    "primaryIngredient": "dark soy sauce",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "pork",
+    "descriptor": "velvety fatty",
+    "dishForm": "Wrap"
+  }
+}
