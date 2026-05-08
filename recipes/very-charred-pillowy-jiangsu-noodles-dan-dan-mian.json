@@ -1,0 +1,114 @@
+{
+  "title": "Very Charred, Pillowy Jiangsu Noodles Dan-Dan-Mian",
+  "description": "Charred, pillowy Jiangsu noodles in a savory dan-dan-mian sauce, wrapped in a pandan leaf.",
+  "cuisine": "jiangsu",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "strong white flour",
+      "amount": "2 cups",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": "brine-wet"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "6-8",
+      "notes": "for wrapping"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "ginger",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Dan-Dan sauce",
+      "amount": "1/2 cup",
+      "notes": "available at Asian markets"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine strong white flour and warm water to form a dough.",
+    "Knead the dough for 10-15 minutes until it becomes smooth and elastic.",
+    "Cover the dough with plastic wrap and let it rest for 30 minutes.",
+    "Divide the dough into 4 equal pieces and roll each piece into a thin sheet.",
+    "Heat a non-stick pan over medium-high heat and cook the noodles until they are charred and pillowy.",
+    "In a separate pan, heat sesame oil over medium heat and add grated ginger and minced garlic.",
+    "Stir-fry the ginger and garlic mixture until fragrant, then add soy sauce and rice vinegar.",
+    "Stir-fry the sauce mixture until it thickens, then add Dan-Dan sauce and stir-fry for another minute.",
+    "To assemble the noodles, place a sheet of cooked noodles on a pandan leaf and add a spoonful of sauce mixture.",
+    "Garnish with sesame seeds and chopped scallions, then fold the pandan leaf to form a wrap."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "very-charred-pillowy-jiangsu-noodles-dan-dan-mian",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/very-charred-pillowy-jiangsu-noodles-dan-dan-mian",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T10:11:17Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "pillowy",
+    "mood": "kid-friendly",
+    "technique": "brine-wet",
+    "primaryIngredient": "strong white flour",
+    "diet": "ayurvedic-rajasic",
+    "region": "jiangsu",
+    "cuisineAdjective": "Jiangsu",
+    "mainIngredient": "noodles",
+    "descriptor": "Very Charred, Pillowy",
+    "dishForm": "Dan-Dan-Mian"
+  }
+}
