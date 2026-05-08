@@ -1,0 +1,117 @@
+{
+  "title": "Vividly Caramelized Chinese Pitted Dates Jjigae",
+  "description": "Briny, crisp, festive Chinese dish featuring pitted dates, sous-vide, raw-friendly, inspired by Buddha Jumps Over the Wall, iron teppan cooking vessel ",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pitted dates",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "4",
+      "notes": "chopped"
+    },
+    {
+      "name": "Furikake",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Prepare iron teppan pan at 400\u00020\u001415\u001273\u001457\u0015aF.",
+    "Season pitted dates with salt and set aside.",
+    "Heat sesame oil in iron teppan pan over medium heat, add ginger and garlic. Cook for 3 minutes until fragrant.",
+    "Add soy sauce, brown sugar, rice vinegar, chili flakes, and black pepper to iron teppan pan and stir to combine. ",
+    "Add pitted dates to iron teppan pan and stir to coat in sauce. Cook for 5 minutes, until caramelized. ",
+    "Stir in furikake and scallions. Cook for 1 minute until combined. ",
+    "Serve immediately. ",
+    "Cook sous-vide sous vide water bath at 195\u001418\u0015dF. ",
+    "Set aside to cool. ",
+    "Place cooked pitted dates in sous-vide water bath to warm. ",
+    "Serve pitted dates in iron teppan pan. ",
+    "Garnish with additional furikake and scallions, if desired."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 20,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "sous-vide",
+    "under-30",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "vividly-caramelized-chinese-pitted-dates-jjigae",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/vividly-caramelized-chinese-pitted-dates-jjigae",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:25:23Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crisp",
+    "mood": "festive",
+    "technique": "sous-vide",
+    "primaryIngredient": "pitted dates",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pitted dates",
+    "descriptor": "Vividly caramelized",
+    "dishForm": "Jjigae"
+  }
+}
