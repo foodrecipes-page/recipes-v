@@ -7461,6 +7461,21 @@
     "shard": "v"
   },
   {
+    "slug": "vibrant-spicy-chinese-tofu-kung-pao",
+    "title": "Vibrant Spicy Chinese Tofu Kung Pao",
+    "tags": [
+      "chinese-cuisine",
+      "high-protein",
+      "one-pan",
+      "spicy",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
     "slug": "vibrant-spicy-greek-reblochon-tagliere",
     "title": "Vibrant Spicy Greek Reblochon Tagliere",
     "tags": [
@@ -7905,6 +7920,21 @@
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 40,
+    "shard": "v"
+  },
+  {
+    "slug": "vigorously-charred-argentinian-beef-skewers",
+    "title": "Vigorously Charred Argentinian Beef Skewers",
+    "tags": [
+      "argentinian",
+      "beef",
+      "grilled",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 50,
     "shard": "v"
   },
   {

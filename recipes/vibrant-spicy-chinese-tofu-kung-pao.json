@@ -1,0 +1,105 @@
+{
+  "title": "Vibrant Spicy Chinese Tofu Kung Pao",
+  "description": "A salty, chewy, and festive Chinese dish featuring marjoram and deep-fry tofu, this satvik-friendly Kung Pao recipe is perfect for a weeknight dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "marjoram",
+      "amount": "2 tablespoons",
+      "notes": "dried"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "roasted peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a deep frying pan or a deep fryer to 350 degrees Fahrenheit.",
+    "Deep-fry the tofu cubes until golden brown and crispy, then set aside on a paper towel-lined plate.",
+    "In a large skillet or wok, heat 2 tablespoons of vegetable oil over medium-high heat.",
+    "Add the minced garlic and grated ginger and stir-fry for 1 minute.",
+    "Add the dried marjoram, soy sauce, and rice vinegar, and stir-fry for 1 minute.",
+    "Add the chopped scallions and roasted peanuts, and stir-fry for 1 minute.",
+    "Add the deep-fried tofu cubes and red pepper flakes, and stir-fry for 2 minutes.",
+    "Season with salt to taste, then serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "high-protein",
+    "one-pan",
+    "spicy",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "vibrant-spicy-chinese-tofu-kung-pao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-spicy-chinese-tofu-kung-pao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:48:19Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "marjoram",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "tofu",
+    "descriptor": "Vibrant Spicy",
+    "dishForm": "Kung Pao"
+  }
+}

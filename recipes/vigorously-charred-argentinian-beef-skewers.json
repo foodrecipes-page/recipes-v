@@ -1,0 +1,107 @@
+{
+  "title": "Vigorously Charred Argentinian Beef Skewers",
+  "description": "A monsoon Argentinian dish featuring charred beef skewers with kombu and mirepoix-base, served on a cedar plank.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "flank steak or skirt steak"
+    },
+    {
+      "name": "kombu",
+      "amount": "2 sheets",
+      "notes": "dried seaweed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cedar planks",
+      "amount": "4",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, salt, and black pepper.",
+    "Add the beef strips to the bowl and marinate for 30 minutes.",
+    "Thread the marinated beef strips onto skewers, leaving a small space between each piece.",
+    "Place the skewers on the preheated grill and cook for 5 minutes per side, or until charred.",
+    "Meanwhile, combine diced onion, carrot, and celery in a bowl.",
+    "Add the kombu sheets to the bowl and toss to combine.",
+    "Place the cedar planks on the grill and top each plank with a beef skewer and a spoonful of the mirepoix mixture.",
+    "Close the grill lid and cook for an additional 5 minutes, or until the plank is lightly charred."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "vigorously-charred-argentinian-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vigorously-charred-argentinian-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:48:06Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "chewy",
+    "mood": "monsoon",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "kombu",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Vigorously Charred",
+    "dishForm": "Skewers"
+  }
+}
