@@ -1,0 +1,102 @@
+{
+  "title": "Velvety Ukrainian Oats Casserole",
+  "description": "A rich and savory Ukrainian dish featuring rolled oats, perfect for satisfying midnight cravings. This low-carb friendly casserole is cooked in individual mini cocottes.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "1 cup",
+      "notes": "old-fashioned or quick-cooking"
+    },
+    {
+      "name": "mushroom broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dried porcini mushrooms",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the rolled oats, mushroom broth, dried porcini mushrooms, and salt, stirring until the oats are well coated.",
+    "In a small skillet, melt the butter over medium heat and saute the diced onion until softened.",
+    "Add the sauteed onion to the oat mixture and stir to combine.",
+    "Divide the oat mixture among 4 individual mini cocottes.",
+    "Top each cocotte with grated cheddar cheese and a dollop of sour cream.",
+    "Cover the cocottes with lids and bake for 20 minutes.",
+    "Remove the lids and continue baking for an additional 5 minutes, or until the cheese is melted and bubbly.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "low-carb",
+    "one-pot",
+    "savory",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "velvety-ukrainian-oats-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-ukrainian-oats-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:18:19Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "molten",
+    "mood": "midnight-craving",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "rolled oats",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "oats",
+    "descriptor": "Velvety Molten",
+    "dishForm": "Casserole"
+  }
+}
