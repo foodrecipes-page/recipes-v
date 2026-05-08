@@ -1,0 +1,106 @@
+{
+  "title": "Velvety Indian Fish Curry",
+  "description": "A savory and velvety Indian dish featuring fish stock and confit tomato, perfect for a cozy dinner. This pescatarian-friendly curry is a Mangalorean specialty.",
+  "cuisine": "Indian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish stock",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "1 cup",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "cod fish",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat and saute the onion until translucent.",
+    "Add the minced garlic and grated ginger and cook for 1 minute until fragrant.",
+    "Add the curry powder and cook for 1 minute until the spices are fragrant.",
+    "Add the fish stock and bring the mixture to a boil.",
+    "Reduce the heat to low and add the confit tomato, cod fish, salt, and black pepper.",
+    "Simmer the curry for 10 minutes until the fish is cooked through.",
+    "Stir in the coconut milk and cook for an additional 2 minutes until the curry is heated through.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the curry hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-milk",
+    "comfort-food",
+    "fish-curry",
+    "indian-cuisine",
+    "mangalorean",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "velvety-indian-fish-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-indian-fish-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:38:06Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "velvety",
+    "mood": "cozy",
+    "technique": "confit-tomato",
+    "primaryIngredient": "fish stock",
+    "diet": "pescatarian",
+    "region": "mangalorean",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "fish",
+    "descriptor": "velvety smooth",
+    "dishForm": "Curry"
+  }
+}
