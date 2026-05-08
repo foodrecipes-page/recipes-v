@@ -1,0 +1,97 @@
+{
+  "title": "Vibrant Smoky Saudi Arabian Lamb Kebabs",
+  "description": "A flavorful and aromatic Saudi Arabian dish featuring lamb, pine nuts, and a blend of spices, perfect for a date night dinner",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1/4 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat",
+    "In a large bowl, whisk together olive oil, smoked paprika, cumin, salt, black pepper, and garlic",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece",
+    "Grill the kebabs for 8-10 minutes, turning occasionally, until the lamb is cooked through",
+    "Meanwhile, toast the pine nuts in a small skillet over medium heat, stirring frequently, until fragrant and lightly browned",
+    "Serve the kebabs hot, garnished with toasted pine nuts and a squeeze of lemon juice"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "gluten-free",
+    "grilled-meats",
+    "lamb-kebabs",
+    "low-calorie",
+    "saudi-arabian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "vibrant-smoky-saudi-arabian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-smoky-saudi-arabian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:59:48Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "smoke-hot",
+    "primaryIngredient": "pine nuts",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Vibrant Smoky",
+    "dishForm": "Kebabs"
+  }
+}
