@@ -1,0 +1,113 @@
+{
+  "title": "Vibrant Light Filipino Vegetable Pinakbet",
+  "description": "A fatty and light Filipino dish featuring muscovado sugar, perfect for a hangover cure, made with sous-vide and FODMAP-friendly ingredients in a traditional pinakbet form, cooked in a Dutch-oven vessel.",
+  "cuisine": "Filipino",
+  "diet": [
+    "FODMAP-friendly",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "muscovado sugar",
+      "amount": "2 tablespoons",
+      "notes": "dark brown sugar"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bitter melon",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "eggplant",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "okra",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "string beans",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 180 degrees Fahrenheit.",
+    "In a Dutch-oven, heat the vegetable oil over medium heat.",
+    "Add the chopped onion and cook until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the sliced bitter melon, eggplant, okra, and string beans, and cook for 5 minutes.",
+    "Add the chopped tomato, fish sauce, muscovado sugar, and salt, and stir well.",
+    "Transfer the mixture to a sous-vide bag and seal.",
+    "Cook the mixture in the sous-vide machine for 30 minutes.",
+    "Remove the bag from the machine and let it cool.",
+    "Serve the pinakbet hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "delicious",
+    "filipino-food",
+    "healthy",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "vibrant-light-filipino-vegetable-pinakbet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-light-filipino-vegetable-pinakbet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:10:06Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "light",
+    "mood": "hangover-cure",
+    "technique": "sous-vide",
+    "primaryIngredient": "muscovado sugar",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "vegetables",
+    "descriptor": "Vibrant Light",
+    "dishForm": "Pinakbet"
+  }
+}
