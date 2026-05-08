@@ -1,0 +1,93 @@
+{
+  "title": "Velvety Flaky Polish Date Flatbread",
+  "description": "Savory Polish flatbread filled with sweet medjool dates and creamy coconut, perfect for a snack or light lunch.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "medjool dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cracked black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Combine warm water and yeast in a small bowl, stir to dissolve, and let sit for 5 minutes.",
+    "Mix flour, salt, and cracked black pepper in a large bowl.",
+    "Add the yeast mixture, olive oil, and coconut cream to the dry ingredients, stirring until a shaggy dough forms.",
+    "Knead the dough on a floured surface for 10 minutes until smooth and elastic.",
+    "Roll out the dough to a thickness of 1/4 inch.",
+    "Spread the pitted medjool dates evenly over the dough, leaving a 1 inch border around the edges.",
+    "Fold the edges of the dough over the dates to form a crust.",
+    "Place the flatbread on a baking sheet lined with parchment paper.",
+    "Bake in a preheated oven at 375 degrees for 25 minutes or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-cream-recipes",
+    "date-recipes",
+    "flatbread-recipes",
+    "polish-cuisine",
+    "snack-ideas",
+    "vegetarian-recipes"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "velvety-flaky-polish-date-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-flaky-polish-date-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:21:13Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "medjool dates",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "dates",
+    "descriptor": "Velvety Flaky",
+    "dishForm": "Flatbread"
+  }
+}
