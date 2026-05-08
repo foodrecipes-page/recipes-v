@@ -1,0 +1,95 @@
+{
+  "title": "Vibrant Sour Egyptian Lamb Tagine",
+  "description": "A sour and flavorful Egyptian dish featuring lamb, lemongrass, and bhuna spices, perfect for a hangover cure. This kosher-friendly recipe is made with tender lamb and a blend of aromatic spices.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2 inch pieces"
+    },
+    {
+      "name": "lemongrass stalks",
+      "amount": "2",
+      "notes": "bruised"
+    },
+    {
+      "name": "bhuna spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to brown.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the lamb pieces and cook until they are browned on all sides.",
+    "Add the bruised lemongrass stalks, bhuna spice mix, and diced tomatoes.",
+    "Stir to combine, then reduce heat to low and simmer, covered, for 1 1/2 hours.",
+    "Remove the lemongrass stalks and stir in the chopped parsley.",
+    "Season with salt and pepper to taste, then serve hot over rice or couscous.",
+    "Garnish with additional parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lamb-based",
+    "middle-eastern",
+    "one-pot",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "vibrant-sour-egyptian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-sour-egyptian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:34:27Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shaggy",
+    "mood": "hangover-cure",
+    "technique": "bhuna",
+    "primaryIngredient": "lemongrass stalks",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lamb",
+    "descriptor": "Vibrant Sour",
+    "dishForm": "Tagine"
+  }
+}

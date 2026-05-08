@@ -6645,6 +6645,20 @@
     "shard": "v"
   },
   {
+    "slug": "vibrant-sour-egyptian-lamb-tagine",
+    "title": "Vibrant Sour Egyptian Lamb Tagine",
+    "tags": [
+      "comfort-food",
+      "lamb-based",
+      "middle-eastern",
+      "one-pot",
+      "spicy"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 110,
+    "shard": "v"
+  },
+  {
     "slug": "vibrant-sour-peruvian-cream-flatbread",
     "title": "Vibrant Sour Peruvian Cream Flatbread",
     "tags": [
@@ -7340,6 +7354,21 @@
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 45,
+    "shard": "v"
+  },
+  {
+    "slug": "vividly-sour-yunnan-soya-bean-congee",
+    "title": "Vividly Sour Yunnan Soya Bean Congee",
+    "tags": [
+      "chinese",
+      "gluten-free",
+      "high-protein",
+      "one-pot",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 110,
     "shard": "v"
   },
   {

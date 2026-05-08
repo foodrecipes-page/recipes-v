@@ -1,0 +1,95 @@
+{
+  "title": "Vividly Sour Yunnan Soya Bean Congee",
+  "description": "A traditional Yunnan dish featuring soya bean and coconut cream, this congee is a sour and flaky solo dinner option that is high in protein.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "soya beans",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sour plum paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "sliced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse the dried soya beans and soak them in water for at least 4 hours.",
+    "Drain and rinse the soya beans, then combine them with rice, water, and salt in a large pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 1 hour.",
+    "Stir in the coconut cream and sour plum paste.",
+    "Add the sliced ginger to the pot and continue to simmer for another 30 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the congee hot, garnished with chopped scallions.",
+    "Crack some coconut cream on top of the congee before serving.",
+    "Let it cool for a few minutes before eating."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "gluten-free",
+    "high-protein",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "vividly-sour-yunnan-soya-bean-congee",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vividly-sour-yunnan-soya-bean-congee",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:33:58Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "flaky",
+    "mood": "solo-dinner",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "soya bean",
+    "diet": "high-protein",
+    "region": "yunnan",
+    "cuisineAdjective": "Yunnan",
+    "mainIngredient": "soya bean",
+    "descriptor": "Vividly sour",
+    "dishForm": "Congee"
+  }
+}
