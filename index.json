@@ -6214,6 +6214,20 @@
     "shard": "v"
   },
   {
+    "slug": "vibrant-garlicky-jamaican-yam-grill",
+    "title": "Vibrant Garlicky Jamaican Yam Grill",
+    "tags": [
+      "cozy-dinner",
+      "grilled-vegetables",
+      "jamaican-cuisine",
+      "spicy-food",
+      "vegan-friendly"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 45,
+    "shard": "v"
+  },
+  {
     "slug": "vibrant-garlicky-korean-snow-peas-stew",
     "title": "Vibrant Garlicky Korean Snow Peas Stew",
     "tags": [
