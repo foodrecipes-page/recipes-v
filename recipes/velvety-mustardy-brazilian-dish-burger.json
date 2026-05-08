@@ -1,0 +1,65 @@
+{
+  "title": "Velvety Mustardy Brazilian Burger",
+  "description": "Inspired by the monsoon season in Brazil, this burger features a velvety mustard sauce and sesame seed buns. The unique flavor profile makes it a perfect meal for a weeknight dinner.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Bread rolls",
+      "amount": "4",
+      "notes": "sesame seed buns"
+    }
+  ],
+  "instructions": [
+    "Pound 500g of ground beef in a mortar and pestle until it is finely ground.",
+    "Add 1 tablespoon of vegetable oil and continue pounding until the meat is almost smooth.",
+    "In a pan, heat 1 tablespoon of vegetable oil over medium heat.",
+    "Form the ground beef into 4 patties and cook for 5 minutes on each side, until browned.",
+    "While the patties are cooking, toast the sesame seed buns by placing them in the pan for 1 minute on each side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-fat",
+    "monsoon",
+    "mustardy",
+    "one-pan",
+    "velvety",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "velvety-mustardy-brazilian-dish-burger",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-mustardy-brazilian-dish-burger",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:35:06Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "velvety",
+    "mood": "monsoon",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "sesame seed burger buns",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "dish",
+    "descriptor": "velvety mustardy",
+    "dishForm": "burger"
+  }
+}
