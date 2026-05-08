@@ -3664,6 +3664,21 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-rich-french-pumpkin-gratin",
+    "title": "Velvety Rich French Pumpkin Gratin",
+    "tags": [
+      "comfort-food",
+      "french-cuisine",
+      "macrobiotic",
+      "pumpkin-recipes",
+      "vegetarian",
+      "weeknight-dinner"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 70,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-rich-jamaican-bread-stew",
     "title": "Velvety Rich Jamaican Bread Stew",
     "tags": [
@@ -6327,6 +6342,21 @@
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 40,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-kenyan-jalapeno-skewers",
+    "title": "Vibrant Kenyan Jalapeno Skewers",
+    "tags": [
+      "high-protein",
+      "kenyan-cuisine",
+      "one-pan",
+      "spicy",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {

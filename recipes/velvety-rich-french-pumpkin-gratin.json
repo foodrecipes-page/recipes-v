@@ -1,0 +1,99 @@
+{
+  "title": "Velvety Rich French Pumpkin Gratin",
+  "description": "A rich and comforting French dish featuring pumpkin, apple cider vinegar, and a touch of fermentation, perfect for a cozy dinner. This macrobiotic-friendly gratin is made with wholesome ingredients and is sure to become a favorite.",
+  "cuisine": "French",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pumpkin",
+      "amount": "1 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fermented cashew cream",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, toss the pumpkin and onion with the olive oil, salt, and black pepper until they are evenly coated.",
+    "Spread the pumpkin mixture in a 9x13 inch baking dish and roast for 30 minutes.",
+    "While the pumpkin is roasting, saute the garlic in a little bit of olive oil until fragrant.",
+    "In a blender or food processor, combine the roasted pumpkin, sauteed garlic, apple cider vinegar, and nutritional yeast, and blend until smooth.",
+    "Stir in the fermented cashew cream and season with salt and black pepper to taste.",
+    "Transfer the pumpkin mixture to a 9x13 inch baking dish and top with additional nutritional yeast if desired.",
+    "Bake for an additional 20-25 minutes, or until the top is golden brown and the gratin is heated through.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "french-cuisine",
+    "macrobiotic",
+    "pumpkin-recipes",
+    "vegetarian",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "velvety-rich-french-pumpkin-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-rich-french-pumpkin-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:27:33Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "ferment",
+    "primaryIngredient": "apple cider vinegar",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "pumpkin",
+    "descriptor": "Velvety Rich",
+    "dishForm": "Gratin"
+  }
+}

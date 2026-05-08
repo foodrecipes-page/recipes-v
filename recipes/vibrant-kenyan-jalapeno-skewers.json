@@ -1,0 +1,93 @@
+{
+  "title": "Vibrant Kenyan Jalapeno Skewers",
+  "description": "A sour and crumbly post-workout Kenyan dish featuring jalapeno, agemono-deep-fry, and ovo-vegetarian-friendly ingredients, cooked in a tandoor clay pot.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "jalapeno peppers",
+      "amount": "12",
+      "notes": "sliced into 1 inch pieces"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup"
+    },
+    {
+      "name": "gram flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor clay pot to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the gram flour, salt, and black pepper.",
+    "Add the lemon juice and water to the bowl and stir until a smooth batter forms.",
+    "Add the sliced jalapeno peppers to the bowl and toss to coat with the batter.",
+    "Dip each jalapeno piece into the beaten eggs and then roll in the gram flour mixture to coat.",
+    "Heat the vegetable oil in the tandoor clay pot and deep fry the jalapeno pieces until golden brown.",
+    "Remove the jalapeno skewers from the oil and place on a paper towel lined plate to drain excess oil.",
+    "Serve the Vibrant Kenyan Jalapeno Skewers hot and enjoy.",
+    "Garnish with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "kenyan-cuisine",
+    "one-pan",
+    "spicy",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "vibrant-kenyan-jalapeno-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-kenyan-jalapeno-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:27:40Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "jalapeno",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "jalapeno",
+    "descriptor": "Vibrant Crumbly",
+    "dishForm": "Skewers"
+  }
+}
