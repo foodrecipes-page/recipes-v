@@ -1,0 +1,104 @@
+{
+  "title": "Vibrant Smoky Chinese Ovoli Mushroom Skewers",
+  "description": "A fatty and adventurous Chinese dish featuring ovoli mushrooms, perfect for a unique dinner experience, with anti-inflammatory properties from the ingredients used.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ovoli mushrooms",
+      "amount": "12 oz",
+      "notes": "fresh, sliced into 1 inch pieces"
+    },
+    {
+      "name": "Chinese five spice",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit.",
+    "Thread the ovoli mushroom pieces onto skewers, leaving a small space between each piece.",
+    "In a small bowl, mix together the Chinese five spice, smoked paprika, soy sauce, honey, garlic, and ginger to create the marinade.",
+    "Brush the marinade onto both sides of the mushroom pieces.",
+    "Brush the coconut oil onto the grill grates to prevent sticking.",
+    "Place the skewers onto the grill and cook for 10 minutes, flipping halfway through.",
+    "Deglaze the grill with sesame oil after flipping the skewers.",
+    "Remove the skewers from the grill and sprinkle with chopped scallions.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "chinese-inspired",
+    "dairy-free",
+    "gluten-free",
+    "mushroom-based",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "vibrant-smoky-chinese-ovoli-mushroom-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-smoky-chinese-ovoli-mushroom-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:59:10Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "shaggy",
+    "mood": "adventurous",
+    "technique": "deglaze",
+    "primaryIngredient": "ovoli-mushroom",
+    "diet": "anti-inflammatory",
+    "region": "xinjiang",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "ovoli mushroom",
+    "descriptor": "Vibrant smoky",
+    "dishForm": "Skewers"
+  }
+}
