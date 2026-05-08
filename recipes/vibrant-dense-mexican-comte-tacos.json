@@ -1,0 +1,97 @@
+{
+  "title": "Vibrant Dense Mexican Comte Tacos",
+  "description": "A peppery and dense Mexican dish featuring comte cheese, inspired by Oaxacan cuisine, with a Mediterranean twist, made with sous-vide cooking for tender results.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "comte cheese",
+      "amount": "8 oz",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "8",
+      "notes": "warm"
+    },
+    {
+      "name": "sous-vide chicken breast",
+      "amount": "1 lb",
+      "notes": "cooked to 165 degrees"
+    },
+    {
+      "name": "roasted peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "red onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 130 degrees.",
+    "Season the chicken breast with salt and pepper, then seal in a sous-vide bag and cook for 2 hours.",
+    "Roast the peppers in the oven at 400 degrees for 30 minutes, then peel and slice.",
+    "Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Slice the cooked chicken breast into thin strips.",
+    "Assemble the tacos by placing a slice of comte cheese, a few strips of chicken, some roasted peppers, and a sprinkle of cilantro onto a tortilla.",
+    "Drizzle the tacos with lime juice and olive oil.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comte-cheese",
+    "gluten-free",
+    "mexican-inspired",
+    "one-pan",
+    "sous-vide",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "vibrant-dense-mexican-comte-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-dense-mexican-comte-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:32:41Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "energizing",
+    "technique": "sous-vide",
+    "primaryIngredient": "comte",
+    "diet": "mediterranean",
+    "region": "oaxacan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "comte",
+    "descriptor": "Vibrant dense",
+    "dishForm": "Tacos"
+  }
+}
