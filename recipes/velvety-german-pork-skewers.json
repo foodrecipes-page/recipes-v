@@ -1,0 +1,94 @@
+{
+  "title": "Velvety German Pork Skewers",
+  "description": "A quick-fix German dish featuring pickles and sous-vide cooked pork, perfect for a weeknight dinner, this recipe is gluten-free friendly and offers a cultured and silky texture.",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "pickles",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 130 degrees Fahrenheit.",
+    "In a bowl, whisk together olive oil, salt, black pepper, and paprika.",
+    "Add the pork pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated pork pieces onto skewers, leaving a small space between each piece.",
+    "Place the skewers in the sous-vide machine and cook for 2 hours.",
+    "While the pork is cooking, prepare the pickle mixture by combining chopped pickles, onion, and garlic in a bowl.",
+    "Once the pork is cooked, remove it from the sous-vide machine and brush with the pickle mixture.",
+    "Serve the pork skewers hot, garnished with additional chopped pickles if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german-cuisine",
+    "gluten-free",
+    "pork-recipes",
+    "quick-fix",
+    "sous-vide",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "velvety-german-pork-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-german-pork-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:23:14Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "silky",
+    "mood": "quick-fix",
+    "technique": "sous-vide",
+    "primaryIngredient": "pickles",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "pork",
+    "descriptor": "Velvety",
+    "dishForm": "Skewers"
+  }
+}
