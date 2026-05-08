@@ -1,0 +1,101 @@
+{
+  "title": "Velvety Juicy Thai Tofu Khanom Krok",
+  "description": "A lacto-vegetarian friendly Thai dish featuring slow-cooked tofu and shichimi-togarashi, served in a cazuela.",
+  "cuisine": "Thai",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "shichimi-togarashi",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fish-free sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "2 leaves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "khanom krok molds",
+      "amount": "12 molds"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the coconut milk, Thai red curry paste, fish-free sauce, palm sugar, and salt.",
+    "Add the cubed tofu to the bowl and marinate for at least 30 minutes.",
+    "Heat the vegetable oil in a large skillet over medium heat and cook the marinated tofu until golden brown.",
+    "Transfer the cooked tofu to a cazuela and add the shichimi-togarashi and kaffir lime leaves.",
+    "Pour the remaining marinade over the tofu and cover the cazuela with a lid.",
+    "Transfer the cazuela to the preheated oven and slow-cook for 20 minutes.",
+    "While the tofu is cooking, prepare the khanom krok molds by brushing them with vegetable oil.",
+    "Remove the cazuela from the oven and carefully pour the tofu mixture into the prepared khanom krok molds.",
+    "Serve the Velvety Juicy Thai Tofu Khanom Krok hot, garnished with additional kaffir lime leaves if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cazuela",
+    "lacto-vegetarian",
+    "one-pan",
+    "post-workout",
+    "slow-cooked",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "velvety-juicy-thai-tofu-khanom-krok",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-juicy-thai-tofu-khanom-krok",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:52:09Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "juicy",
+    "mood": "post-workout",
+    "technique": "slow-cook",
+    "primaryIngredient": "shichimi-togarashi",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "tofu",
+    "descriptor": "Velvety Juicy",
+    "dishForm": "Khanom Krok"
+  }
+}
