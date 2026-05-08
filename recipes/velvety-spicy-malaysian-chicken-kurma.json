@@ -1,0 +1,121 @@
+{
+  "title": "Velvety Spicy Malaysian Chicken Kurma",
+  "description": "A spicy, velvety weeknight dish featuring the unique sweetness of passion fruit pulp.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "halal",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast or thighs",
+      "amount": "1 lb",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "Full-fat for richness"
+    },
+    {
+      "name": "passion fruit pulp",
+      "amount": "2 tbsp",
+      "notes": "Fresh or canned"
+    },
+    {
+      "name": "comal",
+      "amount": "",
+      "notes": "For roasting spices"
+    },
+    {
+      "name": "red curry paste",
+      "amount": "2 tbsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 tsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "garam masala powder",
+      "amount": "1 tsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the comal over medium heat and roast the onion and garlic until fragrant.",
+    "Add the red curry paste and stir for 1-2 minutes.",
+    "Add the chicken and cook until browned, about 5-6 minutes.",
+    "Add the spices (turmeric, coriander, cumin, garam masala) and stir for 1 minute.",
+    "Pour in the coconut milk and bring to a simmer.",
+    "Reduce heat to low and cook, covered, for 15-20 minutes or until the chicken is cooked through.",
+    "Stir in the passion fruit pulp and adjust seasonings to taste.",
+    "Serve hot, garnished with fresh cilantro, if desired.",
+    "Pressure cook for 10-12 minutes if in a hurry."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "halal-friendly",
+    "high-protein",
+    "one-pan",
+    "pressure-cook",
+    "spicy",
+    "velvety",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 24,
+    "fat": 34
+  },
+  "slug": "velvety-spicy-malaysian-chicken-kurma",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-spicy-malaysian-chicken-kurma",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:32:04Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "velvety",
+    "mood": "weeknight",
+    "technique": "pressure-cook",
+    "primaryIngredient": "passion fruit pulp",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "Velvety Spicy",
+    "dishForm": "Kurma"
+  }
+}
