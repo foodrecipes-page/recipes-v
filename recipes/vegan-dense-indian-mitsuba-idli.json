@@ -1,0 +1,96 @@
+{
+  "title": "Vegan Dense Indian Mitsuba Idli",
+  "description": "A jammy, dense, and flavorful Indian dish featuring mitsuba, perfect for a weeknight dinner, made vegan-friendly and cooked to perfection in an air fryer.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "idli rice",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "urad dal",
+      "amount": "1/2 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "mitsuba",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "curry leaves",
+      "amount": "10",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Soak idli rice and urad dal in separate containers overnight.",
+    "Drain and grind the soaked idli rice and urad dal into a smooth batter.",
+    "Add chopped mitsuba, onion, ginger, curry leaves, and salt to the batter and mix well.",
+    "Add water to the batter and mix until the desired consistency is achieved.",
+    "Pour the batter into idli molds and place them in the air fryer basket.",
+    "Cook the idlis in the air fryer at 375 degrees Fahrenheit for 15 minutes.",
+    "Remove the idlis from the air fryer and let them cool for a few minutes.",
+    "Serve the idlis hot with your favorite chutney or sambar."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fry",
+    "gluten-free",
+    "high-fiber",
+    "indian",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 5
+  },
+  "slug": "vegan-dense-indian-mitsuba-idli",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vegan-dense-indian-mitsuba-idli",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:19:12Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "dense",
+    "mood": "weeknight",
+    "technique": "air-fry",
+    "primaryIngredient": "mitsuba",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "mitsuba",
+    "descriptor": "Vegan Dense",
+    "dishForm": "Idli"
+  }
+}
