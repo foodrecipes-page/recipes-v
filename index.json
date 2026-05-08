@@ -7762,6 +7762,22 @@
     "shard": "v"
   },
   {
+    "slug": "vibrant-spicy-saudi-arabian-pumpkin-tagine",
+    "title": "Vibrant Spicy Saudi-Arabian Pumpkin Tagine",
+    "tags": [
+      "comfort-food",
+      "easy-to-make",
+      "gluten-free-option",
+      "high-fiber",
+      "saudi-arabian",
+      "vegan-option",
+      "weeknight-meal"
+    ],
+    "cuisine": "saudi-arabian",
+    "totalTimeMin": 55,
+    "shard": "v"
+  },
+  {
     "slug": "vibrant-spicy-spanish-chicken-paella",
     "title": "Vibrant Spicy Spanish Chicken Paella",
     "tags": [
@@ -8014,6 +8030,23 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 25,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-velvety-italian-cabbage-frittata",
+    "title": "Vibrant Velvety Italian Cabbage Frittata",
+    "tags": [
+      "breakfast",
+      "frittata",
+      "gluten-free",
+      "italian",
+      "lunch",
+      "one-pan",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 45,
     "shard": "v"
   },
   {

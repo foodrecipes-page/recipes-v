@@ -1,0 +1,138 @@
+{
+  "title": "Vibrant Velvety Italian Cabbage Frittata",
+  "description": "Funky, flaky, energizing Italian dish featuring Chinese leaf, simmer, jain-friendly. Perfect for a quick breakfast or brunch on-the-go.",
+  "cuisine": "Italian",
+  "diet": [
+    "jain",
+    "vegan",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Chinese leaf",
+      "amount": "2 heads, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "250g, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Spinach",
+      "amount": "150g, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "150g, diced",
+      "notes": ""
+    },
+    {
+      "name": "Vegan cheese",
+      "amount": "50g, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "10g, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegan milk",
+      "amount": "150ml",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until softened, about 3 minutes.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the sliced mushrooms and cook until they release their moisture and start to brown, about 5 minutes.",
+    "Add the chopped spinach and cook until wilted, about 1 minute.",
+    "Add the diced tomatoes and cook for another 2 minutes, until the mixture is heated through.",
+    "In a large bowl, whisk together the vegan milk and lemon juice.",
+    "Add the shredded vegan cheese and whisk until melted.",
+    "Add the cooked vegetable mixture and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Pour the egg mixture into a greased 9-inch skillet or frittata pan.",
+    "Transfer the skillet to the preheated oven and bake for 25-30 minutes, until the frittata is set and golden brown.",
+    "Remove the skillet from the oven and sprinkle with chopped fresh basil.",
+    "Let the frittata cool for a few minutes before slicing and serving.",
+    "Slice the frittata into wedges and serve warm or at room temperature.",
+    "Refrigerate leftovers for up to 3 days or freeze for up to 2 months.",
+    "To reheat, thaw frozen frittata overnight in the refrigerator and reheat in the oven or microwave."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "frittata",
+    "gluten-free",
+    "italian",
+    "lunch",
+    "one-pan",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "vibrant-velvety-italian-cabbage-frittata",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-velvety-italian-cabbage-frittata",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:42:00Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "flaky",
+    "mood": "energizing",
+    "technique": "simmer",
+    "primaryIngredient": "chinese leaf",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "cabbage",
+    "descriptor": "Vibrant Velvety",
+    "dishForm": "Frittata"
+  }
+}
