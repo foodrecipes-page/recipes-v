@@ -1,0 +1,103 @@
+{
+  "title": "Vibrant Spicy Chinese Apricot Lo Mein",
+  "description": "A quick and spicy Chinese dish featuring apricot and crunchy lo mein, perfect for a weeknight dinner, this recipe is also Buddhist-temple-friendly as it does not include any animal products.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lo mein noodles",
+      "amount": "8 oz",
+      "notes": "preferably vegan"
+    },
+    {
+      "name": "apricots",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sliced scallions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook the lo mein noodles according to the package instructions and set aside.",
+    "In a small bowl, whisk together the soy sauce, rice vinegar, grated ginger, and red pepper flakes.",
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the diced apricots to the skillet and cook for 2-3 minutes or until they start to soften.",
+    "Add the cooked lo mein noodles to the skillet and stir to combine with the apricots.",
+    "Pour the soy sauce mixture over the noodles and apricots, and stir-fry for 2-3 minutes or until the noodles are well coated.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the lo mein to a serving platter and garnish with sliced scallions.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "one-pan",
+    "quick-fix",
+    "spicy",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "vibrant-spicy-chinese-apricot-lo-mein",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-spicy-chinese-apricot-lo-mein",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:16:24Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crunchy",
+    "mood": "quick-fix",
+    "technique": "papillote",
+    "primaryIngredient": "apricot",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "apricot",
+    "descriptor": "Vibrant spicy",
+    "dishForm": "Lo Mein"
+  }
+}

@@ -5042,6 +5042,21 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-ukrainian-wagyu-tartare",
+    "title": "Velvety Ukrainian Wagyu Tartare",
+    "tags": [
+      "fine-dining",
+      "high-protein",
+      "raw-food",
+      "special-occasion",
+      "ukrainian-cuisine",
+      "wagyu-beef"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 50,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-umami-adventurous-fish-stir-fry",
     "title": "Velvety Umami Adventurous Fish Stir-fry",
     "tags": [
@@ -7396,6 +7411,22 @@
     ],
     "cuisine": "Argentinian",
     "totalTimeMin": 45,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-spicy-chinese-apricot-lo-mein",
+    "title": "Vibrant Spicy Chinese Apricot Lo Mein",
+    "tags": [
+      "chinese",
+      "one-pan",
+      "quick-fix",
+      "spicy",
+      "vegan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {

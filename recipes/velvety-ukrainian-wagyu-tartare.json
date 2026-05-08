@@ -1,0 +1,110 @@
+{
+  "title": "Velvety Ukrainian Wagyu Tartare",
+  "description": "A fresh and indulgent Ukrainian dish featuring wagyu beef, served in a cazuela and made with raw-friendly ingredients, this velvety tartare is a delight to the senses, with a glassy-jelly texture that will leave you wanting more.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wagyu beef",
+      "amount": "12 oz",
+      "notes": "fresh, raw, and finely chopped"
+    },
+    {
+      "name": "Shallots",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Capers",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Pickled mustard seeds",
+      "amount": "1 tsp",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "Quail egg yolks",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "Truffle oil",
+      "amount": "1 tsp",
+      "notes": "high-quality"
+    },
+    {
+      "name": "Fleur de sel",
+      "amount": "to taste",
+      "notes": "flaky sea salt"
+    },
+    {
+      "name": "Microgreens",
+      "amount": "1/4 cup",
+      "notes": "such as pea shoots or purslane"
+    },
+    {
+      "name": "Toasted rye bread",
+      "amount": "4 slices",
+      "notes": "thinly sliced and toasted"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "softened"
+    }
+  ],
+  "instructions": [
+    "Begin by finely chopping the wagyu beef and placing it in a large bowl.",
+    "In a small bowl, mix together the chopped shallots, capers, pickled mustard seeds, and a pinch of fleur de sel.",
+    "Add the shallot mixture to the bowl with the wagyu beef and mix gently until just combined.",
+    "Stir in the truffle oil and season with additional fleur de sel to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, stir in the quail egg yolks until the mixture is smooth and velvety.",
+    "Spoon the tartare into a cazuela or small serving dish and garnish with microgreens.",
+    "Serve the tartare with toasted rye bread and softened unsalted butter on the side.",
+    "Encourage guests to spread a small amount of butter onto the bread, top with a spoonful of the tartare, and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fine-dining",
+    "high-protein",
+    "raw-food",
+    "special-occasion",
+    "ukrainian-cuisine",
+    "wagyu-beef"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "velvety-ukrainian-wagyu-tartare",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-ukrainian-wagyu-tartare",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:16:22Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "glassy-jelly",
+    "mood": "indulgent",
+    "technique": "blanch",
+    "primaryIngredient": "wagyu",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "wagyu",
+    "descriptor": "velvety raw",
+    "dishForm": "Tartare"
+  }
+}
