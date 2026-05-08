@@ -1,0 +1,101 @@
+{
+  "title": "Vibrant Herbal Filipino Flaxseed Sisig",
+  "description": "A festive Filipino dish featuring flaxseed, this sisig is a shattering, herbal delight that is Jain-friendly. It is boiled to perfection and served with a variety of flavors.",
+  "cuisine": "Filipino",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flaxseed",
+      "amount": "1 cup",
+      "notes": "ground"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chili peppers",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Boil the flaxseed in water for 10 minutes or until it is soft and shattering.",
+    "Drain the water and let the flaxseed cool.",
+    "In a pan, heat some oil and saute the chopped onion until it is translucent.",
+    "Add the grated ginger and cook for 1 minute.",
+    "Add the sliced chili peppers and cook for another minute.",
+    "In a large bowl, combine the cooked flaxseed, sauteed onion and ginger, lemon juice, soy sauce, salt, and black pepper.",
+    "Mix well and garnish with chopped cilantro.",
+    "Serve immediately and enjoy.",
+    "Refrigerate any leftovers for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-food",
+    "flaxseed-recipes",
+    "herbal-dishes",
+    "jain-friendly",
+    "sisig-recipes",
+    "vegetarian-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "vibrant-herbal-filipino-flaxseed-sisig",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-herbal-filipino-flaxseed-sisig",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:44:03Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shattering",
+    "mood": "festive",
+    "technique": "boil",
+    "primaryIngredient": "flaxseed",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "flaxseed",
+    "descriptor": "Vibrant Herbal",
+    "dishForm": "Sisig"
+  }
+}
