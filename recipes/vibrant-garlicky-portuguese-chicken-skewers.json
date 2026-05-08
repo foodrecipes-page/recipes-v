@@ -1,0 +1,93 @@
+{
+  "title": "Vibrant Garlicky Portuguese Chicken Skewers",
+  "description": "A halal-friendly Portuguese dish featuring garlicky and crumbly chicken skewers, perfect for a post-workout meal, made with red pepper paste and air-fried to perfection, served on a wooden board.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "red pepper paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together red pepper paste, garlic, olive oil, salt, black pepper, and paprika.",
+    "Add the chicken pieces to the bowl and toss to coat evenly with the marinade.",
+    "Thread the marinated chicken pieces onto skewers, leaving a small space between each piece.",
+    "Air fry the chicken skewers for 12 minutes, shaking halfway through.",
+    "Brush the chicken skewers with lemon juice during the last 2 minutes of cooking.",
+    "Remove the chicken skewers from the air fryer and let them rest for 2 minutes.",
+    "Serve the chicken skewers on a wooden board, garnished with lemon wedges and fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "air-fryer",
+    "chicken-recipes",
+    "garlic-lovers",
+    "halal-friendly",
+    "portuguese-cuisine",
+    "post-workout",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "vibrant-garlicky-portuguese-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-garlicky-portuguese-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:37:52Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "air-fry",
+    "primaryIngredient": "red pepper paste",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "chicken",
+    "descriptor": "Vibrant Garlicky",
+    "dishForm": "Skewers"
+  }
+}
