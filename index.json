@@ -5012,6 +5012,20 @@
     "shard": "v"
   },
   {
+    "slug": "very-dense-canadian-lamb-stew",
+    "title": "Very Dense Canadian Lamb Stew",
+    "tags": [
+      "canadian-cuisine",
+      "comfort-food",
+      "lamb-based",
+      "one-pot",
+      "shojin-friendly"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 180,
+    "shard": "v"
+  },
+  {
     "slug": "very-dense-slovakian-kiwifruit-galette",
     "title": "slovakian kiwifruit galette",
     "tags": [

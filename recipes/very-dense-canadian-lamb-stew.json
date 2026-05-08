@@ -1,0 +1,97 @@
+{
+  "title": "Very Dense Canadian Lamb Stew",
+  "description": "A malty, dense, and satisfying Canadian dish featuring kabse spice, perfect for midnight cravings, and shojin-friendly. This stew is made with lamb and a blend of spices.",
+  "cuisine": "Canadian",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "kabse spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brine-dry mustard",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb cubes and cook until browned on all sides.",
+    "Add the kabse spice, brine-dry mustard, and malt syrup, and cook for 1 minute.",
+    "Add the beef broth, carrots, potatoes, onion, and garlic, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 2.5 hours.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "comfort-food",
+    "lamb-based",
+    "one-pot",
+    "shojin-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "very-dense-canadian-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/very-dense-canadian-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:20:01Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "dense",
+    "mood": "midnight-craving",
+    "technique": "brine-dry",
+    "primaryIngredient": "kabse spice",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "lamb",
+    "descriptor": "Very Dense",
+    "dishForm": "Stew"
+  }
+}
