@@ -1,0 +1,105 @@
+{
+  "title": "Vessel-Simmered Fermented Algerian Lamb Tagine",
+  "description": "A rich and flavorful Algerian dish featuring fermented lamb, szechuan peppercorns, and a sweet and crisp finish. Best served with crusty bread or couscous.",
+  "cuisine": "Algerian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 pounds boneless lamb shoulder",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup kosher salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup black peppercorns",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons szechuan peppercorns",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons coriander seeds",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves ground cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup lamb or beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together kosher salt, black peppercorns, szechuan peppercorns, and coriander seeds.",
+    "Rub the spice mixture all over the lamb shoulder, making sure to coat it evenly.",
+    "Place the lamb in a large iron teppan vessel or Dutch oven, fat side up.",
+    "Heat the olive oil in a small skillet over medium-high heat.",
+    "Sear the lamb in the skillet for 2-3 minutes on each side, or until browned.",
+    "Transfer the lamb to the teppan vessel, and add the lamb or beef broth.",
+    "Bring the broth to a boil, then cover the vessel and transfer it to a preheated oven at 300°F (150°C).",
+    "Braise the lamb for 2 1/2 hours, or until tender and easily shredded with a fork.",
+    "Remove the lamb from the vessel, and let it rest for 10-15 minutes before slicing it thinly.",
+    "Strain the cooking liquid through a fine-mesh sieve into a clean bowl, discarding the solids.",
+    "Skim off any excess fat from the surface of the liquid, and let it cool to room temperature.",
+    "Refrigerate the liquid overnight, or for at least 8 hours, to allow it to ferment and thicken."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "algerian-cuisine",
+    "fermented-dishes",
+    "high-protein",
+    "lamb-recipes",
+    "one-pan-meals",
+    "slow-cooker",
+    "tagine-recipes",
+    "weeknight-meals"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 63,
+    "carbs": 4,
+    "fat": 36
+  },
+  "slug": "vessel-simmered-fermented-algerian-lamb-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/vessel-simmered-fermented-algerian-lamb-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:26:01Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crisp",
+    "mood": "midnight-craving",
+    "technique": "ferment",
+    "primaryIngredient": "szechuan peppercorns",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lamb",
+    "descriptor": "Vessel-Simmered Fermented",
+    "dishForm": "Tagine"
+  }
+}
