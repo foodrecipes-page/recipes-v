@@ -1,0 +1,103 @@
+{
+  "title": "Vibrant Roasted Ukrainian Beef Stew",
+  "description": "A hearty and flavorful stew featuring tender beef, fresh basil leaves, and a rich broth, perfect for a cold winter's night. This low-sodium dish is simmered to perfection and packed with nutrients.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "2 pounds",
+      "notes": "cut into 1 1/2 inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, heat 2 tablespoons of oil over medium-high heat.",
+    "Add the beef to the pot and cook until browned on all sides, about 5 minutes.",
+    "Remove the beef from the pot and set aside.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent, about 5 minutes.",
+    "Add the carrots and potatoes to the pot and cook for an additional 5 minutes.",
+    "Add the beef broth, tomato paste, and black pepper to the pot and stir to combine.",
+    "Return the beef to the pot and bring the mixture to a boil.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Simmer the stew in the oven for 2 1/2 hours, or until the beef is tender.",
+    "Stir in the chopped basil leaves and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipe",
+    "comfort-food",
+    "hearty-stew",
+    "low-sodium",
+    "winter-dish"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "vibrant-roasted-ukrainian-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-roasted-ukrainian-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:03:30Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "simmer",
+    "primaryIngredient": "basil leaves",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "beef",
+    "descriptor": "Vibrant Roasted",
+    "dishForm": "Stew"
+  }
+}
