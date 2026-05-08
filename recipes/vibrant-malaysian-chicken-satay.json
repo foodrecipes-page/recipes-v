@@ -1,0 +1,101 @@
+{
+  "title": "Vibrant Malaysian Chicken Satay",
+  "description": "A sweet and snappy Malaysian dish featuring chicken marinated in a mixture of spices and sauces, then grilled to perfection, served with a side of smoke-hot Chinese sesame sauce.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into skewers"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": " soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Chinese sesame sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together coconut milk, sesame oil, soy sauce, honey, garlic, and ginger to make the marinade.",
+    "Add the chicken breast skewers to the marinade and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Remove the chicken from the marinade and cook for 5-7 minutes per side, or until cooked through.",
+    "While the chicken is cooking, prepare the Chinese sesame sauce by whisking all the ingredients together in a bowl.",
+    "Once the chicken is cooked, brush with the Chinese sesame sauce and sprinkle with sesame seeds and paprika.",
+    "Serve the satay hot with additional Chinese sesame sauce for dipping.",
+    "Garnish with sliced onions, cucumbers, and carrots, if desired.",
+    "Refrigerate any leftovers for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-chicken",
+    "malaysian-cuisine",
+    "paleo-friendly",
+    "sesame-sauce",
+    "smoke-hot"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "vibrant-malaysian-chicken-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-malaysian-chicken-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:26:39Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "snappy",
+    "mood": "adventurous",
+    "technique": "smoke-hot",
+    "primaryIngredient": "chinese sesame sauce",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "Vibrant smoke hot",
+    "dishForm": "Satay"
+  }
+}
