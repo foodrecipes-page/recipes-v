@@ -7118,5 +7118,20 @@
     "cuisine": "Ethiopian",
     "totalTimeMin": 45,
     "shard": "v"
+  },
+  {
+    "slug": "vividly-spicy-norwegian-egg-frittata",
+    "title": "Vividly Spicy Norwegian Egg Frittata",
+    "tags": [
+      "breakfast-ideas",
+      "gluten-free",
+      "keto-friendly",
+      "norwegian-cuisine",
+      "one-pan-meal",
+      "spicy-food"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 40,
+    "shard": "v"
   }
 ]

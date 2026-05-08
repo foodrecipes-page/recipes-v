@@ -1,0 +1,94 @@
+{
+  "title": "Vividly Spicy Norwegian Egg Frittata",
+  "description": "A spicy and festive Norwegian dish featuring egg yolks and cheese, perfect for a keto-friendly breakfast, this frittata combines the richness of eggs with the bold flavors of Norwegian cuisine. The blanched vegetables add a nice crunch and freshness to the dish.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "8 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "norwegian cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "smoked salmon",
+      "amount": "1/2 cup diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup blanched"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "spicy norwegian sausage",
+      "amount": "1/2 cup sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the eggs and a pinch of salt until well combined.",
+    "In a large skillet, cook the sliced spicy norwegian sausage over medium heat until browned.",
+    "Add the blanched red onion and chopped fresh dill to the skillet and cook for an additional 2 minutes.",
+    "In a greased 9-inch pie plate, arrange the cooked sausage and onion mixture in the bottom of the plate.",
+    "Pour the whisked eggs over the sausage mixture and top with shredded norwegian cheese.",
+    "Bake the frittata in the preheated oven for 25 minutes or until the eggs are set and the cheese is melted and golden brown.",
+    "Remove the frittata from the oven and let it cool for a few minutes before slicing and serving.",
+    "Garnish with additional chopped fresh dill and diced smoked salmon if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "gluten-free",
+    "keto-friendly",
+    "norwegian-cuisine",
+    "one-pan-meal",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 5,
+    "fat": 24
+  },
+  "slug": "vividly-spicy-norwegian-egg-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vividly-spicy-norwegian-egg-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:20:45Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "cheese-pull",
+    "mood": "festive",
+    "technique": "blanch",
+    "primaryIngredient": "egg yolks",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "eggs",
+    "descriptor": "Vividly Spicy",
+    "dishForm": "Frittata"
+  }
+}
