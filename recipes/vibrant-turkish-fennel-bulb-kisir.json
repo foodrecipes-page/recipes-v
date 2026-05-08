@@ -1,0 +1,102 @@
+{
+  "title": "Vibrant Turkish Fennel Bulb Kisir",
+  "description": "A winey, silky, and festive Turkish dish featuring fennel bulb and rest-meat, perfect for flexitarian-friendly gatherings",
+  "cuisine": "Turkish",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fennel bulb",
+      "amount": "2 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "rest-meat",
+      "amount": "1 cup",
+      "notes": "diced, cooked lamb or beef"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Combine the sliced fennel bulb and chopped red onion in a large bowl",
+    "Add the diced rest-meat to the bowl and toss gently",
+    "In a small bowl, whisk together the red wine vinegar, olive oil, pomegranate molasses, sumac, salt, and black pepper",
+    "Pour the dressing over the fennel mixture and toss to combine",
+    "Sprinkle the chopped fresh parsley over the top of the salad and toss again",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld",
+    "Serve the kisir chilled, garnished with additional parsley if desired",
+    "Traditionally, kisir is served as a side dish or used as a topping for Turkish bread or crackers"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "fennel",
+    "flexitarian",
+    "middle-eastern",
+    "salad",
+    "turkish-cuisine",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 12
+  },
+  "slug": "vibrant-turkish-fennel-bulb-kisir",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-turkish-fennel-bulb-kisir",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:29:14Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "silky",
+    "mood": "festive",
+    "technique": "rest-meat",
+    "primaryIngredient": "fennel bulb",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "fennel bulb",
+    "descriptor": "Vibrant winey",
+    "dishForm": "Kisir"
+  }
+}
