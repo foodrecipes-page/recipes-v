@@ -1,0 +1,109 @@
+{
+  "title": "Velvety Kenyan Lamb Stew",
+  "description": "A fatty and fluffy weeknight Kenyan dish featuring pepper, this stew is perfect for a comforting meal, and its ingredients are Buddhist-temple-friendly.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "halal",
+    "non-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "lamb broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in an earthenware bowl over medium heat.",
+    "Add the lamb pieces and cook until browned on all sides.",
+    "Add the onion, garlic, and ginger, and cook until the onion is translucent.",
+    "Stir in the black pepper, cumin, and coriander, and cook for 1 minute.",
+    "Add the lamb broth and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours.",
+    "Stir in the coconut milk and cook for an additional 30 minutes.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "kenyan-cuisine",
+    "lamb-based",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "velvety-kenyan-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-kenyan-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:02:56Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "fluffy",
+    "mood": "weeknight",
+    "technique": "temper",
+    "primaryIngredient": "pepper",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "lamb",
+    "descriptor": "velvety spicy",
+    "dishForm": "Stew"
+  }
+}

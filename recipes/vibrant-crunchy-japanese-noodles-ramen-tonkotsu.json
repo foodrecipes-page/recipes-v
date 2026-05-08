@@ -1,0 +1,106 @@
+{
+  "title": "Vibrant Crunchy Japanese Noodles Ramen Tonkotsu",
+  "description": "A low-fat friendly and crunchy Japanese noodle dish featuring rich tonkotsu broth and topped with various textures, perfect for a sick day pick-me-up.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork bones",
+      "amount": "2 pounds",
+      "notes": "you can also use chicken bones"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 ounces",
+      "notes": "preferably ramen noodles"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "sliced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the oil over medium heat and saute the sliced onion until it is translucent.",
+    "Add the minced garlic and sliced ginger to the pot and cook for 1 minute.",
+    "Add the pork bones to the pot and pour in enough water to cover the bones.",
+    "Bring the water to a boil, then reduce the heat to low and simmer for 4 hours.",
+    "Strain the broth through a fine mesh sieve into a clean pot and discard the solids.",
+    "Add the noodles to the pot and cook according to the package instructions.",
+    "In a small pan, toast the sesame seeds over medium heat until they are fragrant.",
+    "To assemble the dish, place some noodles in a bowl, then ladle the hot broth over the noodles.",
+    "Top the noodles with chopped green onions, bean sprouts, and toasted sesame seeds.",
+    "Drizzle the soy sauce over the top of the dish and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 240,
+  "totalTimeMin": 260,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "japanese-cuisine",
+    "low-fat",
+    "noodle-dish",
+    "one-pot",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "vibrant-crunchy-japanese-noodles-ramen-tonkotsu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-crunchy-japanese-noodles-ramen-tonkotsu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:03:14Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crunchy",
+    "mood": "sick-day",
+    "technique": "tadka",
+    "primaryIngredient": "starch",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "noodles",
+    "descriptor": "Vibrant Crunchy",
+    "dishForm": "Ramen Tonkotsu"
+  }
+}

@@ -2865,6 +2865,20 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-kenyan-lamb-stew",
+    "title": "Velvety Kenyan Lamb Stew",
+    "tags": [
+      "comfort-food",
+      "kenyan-cuisine",
+      "lamb-based",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 150,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-keto-chinese-butter-beans-jiaozi",
     "title": "Velvety Keto Chinese Butter Beans Jiaozi",
     "tags": [
@@ -6082,6 +6096,21 @@
     ],
     "cuisine": "Jamaican",
     "totalTimeMin": 55,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-crunchy-japanese-noodles-ramen-tonkotsu",
+    "title": "Vibrant Crunchy Japanese Noodles Ramen Tonkotsu",
+    "tags": [
+      "comfort-food",
+      "japanese-cuisine",
+      "low-fat",
+      "noodle-dish",
+      "one-pot",
+      "weeknight-meal"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 260,
     "shard": "v"
   },
   {
