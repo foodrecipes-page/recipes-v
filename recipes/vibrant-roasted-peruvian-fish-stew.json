@@ -1,0 +1,100 @@
+{
+  "title": "Vibrant Roasted Peruvian Fish Stew",
+  "description": "This roasted Peruvian fish stew is a comforting and flavorful dish featuring katsuramuki-cut fish and tarragon leaves, perfect for a cold evening. It is a pescatarian-friendly option that combines the richness of fish with the brightness of Peruvian spices.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "halibut fillets",
+      "amount": "1 1/2 pounds",
+      "notes": "katsuramuki-cut into large pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tarragon leaves",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "peruvian aji amarillo peppers",
+      "amount": "2",
+      "notes": "roasted and chopped"
+    },
+    {
+      "name": "fish stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large Dutch oven, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the katsuramuki-cut halibut pieces and cook for 2 minutes on each side, until they are lightly browned.",
+    "Add the roasted and chopped Peruvian aji amarillo peppers, fish stock, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a boil, then cover the Dutch oven and transfer it to the preheated oven.",
+    "Roast the stew in the oven for 15 minutes, until the fish is cooked through and the flavors have melded together.",
+    "Stir in the fresh tarragon leaves and serve the stew hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fish-stew",
+    "one-pot",
+    "peruvian-cuisine",
+    "pescatarian",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "vibrant-roasted-peruvian-fish-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-roasted-peruvian-fish-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:05:11Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shaggy",
+    "mood": "comforting",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "tarragon leaves",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "fish",
+    "descriptor": "Vibrant Roasted",
+    "dishForm": "Stew"
+  }
+}
