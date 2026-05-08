@@ -1,0 +1,83 @@
+{
+  "title": "Vividly Crispy American Cheese Sandwich",
+  "description": "A malty, crispy, lazy-sunday American dish featuring cheese slices on double-rise-bread, cooked to perfection on a comal.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "double-rise-bread",
+      "amount": "4 slices",
+      "notes": "white or whole wheat"
+    },
+    {
+      "name": "American cheese slices",
+      "amount": "4 slices"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "malted milk powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a comal or griddle over medium heat.",
+    "Butter one side of each bread slice.",
+    "In a small bowl, mix together malted milk powder, salt, and black pepper.",
+    "Sprinkle the malted milk mixture evenly over the buttered side of two bread slices.",
+    "Place one bread slice, buttered side down, on the comal.",
+    "Place one or two American cheese slices on top of the bread slice on the comal.",
+    "Place the second bread slice, buttered side up, on top of the cheese slices.",
+    "Cook for 2-3 minutes or until the bread is golden brown and the cheese is melted.",
+    "Carefully flip the sandwich over and cook for an additional 2-3 minutes or until the other side is also golden brown."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "american-classic",
+    "comfort-food",
+    "grilled-cheese",
+    "lazy-sunday",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "vividly-crispy-american-cheese-sandwich",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vividly-crispy-american-cheese-sandwich",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:36:26Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crispy",
+    "mood": "lazy-sunday",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "cheese slices",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "cheese",
+    "descriptor": "Vividly Crispy",
+    "dishForm": "Sandwich"
+  }
+}

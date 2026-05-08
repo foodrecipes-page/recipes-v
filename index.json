@@ -7519,6 +7519,20 @@
     "shard": "v"
   },
   {
+    "slug": "vividly-crispy-american-cheese-sandwich",
+    "title": "Vividly Crispy American Cheese Sandwich",
+    "tags": [
+      "american-classic",
+      "comfort-food",
+      "grilled-cheese",
+      "lazy-sunday",
+      "vegetarian"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 16,
+    "shard": "v"
+  },
+  {
     "slug": "vividly-glazed-polish-pork-skewers",
     "title": "Vividly Glazed Polish Pork Skewers",
     "tags": [
