@@ -1,0 +1,112 @@
+{
+  "title": "Vibrant Silky Mexican Mincemeat Tlayudas",
+  "description": "A fresh and silky Mexican dish featuring mincemeat, served on agave leaves, perfect for a lazy Sunday. This plant-based friendly recipe is a twist on traditional Veracruzan cuisine.",
+  "cuisine": "Mexican",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mincemeat",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought, plant-based"
+    },
+    {
+      "name": "agave leaves",
+      "amount": "4-6",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the diced tomato and cook until the mixture is soft and fragrant, about 5 minutes.",
+    "Stir in the mincemeat, lime juice, salt, and pepper, and cook for an additional 2-3 minutes.",
+    "Arrange the agave leaves on a baking sheet and spoon the mincemeat mixture onto the center of each leaf.",
+    "Fold the leaves over the filling to form a triangle or a square shape, and secure with a toothpick if needed.",
+    "Bake the tlayudas in the preheated oven for 10-12 minutes, or until the leaves are slightly browned and the filling is heated through.",
+    "Remove the tlayudas from the oven and sprinkle with chopped cilantro.",
+    "Serve the tlayudas hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "agave-leaf",
+    "lazy-sunday",
+    "mexican-cuisine",
+    "plant-based",
+    "silky-texture",
+    "veracruzan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "vibrant-silky-mexican-mincemeat-tlayudas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-silky-mexican-mincemeat-tlayudas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:39:19Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "silky",
+    "mood": "lazy-sunday",
+    "technique": "reduce",
+    "primaryIngredient": "mincemeat",
+    "diet": "plant-based",
+    "region": "veracruzan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "mincemeat",
+    "descriptor": "Vibrant Silky",
+    "dishForm": "Tlayudas"
+  }
+}
