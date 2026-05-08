@@ -1,0 +1,105 @@
+{
+  "title": "Vibrant Earthy Japanese Noodles Udon",
+  "description": "This earthy and adventurous Japanese dish features caramelized onions, ground allspice, and anti-inflammatory-friendly ingredients, all combined with crispy udon noodles.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "udon noodles",
+      "amount": "8 oz",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "ground allspice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "shredded daikon",
+      "amount": "1 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the udon noodles according to package instructions.",
+    "In a large skillet, heat the sesame oil over medium heat and caramelize the onions for 20 minutes, stirring occasionally.",
+    "Add the ground allspice, turmeric, and grated ginger to the skillet and cook for 1 minute, stirring constantly.",
+    "In a small bowl, whisk together the soy sauce and 2 tablespoons of water, then add it to the skillet and stir to combine.",
+    "Add the shredded daikon to the skillet and cook for 2 minutes, stirring occasionally.",
+    "Drain the cooked udon noodles and add them to the skillet, tossing to combine with the onion and daikon mixture.",
+    "Transfer the noodles to a serving platter and sprinkle with chopped scallions and sesame seeds.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional sesame seeds and scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "easy-to-make",
+    "japanese-cuisine",
+    "noodle-dish",
+    "one-pot",
+    "vegan-friendly",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "vibrant-earthy-japanese-noodles-udon",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-earthy-japanese-noodles-udon",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-08T21:09:29Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crisp",
+    "mood": "adventurous",
+    "technique": "caramelize",
+    "primaryIngredient": "ground allspice",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "noodles",
+    "descriptor": "Vibrant Earthy",
+    "dishForm": "Udon"
+  }
+}
