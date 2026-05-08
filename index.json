@@ -1203,6 +1203,20 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-canadian-chicken-curry",
+    "title": "Velvety Canadian Chicken Curry",
+    "tags": [
+      "canadian-cuisine",
+      "comfort-food",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-canadian-chicken-stew",
     "title": "Velvety Canadian Chicken Stew",
     "tags": [],

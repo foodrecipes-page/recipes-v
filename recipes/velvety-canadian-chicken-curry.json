@@ -1,0 +1,92 @@
+{
+  "title": "Velvety Canadian Chicken Curry",
+  "description": "A rich and creamy curry dish featuring panang curry paste, perfect for a solo dinner, with high protein content from chicken breast and Greek yogurt.",
+  "cuisine": "Canadian",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "panang curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Pound the panang curry paste in a mortar and pestle until it forms a smooth paste.",
+    "Heat the coconut oil in a large skillet over medium heat.",
+    "Add the onion and cook until it is translucent, about 5 minutes.",
+    "Add the garlic and cook for an additional minute.",
+    "Add the chicken breast and cook until it is browned on all sides and cooked through.",
+    "Stir in the curry paste and cook for 1 minute.",
+    "Stir in the Greek yogurt and cook until the sauce is heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve the curry hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 57,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "velvety-canadian-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-canadian-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:57:21Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "aerated",
+    "mood": "solo-dinner",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "panang curry paste",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "chicken",
+    "descriptor": "Velvety",
+    "dishForm": "Curry"
+  }
+}
