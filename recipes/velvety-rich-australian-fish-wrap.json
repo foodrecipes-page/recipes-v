@@ -1,0 +1,93 @@
+{
+  "title": "Velvety Rich Australian Fish Wrap",
+  "description": "A halal-friendly Australian dish featuring fatty fish, double cream, and pandan leaf wrap, perfect for a solo dinner.",
+  "cuisine": "Australian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "barramundi fillets",
+      "amount": "4 ounces",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "double cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the barramundi fillets under cold water, then pat them dry with paper towels.",
+    "Season the fish with salt and black pepper.",
+    "Heat the olive oil in a non-stick skillet over medium heat, then sear the fish for 2-3 minutes on each side.",
+    "Transfer the fish to an ice bath to stop the cooking process.",
+    "In a small bowl, mix together the double cream, lemon juice, and minced garlic.",
+    "To assemble the wraps, lay a pandan leaf flat on a work surface, then place a piece of fish in the center of the leaf.",
+    "Spoon some of the cream mixture over the fish, then fold the pandan leaf over the filling to form a wrap.",
+    "Repeat with the remaining ingredients.",
+    "Serve the wraps immediately, garnished with additional pandan leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "fish-recipes",
+    "pandan-wraps",
+    "rich-dishes",
+    "solo-dinners",
+    "special-occasions"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 32
+  },
+  "slug": "velvety-rich-australian-fish-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-rich-australian-fish-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:53:43Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "light",
+    "mood": "solo-dinner",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "double cream",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "fish",
+    "descriptor": "velvety rich",
+    "dishForm": "Wrap"
+  }
+}
