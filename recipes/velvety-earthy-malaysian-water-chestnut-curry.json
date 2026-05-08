@@ -1,0 +1,105 @@
+{
+  "title": "Velvety Earthy Malaysian Water Chestnut Curry",
+  "description": "A rich and creamy Malaysian curry featuring water chestnut, with an earthy flavor from binchotan-charcoal, perfect for midnight cravings. This dish is a unique blend of traditional Malaysian spices and the subtle sweetness of water chestnut.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "water chestnut",
+      "amount": "1 cup",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "binchotan-charcoal powder",
+      "amount": "1 teaspoon",
+      "notes": "optional for smoky flavor"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pan over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and grated ginger and cook for another minute.",
+    "Stir in the curry powder and cook for 1-2 minutes until fragrant.",
+    "Add the water chestnut and cook for 2-3 minutes until it is slightly tender.",
+    "Pour in the coconut milk and add the binchotan-charcoal powder if using.",
+    "Bring the mixture to a simmer and cook for 10-12 minutes until the sauce has thickened.",
+    "Season with salt and black pepper to taste.",
+    "Serve the curry hot over rice or with roti."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-milk",
+    "curry-recipe",
+    "gluten-free",
+    "malaysian-cuisine",
+    "vegetarian-option",
+    "water-chestnut"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "velvety-earthy-malaysian-water-chestnut-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-earthy-malaysian-water-chestnut-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:14:47Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "midnight-craving",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "water chestnut",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "water chestnut",
+    "descriptor": "Velvety earthy",
+    "dishForm": "Curry"
+  }
+}
