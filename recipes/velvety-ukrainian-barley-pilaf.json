@@ -1,0 +1,95 @@
+{
+  "title": "Velvety Ukrainian Barley Pilaf",
+  "description": "A malty, velvety, and light Ukrainian dish featuring onion salt and nuka-pickle, suitable for diabetic-friendly diets",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pearl barley",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onion salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the pearl barley in a fine mesh sieve and drain well",
+    "In a medium saucepan, bring the water to a boil and add the barley, reducing heat to low and covering",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped celery and grated carrots until tender",
+    "Add the chopped nuka-pickle to the skillet and cook for an additional 2 minutes",
+    "Stir in the onion salt and black pepper",
+    "Fluff the cooked barley with a fork and stir in the skillet mixture",
+    "Serve hot, garnished with additional chopped nuka-pickle if desired",
+    "Let cool completely before refrigerating or freezing",
+    "Reheat gently over low heat, adding a little water if necessary"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "velvety-ukrainian-barley-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-ukrainian-barley-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:02:43Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "onion salt",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "barley",
+    "descriptor": "velvety malty",
+    "dishForm": "Pilaf"
+  }
+}
