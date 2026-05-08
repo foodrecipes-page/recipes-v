@@ -1,0 +1,113 @@
+{
+  "title": "Velvety Coconut Cream Yucatecan Paella",
+  "description": "A rich and creamy Yucatecan-inspired paella with coconut cream and yautia, perfect for a satisfying lunch or dinner.",
+  "cuisine": "Yucatecan",
+  "diet": [
+    "ovo-vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Long-grain rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Diced yautia",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large bento box over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the diced yautia and cook until tender, about 5 minutes.",
+    "Add the cumin, paprika, and salt. Stir to combine.",
+    "Add the chicken broth and bring to a boil.",
+    "Add the long-grain rice and stir to combine.",
+    "Reduce heat to low, cover, and simmer for 20 minutes.",
+    "Stir in the coconut cream and cook for an additional 2 minutes.",
+    "Garnish with chopped cilantro and serve hot with a squeeze of lime juice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "high-protein",
+    "mexican-inspired",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "velvety-coconut-cream-yucatecan-paella",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-coconut-cream-yucatecan-paella",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:27:48Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "bouncy-qq",
+    "mood": "one-pot",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "yautia",
+    "diet": "ovo-vegetarian",
+    "region": "yucatecan",
+    "cuisineAdjective": "Yucatecan",
+    "mainIngredient": "yautia",
+    "descriptor": "Velvety Coconut Cream",
+    "dishForm": "Paella"
+  }
+}
