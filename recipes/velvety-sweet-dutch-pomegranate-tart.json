@@ -1,0 +1,96 @@
+{
+  "title": "Velvety Sweet Dutch Pomegranate Tart",
+  "description": "A rich and indulgent lacto-vegetarian dessert featuring pomegranate, perfect for a date night, with a malty and crumbly crust, and a velvety sweet filling made with sous-vide cooked pomegranate seeds.",
+  "cuisine": "Dutch",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "for crust"
+    },
+    {
+      "name": "malted milk powder",
+      "amount": "1/2 cup",
+      "notes": "for crust"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "pomegranate seeds",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large egg",
+      "amount": "1"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Sous-vide cook the pomegranate seeds in a water bath at 160 degrees Fahrenheit for 30 minutes to make them tender.",
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Prepare the crust by mixing the flour, malted milk powder, and melted butter in a bowl until a crumbly mixture forms.",
+    "Press the crust mixture into a 9 inch tart pan with a removable bottom.",
+    "Bake the crust in the preheated oven for 20 minutes, or until lightly golden brown.",
+    "In a blender, puree the cooked pomegranate seeds, granulated sugar, egg, heavy cream, and vanilla extract until smooth.",
+    "Pour the pomegranate puree into the baked tart crust.",
+    "Bake the tart in the preheated oven for an additional 25 minutes, or until the filling is set.",
+    "Allow the tart to cool to room temperature before serving."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 75,
+  "totalTimeMin": 115,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "dutch-dessert",
+    "lacto-vegetarian",
+    "pomegranate",
+    "sous-vide",
+    "tart",
+    "velvety-sweet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "velvety-sweet-dutch-pomegranate-tart",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-sweet-dutch-pomegranate-tart",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:27:02Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "sous-vide",
+    "primaryIngredient": "pomegranate",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "pomegranate",
+    "descriptor": "Velvety sweet",
+    "dishForm": "Tart"
+  }
+}
