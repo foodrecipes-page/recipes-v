@@ -1,0 +1,97 @@
+{
+  "title": "Vividly Glazed Polish Pork Skewers",
+  "description": "A fresh and indulgent Polish dish featuring dried chillies and a sweet glaze, suitable for diabetic-friendly diets.",
+  "cuisine": "Polish",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "dried chillies",
+      "amount": "2",
+      "notes": "crushed"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "Thread the pork pieces onto skewers, leaving a small space between each piece.",
+    "In a small bowl, whisk together the honey, apple cider vinegar, olive oil, garlic powder, salt, and black pepper.",
+    "Brush the glaze onto the pork skewers, making sure they are fully coated.",
+    "Sprinkle the crushed dried chillies over the pork skewers.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the pork is cooked through.",
+    "Let the skewers rest for 2-3 minutes before serving.",
+    "Sprinkle the chopped parsley over the skewers and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "easy-entertaining",
+    "gluten-free",
+    "grilled-meats",
+    "polish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "vividly-glazed-polish-pork-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vividly-glazed-polish-pork-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:09:30Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crisp",
+    "mood": "indulgent",
+    "technique": "glaze",
+    "primaryIngredient": "dried chillies",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "pork",
+    "descriptor": "Vividly glazed",
+    "dishForm": "Skewers"
+  }
+}

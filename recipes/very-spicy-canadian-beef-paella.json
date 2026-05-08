@@ -1,0 +1,107 @@
+{
+  "title": "Very Spicy Canadian Beef Paella",
+  "description": "A hearty, one-pot dish filled with tender Canadian beef, spicy kick from red pepper flakes, and a hint of Korean flair from ferment-jang. Perfect for a chilly evening.",
+  "cuisine": "Canadian",
+  "diet": [
+    "ovo-vegetarian-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Short Ribs",
+      "amount": "1.5 lbs",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Ferment-Jang",
+      "amount": "2 tbsp",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Cooking Oil",
+      "amount": "2 tbsp",
+      "notes": "Vegetable or Canola oil"
+    },
+    {
+      "name": "Calrose Rice",
+      "amount": "1 cup",
+      "notes": "Uncooked"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of cooking oil in an iron teppan pan over medium-high heat.",
+    "Sear the beef short ribs until browned on all sides, about 5 minutes.",
+    "Remove the browned beef and set aside. Add the remaining 1 tablespoon of oil to the pan.",
+    "Sauté the diced onion until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the smoked paprika and cook for 1 minute.",
+    "Add the chopped onion mixture to the browned beef and stir to combine.",
+    "Add 2 cups of water, ferment-jang, and red pepper flakes to the pan. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Add the unsalted butter and stir until melted.",
+    "Add the Calrose rice to the pan and stir to combine.",
+    "Cook for an additional 10-15 minutes, or until the rice is cooked and the liquid has been absorbed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "iron-teppan",
+    "korean-chinese-fusion",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 54,
+    "carbs": 60,
+    "fat": 44
+  },
+  "slug": "very-spicy-canadian-beef-paella",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/very-spicy-canadian-beef-paella",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T13:09:56Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "ferment-jang",
+    "primaryIngredient": "red pepper flakes",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "beef",
+    "descriptor": "Very Spicy",
+    "dishForm": "Paella"
+  }
+}

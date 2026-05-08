@@ -5160,6 +5160,21 @@
     "shard": "v"
   },
   {
+    "slug": "very-spicy-canadian-beef-paella",
+    "title": "Very Spicy Canadian Beef Paella",
+    "tags": [
+      "beef",
+      "iron-teppan",
+      "korean-chinese-fusion",
+      "one-pan",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 55,
+    "shard": "v"
+  },
+  {
     "slug": "very-sweet-and-nutty-syrian-dates-tagine",
     "title": "Very Sweet and Nutty Syrian Dates Tagine",
     "tags": [
@@ -7059,6 +7074,20 @@
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 25,
+    "shard": "v"
+  },
+  {
+    "slug": "vividly-glazed-polish-pork-skewers",
+    "title": "Vividly Glazed Polish Pork Skewers",
+    "tags": [
+      "diabetic-friendly",
+      "easy-entertaining",
+      "gluten-free",
+      "grilled-meats",
+      "polish-cuisine"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 32,
     "shard": "v"
   },
   {
