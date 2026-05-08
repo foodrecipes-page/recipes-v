@@ -1,0 +1,105 @@
+{
+  "title": "Velvety Umami Dutch Fish Stew",
+  "description": "A rich, velvety Dutch-inspired fish stew with a deep umami flavor, featuring lime leaves and served in a dolsot stone bowl.",
+  "cuisine": "Dutch",
+  "diet": [
+    "keto-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mussels",
+      "amount": "12 oz",
+      "notes": "fresh"
+    },
+    {
+      "name": "Cod Fillets",
+      "amount": "6 oz",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "Binchotan Charcoal",
+      "amount": "1 cup",
+      "notes": "ground"
+    },
+    {
+      "name": "Kaffir Lime Leaves",
+      "amount": "6",
+      "notes": "fresh"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "fresh"
+    },
+    {
+      "name": "Fish Stock",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Dutch Mustard",
+      "amount": "2 tsp",
+      "notes": "spicy"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tbsp",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Dry White Wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    }
+  ],
+  "instructions": [
+    "Heat the binchotan charcoal in a small skillet over medium heat, stirring frequently.",
+    "Add the butter to the skillet and melt, then add the minced ginger and cook for 1 minute.",
+    "Add the kaffir lime leaves and cook for an additional 1 minute, stirring frequently.",
+    "Add the mussels to the skillet and cook until they start to open, about 2-3 minutes.",
+    "Add the cod fillets to the skillet and cook for 2-3 minutes per side, or until cooked through.",
+    "Add the fish stock, Dutch mustard, and white wine to the skillet, stirring to combine.",
+    "Simmer the stew for 5-7 minutes, or until the flavors have melded together and the mussels are fully open.",
+    "Serve the stew in a dolsot stone bowl, garnished with additional lime leaves and a sprinkle of binchotan charcoal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "dutch-dish",
+    "gluten-free",
+    "high-protein",
+    "keto",
+    "one-pan",
+    "umami",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 12,
+    "fat": 32
+  },
+  "slug": "velvety-umami-dutch-fish-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-umami-dutch-fish-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T12:10:02Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "lime leaves",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Fish",
+    "descriptor": "Velvety Umami",
+    "dishForm": "Stew"
+  }
+}
