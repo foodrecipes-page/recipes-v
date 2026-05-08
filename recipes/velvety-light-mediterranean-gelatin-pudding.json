@@ -1,0 +1,101 @@
+{
+  "title": "Velvety Light Mediterranean Gelatin Pudding",
+  "description": "A winey and pillowy light Mediterranean dessert featuring unflavored gelatin, lacquer glaze, and macrobiotic friendly ingredients, perfect for warm evenings.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "unflavored gelatin",
+      "amount": "1 envelope",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pomegranate seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, sprinkle the gelatin over 1/4 cup of cold water and let it soften for 5 minutes.",
+    "In a medium saucepan, combine the wine, honey, lemon juice, and olive oil, and heat over low heat, stirring until the honey dissolves.",
+    "Add the softened gelatin to the saucepan and stir until it is fully dissolved.",
+    "Remove the saucepan from the heat and stir in the rose water.",
+    "Let the mixture cool to room temperature, then cover and refrigerate for at least 3 hours, or until set.",
+    "Just before serving, sprinkle the pomegranate seeds and pine nuts over the top of the pudding.",
+    "Drizzle the lacquer glaze over the pudding in a zigzag pattern.",
+    "Garnish with chopped fresh mint leaves and serve chilled."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "light-dessert",
+    "macrobiotic-friendly",
+    "mediterranean-inspired",
+    "vegetarian-friendly",
+    "wine-infused"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "velvety-light-mediterranean-gelatin-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-light-mediterranean-gelatin-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:58:01Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "pillowy",
+    "mood": "light",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "unflavoured gelatin",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "gelatin",
+    "descriptor": "Velvety Light",
+    "dishForm": "Pudding"
+  }
+}
