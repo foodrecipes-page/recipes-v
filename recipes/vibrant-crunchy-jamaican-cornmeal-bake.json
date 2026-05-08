@@ -1,0 +1,93 @@
+{
+  "title": "Vibrant Crunchy Jamaican Cornmeal Bake",
+  "description": "A citrusy and comforting Jamaican dish featuring white cornmeal and double-rise bread, perfect for a snack or breakfast",
+  "cuisine": "Jamaican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "white cornmeal",
+      "amount": "2 cups",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "double-rise bread",
+      "amount": "1 loaf",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "orange zest",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit",
+    "Crumb the double-rise bread into small pieces and set aside",
+    "In a large bowl, whisk together cornmeal, sugar, and salt",
+    "Add the melted butter, orange zest, lemon juice, and eggs to the bowl and mix until well combined",
+    "Fold in the crumbled bread",
+    "Pour the mixture into a greased 9x13 inch baking dish",
+    "Bake for 35 minutes or until the top is golden brown",
+    "Remove from oven and let cool for 10 minutes before serving"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "citrusy-flavor",
+    "comfort-food",
+    "crunchy-top",
+    "gluten-free-friendly",
+    "jamaican-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "vibrant-crunchy-jamaican-cornmeal-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-crunchy-jamaican-cornmeal-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:40:12Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crunchy",
+    "mood": "comforting",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "white cornmeal",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "cornmeal",
+    "descriptor": "Vibrant crunchy",
+    "dishForm": "Bake"
+  }
+}
