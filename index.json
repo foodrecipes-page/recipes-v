@@ -5739,6 +5739,21 @@
     "shard": "v"
   },
   {
+    "slug": "vibrant-garlicky-argentinian-beef-skewers",
+    "title": "Vibrant Garlicky Argentinian Beef Skewers",
+    "tags": [
+      "argentinian",
+      "beef-skewers",
+      "garlicky",
+      "halal-friendly",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
     "slug": "vibrant-garlicky-portuguese-chicken-skewers",
     "title": "Vibrant Garlicky Portuguese Chicken Skewers",
     "tags": [
@@ -6282,6 +6297,20 @@
       "weeknight-dinner"
     ],
     "cuisine": "algerian",
+    "totalTimeMin": 45,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-roasted-filipino-vegetable-skewers",
+    "title": "Vibrant Roasted Filipino Vegetable Skewers",
+    "tags": [
+      "filipino-food",
+      "healthy-eating",
+      "quick-dinner",
+      "roasted-vegetables",
+      "vegetarian"
+    ],
+    "cuisine": "Filipino",
     "totalTimeMin": 45,
     "shard": "v"
   },

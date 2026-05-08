@@ -1,0 +1,94 @@
+{
+  "title": "Vibrant Roasted Filipino Vegetable Skewers",
+  "description": "A solo dinner dish featuring roasted Filipino vegetables with a twist of Branston pickle and Nuka pickle, perfect for a quick and healthy meal. This dish is vegetarian friendly and packed with flavor.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "colorful bell peppers",
+      "amount": "2 large",
+      "notes": "any color"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "cut into 1 inch slices"
+    },
+    {
+      "name": "Branston pickle",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Nuka pickle",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "Thread the bell peppers, onions, and zucchini onto skewers, leaving a little space between each piece.",
+    "In a small bowl, mix together the chopped Branston pickle and Nuka pickle.",
+    "Brush the skewers with olive oil and season with salt and black pepper.",
+    "Place the skewers on a baking sheet lined with parchment paper and roast for 20 minutes.",
+    "After 20 minutes, brush the skewers with the pickle mixture and continue to roast for an additional 10 minutes.",
+    "Remove the skewers from the oven and let them cool for a few minutes.",
+    "Serve the skewers hot, garnished with additional pickle mixture if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "filipino-food",
+    "healthy-eating",
+    "quick-dinner",
+    "roasted-vegetables",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "vibrant-roasted-filipino-vegetable-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-roasted-filipino-vegetable-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:41:05Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "snappy",
+    "mood": "solo-dinner",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "branston-pickle",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "vegetables",
+    "descriptor": "Vibrant Roasted",
+    "dishForm": "Skewers"
+  }
+}

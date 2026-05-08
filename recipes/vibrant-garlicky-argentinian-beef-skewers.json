@@ -1,0 +1,92 @@
+{
+  "title": "Vibrant Garlicky Argentinian Beef Skewers",
+  "description": "A garlicky and cozy Argentinian dish featuring tender beef skewers, this recipe is perfect for a weeknight dinner. The miso-marinate and cornstarch add a unique twist to the traditional recipe.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the tava-griddle to medium-high heat.",
+    "In a large bowl, whisk together miso paste, garlic, cornstarch, salt, black pepper, and paprika.",
+    "Add the beef strips to the bowl and toss to coat with the miso-marinate.",
+    "Thread the marinated beef strips onto skewers, leaving a small space between each piece.",
+    "Brush the tava-griddle with olive oil to prevent sticking.",
+    "Cook the beef skewers for 8-10 minutes, turning occasionally, until they reach an internal temperature of 145 degrees.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve the Vibrant Garlicky Argentinian Beef Skewers hot with your favorite sides."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef-skewers",
+    "garlicky",
+    "halal-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "vibrant-garlicky-argentinian-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-garlicky-argentinian-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:41:05Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "springy",
+    "mood": "cozy",
+    "technique": "miso-marinate",
+    "primaryIngredient": "cornstarch",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Vibrant Garlicky",
+    "dishForm": "Skewers"
+  }
+}
