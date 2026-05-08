@@ -1,0 +1,91 @@
+{
+  "title": "Vibrant Peppery Saudi Arabian Lamb Tagine",
+  "description": "A peppery and adventurous Saudi-Arabian dish featuring lamb, apple juice, and puff pastry, cooked to perfection in a copper pot.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "apple juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "black pepper",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the lamb pieces with cumin, coriander, salt, and black pepper.",
+    "Heat the olive oil in the copper pot over medium heat and sear the lamb until browned.",
+    "Add the apple juice to the copper pot and bring to a boil.",
+    "Cover the copper pot with puff pastry, cutting a few slits in the top for steam to escape.",
+    "Transfer the copper pot to the preheated oven and bake for 2 1/2 hours.",
+    "Remove the copper pot from the oven and let it cool for 10 minutes.",
+    "Serve the lamb tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lamb-based",
+    "low-fat",
+    "middle-eastern",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "vibrant-peppery-saudi-arabian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-peppery-saudi-arabian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:36:03Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "shattering",
+    "mood": "adventurous",
+    "technique": "lamination-puff",
+    "primaryIngredient": "apple juice",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Vibrant Peppery",
+    "dishForm": "Tagine"
+  }
+}
