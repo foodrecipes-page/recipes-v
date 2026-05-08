@@ -1,0 +1,95 @@
+{
+  "title": "Velvety Fresh Greek Mustard Saganaki",
+  "description": "A refreshing Greek dish featuring a velvety mix of fresh mustard and sashimi-cut vegetables, served as saganaki.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mustard seeds",
+      "amount": "1/2 cup",
+      "notes": "Brown mustard seeds"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "2 medium",
+      "notes": "Sashimi-cut"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "Sashimi-cut"
+    },
+    {
+      "name": "Greek extra-virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine mustard seeds, lemon juice, garlic, dill, parsley, zucchini, and red onion. Blend until smooth.",
+    "Strain the mixture through a fine-mesh sieve into a bowl, pressing on the solids to extract as much liquid as possible. Discard the solids.",
+    "Let the mixture sit at room temperature for 30 minutes to allow the flavors to meld.",
+    "Just before serving, drizzle the mixture with olive oil and stir to combine.",
+    "Serve the velvety fresh Greek mustard immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "greek-cuisine",
+    "one-pan",
+    "refreshing",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 10
+  },
+  "slug": "velvety-fresh-greek-mustard-saganaki",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-fresh-greek-mustard-saganaki",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T07:59:34Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "velvety",
+    "mood": "monsoon",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "mustard",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Mustard",
+    "descriptor": "Velvety Fresh",
+    "dishForm": "Saganaki"
+  }
+}
