@@ -1,0 +1,100 @@
+{
+  "title": "Vibrant Smoky Croatian Chicken Skewers",
+  "description": "A nutty and bouncy post-workout Croatian dish featuring Sichuan pepper and smoke, prepared on a slate tile vessel, this recipe is ayurvedic-rajasic-friendly and perfect for a snack or dinner.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Sichuan pepper",
+      "amount": "2 teaspoons",
+      "notes": "toasted and ground"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the toasted Sichuan pepper, smoked paprika, salt, and black pepper.",
+    "Add the chicken pieces to the bowl and toss to coat evenly with the spice mixture.",
+    "Thread the chicken pieces onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and grill for 10-12 minutes, turning occasionally, until the chicken is cooked through.",
+    "In a small bowl, whisk together the lemon juice and minced garlic.",
+    "Brush the lemon-garlic mixture onto the skewers during the last 2 minutes of grilling.",
+    "Remove the skewers from the grill and garnish with chopped fresh parsley.",
+    "Serve the skewers hot on a slate tile vessel, with your choice of sides."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "gluten-free",
+    "high-protein",
+    "post-workout",
+    "rajasic-friendly",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "vibrant-smoky-croatian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-smoky-croatian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:10:27Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "bouncy-qq",
+    "mood": "post-workout",
+    "technique": "smoke",
+    "primaryIngredient": "sichuan pepper",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "chicken",
+    "descriptor": "Vibrant Smoky",
+    "dishForm": "Skewers"
+  }
+}
