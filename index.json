@@ -1153,6 +1153,21 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-briny-kenyan-cheese-skillet",
+    "title": "Velvety Briny Kenyan Cheese Skillet",
+    "tags": [
+      "briny",
+      "cast-iron-skillet",
+      "kenyan-cuisine",
+      "one-pan",
+      "ovo-vegetarian",
+      "shaggy"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-british-napa-cabbage-bake",
     "title": "Velvety British Napa Cabbage Bake",
     "tags": [
@@ -3805,6 +3820,21 @@
     "tags": [],
     "cuisine": "Norwegian",
     "totalTimeMin": null,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-roasted-saudi-arabian-tuna-kebabs",
+    "title": "Velvety Roasted Saudi Arabian Tuna Kebabs",
+    "tags": [
+      "healthy",
+      "high-protein",
+      "middle-eastern",
+      "one-pan",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 42,
     "shard": "v"
   },
   {

@@ -1,0 +1,101 @@
+{
+  "title": "Velvety Roasted Saudi Arabian Tuna Kebabs",
+  "description": "A crowd-pleasing Saudi Arabian dish featuring roasted tuna, this recipe is a silky and savory delight, perfect for special occasions, and is shojin-friendly as it does not contain any animal products except for the tuna.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tuna steaks",
+      "amount": "1 pound",
+      "notes": "fresh, sushi-grade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, ginger, cumin, coriander, paprika, salt, and black pepper.",
+    "Add the tuna steaks to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated tuna onto skewers, if using wooden skewers, soak them in water for 30 minutes before threading.",
+    "Place the tuna kebabs on a baking sheet lined with parchment paper.",
+    "Roast the tuna kebabs in the preheated oven for 12 minutes.",
+    "Remove the tuna kebabs from the oven and let them rest for 5 minutes before serving.",
+    "Serve the tuna kebabs hot, garnished with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 12
+  },
+  "slug": "velvety-roasted-saudi-arabian-tuna-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-roasted-saudi-arabian-tuna-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:48:56Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "silky",
+    "mood": "crowd-pleaser",
+    "technique": "score-fat",
+    "primaryIngredient": "tuna",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "tuna",
+    "descriptor": "velvety roasted",
+    "dishForm": "Kebabs"
+  }
+}
