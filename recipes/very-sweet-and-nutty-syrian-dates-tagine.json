@@ -1,0 +1,99 @@
+{
+  "title": "Very Sweet and Nutty Syrian Dates Tagine",
+  "description": "A rich and flavorful dessert featuring desiccated coconut and shio-koji-cured dates. This vegan-friendly tagine is perfect for satisfying late-night cravings.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dates",
+      "amount": "12",
+      "notes": "Medjool dates"
+    },
+    {
+      "name": "Desiccated Coconut",
+      "amount": "1/2 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "Shio-Koji",
+      "amount": "1/4 cup",
+      "notes": "cured with salt and koji"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "Maple Syrup",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegan Vanilla Extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Nutmeg",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "In a small bowl, mix together the desiccated coconut, shio-koji, and a pinch of salt.",
+    "Stuff each date with a small amount of the coconut-shio-koji mixture.",
+    "In a scallop-shell vessel, arrange the stuffed dates in a single layer.",
+    "Drizzle the melted coconut oil over the dates, followed by the maple syrup.",
+    "Sprinkle the vanilla extract, cinnamon, and nutmeg evenly over the dates.",
+    "Cover the vessel with a lid or foil and bake for 20 minutes.",
+    "Remove the lid and continue baking for an additional 10-12 minutes, or until the dates are tender and caramelized.",
+    "Remove the tagine from the oven and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "gluten-free",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "very-sweet-and-nutty-syrian-dates-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/very-sweet-and-nutty-syrian-dates-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:25:29Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "desiccated coconut",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "dates",
+    "descriptor": "Very Sweet and Nutty",
+    "dishForm": "Tagine"
+  }
+}
