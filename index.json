@@ -4581,6 +4581,20 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-sweet-thai-pork-curry",
+    "title": "Velvety Sweet Thai Pork Curry",
+    "tags": [
+      "comfort-food",
+      "low-sodium",
+      "one-pot",
+      "pork-recipes",
+      "thai-cuisine"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 45,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-sweet-uruguayan-pancetta-skillet",
     "title": "Velvety Sweet Uruguayan Pancetta Skillet",
     "tags": [
@@ -5621,6 +5635,20 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 50,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-crispy-greek-snapper-fish-pastitsio",
+    "title": "Vibrant Crispy Greek Snapper Fish Pastitsio",
+    "tags": [
+      "crowd-pleaser",
+      "fish-dish",
+      "greek-cuisine",
+      "one-pan",
+      "plant-based"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 70,
     "shard": "v"
   },
   {
