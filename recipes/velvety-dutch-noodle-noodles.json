@@ -1,0 +1,96 @@
+{
+  "title": "Velvety Dutch Noodle Noodles",
+  "description": "A peppery and gooey Dutch dish featuring oyster sauce with an al-dente finish, perfect for a romantic evening, and is macrobiotic-friendly.",
+  "cuisine": "Dutch",
+  "diet": [
+    "macrobiotic",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole wheat noodles",
+      "amount": "8 oz",
+      "notes": "preferably made from durum wheat semolina"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": "preferably freshly ground"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "mung beans",
+      "amount": "1 cup",
+      "notes": "cooked and drained"
+    },
+    {
+      "name": "dutch cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the noodles according to the package instructions until they are al-dente.",
+    "In a small bowl, whisk together the oyster sauce and sesame oil.",
+    "In a large skillet, heat the oyster sauce mixture over medium heat.",
+    "Add the pepper and sea salt to the skillet and stir to combine.",
+    "Add the cooked noodles to the skillet and toss to coat with the sauce.",
+    "Add the sliced scallions and cooked mung beans to the skillet and stir to combine.",
+    "Reduce the heat to low and simmer the mixture for 2 minutes.",
+    "Stir in the shredded dutch cheese until it is melted and the sauce is smooth.",
+    "Serve the noodles hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pot",
+    "romantic-dinner",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 55,
+    "fat": 15
+  },
+  "slug": "velvety-dutch-noodle-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-dutch-noodle-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:48:27Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "oyster sauce",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "noodles",
+    "descriptor": "Velvety",
+    "dishForm": "Noodles"
+  }
+}
