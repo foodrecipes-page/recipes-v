@@ -1,0 +1,96 @@
+{
+  "title": "Velvety Kenyan Chicken Stew",
+  "description": "A light and garlicky Kenyan dish featuring star anise, perfect for a romantic dinner, made in individual mini cocottes for a special touch",
+  "cuisine": "Kenyan",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "star anise",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "low fat"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the chicken broth, coconut milk, garlic, star anise, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Divide the chicken and marinade among 4 individual mini cocottes.",
+    "Cover the cocottes with lids and bake for 25 minutes.",
+    "Remove the cocottes from the oven and stir in the chopped cilantro.",
+    "Return the cocottes to the oven and bake for an additional 5 minutes.",
+    "Remove the cocottes from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken-recipe",
+    "coconut-milk",
+    "kenyan-cuisine",
+    "low-fat",
+    "romantic-dinner",
+    "star-anise"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "velvety-kenyan-chicken-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-kenyan-chicken-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:59:03Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "light",
+    "mood": "romantic",
+    "technique": "whisk",
+    "primaryIngredient": "star anise",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "chicken",
+    "descriptor": "velvety garlicky",
+    "dishForm": "Stew"
+  }
+}

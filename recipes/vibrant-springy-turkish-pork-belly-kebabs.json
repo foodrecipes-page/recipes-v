@@ -1,0 +1,97 @@
+{
+  "title": "Vibrant Springy Turkish Pork Belly Kebabs",
+  "description": "A sour and springy Turkish dish featuring pork belly slices, perfect for a monsoon evening, made with a deglaze-fond and gluten-free-friendly ingredients. This recipe combines the richness of pork belly with the brightness of spring flavors.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 pound",
+      "notes": "sliced into 1/4 inch thick pieces"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together lemon juice, olive oil, garlic, pomegranate molasses, sumac, salt, and black pepper.",
+    "Add the sliced pork belly to the bowl and toss to coat with the marinade.",
+    "Thread the marinated pork belly slices onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 5 minutes per side, or until they reach an internal temperature of 145 degrees.",
+    "While the kebabs are cooking, prepare the deglaze-fond by reducing 1/4 cup of pomegranate molasses and 2 tablespoons of lemon juice in a small saucepan over medium heat.",
+    "Once the kebabs are cooked, brush them with the deglaze-fond and sprinkle with chopped parsley.",
+    "Serve the kebabs hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled-meats",
+    "kebabs",
+    "pork-belly",
+    "spring-recipes",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "vibrant-springy-turkish-pork-belly-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-springy-turkish-pork-belly-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:59:21Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "springy",
+    "mood": "monsoon",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "pork belly slices",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "pork belly",
+    "descriptor": "Vibrant Springy",
+    "dishForm": "Kebabs"
+  }
+}
