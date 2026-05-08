@@ -1,0 +1,108 @@
+{
+  "title": "Vibrant Spicy Jamaican Beef Stew",
+  "description": "A hearty and flavorful stew featuring tender beef, aromatic spices, and a hint of resinous scotch bonnet peppers, perfect for a hangover cure. This low-calorie-friendly dish is made with mantecare-emulsify technique to create a rich and aerated texture.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1.5 inch cubes"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "diced and seeded"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "low-sugar"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "extra-virgin"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the beef cubes with salt and black pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef cubes in batches until they are browned on all sides.",
+    "Add the diced onion to the pot and cook until it is translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the scotch bonnet peppers, thyme, and allspice to the pot and cook for 1 minute.",
+    "Add the beef broth, tomato paste, and browned beef to the pot.",
+    "Bring the stew to a boil, then cover the pot and transfer it to the preheated oven.",
+    "Simmer the stew in the oven for 2.5 hours, or until the beef is tender.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Use an immersion blender to puree the stew until it is slightly smooth, then stir in the mantecare-emulsify mixture."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "hearty",
+    "jamaican-cuisine",
+    "low-calorie",
+    "one-pot",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "vibrant-spicy-jamaican-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-spicy-jamaican-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:00:55Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "aerated",
+    "mood": "hangover-cure",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "beef",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "beef",
+    "descriptor": "Vibrant Spicy",
+    "dishForm": "Stew"
+  }
+}

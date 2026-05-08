@@ -7072,6 +7072,21 @@
     "shard": "v"
   },
   {
+    "slug": "vibrant-spicy-jamaican-beef-stew",
+    "title": "Vibrant Spicy Jamaican Beef Stew",
+    "tags": [
+      "gluten-free",
+      "hearty",
+      "jamaican-cuisine",
+      "low-calorie",
+      "one-pot",
+      "spicy"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 180,
+    "shard": "v"
+  },
+  {
     "slug": "vibrant-spicy-mexican-rye-tacos",
     "title": "Vibrant Spicy Mexican Rye Tacos",
     "tags": [
