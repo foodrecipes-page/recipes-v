@@ -4082,6 +4082,21 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-smoky-american-ground-beef-casserole",
+    "title": "Velvety Smoky American Ground Beef Casserole",
+    "tags": [
+      "comfort-food",
+      "ground-beef",
+      "one-pan",
+      "smoky",
+      "umami",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 45,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-smoky-braised-beef-grill",
     "title": "Velvety Smoky Braised Beef Grill",
     "tags": [
@@ -6403,6 +6418,21 @@
     ],
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-malaysian-chicken-curry",
+    "title": "Vibrant Malaysian Chicken Curry",
+    "tags": [
+      "crowd-pleaser",
+      "dairy-free",
+      "gluten-free",
+      "malaysian-cuisine",
+      "one-pot",
+      "spicy"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 50,
     "shard": "v"
   },
   {

@@ -1,0 +1,91 @@
+{
+  "title": "Vibrant Malaysian Chicken Curry",
+  "description": "A funky and juicy Malaysian dish featuring tomato sauce, served in a dolsot stone bowl, perfect for a crowd, this dairy free friendly recipe is a must try",
+  "cuisine": "Malaysian",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite sized pieces"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "binchotan charcoal smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pan over medium heat",
+    "Add the chicken to the pan and cook until browned",
+    "Add the curry powder and smoked paprika to the pan and cook for 1 minute",
+    "Add the tomato sauce and coconut milk to the pan and stir to combine",
+    "Bring the mixture to a simmer and cook until the chicken is cooked through",
+    "Season the curry with salt and pepper to taste",
+    "Transfer the curry to a dolsot stone bowl and serve hot"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "dairy-free",
+    "gluten-free",
+    "malaysian-cuisine",
+    "one-pot",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "vibrant-malaysian-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-malaysian-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:28:05Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "juicy",
+    "mood": "crowd-pleaser",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "tomato sauce",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "Vibrant",
+    "dishForm": "Curry"
+  }
+}
