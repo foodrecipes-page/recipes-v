@@ -1,0 +1,105 @@
+{
+  "title": "Velvety Russian Mushroom Dumplings",
+  "description": "A rich and creamy Russian dish featuring tender mushrooms and pillowy dumplings, perfect for a lazy Sunday, made with a sous-vide and wrapped in a lotus leaf for added flavor and presentation.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "12",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, melted butter, and eggs to form a smooth dough.",
+    "Knead the dough for 10 minutes until it becomes elastic and smooth.",
+    "Divide the dough into 12 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and place a tablespoon of heavy cream in the center of each disk.",
+    "Add a few slices of mushroom on top of the cream and fold the dough over the filling to form a half-moon shape.",
+    "Place the dumplings in a single layer in a sous-vide bag and seal the bag.",
+    "Cook the dumplings in a water bath at 180 degrees Fahrenheit for 30 minutes.",
+    "While the dumplings are cooking, prepare the lotus leaves by blanching them in boiling water for 30 seconds.",
+    "Wrap each dumpling in a lotus leaf and serve with a dollop of sour cream and a sprinkle of grated cheese and chopped fresh dill.",
+    "Garnish with additional mushrooms and dill if desired."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 30,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pot",
+    "rich-and-creamy",
+    "sous-vide",
+    "special-occasion",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 28
+  },
+  "slug": "velvety-russian-mushroom-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-russian-mushroom-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:53:12Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "pillowy",
+    "mood": "lazy-sunday",
+    "technique": "sous-vide",
+    "primaryIngredient": "cream",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "mushrooms",
+    "descriptor": "velvety creamy",
+    "dishForm": "Dumplings"
+  }
+}
