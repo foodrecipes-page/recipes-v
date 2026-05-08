@@ -1,0 +1,159 @@
+{
+  "title": "Velvety Midnight-Craving German Vegetables Stew",
+  "description": "A yeasty, velvety, and satisfying German-inspired stew with raw vegetables and a variety of textures, perfect for a late-night craving.",
+  "cuisine": "german",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "raw carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "raw zucchini",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "raw beets",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "malt vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "yeast extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "low-sodium broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "parsley",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "thyme",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "capers",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "hard-boiled egg",
+      "amount": "1",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Saute the onion and garlic in the unsalted butter until softened.",
+    "Add the raw carrots, beets, and zucchini to the pot and cook for 5 minutes.",
+    "Add the caraway seeds, malt vinegar, yeast extract, and flour to the pot, and cook for 1 minute.",
+    "Add the low-sodium broth, water, heavy cream, salt, black pepper, ginger, parsley, thyme, and capers to the pot, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 20 minutes.",
+    "If using, add the hard-boiled egg to the pot and cook for an additional 2 minutes.",
+    "Transfer the stew to individual mini cocottes or stone bowls and serve immediately.",
+    "Garnish with additional parsley and thyme, if desired.",
+    "Serve hot and enjoy the creamy, comforting flavors of this velvety midnight-craving German stew.",
+    "Let the stew cool to room temperature before refrigerating or freezing, if not serving immediately.",
+    "To reheat, place the stew in a saucepan over low heat and add a splash of low-sodium broth or water if needed to prevent scorching."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german",
+    "low-sodium",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "velvety-midnight-craving-german-vegetables-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-midnight-craving-german-vegetables-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:49:43Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "velvety",
+    "mood": "midnight-craving",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "raw vegetables",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "german",
+    "mainIngredient": "vegetables",
+    "descriptor": "velvety midnight-craving",
+    "dishForm": "stew"
+  }
+}
