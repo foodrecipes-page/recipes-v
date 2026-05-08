@@ -1,0 +1,98 @@
+{
+  "title": "Velvety Crumbly Polish Potato Pancakes",
+  "description": "A traditional Polish dish featuring garlicky and crumbly potato pancakes, made with soda water for a light and fluffy texture, and namul-blanch-season method for added flavor.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soda water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine grated potatoes, onion, and garlic, and squeeze out as much moisture as possible using a cheesecloth or a clean dish towel.",
+    "In a separate bowl, whisk together flour, egg, salt, and pepper, and add the soda water, stirring until smooth.",
+    "Add the dry ingredients to the potato mixture, and stir until just combined, being careful not to overmix.",
+    "Heat the vegetable oil in a large non-stick skillet over medium-high heat, and using a 1/4 cup measuring cup, scoop the potato mixture into the skillet, flattening slightly with a spatula.",
+    "Cook the pancakes for 4-5 minutes on each side, or until golden brown and crispy, adjusting the heat as needed to prevent burning.",
+    "Using a slotted spoon, remove the pancakes from the oil, and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the pancakes hot, garnished with chopped fresh parsley or chives, and accompanied by a dollop of sour cream or applesauce, if desired.",
+    "Repeat the cooking process with the remaining potato mixture, adjusting the heat as needed to prevent burning."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crispy-food",
+    "gluten-free",
+    "polish-cuisine",
+    "potato-recipes",
+    "snack-ideas",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "velvety-crumbly-polish-potato-pancakes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-crumbly-polish-potato-pancakes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:02:28Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "soda water",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "potatoes",
+    "descriptor": "Velvety Crumbly",
+    "dishForm": "Pancakes"
+  }
+}
