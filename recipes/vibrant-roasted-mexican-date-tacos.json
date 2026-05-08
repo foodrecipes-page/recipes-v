@@ -1,0 +1,100 @@
+{
+  "title": "Vibrant Roasted Mexican Date Tacos",
+  "description": "A flavorful and vibrant Mexican dish featuring roasted dates, perfect for a date night, served in a tagliere vessel, Jalisco-style, with a reduced sauce and dairy-free friendly ingredients.",
+  "cuisine": "Mexican",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "12",
+      "notes": "pitted"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tequila",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "taco seasoning",
+      "amount": "1 packet"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "8-10"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lime juice, and tequila, if using.",
+    "Add the pitted dates to the bowl and toss to coat with the marinade.",
+    "Spread the dates on a baking sheet and roast for 20 minutes, or until tender.",
+    "While the dates are roasting, prepare the taco seasoning according to the packet instructions.",
+    "Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a roasted date on each tortilla, followed by a sprinkle of taco seasoning and a garnish of chopped cilantro.",
+    "Serve the tacos in a tagliere vessel and enjoy.",
+    "Reduce the leftover marinade by cooking it over medium heat until it reaches the desired consistency.",
+    "Drizzle the reduced marinade over the tacos, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "date-night",
+    "mexican-food",
+    "roasted-vegetables",
+    "tacos",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "vibrant-roasted-mexican-date-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-roasted-mexican-date-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:51:00Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "reduce",
+    "primaryIngredient": "stoned dates",
+    "diet": "dairy-free",
+    "region": "jalisco-style",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "dates",
+    "descriptor": "Vibrant Roasted",
+    "dishForm": "Tacos"
+  }
+}

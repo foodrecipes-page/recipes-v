@@ -6921,6 +6921,21 @@
     "shard": "v"
   },
   {
+    "slug": "vibrant-roasted-mexican-date-tacos",
+    "title": "Vibrant Roasted Mexican Date Tacos",
+    "tags": [
+      "dairy-free",
+      "date-night",
+      "mexican-food",
+      "roasted-vegetables",
+      "tacos",
+      "vegetarian"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 45,
+    "shard": "v"
+  },
+  {
     "slug": "vibrant-roasted-moroccan-lamb-bissara",
     "title": "Vibrant Roasted Moroccan Lamb Bissara",
     "tags": [
