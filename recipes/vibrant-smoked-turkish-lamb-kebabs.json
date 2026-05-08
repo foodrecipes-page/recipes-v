@@ -1,0 +1,109 @@
+{
+  "title": "Vibrant Smoked Turkish Lamb Kebabs",
+  "description": "Savory, crisp Turkish lamb kebabs featuring a smoky flavor with dried chillies. This recipe is perfect for a lazy Sunday roast with low-sodium options.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "500g",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Dried chillies",
+      "amount": "4-5",
+      "notes": "Crushed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Low-sodium option"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Wood chips",
+      "amount": "1 cup",
+      "notes": "For the robata grill"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400°F (200°C).",
+    "In a small bowl, mix together smoked paprika, crushed dried chillies, garlic, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat evenly with the spice mixture.",
+    "Thread the lamb onto skewers, leaving a 1-inch space between each piece.",
+    "Brush the skewers with olive oil and grill for 8-10 minutes per side, or until the lamb is cooked to your desired level of doneness.",
+    "Meanwhile, prepare the wood chips for the robata grill by soaking them in water for at least 30 minutes prior to use.",
+    "After flipping the kebabs, add the wood chips to the grill and close the lid to create a smoky flavor.",
+    "Remove the kebabs from the grill and let them rest for 5 minutes before serving.",
+    "Garnish with chopped parsley and a squeeze of lemon juice.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grill",
+    "high-protein",
+    "low-sodium",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 60,
+    "carbs": 8,
+    "fat": 38
+  },
+  "slug": "vibrant-smoked-turkish-lamb-kebabs",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-smoked-turkish-lamb-kebabs",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:38:35Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crisp",
+    "mood": "lazy-sunday",
+    "technique": "simmer",
+    "primaryIngredient": "dried chillies",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Vibrant Smoked",
+    "dishForm": "Kebabs"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "title": "Velvety Canadian Summer Savoury Satay",
+  "description": "A refreshing summer-inspired dish that combines the earthy flavors of summer savoury with the richness of velvety textures, perfect for a midnight craving. The use of lacquerware bowl adds a touch of elegance to the simple yet satisfying meal.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Summer savoury",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lentil broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cashew milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Steam the summer savoury leaves until tender.",
+    "Mince the ginger and garlic, then saut\u00165 them in sesame oil until fragrant.",
+    "Add the coconut cream, cashew milk, maple syrup, salt, black pepper, and turmeric to the pan, whisking until smooth.",
+    "Bring the mixture to a simmer and cook for 5 minutes, stirring occasionally.",
+    "Stir in the cilantro and remove from heat.",
+    "Divide the mixture among the lacquerware bowls and garnish with steamed summer savoury leaves.",
+    "Serve immediately, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "midnight-craving",
+    "plant-based",
+    "savory",
+    "summer",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "velvety-canadian-summer-savoury-satay",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-canadian-summer-savoury-satay",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:39:18Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "velvety",
+    "mood": "midnight-craving",
+    "technique": "steam",
+    "primaryIngredient": "dried leaves of summer savoury",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "summer savoury",
+    "descriptor": "velvety",
+    "dishForm": "Satay"
+  }
+}

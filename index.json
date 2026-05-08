@@ -1291,6 +1291,21 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-canadian-summer-savoury-satay",
+    "title": "Velvety Canadian Summer Savoury Satay",
+    "tags": [
+      "canadian",
+      "midnight-craving",
+      "plant-based",
+      "savory",
+      "summer",
+      "velvety"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 25,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-canadian-tofu-curry",
     "title": "Velvety Canadian Tofu Curry",
     "tags": [
@@ -7415,6 +7430,20 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-smoked-turkish-lamb-kebabs",
+    "title": "Vibrant Smoked Turkish Lamb Kebabs",
+    "tags": [
+      "grill",
+      "high-protein",
+      "low-sodium",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 40,
     "shard": "v"
   },
   {
