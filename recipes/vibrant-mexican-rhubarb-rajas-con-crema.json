@@ -1,0 +1,108 @@
+{
+  "title": "Vibrant Mexican Rhubarb Rajas Con Crema",
+  "description": "A salty and bouncy Mexican dish featuring forced rhubarb, this recipe is a crowd pleaser and can be served at any meal, it is also buddhist temple friendly.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "forced rhubarb",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tagine spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "crema",
+      "amount": "1 cup"
+    },
+    {
+      "name": "monterey jack cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "In a large bowl, toss the rhubarb and onion with the tagine spice mix until they are evenly coated.",
+    "Spread the rhubarb mixture on a baking sheet and roast for 20 minutes.",
+    "While the rhubarb is roasting, heat a large skillet over medium heat and add the garlic, cook for 1 minute.",
+    "Add the crema to the skillet and stir to combine with the garlic.",
+    "Once the rhubarb is done roasting, add it to the skillet with the crema and stir to combine.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the rajas by spooning the rhubarb mixture onto a tortilla and topping with cheese, cilantro, and a squeeze of lime juice.",
+    "Season with salt and pepper to taste.",
+    "Serve the rajas con crema hot, wrapped in a lotus leaf if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-temple-friendly",
+    "crowd-pleaser",
+    "mexican-food",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 15
+  },
+  "slug": "vibrant-mexican-rhubarb-rajas-con-crema",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-mexican-rhubarb-rajas-con-crema",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:43:49Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "bouncy-qq",
+    "mood": "crowd-pleaser",
+    "technique": "tagine-cook",
+    "primaryIngredient": "forced-rhubarb",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "rhubarb",
+    "descriptor": "Vibrant Bouncy",
+    "dishForm": "Rajas Con Crema"
+  }
+}
