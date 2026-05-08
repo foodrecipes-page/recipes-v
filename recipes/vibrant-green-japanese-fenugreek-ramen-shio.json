@@ -3,7 +3,6 @@
   "description": "A light and refreshing ramen-shio dish featuring sashimi-cut fenugreek, inspired by the flavors of Kyushu, Japan.",
   "cuisine": "Japanese",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "lunch",
@@ -105,5 +104,9 @@
     "mainIngredient": "Fenugreek",
     "descriptor": "Vibrant Green",
     "dishForm": "Ramen"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

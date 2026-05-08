@@ -23,7 +23,8 @@
     "Add 1 tablespoon of vegetable oil and continue pounding until the meat is almost smooth.",
     "In a pan, heat 1 tablespoon of vegetable oil over medium heat.",
     "Form the ground beef into 4 patties and cook for 5 minutes on each side, until browned.",
-    "While the patties are cooking, toast the sesame seed buns by placing them in the pan for 1 minute on each side."
+    "While the patties are cooking, toast the sesame seed buns by placing them in the pan for 1 minute on each side.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -61,5 +62,9 @@
     "mainIngredient": "dish",
     "descriptor": "velvety mustardy",
     "dishForm": "burger"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A fatty and adventurous Chinese dish featuring ovoli mushrooms, perfect for a unique dinner experience, with anti-inflammatory properties from the ingredients used.",
   "cuisine": "Chinese",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -73,7 +72,6 @@
     "anti-inflammatory",
     "chinese-inspired",
     "dairy-free",
-    "gluten-free",
     "mushroom-based",
     "smoky"
   ],
@@ -100,5 +98,9 @@
     "mainIngredient": "ovoli mushroom",
     "descriptor": "Vibrant smoky",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

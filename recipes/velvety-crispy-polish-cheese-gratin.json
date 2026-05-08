@@ -3,7 +3,6 @@
   "description": "A lazy-sunday Polish dish that is floral, crispy, and steam-rich, served straight from a mason jar.",
   "cuisine": "Polish",
   "diet": [
-    "vegetarian",
     "tamasic-friendly"
   ],
   "meal": "dinner",
@@ -105,5 +104,9 @@
     "mainIngredient": "Cheese",
     "descriptor": "Velvety Crispy",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

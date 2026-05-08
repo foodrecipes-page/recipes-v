@@ -3,7 +3,6 @@
   "description": "A citrusy, velvety dish with a touch of nostalgia and red food coloring for added depth, featuring a dairy-free-friendly marinade and stir-fry technique.",
   "cuisine": "Egyptian",
   "diet": [
-    "vegan",
     "dairy-free"
   ],
   "meal": "snack",
@@ -112,5 +111,9 @@
     "mainIngredient": "Citrus",
     "descriptor": "Velvety Nostalgic",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

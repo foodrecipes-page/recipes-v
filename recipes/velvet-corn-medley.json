@@ -2,9 +2,7 @@
   "title": "Velvet Corn Medley",
   "description": "A herbal, velvety Tunisian dish featuring white cornmeal baked until golden and creamy, suitable for dairy-free diets.",
   "cuisine": "Tunisian",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -75,5 +73,9 @@
     "primaryIngredient": "white cornmeal",
     "diet": "dairy-free",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

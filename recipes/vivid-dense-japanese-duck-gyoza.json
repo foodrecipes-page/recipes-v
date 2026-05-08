@@ -54,7 +54,8 @@
     "Heat a large skillet with a small amount of sesame oil over medium-high heat.",
     "When the oil is hot, add the gyoza to the skillet and cook until the bottoms are golden brown.",
     "Add a small amount of water to the skillet and cover with a lid to steam the gyoza.",
-    "Cook for an additional 5 minutes, then serve hot."
+    "Cook for an additional 5 minutes, then serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -92,5 +93,9 @@
     "mainIngredient": "duck",
     "descriptor": "Vivid Dense",
     "dishForm": "Gyoza"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

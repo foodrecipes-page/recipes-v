@@ -3,9 +3,7 @@
   "description": "A hearty and flavorful saudi-arabian dish featuring roasted pumpkin, crispy bonito flakes, and a blend of warming spices. Perfect for a comforting dinner or lunch.",
   "cuisine": "saudi-arabian",
   "diet": [
-    "gluten-free",
-    "vegetarian",
-    "vegan"
+    "gluten-free"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -113,5 +111,10 @@
     "mainIngredient": "pumpkin",
     "descriptor": "Vibrant Spicy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

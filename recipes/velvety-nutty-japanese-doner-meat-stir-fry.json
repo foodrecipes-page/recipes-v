@@ -2,9 +2,7 @@
   "title": "Velvety Nutty Japanese Doner Meat Stir-fry",
   "description": "A quick-fix, halal-friendly Japanese dish featuring doner meat in a velvety nutty sauce, perfect for a busy weeknight dinner.",
   "cuisine": "Japanese",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -99,5 +97,9 @@
     "mainIngredient": "Doner Meat",
     "descriptor": "Nutty Velvety",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

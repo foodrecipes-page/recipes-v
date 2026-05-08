@@ -3,8 +3,7 @@
   "description": "An exotic Thai dessert featuring a sour and velvety dark chocolate custard, wrapped in a delicate coconut-based wrapper.",
   "cuisine": "Thai",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -58,7 +57,7 @@
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 10,
-  "totalTimeMin": 60,
+  "totalTimeMin": 25,
   "servings": 6,
   "difficulty": "hard",
   "tags": [
@@ -92,5 +91,10 @@
     "mainIngredient": "dark chocolate",
     "descriptor": "velvety decadent",
     "dishForm": "Khanom Krok"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free",
+    "recomputed-totalTime"
+  ]
 }

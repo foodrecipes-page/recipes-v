@@ -3,8 +3,7 @@
   "description": "A one-pot Argentinian dish featuring red chilli and low-carb ingredients, with a mustardy flavor and aerated texture from puff pastry",
   "cuisine": "Argentinian",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -68,7 +67,6 @@
   "tags": [
     "argentinian-cuisine",
     "beef-recipes",
-    "gluten-free",
     "low-carb",
     "one-pan"
   ],
@@ -95,5 +93,9 @@
     "mainIngredient": "beef",
     "descriptor": "Vibrant Spicy",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

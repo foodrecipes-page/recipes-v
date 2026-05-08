@@ -2,10 +2,7 @@
   "title": "Velvety Crunchy Middle Eastern Tofu Stir-fry",
   "description": "This meal-prep-friendly dish features a blend of oyster sauce and plant-based elements to create a velvety texture with a crunchy middle, perfect for adding variety to your diet.",
   "cuisine": "Middle Eastern",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -56,7 +53,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "vegan",
     "meal-prep",
     "middle-eastern",
     "tofu-stir-fry",
@@ -86,5 +82,10 @@
     "mainIngredient": "Tofu",
     "descriptor": "Velvety Crunchy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

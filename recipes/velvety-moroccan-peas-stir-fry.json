@@ -45,7 +45,8 @@
     "Stir in ground cinnamon, ground ginger, and saffron threads. Cook for another minute to allow the spices to release their flavors.",
     "Push the spice mixture to one side of the pan and add green peas on the other side. Toss well.",
     "Gently fold in pickled vegetables until heated through. Adjust seasoning with salt if needed.",
-    "Serve immediately as a side dish or main course, accompanied by warm bread."
+    "Serve immediately as a side dish or main course, accompanied by warm bread.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -81,5 +82,9 @@
     "mainIngredient": "Peas",
     "descriptor": "Velvety",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

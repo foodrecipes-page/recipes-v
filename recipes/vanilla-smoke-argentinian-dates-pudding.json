@@ -48,7 +48,7 @@
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 60,
-  "totalTimeMin": 60,
+  "totalTimeMin": 80,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
@@ -81,5 +81,9 @@
     "mainIngredient": "Dates",
     "descriptor": "Vanilla Smoke",
     "dishForm": "Pudding"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

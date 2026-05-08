@@ -2,9 +2,7 @@
   "title": "Vegan Gooey Garlic Slovakian Stir-fry",
   "description": "A kid-friendly vegan dish featuring green beans caramelized with garlic and other vegetables for a savory and gooey flavor profile suitable for young eaters.",
   "cuisine": "Slovakian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -61,8 +59,7 @@
   "tags": [
     "garlic",
     "glazed",
-    "kid-friendly",
-    "vegan"
+    "kid-friendly"
   ],
   "nutrition": {
     "calories": 180,
@@ -87,5 +84,9 @@
     "mainIngredient": "Garlic",
     "descriptor": "Gooey Vegan",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

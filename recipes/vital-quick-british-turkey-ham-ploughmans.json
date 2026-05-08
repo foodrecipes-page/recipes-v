@@ -60,7 +60,8 @@
     "Add the sliced cucumber and cherry tomatoes to the bowl and toss to coat with the dressing.",
     "To assemble the ploughmans, place a slice of turkey ham on a plate, then top with a spoonful of the steamed carrots, a handful of mixed greens, and a spoonful of the cucumber and tomato mixture.",
     "Season with salt and black pepper to taste.",
-    "Serve immediately and enjoy."
+    "Serve immediately and enjoy.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 5,
@@ -98,5 +99,9 @@
     "mainIngredient": "turkey ham",
     "descriptor": "Vital Quick",
     "dishForm": "Ploughmans"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

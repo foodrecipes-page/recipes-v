@@ -37,7 +37,8 @@
     "Add the minced garlic cloves (adjust quantity based on preference). Stir-fry for another minute, being careful not to burn.",
     "If using smoked paprika, add it now and stir well into the vegetables. Taste with sea salt flakes; adjust seasoning as needed.",
     "Turn off the heat immediately after adding the sea salt. The sudden cold will help preserve the flavors and prevent burning of the garlic.",
-    "Serve hot over steamed rice or noodles."
+    "Serve hot over steamed rice or noodles.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 8,
@@ -73,5 +74,9 @@
     "mainIngredient": "garlic",
     "descriptor": "Velvety Smoked",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

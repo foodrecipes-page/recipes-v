@@ -49,7 +49,8 @@
     "Transfer the skillet to the preheated oven and bake for 20 minutes.",
     "Remove the skillet from the oven and top the pork with chopped fresh parsley.",
     "Return the skillet to the oven and bake for an additional 5 minutes.",
-    "Remove the skillet from the oven and let it rest for 5 minutes before serving."
+    "Remove the skillet from the oven and let it rest for 5 minutes before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -86,5 +87,9 @@
     "mainIngredient": "pork shoulder",
     "descriptor": "Vibrant Sour",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

@@ -65,7 +65,8 @@
     "Add onions, bell peppers, carrots, celery, and garlic to the pan. Stir-fry for about 5 minutes.",
     "Pour in vegetable broth, soy sauce, and cream cheese. Simmer gently for 10 minutes or until thickened.",
     "Serve hot with steamed rice if desired.",
-    "Enjoy your Velvety Vegetal Venison Stir-fry as a solo-dinner dish!"
+    "Enjoy your Velvety Vegetal Venison Stir-fry as a solo-dinner dish!",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -103,5 +104,9 @@
     "mainIngredient": "Venison",
     "descriptor": "Velvety",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

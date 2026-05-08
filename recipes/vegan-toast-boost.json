@@ -3,7 +3,6 @@
   "description": "A buttery and juicy vegan dish featuring toast topped with raw-friendly vegan butter for a post-workout meal.",
   "cuisine": "Chinese",
   "diet": [
-    "vegan",
     "paleo"
   ],
   "meal": "snack",
@@ -64,5 +63,9 @@
     "primaryIngredient": "vegan butter",
     "diet": "raw",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

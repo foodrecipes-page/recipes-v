@@ -2,9 +2,7 @@
   "title": "Vegan Crunchy Filipino Steak Stir-fry",
   "description": "A spicy and dense adventure in Filipino cuisine featuring a vegan-friendly twist on the classic steak stir-fry, packed with flavor.",
   "cuisine": "Filipino",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -66,7 +64,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "vegan",
     "filipino",
     "stir-fry",
     "adventurous",
@@ -95,5 +92,9 @@
     "mainIngredient": "Steak",
     "descriptor": "Vegan Crunchy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

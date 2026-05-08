@@ -2,9 +2,7 @@
   "title": "Velvet Gelatin Wrap",
   "description": "A nutty and velvety vegan-friendly Algerian dish featuring gelatine leafs prepared with sous-vide technique for a cozy texture.",
   "cuisine": "Algerian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -72,5 +70,9 @@
     "primaryIngredient": "gelatine leafs",
     "diet": "vegan",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

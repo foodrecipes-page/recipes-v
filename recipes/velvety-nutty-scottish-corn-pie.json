@@ -3,8 +3,7 @@
   "description": "A gluten-free, nut-laden puff pastry pie that melts in your mouth, with a golden crust and gooey, buttery filling.",
   "cuisine": "Scottish",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -68,7 +67,6 @@
   "servings": 2,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "indulgent",
     "puff-pastry",
     "scottish",
@@ -97,5 +95,9 @@
     "mainIngredient": "corn",
     "descriptor": "Velvety Nutty",
     "dishForm": "Pie"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -58,7 +58,8 @@
     "Knead the dough for 5 minutes and shape into a ball.",
     "Place the dough on a baking sheet and bake in the oven for 15-20 minutes, or until crispy and golden brown.",
     "Serve the velvety duck tagine over the crispy saffron flatbread.",
-    "Garnish with chopped cilantro and parsley, if desired."
+    "Garnish with chopped cilantro and parsley, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 105,
@@ -97,5 +98,9 @@
     "mainIngredient": "duck",
     "descriptor": "velvety",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

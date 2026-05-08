@@ -3,7 +3,6 @@
   "description": "A silky, earthy soup inspired by the flavors of Brazil, featuring tender chicken livers, roasted tomatoes, and coconut milk for a velvety finish, with a vegan option using jackfruit.",
   "cuisine": "Brazilian",
   "diet": [
-    "vegetarian",
     "vegan-friendly"
   ],
   "meal": "dinner",
@@ -69,7 +68,8 @@
     "Using an immersion blender or a regular blender in batches, whisk the soup until it becomes silky and smooth; avoid over-blending to keep a slight texture.",
     "Stir in coconut milk and warm gently over low heat; do not let it boil to preserve the coconut flavor.",
     "Season with salt, pepper, and a pinch of smoked paprika for depth of flavor.",
-    "Serve hot, garnished with chopped fresh cilantro, and optionally drizzle a splash of coconut cream."
+    "Serve hot, garnished with chopped fresh cilantro, and optionally drizzle a splash of coconut cream.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -80,7 +80,6 @@
     "brazilian",
     "soups",
     "vegan-friendly",
-    "vegetarian",
     "chicken-liver",
     "whisk",
     "velvety",
@@ -104,11 +103,17 @@
     "mood": "adventurous",
     "technique": "whisk",
     "primaryIngredient": "chicken liver",
-    "diet": "vegan",
+    "diet": "vegan-friendly",
     "region": null,
     "cuisineAdjective": "Brazilian",
     "mainIngredient": "chicken liver",
     "descriptor": "Velvety Earthy",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-preserving_no_acid",
+    "aligned-axes-diet"
+  ]
 }

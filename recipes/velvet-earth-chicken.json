@@ -46,12 +46,13 @@
   ],
   "instructions": [
     "Heat olive oil in a non-stick skillet over medium heat.",
-    "Add chopped onion and minced garlic, saut\u00e9 until translucent.",
+    "Add chopped onion and minced garlic, sauté until translucent.",
     "Fold in bell peppers and stir-fry for about 3 minutes or until slightly soft.",
     "Stir in chicken livers, tomato paste, lemon juice, salt, pepper, and thyme. Cook for another 5-7 minutes.",
     "Pour the entire mixture into a large casserole dish (or any deep pot).",
     "Cover and simmer on low heat for about 1 hour or until the liver is tender.",
-    "Serve hot with crusty bread."
+    "Serve hot with crusty bread.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 60,
@@ -82,5 +83,9 @@
     "primaryIngredient": "chicken liver",
     "diet": "fodmap",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

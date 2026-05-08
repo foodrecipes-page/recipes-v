@@ -56,7 +56,8 @@
     "Sprinkle red chilli powder and chopped cilantro over the chicken",
     "Fold the dough over the filling to form a half moon shape and press the edges together to seal",
     "Place the empanadas in the air fryer basket and cook for 5 minutes",
-    "Flip the empanadas over and cook for an additional 5 minutes"
+    "Flip the empanadas over and cook for an additional 5 minutes",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 10,
@@ -94,5 +95,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Vibrant fluffy",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A winey and snappy Brazilian dish featuring vanilla pod and wok-hei flavors, perfect for a crowd, this high protein friendly recipe is a must try for any occasion.",
   "cuisine": "Brazilian",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -65,7 +64,6 @@
   "difficulty": "medium",
   "tags": [
     "brazilian-food",
-    "dairy-free",
     "gluten-free",
     "grilled-chicken",
     "high-protein",
@@ -94,5 +92,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Vibrant Smoky",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

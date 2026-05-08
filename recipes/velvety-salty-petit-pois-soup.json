@@ -47,7 +47,8 @@
     "Gradually add unsweetened coconut milk, stirring constantly to prevent lumps. Allow mixture to come back to a gentle boil.",
     "Reduce heat to low and stir in low-sodium chicken broth. Simmer gently for 10-15 minutes to allow flavors to meld together.",
     "Fold in chopped cured meats, allowing them to cook until heated through.",
-    "Stir in fresh dill if using."
+    "Stir in fresh dill if using.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -83,5 +84,9 @@
     "mainIngredient": "Petit pois",
     "descriptor": "Salty Velvety",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

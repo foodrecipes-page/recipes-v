@@ -74,8 +74,7 @@
     "one-pot",
     "chinese",
     "tomatoes",
-    "plum",
-    "vegetarian"
+    "plum"
   ],
   "nutrition": {
     "calories": 210,
@@ -100,5 +99,9 @@
     "mainIngredient": "Plum Tomatoes",
     "descriptor": "Velvety",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

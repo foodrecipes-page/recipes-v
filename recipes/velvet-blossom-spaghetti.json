@@ -51,7 +51,8 @@
     "In a large skillet, heat olive oil and butter over medium heat. Add minced garlic and diced onion; cook for about 2 minutes until fragrant.",
     "Add low-sodium chicken broth, broccoli florets, salt, and pepper to the skillet. Bring to a boil, then reduce heat to low and simmer for about 10-15 minutes or until vegetables are tender.",
     "Gently fold in cooked spaghetti into the vegetable mixture. Continue cooking for another 2-3 minutes to allow flavors to meld together.",
-    "Remove from heat and stir in chopped fresh basil leaves. Serve immediately."
+    "Remove from heat and stir in chopped fresh basil leaves. Serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -60,7 +61,6 @@
   "difficulty": "easy",
   "tags": [
     "vegan-friendly",
-    "vegetarian",
     "low-sodium",
     "spicy-free",
     "date-night"
@@ -84,5 +84,10 @@
     "primaryIngredient": "spaghetti",
     "diet": "low-sodium",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Vegan Fermented Tender Bryndza Cheese Stir-fry",
   "description": "A quick and easy vegan weeknight Filipino dish featuring tender bryndza cheese in a flavorful stir-fry sauce.",
   "cuisine": "Filipino",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -50,7 +48,7 @@
   ],
   "instructions": [
     "Preheat your wok or pan to high heat. Drizzle with vegetable oil.",
-    "Add chopped baby bok choy, green onions, and garlic cloves to the pan. Saut\u00e9 until tender but still crisp, about 2 minutes.",
+    "Add chopped baby bok choy, green onions, and garlic cloves to the pan. Sauté until tender but still crisp, about 2 minutes.",
     "Reduce heat to medium-high and stir in vegan bryndza cheese, Tamari sauce, soy sauce, and shrimp paste. Stir well until cheese is melted and mixture starts to simmer.",
     "Add more oil if needed and continue to stir-fry until the mixture is heated through and cheese becomes tender and golden brown on top.",
     "Serve hot with steamed jasmine rice or noodles for a complete meal."
@@ -61,7 +59,6 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "vegan",
     "stir-fry",
     "bryndza-cheese",
     "fermented",
@@ -91,5 +88,9 @@
     "mainIngredient": "Bryndza Cheese",
     "descriptor": "Fermented Tender Vegan",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

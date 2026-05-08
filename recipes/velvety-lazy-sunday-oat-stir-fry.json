@@ -3,8 +3,7 @@
   "description": "This fermented, velvety, lazy-sunday Norwegian dish features oat milk in a low-carb-friendly stir-fry that can be prepared quickly and easily.",
   "cuisine": "Norwegian",
   "diet": [
-    "low-carb",
-    "vegan"
+    "low-carb"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -77,5 +76,9 @@
     "mainIngredient": "oats",
     "descriptor": "Fermented Velvety Lazy-Sunday",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

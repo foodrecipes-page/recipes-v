@@ -2,9 +2,7 @@
   "title": "Velvety Thai Chicken Soup",
   "description": "A fresh and velvety meal-prep Thai dish featuring chicken stock, tadka, and pescatarian-friendly options.",
   "cuisine": "Thai",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -49,7 +47,8 @@
     "Add chicken, vegetable stock, bell peppers (if using), tamarind paste or juice, and bring to a boil.",
     "Reduce heat, cover, and simmer for about 30 minutes. Allow the soup to cool slightly before blending.",
     "Blend the soup until smooth in batches if needed. Return it to the pot with cilantro and green onions.",
-    "Season with salt and pepper to taste, serve hot."
+    "Season with salt and pepper to taste, serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -84,5 +83,10 @@
     "mainIngredient": "Chicken",
     "descriptor": "Velvety",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

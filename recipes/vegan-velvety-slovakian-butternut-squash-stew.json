@@ -90,7 +90,6 @@
     "one-pan",
     "slovakian",
     "stew",
-    "vegan",
     "warming",
     "weeknight"
   ],
@@ -117,5 +116,9 @@
     "mainIngredient": "butternut squash",
     "descriptor": "Vegan Velvety",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

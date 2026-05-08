@@ -50,7 +50,8 @@
     "Pour in dark soft brown sugar and a splash of water or chicken broth. Stir well to combine.",
     "Return cooked chicken pieces back into the pan along with any accumulated juices, ensuring everything is evenly coated by the dark brown sugar mixture.",
     "Simmer for about 5-7 minutes until thickened slightly, stirring occasionally.",
-    "Serve hot as a main course or side dish."
+    "Serve hot as a main course or side dish.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -86,5 +87,9 @@
     "mainIngredient": "Dark Soft Brown Sugar",
     "descriptor": "Umami Velvety",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

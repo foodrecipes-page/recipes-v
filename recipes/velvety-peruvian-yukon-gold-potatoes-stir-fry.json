@@ -33,7 +33,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 400\u00b0F (200\u00b0C).",
+    "Preheat your oven to 400°F (200°C).",
     "Wash and peel the Yukon Gold Potatoes, then cut them into bite-sized pieces.",
     "Drain any excess water from the potatoes and place them in a bowl. Add salt, pepper, and oil, tossing well until coated evenly.",
     "Place the potato pieces on an oven-safe baking sheet and bake for 20-25 minutes, turning once halfway through cooking time to ensure even browning.",
@@ -41,7 +41,8 @@
     "Once done, remove from oven and let them cool slightly. In the meantime, heat the remaining oil in a wok or large skillet over medium-high heat.",
     "Add the cooled potatoes to the skillet and stir-fry for about 5 minutes until they start getting golden brown and crispy on the edges.",
     "Pour in the water or chicken broth, bring to a simmer, cover with a lid, and let it cook for another 10-12 minutes, stirring occasionally until most of the liquid has evaporated and the potatoes are soft but not falling apart.",
-    "Add the sliced garlic (if desired), stir gently, then remove from heat. Serve hot over toast or enjoy as is."
+    "Add the sliced garlic (if desired), stir gently, then remove from heat. Serve hot over toast or enjoy as is.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 25,
@@ -80,5 +81,9 @@
     "mainIngredient": "yukon gold potatoes",
     "descriptor": "Velvety",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

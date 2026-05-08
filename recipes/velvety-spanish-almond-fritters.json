@@ -2,9 +2,7 @@
   "title": "Velvety Spanish Almond Fritters",
   "description": "Quick, yeasty, velvety fritters made with almond flour and a hint of lemon, perfect for a Buddhist‑temple‑friendly dessert.",
   "cuisine": "galician",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -70,8 +68,7 @@
     "buddhist-temple-friendly",
     "fritters",
     "galician",
-    "quick",
-    "vegan"
+    "quick"
   ],
   "nutrition": {
     "calories": 317,
@@ -96,5 +93,9 @@
     "mainIngredient": "almonds",
     "descriptor": "Velvety",
     "dishForm": "Fritters"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

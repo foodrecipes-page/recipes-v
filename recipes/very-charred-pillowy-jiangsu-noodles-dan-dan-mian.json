@@ -4,7 +4,6 @@
   "cuisine": "jiangsu",
   "diet": [
     "vegetarian",
-    "gluten-free",
     "low-fat"
   ],
   "meal": "lunch",
@@ -83,7 +82,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "vegan-friendly",
     "weeknight"
   ],
@@ -110,5 +108,9 @@
     "mainIngredient": "noodles",
     "descriptor": "Very Charred, Pillowy",
     "dishForm": "Dan-Dan-Mian"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

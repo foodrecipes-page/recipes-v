@@ -2,9 +2,7 @@
   "title": "Velvet Peruvian Cheonggukjang Ceviche",
   "description": "A buttery, aerated tiradito style ceviche using fermented soybean paste and bonito shavings, served on a wooden board for a low-fat Peruvian twist.",
   "cuisine": "Peruvian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -82,5 +80,9 @@
     "mainIngredient": "cheonggukjang",
     "descriptor": "Velvet",
     "dishForm": "Ceviche"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

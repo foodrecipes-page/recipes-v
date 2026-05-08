@@ -3,7 +3,6 @@
   "description": "A nostalgic vegan twist on Rahmschwammerl, featuring a peppery balsamic reduction and silken cream sauce atop toasted naan.",
   "cuisine": "German-Fusion",
   "diet": [
-    "Vegan",
     "Vegetarian"
   ],
   "meal": "dinner",
@@ -96,5 +95,9 @@
     "mainIngredient": "peppercorn mushroom",
     "descriptor": "Velvety Reduction",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

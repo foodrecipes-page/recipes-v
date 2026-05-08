@@ -3,8 +3,7 @@
   "description": "A comforting bowl of silky braised cabbage with a subtle hint of garam masala, finished with smoked paprika and fresh herbs for a velvety finish.",
   "cuisine": "Polish",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -84,7 +83,6 @@
   "servings": 2,
   "difficulty": "easy",
   "tags": [
-    "vegan",
     "vegetarian",
     "gluten-free",
     "comfort-food",
@@ -116,5 +114,9 @@
     "mainIngredient": "Cabbage",
     "descriptor": "Velvety",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

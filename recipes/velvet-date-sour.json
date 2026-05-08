@@ -3,7 +3,6 @@
   "description": "A creamy and velvety date-night dish featuring sour cream, roasted dates, and no eggs for a dairy-free and egg-free-friendly option.",
   "cuisine": "Kenyan",
   "diet": [
-    "vegan",
     "lactose-free"
   ],
   "meal": "dessert",
@@ -62,5 +61,9 @@
     "primaryIngredient": "sour cream",
     "diet": "egg-free",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

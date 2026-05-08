@@ -2,9 +2,7 @@
   "title": "Velvety Dough Pie",
   "description": "A comforting British dish featuring a rich velvety filling encased in crispy phyllo dough and dairy-free-friendly.",
   "cuisine": "British",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -71,8 +69,7 @@
   "tags": [
     "velvety-dough-pie",
     "british-dessert",
-    "vegan-friendly",
-    "dairy-free"
+    "vegan-friendly"
   ],
   "nutrition": {
     "calories": 420,
@@ -97,5 +94,9 @@
     "mainIngredient": "dough",
     "descriptor": "Bitter Velvety Comforting",
     "dishForm": "Pie"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

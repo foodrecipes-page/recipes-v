@@ -3,8 +3,7 @@
   "description": "Creamy and rich Vietnamese noodle soup featuring tamarind pulp and a miso-marinated broth.",
   "cuisine": "Vietnamese",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -78,7 +77,6 @@
     "fall",
     "one-pan",
     "soup",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -104,5 +102,9 @@
     "mainIngredient": "tamarind",
     "descriptor": "velvety indulgent",
     "dishForm": "Pho"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

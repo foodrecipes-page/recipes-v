@@ -2,9 +2,7 @@
   "title": "Vegan Golden Brownie Halwa",
   "description": "A sweet, crumbly Indian (Maharashtrian) dessert made with brown sugar, cashews, and a touch of ghee for a perfect energy boost in the morning.",
   "cuisine": "Indian (Maharashtrian)",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -43,7 +41,6 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "vegan",
     "golden-brownie-halwa",
     "sweet-dessert",
     "energy-boost"
@@ -67,5 +64,9 @@
     "primaryIngredient": "brown sugar",
     "diet": "vegan",
     "region": "maharashtrian"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Velvety Polish Chocolate Bake",
   "description": "A rich and cozy Polish dessert featuring charred, velvety plain chocolate and bhuna spices, made with gluten-free-friendly ingredients.",
   "cuisine": "Polish",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -62,7 +60,6 @@
     "bhuna-spices",
     "chocolate-bake",
     "cozy-treats",
-    "gluten-free",
     "polish-dessert"
   ],
   "nutrition": {
@@ -88,5 +85,9 @@
     "mainIngredient": "chocolate",
     "descriptor": "velvety",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

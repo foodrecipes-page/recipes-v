@@ -45,7 +45,8 @@
     "Add enough water to cover the ingredients by 1 inch. Bring to a boil then reduce heat to medium-low, stirring occasionally until the mixture reduces slightly (about 30 minutes).",
     "During the last 5-7 minutes of cooking, add celery and bell pepper. Increase heat to high, adding more olive oil if necessary.",
     "Taste for seasoning; adjust salt or pepper as needed. Stir in baking soda at this point. Continue simmering until the potatoes are tender but not falling apart.",
-    "Serve hot with a drizzle of extra olive oil and chopped parsley. Can be served with grilled chicken or steak for added protein."
+    "Serve hot with a drizzle of extra olive oil and chopped parsley. Can be served with grilled chicken or steak for added protein.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 60,
@@ -81,5 +82,9 @@
     "mainIngredient": "Red Potatoes",
     "descriptor": "Velvety",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

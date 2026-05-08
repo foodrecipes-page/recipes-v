@@ -4,7 +4,6 @@
   "cuisine": "Korean",
   "diet": [
     "keto",
-    "gluten-free",
     "low-carb"
   ],
   "meal": "dinner",
@@ -61,7 +60,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "keto-friendly",
     "korean-cuisine",
     "low-carb",
@@ -90,5 +88,9 @@
     "mainIngredient": "peppers",
     "descriptor": "Vibrant crumbly",
     "dishForm": "Muchim"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

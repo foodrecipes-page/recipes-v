@@ -80,7 +80,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "vegan",
     "low-sodium",
     "chickpeas",
     "comfort-food",
@@ -112,5 +111,9 @@
     "mainIngredient": "Chickpeas",
     "descriptor": "Velvety Savory",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

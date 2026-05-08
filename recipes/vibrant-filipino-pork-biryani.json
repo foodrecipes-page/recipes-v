@@ -62,7 +62,8 @@
     "Reduce the heat to low and cook, covered, until the pork is tender, about 20 minutes.",
     "Stir in the jasmine rice and cook, covered, until the rice is tender and the liquid has been absorbed, about 20 minutes.",
     "Deglaze the saucepan with a little water to remove any browned bits from the bottom.",
-    "Fluff the biryani with a fork and serve hot."
+    "Fluff the biryani with a fork and serve hot.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -100,5 +101,9 @@
     "mainIngredient": "pork",
     "descriptor": "Vibrant",
     "dishForm": "Biryani"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

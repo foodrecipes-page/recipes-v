@@ -106,11 +106,15 @@
     "mood": "romantic",
     "technique": "saute",
     "primaryIngredient": "saffron",
-    "diet": "keto",
+    "diet": "keto-friendly",
     "region": null,
     "cuisineAdjective": "Algerian",
     "mainIngredient": "lamb",
     "descriptor": "Velvety",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

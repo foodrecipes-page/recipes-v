@@ -62,7 +62,8 @@
     "In a large skillet, heat oil over medium-high heat. Add onion and garlic, sauté for 3-4 minutes or until translucent.",
     "Add minced ginger to the skillet, stirring well for an additional minute. Mix in roasted chicken pieces.",
     "Stir in soy sauce, hoisin sauce, lemon juice, and chicken stock cube. Bring to a simmer, then let it thicken slightly by reducing the heat.",
-    "Incorporate sesame seeds into the sauce just before serving for added texture and flavor."
+    "Incorporate sesame seeds into the sauce just before serving for added texture and flavor.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -97,5 +98,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Velvety",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

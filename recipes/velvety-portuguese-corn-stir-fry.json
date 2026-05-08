@@ -53,7 +53,8 @@
     "Stir in soy sauce, garlic powder, salt, and black pepper to taste. Bring to a simmer.",
     "Cut corn arepas into halves or quarters. Place half of the mozzarella cheese inside each.",
     "Gently poach the filled arepas for about 2-3 minutes until cheese is melted and slightly golden.",
-    "Serve hot."
+    "Serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 10,
@@ -89,5 +90,9 @@
     "mainIngredient": "Corn",
     "descriptor": "Velvety",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

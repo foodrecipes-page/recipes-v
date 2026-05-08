@@ -2,9 +2,7 @@
   "title": "Velvety Peppery Chicken Stir-fry",
   "description": "A delicious vegan-friendly Thai dish featuring a velvety and peppery flavor profile made with chicken stock, vegetables, and spices for a solo dinner.",
   "cuisine": "Thai",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -81,7 +79,6 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "vegan",
     "stir-fry",
     "peppery",
     "velvety"
@@ -109,5 +106,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Peppery Velvety",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

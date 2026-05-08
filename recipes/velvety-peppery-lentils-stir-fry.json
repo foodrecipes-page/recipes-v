@@ -2,9 +2,7 @@
   "title": "Velvety Peppery Lentils Stir-fry",
   "description": "A post-workout Venezuelan dish featuring brown lentils, toasting for added texture and flavor, with a hint of heat from peppercorns, suitable as a side or light meal.",
   "cuisine": "Venezuelan",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -70,8 +68,7 @@
   "tags": [
     "peppery",
     "velvety",
-    "brown-lentils",
-    "halal"
+    "brown-lentils"
   ],
   "nutrition": {
     "calories": 210,
@@ -96,5 +93,9 @@
     "mainIngredient": "lentils",
     "descriptor": "Peppery Velvety",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

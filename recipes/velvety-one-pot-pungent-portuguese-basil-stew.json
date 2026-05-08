@@ -3,8 +3,7 @@
   "description": "a hearty, one-pot stew originating from portugal, featuring a velvety texture and pungent basil flavor, suitable for diabetics.",
   "cuisine": "portuguese",
   "diet": [
-    "diabetic-friendlY",
-    "vegetarian"
+    "diabetic-friendlY"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -83,7 +82,8 @@
     "add the chicken broth, and bring the mixture to a boil.",
     "reduce the heat to medium-low and simmer, covered, for 15-20 minutes, or until the kale is tender.",
     "stir in the heavy cream and basil, and cook for an additional 2-3 minutes, or until the stew has thickened slightly.",
-    "taste and adjust the seasoning as needed."
+    "taste and adjust the seasoning as needed.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -95,7 +95,6 @@
     "hearty",
     "one-pan",
     "portuguese",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -121,5 +120,10 @@
     "mainIngredient": "basil",
     "descriptor": "velvety one-pot pungent",
     "dishForm": "stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

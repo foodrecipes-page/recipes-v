@@ -3,8 +3,6 @@
   "description": "A rich and flavorful brunch dish featuring beef, tomatoes, and a velvety confit-tomato sauce. This recipe is a twist on the classic Kenyan beef stew.",
   "cuisine": "kenyan",
   "diet": [
-    "vegetarian",
-    "gluten-free",
     "low-calorie"
   ],
   "meal": "breakfast",
@@ -132,5 +130,10 @@
     "mainIngredient": "beef tomatoes",
     "descriptor": "velvety",
     "dishForm": "bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

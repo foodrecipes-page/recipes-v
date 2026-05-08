@@ -5,7 +5,6 @@
   "diet": [
     "kosher",
     "gluten-free",
-    "dairy-free",
     "fish"
   ],
   "meal": "dinner",
@@ -63,7 +62,7 @@
   ],
   "instructions": [
     "Heat the olive oil in a large pot over medium heat until shimmering.",
-    "Add the diced onion, carrot, and celery; saut\u00e9 for 5 minutes until softened.",
+    "Add the diced onion, carrot, and celery; sauté for 5 minutes until softened.",
     "Stir in the minced garlic and cook for another 30 seconds until fragrant.",
     "Add the tomato paste, coating the vegetables, and cook for 1 minute to deepen the flavor.",
     "Pour in the fish stock, bring to a gentle boil, then reduce to a simmer for 10 minutes to allow the base to develop.",
@@ -72,7 +71,8 @@
     "Season with salt and pepper to taste.",
     "Remove from heat, stir in the fresh dill, and let the soup rest for 2 minutes to meld the flavors.",
     "Serve hot, optionally garnishing with an extra sprinkle of dill or a drizzle of coconut milk.",
-    ""
+    "",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "slug": "velvety-australian-cod-soup",
   "source": "ocloud-gpt-oss:20b",
@@ -106,5 +106,10 @@
   "tags": [
     "australian",
     "dinner"
+  ],
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free",
+    "added-safety-preserving_no_acid"
   ]
 }

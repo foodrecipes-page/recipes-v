@@ -3,8 +3,7 @@
   "description": "A fresh and quick-fix British dish featuring spring onions, perfect for a Mediterranean-friendly meal. This dish is a great way to enjoy the flavors of spring onions in a crispy and delicious fritter.",
   "cuisine": "British",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -56,7 +55,6 @@
   "tags": [
     "british-cuisine",
     "fritters",
-    "gluten-free",
     "mediterranean-friendly",
     "quick-fix",
     "spring-onions",
@@ -85,5 +83,9 @@
     "mainIngredient": "spring onions",
     "descriptor": "Vibrant Quick",
     "dishForm": "Fritters"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -4,7 +4,6 @@
   "cuisine": "Italian",
   "diet": [
     "jain",
-    "vegan",
     "vegetarian",
     "gluten-free"
   ],
@@ -108,7 +107,6 @@
     "italian",
     "lunch",
     "one-pan",
-    "vegan",
     "vegetarian"
   ],
   "nutrition": {
@@ -134,5 +132,9 @@
     "mainIngredient": "cabbage",
     "descriptor": "Vibrant Velvety",
     "dishForm": "Frittata"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

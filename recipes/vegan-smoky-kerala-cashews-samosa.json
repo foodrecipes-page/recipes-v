@@ -3,8 +3,6 @@
   "description": "A smoky, post-workout samosa featuring cashews from Kerala, India, perfect for a diabetic-friendly snack. This recipe combines the crunch of cashews with the warmth of spices, creating a unique flavor profile that is both satisfying and healthy.",
   "cuisine": "Indian",
   "diet": [
-    "vegan",
-    "gluten-free",
     "low-carb"
   ],
   "meal": "snack",
@@ -96,8 +94,7 @@
     "indian",
     "kerala",
     "smoky",
-    "snack",
-    "vegan"
+    "snack"
   ],
   "nutrition": {
     "calories": 320,
@@ -122,5 +119,10 @@
     "mainIngredient": "cashews",
     "descriptor": "Vegan, smoky",
     "dishForm": "Samosa"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

@@ -69,7 +69,8 @@
     "Add the shredded chicken and cook for 2 minutes, until heated through.",
     "Warm the corn husks by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
     "Assemble the wraps by spooning the chicken and cassaba mixture onto the center of each husk, then topping with chopped cilantro.",
-    "Serve immediately, and enjoy!"
+    "Serve immediately, and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 35,
@@ -109,5 +110,9 @@
     "mainIngredient": "Cassaba",
     "descriptor": "Vibrant Valencian",
     "dishForm": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

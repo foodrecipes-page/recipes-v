@@ -14,7 +14,7 @@
       "amount": "500g"
     },
     {
-      "name": "Low\u2011sodium chicken broth",
+      "name": "Low‑sodium chicken broth",
       "amount": "1 cup"
     },
     {
@@ -46,7 +46,7 @@
       "amount": "1 tablespoon"
     },
     {
-      "name": "Tamari (gluten\u2011free soy sauce)",
+      "name": "Tamari (gluten‑free soy sauce)",
       "amount": "2 tablespoons"
     },
     {
@@ -69,7 +69,8 @@
     "Quickly release the pressure, open the lid and stir the stew.",
     "Season with salt and pepper to taste.",
     "Let the stew sit for 2 minutes to allow flavors to meld.",
-    "Serve hot, garnished with additional green onions if desired."
+    "Serve hot, garnished with additional green onions if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "slug": "velvety-korean-chicken-stew",
   "source": "ocloud-gpt-oss:20b",
@@ -103,5 +104,9 @@
   "tags": [
     "korean",
     "dinner"
+  ],
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
   ]
 }

@@ -3,8 +3,7 @@
   "description": "A refreshing summer-inspired dish that combines the earthy flavors of summer savoury with the richness of velvety textures, perfect for a midnight craving. The use of lacquerware bowl adds a touch of elegance to the simple yet satisfying meal.",
   "cuisine": "Canadian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -114,5 +113,9 @@
     "mainIngredient": "summer savoury",
     "descriptor": "velvety",
     "dishForm": "Satay"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

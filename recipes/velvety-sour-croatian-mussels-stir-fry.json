@@ -72,11 +72,15 @@
     "mood": "festive",
     "technique": "caramelize",
     "primaryIngredient": "mussels",
-    "diet": "paleo",
+    "diet": "paleo-friendly",
     "region": null,
     "cuisineAdjective": "Croatian",
     "mainIngredient": "Mussels",
     "descriptor": "Sour Velvety Festive",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

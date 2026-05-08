@@ -3,9 +3,7 @@
   "description": "This savory and tender meal-prep dish is a low-calorie-friendly option featuring vanilla pod for an exotic twist.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "low-carb",
-    "vegan",
-    "vegetarian"
+    "low-carb"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -95,5 +93,10 @@
     "mainIngredient": "beef",
     "descriptor": "Vanilla Soy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

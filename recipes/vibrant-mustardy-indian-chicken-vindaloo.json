@@ -59,7 +59,8 @@
     "Add the chopped cilantro, white vinegar, and water to the pan and stir to combine.",
     "Bring the mixture to a boil, then reduce the heat to low and let it simmer for 20 minutes.",
     "Stir the vindaloo occasionally as it cooks to prevent the sauce from sticking to the pan.",
-    "After 20 minutes, remove the pan from the heat and let the vindaloo cool slightly before serving."
+    "After 20 minutes, remove the pan from the heat and let the vindaloo cool slightly before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -97,5 +98,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Vibrant Mustardy",
     "dishForm": "Vindaloo"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

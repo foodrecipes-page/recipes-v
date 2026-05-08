@@ -3,8 +3,7 @@
   "description": "A peppery and gooey Dutch dish featuring oyster sauce with an al-dente finish, perfect for a romantic evening, and is macrobiotic-friendly.",
   "cuisine": "Dutch",
   "diet": [
-    "macrobiotic",
-    "pescatarian"
+    "macrobiotic"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -92,5 +91,9 @@
     "mainIngredient": "noodles",
     "descriptor": "Velvety",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

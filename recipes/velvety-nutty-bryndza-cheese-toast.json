@@ -3,8 +3,7 @@
   "description": "A delightful and nostalgic Malaysian dish featuring bryndza cheese on toast, perfect for a quick breakfast or snack. This vegan-friendly recipe is both comforting and creamy.",
   "cuisine": "Malaysian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -87,5 +86,9 @@
     "mainIngredient": "Bryndza Cheese",
     "descriptor": "Nutty Velvety Nostalgic",
     "dishForm": "Sandwich"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

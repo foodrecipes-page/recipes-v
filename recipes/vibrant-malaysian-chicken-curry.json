@@ -3,7 +3,6 @@
   "description": "A funky and juicy Malaysian dish featuring tomato sauce, served in a dolsot stone bowl, perfect for a crowd, this dairy free friendly recipe is a must try",
   "cuisine": "Malaysian",
   "diet": [
-    "dairy-free",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -58,7 +57,6 @@
   "difficulty": "medium",
   "tags": [
     "crowd-pleaser",
-    "dairy-free",
     "gluten-free",
     "malaysian-cuisine",
     "one-pot",
@@ -87,5 +85,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Vibrant",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

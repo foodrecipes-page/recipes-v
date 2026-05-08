@@ -4,43 +4,42 @@
   "cuisine": "Irish",
   "diet": [
     "vegetarian",
-    "vegan",
     "low-fat"
   ],
   "meal": "dinner",
   "ingredients": [
     {
       "name": "eggplant",
-      "amount": "2 medium (\u2248400\u202fg)",
-      "notes": "cut into 1\u2011inch cubes"
+      "amount": "2 medium (≈400 g)",
+      "notes": "cut into 1‑inch cubes"
     },
     {
       "name": "vegetable broth",
-      "amount": "2\u202fcups (480\u202fml)",
-      "notes": "low\u2011sodium"
+      "amount": "2 cups (480 ml)",
+      "notes": "low‑sodium"
     },
     {
-      "name": "low\u2011fat oat milk",
-      "amount": "1 cup (240\u202fml)"
+      "name": "low‑fat oat milk",
+      "amount": "1 cup (240 ml)"
     },
     {
       "name": "tomatoes",
-      "amount": "400\u202fg",
+      "amount": "400 g",
       "notes": "canned or fresh, diced"
     },
     {
       "name": "onion",
-      "amount": "1 large (\u2248100\u202fg)",
+      "amount": "1 large (≈100 g)",
       "notes": "finely chopped"
     },
     {
       "name": "carrot",
-      "amount": "1 medium (\u224850\u202fg)",
+      "amount": "1 medium (≈50 g)",
       "notes": "julienned"
     },
     {
       "name": "celery stalk",
-      "amount": "1 stalk (\u224830\u202fg)",
+      "amount": "1 stalk (≈30 g)",
       "notes": "thinly sliced"
     },
     {
@@ -50,17 +49,17 @@
     },
     {
       "name": "olive oil",
-      "amount": "1\u202ftsp",
-      "notes": "for saut\u00e9ing"
+      "amount": "1 tsp",
+      "notes": "for sautéing"
     },
     {
       "name": "fresh thyme",
-      "amount": "1\u202ftsp (1\u202fg)",
+      "amount": "1 tsp (1 g)",
       "notes": "dried or fresh"
     },
     {
       "name": "fresh rosemary",
-      "amount": "1\u202ftsp (1\u202fg)",
+      "amount": "1 tsp (1 g)",
       "notes": "dried or fresh"
     },
     {
@@ -76,14 +75,14 @@
   ],
   "instructions": [
     "Heat the olive oil in a large pot over medium heat.",
-    "Add the chopped onion, carrot, and celery; saut\u00e9 until softened, about 5\u202fminutes.",
-    "Stir in the minced garlic and cook for 1\u202fminute until fragrant.",
+    "Add the chopped onion, carrot, and celery; sauté until softened, about 5 minutes.",
+    "Stir in the minced garlic and cook for 1 minute until fragrant.",
     "Add the diced eggplant, diced tomatoes, vegetable broth, oat milk, thyme, rosemary, and bay leaf.",
     "Season with salt and pepper, bring the mixture to a gentle boil, then reduce the heat to low.",
-    "Cover and simmer for 30\u202fminutes, stirring occasionally, until the eggplant is tender and the flavors meld.",
+    "Cover and simmer for 30 minutes, stirring occasionally, until the eggplant is tender and the flavors meld.",
     "Remove the bay leaf, then use an immersion blender or transfer portions to a countertop blender to blend to a velvety consistency (blend in batches if necessary).",
-    "Return the stew to the pot, taste, adjust seasoning, and heat through for an additional 5\u202fminutes.",
-    "Serve hot, garnished with a sprinkle of fresh parsley or a drizzle of low\u2011fat oat milk if desired."
+    "Return the stew to the pot, taste, adjust seasoning, and heat through for an additional 5 minutes.",
+    "Serve hot, garnished with a sprinkle of fresh parsley or a drizzle of low‑fat oat milk if desired."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 45,
@@ -93,7 +92,6 @@
   "tags": [
     "irish-stew",
     "vegetarian",
-    "vegan",
     "low-fat",
     "slow-cook",
     "eggplant",
@@ -122,5 +120,9 @@
     "mainIngredient": "eggplant",
     "descriptor": "Velvety",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

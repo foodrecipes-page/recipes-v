@@ -55,7 +55,8 @@
     "Add the chicken broth, dried thyme, and a pinch of salt, and stir to combine.",
     "Bring the mixture to a simmer, then reduce the heat to low and cook for 10 minutes, stirring occasionally.",
     "Stir in the egg yolks and cook for an additional 2 minutes, or until the mixture is smooth and creamy.",
-    "Remove the tagine from the heat and let it cool slightly before serving."
+    "Remove the tagine from the heat and let it cool slightly before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -93,5 +94,9 @@
     "mainIngredient": "egg yolks",
     "descriptor": "Velvety Rich",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

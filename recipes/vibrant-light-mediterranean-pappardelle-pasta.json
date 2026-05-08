@@ -3,8 +3,7 @@
   "description": "A light and refreshing Mediterranean dish featuring pappardelle pasta, perfect for a lazy Sunday, with a grassy and emulsified sauce that is raw-friendly.",
   "cuisine": "Mediterranean",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -65,7 +64,6 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "gluten-free",
     "lazy-sunday",
     "light-meal",
     "mediterranean",
@@ -96,5 +94,9 @@
     "mainIngredient": "pappardelle",
     "descriptor": "Vibrant Light",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

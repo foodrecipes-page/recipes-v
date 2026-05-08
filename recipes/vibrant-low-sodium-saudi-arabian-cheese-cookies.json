@@ -3,8 +3,7 @@
   "description": "A low sodium twist on traditional Saudi Arabian cheese cookies, featuring a bitter cheese-pull and a hint of dashi extract, perfect for a meal prep snack or dessert. These cookies are made with low sodium ingredients and are suitable for those with dietary restrictions.",
   "cuisine": "Saudi Arabian",
   "diet": [
-    "low sodium",
-    "vegetarian"
+    "low sodium"
   ],
   "meal": "snack",
   "ingredients": [
@@ -71,8 +70,7 @@
     "low-sodium",
     "meal-prep",
     "saudi-arabian",
-    "snack",
-    "vegetarian"
+    "snack"
   ],
   "nutrition": {
     "calories": 120,
@@ -97,5 +95,9 @@
     "mainIngredient": "cheese",
     "descriptor": "Vibrant low sodium",
     "dishForm": "Cookies"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

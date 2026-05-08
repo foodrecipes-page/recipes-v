@@ -3,7 +3,6 @@
   "description": "A light and refreshing Algerian-inspired dish featuring pork, perfect for any meal.",
   "cuisine": "algerian",
   "diet": [
-    "pescatarian",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -106,5 +105,9 @@
     "mainIngredient": "pork",
     "descriptor": "Vibrant Roasted",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

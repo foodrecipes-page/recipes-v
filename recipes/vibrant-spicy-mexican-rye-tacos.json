@@ -3,8 +3,7 @@
   "description": "A spicy and snappy Mexican dish featuring rye, lacquer glaze, and raw friendly ingredients, served in a bamboo steamer.",
   "cuisine": "Mexican",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -71,7 +70,6 @@
   "difficulty": "medium",
   "tags": [
     "bamboo-steamer",
-    "gluten-free",
     "mexican",
     "raw-friendly",
     "spicy",
@@ -100,5 +98,9 @@
     "mainIngredient": "rye",
     "descriptor": "Vibrant spicy",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -42,7 +42,8 @@
     "In a mixing bowl, whisk together custard powder and chicken broth until no lumps remain.",
     "Add sour cream and mix well. Stir in ginger paste, cilantro leaves, paprika powder, turmeric powder, and salt.",
     "Heat some oil in a small pan over medium heat. Pour the custard mixture into the pan and stir continuously for about 2-3 minutes or until it thickens to your desired consistency.",
-    "Serve hot as a side dish with grilled meats or as an appetizer."
+    "Serve hot as a side dish with grilled meats or as an appetizer.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 5,
   "cookTimeMin": 4,
@@ -79,5 +80,9 @@
     "mainIngredient": "custard",
     "descriptor": "sour velvety dash-friendly",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

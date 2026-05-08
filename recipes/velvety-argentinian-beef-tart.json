@@ -70,7 +70,8 @@
     "Drop 50ml beef stock into the alginate bath with a dropper to form 1-2mm spheres, allow them to set for 4 minutes.",
     "Transfer the spheres to 100ml cold water containing 1.5g calcium lactate, wait 1 minute, then strain and rinse with fresh water.",
     "Arrange each tart on a plate, top with 3-4 beef stock pearls for a velvety burst of flavor, and garnish with microgreens.",
-    "Serve immediately."
+    "Serve immediately.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 18,
@@ -108,5 +109,9 @@
     "mainIngredient": "beef",
     "descriptor": "Velvety",
     "dishForm": "Tart"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

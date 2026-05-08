@@ -3,7 +3,6 @@
   "description": "A date-night dish featuring bun, dashi-extract, and an ayurvedic-sattvic-friendly twist.",
   "cuisine": "australian",
   "diet": [
-    "vegetarian",
     "pescatarian"
   ],
   "meal": "dinner",
@@ -87,8 +86,7 @@
     "date-night",
     "pescatarian",
     "sattvic",
-    "seafood",
-    "vegetarian"
+    "seafood"
   ],
   "nutrition": {
     "calories": 540,
@@ -113,5 +111,9 @@
     "mainIngredient": "bun",
     "descriptor": "velvety",
     "dishForm": "bao"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

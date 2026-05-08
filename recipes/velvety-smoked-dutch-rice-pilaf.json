@@ -56,7 +56,8 @@
     "Add the rice to the pot and cook for 1-2 minutes, stirring occasionally, until it is lightly toasted.",
     "Add the chicken broth, white wine, apple cider vinegar, turmeric, cumin, salt, and black pepper to the pot. Stir to combine.",
     "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 18-20 minutes, or until the liquid is absorbed and the rice is tender.",
-    "Fluff the pilaf with a fork and serve immediately."
+    "Fluff the pilaf with a fork and serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -93,5 +94,9 @@
     "mainIngredient": "Rice",
     "descriptor": "Velvety Smoked",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

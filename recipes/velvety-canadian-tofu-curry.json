@@ -4,7 +4,6 @@
   "cuisine": "canadian",
   "diet": [
     "vegetarian",
-    "vegan",
     "kosher-friendly"
   ],
   "meal": "dinner",
@@ -71,7 +70,6 @@
   "difficulty": "medium",
   "tags": [
     "vegetarian",
-    "vegan",
     "kosher-friendly",
     "tofu",
     "massaman",
@@ -99,11 +97,16 @@
     "mood": "energizing",
     "technique": "blanch",
     "primaryIngredient": "massaman curry paste",
-    "diet": "kosher",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Canadian",
     "mainIngredient": "tofu",
     "descriptor": "Velvety",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "aligned-axes-diet"
+  ]
 }

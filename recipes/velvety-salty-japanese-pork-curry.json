@@ -68,7 +68,8 @@
     "Stir in Japanese curry roux, breaking it apart; let it melt completely and thicken, about 5 minutes.",
     "Add reduced-sodium soy sauce and mirin, stirring to combine and creating a rich, velvety sauce.",
     "Simmer uncovered for another 5 minutes, letting flavors meld.",
-    "Serve hot over steamed rice, garnished with toasted sesame seeds if desired."
+    "Serve hot over steamed rice, garnished with toasted sesame seeds if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "slug": "velvety-salty-japanese-pork-curry",
   "source": "ocloud-gpt-oss:20b",
@@ -102,5 +103,9 @@
   "tags": [
     "japanese",
     "dinner"
+  ],
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
   ]
 }

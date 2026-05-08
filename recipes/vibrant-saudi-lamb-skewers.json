@@ -92,11 +92,15 @@
     "mood": "date-night",
     "technique": "caramelize",
     "primaryIngredient": "coriander",
-    "diet": "kosher",
+    "diet": "kosher-friendly",
     "region": null,
     "cuisineAdjective": "Saudi",
     "mainIngredient": "lamb",
     "descriptor": "Vibrant",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

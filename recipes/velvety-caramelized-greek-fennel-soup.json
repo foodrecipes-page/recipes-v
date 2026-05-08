@@ -3,25 +3,24 @@
   "description": "A silky, plantbased soup that layers caramelized fennel with aromatic Greek herbs for a lazySunday comfort dish.",
   "cuisine": "Greek",
   "diet": [
-    "vegan",
-    "dairy\u2011free",
+    "dairy‑free",
     "gluten-free"
   ],
   "meal": "lunch",
   "ingredients": [
     {
       "name": "fennel bulb",
-      "amount": "1 large (\u2248450\u202fg)",
-      "notes": "trimmed, stem removed, diced into \u00bd\u2011inch cubes"
+      "amount": "1 large (≈450 g)",
+      "notes": "trimmed, stem removed, diced into ½‑inch cubes"
     },
     {
       "name": "carrot",
-      "amount": "2 medium (\u2248200\u202fg)",
+      "amount": "2 medium (≈200 g)",
       "notes": "diced"
     },
     {
       "name": "onion",
-      "amount": "1 medium (\u2248150\u202fg)",
+      "amount": "1 medium (≈150 g)",
       "notes": "diced"
     },
     {
@@ -30,7 +29,7 @@
       "notes": "minced"
     },
     {
-      "name": "extra\u2011virgin olive oil",
+      "name": "extra‑virgin olive oil",
       "amount": "2 tbsp"
     },
     {
@@ -40,11 +39,11 @@
     },
     {
       "name": "vegetable broth",
-      "amount": "4 cups (\u2248800\u202fml)"
+      "amount": "4 cups (≈800 ml)"
     },
     {
       "name": "coconut milk",
-      "amount": "1 cup (\u2248240\u202fml)"
+      "amount": "1 cup (≈240 ml)"
     },
     {
       "name": "dried oregano",
@@ -65,11 +64,11 @@
   ],
   "instructions": [
     "Heat the olive oil in a large pot over medium heat.",
-    "Add the diced fennel, carrots, and onion. Cook, stirring, until the vegetables begin to soften and the fennel starts to turn translucent, about 5\u20117\u202fminutes.",
-    "Sprinkle the sugar over the vegetables, stir to coat, then let the mixture caramelize for 3\u20114\u202fminutes, stirring occasionally.",
-    "Add the minced garlic and cook for 30\u202fseconds until fragrant.",
-    "Pour in the vegetable broth, bring to a boil, then reduce heat and simmer for 15\u202fminutes until the vegetables are very tender.",
-    "Stir in the coconut milk, dried oregano, lemon zest, and lemon juice. Simmer for an additional 5\u202fminutes to meld the flavors.",
+    "Add the diced fennel, carrots, and onion. Cook, stirring, until the vegetables begin to soften and the fennel starts to turn translucent, about 5‑7 minutes.",
+    "Sprinkle the sugar over the vegetables, stir to coat, then let the mixture caramelize for 3‑4 minutes, stirring occasionally.",
+    "Add the minced garlic and cook for 30 seconds until fragrant.",
+    "Pour in the vegetable broth, bring to a boil, then reduce heat and simmer for 15 minutes until the vegetables are very tender.",
+    "Stir in the coconut milk, dried oregano, lemon zest, and lemon juice. Simmer for an additional 5 minutes to meld the flavors.",
     "Use an immersion blender to puree the soup until silky smooth (or transfer in batches to a blender, then return to the pot).",
     "Season with salt and pepper to taste.",
     "Serve hot, garnished with a sprinkle of fresh dill or parsley if desired."
@@ -80,7 +79,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "vegan",
     "gluten-free",
     "greek",
     "soup",
@@ -109,5 +107,9 @@
     "mainIngredient": "fennel",
     "descriptor": "Velvety Caramelized",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

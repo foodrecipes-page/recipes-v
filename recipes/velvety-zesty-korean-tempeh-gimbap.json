@@ -3,8 +3,7 @@
   "description": "A savory, velvety, crowd-pleaser Korean dish featuring tempeh, wrapped in a macrobiotic-friendly gimbap with a flavorful kadhai vessel.",
   "cuisine": "Korean",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -123,5 +122,9 @@
     "mainIngredient": "tempeh",
     "descriptor": "Velvety Zesty",
     "dishForm": "Gimbap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

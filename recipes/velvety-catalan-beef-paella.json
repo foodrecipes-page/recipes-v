@@ -76,7 +76,8 @@
     "Pour in water and add saffron threads, bringing the mixture to a simmer.",
     "Add short grain rice, stir to coat the grains with the sauce, and reduce heat to low.",
     "Cover the skillet and let it simmer for 20 minutes until the rice is tender and liquid is absorbed.",
-    "Garnish with chopped parsley and lemon zest before serving."
+    "Garnish with chopped parsley and lemon zest before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -114,5 +115,9 @@
     "mainIngredient": "beef",
     "descriptor": "Velvety",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

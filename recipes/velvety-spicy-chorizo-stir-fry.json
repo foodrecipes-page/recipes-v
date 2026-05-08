@@ -75,11 +75,15 @@
     "mood": "quick-fix",
     "technique": "blanch",
     "primaryIngredient": "red wine",
-    "diet": "kosher",
+    "diet": "kosher-friendly",
     "region": null,
     "cuisineAdjective": "Uruguayan",
     "mainIngredient": "Chorizo",
     "descriptor": "Spicy Velvety Quick Fix",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

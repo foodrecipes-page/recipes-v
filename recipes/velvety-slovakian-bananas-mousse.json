@@ -2,9 +2,7 @@
   "title": "Velvety Slovakian Bananas Mousse",
   "description": "A garlicky, aerated mousse that showcases fried ripe bananas in a shojin-friendly, Slovakian style dessert.",
   "cuisine": "Slovakian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -69,8 +67,7 @@
     "fried",
     "garlic",
     "shojin-friendly",
-    "slovakian",
-    "vegan"
+    "slovakian"
   ],
   "nutrition": {
     "calories": 505,
@@ -95,5 +92,9 @@
     "mainIngredient": "Bananas",
     "descriptor": "Velvety",
     "dishForm": "Mousse"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

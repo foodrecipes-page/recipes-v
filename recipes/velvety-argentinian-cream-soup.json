@@ -2,9 +2,7 @@
   "title": "Velvety Argentinian Cream Soup",
   "description": "A buttery, creamy, light Argentinian soup featuring garlic and a smooth finish, kosherfriendly and perfect for an elegant lunch.",
   "cuisine": "Argentinian",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -55,7 +53,7 @@
   ],
   "instructions": [
     "Heat a large pot over medium heat and melt the butter.",
-    "Add the chopped onion and minced garlic, saut\u00e9ing until fragrant and translucent, about 3 minutes.",
+    "Add the chopped onion and minced garlic, sautéing until fragrant and translucent, about 3 minutes.",
     "Stir in the diced potatoes and cook for an additional 2 minutes, coating them with butter.",
     "Pour in the chicken stock, bring the mixture to a gentle boil, then reduce heat to a simmer.",
     "Simmer uncovered for 15 minutes, or until the potatoes are tender when pierced with a fork.",
@@ -63,7 +61,8 @@
     "Use an immersion blender to puree the soup until silky smooth, or transfer to a blender in batches.",
     "Return the soup to the pot, stir in the heavy cream, and heat through for 3 minutes, keeping it below boiling.",
     "Taste and adjust seasoning if necessary; if the soup is too thick, add a splash of stock or water.",
-    "Serve hot, garnished with a swirl of cream and a sprinkle of fresh thyme or chopped parsley."
+    "Serve hot, garnished with a swirl of cream and a sprinkle of fresh thyme or chopped parsley.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -100,5 +99,10 @@
     "mainIngredient": "cream",
     "descriptor": "Velvety",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-kosher",
+    "added-safety-poultry_no_temp"
+  ]
 }

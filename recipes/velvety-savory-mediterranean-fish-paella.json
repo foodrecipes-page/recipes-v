@@ -3,7 +3,6 @@
   "description": "A rich, indulgent Mediterranean paella dish featuring succulent fish, infused with the warmth of spices and the creaminess of melted butter. Perfect for a special dinner occasion.",
   "cuisine": "Mediterranean",
   "diet": [
-    "pescatarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -117,5 +116,9 @@
     "mainIngredient": "fish",
     "descriptor": "velvety savory",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

@@ -53,7 +53,8 @@
     "In a large bowl, combine the cooked ground beef mixture, beef broth, and shredded cheddar cheese.",
     "Transfer the mixture to a 9x13 inch baking dish and smooth the top.",
     "Bake the casserole in the preheated oven for 25 minutes, or until the cheese is melted and bubbly.",
-    "Remove the casserole from the oven and let it cool for 10 minutes before serving."
+    "Remove the casserole from the oven and let it cool for 10 minutes before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -91,5 +92,9 @@
     "mainIngredient": "ground beef",
     "descriptor": "Velvety Smoky",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

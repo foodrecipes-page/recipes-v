@@ -2,9 +2,7 @@
   "title": "Velvety Earthy Algerian Chicken Stir-fry",
   "description": "A lazy Sunday dish featuring tender chicken pieces in a rich, earthy sauce that's both vegetarian-friendly and perfect for those who enjoy a hearty but not-too-complicated meal.",
   "cuisine": "Algerian",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -64,7 +62,8 @@
     "Pour in tomato paste (or increase if you like), mix thoroughly, then add deglazed pan juices from the chicken after browning on the sides.",
     "Once everything is combined and heated through, place the baked aubergine around the edges of the pan to create a bed, then add the cooked chicken pieces.",
     "Mix in the thyme leaves (if using), paprika (for color if needed), and allow it all to simmer gently for 10-15 minutes until flavors meld together.",
-    "Serve hot with crusty bread or as a side dish with couscous."
+    "Serve hot with crusty bread or as a side dish with couscous.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -100,5 +99,10 @@
     "mainIngredient": "Chicken",
     "descriptor": "Velvety Earthy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

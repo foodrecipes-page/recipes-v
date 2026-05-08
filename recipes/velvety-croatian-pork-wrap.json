@@ -50,7 +50,8 @@
     "Shred the pork into bite-sized pieces and mix with dark soy sauce and score-fat.",
     "Add diced onion and minced garlic to the pork mixture and stir to combine.",
     "Wrap the pork mixture in ti-leaves, making sure to seal the edges tightly.",
-    "Serve the wraps hot, garnished with additional soy sauce and score-fat if desired."
+    "Serve the wraps hot, garnished with additional soy sauce and score-fat if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 120,
@@ -87,5 +88,9 @@
     "mainIngredient": "pork",
     "descriptor": "velvety fatty",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

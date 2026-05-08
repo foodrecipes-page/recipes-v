@@ -3,13 +3,12 @@
   "description": "A deep, velvety stew that transforms stale glutenfree bread into a rich, comforting Jamaican dish, packed with aromatic herbs and coconut milk.",
   "cuisine": "Jamaican",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "stale gluten\u2011free bread",
+      "name": "stale gluten‑free bread",
       "amount": "2 cups cubed (200g)"
     },
     {
@@ -20,7 +19,7 @@
     {
       "name": "olive oil",
       "amount": "1 tbsp",
-      "notes": "for saut\u00e9ing"
+      "notes": "for sautéing"
     },
     {
       "name": "onion",
@@ -51,19 +50,19 @@
       "amount": "200ml (1 cup)"
     },
     {
-      "name": "tamari (gluten\u2011free soy sauce)",
+      "name": "tamari (gluten‑free soy sauce)",
       "amount": "2 tbsp"
     },
     {
       "name": "allspice",
-      "amount": "\u00bd tsp"
+      "amount": "½ tsp"
     }
   ],
   "instructions": [
     "Heat a large pot over medium; melt the butter with olive oil.",
-    "Add the diced onion and minced garlic and saut\u00e9 until fragrant and translucent, about 3\u20134 minutes.",
+    "Add the diced onion and minced garlic and sauté until fragrant and translucent, about 3–4 minutes.",
     "Stir in the dried thyme and bay leaf, cooking for an additional minute.",
-    "Add the cubed stale bread and stir to coat the pieces with the butter\u2011oil mixture; toast lightly for about 5 minutes.",
+    "Add the cubed stale bread and stir to coat the pieces with the butter‑oil mixture; toast lightly for about 5 minutes.",
     "Pour in the crushed tomatoes and vegetable broth, bring the mixture to a gentle simmer.",
     "Reduce the heat to low, cover, and let the stew braise for 15 minutes so the bread soaks up the flavors.",
     "Uncover and stir in the coconut milk, tamari, and allspice; continue to simmer for another 10 minutes until the stew thickens to a velvety consistency.",
@@ -78,7 +77,6 @@
   "difficulty": "medium",
   "tags": [
     "gluten-free",
-    "vegan",
     "stale-bread",
     "jamaican",
     "comfort-food",
@@ -109,5 +107,9 @@
     "mainIngredient": "Bread",
     "descriptor": "Velvety Rich",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A nutty, romantic pescatarian dish that pairs fresh oysters with prosciutto and sage, finished in a buttery white wine sauce and served in a stone dolset on a lazy Susan spinner.",
   "cuisine": "Italian",
   "diet": [
-    "pescatarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -70,7 +69,6 @@
   "tags": [
     "italian",
     "one-pan",
-    "pescatarian",
     "quick",
     "romantic",
     "weeknight"
@@ -98,5 +96,9 @@
     "mainIngredient": "Oysters",
     "descriptor": "Velvety",
     "dishForm": "Saltimbocca"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

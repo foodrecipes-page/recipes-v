@@ -2,9 +2,7 @@
   "title": "Velvety Irish Peanut Brittle Casserole",
   "description": "A buttery, snappy, dairy‑free post‑workout Irish treat that melts into a velvety texture, topped with crunchy peanut brittle and steamed to perfection.",
   "cuisine": "Irish",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -74,7 +72,6 @@
   "servings": 12,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "irish",
     "no-bake",
     "peanut-brittle",
@@ -103,5 +100,9 @@
     "mainIngredient": "peanut",
     "descriptor": "velvety",
     "dishForm": "casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

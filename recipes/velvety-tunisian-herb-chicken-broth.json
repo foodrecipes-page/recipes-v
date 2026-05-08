@@ -70,7 +70,8 @@
     "Remove the chicken from the bag, shred it, and return it to the pot.",
     "Soak gelatin leaves in cold water for 10 minutes, crush them into flakes, and stir into the broth.",
     "Simmer the soup for an additional 10 minutes to melt the gelatin fully.",
-    "Serve hot, garnished with fresh herbs, and enjoy a velvety, low-carb delight."
+    "Serve hot, garnished with fresh herbs, and enjoy a velvety, low-carb delight.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 130,
@@ -108,5 +109,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Velvety",
     "dishForm": "Broth"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

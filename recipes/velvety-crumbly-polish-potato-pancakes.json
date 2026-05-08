@@ -3,8 +3,7 @@
   "description": "A traditional Polish dish featuring garlicky and crumbly potato pancakes, made with soda water for a light and fluffy texture, and namul-blanch-season method for added flavor.",
   "cuisine": "Polish",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -65,7 +64,6 @@
   "difficulty": "medium",
   "tags": [
     "crispy-food",
-    "gluten-free",
     "polish-cuisine",
     "potato-recipes",
     "snack-ideas",
@@ -94,5 +92,9 @@
     "mainIngredient": "potatoes",
     "descriptor": "Velvety Crumbly",
     "dishForm": "Pancakes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -21,7 +21,8 @@
     "Remove kombu seaweed and add sliced bamboo shoots, fish sauce, black peppercorns, and cayenne pepper. Simmer for an additional 10 minutes, until the broth is rich and velvety.",
     "Stir in coconut milk and bamboo shoots liquid. Cook for 2-3 minutes, until heated through.",
     "Taste and adjust seasoning as needed.",
-    "Transfer the Canh Chua to a bamboo tray and garnish with fresh lemongrass and lime wedges."
+    "Transfer the Canh Chua to a bamboo tray and garnish with fresh lemongrass and lime wedges.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 40,
@@ -58,5 +59,9 @@
     "mainIngredient": "chestnut",
     "descriptor": "Velvety, X-traordinary",
     "dishForm": "Canh Chua"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

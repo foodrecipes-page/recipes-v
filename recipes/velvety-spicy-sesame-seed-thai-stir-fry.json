@@ -2,9 +2,7 @@
   "title": "Velvety Spicy Sesame Seed Thai Stir-fry",
   "description": "A nostalgic Thai dish featuring a blend of spicy and velvety flavors, made with halal-friendly sesame seeds for a unique twist.",
   "cuisine": "Thai",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -60,7 +58,8 @@
     "Reduce heat to medium-low, add cornstarch water mixture (cornstarch dissolved in a little water) and stir continuously for about 2 minutes or until thickened.",
     "Mix sesame seeds into the dish and cook for another minute.",
     "Season with salt and lime juice to taste. Stir well to combine all ingredients.",
-    "Serve hot."
+    "Serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -95,5 +94,10 @@
     "mainIngredient": "sesame seed",
     "descriptor": "Spicy Velvety",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal",
+    "added-safety-poultry_no_temp"
+  ]
 }

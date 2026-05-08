@@ -4,7 +4,6 @@
   "cuisine": "Ethiopian",
   "diet": [
     "whole30",
-    "gluten-free",
     "vegan"
   ],
   "meal": "dinner",
@@ -71,7 +70,6 @@
   "tags": [
     "crispy",
     "ethiopian-cuisine",
-    "gluten-free",
     "romantic",
     "vegan",
     "whole30-friendly"
@@ -99,5 +97,9 @@
     "mainIngredient": "mung bean sprouts",
     "descriptor": "Vibrant crispy",
     "dishForm": "Injera"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

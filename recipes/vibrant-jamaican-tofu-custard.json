@@ -63,7 +63,7 @@
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 10,
-  "totalTimeMin": 85,
+  "totalTimeMin": 25,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
@@ -96,5 +96,9 @@
     "mainIngredient": "Tofu",
     "descriptor": "Vibrant",
     "dishForm": "Custard"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

@@ -77,7 +77,8 @@
     "Remove the turkey from the pot and let it cool slightly.",
     "Shred the turkey with two forks and return it to the pot.",
     "Stir in the cornstarch slurry and cook for an additional 2 minutes, or until the sauce has thickened.",
-    "Garnish with scallions and cilantro."
+    "Garnish with scallions and cilantro.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 150,
@@ -116,5 +117,9 @@
     "mainIngredient": "turkey neck",
     "descriptor": "velvety adventurous",
     "dishForm": "Braised"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

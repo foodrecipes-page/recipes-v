@@ -2,9 +2,7 @@
   "title": "Velvety Malaysian Rice Pudding",
   "description": "A floral, gooey vegan rice pudding with coconut cream and glace cherries, perfect for a lazy Sunday treat.",
   "cuisine": "Malaysian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -70,7 +68,6 @@
   "difficulty": "easy",
   "tags": [
     "dessert",
-    "vegan",
     "malaysian",
     "lazy-sunday",
     "floral",
@@ -100,5 +97,9 @@
     "mainIngredient": "Rice",
     "descriptor": "Velvety",
     "dishForm": "Pudding"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

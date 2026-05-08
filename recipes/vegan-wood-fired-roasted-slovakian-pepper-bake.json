@@ -3,7 +3,6 @@
   "description": "A light and comforting vegan dish featuring roasted peppers, baked to perfection in a wood-fired oven.",
   "cuisine": "slovakian",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -79,7 +78,6 @@
     "gluten-free",
     "one-pan",
     "slovakian",
-    "vegan",
     "wood-fired"
   ],
   "nutrition": {
@@ -105,5 +103,9 @@
     "mainIngredient": "Pepper",
     "descriptor": "Vegan Wood-Fired Roasted",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

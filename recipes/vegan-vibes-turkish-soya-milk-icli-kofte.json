@@ -4,9 +4,7 @@
   "cuisine": "Turkish",
   "diet": [
     "lacto-vegetarian",
-    "vegetarian",
-    "vegan",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -98,11 +96,9 @@
   "tags": [
     "coconut-cream",
     "easy-dinner",
-    "gluten-free",
     "lacto-vegetarian",
     "soya-milk",
     "turkish",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -128,5 +124,10 @@
     "mainIngredient": "soya milk",
     "descriptor": "Vegan Vibes",
     "dishForm": "Icli Kofte"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

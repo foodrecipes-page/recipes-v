@@ -79,7 +79,8 @@
     "Pour in coconut milk, vegetable stock, and soy sauce, then stir to combine.",
     "Sprinkle smoked paprika, salt, and black pepper, then bring the mixture to a simmer.",
     "Reduce heat to low, cover, and let the stew cook for 45 minutes, stirring occasionally.",
-    "Garnish with chopped cilantro before serving hot."
+    "Garnish with chopped cilantro before serving hot.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 60,
@@ -118,5 +119,9 @@
     "mainIngredient": "pork",
     "descriptor": "Velvety",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

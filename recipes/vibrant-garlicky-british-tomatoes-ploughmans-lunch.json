@@ -3,7 +3,6 @@
   "description": "A traditional British dish originating from Yorkshire, this ploughman's lunch features garlicky, chewy, and flavorful ingredients, including tomatoes and bonito flakes, all shojin-friendly.",
   "cuisine": "British",
   "diet": [
-    "vegetarian",
     "shojin"
   ],
   "meal": "lunch",
@@ -63,8 +62,7 @@
     "garlicky",
     "lunch-ideas",
     "ploughmans-lunch",
-    "shojin-friendly",
-    "vegetarian"
+    "shojin-friendly"
   ],
   "nutrition": {
     "calories": 420,
@@ -89,5 +87,9 @@
     "mainIngredient": "tomatoes",
     "descriptor": "vibrant garlicky",
     "dishForm": "Ploughmans Lunch"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

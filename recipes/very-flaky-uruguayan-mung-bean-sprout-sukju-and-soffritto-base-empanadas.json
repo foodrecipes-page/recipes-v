@@ -2,9 +2,7 @@
   "title": "Sukju Empanadas con Soffritto y Semillas de Mungo",
   "description": "Sour and flaky Uruguayan empanadas filled with mung-bean-sprout-sukju and soffritto. Perfect for a kid-friendly snack or lunch.",
   "cuisine": "Uruguayan",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -67,8 +65,7 @@
     "kid-friendly",
     "lunch",
     "snack",
-    "uruguayan",
-    "vegetarian"
+    "uruguayan"
   ],
   "nutrition": {
     "calories": 240,
@@ -93,5 +90,9 @@
     "mainIngredient": "mung-bean-sprout-sukju and soffritto-base",
     "descriptor": "Very Flaky",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

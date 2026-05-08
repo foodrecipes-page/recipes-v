@@ -55,7 +55,8 @@
     "Grease the tagliere with butter and add the crust mixture to the bottom and sides of the dish.",
     "Add the pork and vegetable mixture to the tagliere and cover with the remaining crust mixture.",
     "Bake the casserole in the preheated oven for 45 minutes.",
-    "Remove the casserole from the oven and let it cool for 10 minutes before serving."
+    "Remove the casserole from the oven and let it cool for 10 minutes before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 45,
@@ -92,5 +93,9 @@
     "mainIngredient": "pork",
     "descriptor": "Vibrant Bouncy",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

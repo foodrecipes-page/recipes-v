@@ -61,7 +61,8 @@
     "Stir in the sweetened condensed milk and lemon juice.",
     "Reduce heat to low and simmer the mixture for 5 minutes.",
     "Warm the lotus leaf wraps by wrapping them in a damp paper towel and microwaving for 20 seconds.",
-    "Assemble the stir fry in the lotus leaf wraps and serve immediately."
+    "Assemble the stir fry in the lotus leaf wraps and serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -99,5 +100,9 @@
     "mainIngredient": "chicken",
     "descriptor": "vibrant citrusy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

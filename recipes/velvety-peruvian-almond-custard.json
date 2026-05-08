@@ -4,7 +4,6 @@
   "cuisine": "Peruvian",
   "diet": [
     "vegetarian",
-    "vegan",
     "jain"
   ],
   "meal": "dessert",
@@ -68,7 +67,6 @@
     "peruvian",
     "almond",
     "jain-friendly",
-    "vegan",
     "dessert",
     "custard",
     "sweet",
@@ -98,5 +96,9 @@
     "mainIngredient": "almonds",
     "descriptor": "Velvety",
     "dishForm": "Custard"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

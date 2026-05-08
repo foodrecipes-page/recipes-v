@@ -3,8 +3,7 @@
   "description": "A funky and romantic Kenyan dish featuring freekeh, cooked to perfection in a tagine, suitable for diabetics. This dish is a unique blend of African and Middle Eastern flavors.",
   "cuisine": "Kenyan",
   "diet": [
-    "diabetic-friendly",
-    "gluten-free"
+    "diabetic-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -73,7 +72,8 @@
     "Add the freekeh, chicken broth, and dried apricots, and bring the mixture to a boil.",
     "Cover the tagine or Dutch oven and transfer it to the oven, where it will cook at 300 degrees for 25 minutes.",
     "Remove the tagine or Dutch oven from the oven and let it cool for a few minutes before serving.",
-    "Serve the velvety Kenyan freekeh tagine hot, garnished with chopped fresh herbs if desired."
+    "Serve the velvety Kenyan freekeh tagine hot, garnished with chopped fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -83,7 +83,6 @@
   "tags": [
     "diabetic-friendly",
     "freekeh-recipes",
-    "gluten-free",
     "kenyan-cuisine",
     "one-pot-meals",
     "tagine-cooking"
@@ -111,5 +110,10 @@
     "mainIngredient": "freekeh",
     "descriptor": "Velvety gooey",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

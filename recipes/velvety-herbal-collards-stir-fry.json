@@ -42,7 +42,8 @@
     "Heat a wok or large skillet with olive oil over medium-high heat. Add sliced garlic and cook until golden, about 2 minutes.",
     "Add collard greens to the pan, sprinkle with salt and pepper, and stir-fry for 5-7 minutes until wilted.",
     "Toss in herbs and soy sauce, and continue cooking for another minute. Serve hot over steamed rice or noodles.",
-    "For added protein, add sliced sous-vide chicken breasts into the wok while the collards are heating to ensure they cook evenly."
+    "For added protein, add sliced sous-vide chicken breasts into the wok while the collards are heating to ensure they cook evenly.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -77,5 +78,9 @@
     "mainIngredient": "Collards",
     "descriptor": "Velvety",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

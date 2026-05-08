@@ -3,7 +3,6 @@
   "description": "A winey, bouncy Mexican-inspired toast that’s vegan and diabetic-friendly, served on a cedar plank for a rustic touch.",
   "cuisine": "Mexican",
   "diet": [
-    "vegan",
     "diabetic-friendly"
   ],
   "meal": "snack",
@@ -91,8 +90,7 @@
     "high-fiber",
     "mexican",
     "no-bake",
-    "quick",
-    "vegan"
+    "quick"
   ],
   "nutrition": {
     "calories": 370,
@@ -117,5 +115,9 @@
     "mainIngredient": "Avocado",
     "descriptor": "Vibrant",
     "dishForm": "Toast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

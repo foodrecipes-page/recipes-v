@@ -2,10 +2,7 @@
   "title": "Vivid Midnight Indulgence Irish Smoked Fish Pho",
   "description": "A pungent and refreshing Irish dish featuring smoked fish and rice vermicelli, perfect for a midnight craving. This vegan-friendly version of a traditional Pho substitutes fish sauce with a smoky miso.",
   "cuisine": "irish",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -100,5 +97,10 @@
     "mainIngredient": "smoked fish",
     "descriptor": "Vivid midnight indulgence",
     "dishForm": "Pho"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

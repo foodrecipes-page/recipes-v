@@ -3,7 +3,6 @@
   "description": "A hearty and comforting Russian dish featuring roasted beef, rice stick noodles, and fresh vegetables, perfect for a sick day. This recipe is raw-friendly and can be easily customized to suit your taste.",
   "cuisine": "Russian",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -91,5 +90,9 @@
     "mainIngredient": "beef",
     "descriptor": "Very Roasted",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

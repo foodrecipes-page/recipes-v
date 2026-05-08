@@ -67,7 +67,8 @@
     "Pour in the canned tomatoes, low-sodium chicken broth, and lemon juice, then bring the mixture to a gentle boil.",
     "Reduce heat to low, cover the skillet, and simmer for 25 minutes, allowing the flavors to meld.",
     "Stir in the chopped nuka-pickle and cook for an additional 5 minutes, just to warm the pickles and blend the flavors.",
-    "Taste and season with a pinch of black pepper if desired; transfer the stew onto a preheated hot-stone plate and serve hot."
+    "Taste and season with a pinch of black pepper if desired; transfer the stew onto a preheated hot-stone plate and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 30,
@@ -104,5 +105,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Vibrant",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

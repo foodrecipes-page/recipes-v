@@ -11,10 +11,10 @@
     {
       "name": "Skinless chicken breast",
       "amount": "680 g",
-      "notes": "trimmed and cut into 2\u2011inch pieces"
+      "notes": "trimmed and cut into 2‑inch pieces"
     },
     {
-      "name": "Low\u2011sodium chicken broth",
+      "name": "Low‑sodium chicken broth",
       "amount": "2 cups"
     },
     {
@@ -42,7 +42,7 @@
       "amount": "2"
     },
     {
-      "name": "Low\u2011sodium fajita seasoning",
+      "name": "Low‑sodium fajita seasoning",
       "amount": "2 tbsp"
     },
     {
@@ -51,10 +51,10 @@
     },
     {
       "name": "Ground cumin",
-      "amount": "\u00bd tsp"
+      "amount": "½ tsp"
     },
     {
-      "name": "Olive oil (extra\u2011virgin)",
+      "name": "Olive oil (extra‑virgin)",
       "amount": "1 tsp"
     },
     {
@@ -63,14 +63,15 @@
     }
   ],
   "instructions": [
-    "Heat the olive oil in a large Dutch oven over medium\u2011high heat.",
-    "Season the chicken pieces with the fajita seasoning, salt, and pepper, then sear them in the pot until browned on all sides, about 3\u20114 minutes per side. Remove the chicken and set aside.",
-    "Add the diced onions, carrots, celery, mushrooms, and minced garlic to the pot; saut\u00e9 until the vegetables are softened, about 5 minutes.",
+    "Heat the olive oil in a large Dutch oven over medium‑high heat.",
+    "Season the chicken pieces with the fajita seasoning, salt, and pepper, then sear them in the pot until browned on all sides, about 3‑4 minutes per side. Remove the chicken and set aside.",
+    "Add the diced onions, carrots, celery, mushrooms, and minced garlic to the pot; sauté until the vegetables are softened, about 5 minutes.",
     "Return the chicken to the pot and pour in the chicken broth and almond milk. Stir in the smoked paprika, ground cumin, and lemon juice.",
-    "Bring the mixture to a gentle simmer, cover, and reduce the heat to low. Cook for 25\u201130 minutes, until the chicken is tender and the flavors meld.",
+    "Bring the mixture to a gentle simmer, cover, and reduce the heat to low. Cook for 25‑30 minutes, until the chicken is tender and the flavors meld.",
     "Use an immersion blender to partially blend the stew until it reaches a velvety, silky texture; alternatively, transfer a portion to a blender and blend, then return to the pot.",
     "Taste and adjust seasoning with additional salt, pepper, or lemon juice if desired.",
-    "Serve hot, garnished with fresh herbs such as parsley or cilantro if desired."
+    "Serve hot, garnished with fresh herbs such as parsley or cilantro if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "slug": "velvety-canadian-chicken-stew",
   "source": "ocloud-gpt-oss:20b",
@@ -104,5 +105,9 @@
   "tags": [
     "canadian",
     "dinner"
+  ],
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
   ]
 }

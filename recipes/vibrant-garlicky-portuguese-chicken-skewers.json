@@ -50,7 +50,8 @@
     "Air fry the chicken skewers for 12 minutes, shaking halfway through.",
     "Brush the chicken skewers with lemon juice during the last 2 minutes of cooking.",
     "Remove the chicken skewers from the air fryer and let them rest for 2 minutes.",
-    "Serve the chicken skewers on a wooden board, garnished with lemon wedges and fresh parsley."
+    "Serve the chicken skewers on a wooden board, garnished with lemon wedges and fresh parsley.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 12,
@@ -89,5 +90,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Vibrant Garlicky",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

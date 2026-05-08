@@ -2,9 +2,7 @@
   "title": "Vino Verde Tarta",
   "description": "A festive Uruguayan dessert featuring white wine vinegar and sweet flavors, perfect for a special occasion.",
   "cuisine": "Uruguayan",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -61,7 +59,6 @@
   "tags": [
     "vino-verde",
     "tarta",
-    "vegan",
     "dessert"
   ],
   "nutrition": {
@@ -83,5 +80,9 @@
     "primaryIngredient": "white wine vinegar",
     "diet": "vegan",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

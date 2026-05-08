@@ -2,9 +2,7 @@
   "title": "Velvety Italian Milk Chocolate Mousse",
   "description": "A silky, plant-based Italian milk chocolate mousse that shatters with every spoonful, cooked in a traditional ttukbaegi earthenware pot for a touch of rustic charm.",
   "cuisine": "Italian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -100,5 +98,9 @@
     "mainIngredient": "milk chocolate",
     "descriptor": "Velvety",
     "dishForm": "Mousse"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

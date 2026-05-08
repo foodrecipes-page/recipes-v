@@ -2,10 +2,7 @@
   "title": "Velvety Squash Soup",
   "description": "An earthy and velvety Filipino dish featuring sake, this kid-friendly soup is both comforting and healthy.",
   "cuisine": "Filipino",
-  "diet": [
-    "kosher",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -62,7 +59,8 @@
     "Add butternut squash, season with soy sauce, chicken broth concentrate, water, and optional shrimp paste. Stir well to combine.",
     "Pour mixture into a baking dish. Sprinkle soy milk evenly over the top of the soup.",
     "Bake in preheated oven until soup reaches desired consistency (about 20-30 minutes).",
-    "Garnish with fresh herbs before serving."
+    "Garnish with fresh herbs before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -98,5 +96,11 @@
     "mainIngredient": "Squash",
     "descriptor": "Earthy Velvety",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-kosher",
+    "added-safety-poultry_no_temp"
+  ]
 }

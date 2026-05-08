@@ -70,7 +70,7 @@
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 0,
-  "totalTimeMin": 40,
+  "totalTimeMin": 10,
   "servings": 2,
   "difficulty": "medium",
   "tags": [
@@ -104,5 +104,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Vivid",
     "dishForm": "Tartare"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

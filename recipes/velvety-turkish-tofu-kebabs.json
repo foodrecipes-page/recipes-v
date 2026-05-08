@@ -3,8 +3,7 @@
   "description": "A plant-based Turkish dish featuring crispy tofu, meringue nests, and a malty cheese-pull, perfect for midnight cravings. This recipe is robata-grill friendly and serves as a satisfying snack.",
   "cuisine": "Turkish",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -88,5 +87,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Velvety",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

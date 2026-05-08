@@ -3,7 +3,6 @@
   "description": "A fresh, cold, probiotic-packed soup that soothes hangovers with velvety yogurt, horseradish, and fermented tang.",
   "cuisine": "Greek",
   "diet": [
-    "vegetarian",
     "nut-free",
     "dairy"
   ],
@@ -70,7 +69,8 @@
     "7. Before serving, gently stir the soup again to ensure even distribution of herbs and horseradish.",
     "8. Serve cold, garnished with a few extra dill sprigs or a light drizzle of olive oil if desired.",
     "9. For an extra burst of freshness, add a splash of lemon juice or a pinch more horseradish.",
-    "10. Enjoy immediately as a revitalizing lunch or brunch."
+    "10. Enjoy immediately as a revitalizing lunch or brunch.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 0,
@@ -84,8 +84,7 @@
     "mediterranean",
     "fresh",
     "cold",
-    "nut-free",
-    "vegetarian"
+    "nut-free"
   ],
   "nutrition": {
     "calories": 166,
@@ -110,5 +109,10 @@
     "mainIngredient": "yogurt",
     "descriptor": "Velvety",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

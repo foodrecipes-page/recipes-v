@@ -59,11 +59,15 @@
     "mood": "brunch-mood",
     "technique": "blanch",
     "primaryIngredient": "mushroom",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Korean",
     "mainIngredient": "mushroom",
     "descriptor": "Vibrant Blanch",
     "dishForm": "Sujjuk Jjigae"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

@@ -59,7 +59,9 @@
     "Reduce heat to low and cook, covered, for 20 minutes.",
     "Remove from heat and let rest for 5 minutes.",
     "Serve hot and enjoy!",
-    "Note: To make nuka-pickle, combine 1 cup of thinly sliced daikon, 1/2 cup of thinly sliced cucumber, and 2 tablespoons of fish sauce in a bowl. Let sit at room temperature for 30 minutes, then refrigerate until chilled."
+    "Note: To make nuka-pickle, combine 1 cup of thinly sliced daikon, 1/2 cup of thinly sliced cucumber, and 2 tablespoons of fish sauce in a bowl. Let sit at room temperature for 30 minutes, then refrigerate until chilled.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -98,5 +100,10 @@
     "mainIngredient": "paella rice",
     "descriptor": "Velvety Indulgent",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

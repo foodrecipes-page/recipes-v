@@ -60,7 +60,6 @@
   "difficulty": "medium",
   "tags": [
     "dim-sum",
-    "gluten-free",
     "high-protein",
     "one-pan",
     "vegan",
@@ -89,5 +88,9 @@
     "mainIngredient": "rhubarb",
     "descriptor": "Vibrant Steamed",
     "dishForm": "Mushimono"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

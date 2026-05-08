@@ -40,11 +40,11 @@
       "notes": "add more for extra heat"
     },
     {
-      "name": "low\u2011sodium chicken broth",
+      "name": "low‑sodium chicken broth",
       "amount": "1/2 cup"
     },
     {
-      "name": "tomato puree (low\u2011sugar)",
+      "name": "tomato puree (low‑sugar)",
       "amount": "1/2 cup"
     },
     {
@@ -57,7 +57,7 @@
     }
   ],
   "instructions": [
-    "Heat the olive oil in a heavy\u2011bottomed pot over medium heat.",
+    "Heat the olive oil in a heavy‑bottomed pot over medium heat.",
     "Add the lamb cubes and sear them on all sides until browned, about 5 minutes.",
     "Transfer the lamb to a plate and set aside.",
     "In the same pot, add the sliced onion and cook until translucent, about 3 minutes.",
@@ -65,7 +65,8 @@
     "Return the lamb to the pot and pour in the chicken broth and tomato puree, scraping up any browned bits.",
     "Bring the mixture to a gentle simmer, reduce heat to low, cover, and let it cook for 45 minutes, stirring occasionally.",
     "Once the lamb is tender, add the lemon juice and chopped parsley, season with salt and pepper to taste, and finish with a final stir.",
-    "Serve hot, optionally garnished with extra parsley, over a small portion of couscous or plain steamed rice for a balanced meal."
+    "Serve hot, optionally garnished with extra parsley, over a small portion of couscous or plain steamed rice for a balanced meal.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "slug": "velvety-spicy-algerian-lamb-tagine",
   "source": "ocloud-gpt-oss:20b",
@@ -99,5 +100,9 @@
   "tags": [
     "algerian",
     "dinner"
+  ],
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
   ]
 }

@@ -2,9 +2,7 @@
   "title": "Vivid Malaysian Egg Noodle Bowl",
   "description": "A peppery, dairy-free egg noodle bowl with a melt-in-your-mouth cheese pull, perfect for a quick sick‑day meal.",
   "cuisine": "Malaysian",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -76,7 +74,6 @@
   "difficulty": "easy",
   "tags": [
     "cheese-pull",
-    "dairy-free",
     "egg-noodles",
     "malaysian",
     "quick",
@@ -105,5 +102,9 @@
     "mainIngredient": "egg noodle",
     "descriptor": "Vivid",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

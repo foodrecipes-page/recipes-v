@@ -2,9 +2,7 @@
   "title": "Velvety Indian Beef Curry",
   "description": "A buttery, velvety curry blending mixed beef cuts with coconut milk and aromatic spices, kosher-friendly and adventurous.",
   "cuisine": "Indian",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -128,5 +126,9 @@
     "mainIngredient": "beef",
     "descriptor": "Velvety",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-kosher"
+  ]
 }

@@ -2,10 +2,7 @@
   "title": "vibrant vegan mincemeat pinakbet",
   "description": "a citrusy, kid-friendly filipino dish featuring mincemeat and roast, served in scallop shells. perfect for a weeknight dinner.",
   "cuisine": "filipino",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -82,7 +79,6 @@
     "filipino",
     "kid-friendly",
     "one-pan",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -108,5 +104,10 @@
     "mainIngredient": null,
     "descriptor": "Citrusy Shattering Vegan",
     "dishForm": "Pinakbet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

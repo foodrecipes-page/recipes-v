@@ -3,7 +3,6 @@
   "description": "A flavorful and energizing vegan-friendly middle eastern dish featuring oyster mushrooms as the base, topped with a creamy score-fat sauce and a crunchy finishing touch.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "vegan",
     "gluten-free",
     "dairy-free"
   ],
@@ -63,7 +62,6 @@
     "lunch",
     "middle-eastern",
     "one-pan",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -89,5 +87,9 @@
     "mainIngredient": "Oyster mushrooms",
     "descriptor": "Vegan friendly energizing",
     "dishForm": "Muhammara"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

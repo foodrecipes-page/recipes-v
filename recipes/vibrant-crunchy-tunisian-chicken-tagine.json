@@ -98,11 +98,15 @@
     "mood": "date-night",
     "technique": "deglaze",
     "primaryIngredient": "pine nuts",
-    "diet": "nut-free",
+    "diet": "gluten-free",
     "region": null,
     "cuisineAdjective": "Tunisian",
     "mainIngredient": "chicken",
     "descriptor": "Vibrant crunchy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

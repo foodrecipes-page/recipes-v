@@ -3,7 +3,6 @@
   "description": "A rich beef soup originating from Canada, made with a bain-marie to create a smooth and velvety texture, served as a satisfying post-workout meal.",
   "cuisine": "Canadian",
   "diet": [
-    "kosher",
     "halal"
   ],
   "meal": "lunch",
@@ -75,7 +74,8 @@
     "Stir in the ground clove and cook for an additional 2 minutes.",
     "Taste and adjust the seasoning as needed.",
     "Serve the bisque hot, garnished with chopped parsley.",
-    "Use a bain-marie to keep the soup warm for a longer period of time."
+    "Use a bain-marie to keep the soup warm for a longer period of time.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -114,5 +114,10 @@
     "mainIngredient": "beef",
     "descriptor": "Velvety Sour",
     "dishForm": "Bisque"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-kosher",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

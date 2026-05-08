@@ -53,7 +53,8 @@
     "Bring the mixture to a simmer, then reduce the heat to low and cook, covered, for 20 minutes.",
     "Stir in the sauerkraut and cook, covered, for an additional 10 minutes.",
     "Taste and adjust the seasoning as needed.",
-    "Stir in the chopped basil and serve hot over rice or noodles."
+    "Stir in the chopped basil and serve hot over rice or noodles.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -90,5 +91,9 @@
     "mainIngredient": "pork",
     "descriptor": "Velvety sweet",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

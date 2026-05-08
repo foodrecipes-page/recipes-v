@@ -84,11 +84,15 @@
     "mood": "energizing",
     "technique": "marinate",
     "primaryIngredient": "creme fraiche",
-    "diet": "paleo",
+    "diet": "paleo-friendly",
     "region": null,
     "cuisineAdjective": "Canadian",
     "mainIngredient": "Beef",
     "descriptor": "Umami Velvety Energetic",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "This high-protein-friendly mexican dish is a velvety umami delight perfect for sick days. It features tender lamb cooked with sous-vide and vibrant, colorful vegetables in a flavorful sauce.",
   "cuisine": "Mexican",
   "diet": [
-    "vegan",
     "high-protein"
   ],
   "meal": "dinner",
@@ -97,5 +96,9 @@
     "mainIngredient": "lamb",
     "descriptor": "velvety",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

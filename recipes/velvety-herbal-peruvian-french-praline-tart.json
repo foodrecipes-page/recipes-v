@@ -2,10 +2,7 @@
   "title": "Velvety Herbal Peruvian French Praline Tart",
   "description": "A rich and creamy tart featuring the unique flavors of Peruvian herbs and French praline. Perfect for a date-night dessert.",
   "cuisine": "Peruvian",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -85,10 +82,8 @@
   "difficulty": "hard",
   "tags": [
     "date-night",
-    "gluten-free",
     "praline",
-    "tart",
-    "vegan"
+    "tart"
   ],
   "nutrition": {
     "calories": 320,
@@ -113,5 +108,10 @@
     "mainIngredient": "French praline",
     "descriptor": "Velvety herbal",
     "dishForm": "Tart"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

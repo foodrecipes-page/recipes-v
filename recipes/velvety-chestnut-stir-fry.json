@@ -57,7 +57,8 @@
     "Bring the mixture to a simmer and let it cook for about 10-15 minutes to allow flavors to meld together.",
     "Add the chopped fresh herbs to the skillet. Continue cooking for an additional 2 minutes.",
     "If using canned smoked salmon, add it to the skillet along with roasted chestnuts. Cook until heated through, about 3-5 more minutes.",
-    "Remove from heat and serve hot over steamed rice or as a side dish."
+    "Remove from heat and serve hot over steamed rice or as a side dish.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -67,7 +68,6 @@
   "tags": [
     "chestnut",
     "stir-fry",
-    "vegan",
     "pescatarian-friendly"
   ],
   "nutrition": {
@@ -93,5 +93,10 @@
     "mainIngredient": "Chestnut",
     "descriptor": "Velvety",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "added-safety-poultry_no_temp"
+  ]
 }

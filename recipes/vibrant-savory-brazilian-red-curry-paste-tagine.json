@@ -5,8 +5,7 @@
   "diet": [
     null,
     "omnivore",
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -120,5 +119,9 @@
     "mainIngredient": "red-curry-paste",
     "descriptor": "vibrant savory",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

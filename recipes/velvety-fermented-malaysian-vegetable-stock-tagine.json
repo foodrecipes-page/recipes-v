@@ -3,8 +3,6 @@
   "description": "A rich and hearty, fermented, velvety dish featuring a creamy Malaysian vegetable stock, slow-cooked in a traditional Tajine clay pot. This recipe is a nostalgic tribute to the flavors of Malaysia, with a FODMAP-friendly twist.",
   "cuisine": "Malaysian",
   "diet": [
-    "vegetarian",
-    "vegan",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -70,7 +68,6 @@
     "fermented",
     "gluten-free",
     "malaysian",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -96,5 +93,10 @@
     "mainIngredient": "vegetable stock",
     "descriptor": "velvety fermented",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

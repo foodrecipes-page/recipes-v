@@ -73,7 +73,9 @@
     "Return the chicken to the skillet and cook until heated through, about 2-3 minutes.",
     "Stir in the Greek yogurt and cook for an additional 1-2 minutes, until the sauce has thickened slightly.",
     "Season the skillet with salt and black pepper to taste.",
-    "Garnish with chopped fresh cilantro and serve hot."
+    "Garnish with chopped fresh cilantro and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -109,5 +111,10 @@
     "mainIngredient": "chicken",
     "descriptor": "herbal velvety",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Velvety Korean Beef Kidney Tteok",
   "description": "A creamy and fatty Korean dish featuring beef kidney in a pasta-water-emulsion, wrapped in a corn husk, suitable for vegan-friendly modification",
   "cuisine": "Korean",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -92,5 +90,9 @@
     "mainIngredient": "beef kidney",
     "descriptor": "Velvety Creamy",
     "dishForm": "Tteok"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

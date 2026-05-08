@@ -3,8 +3,7 @@
   "description": "A winey and pillowy light Mediterranean dessert featuring unflavored gelatin, lacquer glaze, and macrobiotic friendly ingredients, perfect for warm evenings.",
   "cuisine": "Mediterranean",
   "diet": [
-    "macrobiotic",
-    "vegetarian"
+    "macrobiotic"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -97,5 +96,9 @@
     "mainIngredient": "gelatin",
     "descriptor": "Velvety Light",
     "dishForm": "Pudding"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

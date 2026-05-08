@@ -3,8 +3,7 @@
   "description": "A unique Ukrainian dish featuring tender steamed beef with a hint of vanilla extract, perfect for weeknight dinners and high-protein-friendly meals.",
   "cuisine": "Ukrainian",
   "diet": [
-    "high-protein",
-    "vegan"
+    "high-protein"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -99,5 +98,9 @@
     "mainIngredient": "beef",
     "descriptor": "Vanilla Steamed",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

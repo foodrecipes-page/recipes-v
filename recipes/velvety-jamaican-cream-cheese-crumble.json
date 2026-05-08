@@ -4,7 +4,6 @@
   "cuisine": "Jamaican",
   "diet": [
     "vegetarian",
-    "gluten-free",
     "low-fodmap"
   ],
   "meal": "dessert",
@@ -83,7 +82,6 @@
     "crumble",
     "dessert",
     "vegetarian",
-    "gluten-free",
     "low-fodmap",
     "comfort-food"
   ],
@@ -110,5 +108,9 @@
     "mainIngredient": "cream cheese",
     "descriptor": "Velvety",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

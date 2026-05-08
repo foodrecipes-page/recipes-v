@@ -46,7 +46,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "vegan",
     "salt-cod-delight",
     "russian-dish"
   ],
@@ -69,5 +68,9 @@
     "primaryIngredient": "salt cod",
     "diet": "vegan",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

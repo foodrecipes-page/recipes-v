@@ -3,7 +3,6 @@
   "description": "A date-night twist on a traditional Jamaican dish, featuring vanilla extract for a unique flavor profile.",
   "cuisine": "jamaican",
   "diet": [
-    "gluten-free",
     "fodmap-friendly"
   ],
   "meal": "dessert",
@@ -112,5 +111,9 @@
     "mainIngredient": "Dish",
     "descriptor": "Vanilla",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

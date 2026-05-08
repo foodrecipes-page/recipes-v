@@ -4,8 +4,7 @@
   "cuisine": "Mediterranean",
   "diet": [
     "paleo",
-    "gluten-free",
-    "vegetarian"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -28,7 +27,8 @@
     "Grind 1 teaspoon of shichimi togarashi in a spice grinder or mortar and pestle. ",
     "Add ground shichimi togarashi and toasted sesame seeds to quinoa and stir to combine.",
     "Stir in 1 tablespoon of olive oil and season with salt to taste.",
-    "Transfer quinoa mixture to a tagliere and top with chopped fresh herbs, such as parsley or cilantro."
+    "Transfer quinoa mixture to a tagliere and top with chopped fresh herbs, such as parsley or cilantro.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -40,7 +40,6 @@
     "high-protein",
     "one-pan",
     "paleo",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -66,5 +65,10 @@
     "mainIngredient": "shichimi-togarashi",
     "descriptor": "Vibrant Aerated",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

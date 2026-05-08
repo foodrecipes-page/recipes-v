@@ -3,8 +3,7 @@
   "description": "A refreshing and crunchy Korean dish featuring cashews and a winey flavor, perfect for a brunch mood. This Mediterranean-friendly naengmyeon dish is a unique twist on traditional Korean cuisine.",
   "cuisine": "Korean",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -65,7 +64,6 @@
   "tags": [
     "brunch-ideas",
     "cashew-based",
-    "gluten-free",
     "korean-cuisine",
     "mediterranean-friendly",
     "wine-infused"
@@ -93,5 +91,9 @@
     "mainIngredient": "cashews",
     "descriptor": "Vibrant winey",
     "dishForm": "Naengmyeon"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

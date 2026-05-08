@@ -64,7 +64,8 @@
     "In a small pan, toast the sesame seeds over medium heat until they are fragrant.",
     "To assemble the dish, place some noodles in a bowl, then ladle the hot broth over the noodles.",
     "Top the noodles with chopped green onions, bean sprouts, and toasted sesame seeds.",
-    "Drizzle the soy sauce over the top of the dish and serve immediately."
+    "Drizzle the soy sauce over the top of the dish and serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 240,
@@ -102,5 +103,9 @@
     "mainIngredient": "noodles",
     "descriptor": "Vibrant Crunchy",
     "dishForm": "Ramen Tonkotsu"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

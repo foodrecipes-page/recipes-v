@@ -2,9 +2,7 @@
   "title": "Velvety Sweet Portuguese Kabocha Bake",
   "description": "A festive Portuguese dish featuring kabocha and bhuna flavors, perfect for a pescatarian-friendly dinner. This recipe is a twist on traditional Portuguese cuisine, with a rich and velvety texture from the kabocha and a hint of mustardy flavor from the bhuna spice mix.",
   "cuisine": "portuguese",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -67,7 +65,8 @@
     "Preheat oven to 375°F (190°C).",
     "Grease a 9x13-inch baking dish with olive oil.",
     "Peel and cube the kabocha squash and set aside.",
-    "In a large skillet, sauté the onion and garlic until softened, about 5 minutes."
+    "In a large skillet, sauté the onion and garlic until softened, about 5 minutes.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 45,
@@ -78,7 +77,6 @@
     "comfort-food",
     "fall-recipes",
     "one-pan",
-    "pescatarian",
     "portuguese",
     "winter-recipes"
   ],
@@ -105,5 +103,10 @@
     "mainIngredient": "kabocha",
     "descriptor": "velvety sweet",
     "dishForm": "bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

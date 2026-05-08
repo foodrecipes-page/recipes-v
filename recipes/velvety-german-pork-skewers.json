@@ -52,7 +52,9 @@
     "Place the skewers in the sous-vide machine and cook for 2 hours.",
     "While the pork is cooking, prepare the pickle mixture by combining chopped pickles, onion, and garlic in a bowl.",
     "Once the pork is cooked, remove it from the sous-vide machine and brush with the pickle mixture.",
-    "Serve the pork skewers hot, garnished with additional chopped pickles if desired."
+    "Serve the pork skewers hot, garnished with additional chopped pickles if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 120,
@@ -90,5 +92,10 @@
     "mainIngredient": "pork",
     "descriptor": "Velvety",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

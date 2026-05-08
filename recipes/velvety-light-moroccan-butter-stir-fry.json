@@ -61,7 +61,8 @@
     "Stir in tomato paste, smoked paprika, cumin seeds, oregano, and lemon juice. Cook for an additional 2-3 minutes to let flavors meld together.",
     "Pour in butter, reduce heat to medium-low, and allow the mixture to bubble and thicken slightly.",
     "Reduce heat to low and add cooked chicken back into the skillet. Gently stir until fully combined and heated through.",
-    "Serve hot with a side of crusty bread or as a main course on its own."
+    "Serve hot with a side of crusty bread or as a main course on its own.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -99,5 +100,9 @@
     "mainIngredient": "Butter",
     "descriptor": "Velvety Light",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

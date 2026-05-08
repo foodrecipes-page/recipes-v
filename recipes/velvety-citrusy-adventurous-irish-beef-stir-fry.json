@@ -58,7 +58,9 @@
     "Add ground beef and chicken, cook until browned, about 5 minutes.",
     "Stir in clementine segments and lemon juice, simmer for an additional 2-3 minutes.",
     "Mix in cilantro leaves, salt, pepper, and diced bell pepper.",
-    "Serve hot with a side of paleo-friendly crackers or gluten-free bread."
+    "Serve hot with a side of paleo-friendly crackers or gluten-free bread.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -94,5 +96,10 @@
     "mainIngredient": "beef",
     "descriptor": "Citrusy Velvety Adventurous",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

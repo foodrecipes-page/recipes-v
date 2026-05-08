@@ -3,8 +3,7 @@
   "description": "A salty, dense, and quick-fix Middle Eastern dish featuring brown rice and a savory saute, perfect for a weeknight dinner.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "low-fat",
-    "vegetarian"
+    "low-fat"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -63,7 +62,8 @@
     "Add the low-sodium chicken broth and bring to a boil.",
     "Reduce the heat to low, cover, and simmer for 20 minutes, or until the liquid is absorbed and the rice is tender.",
     "Fluff the rice mixture with a fork and stir in the toasted pine nuts, if using.",
-    "Transfer the rice mixture to a serving dish and serve hot."
+    "Transfer the rice mixture to a serving dish and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 25,
@@ -75,7 +75,6 @@
     "low-fat",
     "middle-eastern",
     "one-pot",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -101,5 +100,10 @@
     "mainIngredient": "rice",
     "descriptor": "Vibrant Dense",
     "dishForm": "Umm Ali"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

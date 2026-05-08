@@ -58,7 +58,8 @@
     "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
     "Add the cauliflower rice to the pan and stir to combine.",
     "Cook for an additional 5 minutes, or until the cauliflower rice is tender.",
-    "Serve the paella hot, garnished with fresh herbs if desired."
+    "Serve the paella hot, garnished with fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -96,5 +97,9 @@
     "mainIngredient": "chicken",
     "descriptor": "vibrant spicy",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

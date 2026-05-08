@@ -70,7 +70,8 @@
     "Add the black beans and tomatoes, stirring to combine.",
     "Reduce heat to low and simmer, uncovered, for 20 minutes to meld the flavors.",
     "Taste and adjust seasoning with extra salt or pepper as needed.",
-    "Serve hot, optionally garnished with chopped cilantro or green onions."
+    "Serve hot, optionally garnished with chopped cilantro or green onions.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 30,
@@ -107,5 +108,9 @@
     "mainIngredient": "annatto",
     "descriptor": "Vibrant",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

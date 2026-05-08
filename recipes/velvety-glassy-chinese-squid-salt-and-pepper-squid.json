@@ -3,8 +3,6 @@
   "description": "Fermented and crispy squid dish with a glassy jelly texture, inspired by traditional Hakka Chinese cuisine. This recipe is vegan-friendly and perfect for Buddhist temple gatherings.",
   "cuisine": "Hakka Chinese",
   "diet": [
-    "vegetarian",
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -92,5 +90,10 @@
     "mainIngredient": "squid",
     "descriptor": "Velvety Glassy",
     "dishForm": "Salt-and-Pepper-Squid"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

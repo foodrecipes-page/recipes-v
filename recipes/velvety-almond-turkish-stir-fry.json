@@ -58,7 +58,8 @@
     "Add onion to the pan and cook until soft, then stir in minced garlic and tomato paste. Cook for an additional minute until fragrant.",
     "Return chicken to the pan with almond mixture. Pour soy sauce and lemon juice over the top of the chicken. Stir well to combine all ingredients.",
     "Lower heat to medium-low and simmer for about 10 minutes or until sauce thickens slightly, stirring occasionally.",
-    "Add cayenne pepper if desired and stir in more salt and pepper as needed. Remove from heat and serve hot with additional lemon wedges on the side."
+    "Add cayenne pepper if desired and stir in more salt and pepper as needed. Remove from heat and serve hot with additional lemon wedges on the side.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -94,5 +95,9 @@
     "mainIngredient": "Almonds",
     "descriptor": "Nutty Velvety",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -83,7 +83,8 @@
     "Cover the claypot with foil and transfer it to the preheated oven.",
     "Bake for 2 hours, or until the pork is tender and easily shreds with a fork.",
     "Remove the foil and continue baking for another 30 minutes to crisp up the skin.",
-    "Let the pork rest for 10-15 minutes before slicing it thinly and serving."
+    "Let the pork rest for 10-15 minutes before slicing it thinly and serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 210,
@@ -120,5 +121,9 @@
     "mainIngredient": "Pork Shoulder",
     "descriptor": "Verbally Viscous",
     "dishForm": "Tangia"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

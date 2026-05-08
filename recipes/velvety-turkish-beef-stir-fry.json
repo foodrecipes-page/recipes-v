@@ -103,11 +103,15 @@
     "mood": "indulgent",
     "technique": "stir-fry",
     "primaryIngredient": "hot beef stock",
-    "diet": "keto",
+    "diet": "keto-friendly",
     "region": null,
     "cuisineAdjective": "Turkish",
     "mainIngredient": "beef",
     "descriptor": "Velvety",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A fatty and fluffy weeknight Kenyan dish featuring pepper, this stew is perfect for a comforting meal, and its ingredients are Buddhist-temple-friendly.",
   "cuisine": "Kenyan",
   "diet": [
-    "halal",
     "non-vegetarian"
   ],
   "meal": "dinner",
@@ -105,5 +104,9 @@
     "mainIngredient": "lamb",
     "descriptor": "velvety spicy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

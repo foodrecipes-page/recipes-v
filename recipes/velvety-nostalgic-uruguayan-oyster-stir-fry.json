@@ -2,9 +2,7 @@
   "title": "Velvety Nostalgic Uruguayan Oyster Stir-fry",
   "description": "A vegetarian-friendly and smoke-infused dish featuring an earthy blend of oyster sauce and vegetables to evoke nostalgic flavors typical of Uruguay.",
   "cuisine": "Uruguayan",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -71,8 +69,7 @@
   "difficulty": "easy",
   "tags": [
     "uruguayan",
-    "nostalgic",
-    "vegan"
+    "nostalgic"
   ],
   "nutrition": {
     "calories": 300,
@@ -97,5 +94,10 @@
     "mainIngredient": "Oyster",
     "descriptor": "Velvety Nostalgic",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

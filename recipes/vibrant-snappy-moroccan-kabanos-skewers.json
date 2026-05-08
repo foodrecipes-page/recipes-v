@@ -3,7 +3,6 @@
   "description": "A malty and snappy solo dinner dish featuring Polish kabanos, infused oil, and Mediterranean friendly flavors, cooked to perfection on a tava griddle.",
   "cuisine": "Moroccan",
   "diet": [
-    "gluten-free",
     "meat-based"
   ],
   "meal": "dinner",
@@ -67,7 +66,6 @@
   "difficulty": "easy",
   "tags": [
     "easy",
-    "gluten-free",
     "meat-based",
     "mediterranean",
     "one-pan",
@@ -97,5 +95,9 @@
     "mainIngredient": "kabanos",
     "descriptor": "Vibrant snappy",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

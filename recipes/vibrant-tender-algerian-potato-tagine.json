@@ -3,7 +3,6 @@
   "description": "A funky and tender Algerian dish featuring russet potatoes, perfect for a sick day, made with ayurvedic-sattvic-friendly ingredients.",
   "cuisine": "Algerian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -61,7 +60,8 @@
     "Pour in the chicken broth and bring the mixture to a boil.",
     "Reduce the heat to low, cover the Dutch oven, and simmer for 20 minutes.",
     "Remove the lid and continue to simmer for an additional 10 minutes, or until the potatoes are tender.",
-    "Stir in the chopped fresh parsley and serve hot."
+    "Stir in the chopped fresh parsley and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -72,8 +72,7 @@
     "algerian-cuisine",
     "comfort-food",
     "gluten-free",
-    "one-pot",
-    "vegetarian"
+    "one-pot"
   ],
   "nutrition": {
     "calories": 420,
@@ -98,5 +97,10 @@
     "mainIngredient": "russet potato",
     "descriptor": "Vibrant Tender",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

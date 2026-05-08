@@ -3,8 +3,7 @@
   "description": "Savory and snappy Korean dish featuring clams, perfect for a monsoon evening, made with a robata grill and dairy-free friendly ingredients.",
   "cuisine": "Korean",
   "diet": [
-    "dairy-free",
-    "gluten-free"
+    "dairy-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -62,7 +61,6 @@
   "difficulty": "medium",
   "tags": [
     "dairy-free",
-    "gluten-free",
     "grilled",
     "korean-food",
     "robata-grill",
@@ -91,5 +89,9 @@
     "mainIngredient": "clams",
     "descriptor": "Vibrant Smoky",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

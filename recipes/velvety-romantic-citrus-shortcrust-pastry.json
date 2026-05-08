@@ -3,8 +3,7 @@
   "description": "A low-carb-friendly, citrusy and velvety dessert featuring a romantic twist with its Kenyan dish background, this shortcrust pastry is perfect for a breakfast or snack.",
   "cuisine": "Kenyan",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -89,5 +88,9 @@
     "mainIngredient": "Citrus",
     "descriptor": "Velvety Romantic",
     "dishForm": "Shortcrust Pastry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -50,7 +50,8 @@
     "Gradually add milk to the pot with spinach mixture, stirring constantly to avoid lumps.",
     "Season with salt and pepper. Gently stir in pink food coloring until desired color is achieved.",
     "Reduce heat and simmer for an additional 5 minutes. The soup should be thickened but still smooth from the addition of milk.",
-    "Garnish each bowl with freshly grated Parmesan cheese before serving."
+    "Garnish each bowl with freshly grated Parmesan cheese before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -85,5 +86,9 @@
     "mainIngredient": "spinach",
     "descriptor": "Velvety",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

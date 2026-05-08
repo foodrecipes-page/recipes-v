@@ -3,7 +3,6 @@
   "description": "A herbal, juicy, adventurous Polish dish featuring cauliflower, tadka, and macrobiotic-friendly ingredients cooked in a terracotta dish.",
   "cuisine": "Polish",
   "diet": [
-    "vegan",
     "macrobiotic"
   ],
   "meal": "lunch",
@@ -78,8 +77,7 @@
     "herbal",
     "macrobiotic",
     "one-pot",
-    "terracotta",
-    "vegan"
+    "terracotta"
   ],
   "nutrition": {
     "calories": 225,
@@ -104,5 +102,9 @@
     "mainIngredient": "Cauliflower",
     "descriptor": "Vibrant",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "Tangy aerated hangover cure stew featuring perilla seed deulkkae, reminiscent of classic pinakbet but with a bright citrus twist.",
   "cuisine": "Filipino",
   "diet": [
-    "vegan",
     "low-glycemic"
   ],
   "meal": "dinner",
@@ -94,8 +93,7 @@
     "hangover-cure",
     "low-glycemic",
     "pinakbet-inspired",
-    "soup",
-    "vegan"
+    "soup"
   ],
   "nutrition": {
     "calories": 250,
@@ -120,5 +118,9 @@
     "mainIngredient": "Perilla Seed",
     "descriptor": "Vibrant",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

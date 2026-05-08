@@ -3,7 +3,6 @@
   "description": "A salty and cheesy Turkish dish featuring green pepper, served in a stone bowl and spun on a lazy susan, perfect for a show-off dinner",
   "cuisine": "Turkish",
   "diet": [
-    "gluten-free",
     "meat-based"
   ],
   "meal": "dinner",
@@ -96,5 +95,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Vibrant",
     "dishForm": "Doner Kebab"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

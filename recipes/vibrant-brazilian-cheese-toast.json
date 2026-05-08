@@ -3,8 +3,7 @@
   "description": "A tangy and cheesy Brazilian dish featuring Shaoxing wine, perfect for a brunch mood, served in a copper mug. This ayurvedic-sattvic-friendly recipe is a unique twist on traditional cheese toast.",
   "cuisine": "Brazilian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -64,7 +63,6 @@
     "brunch-recipe",
     "cheese-toast",
     "copper-mug",
-    "gluten-free",
     "vegetarian"
   ],
   "nutrition": {
@@ -90,5 +88,9 @@
     "mainIngredient": "cheese",
     "descriptor": "vibrant cheesy",
     "dishForm": "Toast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

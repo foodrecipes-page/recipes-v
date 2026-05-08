@@ -46,7 +46,8 @@
     "Add minced ginger and continue cooking until fragrant, about 1 minute.",
     "Gently fold in the sous-vide cooked chicken pieces to warm them through evenly.",
     "Pour the vanilla broth mixture over the chicken and vegetables. Cook until the sauce thickens slightly around the edges of the wok.",
-    "Serve hot as a light dinner dish."
+    "Serve hot as a light dinner dish.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 25,
@@ -83,5 +84,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Vanilla Creamy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

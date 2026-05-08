@@ -3,7 +3,6 @@
   "description": "A sour and crumbly Slovakian dish featuring clams and ferment kimchi, perfect for a weeknight dinner, dairy-free friendly and cooked on a salt block.",
   "cuisine": "Slovakian",
   "diet": [
-    "dairy-free",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -76,7 +75,6 @@
   "difficulty": "medium",
   "tags": [
     "casserole",
-    "dairy-free",
     "gluten-free",
     "one-pan",
     "seafood",
@@ -105,5 +103,9 @@
     "mainIngredient": "clams",
     "descriptor": "vibrant crumbly",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

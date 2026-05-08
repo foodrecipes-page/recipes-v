@@ -133,11 +133,15 @@
     "mood": "comforting",
     "technique": "cure",
     "primaryIngredient": "tinned tomatos",
-    "diet": "kosher",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Greek",
     "mainIngredient": "tomato",
     "descriptor": "velvety spicy",
     "dishForm": "stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

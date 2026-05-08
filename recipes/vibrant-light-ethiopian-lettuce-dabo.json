@@ -3,9 +3,7 @@
   "description": "A comforting, tangy, and light Ethiopian-inspired dish using iceberg lettuce, perfect for a plant-based-friendly meal. Serve in a Korean-style brass bowl for added flair.",
   "cuisine": "Ethiopian",
   "diet": [
-    "vegetarian",
-    "gluten-free",
-    "dairy-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -113,5 +111,10 @@
     "mainIngredient": "Lettuce",
     "descriptor": "Vibrant Light",
     "dishForm": "Dabo"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

@@ -63,7 +63,8 @@
     "Turn off the heat, fluff the rice with a fork, and let it steam covered for an additional 5 minutes.",
     "Fold in the chopped parsley and lemon zest, mixing gently to combine.",
     "Taste and adjust seasoning with additional salt or pepper if needed.",
-    "Serve the pilaf directly from the Korean brass bowl for an authentic presentation."
+    "Serve the pilaf directly from the Korean brass bowl for an authentic presentation.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "difficulty": "medium",
   "prepTimeMin": 15,
@@ -97,5 +98,9 @@
     "mainIngredient": "rice",
     "descriptor": "Velvety",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A comforting Dutch dish featuring rest-meat, cultured-creme-fraiche, and vegetables in a rich, velvety sauce.",
   "cuisine": "Dutch",
   "diet": [
-    "gluten-free",
     "fodmap-friendly"
   ],
   "meal": "dinner",
@@ -83,7 +82,8 @@
     "Melt the butter and sprinkle it over the top of the casserole.",
     "Dot the top of the casserole with the butter and sprinkle with parsley. ",
     "Bake in the preheated oven for 25 minutes. ",
-    "Serve hot and enjoy!"
+    "Serve hot and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 25,
@@ -95,7 +95,6 @@
     "comfort-food",
     "dutch",
     "fodmap-friendly",
-    "gluten-free",
     "high-protein"
   ],
   "nutrition": {
@@ -121,5 +120,10 @@
     "mainIngredient": "rest-meat",
     "descriptor": "velvety",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

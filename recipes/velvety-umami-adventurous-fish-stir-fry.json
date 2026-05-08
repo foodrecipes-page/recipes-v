@@ -2,10 +2,7 @@
   "title": "Velvety Umami Adventurous Fish Stir-fry",
   "description": "This Tunisian-inspired dish features a garlic-rich sauce that marries perfectly with pescatarian-friendly fish for an adventurous and umami-packed meal.",
   "cuisine": "Tunisian",
-  "diet": [
-    "pescatarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -90,5 +87,10 @@
     "mainIngredient": "Fish",
     "descriptor": "Umami Velvety Adventurous",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian",
+    "removed-diet-gluten-free"
+  ]
 }

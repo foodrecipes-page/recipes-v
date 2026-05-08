@@ -3,7 +3,6 @@
   "description": "A buttery, velvety pilaf featuring toasted freekeh, aromatic spices, and a creamy cashew- almond sauce, perfect for a solo, jain-friendly dinner.",
   "cuisine": "argentinian",
   "diet": [
-    "vegan",
     "jain-friendly"
   ],
   "meal": "dinner",
@@ -81,7 +80,6 @@
     "argentinian",
     "freekeh-pilaf",
     "jain-friendly",
-    "vegan",
     "velvety",
     "buttery"
   ],
@@ -108,5 +106,9 @@
     "mainIngredient": "freekeh",
     "descriptor": "Velvety",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }
