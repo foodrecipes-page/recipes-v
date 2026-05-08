@@ -1,0 +1,98 @@
+{
+  "title": "Vibrant Crisp Jamaican Chicken Skewers",
+  "description": "A tangy and crisp Jamaican dish featuring green salsa, perfect for a low-calorie dinner, cooked to perfection on an iron teppan.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "green salsa",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "jerk seasoning",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lime juice, jerk seasoning, garlic powder, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Brush the iron teppan with a small amount of oil to prevent sticking.",
+    "Cook the chicken skewers for 10-12 minutes, turning occasionally, until they reach an internal temperature of 165 degrees Fahrenheit.",
+    "While the chicken is cooking, heat the green salsa in a small saucepan over low heat.",
+    "Once the chicken is cooked, brush it with the heated green salsa.",
+    "Garnish with chopped scallions and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "dinner-ideas",
+    "gluten-free",
+    "iron-teppan",
+    "jamaican-cuisine",
+    "low-calorie"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "vibrant-crisp-jamaican-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-crisp-jamaican-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:31:04Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crisp",
+    "mood": "show-off",
+    "technique": "rest",
+    "primaryIngredient": "green salsa",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "Vibrant Crisp",
+    "dishForm": "Skewers"
+  }
+}
