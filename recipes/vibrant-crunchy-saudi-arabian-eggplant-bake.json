@@ -1,0 +1,105 @@
+{
+  "title": "Vibrant Crunchy Saudi Arabian Eggplant Bake",
+  "description": "A winey, crunchy, show-off Saudi Arabian dish featuring Sichuan pepper, salt-bake, and lacto-vegetarian friendly ingredients, perfect for a special occasion.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 large",
+      "notes": "cut into 1/2 inch thick slices"
+    },
+    {
+      "name": "Sichuan pepper",
+      "amount": "2 tsp",
+      "notes": "toasted and ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "pita bread",
+      "amount": "1 cup",
+      "notes": "crushed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together the toasted Sichuan pepper, salt, and black pepper.",
+    "Brush the eggplant slices with olive oil and season with the Sichuan pepper mixture.",
+    "Bake the eggplant slices in the preheated oven for 20 minutes, or until they are tender and lightly browned.",
+    "In a large skillet, heat the olive oil over medium heat and saute the minced garlic until fragrant.",
+    "Add the red wine to the skillet and bring to a simmer, cooking until the liquid has reduced by half.",
+    "In a large bowl, combine the baked eggplant slices, crumbled feta cheese, and chopped parsley.",
+    "Pour the garlic and red wine mixture over the eggplant mixture and toss to combine.",
+    "Transfer the eggplant mixture to a baking dish and top with crushed pita bread.",
+    "Bake in the preheated oven for an additional 15 minutes, or until the top is golden brown and crunchy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy-top",
+    "lacto-vegetarian",
+    "middle-eastern",
+    "saudi-arabian",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "vibrant-crunchy-saudi-arabian-eggplant-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-crunchy-saudi-arabian-eggplant-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:04:14Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crunchy",
+    "mood": "show-off",
+    "technique": "salt-bake",
+    "primaryIngredient": "sichuan pepper",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "eggplant",
+    "descriptor": "vibrant crunchy",
+    "dishForm": "Bake"
+  }
+}
