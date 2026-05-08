@@ -3485,6 +3485,21 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-rich-canadian-herring-poutine",
+    "title": "Velvety Rich Canadian Herring Poutine",
+    "tags": [
+      "canadian",
+      "comfort-food",
+      "high-protein",
+      "one-pan",
+      "umami",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 40,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-rich-jamaican-bread-stew",
     "title": "Velvety Rich Jamaican Bread Stew",
     "tags": [
@@ -4921,6 +4936,21 @@
     ],
     "cuisine": "kenyan",
     "totalTimeMin": 25,
+    "shard": "v"
+  },
+  {
+    "slug": "very-dense-slovakian-kiwifruit-galette",
+    "title": "slovakian kiwifruit galette",
+    "tags": [
+      "dessert",
+      "easy-to-make",
+      "kiwifruit",
+      "single-pan",
+      "slovakian",
+      "weeknight"
+    ],
+    "cuisine": "slovakian",
+    "totalTimeMin": 60,
     "shard": "v"
   },
   {

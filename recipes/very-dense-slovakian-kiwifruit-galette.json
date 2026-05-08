@@ -1,0 +1,86 @@
+{
+  "title": "slovakian kiwifruit galette",
+  "description": "a dense and flavorful galette made with kiwifruit, perfect for a dessert or snack.",
+  "cuisine": "slovakian",
+  "diet": [
+    "jain"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "kiwifruit",
+      "amount": "4"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375 degrees fahrenheit and line a baking sheet with parchment paper.",
+    "in a large mixing bowl, whisk together the flour, sugar, and salt.",
+    "add the cold butter to the dry ingredients and use a pastry blender or your fingers to work it into the mixture until it resembles coarse crumbs.",
+    "in a separate bowl, whisk together the eggs and vanilla extract.",
+    "add the egg mixture to the flour mixture and stir until a shaggy dough forms.",
+    "add the kiwifruit to the dough and stir until they are evenly distributed.",
+    "turn the dough out onto a lightly floured surface and knead a few times until it comes together.",
+    "roll the dough out into a circle that is about 1/4 inch thick.",
+    "transfer the dough to the prepared baking sheet and trim the edges to form a neat circle.",
+    "bake the galette for 35 minutes, or until it is golden brown and the kiwifruit is tender.",
+    "remove the galette from the oven and let it cool on the baking sheet for 10 minutes before transferring it to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 35,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "dessert",
+    "easy-to-make",
+    "kiwifruit",
+    "single-pan",
+    "slovakian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 3,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "very-dense-slovakian-kiwifruit-galette",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/very-dense-slovakian-kiwifruit-galette",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T10:07:47Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "blanch",
+    "primaryIngredient": "kiwifruit",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "kiwifruit",
+    "descriptor": "Very Dense",
+    "dishForm": "Galette"
+  }
+}

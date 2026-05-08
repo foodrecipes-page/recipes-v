@@ -1,0 +1,118 @@
+{
+  "title": "Velvety Rich Canadian Herring Poutine",
+  "description": "A rich and umami twist on the classic Canadian poutine dish, featuring herring and topped with a velvety shio-cure sauce. Serve as a comforting dinner or snack.",
+  "cuisine": "Canadian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "herring fillets",
+      "amount": "12 oz",
+      "notes": "Look for herring fillets with skin removed for easier cooking"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "For dusting the herring fillets"
+    },
+    {
+      "name": "shio-cure mixture",
+      "amount": "2 oz",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tbsp",
+      "notes": "For frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "all-purpose potatoes",
+      "amount": "2 large",
+      "notes": "Cut into 1/2-inch fries"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup",
+      "notes": "For frying potatoes"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup",
+      "notes": "For cooking the herring fillets"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "For the velvety shio-cure sauce"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "Grated"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Dust the herring fillets with flour, shaking off any excess.",
+    "Fry the herring fillets in 1 inch of butter until golden brown on both sides, about 4 minutes per side.",
+    "Transfer the herring fillets to a baking sheet and cook in the oven for an additional 5 minutes.",
+    "Meanwhile, fry the onion and garlic in butter until softened, about 3-4 minutes.",
+    "Add the sliced potatoes to the onion mixture and fry for an additional 5 minutes, or until they start to brown.",
+    "Increase the oil temperature to 375°F (190°C) and continue frying the potatoes in batches until golden brown, about 3-4 minutes per batch.",
+    "Drain the potatoes on paper towels and season with salt to taste.",
+    "To make the velvety shio-cure sauce, combine the heavy cream and shio-cure mixture in a saucepan and bring to a simmer over medium heat.",
+    "Reduce the sauce to 1/2 cup and stir in the grated parmesan cheese until melted.",
+    "Serve the herring fillets over the fried potatoes and top with the velvety shio-cure sauce.",
+    "Garnish with chopped fresh parsley or chives, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "canadian",
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "umami",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 44,
+    "carbs": 64,
+    "fat": 48
+  },
+  "slug": "velvety-rich-canadian-herring-poutine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-rich-canadian-herring-poutine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T10:07:41Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "shio-cure",
+    "primaryIngredient": "herring",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Herring",
+    "descriptor": "Velvety Rich",
+    "dishForm": "Poutine"
+  }
+}
