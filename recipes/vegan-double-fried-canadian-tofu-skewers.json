@@ -1,0 +1,98 @@
+{
+  "title": "Vegan Double Fried Canadian Tofu Skewers",
+  "description": "A quick-fix Canadian dish featuring freshly chopped parsley and double-fried tofu, served on a cedar plank. This plant-based friendly recipe is perfect for a weeknight dinner.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegan",
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into 1 inch cubes"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a shallow dish, mix together the flour, cornstarch, paprika, garlic powder, salt, and black pepper.",
+    "Toss the tofu cubes in the flour mixture to coat.",
+    "Heat 1/4 cup of vegetable oil in a large skillet over medium-high heat.",
+    "Double fry the tofu cubes by frying them for 2-3 minutes on each side, then increasing the heat to high and frying for an additional 1-2 minutes on each side.",
+    "Thread the fried tofu cubes onto skewers.",
+    "Place the skewers on a cedar plank and bake in the preheated oven for 10 minutes.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "cedar-plank",
+    "double-fried",
+    "plant-based",
+    "tofu",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "vegan-double-fried-canadian-tofu-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vegan-double-fried-canadian-tofu-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:46:48Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "glassy-jelly",
+    "mood": "quick-fix",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "freshly chopped parsley",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "tofu",
+    "descriptor": "Vegan Double Fried",
+    "dishForm": "Skewers"
+  }
+}
