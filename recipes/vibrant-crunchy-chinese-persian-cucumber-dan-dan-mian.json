@@ -1,0 +1,98 @@
+{
+  "title": "Vibrant Crunchy Chinese Persian Cucumber Dan Dan Mian",
+  "description": "A grassy and crunchy Chinese dish featuring Persian cucumber, beurre-monte, and Buddhist-temple-friendly ingredients, served in a dan-dan-mian form",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Persian cucumber",
+      "amount": "2 medium",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "1 cup",
+      "notes": "cooked and drained"
+    },
+    {
+      "name": "Beurre-monte",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "toasted"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": "seasoned"
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 teaspoon",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1 teaspoon",
+      "notes": "black and white mixed"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to the package instructions and set aside",
+    "In a large skillet, heat the sesame oil over medium heat",
+    "Add the grated ginger and cook for 1 minute, stirring constantly",
+    "Add the soy sauce, rice vinegar, and melted beurre-monte, and stir to combine",
+    "Add the thinly sliced Persian cucumber and cook for 2 minutes, stirring occasionally",
+    "Combine the cooked noodles, cucumber mixture, and toasted sesame seeds in a large bowl",
+    "Toss to combine and season with additional soy sauce and rice vinegar if needed",
+    "Serve immediately and garnish with additional toasted sesame seeds and sliced Persian cucumber if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy-texture",
+    "high-fiber",
+    "one-pot",
+    "vegan-friendly",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 12
+  },
+  "slug": "vibrant-crunchy-chinese-persian-cucumber-dan-dan-mian",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-crunchy-chinese-persian-cucumber-dan-dan-mian",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:58:34Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crunchy",
+    "mood": "energizing",
+    "technique": "beurre-monte",
+    "primaryIngredient": "persian cucumber",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "persian cucumber",
+    "descriptor": "Vibrant crunchy",
+    "dishForm": "Dan Dan Mian"
+  }
+}
