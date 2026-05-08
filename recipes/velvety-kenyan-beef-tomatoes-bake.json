@@ -1,0 +1,136 @@
+{
+  "title": "Velvety Kenyan Beef Tomatoes Bake",
+  "description": "A rich and flavorful brunch dish featuring beef, tomatoes, and a velvety confit-tomato sauce. This recipe is a twist on the classic Kenyan beef stew.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "low-calorie"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium heat.",
+    "Add the onion and cook until softened, about 3 minutes.",
+    "Add the garlic and cook for another minute, until fragrant.",
+    "Add the beef and cook until browned, about 5 minutes.",
+    "Add the tomato paste and cook for 1 minute, stirring constantly.",
+    "Add the beef broth and bring to a boil. Reduce heat to low and simmer for 10 minutes.",
+    "Add the tomato puree and stir to combine.",
+    "Stir in the Greek yogurt, salt, black pepper, red pepper flakes, and nutmeg. ",
+    "Transfer the mixture to a baking dish and top with additional cilantro, if desired.",
+    "Bake in a preheated oven at 375°F (190°C) for 20-25 minutes, or until the flavors have melded together and the top is golden brown, about 20-25 minutes.",
+    "Let the dish rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "tomato-based",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 28
+  },
+  "slug": "velvety-kenyan-beef-tomatoes-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-kenyan-beef-tomatoes-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:27:46Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "velvety",
+    "mood": "brunch-mood",
+    "technique": "confit-tomato",
+    "primaryIngredient": "beef tomatoes",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "kenyan",
+    "mainIngredient": "beef tomatoes",
+    "descriptor": "velvety",
+    "dishForm": "bake"
+  }
+}
