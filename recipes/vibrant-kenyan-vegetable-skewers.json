@@ -1,0 +1,105 @@
+{
+  "title": "Vibrant Kenyan Vegetable Skewers",
+  "description": "A fresh and crunchy Kenyan dish featuring tahini paste, served en-croute, this egg-free friendly recipe is perfect for a light meal, cooked to perfection in a wok.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 medium",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "tahini paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 slices",
+      "notes": "for serving en-croute"
+    }
+  ],
+  "instructions": [
+    "Preheat the wok over medium heat",
+    "Thread the zucchini, bell peppers, onions, and mushrooms onto skewers",
+    "Brush the skewers with olive oil and season with salt and black pepper",
+    "Cook the skewers in the wok for 10 minutes, turning occasionally",
+    "Meanwhile, mix the tahini paste and lemon juice in a small bowl",
+    "Brush the tahini mixture onto the skewers during the last 2 minutes of cooking",
+    "Warm the pita bread by wrapping it in a damp paper towel and microwaving for 20 seconds",
+    "Serve the skewers en-croute in the pita bread"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "african",
+    "healthy",
+    "one-pan",
+    "quick",
+    "street-food",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "vibrant-kenyan-vegetable-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-kenyan-vegetable-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:31:33Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "en-croute",
+    "primaryIngredient": "tahini paste",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "vegetables",
+    "descriptor": "Vibrant crunchy",
+    "dishForm": "Skewers"
+  }
+}
