@@ -1,0 +1,96 @@
+{
+  "title": "Glassy Hakka Salt and Pepper Squid",
+  "description": "Fermented and crispy squid dish with a glassy jelly texture, inspired by traditional Hakka Chinese cuisine. This recipe is vegan-friendly and perfect for Buddhist temple gatherings.",
+  "cuisine": "Hakka Chinese",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Squid rings",
+      "amount": "400"
+    },
+    {
+      "name": "Potato starch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fermented soybean paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    }
+  ],
+  "instructions": [
+    "Rinse the squid rings under cold water and pat them dry with paper towels.",
+    "In a bowl, mix together the potato starch, cornstarch, and a pinch of salt.",
+    "Add the squid rings to the bowl and coat them evenly with the starch mixture.",
+    "Heat the vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the fermented soybean paste and garlic to the wok and stir-fry until fragrant.",
+    "Add the squid rings to the wok and stir-fry until they are crispy and golden brown.",
+    "Remove the squid from the wok and set them aside on a plate.",
+    "In the same wok, add the black pepper and salt, and stir-fry for 1 minute.",
+    "Add the squid back to the wok and toss them with the black pepper and salt mixture.",
+    "Serve the Glassy Hakka Salt and Pepper Squid hot, garnished with chopped scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-friendly",
+    "chinese-cuisine",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "quick-weeknight",
+    "seafood",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "velvety-glassy-chinese-squid-salt-and-pepper-squid",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-glassy-chinese-squid-salt-and-pepper-squid",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:52:21Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "glassy-jelly",
+    "mood": "nostalgic",
+    "technique": "lamination-puff",
+    "primaryIngredient": "whole black peppercorns",
+    "diet": "buddhist-temple",
+    "region": "hakka",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "squid",
+    "descriptor": "Velvety Glassy",
+    "dishForm": "Salt-and-Pepper-Squid"
+  }
+}
