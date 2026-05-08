@@ -1,0 +1,127 @@
+{
+  "title": "Velvety Zesty Korean Tempeh Gimbap",
+  "description": "A savory, velvety, crowd-pleaser Korean dish featuring tempeh, wrapped in a macrobiotic-friendly gimbap with a flavorful kadhai vessel.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tempeh",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Kimchi",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Wrap a large sheet of baking parchment around a bamboo sushi mat to prevent sticking.",
+    "Spread a thin layer of sesame oil on the parchment.",
+    "Place 1/2 cup of cooked brown rice at the bottom of the parchment, leaving a 1-inch border around the edges.",
+    "Place 1/4 cup of chopped kimchi next to the rice.",
+    "Place 1/2 cup of sliced zucchini, cucumber, and carrot on top of the kimchi.",
+    "Place 2 slices of tempeh on top of the vegetables.",
+    "Brush the tempeh with sesame oil and sprinkle with Korean chili flakes.",
+    "Place 1/4 cup of green onions on top of the tempeh.",
+    "Roll the gimbap by lifting the edge of the parchment and applying gentle pressure.",
+    "Cut the gimbap into 8 equal pieces using a sharp knife."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "gimbap",
+    "high-protein",
+    "korean",
+    "macrobiotic",
+    "one-pan",
+    "tempeh",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "velvety-zesty-korean-tempeh-gimbap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-zesty-korean-tempeh-gimbap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:37:03Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "velvety",
+    "mood": "crowd-pleaser",
+    "technique": "knead",
+    "primaryIngredient": "tempeh",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "tempeh",
+    "descriptor": "Velvety Zesty",
+    "dishForm": "Gimbap"
+  }
+}
