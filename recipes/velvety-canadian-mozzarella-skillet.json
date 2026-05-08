@@ -1,0 +1,107 @@
+{
+  "title": "Velvety Canadian Mozzarella Skillet",
+  "description": "A winey and velvety one-pot Canadian dish featuring mozzarella, with a char-grill flavor, made in a cast-iron skillet and gluten-free friendly.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mozzarella cheese",
+      "amount": "8 oz",
+      "notes": "shredded"
+    },
+    {
+      "name": "Italian sausage",
+      "amount": "1 lb",
+      "notes": "sliced"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Heat the olive oil in a large cast-iron skillet over medium-high heat.",
+    "Add the sliced Italian sausage and cook until browned, about 5 minutes.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chopped bell pepper and cook until tender, about 4 minutes.",
+    "Add the red wine and bring to a simmer, scraping up any browned bits from the bottom of the skillet.",
+    "Reduce the heat to low and let simmer for 2 minutes.",
+    "Stir in the shredded mozzarella cheese until melted and smooth.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the skillet to the preheated oven and bake for 10 minutes, or until the cheese is golden brown and bubbly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "cast-iron-skillet",
+    "gluten-free",
+    "mozzarella-recipe",
+    "one-pan",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "velvety-canadian-mozzarella-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-canadian-mozzarella-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:44:34Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "velvety",
+    "mood": "one-pot",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "mozzarella",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "mozzarella",
+    "descriptor": "velvety winey",
+    "dishForm": "Skillet"
+  }
+}

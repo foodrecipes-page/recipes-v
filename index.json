@@ -1238,6 +1238,21 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-canadian-mozzarella-skillet",
+    "title": "Velvety Canadian Mozzarella Skillet",
+    "tags": [
+      "canadian-cuisine",
+      "cast-iron-skillet",
+      "gluten-free",
+      "mozzarella-recipe",
+      "one-pan",
+      "wine-based"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 40,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-canadian-pear-pudding",
     "title": "Velvety Canadian Pear Pudding",
     "tags": [],
