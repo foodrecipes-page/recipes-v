@@ -1,0 +1,93 @@
+{
+  "title": "Vibrant Charred Kenyan Chestnut Mushroom Skewers",
+  "description": "A low-glycemic Kenyan dish featuring charred chestnut mushrooms, this recipe is perfect for a solo dinner, with a focus on salt-bake and crisp texture. The combination of flavors and textures creates a truly vibrant dish.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chestnut mushrooms",
+      "amount": "12 large",
+      "notes": "stem removed and caps sliced 1/2 inch thick"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together coconut oil, salt, black pepper, garlic powder, and paprika.",
+    "Add the sliced mushrooms to the bowl and toss to coat with the marinade.",
+    "Thread the marinated mushrooms onto skewers, leaving a small space between each mushroom.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the mushrooms are charred and crispy.",
+    "Brush the mushrooms with lemon juice during the last 2 minutes of grilling.",
+    "Remove the skewers from the grill and sprinkle with chopped parsley.",
+    "Serve the skewers hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled-vegetables",
+    "healthy-dinner",
+    "kenyan-cuisine",
+    "low-glycemic",
+    "mushroom-recipes",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "vibrant-charred-kenyan-chestnut-mushroom-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-charred-kenyan-chestnut-mushroom-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:55:47Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crisp",
+    "mood": "solo-dinner",
+    "technique": "salt-bake",
+    "primaryIngredient": "chestnut mushroom",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "chestnut mushroom",
+    "descriptor": "vibrant charred",
+    "dishForm": "Skewers"
+  }
+}
