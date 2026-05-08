@@ -1,0 +1,124 @@
+{
+  "title": "Vibrant Savory Brazilian Red-Curry-Paste Tagine",
+  "description": "A savory, crispy, festive Brazilian dish featuring red-curry-paste, perfect for the holiday season. Serve over rice or with naan bread for a satisfying meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    null,
+    "omnivore",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "Use store-bought or homemade"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 piece (about 2 inches)",
+      "notes": ""
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "In a large ceramic tagine, heat the coconut oil over medium heat.",
+    "Add the onion, garlic, and ginger, and cook until the onion is translucent, about 5 minutes.",
+    "Add the red curry paste and cook for 1 minute, stirring constantly.",
+    "Add the red bell pepper, carrots, and potatoes, and cook for 5 minutes, stirring occasionally.",
+    "Season with salt and black pepper to taste.",
+    "Pour in the coconut milk and bring the mixture to a simmer.",
+    "Transfer the tagine to the preheated oven and bake for 30 minutes, or until the vegetables are tender and the sauce is thick and bubbly.",
+    "Garnish with chopped cilantro and serve over rice or with naan bread.",
+    "Let the dish rest for 10 minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "christmas",
+    "coconut",
+    "high-protein",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "vibrant-savory-brazilian-red-curry-paste-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-savory-brazilian-red-curry-paste-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:28:56Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crispy",
+    "mood": "festive",
+    "technique": "bake",
+    "primaryIngredient": "red-curry-paste",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "red-curry-paste",
+    "descriptor": "vibrant savory",
+    "dishForm": "Tagine"
+  }
+}
