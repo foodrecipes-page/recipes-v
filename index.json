@@ -6223,6 +6223,21 @@
     "shard": "v"
   },
   {
+    "slug": "vibrant-tunisian-chicken-stir-fry",
+    "title": "Vibrant Tunisian Chicken Stir fry",
+    "tags": [
+      "chicken-recipe",
+      "gluten-free",
+      "lotus-leaf-wrap",
+      "low-calorie",
+      "stir-fry",
+      "tunisian-cuisine"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 25,
+    "shard": "v"
+  },
+  {
     "slug": "vibrant-tunisian-dish-bake",
     "title": "Vibrant Tunisian Dish Bake",
     "tags": [
