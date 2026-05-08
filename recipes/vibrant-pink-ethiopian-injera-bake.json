@@ -1,0 +1,89 @@
+{
+  "title": "Vibrant Pink Ethiopian Injera Bake",
+  "description": "A unique and flavorful Ethiopian dish featuring a fermented injera base, colored with pink food coloring and baked to perfection in a wood-fired oven, this nut-free friendly dish is perfect for a light lunch or dinner.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "nut-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "teff flour",
+      "amount": "2 cups",
+      "notes": "preferably brown teff flour"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "pink food coloring",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "wood-fired-baked vegetables",
+      "amount": "1 cup",
+      "notes": "such as zucchini, bell peppers, and onions"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the teff flour, water, pink food coloring, yeast, salt, and sugar, and stir until a smooth batter forms.",
+    "Cover the bowl with a cloth and let the mixture ferment in a warm place for 24 hours.",
+    "Preheat the wood-fired oven to 400 degrees Fahrenheit.",
+    "Pour the fermented injera batter into a 9x13 inch baking dish.",
+    "Add the wood-fired-baked vegetables on top of the injera batter.",
+    "Bake the injera for 25 minutes, or until it is set and slightly puffed.",
+    "Remove the injera from the oven and let it cool for a few minutes before slicing and serving.",
+    "Serve the vibrant pink Ethiopian injera bake warm, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian-cuisine",
+    "fermented-foods",
+    "injera-recipes",
+    "pink-food",
+    "vegetarian",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "vibrant-pink-ethiopian-injera-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-pink-ethiopian-injera-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:42:50Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "glassy-jelly",
+    "mood": "light",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "pink food colouring",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "injera",
+    "descriptor": "Vibrant Pink",
+    "dishForm": "Bake"
+  }
+}
