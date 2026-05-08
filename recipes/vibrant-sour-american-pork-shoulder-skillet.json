@@ -1,0 +1,90 @@
+{
+  "title": "Vibrant Sour American Pork Shoulder Skillet",
+  "description": "A sour and tender American dish featuring pork shoulder steaks, perfect for a weeknight dinner, with a lacto-vegetarian friendly twist.",
+  "cuisine": "American",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder steaks",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch thick slices"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together sour cream, apple cider vinegar, honey, Dijon mustard, salt, and black pepper.",
+    "Add the pork shoulder slices to the bowl and coat with the marinade.",
+    "Heat a large oven-safe skillet over medium-high heat and sear the pork slices for 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and bake for 20 minutes.",
+    "Remove the skillet from the oven and top the pork with chopped fresh parsley.",
+    "Return the skillet to the oven and bake for an additional 5 minutes.",
+    "Remove the skillet from the oven and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-cuisine",
+    "high-protein",
+    "lacto-vegetarian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "vibrant-sour-american-pork-shoulder-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-sour-american-pork-shoulder-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:30:08Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "ferment",
+    "primaryIngredient": "pork shoulder steaks",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "pork shoulder",
+    "descriptor": "Vibrant Sour",
+    "dishForm": "Skillet"
+  }
+}
