@@ -1,0 +1,109 @@
+{
+  "title": "Vibrant Slovakian Clam Casserole",
+  "description": "A sour and crumbly Slovakian dish featuring clams and ferment kimchi, perfect for a weeknight dinner, dairy-free friendly and cooked on a salt block.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "clams",
+      "amount": "1 pound",
+      "notes": "freshly shucked"
+    },
+    {
+      "name": "ferment kimchi",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "salt block",
+      "amount": "1 piece",
+      "notes": "heated to 400 degrees"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing the salt block"
+    },
+    {
+      "name": "gluten-free breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "for topping"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "dairy-free milk",
+      "amount": "1 cup",
+      "notes": "for moisture"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "for color and flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the salt block to 400 degrees for 30 minutes before cooking.",
+    "Brush the heated salt block with olive oil to prevent sticking.",
+    "In a large bowl, mix together the clams, ferment kimchi, lemon juice, garlic powder, onion powder, and paprika.",
+    "Pour the dairy-free milk into the bowl and stir until the mixture is well combined.",
+    "Pour the clam mixture onto the preheated salt block and top with gluten-free breadcrumbs.",
+    "Cook the casserole for 20 minutes or until the top is golden brown and the clams are cooked through.",
+    "Remove the casserole from the salt block and let it cool for 5 minutes before serving.",
+    "Serve the Vibrant Slovakian Clam Casserole hot, garnished with additional ferment kimchi if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "dairy-free",
+    "gluten-free",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "vibrant-slovakian-clam-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-slovakian-clam-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:50:13Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crumbly",
+    "mood": "meal-prep",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "clams",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "clams",
+    "descriptor": "vibrant crumbly",
+    "dishForm": "Casserole"
+  }
+}
