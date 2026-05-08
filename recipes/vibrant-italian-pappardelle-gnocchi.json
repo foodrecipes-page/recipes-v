@@ -1,0 +1,102 @@
+{
+  "title": "Vibrant Italian Pappardelle Gnocchi",
+  "description": "A halal-friendly Italian dish featuring pappardelle pasta formed into gnocchi, fried to a shattering crisp and served with a floral monsoon sauce.",
+  "cuisine": "Italian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pappardelle pasta",
+      "amount": "12 oz",
+      "notes": "formed into gnocchi shapes"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "egg",
+      "amount": "2 large"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "monsoon sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pappardelle gnocchi for 3-5 minutes or until they float to the surface.",
+    "In a large skillet, heat the olive oil over medium heat and fry the cooked gnocchi until they are golden brown and shattering crisp.",
+    "In a separate saucepan, melt the butter over low heat and add the monsoon sauce, stirring until heated through.",
+    "Add the grated parmesan cheese to the saucepan and stir until melted and smooth.",
+    "Add the chopped fresh parsley to the saucepan and stir to combine.",
+    "Season the sauce with salt and black pepper to taste.",
+    "To serve, place the fried pappardelle gnocchi on a plate and spoon the monsoon sauce over the top.",
+    "Garnish with additional parmesan cheese and parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fried-pasta",
+    "gnocchi-recipes",
+    "halal-recipes",
+    "italian-food",
+    "monsoon-sauce",
+    "pasta-dishes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "vibrant-italian-pappardelle-gnocchi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-italian-pappardelle-gnocchi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:23:49Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "shattering",
+    "mood": "monsoon",
+    "technique": "fry",
+    "primaryIngredient": "pappardelle pasta",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "pappardelle",
+    "descriptor": "Vibrant Shattering",
+    "dishForm": "Gnocchi"
+  }
+}
