@@ -1,0 +1,97 @@
+{
+  "title": "Vibrant Spicy Mediterranean Lamb Kebabs",
+  "description": "Spicy lamb kebabs featuring red wine jelly and agemono-deep-fry, perfect for a keto-friendly dinner",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "red wine jelly",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, paprika, cayenne pepper, salt, and black pepper",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade",
+    "Thread the lamb cubes onto skewers, leaving a small space between each cube",
+    "Heat about 2-3 inches of olive oil in a deep frying pan to 350 degrees Fahrenheit",
+    "Deep-fry the lamb kebabs for 2-3 minutes on each side, or until browned",
+    "Transfer the kebabs to a baking sheet and bake for 10-12 minutes, or until cooked through",
+    "While the kebabs are baking, melt the red wine jelly in a small saucepan over low heat",
+    "Brush the melted red wine jelly onto the kebabs during the last 2 minutes of baking"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto-friendly",
+    "lamb-recipes",
+    "low-carb",
+    "mediterranean-inspired",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "vibrant-spicy-mediterranean-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-spicy-mediterranean-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:25:12Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "shattering",
+    "mood": "adventurous",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "red wine jelly",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "Vibrant Spicy",
+    "dishForm": "Kebabs"
+  }
+}
