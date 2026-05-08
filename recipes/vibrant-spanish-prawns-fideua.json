@@ -1,0 +1,92 @@
+{
+  "title": "Vibrant Spanish Prawns Fideua",
+  "description": "A sour, springy, and cozy Spanish dish featuring raw frozen prawns, this fideua is a low-sodium-friendly meal option. It is made with a combination of prawns, noodles, and vegetables.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "frozen prawns",
+      "amount": "1 pound",
+      "notes": "thawed"
+    },
+    {
+      "name": "fideua noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the fideua noodles and cook for 2 minutes, stirring constantly.",
+    "Add the thawed prawns and cook until they are pink and fully cooked.",
+    "Stir in the lemon juice, smoked paprika, and salt.",
+    "Reduce heat to low and simmer for 5 minutes.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-sodium",
+    "one-pan",
+    "seafood",
+    "spanish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "vibrant-spanish-prawns-fideua",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-spanish-prawns-fideua",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:09:32Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "springy",
+    "mood": "cozy",
+    "technique": "fold",
+    "primaryIngredient": "raw frozen prawns",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "prawns",
+    "descriptor": "Vibrant Springy",
+    "dishForm": "Fideua"
+  }
+}
