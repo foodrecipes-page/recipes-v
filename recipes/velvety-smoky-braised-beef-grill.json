@@ -1,0 +1,119 @@
+{
+  "title": "Velvety Smoky Braised Beef Grill",
+  "description": "A hearty Dutch dish featuring tender beef, smoky flavors, and a velvety texture.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "grass-fed beef brisket",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "binchotan-grill chunks",
+      "amount": "6-8 chunks",
+      "notes": "for added smokiness"
+    },
+    {
+      "name": "dark brown soft sugar",
+      "amount": "2 tablespoons",
+      "notes": "for caramelization"
+    },
+    {
+      "name": "nuka-pickle juice",
+      "amount": "1/4 cup",
+      "notes": "for tangy flavor"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": "for balance"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tablespoon",
+      "notes": "for spice"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "for smokiness"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan-grill to medium-high heat.",
+    "Season the beef with black pepper and smoked paprika.",
+    "Sear the beef in the binchotan-grill for 2-3 minutes per side, or until browned.",
+    "Transfer the beef to a Dutch oven or heavy pot.",
+    "Add the onion, garlic, and carrots to the pot and cook until the vegetables are softened.",
+    "Add the beef broth, nuka-pickle juice, dark brown soft sugar, Dijon mustard, and apple cider vinegar to the pot.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the binchotan-grill for 2 1/2 hours.",
+    "Remove the pot from the grill and let it rest for 10 minutes.",
+    "Slice the beef against the grain and serve with the braising liquid.",
+    "Serve with additional carrots and onions, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "braised",
+    "dutch",
+    "high-protein",
+    "one-pan",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 36
+  },
+  "slug": "velvety-smoky-braised-beef-grill",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-smoky-braised-beef-grill",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:54:02Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "snappy",
+    "mood": "cozy",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "dark brown soft sugar",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "beef",
+    "descriptor": "Velvety Smoky Braised",
+    "dishForm": "Grill"
+  }
+}
