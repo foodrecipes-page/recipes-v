@@ -1,0 +1,105 @@
+{
+  "title": "Velvety Smooth Argentinian Haricot Bean Stew",
+  "description": "A cultured and silky Argentinian dish featuring haricot beans, perfect for a relaxing brunch, with anti-inflammatory friendly ingredients and an ice bath shock to preserve nutrients.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "haricot beans",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the haricot beans and soak them in water for at least 8 hours or overnight.",
+    "Drain and rinse the beans, then place them in a large pot with enough water to cover them and bring to a boil.",
+    "Reduce the heat to a simmer and let cook for 45 minutes, or until the beans are tender.",
+    "While the beans are cooking, heat the olive oil in a large skillet over medium heat and saute the onion, garlic, and red bell pepper until the vegetables are tender.",
+    "Add the tomato paste, cumin, paprika, salt, and black pepper to the skillet and stir to combine.",
+    "Once the beans are cooked, drain them and add them to the skillet with the vegetable mixture.",
+    "Stir to combine and let cook for an additional 10 minutes.",
+    "Remove the pot from the heat and let it cool slightly, then transfer it to an ice bath to stop the cooking process.",
+    "Let the stew cool to room temperature, then refrigerate or freeze it for later use.",
+    "To serve, reheat the stew over low heat and serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "brunch-idea",
+    "healthy-eating",
+    "high-fiber",
+    "one-pot",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "velvety-smooth-argentinian-haricot-bean-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-smooth-argentinian-haricot-bean-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:03:45Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "silky",
+    "mood": "brunch-mood",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "haricot beans",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "haricot beans",
+    "descriptor": "Velvety Smooth",
+    "dishForm": "Stew"
+  }
+}
