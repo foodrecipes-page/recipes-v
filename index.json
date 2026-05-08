@@ -3250,6 +3250,22 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-moroccan-chestnut-tagine",
+    "title": "Velvety Moroccan Chestnut Tagine",
+    "tags": [
+      "chestnut",
+      "egg-free",
+      "morrocan",
+      "tagine",
+      "vegetarian",
+      "velvety",
+      "weeknight"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 40,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-moroccan-lamb-tagine",
     "title": "Velvety Moroccan Lamb Tagine",
     "tags": [],
