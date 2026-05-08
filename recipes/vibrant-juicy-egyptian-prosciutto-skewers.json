@@ -1,0 +1,97 @@
+{
+  "title": "Vibrant Juicy Egyptian Prosciutto Skewers",
+  "description": "A sour and juicy Egyptian dish featuring prosciutto, infused oil, and sugar-free friendly ingredients, served on a wooden board.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "sugar-free",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "prosciutto",
+      "amount": "12 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "infused oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pomegranate seeds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "12"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together lemon juice, infused oil, garlic, and sumac.",
+    "Add the prosciutto slices to the bowl and marinate for 10 minutes.",
+    "Thread a piece of prosciutto, a few pomegranate seeds, and a sprinkle of parsley onto each wooden skewer.",
+    "Season with salt to taste.",
+    "Grill the skewers for 2-3 minutes per side, or until the prosciutto is crispy.",
+    "Serve immediately on a wooden board.",
+    "Garnish with additional parsley and pomegranate seeds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 6,
+  "totalTimeMin": 21,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "grilled-meats",
+    "high-protein",
+    "low-carb",
+    "middle-eastern",
+    "quick-snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 6,
+    "fat": 8
+  },
+  "slug": "vibrant-juicy-egyptian-prosciutto-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-juicy-egyptian-prosciutto-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:38:10Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "juicy",
+    "mood": "light",
+    "technique": "infuse-oil",
+    "primaryIngredient": "prosciutto",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "prosciutto",
+    "descriptor": "Vibrant Juicy",
+    "dishForm": "Skewers"
+  }
+}

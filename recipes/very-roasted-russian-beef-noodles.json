@@ -1,0 +1,95 @@
+{
+  "title": "Very Roasted Russian Beef Noodles",
+  "description": "A hearty and comforting Russian dish featuring roasted beef, rice stick noodles, and fresh vegetables, perfect for a sick day. This recipe is raw-friendly and can be easily customized to suit your taste.",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "2 pounds",
+      "notes": "fat trimmed"
+    },
+    {
+      "name": "rice stick noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the beef brisket with salt and pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the beef brisket until browned on all sides.",
+    "Add the carrots, celery, and onion to the pot and cook until the vegetables are tender.",
+    "Add the garlic and cook for an additional minute.",
+    "Add the beef broth to the pot and bring to a boil.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Roast the beef for 3 hours or until tender.",
+    "Cook the rice stick noodles according to the package instructions.",
+    "Slice the roasted beef and serve with the noodles and vegetables."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-meal",
+    "one-pot",
+    "raw-friendly",
+    "russian-cuisine",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "very-roasted-russian-beef-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/very-roasted-russian-beef-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:38:19Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "bouncy-qq",
+    "mood": "sick-day",
+    "technique": "roast",
+    "primaryIngredient": "rice stick noodles",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "Very Roasted",
+    "dishForm": "Noodles"
+  }
+}

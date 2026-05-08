@@ -1,0 +1,100 @@
+{
+  "title": "Vibrant Turkish Lamb Doner Kebab",
+  "description": "A salty and cheesy Turkish dish featuring green pepper, served in a stone bowl and spun on a lazy susan, perfect for a show-off dinner",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "green pepper",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4",
+      "notes": "warm"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a vertical broiler to 400 degrees Fahrenheit",
+    "Thread the lamb slices onto skewers",
+    "Broil the lamb for 5 minutes per side",
+    "Meanwhile, heat the olive oil in a pan and saute the sliced onion until softened",
+    "Add the sliced green pepper to the pan and cook for an additional 2 minutes",
+    "Warm the pita bread by wrapping it in foil and heating it in the oven for 5 minutes",
+    "Assemble the doner kebab by slicing the cooked lamb and serving it in the pita bread with onion, green pepper, and feta cheese",
+    "Drizzle the tomato paste over the top of the kebab and serve immediately"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "lamb-based",
+    "lazy-susan",
+    "show-off",
+    "stone-bowl",
+    "turkish-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "vibrant-turkish-lamb-doner-kebab",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-turkish-lamb-doner-kebab",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:38:08Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "cheese-pull",
+    "mood": "show-off",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "green pepper",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Vibrant",
+    "dishForm": "Doner Kebab"
+  }
+}

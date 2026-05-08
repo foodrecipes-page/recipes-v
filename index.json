@@ -5175,6 +5175,21 @@
     "shard": "v"
   },
   {
+    "slug": "very-roasted-russian-beef-noodles",
+    "title": "Very Roasted Russian Beef Noodles",
+    "tags": [
+      "comfort-food",
+      "hearty-meal",
+      "one-pot",
+      "raw-friendly",
+      "russian-cuisine",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 210,
+    "shard": "v"
+  },
+  {
     "slug": "very-spicy-canadian-beef-paella",
     "title": "Very Spicy Canadian Beef Paella",
     "tags": [
@@ -5901,6 +5916,20 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 25,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-juicy-egyptian-prosciutto-skewers",
+    "title": "Vibrant Juicy Egyptian Prosciutto Skewers",
+    "tags": [
+      "grilled-meats",
+      "high-protein",
+      "low-carb",
+      "middle-eastern",
+      "quick-snack"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 21,
     "shard": "v"
   },
   {
@@ -6674,6 +6703,21 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 50,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-turkish-lamb-doner-kebab",
+    "title": "Vibrant Turkish Lamb Doner Kebab",
+    "tags": [
+      "cheesy",
+      "lamb-based",
+      "lazy-susan",
+      "show-off",
+      "stone-bowl",
+      "turkish-food"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
