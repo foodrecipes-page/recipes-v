@@ -1,0 +1,102 @@
+{
+  "title": "Vibrant Citrusy Greek Sausages Saganaki",
+  "description": "A citrusy and gooey one-pot Greek dish featuring kabanos sausages, this saganaki is perfect for a weeknight dinner, and it is Whole30 friendly.",
+  "cuisine": "Greek",
+  "diet": [
+    "Whole30",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kabanos sausages",
+      "amount": "4",
+      "notes": "sliced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "orange zest",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced kabanos sausages and cook until browned on all sides, about 5 minutes.",
+    "Remove the sausages from the skillet and set aside.",
+    "Add the chopped onion to the skillet and cook until it is translucent, about 3 minutes.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "Add the lemon juice, orange zest, salt, and black pepper to the skillet and stir to combine.",
+    "Return the cooked sausages to the skillet and stir to coat with the citrus mixture.",
+    "Reduce the heat to medium-low and simmer the saganaki for 5 minutes.",
+    "Stir in the chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "greek-cuisine",
+    "high-protein",
+    "one-pot",
+    "weeknight",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "vibrant-citrusy-greek-sausages-saganaki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-citrusy-greek-sausages-saganaki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:55:56Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "gooey",
+    "mood": "one-pot",
+    "technique": "stir-fry",
+    "primaryIngredient": "kabanos sausages",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "sausages",
+    "descriptor": "Vibrant Citrusy",
+    "dishForm": "Saganaki"
+  }
+}
