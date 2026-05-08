@@ -1,0 +1,94 @@
+{
+  "title": "Vibrant Roasted Canadian Turmeric Bread Flatbread",
+  "description": "A keto-friendly Canadian dish featuring turmeric and double-rise bread, this flatbread is roasted to perfection and has a crumbly texture, making it an adventurous and delicious snack.",
+  "cuisine": "Canadian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "2 cups",
+      "notes": "finely milled"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "coconut flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "baking soda",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "3 large"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the almond flour, turmeric powder, coconut flour, baking soda, and salt.",
+    "In a separate bowl, whisk together the eggs, melted butter, and apple cider vinegar.",
+    "Add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Punch down the dough and divide it into 4 equal pieces.",
+    "Roll out each piece into a thin circle and place it on a baking sheet lined with parchment paper.",
+    "Roast the flatbreads in the preheated oven for 15 minutes, or until they are golden brown and crispy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "flatbread",
+    "keto-friendly",
+    "low-carb",
+    "roasted",
+    "turmeric"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 5,
+    "fat": 26
+  },
+  "slug": "vibrant-roasted-canadian-turmeric-bread-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-roasted-canadian-turmeric-bread-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:46:20Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crumbly",
+    "mood": "adventurous",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "turmeric",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "turmeric bread",
+    "descriptor": "Vibrant Roasted",
+    "dishForm": "Flatbread"
+  }
+}
