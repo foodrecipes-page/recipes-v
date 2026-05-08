@@ -1,0 +1,98 @@
+{
+  "title": "Velvety Keto Chinese Butter Beans Jiaozi",
+  "description": "A rich and earthy Chinese dish featuring butter beans and a keto-friendly pasta water emulsion, served in a traditional terracotta dish. This crowd-pleaser is perfect for a special occasion or a cozy night in.",
+  "cuisine": "Chinese",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "butter beans",
+      "amount": "1 cup",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "pork sausage",
+      "amount": "1/2 cup",
+      "notes": "sugar-free and keto-friendly"
+    },
+    {
+      "name": "shirataki noodles",
+      "amount": "1/2 cup",
+      "notes": "low-carb and keto-friendly"
+    },
+    {
+      "name": "pasta water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "sugar-free and keto-friendly"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, cook the pork sausage over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the grated ginger and sesame oil to the skillet and cook for 1 minute, stirring constantly.",
+    "Stir in the soy sauce and cook for an additional minute.",
+    "In a large bowl, combine the cooked sausage mixture, butter beans, and shirataki noodles.",
+    "In a small bowl, whisk together the pasta water and a pinch of salt to create a keto-friendly emulsion.",
+    "Add the emulsion to the bowl with the sausage mixture and stir until everything is well combined.",
+    "Spoon the mixture into a terracotta dish and top with chopped green onions.",
+    "Bake the jiaozi in the preheated oven for 20 minutes, or until the filling is hot and the noodles are tender.",
+    "Serve the Velvety Keto Chinese Butter Beans Jiaozi hot, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "comfort-food",
+    "keto-friendly",
+    "low-carb",
+    "one-dish-wonder",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "velvety-keto-chinese-butter-beans-jiaozi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-keto-chinese-butter-beans-jiaozi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:46:56Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "shaggy",
+    "mood": "crowd-pleaser",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "butter beans",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "butter beans",
+    "descriptor": "velvety keto",
+    "dishForm": "Jiaozi"
+  }
+}
