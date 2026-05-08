@@ -1,0 +1,100 @@
+{
+  "title": "Velvety Rich Australian Beef Casserole",
+  "description": "A garlicky and comforting Australian dish featuring colatura and a mirepoix base, perfect for a cold winter night, this recipe is also friendly to those who dont like onion or garlic by using alternatives like shallots and leeks.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "500g",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "colatura",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "leeks",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "shallots",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180 degrees Celsius.",
+    "In a large pan, heat some oil over medium heat and cook the beef strips until browned, then set aside.",
+    "In the same pan, add more oil if necessary and cook the leeks, carrots, and celery until they are softened.",
+    "Add the shallots, tomato paste, and colatura to the pan and cook for 1 minute.",
+    "Add the beef broth to the pan and stir to combine, then add the cooked beef strips back into the pan.",
+    "Add the mushrooms to the pan and stir to combine.",
+    "Transfer the mixture to a baking dish and cover with foil.",
+    "Bake for 30 minutes, then remove the foil and bake for an additional 10 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "casserole",
+    "comfort-food",
+    "one-pan",
+    "weeknight",
+    "winter-dishes"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "velvety-rich-australian-beef-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-rich-australian-beef-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:13:59Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "gooey",
+    "mood": "comforting",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "colatura",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "beef",
+    "descriptor": "Velvety Rich",
+    "dishForm": "Casserole"
+  }
+}
