@@ -1,0 +1,107 @@
+{
+  "title": "Very Light Indulgent Turkish Pecan Nuts Sis Kebap",
+  "description": "A sweet and light Turkish dish featuring pecan nuts, nimono-simmer, and anti-inflammatory-friendly ingredients, served in a ti-leaf wrap.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "vegan-options"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Pecan nuts",
+      "amount": "120g"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Green chutney",
+      "amount": "60g",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Ginger powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Ti-leaf wraps",
+      "amount": "4-6 wraps"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a non-stick skillet over medium heat.",
+    "Add the chopped red onion and sauté for 3-4 minutes until translucent.",
+    "Add the turmeric, ginger, salt, and black pepper, and stir for 1 minute.",
+    "Add the chopped pecan nuts and stir to combine.",
+    "Pour in the green chutney and stir to combine.",
+    "Add the honey and stir to combine.",
+    "Simmer the mixture for 2-3 minutes until the flavors are well combined.",
+    "Warm the ti-leaf wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the sis kebap by spooning the pecan nut mixture onto the center of each wrap, followed by a sprinkle of cilantro.",
+    "Serve immediately and enjoy!",
+    "Repeat with the remaining ingredients to make more sis kebap."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "one-pan",
+    "turkish",
+    "vegan-options",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "very-light-indulgent-turkish-pecan-nuts-sis-kebap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/very-light-indulgent-turkish-pecan-nuts-sis-kebap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T10:09:23Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "light",
+    "mood": "indulgent",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "pecan nuts",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Pecan Nuts",
+    "descriptor": "Very Light Indulgent",
+    "dishForm": "Sis Kebap"
+  }
+}
