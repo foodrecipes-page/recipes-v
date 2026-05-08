@@ -1,0 +1,95 @@
+{
+  "title": "Vibrant Juicy Chinese Boudin Blanc Kung Pao",
+  "description": "A herbal and juicy Chinese dish featuring boudin-blanc, cooked in a cast-iron skillet using the bain-marie method, perfect for a satvik-friendly meal prep",
+  "cuisine": "Chinese",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boudin-blanc",
+      "amount": "1 pound",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a cast-iron skillet over medium heat",
+    "Add the sliced ginger and cook for 1 minute",
+    "Add the minced garlic and cook for another minute",
+    "Add the peanuts and cook for 2 minutes, stirring frequently",
+    "Add the chopped scallions and cook for 1 minute",
+    "Add the boudin-blanc and cook for 5 minutes, stirring occasionally",
+    "In a small bowl, whisk together the soy sauce and rice vinegar",
+    "Pour the soy sauce mixture over the boudin-blanc and cook for an additional 2 minutes",
+    "Serve hot, garnished with additional scallions if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "boudin-blanc",
+    "chinese-cuisine",
+    "kung-pao",
+    "meal-prep",
+    "one-pan",
+    "satvik-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "vibrant-juicy-chinese-boudin-blanc-kung-pao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-juicy-chinese-boudin-blanc-kung-pao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:51:52Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "meal-prep",
+    "technique": "bain-marie",
+    "primaryIngredient": "boudin-blanc",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "boudin-blanc",
+    "descriptor": "Vibrant Juicy",
+    "dishForm": "Kung Pao"
+  }
+}
