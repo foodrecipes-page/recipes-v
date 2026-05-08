@@ -1,0 +1,97 @@
+{
+  "title": "Vibrant Dense Venezuelan Shrimp Pilaf",
+  "description": "A comforting Venezuelan dish featuring shrimp, paste, and kapi, made with macrobiotic friendly ingredients and a hint of mustard, this pilaf is a dense and satisfying meal.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "macrobiotic",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "sashimi cut"
+    },
+    {
+      "name": "kapi paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "yellow mustard",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the shrimp and cook until pink and fully cooked, about 2-3 minutes per side.",
+    "Remove the shrimp from the saucepan and set aside.",
+    "Add the kapi paste, mustard, salt, and pepper to the saucepan and stir to combine.",
+    "Add the uncooked rice to the saucepan and stir to coat the rice with the kapi paste mixture.",
+    "Add the water to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes, or until the water is absorbed and the rice is tender.",
+    "Fluff the rice with a fork and stir in the cooked shrimp.",
+    "Garnish with chopped fresh cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "healthy",
+    "latin-american",
+    "one-pot",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "vibrant-dense-venezuelan-shrimp-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-dense-venezuelan-shrimp-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:05:11Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "shrimp-paste-kapi",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "shrimp",
+    "descriptor": "Vibrant Dense",
+    "dishForm": "Pilaf"
+  }
+}
