@@ -1,0 +1,101 @@
+{
+  "title": "Vibrant Low Sodium Saudi Arabian Cheese Cookies",
+  "description": "A low sodium twist on traditional Saudi Arabian cheese cookies, featuring a bitter cheese-pull and a hint of dashi extract, perfect for a meal prep snack or dessert. These cookies are made with low sodium ingredients and are suitable for those with dietary restrictions.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low sodium",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "unsalted"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "1 teaspoon",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Saudi Arabian cheese",
+      "amount": "1 cup",
+      "notes": "low sodium, crumbled"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "low sodium"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/2 teaspoon",
+      "notes": "low sodium"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, sugar, and baking powder.",
+    "Add the unsalted butter and mix until a dough forms.",
+    "Stir in the dashi extract, Saudi Arabian cheese, and black pepper.",
+    "Beat in the egg until well combined.",
+    "Scoop the dough into balls, about 1 inch in diameter.",
+    "Place the balls onto a baking sheet lined with parchment paper.",
+    "Bake for 15 minutes, or until the edges are lightly golden.",
+    "Remove from the oven and let cool on the baking sheet for 5 minutes.",
+    "Transfer the cookies to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-cookies",
+    "low-sodium",
+    "meal-prep",
+    "saudi-arabian",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "vibrant-low-sodium-saudi-arabian-cheese-cookies",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-low-sodium-saudi-arabian-cheese-cookies",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:30:02Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "cheese-pull",
+    "mood": "meal-prep",
+    "technique": "dashi-extract",
+    "primaryIngredient": "cookies",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "cheese",
+    "descriptor": "Vibrant low sodium",
+    "dishForm": "Cookies"
+  }
+}
