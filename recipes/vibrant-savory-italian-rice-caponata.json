@@ -1,0 +1,102 @@
+{
+  "title": "Vibrant Savory Italian Rice Caponata",
+  "description": "A savory and snappy Italian dish featuring rice, ferment-kimchi, and a variety of vegetables, perfect for a brunch mood. This diabetic-friendly recipe is served in a donabe vessel.",
+  "cuisine": "Italian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Italian rice",
+      "amount": "1 cup",
+      "notes": "preferably Arborio"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "eggplant",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "diced"
+    },
+    {
+      "name": "capers",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a donabe vessel over medium heat.",
+    "Add the diced eggplant and cook until it is tender and lightly browned.",
+    "Add the diced celery and cook until it is tender.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chopped capers and cook for 1 minute.",
+    "Add the ferment-kimchi and cook for 2 minutes.",
+    "Add the cooked Italian rice and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve the caponata hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "diabetic-friendly",
+    "fermented-foods",
+    "gluten-free",
+    "italian-cuisine",
+    "rice-bowls"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "vibrant-savory-italian-rice-caponata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-savory-italian-rice-caponata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:07:48Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "snappy",
+    "mood": "brunch-mood",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "rice",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "rice",
+    "descriptor": "Vibrant Savory",
+    "dishForm": "Caponata"
+  }
+}
