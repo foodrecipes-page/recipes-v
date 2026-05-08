@@ -1,0 +1,102 @@
+{
+  "title": "Velvety Tangy Ukrainian Sirloin Kebabs",
+  "description": "Tangy and velvety Ukrainian dish featuring sirloin steak, double-fry technique, and ovo-vegetarian friendly ingredients, evoking a sense of nostalgia with its rich flavors.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "buttermilk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, paprika, garlic powder, salt, and black pepper.",
+    "Pour buttermilk into a separate large bowl.",
+    "Dip each sirloin cube into the buttermilk, coating completely, then roll in the flour mixture to coat, placing coated cubes on a plate.",
+    "Heat 1/4 cup of vegetable oil in a large skillet over medium-high heat.",
+    "Add 5-6 coated sirloin cubes to the skillet and fry until golden brown, about 3-4 minutes per side.",
+    "Using a slotted spoon, remove fried cubes from the skillet and place on a paper towel-lined plate to drain excess oil.",
+    "Repeat the frying process with the remaining coated sirloin cubes, adding more oil as needed.",
+    "In a small bowl, whisk together eggs and lemon juice.",
+    "Dip each fried sirloin cube into the egg mixture, coating completely, then roll in the flour mixture again to coat.",
+    "Heat the remaining 1/4 cup of vegetable oil in the skillet over medium-high heat and fry the double-coated sirloin cubes until golden brown, about 2-3 minutes per side.",
+    "Serve the velvety tangy Ukrainian sirloin kebabs hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "tangy",
+    "velvety",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 26
+  },
+  "slug": "velvety-tangy-ukrainian-sirloin-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-tangy-ukrainian-sirloin-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:29:39Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "sirloin steak",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "sirloin steak",
+    "descriptor": "Velvety Tangy",
+    "dishForm": "Kebabs"
+  }
+}
