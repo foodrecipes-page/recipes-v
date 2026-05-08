@@ -1,0 +1,100 @@
+{
+  "title": "Velvety Smoky Brazilian Cheese Skewers",
+  "description": "A smoky, crumbly, romantic Brazilian dish featuring single cream and score-fat, perfect for a night in with loved ones.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "queijo coalho",
+      "amount": "12 oz",
+      "notes": "Brazilian cheese"
+    },
+    {
+      "name": "single cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "score-fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "12"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the single cream, smoked paprika, garlic powder, salt, and black pepper.",
+    "Cut the queijo coalho into 1-inch cubes and add to the bowl, tossing to coat with the cream mixture.",
+    "Thread 2-3 cheese cubes onto each bamboo skewer, leaving a small space between each cube.",
+    "Brush the skewers with olive oil and season with salt.",
+    "Grill the skewers for 2-3 minutes per side, or until the cheese is melted and slightly charred.",
+    "Serve the skewers hot, garnished with chopped fresh parsley and a drizzle of score-fat.",
+    "Repeat with the remaining cheese and skewers.",
+    "Let the skewers rest for 1-2 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "cheese-recipes",
+    "grilled-cheese",
+    "romantic-dinner",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "velvety-smoky-brazilian-cheese-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-smoky-brazilian-cheese-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:18:00Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crumbly",
+    "mood": "romantic",
+    "technique": "score-fat",
+    "primaryIngredient": "single cream",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "cheese",
+    "descriptor": "Velvety Smoky",
+    "dishForm": "Skewers"
+  }
+}
