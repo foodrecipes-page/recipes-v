@@ -1,0 +1,99 @@
+{
+  "title": "Vibrant Monsoon Australian Lamb Skewers",
+  "description": "A flavorful Australian dish featuring lamb skewers marinated in a mixture of vin-santo, mustard, and herbs, perfect for a monsoon evening. This sugar-free-friendly recipe is a great option for a healthy dinner.",
+  "cuisine": "Australian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "vin-santo",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "whole grain mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "brine",
+      "amount": "1 cup",
+      "notes": "for soaking skewers"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together vin-santo, mustard, olive oil, rosemary, garlic, salt, and pepper to make the marinade.",
+    "Add the lamb cubes to the marinade and toss to coat, then cover and refrigerate for at least 2 hours or overnight.",
+    "Soak the skewers in brine for 30 minutes to prevent them from burning during cooking.",
+    "Preheat a grill or grill pan to medium-high heat, about 400 degrees Fahrenheit.",
+    "Thread the marinated lamb cubes onto the skewers, leaving a small space between each cube.",
+    "Grill the skewers for 8-10 minutes per side, or until the lamb is cooked to an internal temperature of 145 degrees Fahrenheit.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve the skewers hot, garnished with additional rosemary if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "grilled-meats",
+    "high-protein",
+    "one-pan",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "vibrant-monsoon-australian-lamb-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-monsoon-australian-lamb-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:45:31Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "springy",
+    "mood": "monsoon",
+    "technique": "brine-wet",
+    "primaryIngredient": "vin-santo",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "lamb",
+    "descriptor": "Vibrant Monsoon",
+    "dishForm": "Skewers"
+  }
+}
