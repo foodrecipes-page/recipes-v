@@ -1,0 +1,112 @@
+{
+  "title": "Vigorous Crisp Norwegian Beef Stew",
+  "description": "A hearty and adventurous Norwegian dish featuring tender beef and crisp vegetables in a rich unsalted beef stock, perfect for a cold winter's night. This stew is ayurvedic-tamasic-friendly and free from excessive spices.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "ayurvedic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "unsalted beef stock",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "beef stew meat",
+      "amount": "2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onions",
+      "amount": "2 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the beef to the pot and cook until browned on all sides, about 5 minutes.",
+    "Add the onions, celery, and garlic to the pot and cook until the vegetables are tender, about 5 minutes.",
+    "Add the carrots and potatoes to the pot, stirring to combine.",
+    "Pour in the unsalted beef stock, scraping up any browned bits from the bottom of the pot.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours.",
+    "Stir in the thyme and season the stew with salt and black pepper.",
+    "Increase the heat to high and cook, uncovered, until the stew has reached a vigorous boil and the vegetables are crisp, about 10 minutes.",
+    "Serve the stew hot, garnished with additional thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 100,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cold-weather",
+    "comfort-food",
+    "gluten-free",
+    "hearty-stew",
+    "norwegian-cuisine",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 24
+  },
+  "slug": "vigorous-crisp-norwegian-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vigorous-crisp-norwegian-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:18:31Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crisp",
+    "mood": "adventurous",
+    "technique": "boil",
+    "primaryIngredient": "unsalted beef stock",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "beef",
+    "descriptor": "Vigorous Crisp",
+    "dishForm": "Stew"
+  }
+}
