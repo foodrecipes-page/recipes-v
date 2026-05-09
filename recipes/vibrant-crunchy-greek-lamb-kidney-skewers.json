@@ -1,0 +1,97 @@
+{
+  "title": "Vibrant Crunchy Greek Lamb Kidney Skewers",
+  "description": "A light and refreshing Greek dish featuring lamb kidney, wood-fired baked to perfection, with a vegan-friendly alternative, this recipe combines sour and crunchy elements for a unique taste experience.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb kidney",
+      "amount": "1 pound",
+      "notes": "or portobello mushrooms for vegan alternative"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "oregano",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "pita bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 cups"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together lemon juice, olive oil, garlic, oregano, and thyme.",
+    "Add the lamb kidney or portobello mushrooms to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated lamb kidney or mushrooms onto skewers.",
+    "Place the skewers in the wood-fired oven and bake for 15 minutes.",
+    "Meanwhile, slice the pita bread into thin strips and toast until crispy.",
+    "Slice the tomatoes and red onion into thin wedges.",
+    "To serve, place the skewers on a platter and top with toasted pita bread, tomatoes, and red onion.",
+    "Drizzle with additional lemon juice and olive oil if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "greek-food",
+    "high-protein",
+    "mediterranean",
+    "vegan-friendly",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "vibrant-crunchy-greek-lamb-kidney-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-crunchy-greek-lamb-kidney-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:45:54Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "lamb kidney",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb kidney",
+    "descriptor": "Vibrant Crunchy",
+    "dishForm": "Skewers"
+  }
+}
