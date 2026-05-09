@@ -1,0 +1,98 @@
+{
+  "title": "Velvety Delight Chinese Peanuts Bao",
+  "description": "A traditional Jiangsu dish that combines rich, velvety bao dough with crunchy peanuts and a hint of Chinese flavors.",
+  "cuisine": "Chinese",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Active Dry Yeast",
+      "amount": "1 packet (2 1/4 teaspoons)",
+      "notes": null
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Warm Water",
+      "amount": "1 cup",
+      "notes": "around 100°F"
+    },
+    {
+      "name": "All Purpose Flour",
+      "amount": "3 cups",
+      "notes": null
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Peanuts",
+      "amount": "1 cup",
+      "notes": "shelled and chopped"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together yeast, sugar, and warm water. Let it sit for 5 minutes until frothy.",
+    "In a large mixing bowl, combine flour, sesame oil, and salt. Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour until doubled in size.",
+    "Preheat sous-vide water to 195°F.",
+    "Punch down the dough and divide it into 4 equal pieces. Roll each piece into a ball and then flatten it into a disk.",
+    "Place a dough disk into the sous-vide water for 30 minutes.",
+    "Remove the dough from the water and fill it with chopped peanuts, sesame seeds, and a pinch of salt.",
+    "Close the bao by pinching the edges together and serving immediately or freeze for later use."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bao",
+    "chinese",
+    "peanuts",
+    "snack",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "velvety-delight-chinese-peanuts-bao",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-delight-chinese-peanuts-bao",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T07:34:02Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "sous-vide",
+    "primaryIngredient": "peanuts",
+    "diet": "kosher",
+    "region": "jiangsu",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Peanuts",
+    "descriptor": "Velvety Delight",
+    "dishForm": "Bao"
+  }
+}

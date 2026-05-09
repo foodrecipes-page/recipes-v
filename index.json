@@ -1730,6 +1730,20 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-delight-chinese-peanuts-bao",
+    "title": "Velvety Delight Chinese Peanuts Bao",
+    "tags": [
+      "bao",
+      "chinese",
+      "peanuts",
+      "snack",
+      "sous-vide"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 50,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-dough-pie",
     "title": "Velvety Dough Pie",
     "tags": [
