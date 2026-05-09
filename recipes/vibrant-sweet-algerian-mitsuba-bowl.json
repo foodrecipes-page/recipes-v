@@ -1,0 +1,98 @@
+{
+  "title": "Vibrant Sweet Algerian Mitsuba Bowl",
+  "description": "A sweet and crumbly post-workout Algerian dish featuring mitsuba, served in a lacquerware bowl, dairy-free friendly.",
+  "cuisine": "Algerian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mitsuba",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dates",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "almond butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "pistachios",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a mortar, pound the chopped mitsuba with a pestle until well bruised and fragrant.",
+    "In a large bowl, mix together the almond flour, coconut sugar, and salt.",
+    "Add the pitted dates to the bowl and mix until well combined with the dry ingredients.",
+    "In a small bowl, whisk together the almond butter, lemon juice, and water until smooth.",
+    "Add the wet ingredients to the dry ingredients and mix until a crumbly dough forms.",
+    "Fold in the chopped pistachios and bruised mitsuba into the dough.",
+    "Scoop the dough into a lacquerware bowl and serve immediately.",
+    "Garnish with additional chopped pistachios and mitsuba if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "algerian-cuisine",
+    "dairy-free",
+    "healthy-snack",
+    "post-workout",
+    "sweet-treat",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "vibrant-sweet-algerian-mitsuba-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-sweet-algerian-mitsuba-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:18:50Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "mitsuba",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "mitsuba",
+    "descriptor": "vibrant sweet",
+    "dishForm": "Bowl"
+  }
+}
