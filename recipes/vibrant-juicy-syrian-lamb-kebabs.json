@@ -1,0 +1,103 @@
+{
+  "title": "Vibrant Juicy Syrian Lamb Kebabs",
+  "description": "A winey and juicy Syrian dish featuring dried leaves of summer savoury, perfect for flexitarian foodies, this recipe offers an adventurous twist on traditional lamb kebabs. The poached lamb is marinated in a mix of spices and herbs, then grilled to perfection.",
+  "cuisine": "Syrian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "summer savoury leaves",
+      "amount": "2 tablespoons",
+      "notes": "dried"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together red wine, olive oil, garlic, cumin, coriander, salt, and black pepper to make the marinade.",
+    "Add the lamb cubes to the marinade and mix well to coat, then cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill to medium-high heat and thread the marinated lamb cubes onto skewers, leaving a small space between each piece.",
+    "Grill the lamb kebabs for 8-10 minutes per side, or until they reach an internal temperature of 145 degrees.",
+    "While the lamb is cooking, mix the dried summer savoury leaves with lemon juice in a small bowl.",
+    "Once the lamb is cooked, brush the summer savoury and lemon juice mixture evenly over the kebabs.",
+    "Let the kebabs rest for 5 minutes before serving, then serve hot and enjoy.",
+    "Garnish with additional summer savoury leaves and lemon wedges, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian",
+    "grilled-meats",
+    "lamb-recipes",
+    "middle-eastern",
+    "syrian-cuisine",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "vibrant-juicy-syrian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-juicy-syrian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:57:28Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "poach",
+    "primaryIngredient": "dried leaves of summer savoury",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "vibrant juicy",
+    "dishForm": "Kebabs"
+  }
+}
