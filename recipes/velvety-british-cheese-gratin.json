@@ -1,0 +1,101 @@
+{
+  "title": "Velvety British Cheese Gratin",
+  "description": "A rich and creamy British dish featuring stale bread and a blend of cheeses, perfect for a date night, with a dairy-free friendly option. It has a nice mustardy flavor and a cheese-pull effect.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "stale bread",
+      "amount": "2 cups",
+      "notes": "dried out in a low oven"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "dairy-free cheese shreds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "whole grain mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Slice the dried out bread into 1 inch cubes and set aside.",
+    "In a large skillet, saute the onion and garlic until softened.",
+    "In a large bowl, combine the bread, sauteed onion and garlic, dairy-free cheese shreds, nutritional yeast, whole grain mustard, salt, black pepper, and fresh thyme.",
+    "Mix well until all the ingredients are fully incorporated.",
+    "Transfer the mixture to a donabe or a large baking dish.",
+    "Dot the top of the mixture with vegan butter.",
+    "Bake in the preheated oven for 25-30 minutes or until the top is golden brown and the cheese is melted and bubbly.",
+    "Remove from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "comfort-food",
+    "dairy-free",
+    "date-night",
+    "one-pot",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "velvety-british-cheese-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-british-cheese-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:33:15Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "cheese-pull",
+    "mood": "date-night",
+    "technique": "dehydrate",
+    "primaryIngredient": "stale bread",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "cheese",
+    "descriptor": "Velvety",
+    "dishForm": "Gratin"
+  }
+}
