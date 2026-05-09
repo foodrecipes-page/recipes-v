@@ -1,0 +1,95 @@
+{
+  "title": "Vibrant Spicy Jamaican Sea Bass Skewers",
+  "description": "A spicy and chewy Jamaican dish featuring sea bass, pickle, and nostalgic flavors, served on a hot stone plate, ovo-vegetarian friendly.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sea bass fillets",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "pickle relish",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat.",
+    "In a blender, combine scotch bonnet peppers, onion, garlic, thyme, and allspice, and blend until smooth.",
+    "In a large bowl, combine the sea bass cubes, blended pepper mixture, and pickle relish, and toss to coat.",
+    "Thread the sea bass mixture onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and season with salt and pepper.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the fish is cooked through.",
+    "Serve the skewers on a hot stone plate, garnished with additional thyme and scotch bonnet peppers if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "jamaican-cuisine",
+    "ovo-vegetarian",
+    "seafood",
+    "spicy-food",
+    "stone-cooked"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "vibrant-spicy-jamaican-sea-bass-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-spicy-jamaican-sea-bass-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:32:19Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "chewy",
+    "mood": "nostalgic",
+    "technique": "pickle",
+    "primaryIngredient": "sea bass",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "sea bass",
+    "descriptor": "Vibrant spicy",
+    "dishForm": "Skewers"
+  }
+}
