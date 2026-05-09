@@ -4161,6 +4161,21 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-roasted-peruvian-fish-ceviche",
+    "title": "Velvety Roasted Peruvian Fish Ceviche",
+    "tags": [
+      "comfort-food",
+      "latin-american",
+      "peruvian-cuisine",
+      "pescatarian",
+      "roasted",
+      "seafood"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 32,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-roasted-saudi-arabian-tuna-kebabs",
     "title": "Velvety Roasted Saudi Arabian Tuna Kebabs",
     "tags": [
@@ -6469,6 +6484,20 @@
     ],
     "cuisine": "American",
     "totalTimeMin": 50,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-crisp-greek-lamb-skewers",
+    "title": "Vibrant Crisp Greek Lamb Skewers",
+    "tags": [
+      "diabetic-friendly",
+      "greek-food",
+      "grilled-meats",
+      "lamb-recipes",
+      "mediterranean-diet"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 32,
     "shard": "v"
   },
   {

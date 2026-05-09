@@ -1,0 +1,96 @@
+{
+  "title": "Velvety Roasted Peruvian Fish Ceviche",
+  "description": "A comforting Peruvian dish featuring roasted fish, brandy, and a brine-dry method, perfect for pescatarians. This recipe combines the flavors of the sea with the warmth of roasted ingredients.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "halibut fillets",
+      "amount": "4 pieces",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "brandy",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 piece"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "aji amarillo peppers",
+      "amount": "2 peppers"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the halibut fillets with salt and coriander.",
+    "Roast the halibut in the oven for 12 minutes, or until cooked through.",
+    "Meanwhile, combine brandy, lime juice, garlic, and ginger in a blender.",
+    "Blend the mixture until smooth, then strain it into a bowl.",
+    "Add the roasted halibut to the bowl and marinate for 10 minutes.",
+    "Dice the red onion and aji amarillo peppers, then add them to the bowl.",
+    "Mix all the ingredients together, then serve immediately.",
+    "Garnish with additional coriander and lime juice, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "latin-american",
+    "peruvian-cuisine",
+    "pescatarian",
+    "roasted",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "velvety-roasted-peruvian-fish-ceviche",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-roasted-peruvian-fish-ceviche",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:21:13Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "fluffy",
+    "mood": "comforting",
+    "technique": "brine-dry",
+    "primaryIngredient": "brandy",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "fish",
+    "descriptor": "velvety roasted",
+    "dishForm": "Ceviche"
+  }
+}

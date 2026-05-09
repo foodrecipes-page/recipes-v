@@ -1,0 +1,98 @@
+{
+  "title": "Vibrant Crisp Greek Lamb Skewers",
+  "description": "A nutty and crisp Greek dish featuring ginger cordial and lardons-render, perfect for adventurous eaters, this recipe is also diabetic-friendly.",
+  "cuisine": "Greek",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "ginger cordial",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "diced and rendered"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together ginger cordial, olive oil, lemon juice, garlic, oregano, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each piece.",
+    "Brush the rendered lardons onto the lamb cubes.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the lamb is cooked through and slightly charred.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve the skewers hot, garnished with fresh oregano and lemon wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "greek-food",
+    "grilled-meats",
+    "lamb-recipes",
+    "mediterranean-diet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "vibrant-crisp-greek-lamb-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-crisp-greek-lamb-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:21:32Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crisp",
+    "mood": "adventurous",
+    "technique": "lardons-render",
+    "primaryIngredient": "ginger cordial",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Vibrant Crisp",
+    "dishForm": "Skewers"
+  }
+}
