@@ -1,0 +1,102 @@
+{
+  "title": "Vibrant Egyptian Fish Skewers",
+  "description": "A funky and juicy Egyptian dish featuring sashimi-cut fish, monterey jack cheese, and a blend of spices, all cooked to perfection in a wok. This halal-friendly recipe is perfect for a dinner party.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "halal",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tilapia fillets",
+      "amount": "1 pound",
+      "notes": "sashimi-cut into 1-inch pieces"
+    },
+    {
+      "name": "monterey jack cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large wok over medium-high heat.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the cumin, paprika, salt, and black pepper, and cook for 1 minute, stirring constantly.",
+    "Add the tilapia pieces and cook for 3-4 minutes, until they start to flake apart.",
+    "Add the shredded monterey jack cheese and cook until melted and well combined.",
+    "Stir in the lemon juice and chopped parsley.",
+    "Thread the fish mixture onto skewers, leaving a small space between each piece.",
+    "Serve the skewers hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "vibrant-egyptian-fish-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-egyptian-fish-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:11:55Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "juicy",
+    "mood": "monsoon",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "monterey jack cheese",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "fish",
+    "descriptor": "vibrant juicy",
+    "dishForm": "Skewers"
+  }
+}
