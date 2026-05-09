@@ -1,0 +1,91 @@
+{
+  "title": "Vividly Charred Dutch Peanut Stew",
+  "description": "A dense and charred Dutch dish featuring roasted peanuts, nuka-pickle, and shojin-friendly ingredients, served in a banana leaf vessel, perfect for curing hangovers.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "peanuts",
+      "amount": "1 cup",
+      "notes": "roasted"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "potato",
+      "amount": "1 large"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4 large"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Char the peanuts in a dry skillet over medium heat for 5 minutes.",
+    "Slice the onion and mince the garlic, then saute them in a large pot until softened.",
+    "Add the carrots and potato to the pot, cooking for an additional 5 minutes.",
+    "Add the roasted peanuts, nuka-pickle, and vegetable broth to the pot, stirring to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Prepare the banana leaves by cutting them to size and brushing with water.",
+    "Spoon the stew onto the banana leaves, serving immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-cuisine",
+    "hangover-cure",
+    "one-pot",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "vividly-charred-dutch-peanut-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vividly-charred-dutch-peanut-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:26:56Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "dense",
+    "mood": "hangover-cure",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "roasted peanut",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "peanut",
+    "descriptor": "Vividly charred",
+    "dishForm": "Stew"
+  }
+}
