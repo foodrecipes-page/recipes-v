@@ -1,0 +1,101 @@
+{
+  "title": "Vibrant Smoky Brazilian Haricot Bean Stew",
+  "description": "A tangy and comforting Brazilian stew featuring haricot beans and a smoky flavor, perfect for a sick day. This egg-free dish is easy to make and packed with nutrients.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haricot beans",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Rinse the dried haricot beans and soak them in water for at least 8 hours.",
+    "Drain and rinse the beans, then set them aside.",
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the onion and garlic and cook until the onion is translucent.",
+    "Add the smoked paprika, salt, and black pepper, and cook for 1 minute.",
+    "Add the tomato paste and cook for 1 minute, stirring constantly.",
+    "Add the canned diced tomatoes, vegetable broth, and soaked haricot beans.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 45 minutes.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "vibrant-smoky-brazilian-haricot-bean-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-smoky-brazilian-haricot-bean-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:43:45Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "bouncy-qq",
+    "mood": "sick-day",
+    "technique": "smoke",
+    "primaryIngredient": "haricot beans",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "haricot beans",
+    "descriptor": "Vibrant Smoky",
+    "dishForm": "Stew"
+  }
+}
