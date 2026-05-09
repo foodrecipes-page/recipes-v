@@ -1,0 +1,102 @@
+{
+  "title": "Velvety Egyptian Lentil Stew",
+  "description": "A comforting and floral Egyptian stew featuring red lentils and a blend of aromatic spices, perfect for a sick day. This ovo-vegetarian friendly dish is made with a mixture powder and shio-koji-cure for added depth of flavor.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "mixture powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shio-koji-cure",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat 2 tablespoons of oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the mixture powder and shio-koji-cure and cook for 1 minute.",
+    "Add the red lentils, chopped carrots, vegetable broth, and tomato paste, and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Stir in the eggs and cook until the whites are set and the yolks are cooked to desired doneness.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-stew",
+    "lentil-based",
+    "middle-eastern",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "velvety-egyptian-lentil-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-egyptian-lentil-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:20:49Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "velvety",
+    "mood": "sick-day",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "mixture powder",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lentils",
+    "descriptor": "velvety",
+    "dishForm": "Stew"
+  }
+}

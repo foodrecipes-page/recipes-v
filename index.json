@@ -1954,6 +1954,20 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-egyptian-lentil-stew",
+    "title": "Velvety Egyptian Lentil Stew",
+    "tags": [
+      "comfort-food",
+      "hearty-stew",
+      "lentil-based",
+      "middle-eastern",
+      "one-pot"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 60,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-egyptian-pineapple-stir-fry",
     "title": "Velvety Egyptian Pineapple Stir-fry",
     "tags": [
