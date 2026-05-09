@@ -1,0 +1,99 @@
+{
+  "title": "Vibrant Chinese Pork Tacos",
+  "description": "A festive Chinese dish featuring crispy pork, mustardy slaw, and crunchy taco shells, this recipe is perfect for a fun and easy dinner. The combination of flavors and textures will leave you wanting more.",
+  "cuisine": "Chinese Mexican",
+  "diet": [
+    "gluten free",
+    "dairy free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "taco shells",
+      "amount": "12 shells"
+    },
+    {
+      "name": "red cabbage",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together soy sauce, honey, and rice vinegar.",
+    "Add the pork pieces to the bowl and toss to coat with the marinade.",
+    "Heat the vegetable oil in a large skillet over medium high heat.",
+    "Remove the pork from the marinade and cook in the skillet until browned, about 5 minutes.",
+    "Transfer the pork to a baking sheet and bake in the oven for 15 minutes, or until cooked through.",
+    "While the pork is cooking, combine the shredded cabbage and grated carrots in a bowl.",
+    "Stir in the mustard until the slaw is well coated.",
+    "To assemble the tacos, place a few pieces of the cooked pork into a taco shell, followed by a spoonful of the slaw.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "easy-dinner",
+    "high-protein",
+    "mexican-chinese",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "vibrant-chinese-pork-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-chinese-pork-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:27:19Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "bouncy-qq",
+    "mood": "festive",
+    "technique": "dehydrate",
+    "primaryIngredient": "hard taco shells",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "Vibrant",
+    "dishForm": "Tacos"
+  }
+}
