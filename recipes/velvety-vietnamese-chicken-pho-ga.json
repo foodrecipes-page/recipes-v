@@ -1,0 +1,102 @@
+{
+  "title": "Velvety Vietnamese Chicken Pho Ga",
+  "description": "A winey and pillowy Vietnamese dish featuring makrut lime leaves, perfect for a date night, made with sous-vide cooking and without onion or garlic.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "makrut lime leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "4 wedges"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together fish sauce, soy sauce, and brown sugar to make the marinade.",
+    "Add the chicken breast to the marinade and refrigerate for at least 2 hours or overnight.",
+    "Preheat the sous-vide machine to 130 degrees Fahrenheit.",
+    "Remove the chicken from the marinade and seal it in a sous-vide bag with 2 makrut lime leaves.",
+    "Cook the chicken in the sous-vide machine for 2 hours.",
+    "While the chicken is cooking, cook the rice noodles according to the package instructions.",
+    "In a large wok, combine the chicken broth, 2 makrut lime leaves, and cooked noodles, and bring to a simmer over medium heat.",
+    "Slice the cooked chicken into thin strips and add it to the wok.",
+    "Stir in the bean sprouts and cook for an additional 2 minutes.",
+    "Serve the pho ga hot, garnished with basil leaves, lime wedges, and remaining makrut lime leaves."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "date-night",
+    "gluten-free",
+    "one-pot",
+    "sous-vide",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "velvety-vietnamese-chicken-pho-ga",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-vietnamese-chicken-pho-ga",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:08:18Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "pillowy",
+    "mood": "date-night",
+    "technique": "sous-vide",
+    "primaryIngredient": "makrut lime leaves",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "chicken",
+    "descriptor": "velvety winey",
+    "dishForm": "Pho Ga"
+  }
+}
