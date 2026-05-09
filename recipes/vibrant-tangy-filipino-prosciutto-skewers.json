@@ -1,0 +1,97 @@
+{
+  "title": "Vibrant Tangy Filipino Prosciutto Skewers",
+  "description": "A tangy and cozy Filipino dish featuring prosciutto, this recipe is Whole30-friendly and perfect for a snack or dinner. The combination of prosciutto and Filipino flavors creates a unique and delicious taste experience.",
+  "cuisine": "Filipino",
+  "diet": [
+    "whole30",
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "prosciutto",
+      "amount": "12 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "pineapple chunks",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Thread a slice of prosciutto, a pineapple chunk, a red onion slice, and a sprinkle of cilantro onto each bamboo skewer.",
+    "In a small bowl, whisk together lime juice, fish sauce, and coconut milk.",
+    "Brush the mixture onto both sides of the prosciutto and pineapple.",
+    "Grill the skewers for 2-3 minutes per side, or until the prosciutto is crispy.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional cilantro and lime wedges if desired.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 24 hours."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "appetizer",
+    "filipino-food",
+    "gluten-free",
+    "grilled",
+    "paleo",
+    "snack",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 6,
+    "fat": 8
+  },
+  "slug": "vibrant-tangy-filipino-prosciutto-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-tangy-filipino-prosciutto-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:35:48Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "shattering",
+    "mood": "cozy",
+    "technique": "cure",
+    "primaryIngredient": "prosciutto",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "prosciutto",
+    "descriptor": "Vibrant Tangy",
+    "dishForm": "Skewers"
+  }
+}
