@@ -1,0 +1,94 @@
+{
+  "title": "Vibrant Spicy Dutch Chicken Skillet",
+  "description": "A solo dinner Dutch dish featuring garlicky flavors and birds-eye chillies, made with long-fermentation-dough for a unique twist, and gluten-free-friendly ingredients.",
+  "cuisine": "Dutch",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "long-fermentation-dough",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "birds-eye chillies",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5 minutes.",
+    "Add the sliced birds-eye chillies to the skillet and cook for an additional 2 minutes.",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Add the crumbled long-fermentation-dough to the skillet, stirring to combine with the chicken and chillies.",
+    "Season the mixture with salt, black pepper, and paprika, stirring to combine.",
+    "Reduce the heat to medium-low and simmer the mixture, covered, for 10 minutes.",
+    "Serve the Vibrant Spicy Dutch Chicken Skillet hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "dutch-cuisine",
+    "gluten-free",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "vibrant-spicy-dutch-chicken-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-spicy-dutch-chicken-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:22:50Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "bouncy-qq",
+    "mood": "solo-dinner",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "birds-eye chillies",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "chicken",
+    "descriptor": "Vibrant Spicy",
+    "dishForm": "Skillet"
+  }
+}
