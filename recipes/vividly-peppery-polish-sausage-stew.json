@@ -1,0 +1,96 @@
+{
+  "title": "Vividly Peppery Polish Sausage Stew",
+  "description": "A hearty and flavorful stew featuring Polish sausage, doubanjiang, and a blend of spices, perfect for a chilly brunch morning. This dish is slow-cooked to bring out the rich flavors of the ingredients.",
+  "cuisine": "Polish",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Polish sausage",
+      "amount": "1 pound",
+      "notes": "preferably with a high meat content"
+    },
+    {
+      "name": "doubanjiang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Slice the Polish sausage into 1-inch thick rounds and set aside.",
+    "Chop the onion and mince the garlic, then saute them in a large pot over medium heat until the onion is translucent.",
+    "Add the doubanjiang to the pot and stir for 1 minute to release its flavors.",
+    "Add the sliced Polish sausage to the pot and cook for 5 minutes, stirring occasionally.",
+    "Peel and chop the carrots and potatoes, then add them to the pot along with the chicken broth, black pepper, and salt.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 30 minutes or until the vegetables are tender.",
+    "Serve the stew hot, garnished with chopped fresh parsley if desired.",
+    "Let the stew rest for 10 minutes before serving to allow the flavors to meld together.",
+    "Refrigerate or freeze the stew for later use if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-idea",
+    "comfort-food",
+    "hearty-stew",
+    "polish-cuisine",
+    "slow-cooked",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "vividly-peppery-polish-sausage-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vividly-peppery-polish-sausage-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:57:39Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "slow-cook",
+    "primaryIngredient": "doubanjiang",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "sausage",
+    "descriptor": "Vividly peppery",
+    "dishForm": "Stew"
+  }
+}
