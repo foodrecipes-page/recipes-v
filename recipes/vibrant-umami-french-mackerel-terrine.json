@@ -1,0 +1,98 @@
+{
+  "title": "Vibrant Umami French Mackerel Terrine",
+  "description": "A quick-fix French dish featuring mackerel, with a char-grill flavor and sugar-free friendly ingredients, formed into a terrine.",
+  "cuisine": "French",
+  "diet": [
+    "low-carb",
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mackerel fillets",
+      "amount": "12 oz",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, Dijon mustard, salt, black pepper, and garlic powder.",
+    "Add the chopped onion and parsley to the bowl and mix well.",
+    "Add the mackerel fillets to the bowl and coat with the marinade.",
+    "Line a terrine mold with plastic wrap, leaving some overhang for easy removal.",
+    "Arrange a layer of the mackerel mixture in the terrine mold.",
+    "Repeat the layering process until all the ingredients are used, ending with a layer of the mackerel mixture on top.",
+    "Fold the overhanging plastic wrap over the top of the terrine and refrigerate for at least 30 minutes.",
+    "Slice the terrine into serving portions and serve chilled."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "easy-entertaining",
+    "french-cuisine",
+    "gluten-free",
+    "low-carb",
+    "seafood",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "vibrant-umami-french-mackerel-terrine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-umami-french-mackerel-terrine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:35:51Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "shattering",
+    "mood": "quick-fix",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "mackerel",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "mackerel",
+    "descriptor": "Vibrant Umami",
+    "dishForm": "Terrine"
+  }
+}
