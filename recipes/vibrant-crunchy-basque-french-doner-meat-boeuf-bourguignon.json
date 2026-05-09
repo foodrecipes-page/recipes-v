@@ -1,0 +1,99 @@
+{
+  "title": "Vibrant Crunchy Basque French Doner Meat Boeuf Bourguignon",
+  "description": "A malty, crunchy, weeknight French dish featuring doner meat, cooked in a clay pot, low-fat-friendly, in the form of boeuf bourguignon. This recipe is a unique twist on traditional boeuf bourguignon.",
+  "cuisine": "French",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "doner meat",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "malt vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "Heat the clay pot over medium heat and add the chopped onion, cooking until it is translucent.",
+    "Add the chopped carrot and celery and cook until they are tender.",
+    "Add the thinly sliced doner meat and cook until it is browned.",
+    "Add the malt vinegar, red wine, beef broth, tomato paste, and thyme, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Season the mixture with salt and pepper to taste.",
+    "Serve the boeuf bourguignon hot, garnished with fresh thyme.",
+    "Let the dish rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipe",
+    "clay-pot-cooking",
+    "french-cuisine",
+    "low-fat",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "vibrant-crunchy-basque-french-doner-meat-boeuf-bourguignon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-crunchy-basque-french-doner-meat-boeuf-bourguignon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:38:32Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "doner meat",
+    "diet": "low-fat",
+    "region": "basque-french",
+    "cuisineAdjective": "Basque French",
+    "mainIngredient": "doner meat",
+    "descriptor": "Vibrant Crunchy",
+    "dishForm": "Boeuf Bourguignon"
+  }
+}
