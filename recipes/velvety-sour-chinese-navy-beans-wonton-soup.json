@@ -1,0 +1,99 @@
+{
+  "title": "Velvety Sour Chinese Navy Beans Wonton Soup",
+  "description": "A plant-based, date-night Chinese dish featuring dried white navy beans in a sour and fluffy wonton soup, made with mushimono-steam and plant-based-friendly ingredients.",
+  "cuisine": "Chinese",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried white navy beans",
+      "amount": "1 cup",
+      "notes": "soaked overnight and drained"
+    },
+    {
+      "name": "wonton wrappers",
+      "amount": "20 pieces"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine the soaked and drained navy beans, vegetable broth, soy sauce, rice vinegar, and sesame oil, and bring to a boil over high heat.",
+    "Reduce the heat to medium-low and simmer for 20 minutes, or until the beans are tender.",
+    "While the beans are cooking, prepare the wonton filling by sauteing the sliced mushrooms and grated ginger in a little sesame oil until the mushrooms are softened.",
+    "To assemble the wontons, lay a wonton wrapper on a clean surface and place a small spoonful of the mushroom filling in the center of the wrapper.",
+    "Dip your finger in a little water and run it along the edges of the wrapper, then fold the wrapper into a triangle by bringing the two opposite corners together to form a point.",
+    "Repeat with the remaining wrappers and filling.",
+    "When the beans are tender, add the wontons to the pot and cook for an additional 5 minutes, or until they float to the surface.",
+    "Stir in the chopped scallions and serve the soup hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "date-night",
+    "mushimono-steam",
+    "plant-based",
+    "vegetarian-friendly",
+    "wonton-soup"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "velvety-sour-chinese-navy-beans-wonton-soup",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-sour-chinese-navy-beans-wonton-soup",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:36:54Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "dried white navy beans",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "navy beans",
+    "descriptor": "velvety sour",
+    "dishForm": "Wonton Soup"
+  }
+}
