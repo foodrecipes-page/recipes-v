@@ -1,0 +1,95 @@
+{
+  "title": "Velvety Molten Vietnamese Chicken Wrap",
+  "description": "A sweet and light Vietnamese dish featuring ground ginger and wrapped in a pandan leaf, this recipe is Whole30-friendly and perfect for a quick lunch or dinner.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "whole30",
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4-6 leaves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Grind the chicken breast in a food processor until it is finely chopped.",
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the chopped chicken to the skillet and cook until it is browned, breaking it up into small pieces as it cooks.",
+    "Add the ground ginger, fish sauce, lime juice, salt, and black pepper to the skillet and stir to combine.",
+    "Reduce the heat to low and simmer the mixture for 10 minutes, stirring occasionally.",
+    "Meanwhile, prepare the pandan leaves by rinsing them with water and patting them dry with paper towels.",
+    "To assemble the wraps, place a portion of the chicken mixture onto the center of a pandan leaf and fold the leaf over the filling to form a packet.",
+    "Serve the wraps immediately, garnished with additional lime wedges if desired.",
+    "To cook the chicken mixture in a pressure cooker, brown the chicken in a little oil, then add the remaining ingredients and cook for 5 minutes.",
+    "Let the pressure release naturally for 10 minutes, then quick-release any remaining pressure."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy",
+    "gluten-free",
+    "paleo",
+    "quick",
+    "vietnamese",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "velvety-molten-vietnamese-chicken-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-molten-vietnamese-chicken-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:11:23Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "molten",
+    "mood": "light",
+    "technique": "pressure-cook",
+    "primaryIngredient": "ground ginger",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "chicken",
+    "descriptor": "velvety molten",
+    "dishForm": "Wrap"
+  }
+}
