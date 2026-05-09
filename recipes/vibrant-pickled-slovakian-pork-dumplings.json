@@ -1,0 +1,92 @@
+{
+  "title": "Vibrant Pickled Slovakian Pork Dumplings",
+  "description": "A traditional Slovakian dish featuring pork dumplings with dill pickles, served in a bamboo tray. This meal prep friendly recipe is gluten free and perfect for a weeknight dinner.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "preferably lean"
+    },
+    {
+      "name": "dill pickles",
+      "amount": "1 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "malt vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "gluten free all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine ground pork, chopped dill pickles, malt vinegar, salt, and black pepper, and mix well with your hands until just combined.",
+    "In a separate bowl, whisk together gluten free flour and eggs, then add the mixture to the pork mixture and mix until a shaggy dough forms.",
+    "Gradually add the water to the dough and mix until the dough comes together in a ball.",
+    "Knead the dough on a floured surface for 5 minutes until smooth and elastic.",
+    "Divide the dough into 8 equal pieces and shape each piece into a ball.",
+    "Flatten each ball into a disk shape and place on a bamboo tray lined with parchment paper.",
+    "Steam the dumplings over boiling water for 15 minutes, or until cooked through.",
+    "Serve the dumplings hot with additional chopped dill pickles on top if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "meal-prep",
+    "one-pan",
+    "pork-recipes",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "vibrant-pickled-slovakian-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-pickled-slovakian-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:37:30Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "shaggy",
+    "mood": "meal-prep",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "dill pickles",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pork",
+    "descriptor": "Vibrant pickled",
+    "dishForm": "Dumplings"
+  }
+}
