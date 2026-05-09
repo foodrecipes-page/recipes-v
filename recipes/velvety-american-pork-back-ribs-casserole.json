@@ -1,0 +1,96 @@
+{
+  "title": "Velvety American Pork Back Ribs Casserole",
+  "description": "A comforting American dish featuring pork back ribs in a rich and velvety sauce, perfect for a cold winter night, halal-friendly and steam-cooked to perfection.",
+  "cuisine": "American",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork back ribs",
+      "amount": "2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "barbecue sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, combine the pork back ribs, onion, and garlic.",
+    "In a separate bowl, whisk together the barbecue sauce, chicken broth, brown sugar, smoked paprika, salt, and black pepper.",
+    "Pour the sauce mixture over the pork and onions, covering the pot with a lid.",
+    "Transfer the pot to the preheated oven and steam-cook for 2 hours, or until the meat is tender and falling off the bone.",
+    "Remove the pot from the oven and let it cool for 10 minutes.",
+    "Serve the ribs hot, garnished with chopped fresh parsley or thyme, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american-classics",
+    "comfort-food",
+    "halal-friendly",
+    "one-pot",
+    "pork-ribs",
+    "weeknight-dinners"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 32
+  },
+  "slug": "velvety-american-pork-back-ribs-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-american-pork-back-ribs-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:51:38Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "velvety",
+    "mood": "comforting",
+    "technique": "steam",
+    "primaryIngredient": "pork back ribs",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "pork back ribs",
+    "descriptor": "Velvety Comforting",
+    "dishForm": "Casserole"
+  }
+}
