@@ -1,0 +1,94 @@
+{
+  "title": "Vibrant Herbal Venezuelan Fish Ceviche",
+  "description": "A refreshing and exotic dish featuring herbal flavors and Venezuelan seasonings, this fish ceviche is perfect for adventurous eaters, and it is low in fat and calories. The addition of bhuna spice blend gives it a unique twist.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "halibut fillets",
+      "amount": "1 pound",
+      "notes": "fresh and sustainably sourced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "bhuna spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mixed herbal leaves",
+      "amount": "1/4 cup",
+      "notes": "such as parsley, basil, and dill"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "yellow pepper",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Cut the halibut fillets into small pieces and place them in a large bowl.",
+    "Pour the lime juice over the fish and make sure that all the pieces are coated with the juice.",
+    "Add the bhuna spice blend, mixed herbal leaves, red onion, and yellow pepper to the bowl and stir gently.",
+    "Season with salt and black pepper to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the fish to marinate.",
+    "Just before serving, stir the ceviche gently and adjust the seasoning if needed.",
+    "Serve the ceviche in small glasses or cups, garnished with additional herbal leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "herbal",
+    "high-protein",
+    "low-fat",
+    "seafood",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "vibrant-herbal-venezuelan-fish-ceviche",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-herbal-venezuelan-fish-ceviche",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:53:24Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "glassy-jelly",
+    "mood": "adventurous",
+    "technique": "bhuna",
+    "primaryIngredient": "fish seasoning",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "fish",
+    "descriptor": "Vibrant Herbal",
+    "dishForm": "Ceviche"
+  }
+}
