@@ -1,0 +1,105 @@
+{
+  "title": "Vibrant Spicy Japanese Udon Noodles",
+  "description": "A spicy and indulgent Japanese dish featuring udon noodles, herbes-de-provence, and a blend of Asian flavors, served in a traditional Korean brass bowl.",
+  "cuisine": "Japanese",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Udon noodles",
+      "amount": "200g",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Herbes-de-provence",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "toasted"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the udon noodles according to the package instructions.",
+    "In a large skillet, heat the vegetable oil over medium heat and saute the onion until translucent.",
+    "Add the garlic and ginger to the skillet and cook for an additional 1-2 minutes until fragrant.",
+    "Stir in the herbes-de-provence, gochujang, and soy sauce, and cook for 1 minute.",
+    "Add the cooked udon noodles to the skillet and toss to combine with the sauce.",
+    "Transfer the noodles to a Korean brass bowl and top with toasted sesame seeds and chopped green onions.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional green onions and sesame seeds if desired.",
+    "Steam the dish for 2-3 minutes to warm the brass bowl and noodles before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "halal-friendly",
+    "indulgent",
+    "japanese",
+    "noodle-dish",
+    "spicy",
+    "steamed"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "vibrant-spicy-japanese-udon-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-spicy-japanese-udon-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:41:50Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "steam",
+    "primaryIngredient": "herbes-de-provence",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "noodles",
+    "descriptor": "Vibrant Spicy",
+    "dishForm": "Udon Noodles"
+  }
+}
