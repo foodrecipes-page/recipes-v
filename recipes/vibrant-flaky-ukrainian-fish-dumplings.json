@@ -1,0 +1,96 @@
+{
+  "title": "Vibrant Flaky Ukrainian Fish Dumplings",
+  "description": "A traditional Ukrainian dish featuring fresh fish and flaky pastry, perfect for a festive meal. This pescatarian-friendly recipe is cooked to perfection in a tandoor oven.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "cod fish",
+      "amount": "1 pound",
+      "notes": "fresh and boneless"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup",
+      "notes": "fresh and chopped"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor oven to 400 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the flour, cold butter, and a pinch of salt, then use a pastry blender to work the butter into the flour until the mixture resembles coarse crumbs.",
+    "Add the chopped onion, dill, and a pinch of black pepper to the bowl and stir until well combined.",
+    "Add the beaten egg to the bowl and mix until the dough comes together in a ball.",
+    "Divide the dough into 8 equal pieces and roll each piece into a thin circle.",
+    "Place a tablespoon of cod fish in the center of each circle, then fold the dough over the filling to form a half-moon shape and press the edges together to seal the dumpling.",
+    "Place the dumplings in the preheated tandoor oven and cook for 20 minutes, or until the pastry is golden brown.",
+    "Serve the dumplings hot, garnished with additional chopped dill if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "fish-based",
+    "high-protein",
+    "one-pan",
+    "tandoor-cooked",
+    "ukrainian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "vibrant-flaky-ukrainian-fish-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-flaky-ukrainian-fish-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:52:29Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "flaky",
+    "mood": "festive",
+    "technique": "tandoor",
+    "primaryIngredient": "flour",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "fish",
+    "descriptor": "Vibrant Flaky",
+    "dishForm": "Dumplings"
+  }
+}
