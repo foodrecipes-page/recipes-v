@@ -1,0 +1,92 @@
+{
+  "title": "Vividly Grilled Italian Sausage Skewers",
+  "description": "A malty and chewy British dish featuring Italian fennel sausages, this recipe is perfect for a show-off dinner party and can be cooked on a robata grill, making it a great option for a special occasion, the dish is also buddhist-temple-friendly as it does not contain any non-vegetarian ingredients other than the sausage",
+  "cuisine": "British",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Italian fennel sausages",
+      "amount": "12",
+      "notes": "sweet Italian sausage with fennel seeds"
+    },
+    {
+      "name": "Malt vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat, about 400 degrees Fahrenheit",
+    "In a small bowl, whisk together malt vinegar and olive oil",
+    "Thread Italian fennel sausages onto skewers, leaving a small space between each sausage",
+    "Brush the skewers with the malt vinegar and olive oil mixture",
+    "Season with salt, black pepper, and minced garlic",
+    "Place the skewers on the robata grill and cook for 5 minutes per side, or until the sausages are cooked through",
+    "Steam the skewers over boiling water for an additional 2 minutes to achieve a mushimono-steam effect",
+    "Garnish with chopped fresh parsley and serve with lemon wedges on the side"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "buddhist-temple-friendly",
+    "grilled",
+    "sausages",
+    "show-off",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "vividly-grilled-italian-sausage-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vividly-grilled-italian-sausage-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:07:39Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "chewy",
+    "mood": "show-off",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "italian fennel sausages",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "sausages",
+    "descriptor": "Vividly Grilled",
+    "dishForm": "Skewers"
+  }
+}
