@@ -7731,6 +7731,20 @@
     "shard": "v"
   },
   {
+    "slug": "vibrant-savory-jamaican-pasta",
+    "title": "Vibrant Savory Jamaican Pasta",
+    "tags": [
+      "jamaican-cuisine",
+      "kid-friendly",
+      "one-pot",
+      "ovo-vegetarian",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
     "slug": "vibrant-savory-spanish-shrimp-pisto-manchego",
     "title": "Vibrant Savory Spanish Shrimp Pisto Manchego",
     "tags": [

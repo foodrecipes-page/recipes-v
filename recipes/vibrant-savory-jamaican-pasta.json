@@ -1,0 +1,100 @@
+{
+  "title": "Vibrant Savory Jamaican Pasta",
+  "description": "A savory and kid-friendly Jamaican dish featuring onions and al-dente pasta, this recipe is perfect for a weeknight dinner. It is ovo-vegetarian friendly and has a salty, aerated flavor.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "penne or fusilli work well"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "jamaican seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to package instructions until al-dente.",
+    "In a large skillet, heat the vegetable oil over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic to the skillet and cook for an additional minute, stirring constantly to prevent burning.",
+    "Stir in the jamaican seasoning, salt, and black pepper, and cook for 1 minute.",
+    "In a small bowl, beat the egg and set aside.",
+    "When the pasta is done cooking, drain it and add it to the skillet with the onion and garlic mixture.",
+    "Toss the pasta to combine with the onion and garlic mixture, then stir in the beaten egg.",
+    "Cook for an additional 2 minutes, until the egg is cooked through and the pasta is well coated.",
+    "If using cheese, stir it in until melted and well combined.",
+    "Serve the pasta hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican-cuisine",
+    "kid-friendly",
+    "one-pot",
+    "ovo-vegetarian",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "vibrant-savory-jamaican-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-savory-jamaican-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:30:30Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "aerated",
+    "mood": "kid-friendly",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "onions",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "pasta",
+    "descriptor": "Vibrant Savory",
+    "dishForm": "Pasta"
+  }
+}
