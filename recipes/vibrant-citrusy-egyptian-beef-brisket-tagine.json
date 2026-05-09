@@ -1,0 +1,111 @@
+{
+  "title": "Vibrant Citrusy Egyptian Beef Brisket Tagine",
+  "description": "A dense and festive Egyptian dish featuring beef brisket, cooked in a claypot with a blend of citrusy spices and yakimono-grilled to perfection, this gluten-free friendly tagine is perfect for special occasions.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono-grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, orange juice, cumin, coriander, cayenne pepper, salt, and black pepper.",
+    "Add the chopped onion, minced garlic, and grated ginger to the bowl and mix well.",
+    "Add the beef brisket pieces to the bowl and toss to coat with the marinade.",
+    "Transfer the beef mixture to a claypot and cover with a lid.",
+    "Grill the claypot over the preheated yakimono-grill for 20 minutes.",
+    "Reduce the heat to 300 degrees Fahrenheit and continue grilling for an additional 40 minutes.",
+    "Remove the claypot from the grill and let it cool for 10 minutes.",
+    "Serve the beef brisket tagine hot, garnished with fresh parsley and lemon wedges."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "citrusy-flavors",
+    "claypot-cooking",
+    "egyptian-cuisine",
+    "gluten-free",
+    "yakimono-grill"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "vibrant-citrusy-egyptian-beef-brisket-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-citrusy-egyptian-beef-brisket-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:11:55Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "dense",
+    "mood": "festive",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "beef brisket",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "beef brisket",
+    "descriptor": "Vibrant citrusy",
+    "dishForm": "Tagine"
+  }
+}
