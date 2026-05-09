@@ -1,0 +1,106 @@
+{
+  "title": "Velvety Smoked Uruguayan Vegetable Gratin",
+  "description": "A charred, tender, and nostalgic Uruguayan dish featuring coriander and beurre-monte, perfect for vegetarians. This gratin is a hearty and flavorful option for a weeknight dinner.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "eggplant",
+      "amount": "1 large",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "sliced into 1 inch pieces"
+    },
+    {
+      "name": "coriander",
+      "amount": "2 tbsp",
+      "notes": "freshly chopped"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1/4 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the zucchini, eggplant, and red bell pepper with olive oil, smoked paprika, salt, and black pepper until they are evenly coated.",
+    "Spread half of the vegetables in the bottom of a 9x13 inch baking dish.",
+    "In a small saucepan, melt the beurre-monte over low heat.",
+    "Add the chopped coriander to the beurre-monte and stir to combine.",
+    "Pour the coriander beurre-monte mixture over the vegetables in the baking dish.",
+    "Top the vegetables with the shredded mozzarella cheese.",
+    "Add the remaining vegetables on top of the cheese.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20 minutes, or until the top is golden brown and the vegetables are tender."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gratin",
+    "one-pan",
+    "smoked",
+    "uruguayan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "velvety-smoked-uruguayan-vegetable-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-smoked-uruguayan-vegetable-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:41:23Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "tender",
+    "mood": "nostalgic",
+    "technique": "beurre-monte",
+    "primaryIngredient": "coriander",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "vegetables",
+    "descriptor": "Velvety Smoked",
+    "dishForm": "Gratin"
+  }
+}
