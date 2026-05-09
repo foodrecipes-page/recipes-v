@@ -1,0 +1,83 @@
+{
+  "title": "Velvety Sweet Venezuelan Chocolate Mousse",
+  "description": "A romantic Venezuelan dessert featuring tempered chocolate and icing sugar, this mousse is a low-fat friendly treat with a glassy-jelly texture, made possible by fermenting the chocolate mixture.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dark chocolate",
+      "amount": "8 ounces",
+      "notes": "at least 70% cocoa"
+    },
+    {
+      "name": "icing sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg whites",
+      "amount": "4 large"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Melt the chocolate in a double boiler, stirring occasionally, until smooth.",
+    "In a separate bowl, whisk together the egg whites and granulated sugar until stiff peaks form.",
+    "In another bowl, whisk together the icing sugar and water until dissolved.",
+    "Add the vanilla extract to the icing sugar mixture and whisk to combine.",
+    "Allow the chocolate to cool slightly, then fold it into the egg white mixture until well combined.",
+    "Fold the icing sugar mixture into the chocolate mixture until smooth.",
+    "Pour the mixture into individual serving cups and refrigerate for at least 2 hours.",
+    "Before serving, allow the mousse to come to room temperature for 30 minutes.",
+    "Garnish with additional icing sugar, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate-dessert",
+    "easy-to-make",
+    "low-fat",
+    "romantic-dish",
+    "south-american"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "velvety-sweet-venezuelan-chocolate-mousse",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-sweet-venezuelan-chocolate-mousse",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:39:44Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "glassy-jelly",
+    "mood": "romantic",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "icing sugar",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chocolate",
+    "descriptor": "Velvety sweet",
+    "dishForm": "Mousse"
+  }
+}

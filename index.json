@@ -5394,6 +5394,20 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-sweet-venezuelan-chocolate-mousse",
+    "title": "Velvety Sweet Venezuelan Chocolate Mousse",
+    "tags": [
+      "chocolate-dessert",
+      "easy-to-make",
+      "low-fat",
+      "romantic-dish",
+      "south-american"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 30,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-syrian-uni-tagine",
     "title": "velvety syrian uni tagine",
     "tags": [
@@ -9338,6 +9352,21 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 50,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-umami-indian-paneer-rasmalai",
+    "title": "Vibrant Umami Indian Paneer Rasmalai",
+    "tags": [
+      "crowd-pleaser",
+      "gluten-free",
+      "indian-dessert",
+      "paneer-recipe",
+      "sesame-butter",
+      "special-occasion"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 65,
     "shard": "v"
   },
   {

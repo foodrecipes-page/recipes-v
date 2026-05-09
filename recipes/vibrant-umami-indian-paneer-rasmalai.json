@@ -1,0 +1,94 @@
+{
+  "title": "Vibrant Umami Indian Paneer Rasmalai",
+  "description": "A satvik-friendly, crowd-pleasing Indian dessert featuring crunchy sesame butter and brine-wet paneer, perfect for special occasions.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "1 block",
+      "notes": "Indian cheese"
+    },
+    {
+      "name": "sesame butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pistachios",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Soak the paneer in water for 30 minutes to make it brine-wet.",
+    "Crush the cardamom powder in a mortar and pestle to release its aroma.",
+    "Combine the milk, sugar, and salt in a saucepan and bring to a boil.",
+    "Reduce the heat and let it simmer for 10 minutes.",
+    "Remove the paneer from the water and cut it into small cubes.",
+    "Dip each paneer cube into the milk mixture and then roll it in sesame butter to coat.",
+    "Place the coated paneer cubes on a plate and refrigerate for 30 minutes.",
+    "Sprinkle chopped pistachios and a pinch of cardamom powder over the paneer cubes.",
+    "Drizzle rose water over the top and serve chilled."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "gluten-free",
+    "indian-dessert",
+    "paneer-recipe",
+    "sesame-butter",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "vibrant-umami-indian-paneer-rasmalai",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-umami-indian-paneer-rasmalai",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:39:48Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "brine-wet",
+    "primaryIngredient": "sesame butter",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "paneer",
+    "descriptor": "Vibrant Umami",
+    "dishForm": "Rasmalai"
+  }
+}
