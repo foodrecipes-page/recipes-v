@@ -1,0 +1,106 @@
+{
+  "title": "Vibrant Juicy Kenyan Peas Stew",
+  "description": "A pungent and juicy one-pot Kenyan dish featuring peas, this stew is high in protein and dehydrated to perfection. It is a delicious and nutritious meal option.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried green peas",
+      "amount": "1 cup",
+      "notes": "soaked overnight and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion, garlic, and ginger, and saute until the onion is translucent.",
+    "Add cumin powder, turmeric powder, salt, and black pepper, and stir for 1 minute.",
+    "Add soaked and drained peas, tomato paste, and 2 cups of water, and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 30 minutes or until the peas are tender.",
+    "Use an immersion blender to puree the stew to desired consistency.",
+    "Serve hot, garnished with chopped fresh cilantro.",
+    "Refrigerate or freeze leftovers for up to 3 days.",
+    "Reheat and serve.",
+    "Garnish with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dehydrated",
+    "gluten-free",
+    "high-protein",
+    "kenyan-cuisine",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "vibrant-juicy-kenyan-peas-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-juicy-kenyan-peas-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:33:13Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "juicy",
+    "mood": "one-pot",
+    "technique": "dehydrate",
+    "primaryIngredient": "peas",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "peas",
+    "descriptor": "Vibrant Juicy",
+    "dishForm": "Stew"
+  }
+}
