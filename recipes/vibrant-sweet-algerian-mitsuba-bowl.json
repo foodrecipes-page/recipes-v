@@ -3,7 +3,6 @@
   "description": "A sweet and crumbly post-workout Algerian dish featuring mitsuba, served in a lacquerware bowl, dairy-free friendly.",
   "cuisine": "Algerian",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "snack",
@@ -65,7 +64,6 @@
   "difficulty": "easy",
   "tags": [
     "algerian-cuisine",
-    "dairy-free",
     "healthy-snack",
     "post-workout",
     "sweet-treat",
@@ -88,7 +86,7 @@
     "mood": "post-workout",
     "technique": "mortar-pestle-pound",
     "primaryIngredient": "mitsuba",
-    "diet": "dairy-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Algerian",
     "mainIngredient": "mitsuba",

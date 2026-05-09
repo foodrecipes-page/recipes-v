@@ -3,8 +3,7 @@
   "description": "A fresh and aerated French dessert featuring red wine jelly and render-fat, suitable for sugar-free diets. This dish is perfect for special occasions and monsoon season.",
   "cuisine": "French",
   "diet": [
-    "sugar-free",
-    "gluten-free"
+    "sugar-free"
   ],
   "meal": "dessert",
   "ingredients": [

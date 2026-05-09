@@ -4,8 +4,7 @@
   "cuisine": "Kenyan",
   "diet": [
     "Whole30",
-    "Paleo",
-    "Vegan"
+    "Paleo"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -76,7 +75,6 @@
     "lunch",
     "one-pan",
     "paleo",
-    "vegan",
     "whole30"
   ],
   "nutrition": {

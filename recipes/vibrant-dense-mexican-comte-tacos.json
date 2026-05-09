@@ -2,10 +2,7 @@
   "title": "Vibrant Dense Mexican Comte Tacos",
   "description": "A peppery and dense Mexican dish featuring comte cheese, inspired by Oaxacan cuisine, with a Mediterranean twist, made with sous-vide cooking for tender results.",
   "cuisine": "Mexican",
-  "diet": [
-    "gluten-free",
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -55,7 +52,8 @@
     "Slice the cooked chicken breast into thin strips.",
     "Assemble the tacos by placing a slice of comte cheese, a few strips of chicken, some roasted peppers, and a sprinkle of cilantro onto a tortilla.",
     "Drizzle the tacos with lime juice and olive oil.",
-    "Serve immediately and enjoy."
+    "Serve immediately and enjoy.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 120,
@@ -64,11 +62,9 @@
   "difficulty": "medium",
   "tags": [
     "comte-cheese",
-    "gluten-free",
     "mexican-inspired",
     "one-pan",
-    "sous-vide",
-    "vegetarian"
+    "sous-vide"
   ],
   "nutrition": {
     "calories": 420,

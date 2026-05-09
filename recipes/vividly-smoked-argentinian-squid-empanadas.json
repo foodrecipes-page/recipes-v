@@ -3,8 +3,6 @@
   "description": "A tangy, juicy, cozy Argentinian dish featuring squid, shio-cure, egg-free-friendly. Perfect for a chilly evening.",
   "cuisine": "Argentinian",
   "diet": [
-    "gluten-free",
-    "vegetarian",
     "pescatarian"
   ],
   "meal": "dinner",

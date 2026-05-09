@@ -2,10 +2,7 @@
   "title": "Vibrant Crunchy Greek Lamb Kidney Skewers",
   "description": "A light and refreshing Greek dish featuring lamb kidney, wood-fired baked to perfection, with a vegan-friendly alternative, this recipe combines sour and crunchy elements for a unique taste experience.",
   "cuisine": "Greek",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -63,7 +60,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "greek-food",
     "high-protein",
     "mediterranean",

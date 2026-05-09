@@ -2,10 +2,7 @@
   "title": "Vanilla Sweet Cornish Bacon Full English Breakfast",
   "description": "A light and sour British dish featuring vanilla sugar, perfect for a family breakfast. Enjoy the combination of sweet and savory flavors in this Cornish twist on the classic full English breakfast.",
   "cuisine": "british",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {

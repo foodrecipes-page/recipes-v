@@ -3,7 +3,6 @@
   "description": "A rich, velvety, and citrusy Ukrainian dish made with potato starch, ideal for hangover recovery. Its brine-dry texture and vegan-friendly ingredients make it a unique breakfast option.",
   "cuisine": "Ukrainian",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "breakfast",
@@ -75,8 +74,7 @@
     "citrusy",
     "gluten-free",
     "hangover-cure",
-    "ukrainian",
-    "vegan"
+    "ukrainian"
   ],
   "nutrition": {
     "calories": 320,
@@ -95,7 +93,7 @@
     "mood": "hangover-cure",
     "technique": "brine-dry",
     "primaryIngredient": "potato starch",
-    "diet": "vegan",
+    "diet": "gluten-free",
     "region": null,
     "cuisineAdjective": "Ukrainian",
     "mainIngredient": "potato",

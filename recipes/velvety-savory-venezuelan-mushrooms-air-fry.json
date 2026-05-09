@@ -4,8 +4,7 @@
   "cuisine": "Venezuelan",
   "diet": [
     "low-fat",
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -87,7 +86,6 @@
   "difficulty": "medium",
   "tags": [
     "date-night",
-    "gluten-free",
     "low-fat",
     "mushroom",
     "one-pan",

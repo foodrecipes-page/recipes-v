@@ -3,7 +3,6 @@
   "description": "A cultured Uruguayan dish featuring tender Wagyu beef, a sweet and sticky glaze, and a side of roasted vegetables, perfect for a date night, and can be adapted to be vegetarian friendly by substituting the Wagyu with portobello mushrooms.",
   "cuisine": "Uruguayan",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -66,7 +65,6 @@
   "tags": [
     "dairy-free",
     "date-night",
-    "gluten-free",
     "high-protein",
     "one-pan",
     "weeknight"
@@ -88,7 +86,7 @@
     "mood": "date-night",
     "technique": "glaze",
     "primaryIngredient": "wagyu",
-    "diet": "vegetarian",
+    "diet": "dairy-free",
     "region": null,
     "cuisineAdjective": "Uruguayan",
     "mainIngredient": "wagyu",

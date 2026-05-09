@@ -3,8 +3,7 @@
   "description": "A rich and creamy British dish featuring stale bread and a blend of cheeses, perfect for a date night, with a dairy-free friendly option. It has a nice mustardy flavor and a cheese-pull effect.",
   "cuisine": "British",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -69,7 +68,6 @@
   "tags": [
     "british-cuisine",
     "comfort-food",
-    "dairy-free",
     "date-night",
     "one-pot",
     "vegan-friendly"
@@ -91,7 +89,7 @@
     "mood": "date-night",
     "technique": "dehydrate",
     "primaryIngredient": "stale bread",
-    "diet": "dairy-free",
+    "diet": "gluten-free",
     "region": null,
     "cuisineAdjective": "British",
     "mainIngredient": "cheese",

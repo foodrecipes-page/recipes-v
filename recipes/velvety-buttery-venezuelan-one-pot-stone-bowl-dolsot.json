@@ -3,8 +3,7 @@
   "description": "A classic Venezuelan arepa recipe made with sesame seed oil and served in a stone bowl. This dish is a great combination of flavors and textures, and is suitable for a vegetarian diet.",
   "cuisine": "venezuelan",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
