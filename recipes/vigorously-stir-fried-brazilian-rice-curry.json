@@ -1,0 +1,112 @@
+{
+  "title": "Vigorously Stir-Fried Brazilian Rice Curry",
+  "description": "A savory and dense post-workout dish inspired by Brazilian cuisine, featuring green curry paste and bonito flakes.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cooked Japanese rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Green curry paste",
+      "amount": "2 tablespoons",
+      "notes": "Thai or Brazilian green curry paste"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "Large onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bonito flakes",
+      "amount": "2 tablespoons",
+      "notes": "dried and shaved"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": "to balance flavors"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "for stir-frying and sauce"
+    },
+    {
+      "name": "Large red bell pepper",
+      "amount": "1",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in an iron teppan over medium-high heat.",
+    "Add the sliced onion and cook until translucent, about 3-4 minutes.",
+    "Add the sliced red bell pepper and cook for an additional 2 minutes.",
+    "Add the green curry paste and cook, stirring constantly, for 1-2 minutes.",
+    "Add the cooked Japanese rice and stir-fry for 2-3 minutes, breaking up any clumps.",
+    "Add the bonito flakes, soy sauce, sugar, and water, and stir-fry for an additional 2-3 minutes.",
+    "Season with salt to taste, then stir in the chopped cilantro.",
+    "Transfer the stir-fry to a serving dish and serve immediately.",
+    "Serve hot, garnished with additional cilantro if desired.",
+    "Enjoy your vigorously stir-fried Brazilian rice curry!",
+    "Leftovers can be refrigerated for up to 3 days or frozen for up to 2 months."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "curry",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "stir-fry",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 22,
+    "carbs": 70,
+    "fat": 22
+  },
+  "slug": "vigorously-stir-fried-brazilian-rice-curry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/vigorously-stir-fried-brazilian-rice-curry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T04:02:52Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "dense",
+    "mood": "post-workout",
+    "technique": "bonito-shave",
+    "primaryIngredient": "green-curry-paste",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "rice",
+    "descriptor": "Vigorously Stir-Fried",
+    "dishForm": "Curry"
+  }
+}
