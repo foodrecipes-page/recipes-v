@@ -1,0 +1,98 @@
+{
+  "title": "Velvety Glazed Uruguayan Wagyu Skewers",
+  "description": "A cultured Uruguayan dish featuring tender Wagyu beef, a sweet and sticky glaze, and a side of roasted vegetables, perfect for a date night, and can be adapted to be vegetarian friendly by substituting the Wagyu with portobello mushrooms.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wagyu beef",
+      "amount": "1 pound",
+      "notes": "or portobello mushrooms for vegetarian option"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2"
+    },
+    {
+      "name": "onions",
+      "amount": "1"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, or 400 degrees Fahrenheit.",
+    "In a small bowl, whisk together olive oil, honey, soy sauce, and balsamic vinegar to make the glaze.",
+    "Thread the Wagyu beef and vegetables onto skewers, leaving a little space between each piece.",
+    "Brush the glaze onto both sides of the beef and vegetables.",
+    "Season with salt and pepper to taste.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, or until the beef reaches an internal temperature of 130 degrees Fahrenheit.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve hot, garnished with fresh parsley and a side of roasted vegetables.",
+    "Roast the vegetables in the oven at 400 degrees Fahrenheit for 20-25 minutes, or until tender.",
+    "For a vegetarian option, substitute the Wagyu beef with portobello mushrooms and grill for 5-7 minutes per side, or until tender."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "date-night",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "velvety-glazed-uruguayan-wagyu-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-glazed-uruguayan-wagyu-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:21:58Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "cheese-pull",
+    "mood": "date-night",
+    "technique": "glaze",
+    "primaryIngredient": "wagyu",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "wagyu",
+    "descriptor": "Velvety Glazed",
+    "dishForm": "Skewers"
+  }
+}
