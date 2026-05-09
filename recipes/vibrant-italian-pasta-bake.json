@@ -1,0 +1,94 @@
+{
+  "title": "Vibrant Italian Pasta Bake",
+  "description": "A quick-fix Italian dish featuring garlicky and chewy pasta, cranberry, and render-fat, perfect for a lacto-vegetarian diet. This vibrant bake is sure to satisfy your cravings.",
+  "cuisine": "Italian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "penne or rigatoni work well"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "cranberry sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "rendered fat",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "grated mozzarella",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh basil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Cook the pasta according to package instructions until al dente.",
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Mince the garlic and saute it in olive oil until fragrant.",
+    "Combine cooked pasta, garlic, cranberry sauce, and rendered fat in a large bowl.",
+    "Mix well to combine, then stir in grated mozzarella, chopped basil, salt, and black pepper.",
+    "Transfer the pasta mixture to a baking dish and top with additional mozzarella if desired.",
+    "Bake in the preheated oven for 20 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "italian-food",
+    "lacto-vegetarian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "vibrant-italian-pasta-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-italian-pasta-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:58:10Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "render-fat",
+    "primaryIngredient": "cranberry",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "pasta",
+    "descriptor": "Vibrant Garlicky",
+    "dishForm": "Pasta"
+  }
+}

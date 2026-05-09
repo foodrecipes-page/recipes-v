@@ -7781,6 +7781,20 @@
     "shard": "v"
   },
   {
+    "slug": "vibrant-italian-pasta-bake",
+    "title": "Vibrant Italian Pasta Bake",
+    "tags": [
+      "comfort-food",
+      "italian-food",
+      "lacto-vegetarian",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 40,
+    "shard": "v"
+  },
+  {
     "slug": "vibrant-jamaican-tofu-custard",
     "title": "Vibrant Jamaican Tofu Custard",
     "tags": [
