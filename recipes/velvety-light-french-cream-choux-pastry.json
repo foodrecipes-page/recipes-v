@@ -1,0 +1,94 @@
+{
+  "title": "Velvety Light French Cream Choux Pastry",
+  "description": "A fresh and aerated French dessert featuring red wine jelly and render-fat, suitable for sugar-free diets. This dish is perfect for special occasions and monsoon season.",
+  "cuisine": "French",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "cold"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "render-fat"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "red wine jelly",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sugar substitute",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a medium saucepan, combine the water, milk, and butter, and bring to a boil.",
+    "Add the flour and salt to the saucepan, and stir to combine.",
+    "Remove the saucepan from the heat, and let cool for 5 minutes.",
+    "Add the eggs to the saucepan, one at a time, stirring to combine after each addition.",
+    "Transfer the dough to a piping bag, and pipe onto a baking sheet lined with parchment paper.",
+    "Bake the pastry for 15 minutes, then reduce the oven temperature to 350 degrees Fahrenheit and continue baking for an additional 10 minutes.",
+    "Remove the pastry from the oven, and let cool completely on a wire rack.",
+    "Drizzle the red wine jelly over the cooled pastry, and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "french-dessert",
+    "monsoon-season",
+    "render-fat-pastry",
+    "special-occasion",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "velvety-light-french-cream-choux-pastry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-light-french-cream-choux-pastry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:08:27Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "aerated",
+    "mood": "monsoon",
+    "technique": "render-fat",
+    "primaryIngredient": "red wine jelly",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "cream",
+    "descriptor": "Velvety Light",
+    "dishForm": "Choux Pastry"
+  }
+}
