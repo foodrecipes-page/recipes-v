@@ -1,0 +1,104 @@
+{
+  "title": "Velvety Rich Algerian Lemongrass Tagine",
+  "description": "A rich and comforting Algerian dish featuring lemongrass stalks in a velvety emulsified sauce, perfect for a plant-based friendly meal. This dish is light and flavorful, making it a great option for any time of day.",
+  "cuisine": "Algerian",
+  "diet": [
+    "plant-based",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lemongrass stalks",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the lemongrass stalks, chickpeas, vegetable broth, tomato paste, paprika, salt, and black pepper to the pot.",
+    "Stir to combine, then bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Remove the lemongrass stalks and use an immersion blender to emulsify the sauce until smooth.",
+    "Serve the tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "chickpeas",
+    "comfort-food",
+    "lemongrass",
+    "one-pot",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "velvety-rich-algerian-lemongrass-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-rich-algerian-lemongrass-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:40:18Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "emulsify",
+    "primaryIngredient": "lemongrass stalks",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lemongrass",
+    "descriptor": "Velvety Rich",
+    "dishForm": "Tagine"
+  }
+}
