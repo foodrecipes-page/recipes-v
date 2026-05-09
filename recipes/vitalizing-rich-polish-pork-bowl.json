@@ -1,0 +1,95 @@
+{
+  "title": "Vitalizing Rich Polish Pork Bowl",
+  "description": "A rich and tender Polish dish featuring pork, served in a Korean brass bowl, perfect for curing hangovers, made with cold water and steam, and low in carbs.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "cold water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine the pork shoulder, cold water, caraway seeds, black pepper, and salt.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 2 hours.",
+    "After 2 hours, remove the pork from the pot and let it cool.",
+    "Shred the cooled pork into bite-sized pieces and set aside.",
+    "In a small bowl, mix together the sour cream, garlic, and lemon juice.",
+    "To assemble the dish, place a portion of the shredded pork into a Korean brass bowl.",
+    "Spoon some of the sour cream mixture over the top of the pork.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "low-carb",
+    "one-pot",
+    "pork-recipe"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "vitalizing-rich-polish-pork-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vitalizing-rich-polish-pork-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:16:29Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "tender",
+    "mood": "hangover-cure",
+    "technique": "steam",
+    "primaryIngredient": "cold water",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "pork",
+    "descriptor": "Vitalizing Rich",
+    "dishForm": "Bowl"
+  }
+}
