@@ -1,0 +1,105 @@
+{
+  "title": "Vibrant Peppery Ethiopian Chicken Kik Alicha",
+  "description": "A spicy and flavorful Ethiopian dish featuring chicken cooked in a vibrant peppery sauce, perfect for a sick day pick-me-up. This recipe incorporates ssamjang for added depth of flavor.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "ssamjang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together ssamjang, berbere spice, black pepper, and salt.",
+    "Add the chicken to the bowl and toss to coat with the spice mixture.",
+    "Heat a large skillet over medium-high heat and add the chicken, cooking until browned on all sides.",
+    "Add the chopped onion, minced garlic, and grated ginger to the skillet and cook until the onion is translucent.",
+    "Add the chicken broth to the skillet and bring to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Stir in the chopped cilantro and cook for an additional 2 minutes.",
+    "Serve the chicken and sauce over a slate tile or other heat-resistant surface.",
+    "Dehydrate any excess sauce in the oven at 200 degrees Fahrenheit for 10 minutes to thicken."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "dairy-free",
+    "gluten-free",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "vibrant-peppery-ethiopian-chicken-kik-alicha",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-peppery-ethiopian-chicken-kik-alicha",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:02:31Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "snappy",
+    "mood": "sick-day",
+    "technique": "dehydrate",
+    "primaryIngredient": "ssamjang",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "chicken",
+    "descriptor": "Vibrant Peppery",
+    "dishForm": "Kik Alicha"
+  }
+}
