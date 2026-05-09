@@ -1,0 +1,104 @@
+{
+  "title": "Vibrant Crunchy Dutch Chicken Tagine",
+  "description": "A jammy and crunchy weeknight Dutch dish featuring red chilli flakes, cooked in a tagine style, and is low-calorie-friendly.",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "red chilli flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, red chilli flakes, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Heat a large Dutch oven over medium-high heat and add the chicken, cooking until browned on all sides.",
+    "Add the chopped onion to the pot and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the chopped apricots, chicken broth, and browned chicken to the pot, stirring to combine.",
+    "Cover the pot and transfer it to the preheated oven, cooking for 25 minutes, or until the chicken is cooked through.",
+    "Remove the pot from the oven and stir in the sliced almonds.",
+    "Serve the tagine hot, garnished with additional sliced almonds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "dutch-cuisine",
+    "low-calorie",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "vibrant-crunchy-dutch-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-crunchy-dutch-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:17:53Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "tagine-cook",
+    "primaryIngredient": "red chilli flakes",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "chicken",
+    "descriptor": "Vibrant Crunchy",
+    "dishForm": "Tagine"
+  }
+}
