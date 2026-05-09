@@ -1,0 +1,103 @@
+{
+  "title": "Vibrant Smoky Canadian Lamb Skewers",
+  "description": "A spicy and indulgent Canadian dish featuring smoky lamb, chives, and a macrobiotic-friendly blend of ingredients, perfect for a dinner party. This recipe combines the richness of lamb with the freshness of chives and the depth of smoky flavors.",
+  "cuisine": "Canadian",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "chives",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together smoked paprika, garlic powder, onion powder, salt, black pepper, and cayenne pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the spice mixture.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and lemon juice.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the lamb is cooked to an internal temperature of 145 degrees Fahrenheit.",
+    "While the lamb is cooking, mix the chopped chives with a pinch of salt and a squeeze of lemon juice.",
+    "Once the lamb is cooked, remove from the grill and sprinkle with the chive mixture.",
+    "Let the skewers rest for a few minutes before serving.",
+    "Serve the skewers hot, garnished with additional chives if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "grilled",
+    "lamb",
+    "macrobiotic",
+    "skewers",
+    "smoky",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "vibrant-smoky-canadian-lamb-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-smoky-canadian-lamb-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:36:24Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "shattering",
+    "mood": "indulgent",
+    "technique": "smoke-cold",
+    "primaryIngredient": "chives",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "lamb",
+    "descriptor": "Vibrant Smoky",
+    "dishForm": "Skewers"
+  }
+}
