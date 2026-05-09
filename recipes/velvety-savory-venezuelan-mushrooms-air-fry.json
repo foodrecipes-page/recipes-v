@@ -1,0 +1,121 @@
+{
+  "title": "Velvety Savory Venezuelan Mushrooms Air-Fry",
+  "description": "A date-night dish featuring shiitake mushrooms, served with a creamy, slightly sweet and spicy sauce. This recipe is perfect for a low-fat friendly, savory dinner.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-fat",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shiitake Mushrooms",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Venezuelan Creole Sauce (optional)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the air fryer basket to 375°F (190°C).",
+    "Add the garlic, onion, and red bell pepper to the air fryer basket and cook for 5 minutes, stirring occasionally.",
+    "Add the shiitake mushrooms to the air fryer basket and cook for 7 minutes, stirring occasionally.",
+    "Stir in the cilantro, lime juice, soy sauce, and chili flakes.",
+    "Season with salt and black pepper to taste.",
+    "If using Venezuelan Creole Sauce, stir it in and cook for an additional 1-2 minutes.",
+    "Serve hot, garnished with additional cilantro if desired.",
+    "Enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "gluten-free",
+    "low-fat",
+    "mushroom",
+    "one-pan",
+    "savory",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 8
+  },
+  "slug": "velvety-savory-venezuelan-mushrooms-air-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-savory-venezuelan-mushrooms-air-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:27:02Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "air-fry",
+    "primaryIngredient": "shiitake mushrooms",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "venezuelan",
+    "mainIngredient": "mushrooms",
+    "descriptor": "velvety savory",
+    "dishForm": "air-fry"
+  }
+}
