@@ -1,0 +1,119 @@
+{
+  "title": "velvety ukrainian mixed grain bake",
+  "description": "a rich ovo-vegetarian-friendly take on traditional ukrainian cuisine, featuring mixed grain and tempering chocolate. the perfect lazy-sunday dish for a cold winter day.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "ovo-vegetarian",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "mixed grain (250g buckwheat, 250g rye, 250g barley)",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "tempering chocolate (250g high-cocoa-content chocolate chips)",
+      "amount": "1",
+      "notes": "do not use milk chocolate for best results"
+    },
+    {
+      "name": "sour cream (250g)",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "large eggs (4)",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "granulated sugar (200g)",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "unsalted butter (100g)",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "vanilla extract (5ml)",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "sea salt (1g)",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "walnuts (100g)",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "dried cranberries (50g)",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "orange zest (5g)",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "coffee (25g)",
+      "amount": "1",
+      "notes": "optional, for added depth of flavor"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 180°c (350°f).",
+    "combine the mixed grain, sour cream, eggs, sugar, and melted butter in a large bowl. mix until well combined.",
+    "add the tempering chocolate, vanilla extract, and sea salt to the grain mixture. mix until the chocolate is evenly distributed.",
+    "fold in the chopped walnuts, dried cranberries, and orange zest. if using coffee, add it now.",
+    "pour the mixture into a greased 20cm (8-inch) round cake pan or springform pan.",
+    "bake for 35 minutes, then reduce the oven temperature to 160°c (325°f) and continue baking for an additional 20 minutes. a toothpick inserted into the center should come out clean.",
+    "remove the bake from the oven and let it cool in the pan for 10 minutes before transferring it to a wire rack to cool completely.",
+    "once the bake has cooled, dust it with powdered sugar and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 55,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "mixed-grain",
+    "one-pan",
+    "tempering-chocolate",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 68,
+    "fat": 22
+  },
+  "slug": "velvety-ukrainian-mixed-grain-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-ukrainian-mixed-grain-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:56:20Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "mixed grain",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "mixed grain",
+    "descriptor": "velvety",
+    "dishForm": "Bake"
+  }
+}

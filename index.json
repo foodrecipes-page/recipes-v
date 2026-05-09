@@ -3040,6 +3040,20 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-japanese-noodle-ramen",
+    "title": "Velvety Japanese Noodle Ramen",
+    "tags": [
+      "comfort-food",
+      "japanese-cuisine",
+      "lacto-vegetarian",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 25,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-juicy-thai-tofu-khanom-krok",
     "title": "Velvety Juicy Thai Tofu Khanom Krok",
     "tags": [
@@ -5673,6 +5687,21 @@
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 60,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-ukrainian-mixed-grain-bake",
+    "title": "velvety ukrainian mixed grain bake",
+    "tags": [
+      "dessert",
+      "mixed-grain",
+      "one-pan",
+      "tempering-chocolate",
+      "ukrainian",
+      "weeknight"
+    ],
+    "cuisine": "ukrainian",
+    "totalTimeMin": 75,
     "shard": "v"
   },
   {

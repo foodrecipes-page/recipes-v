@@ -1,0 +1,95 @@
+{
+  "title": "Velvety Japanese Noodle Ramen",
+  "description": "A sweet and flaky lacto-vegetarian-friendly Japanese noodle dish featuring gruyere and tandoor spices, perfect for a sick day.",
+  "cuisine": "Japanese",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ramen noodles",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Tandoor spice mix",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Bok choy",
+      "amount": "1 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring the vegetable broth to a boil in a large pot.",
+    "Add the Ramen noodles to the pot and cook for 3 minutes.",
+    "In a small bowl, whisk together the tandoor spice mix and sesame oil.",
+    "Add the sliced mushrooms and chopped bok choy to the pot and cook for 2 minutes.",
+    "Stir in the shredded gruyere cheese until melted and smooth.",
+    "Add the cooked noodles to the pot and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped green onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "japanese-cuisine",
+    "lacto-vegetarian",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "velvety-japanese-noodle-ramen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-japanese-noodle-ramen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:56:06Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "flaky",
+    "mood": "sick-day",
+    "technique": "tandoor",
+    "primaryIngredient": "gruy re",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "noodles",
+    "descriptor": "velvety",
+    "dishForm": "Ramen"
+  }
+}
