@@ -1,0 +1,105 @@
+{
+  "title": "Vinegar-Marinated Croatian Pork Burger",
+  "description": "Peppery, crispy, and packed with flavor, this burger is a popular Croatian dish, perfect for a hearty meal or a hangover cure.",
+  "cuisine": "croatian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, finely chopped",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "1 cup",
+      "notes": "for marinating"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Bread crumbs",
+      "amount": "1/2 cup",
+      "notes": "preferably Panko"
+    },
+    {
+      "name": "Egg, lightly beaten",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine chopped pork shoulder and apple cider vinegar. Let it marinate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Form the pork mixture into 4-6 patties, depending on your preference.",
+    "Add the patties to the preheated grill and cook for 5-6 minutes per side or until they reach an internal temperature of 160°F (71°C).",
+    "Meanwhile, toast the bread crumbs in a small pan over medium heat until lightly browned.",
+    "Assemble the burgers by spreading a layer of toasted bread crumbs on the bottom bun, followed by a cooked patty, a sprinkle of salt and black pepper, a few slices of garlic, and finally the top bun.",
+    "Brush the tops of the buns with olive oil and grill for an additional 1-2 minutes or until lightly toasted.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 120,
+  "cookTimeMin": 20,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "burger",
+    "croatian",
+    "easy-dinner",
+    "hangover-cure",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "vinegar-marinated-croatian-pork-burger",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/vinegar-marinated-croatian-pork-burger",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:43:24Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "hangover-cure",
+    "technique": "score-fat",
+    "primaryIngredient": "honey",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "pork",
+    "descriptor": "vinegar-marinated",
+    "dishForm": "Burger"
+  }
+}
