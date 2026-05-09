@@ -1,0 +1,103 @@
+{
+  "title": "Velvety Roasted Vietnamese Beef Pho Bo",
+  "description": "A rich and flavorful Vietnamese dish featuring roasted beef, graham cracker crumbs, and a mother-sauce-base, all cooked in a cataplana vessel, dairy-free-friendly and perfect for a special occasion, this pho bo is a twist on the classic Vietnamese noodle soup",
+  "cuisine": "vietnamese",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "2 pounds",
+      "notes": "slice into thin strips"
+    },
+    {
+      "name": "graham cracker crumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "star anise",
+      "amount": "2 whole"
+    },
+    {
+      "name": "cinnamon sticks",
+      "amount": "2"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 pound"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a large bowl, mix together the sliced beef, graham cracker crumbs, grated ginger, and sliced onion",
+    "Add the star anise, cinnamon sticks, fish sauce, and soy sauce to the bowl and mix well",
+    "Transfer the mixture to a cataplana vessel and pour in the beef broth",
+    "Cover the vessel with a lid and roast in the preheated oven for 2 hours",
+    "Remove the vessel from the oven and stir in the rice noodles",
+    "Return the vessel to the oven and roast for an additional 30 minutes",
+    "Remove the vessel from the oven and let it cool for 10 minutes",
+    "Serve the pho bo hot, garnished with chopped fresh herbs if desired"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "one-pot",
+    "roasted-beef",
+    "special-occasion",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "velvety-roasted-vietnamese-beef-pho-bo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-roasted-vietnamese-beef-pho-bo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:46:09Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "aerated",
+    "mood": "one-pot",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "graham cracker crumbs",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "beef",
+    "descriptor": "Velvety Roasted",
+    "dishForm": "Pho Bo"
+  }
+}
