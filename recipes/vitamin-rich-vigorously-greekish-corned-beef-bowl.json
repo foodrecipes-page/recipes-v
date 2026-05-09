@@ -1,0 +1,124 @@
+{
+  "title": "Vitamin-Rich Vigorously Greekish Corned Beef Bowl",
+  "description": "A post-workout bowl dish featuring corned beef, onions, and bell peppers in a winey, molten sauce served in a dolsot stone bowl.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Corned beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Red wine",
+      "amount": "1/4 cup",
+      "notes": "Cooked down to reduce alcohol content."
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": "2 tablespoons",
+      "notes": "Anti-inflammatory benefits from polyphenols."
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/2 cup",
+      "notes": "Optional topping."
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Optional garnish."
+    },
+    {
+      "name": "Dolsot stone bowl",
+      "amount": "",
+      "notes": "For serving."
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Sear the corned beef until browned on both sides, about 2 minutes per side.",
+    "Transfer the corned beef to a bain-marie with the wine and balsamic vinegar, and cook for 10-15 minutes, or until the liquid has reduced and the beef is tender.",
+    "While the beef is cooking, sauté the onion and bell pepper in the skillet until softened, about 5 minutes.",
+    "Add the garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Stir in the dried oregano, salt, and black pepper.",
+    "To assemble the bowls, place a portion of the corned beef in the bottom of the dolsot stone bowl, then top with the sautéed onion and bell pepper mixture, and finally with a dollop of Greek yogurt (if using).",
+    "Garnish with chopped parsley (if using)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "greek",
+    "high-protein",
+    "one-pan",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "vitamin-rich-vigorously-greekish-corned-beef-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/vitamin-rich-vigorously-greekish-corned-beef-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:25:40Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "molten",
+    "mood": "post-workout",
+    "technique": "bain-marie",
+    "primaryIngredient": "corned beef",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "greekish",
+    "mainIngredient": "corned beef",
+    "descriptor": "vitamin-rich vigorously",
+    "dishForm": "bowl"
+  }
+}
