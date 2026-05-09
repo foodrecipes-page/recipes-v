@@ -1,0 +1,99 @@
+{
+  "title": "Velvety Warm German Almond Casserole",
+  "description": "A savory and aerated German dish featuring almond flour and bonito shave, perfect for a cozy evening meal. This ayurvedic-tamasic-friendly recipe is designed to promote relaxation and comfort.",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups",
+      "notes": "finely ground"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "grated onion",
+      "amount": "1/2 cup",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "fine grind"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "full fat"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the almond flour, bonito flakes, and salt.",
+    "In a separate bowl, whisk together the eggs, melted butter, grated onion, and black pepper.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Pour in the heavy cream and stir until the mixture is smooth and aerated.",
+    "Pour the mixture into a 9x13 inch baking dish and smooth the top.",
+    "Bake for 35 minutes or until the casserole is puffed and golden brown.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "almond-flour",
+    "bonito-flakes",
+    "comfort-food",
+    "cozy-dinner",
+    "german-cuisine",
+    "relaxing-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 24,
+    "fat": 30
+  },
+  "slug": "velvety-warm-german-almond-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-warm-german-almond-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:07:53Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "aerated",
+    "mood": "cozy",
+    "technique": "bonito-shave",
+    "primaryIngredient": "almond flour",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "almonds",
+    "descriptor": "Velvety Warm",
+    "dishForm": "Casserole"
+  }
+}
