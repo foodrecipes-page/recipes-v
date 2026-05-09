@@ -1,0 +1,108 @@
+{
+  "title": "Vibrant Tunisian Lamb Tagine",
+  "description": "A peppery and crumbly Whole30-friendly Tunisian dish featuring peach juice, made with lamb and served on a hot stone plate, perfect for meal prep.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "Whole30",
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "peach juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, peach juice, cumin, coriander, black pepper, and salt.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Let the lamb marinate for at least 30 minutes.",
+    "In a large Dutch oven, heat 1 tablespoon of olive oil over medium-high heat.",
+    "Remove the lamb from the marinade and cook until browned on all sides.",
+    "Add the chopped onion to the pot and cook until softened.",
+    "Add the minced garlic and grated ginger to the pot and cook for 1 minute.",
+    "Cover the pot and transfer to the preheated oven.",
+    "Cook for 2 hours or until the lamb is tender.",
+    "Serve the lamb on a hot stone plate, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "hot-stone-plate",
+    "lamb",
+    "meal-prep",
+    "paleo",
+    "tunisian",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "vibrant-tunisian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-tunisian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:57:10Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crumbly",
+    "mood": "meal-prep",
+    "technique": "spherify",
+    "primaryIngredient": "peach juice",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lamb",
+    "descriptor": "Vibrant Peppery",
+    "dishForm": "Tagine"
+  }
+}
