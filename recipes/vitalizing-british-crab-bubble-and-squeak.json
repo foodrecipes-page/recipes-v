@@ -1,0 +1,105 @@
+{
+  "title": "Vitalizing British Crab Bubble And Squeak",
+  "description": "A savory, aerated, British dish featuring crab, nuka-pickle, and other halal-friendly ingredients, traditionally served as a hangover cure. This recipe combines the freshness of the sea with the comfort of a hearty meal.",
+  "cuisine": "British",
+  "diet": [
+    "halal"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "crab meat",
+      "amount": "1 cup",
+      "notes": "jumbo lump crab meat"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chives",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    }
+  ],
+  "instructions": [
+    "Boil the diced potatoes in a large pot of salted water until they are tender, then drain and set aside to cool.",
+    "In a large skillet, melt 1 tablespoon of butter over medium heat and saute the chopped onions until they are translucent.",
+    "Add the minced garlic to the skillet and cook for an additional minute, stirring constantly to prevent burning.",
+    "In a large bowl, combine the cooled potatoes, sauteed onions and garlic, crab meat, nuka-pickle, salt, and black pepper, and mix well.",
+    "In a separate bowl, beat the eggs until they are well mixed, then stir them into the potato and crab mixture until everything is fully incorporated.",
+    "Heat the remaining 1 tablespoon of butter in the same skillet used earlier over medium heat, then add the potato and crab mixture and press it down into a flat layer.",
+    "Cook the mixture for 4-5 minutes on the first side, or until the bottom is golden brown, then flip it over and cook for an additional 4-5 minutes, or until the other side is also golden brown.",
+    "Remove the skillet from the heat and stir in the chopped chives.",
+    "Serve the Vitalizing British Crab Bubble And Squeak hot, garnished with additional chives if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "british",
+    "halal",
+    "hangover-cure",
+    "one-pan",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "vitalizing-british-crab-bubble-and-squeak",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vitalizing-british-crab-bubble-and-squeak",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:29:02Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "aerated",
+    "mood": "hangover-cure",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "crustaceans",
+    "diet": "halal",
+    "region": "english",
+    "cuisineAdjective": "British",
+    "mainIngredient": "crab",
+    "descriptor": "Vitalizing",
+    "dishForm": "Bubble And Squeak"
+  }
+}
