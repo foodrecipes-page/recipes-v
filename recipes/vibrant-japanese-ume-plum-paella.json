@@ -1,0 +1,102 @@
+{
+  "title": "Vibrant Japanese Ume Plum Paella",
+  "description": "A floral and crisp Japanese-inspired paella dish featuring ume-plum, lardons-render, and high-protein friendly ingredients, cooked to perfection in a traditional paella pan. This kid-friendly dish is perfect for a weeknight dinner.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Japanese ume plums",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless, cut into bite-sized pieces"
+    },
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Heat the sesame oil in a large paella pan over medium-high heat.",
+    "Add the diced lardons and cook until crispy, then set aside.",
+    "Add the chicken breast to the paella pan and cook until browned, then set aside with the lardons.",
+    "Add the cooked rice to the paella pan, stirring to combine with the remaining oil and crispy bits.",
+    "Add the soy sauce, salt, and black pepper to the rice mixture, stirring to combine.",
+    "Add the pitted ume plums, cooked chicken, and crispy lardons back into the paella pan, stirring to combine.",
+    "Transfer the paella pan to the preheated oven and cook for 20 minutes, or until the rice is crispy and golden brown.",
+    "Remove the paella pan from the oven and sprinkle with chopped green onions.",
+    "Serve the Vibrant Japanese Ume Plum Paella hot, straight from the paella pan."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "japanese-cuisine",
+    "kid-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "vibrant-japanese-ume-plum-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-japanese-ume-plum-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:01:34Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crisp",
+    "mood": "kid-friendly",
+    "technique": "lardons-render",
+    "primaryIngredient": "ume-plum",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "ume-plum",
+    "descriptor": "Vibrant Crisp",
+    "dishForm": "Paella"
+  }
+}
