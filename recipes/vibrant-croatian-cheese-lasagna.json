@@ -1,0 +1,97 @@
+{
+  "title": "Vibrant Croatian Cheese Lasagna",
+  "description": "A malty, cheese-pull Croatian dish featuring khus khus, with a macrobiotic-friendly twist, this lasagna is sure to impress, showcasing a beautiful fold and vibrant colors. It is a perfect show-off dish for any occasion.",
+  "cuisine": "Croatian",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna noodles",
+      "amount": "8 ounces",
+      "notes": "whole wheat"
+    },
+    {
+      "name": "khus khus",
+      "amount": "1/4 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": "low fat"
+    },
+    {
+      "name": "malty cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "Cook the lasagna noodles according to the package instructions.",
+    "In a bowl, combine the ricotta cheese, malty cheese, and parmesan cheese.",
+    "Add the toasted khus khus, salt, and black pepper to the cheese mixture and stir well.",
+    "In a baking dish, create a thin layer of olive oil.",
+    "Arrange 4 lasagna noodles on top of the olive oil.",
+    "Spread half of the cheese mixture over the noodles.",
+    "Repeat the layers, starting with the noodles, then the cheese mixture, and finally another 4 noodles on top.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and bake for an additional 10 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "croatian-cuisine",
+    "macrobiotic-friendly",
+    "pasta-based",
+    "show-stopping"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "vibrant-croatian-cheese-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-croatian-cheese-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:37:29Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "cheese-pull",
+    "mood": "show-off",
+    "technique": "fold",
+    "primaryIngredient": "khus khus",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "cheese",
+    "descriptor": "Vibrant",
+    "dishForm": "Lasagna"
+  }
+}
