@@ -1,0 +1,96 @@
+{
+  "title": "Vibrant Earthy Spanish Chicken Paella",
+  "description": "A romantic Spanish dish featuring pickles and katsuramuki-cut ingredients, this paella is a hearty and flavorful meal, halal-friendly and perfect for special occasions",
+  "cuisine": "Spanish",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "pickles",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "katsuramuki-cut carrots",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Spanish rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat",
+    "Add the sliced pickles and cook until they start to brown",
+    "Add the katsuramuki-cut carrots and cook for 5 minutes",
+    "Add the chicken breast and cook until browned on all sides",
+    "Add the Spanish rice and stir to combine with the chicken and vegetables",
+    "Add the smoked paprika, garlic, salt, and black pepper, and stir to combine",
+    "Add 4 cups of water to the pan and bring to a boil",
+    "Reduce the heat to low and simmer, covered, for 20 minutes",
+    "Remove the pan from the heat and let it rest for 5 minutes"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "halal-friendly",
+    "one-pan",
+    "romantic-dinner",
+    "spanish-cuisine",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "vibrant-earthy-spanish-chicken-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-earthy-spanish-chicken-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:02:03Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "snappy",
+    "mood": "romantic",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "pickles",
+    "diet": "halal",
+    "region": "galician",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "Vibrant earthy",
+    "dishForm": "Paella"
+  }
+}
