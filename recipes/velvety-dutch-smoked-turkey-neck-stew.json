@@ -1,0 +1,104 @@
+{
+  "title": "Velvety Dutch Smoked Turkey Neck Stew",
+  "description": "A rich and savory stew featuring smoked turkey neck, dashi extract, and a blend of spices, all cooked to perfection in a banana leaf vessel. This dish is low in sodium and perfect for a solo dinner.",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked turkey neck",
+      "amount": "1 pound",
+      "notes": "skin removed"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "2 large leaves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, heat the olive oil over medium heat.",
+    "Add the chopped onion, carrots, and celery, and cook until the vegetables are tender.",
+    "Add the smoked turkey neck, dashi extract, low-sodium chicken broth, black pepper, and salt-free seasoning blend to the pot.",
+    "Stir to combine, then bring the mixture to a boil.",
+    "Reduce the heat to low, cover the pot, and transfer it to the preheated oven.",
+    "Braise the stew for 2 hours, or until the meat is tender and falling off the bone.",
+    "Remove the pot from the oven, and let it cool slightly.",
+    "Spoon the stew into the center of a banana leaf, and fold the leaf to form a packet.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "banana-leaf",
+    "comfort-food",
+    "dutch-cuisine",
+    "low-sodium",
+    "one-pot",
+    "smoked-turkey"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "velvety-dutch-smoked-turkey-neck-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-dutch-smoked-turkey-neck-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:37:59Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "molten",
+    "mood": "solo-dinner",
+    "technique": "dashi-extract",
+    "primaryIngredient": "smoked turkey neck",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "smoked turkey neck",
+    "descriptor": "velvety molten",
+    "dishForm": "Stew"
+  }
+}
