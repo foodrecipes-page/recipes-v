@@ -1,0 +1,96 @@
+{
+  "title": "Vibrant Wood Fired Brazilian Savoy Cabbage Bake",
+  "description": "This nutty and springy Brazilian dish is perfect for a sick day, featuring savoy cabbage and wood-fired baking in a cataplana vessel, adhering to ayurvedic sattvic friendly principles.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Savoy cabbage",
+      "amount": "1 head",
+      "notes": "chopped"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cashews",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood fired oven to 400 degrees Fahrenheit.",
+    "In a cataplana vessel, heat the coconut oil over medium heat.",
+    "Add the chopped onion and saute until translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chopped savoy cabbage and cook until it starts to soften.",
+    "Stir in the chopped cashews, salt, black pepper, and turmeric.",
+    "Transfer the cataplana vessel to the preheated wood fired oven.",
+    "Bake for 20 minutes or until the cabbage is tender.",
+    "Remove from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "comfort-food",
+    "gluten-free",
+    "one-pan",
+    "vegetarian-dish",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "vibrant-wood-fired-brazilian-savoy-cabbage-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-wood-fired-brazilian-savoy-cabbage-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:24:47Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "springy",
+    "mood": "sick-day",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "savoy cabbage",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "savoy cabbage",
+    "descriptor": "Vibrant Wood Fired",
+    "dishForm": "Bake"
+  }
+}
