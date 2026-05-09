@@ -1,0 +1,99 @@
+{
+  "title": "Vividly Smoked Argentinian Squid Empanadas",
+  "description": "A tangy, juicy, cozy Argentinian dish featuring squid, shio-cure, egg-free-friendly. Perfect for a chilly evening.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free",
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Squid tubes",
+      "amount": "12 oz"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Shio-cure",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the squid tubes, smoked paprika, garlic powder, salt, and black pepper.",
+    "Mix well to coat the squid evenly.",
+    "In a separate bowl, mix the all-purpose flour with the butter until it resembles coarse crumbs.",
+    "Gradually add the flour mixture to the squid mixture and mix until just combined.",
+    "Wrap the dough in plastic wrap and refrigerate for at least 30 minutes.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape, about 1/8 inch thick.",
+    "Place a tablespoon of the shio-cure in the center of each disk.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges to seal.",
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the empanadas to the skillet and cook for 2-3 minutes on each side, until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 8,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "egg-free",
+    "empanadas",
+    "squid",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "vividly-smoked-argentinian-squid-empanadas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/vividly-smoked-argentinian-squid-empanadas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T06:00:47Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "juicy",
+    "mood": "cozy",
+    "technique": "shio-cure",
+    "primaryIngredient": "squid",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Squid",
+    "descriptor": "Vividly Smoked",
+    "dishForm": "Empanadas"
+  }
+}
