@@ -1,0 +1,102 @@
+{
+  "title": "Velvety Soft Spanish Shrimp Gambas Al Ajillo",
+  "description": "A funky and cozy Spanish dish featuring shrimp, garlic, and dried mint, this recipe is perfect for a weeknight dinner. It has a pillowy texture and a rich flavor profile.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "dried mint",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion, carrots, and celery and cook until the vegetables are softened.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the shrimp and cook until they are pink and fully cooked.",
+    "Stir in the dried mint, lemon juice, salt, and black pepper.",
+    "Reduce the heat to low and simmer the mixture for 2 minutes.",
+    "Serve the gambas al ajillo hot, garnished with additional dried mint if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "low-carb",
+    "one-pan",
+    "quick-dinner",
+    "seafood",
+    "spanish-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "velvety-soft-spanish-shrimp-gambas-al-ajillo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-soft-spanish-shrimp-gambas-al-ajillo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:02:56Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "pillowy",
+    "mood": "cozy",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "dried mint",
+    "diet": "dash",
+    "region": "basque",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "shrimp",
+    "descriptor": "velvety soft",
+    "dishForm": "Gambas Al Ajillo"
+  }
+}
