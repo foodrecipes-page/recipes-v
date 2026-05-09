@@ -1,0 +1,93 @@
+{
+  "title": "Very Crispy Slovakian Fish Dumplings",
+  "description": "A traditional Slovakian dish featuring fish dumplings that are crispy on the outside and fluffy on the inside, made with custard powder and spherified for a unique texture. This recipe is perfect for a pescatarian meal prep.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fish",
+      "amount": "1 pound",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "custard powder",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the flour, custard powder, and a pinch of salt.",
+    "Gradually add in the water and mix until a smooth dough forms.",
+    "Knead the dough for 10 minutes until it becomes elastic.",
+    "Divide the dough into small pieces and shape into dumplings.",
+    "In a separate bowl, mix the sodium alginate with water to create a spherification bath.",
+    "Gently add the dumplings to the spherification bath and let them sit for 30 minutes.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Carefully add the dumplings to the hot oil and fry until golden brown.",
+    "Remove the dumplings from the oil and place on a paper towel lined plate to drain excess oil.",
+    "Serve the crispy fish dumplings hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "fish-based",
+    "meal-prep",
+    "pescatarian-friendly",
+    "slovakian-cuisine",
+    "spherified"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 28
+  },
+  "slug": "very-crispy-slovakian-fish-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/very-crispy-slovakian-fish-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:32:56Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "spherify",
+    "primaryIngredient": "custard powder",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "fish",
+    "descriptor": "Very Crispy",
+    "dishForm": "Dumplings"
+  }
+}
