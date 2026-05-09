@@ -193,6 +193,22 @@
     "shard": "v"
   },
   {
+    "slug": "vanilla-sweet-cornish-bacon-full-english-breakfast",
+    "title": "Vanilla Sweet Cornish Bacon Full English Breakfast",
+    "tags": [
+      "breakfast",
+      "british-cuisine",
+      "full-english",
+      "high-protein",
+      "kid-friendly",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "british",
+    "totalTimeMin": 30,
+    "shard": "v"
+  },
+  {
     "slug": "vegan-crunchy-filipino-steak-stir-fry",
     "title": "Vegan Crunchy Filipino Steak Stir-fry",
     "tags": [
