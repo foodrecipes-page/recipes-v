@@ -1,0 +1,105 @@
+{
+  "title": "Vibrant Snappy Kenyan Yang Bowl",
+  "description": "A fermented and snappy Kenyan dish featuring tamarind paste and char-grilled yang, served in an earthenware bowl, this recipe is ayurvedic rajasic friendly.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tamarind paste",
+      "amount": "1/4 cup",
+      "notes": "makham style"
+    },
+    {
+      "name": "yang",
+      "amount": "1 pound",
+      "notes": "char-grill cut"
+    },
+    {
+      "name": "brown rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "fermented vegetables",
+      "amount": "1 cup",
+      "notes": "such as cabbage or carrots"
+    },
+    {
+      "name": "earthenware bowl",
+      "amount": "1",
+      "notes": "for serving"
+    },
+    {
+      "name": "ayurvedic spices",
+      "amount": "2 tablespoons",
+      "notes": "such as cumin and coriander"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": "for grilling"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat and brush the yang with coconut oil.",
+    "Season the yang with salt, black pepper, and ayurvedic spices.",
+    "Grill the yang for 5-7 minutes per side, or until it is char-grilled and cooked through.",
+    "In a small bowl, mix together the tamarind paste and 2 tablespoons of water.",
+    "In a large earthenware bowl, combine the cooked brown rice, fermented vegetables, and char-grilled yang.",
+    "Drizzle the tamarind paste mixture over the top of the yang bowl and serve immediately.",
+    "Garnish with fresh herbs, such as cilantro or parsley, if desired.",
+    "Serve the vibrant snappy Kenyan yang bowl in the earthenware bowl and enjoy.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented-foods",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "vibrant-snappy-kenyan-yang-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-snappy-kenyan-yang-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:54:24Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "snappy",
+    "mood": "meal-prep",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "tamarind-paste-makham",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "yang",
+    "descriptor": "vibrant snappy",
+    "dishForm": "Bowl"
+  }
+}
