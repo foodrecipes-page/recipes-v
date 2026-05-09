@@ -1,0 +1,96 @@
+{
+  "title": "Vibrant Energizing Korean Redcurrants Gui",
+  "description": "A cultured and glassy-jelly Korean dish from the Gyeongsang region, featuring redcurrants and made with a mortar and pestle, perfect for an energizing snack. This egg-free friendly recipe is a unique and delicious treat.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "redcurrants",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "agar agar powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Rinse the redcurrants and pick out any stems or debris.",
+    "In a mortar and pestle, pound the redcurrants with the korean chili flakes until well combined.",
+    "In a small saucepan, combine the honey, rice vinegar, and water, and bring to a boil over high heat.",
+    "Reduce the heat to medium and simmer for 5 minutes.",
+    "In a small bowl, whisk together the agar agar powder and salt.",
+    "Add the agar agar mixture to the saucepan and whisk until dissolved.",
+    "Add the pounded redcurrant mixture to the saucepan and whisk until well combined.",
+    "Remove the saucepan from the heat and let cool to room temperature.",
+    "Pour the mixture into a 9x13 inch dish and refrigerate until set, about 3 hours.",
+    "Cut into desired shapes and garnish with pine nuts."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "fruit-based",
+    "gluten-free",
+    "healthy-snack",
+    "jelly-dish",
+    "korean-cuisine",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 0
+  },
+  "slug": "vibrant-energizing-korean-redcurrants-gui",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-energizing-korean-redcurrants-gui",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:00:59Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "glassy-jelly",
+    "mood": "energizing",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "redcurrants",
+    "diet": "egg-free",
+    "region": "gyeongsang",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "redcurrants",
+    "descriptor": "Vibrant Energizing",
+    "dishForm": "Gui"
+  }
+}

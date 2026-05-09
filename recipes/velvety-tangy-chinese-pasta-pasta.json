@@ -1,0 +1,135 @@
+{
+  "title": "Velvety Tangy Chinese Pasta",
+  "description": "A fusion of Chinese flavors with Italian pasta, featuring a velvety and tangy ferment-kimchi sauce.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Penne pasta",
+      "amount": "12 oz",
+      "notes": null
+    },
+    {
+      "name": "Ferment-kimchi",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a comal over medium-high heat.",
+    "Add 1-inch piece of ginger and 2 cloves of garlic, and cook for 30 seconds.",
+    "Add 12 oz of penne pasta and cook for 8-10 minutes or until al dente.",
+    "In a blender or food processor, combine 1 cup of ferment-kimchi, 2 tablespoons of soy sauce, 2 tablespoons of rice vinegar, 1 teaspoon of honey, and 1 teaspoon of sesame oil. Blend until smooth.",
+    "In a large skillet or wok, heat 1 tablespoon of vegetable oil over medium heat.",
+    "Pour the kimchi sauce into the skillet and stir to combine with 1/4 cup of chopped green onions and 1 teaspoon of sesame seeds.",
+    "Cook for 2-3 minutes or until the sauce has thickened slightly.",
+    "Add the cooked penne pasta to the skillet and stir to combine with the kimchi sauce.",
+    "Season with 1 teaspoon of salt, 1/4 teaspoon of black pepper, and 1/4 teaspoon of red pepper flakes.",
+    "Transfer the pasta to a serving dish and garnish with 1/4 cup of chopped scallions.",
+    "Cook for an additional 2 minutes or until the scallions are slightly wilted.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "fusional",
+    "high-protein",
+    "korean-chinese-fusion",
+    "one-pan",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "velvety-tangy-chinese-pasta-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-tangy-chinese-pasta-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:01:25Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "velvety",
+    "mood": "meal-prep",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "penne pasta",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pasta",
+    "descriptor": "velvety tangy",
+    "dishForm": "Pasta"
+  }
+}

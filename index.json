@@ -5204,6 +5204,21 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-tangy-chinese-pasta-pasta",
+    "title": "Velvety Tangy Chinese Pasta",
+    "tags": [
+      "fusional",
+      "high-protein",
+      "korean-chinese-fusion",
+      "one-pan",
+      "vegan-option",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-tangy-falafel-stir-fry",
     "title": "Velvety Tangy Falafel Stir-fry",
     "tags": [
@@ -6744,6 +6759,21 @@
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-energizing-korean-redcurrants-gui",
+    "title": "Vibrant Energizing Korean Redcurrants Gui",
+    "tags": [
+      "fruit-based",
+      "gluten-free",
+      "healthy-snack",
+      "jelly-dish",
+      "korean-cuisine",
+      "vegan-friendly"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 30,
     "shard": "v"
   },
   {
