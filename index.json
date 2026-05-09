@@ -1674,6 +1674,19 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-comforting-jamaican-lentils-stew",
+    "title": "Jamaican Lentils Stew",
+    "tags": [
+      "high-fiber",
+      "low-calorie",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 50,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-comforting-norwegian-beef-stew",
     "title": "Velvety Comforting Norwegian Beef Stew",
     "tags": [
@@ -7322,6 +7335,26 @@
     ],
     "cuisine": "jamaican",
     "totalTimeMin": 45,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-flaky-moroccan-mozzarella-bissara",
+    "title": "Vibrant Flaky Moroccan Mozzarella Bissara",
+    "tags": [
+      "breakfast",
+      "char-grilled",
+      "easy",
+      "flaky",
+      "flaky-crust",
+      "moroccan",
+      "moroccan-cuisine",
+      "mozzarella",
+      "one-pan",
+      "pescatarian",
+      "weeknight"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 40,
     "shard": "v"
   },
   {

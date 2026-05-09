@@ -1,0 +1,102 @@
+{
+  "title": "Jamaican Lentils Stew",
+  "description": "A comforting, savory stew from the Caribbean, featuring brown lentils and kombu-cold-extract, perfect for a weeknight dinner. This dish is low in calories and rich in protein and fiber.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brown Lentils",
+      "amount": "1 cup dried",
+      "notes": ""
+    },
+    {
+      "name": "Kombu",
+      "amount": "2 pieces",
+      "notes": "cold-extract used in place of broth"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Thyme",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "Allspice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Curry Powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute, until fragrant.",
+    "Add thyme, allspice, and curry powder and cook for 1 minute, until spices are fragrant.",
+    "Add lentils, kombu-cold-extract, and tomato paste. Bring to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Stir in coconut milk and continue to simmer for 10 minutes, until lentils are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-fiber",
+    "low-calorie",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 70,
+    "fat": 10
+  },
+  "slug": "velvety-comforting-jamaican-lentils-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-comforting-jamaican-lentils-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:57:41Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "velvety",
+    "mood": "comforting",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "brown lentils",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "lentils",
+    "descriptor": "velvety comforting",
+    "dishForm": "Stew"
+  }
+}

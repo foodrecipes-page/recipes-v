@@ -1,0 +1,105 @@
+{
+  "title": "Vibrant Flaky Moroccan Mozzarella Bissara",
+  "description": "A pescatarian-friendly, crowd-pleasing Moroccan dish featuring roasted, flaky mozzarella bissara, topped with char-grilled ingredients.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mozzarella balls",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "Sweet potatoes",
+      "amount": "2",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for roasting"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "smoked for extra depth"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper and arrange the sweet potatoes in a single layer.",
+    "Roast the sweet potatoes for 20-25 minutes, or until tender and lightly caramelized.",
+    "While the sweet potatoes are roasting, heat the olive oil in a large skillet over medium-high heat.",
+    "Add the mozzarella balls and cook until golden brown on all sides, about 3-4 minutes per side.",
+    "Transfer the mozzarella balls to a plate and season with salt, black pepper, and smoked paprika.",
+    "In the same skillet, add the chopped cilantro and cook for 1-2 minutes, until fragrant.",
+    "Stir in the lemon juice and cook for an additional 30 seconds.",
+    "To assemble the bissara, place a scoop of roasted sweet potatoes in the bottom of a Korean brass bowl, followed by a few mozzarella balls, a sprinkle of cilantro, and a drizzle of the lemon-cilantro sauce.",
+    "Repeat the layers one more time, ending with a layer of mozzarella balls on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "char-grilled",
+    "easy",
+    "flaky",
+    "flaky-crust",
+    "moroccan",
+    "moroccan-cuisine",
+    "mozzarella",
+    "one-pan",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 70,
+    "fat": 24
+  },
+  "slug": "vibrant-flaky-moroccan-mozzarella-bissara",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-flaky-moroccan-mozzarella-bissara",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:57:35Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "flaky",
+    "mood": "crowd-pleaser",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "mozzarella balls",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Mozzarella",
+    "descriptor": "Vibrant Flaky",
+    "dishForm": "Bissara"
+  }
+}
