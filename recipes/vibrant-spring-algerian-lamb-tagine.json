@@ -1,0 +1,103 @@
+{
+  "title": "Vibrant Spring Algerian Lamb Tagine",
+  "description": "A romantic and flavorful Algerian dish featuring lamb, truffle oil, and pickles, perfect for a spring evening. This paleo-friendly recipe is a unique blend of winey and springy flavors.",
+  "cuisine": "Algerian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, cut into 2 inch pieces"
+    },
+    {
+      "name": "truffle oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pickled turnips",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the bottom of a clay or ceramic tagine or a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until it is softened and lightly browned, about 8 minutes.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the lamb pieces and cook until they are browned on all sides, about 5 minutes.",
+    "Add the chicken broth, dried apricots, salt, and black pepper, and bring the mixture to a boil.",
+    "Reduce the heat to low, cover the tagine or Dutch oven, and simmer the lamb mixture for 1 1/2 hours, or until the lamb is tender.",
+    "Stir in the truffle oil and pickled turnips, and continue to simmer the mixture for an additional 10 minutes.",
+    "Serve the lamb tagine hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 100,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb-dishes",
+    "north-african-cuisine",
+    "one-pot",
+    "paleo-friendly",
+    "romantic-dinners",
+    "spring-recipes"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "vibrant-spring-algerian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-spring-algerian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:12:16Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "springy",
+    "mood": "romantic",
+    "technique": "pickle",
+    "primaryIngredient": "truffle oil",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lamb",
+    "descriptor": "Vibrant Spring",
+    "dishForm": "Tagine"
+  }
+}
