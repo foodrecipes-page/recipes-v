@@ -5891,6 +5891,20 @@
     "shard": "v"
   },
   {
+    "slug": "very-tender-uruguayan-beef-stew",
+    "title": "Very Tender Uruguayan Beef Stew",
+    "tags": [
+      "comfort-food",
+      "hearty-stew",
+      "one-pot",
+      "romantic-dinner",
+      "slow-cooked"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 210,
+    "shard": "v"
+  },
+  {
     "slug": "very-tender-uruguayan-white-navy-bean-stew",
     "title": "Very Tender Uruguayan White Navy Bean Stew",
     "tags": [

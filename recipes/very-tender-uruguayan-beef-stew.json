@@ -1,0 +1,108 @@
+{
+  "title": "Very Tender Uruguayan Beef Stew",
+  "description": "A hearty and romantic Uruguayan dish featuring tender beef and a blend of flavors, including mustard, slow cooked to perfection in a wok, inspired by Buddhist temple cuisine and nimono simmering techniques.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "brown mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "carrot",
+      "amount": "4 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Combine beef pieces and brown mustard in a large bowl, mixing well to coat the beef evenly.",
+    "Heat olive oil in a large wok over medium heat, then add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic to the wok and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the coated beef to the wok, cooking until browned on all sides, about 5 minutes.",
+    "Add the red wine to the wok, scraping up any browned bits from the bottom, then bring to a boil and cook until the liquid is reduced by half.",
+    "Add the beef broth, salt, and black pepper to the wok, stirring to combine, then bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 1/2 hours, or until the beef is very tender.",
+    "Add the peeled and cubed potato and peeled and sliced carrot to the wok, continuing to simmer, covered, for an additional 30 minutes, or until the vegetables are tender.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-stew",
+    "one-pot",
+    "romantic-dinner",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "very-tender-uruguayan-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/very-tender-uruguayan-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:11:28Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "romantic",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "mustard",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "Very Tender",
+    "dishForm": "Stew"
+  }
+}
