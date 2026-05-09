@@ -1,0 +1,94 @@
+{
+  "title": "Velvety Rich Croatian Beef Skewers",
+  "description": "A funky and velvety Croatian dish featuring red wine jelly, perfect for a show-off dinner party, high in protein and rich in flavor.",
+  "cuisine": "Croatian",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef sirloin",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "Red wine jelly",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, paprika, salt, and black pepper.",
+    "Add the beef cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated beef cubes onto skewers, leaving a small space between each cube.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the beef is cooked to 135 degrees Fahrenheit for medium-rare.",
+    "While the skewers are cooking, melt the red wine jelly in a small saucepan over low heat.",
+    "Once the skewers are cooked, brush the melted red wine jelly onto the beef cubes.",
+    "Serve the skewers hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "red-wine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "velvety-rich-croatian-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-rich-croatian-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:12:44Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "velvety",
+    "mood": "show-off",
+    "technique": "temper",
+    "primaryIngredient": "red wine jelly",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "beef",
+    "descriptor": "Velvety Rich",
+    "dishForm": "Skewers"
+  }
+}
