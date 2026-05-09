@@ -1,0 +1,103 @@
+{
+  "title": "Velvety Slovakian Egg Noodles Braise",
+  "description": "A traditional Slovakian dish featuring springy egg noodles in a rich and savory braise, perfect for a comforting meal. This recipe is sugar-free-friendly and packed with umami flavor.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "egg noodles",
+      "amount": "12 oz",
+      "notes": "wide and flat"
+    },
+    {
+      "name": "pork shoulder",
+      "amount": "2 lbs",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "2 cups",
+      "notes": "button, sliced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium-high heat and brown the pork shoulder pieces on all sides.",
+    "Remove the browned pork from the pot and set it aside, then add the chopped onion and cook until it is translucent.",
+    "Add the sliced mushrooms to the pot and cook until they release their liquid and start to brown.",
+    "Add the beef broth, tomato paste, caraway seeds, black pepper, and salt to the pot, stirring to combine.",
+    "Return the browned pork to the pot and bring the mixture to a boil, then reduce the heat to low and simmer for 1 1/2 hours.",
+    "Cook the egg noodles according to the package instructions and set them aside.",
+    "Stir the sour cream into the braise and cook for an additional 10 minutes, or until the sauce has thickened slightly.",
+    "Combine the cooked egg noodles and braise in a large serving dish and toss to combine.",
+    "Serve the Velvety Slovakian Egg Noodles Braise hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty",
+    "homestyle",
+    "nourishing",
+    "one-pot",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 35,
+    "fat": 29
+  },
+  "slug": "velvety-slovakian-egg-noodles-braise",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-slovakian-egg-noodles-braise",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:15:21Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "springy",
+    "mood": "nostalgic",
+    "technique": "braise",
+    "primaryIngredient": "egg noodles",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "egg noodles",
+    "descriptor": "velvety braised",
+    "dishForm": "Noodles"
+  }
+}

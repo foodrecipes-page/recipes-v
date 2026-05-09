@@ -1,0 +1,111 @@
+{
+  "title": "Very Comforting Middle Eastern Turkey Neck Falafel Bake",
+  "description": "A fresh and fluffy Middle Eastern dish featuring turkey neck in a falafel bake, perfect for a comforting meal. This Mediterranean-friendly recipe combines the flavors of the region with a unique twist.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turkey neck",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "spices",
+      "amount": "1 tablespoon",
+      "notes": "including cumin, coriander, and paprika"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a food processor, combine the chickpeas, onion, garlic, parsley, spices, salt, and pepper, and process until well combined.",
+    "Add the turkey neck to the food processor and process until the mixture is just combined, being careful not to overprocess.",
+    "Using your hands, shape the mixture into small falafel patties.",
+    "Place the falafel patties on a baking sheet lined with parchment paper, leaving about 1 inch of space between each patty.",
+    "Brush the tops of the falafel patties with olive oil.",
+    "Bake the falafel patties in the preheated oven for 25 minutes, or until they are golden brown and cooked through.",
+    "While the falafel patties are baking, prepare the sauce by mixing the lemon juice and a pinch of salt and pepper in a small bowl.",
+    "Remove the falafel patties from the oven and brush them with the lemon sauce.",
+    "Return the falafel patties to the oven and bake for an additional 5 minutes, or until the sauce is caramelized and the falafel patties are crispy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "baked-not-fried",
+    "dairy-free",
+    "falafel",
+    "gluten-free",
+    "middle-eastern",
+    "turkey-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "very-comforting-middle-eastern-turkey-neck-falafel-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/very-comforting-middle-eastern-turkey-neck-falafel-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:14:45Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "comforting",
+    "technique": "bake",
+    "primaryIngredient": "turkey neck",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "turkey neck",
+    "descriptor": "Very Comforting",
+    "dishForm": "Falafel Bake"
+  }
+}

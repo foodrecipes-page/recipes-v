@@ -4342,6 +4342,21 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-slovakian-egg-noodles-braise",
+    "title": "Velvety Slovakian Egg Noodles Braise",
+    "tags": [
+      "comfort-food",
+      "hearty",
+      "homestyle",
+      "nourishing",
+      "one-pot",
+      "sugar-free"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 150,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-slovakian-eggs-stir-fry",
     "title": "Earthly Velvety Slovakian Eggs Stir-Fry",
     "tags": [
@@ -5667,6 +5682,21 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 40,
+    "shard": "v"
+  },
+  {
+    "slug": "very-comforting-middle-eastern-turkey-neck-falafel-bake",
+    "title": "Very Comforting Middle Eastern Turkey Neck Falafel Bake",
+    "tags": [
+      "baked-not-fried",
+      "dairy-free",
+      "falafel",
+      "gluten-free",
+      "middle-eastern",
+      "turkey-recipes"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 50,
     "shard": "v"
   },
   {
