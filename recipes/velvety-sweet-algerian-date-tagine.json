@@ -1,0 +1,99 @@
+{
+  "title": "Velvety Sweet Algerian Date Tagine",
+  "description": "A rich and sweet Algerian dish featuring roasted dates and a hint of chocolate, perfect for special occasions. This recipe is ayurvedic rajasic friendly and uses palm sugar and nam tan pip for added flavor.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "1 pound",
+      "notes": "pitted"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "nam tan pip",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dark chocolate",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Rinse the dates and remove the pits, then place them in a baking dish.",
+    "In a saucepan, combine the palm sugar, nam tan pip, and water, and bring to a boil over medium heat.",
+    "Reduce the heat to low and simmer the sugar mixture for 10 minutes, or until it reaches 300 degrees Fahrenheit on a candy thermometer.",
+    "Remove the sugar mixture from the heat and stir in the chopped chocolate until it is melted and smooth.",
+    "Pour the chocolate mixture over the dates and toss to coat.",
+    "Cover the baking dish with aluminum foil and bake for 20 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the dates are caramelized and the sauce is bubbly.",
+    "Remove the tagine from the oven and stir in the coconut oil, vanilla extract, cinnamon, and ginger.",
+    "Let the tagine cool to room temperature before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "chocolate-dishes",
+    "date-recipes",
+    "gluten-free",
+    "special-occasion",
+    "vegetarian-desserts"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "velvety-sweet-algerian-date-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-sweet-algerian-date-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:12:11Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "glassy-jelly",
+    "mood": "crowd-pleaser",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "palm-sugar-nam-tan-pip",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "dates",
+    "descriptor": "Velvety sweet",
+    "dishForm": "Tagine"
+  }
+}
