@@ -1,0 +1,94 @@
+{
+  "title": "Vividly Crunchy Canadian Oats Pancakes",
+  "description": "A malty and crunchy Canadian dish featuring custard powder, perfect for a brunch mood, with a slow-cook and dash-friendly approach.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "2 cups",
+      "notes": "old fashioned"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "custard powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "malt powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the oats, flour, custard powder, malt powder, sugar, and salt.",
+    "In a separate bowl, whisk together the egg, milk, and melted butter.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined, being careful not to overmix.",
+    "Let the batter rest for 10 minutes to allow the oats to soak.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the skillet or griddle.",
+    "Cook the pancakes for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for an additional 1-2 minutes, until golden brown.",
+    "Serve the pancakes hot, garnished with fresh fruit or maple syrup if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "brunch-favorite",
+    "canadian-classic",
+    "crunchy-texture",
+    "oat-based",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "vividly-crunchy-canadian-oats-pancakes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vividly-crunchy-canadian-oats-pancakes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:03:12Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crunchy",
+    "mood": "brunch-mood",
+    "technique": "slow-cook",
+    "primaryIngredient": "custard powder",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "oats",
+    "descriptor": "Vividly Crunchy",
+    "dishForm": "Pancakes"
+  }
+}
