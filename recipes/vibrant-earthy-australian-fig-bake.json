@@ -1,0 +1,97 @@
+{
+  "title": "Vibrant Earthy Australian Fig Bake",
+  "description": "A low-calorie Australian dish featuring figs and earthy flavors, baked to perfection in a bamboo steamer. This meal-prep friendly recipe is perfect for a healthy snack or dessert.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Australian figs",
+      "amount": "12",
+      "notes": "fresh"
+    },
+    {
+      "name": "binchotan charcoal powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "almond milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the whole wheat flour, binchotan charcoal powder, and salt.",
+    "In a separate bowl, mix together the almond milk, coconut oil, honey, and egg.",
+    "Add the wet ingredients to the dry ingredients and stir until a dough forms.",
+    "Gently fold in the chopped walnuts and Australian figs.",
+    "Place the dough in a bamboo steamer lined with parchment paper.",
+    "Steam the bake in the preheated oven for 25 minutes.",
+    "Remove the bake from the oven and let it cool for 10 minutes.",
+    "Serve the Vibrant Earthy Australian Fig Bake warm, garnished with additional figs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "bamboo-steamer",
+    "healthy-snack",
+    "low-calorie",
+    "meal-prep",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "vibrant-earthy-australian-fig-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-earthy-australian-fig-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:32:25Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "flaky",
+    "mood": "meal-prep",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "figs",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "figs",
+    "descriptor": "Vibrant earthy",
+    "dishForm": "Bake"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "title": "Vibrant Charred Greek Spinach Spanakopita",
+  "description": "A charred, snappy, quick-fix Greek dish featuring unsalted pistachio and tempering chocolate, this spanakopita is a FODMAP-friendly delight. It combines the freshness of spinach with the crunch of pistachios.",
+  "cuisine": "Greek",
+  "diet": [
+    "FODMAP-friendly",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "unsalted pistachio",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "1 ounce",
+      "notes": "broken into pieces"
+    },
+    {
+      "name": "fresh spinach",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "filo dough",
+      "amount": "4 sheets",
+      "notes": "thawed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Chop the fresh spinach and set it aside in a bowl.",
+    "Mix the chopped spinach with crumbly feta cheese, chopped unsalted pistachio, and a pinch of salt and black pepper.",
+    "Layer the filo dough sheets on a flat surface, brushing each sheet with olive oil.",
+    "Place one quarter of the spinach mixture onto one end of the filo dough, leaving a small border around the edges.",
+    "Fold the filo dough over the spinach mixture to form a triangle, and repeat with the remaining ingredients.",
+    "Brush the tops of the spanakopita with olive oil and bake for 25 minutes, or until golden brown.",
+    "Remove the spanakopita from the oven and let it cool for a few minutes before serving.",
+    "Melt the tempering chocolate in a double boiler and drizzle it over the spanakopita for garnish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "greek-cuisine",
+    "lunch-ideas",
+    "quick-fix",
+    "spanakopita",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "vibrant-charred-greek-spinach-spanakopita",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-charred-greek-spinach-spanakopita",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:32:25Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "snappy",
+    "mood": "quick-fix",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "unsalted pistachio",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "spinach",
+    "descriptor": "Vibrant Charred",
+    "dishForm": "Spanakopita"
+  }
+}

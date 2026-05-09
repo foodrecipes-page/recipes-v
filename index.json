@@ -6335,6 +6335,21 @@
     "shard": "v"
   },
   {
+    "slug": "vibrant-charred-greek-spinach-spanakopita",
+    "title": "Vibrant Charred Greek Spinach Spanakopita",
+    "tags": [
+      "fodmap-friendly",
+      "greek-cuisine",
+      "lunch-ideas",
+      "quick-fix",
+      "spanakopita",
+      "vegetarian"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 45,
+    "shard": "v"
+  },
+  {
     "slug": "vibrant-charred-kenyan-chestnut-mushroom-skewers",
     "title": "Vibrant Charred Kenyan Chestnut Mushroom Skewers",
     "tags": [
@@ -6891,6 +6906,21 @@
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-earthy-australian-fig-bake",
+    "title": "Vibrant Earthy Australian Fig Bake",
+    "tags": [
+      "australian",
+      "bamboo-steamer",
+      "healthy-snack",
+      "low-calorie",
+      "meal-prep",
+      "vegetarian"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 45,
     "shard": "v"
   },
   {
