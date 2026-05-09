@@ -1,0 +1,99 @@
+{
+  "title": "Velvety Earthy Spanish Chicken Paella",
+  "description": "A flavorful and earthy Spanish dish featuring chicken, apricot jam, and dashi extract, cooked to perfection in a copper pot. This recipe is dairy-free friendly and perfect for a weeknight dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "apricot jam",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "uncooked Arborio rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large copper pot over medium-high heat.",
+    "Add the chicken to the pot and cook until browned on all sides, about 5-6 minutes.",
+    "Add the smoked paprika, saffron threads, salt, and black pepper to the pot and stir to combine.",
+    "Add the Arborio rice to the pot and stir to combine with the chicken and spices.",
+    "Add the vegetable broth, apricot jam, and dashi extract to the pot and bring to a boil.",
+    "Reduce the heat to low, cover the pot, and simmer for 20-25 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Remove the pot from the heat and let it rest, covered, for 5 minutes.",
+    "Fluff the paella with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "copper-pot",
+    "dairy-free",
+    "one-pan",
+    "spanish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "velvety-earthy-spanish-chicken-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-earthy-spanish-chicken-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:03:34Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "fluffy",
+    "mood": "weeknight",
+    "technique": "dashi-extract",
+    "primaryIngredient": "apricot jam",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "velvety earthy",
+    "dishForm": "Paella"
+  }
+}
