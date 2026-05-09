@@ -1,0 +1,95 @@
+{
+  "title": "Velvety Sweet Chinese Chicken Noodles",
+  "description": "A nutty and light Chinese dish featuring caramel sauce and pickle, made in a kadhai, this recipe is low in carbs and perfect for a quick dinner",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "shirataki noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "caramel sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a kadhai over medium-high heat",
+    "Add the chicken to the kadhai and cook until browned, about 5 minutes",
+    "Remove the chicken from the kadhai and set aside",
+    "Add the shirataki noodles to the kadhai and cook for 2 minutes, stirring frequently",
+    "Add the caramel sauce, rice vinegar, and pickled ginger to the kadhai and stir to combine",
+    "Return the chicken to the kadhai and stir to coat with the sauce",
+    "Cook for an additional 2 minutes, until the chicken is cooked through and the sauce is bubbly",
+    "Stir in the green onions and sesame seeds",
+    "Serve the chicken and noodles hot, garnished with additional green onions and sesame seeds if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese-food",
+    "gluten-free",
+    "healthy-recipes",
+    "low-carb",
+    "one-pan",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "velvety-sweet-chinese-chicken-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-sweet-chinese-chicken-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:10:56Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "shattering",
+    "mood": "light",
+    "technique": "pickle",
+    "primaryIngredient": "caramel sauce",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "chicken",
+    "descriptor": "velvety sweet",
+    "dishForm": "Noodles"
+  }
+}
