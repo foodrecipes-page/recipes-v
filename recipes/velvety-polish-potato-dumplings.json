@@ -1,0 +1,91 @@
+{
+  "title": "Velvety Polish Potato Dumplings",
+  "description": "A traditional Polish dish featuring floury potatoes and a buttery, chewy texture, perfect for a comforting dinner. This recipe is Buddhist-temple-friendly and incorporates char-grill-yang flavors.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "russet potatoes",
+      "amount": "4 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "char-grill-yang seasoning",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the grated potatoes, flour, melted butter, eggs, salt, black pepper, garlic powder, and char-grill-yang seasoning.",
+    "Mix the ingredients together until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 8 equal pieces and shape each piece into a ball.",
+    "Flatten each ball into a disk shape.",
+    "Bring a large pot of salted water to a boil and gently add the dumplings.",
+    "Cook the dumplings for 10 minutes or until they float to the surface.",
+    "Remove the dumplings from the water with a slotted spoon and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pot",
+    "polish-cuisine",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 14
+  },
+  "slug": "velvety-polish-potato-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-polish-potato-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:38:56Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "chewy",
+    "mood": "monsoon",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "floury potatoes",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "potatoes",
+    "descriptor": "velvety buttery",
+    "dishForm": "Dumplings"
+  }
+}
