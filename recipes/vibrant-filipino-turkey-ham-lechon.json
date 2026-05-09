@@ -1,0 +1,92 @@
+{
+  "title": "Vibrant Filipino Turkey Ham Lechon",
+  "description": "A festive Filipino dish featuring turkey ham, served with a mother-sauce-base, this lechon is a low-sodium-friendly and flavorful meal option. It combines the bitterness of some ingredients with the shattering crunch of others.",
+  "cuisine": "Filipino",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turkey ham",
+      "amount": "2 pounds",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "palm vinegar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2 leaves"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together palm vinegar, fish sauce, lime juice, and black pepper to make the mother sauce.",
+    "Add the sliced turkey ham to the bowl and marinate for at least 30 minutes.",
+    "Remove the turkey ham from the marinade and place it on a baking sheet lined with parchment paper.",
+    "Drizzle the remaining marinade over the turkey ham and sprinkle with minced garlic and chopped onion.",
+    "Place the bay leaves on top of the turkey ham and bake for 25 minutes.",
+    "Increase the oven temperature to 400 degrees Fahrenheit and continue baking for an additional 10 minutes.",
+    "Remove the turkey ham from the oven and let it rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-food",
+    "low-sodium",
+    "special-occasion",
+    "turkey-ham",
+    "vibrant-dish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "vibrant-filipino-turkey-ham-lechon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-filipino-turkey-ham-lechon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:11:13Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "shattering",
+    "mood": "festive",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "turkey ham",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "turkey ham",
+    "descriptor": "Vibrant Bitter",
+    "dishForm": "Lechon"
+  }
+}
