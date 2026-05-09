@@ -1,0 +1,95 @@
+{
+  "title": "Velvety Peruvian Chicken Legs Chupe De Camarones",
+  "description": "A yeasty, pillowy, lazy-sunday Peruvian dish featuring chicken legs, yuzu-cure, in a Jain-friendly form of chupe-de-camarones, served in a bento-box. This dish is a unique blend of Peruvian and Japanese flavors.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "jain",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken legs",
+      "amount": "4 pieces",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "peruvian aji amarillo peppers",
+      "amount": "2 peppers",
+      "notes": "chopped"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together yuzu juice, yeast, and 1 tablespoon of vegetable oil to create the yuzu-cure.",
+    "Add the chicken legs to the bowl and marinate for at least 30 minutes.",
+    "Heat the remaining vegetable oil in a large skillet over medium heat.",
+    "Remove the chicken from the marinade and cook in the skillet until browned on all sides.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Add the chopped peruvian aji amarillo peppers to the skillet and cook for an additional 2 minutes.",
+    "Season the chicken and vegetables with sea salt to taste.",
+    "Serve the chicken and vegetables in a bento-box, garnished with additional yuzu juice and peruvian aji amarillo peppers if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bento-box",
+    "gluten-free",
+    "jain-friendly",
+    "lazy-sunday",
+    "peruvian-cuisine",
+    "yeasty-dishes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "velvety-peruvian-chicken-legs-chupe-de-camarones",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-peruvian-chicken-legs-chupe-de-camarones",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:01:38Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "pillowy",
+    "mood": "lazy-sunday",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "chicken legs",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken legs",
+    "descriptor": "velvety yeasty",
+    "dishForm": "Chupe De Camarones"
+  }
+}
