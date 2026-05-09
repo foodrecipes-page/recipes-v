@@ -1,0 +1,98 @@
+{
+  "title": "Vibrant Citrusy Egyptian Veal Kebabs",
+  "description": "A citrusy and chewy post-workout Egyptian dish featuring veal, this recipe is perfect for a healthy dinner option, it is kosher-friendly and cooked to perfection on a salt-block using an air fryer.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "veal cubes",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together lemon juice, olive oil, garlic, ginger, paprika, salt, and black pepper.",
+    "Add the veal cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated veal cubes onto skewers, leaving a small space between each piece.",
+    "Place the skewers on the preheated salt-block and cook for 10 minutes, flipping halfway through.",
+    "Using the air fryer, cook the skewers for an additional 5 minutes, or until the veal reaches an internal temperature of 145 degrees Fahrenheit.",
+    "Remove the skewers from the air fryer and sprinkle with orange zest.",
+    "Serve the kebabs hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "healthy",
+    "high-protein",
+    "kosher",
+    "one-pan",
+    "veal",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "vibrant-citrusy-egyptian-veal-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-citrusy-egyptian-veal-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:57:34Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "chewy",
+    "mood": "post-workout",
+    "technique": "air-fry",
+    "primaryIngredient": "veal",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "veal",
+    "descriptor": "vibrant citrusy",
+    "dishForm": "Kebabs"
+  }
+}
