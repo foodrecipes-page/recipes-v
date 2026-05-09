@@ -1,0 +1,100 @@
+{
+  "title": "Velvety Norwegian Olive Paella",
+  "description": "A rich and creamy Norwegian dish featuring olives, cooked to perfection in a paella pan, with a velvety texture and buttery flavor, this ayurvedic-rajasic-friendly recipe is sure to impress.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "use a high quality oil"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pitted green olives",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": " Arborio rice",
+      "amount": "1 cup",
+      "notes": "rinsed"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "warm"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "grated Norwegian cheese",
+      "amount": "1/2 cup",
+      "notes": "such as Jarlsberg"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium heat.",
+    "Add the chopped onions and cook until they are translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the sliced olives and cook for 2 minutes.",
+    "Add the Arborio rice and cook for 1 minute, stirring constantly.",
+    "Add the warm vegetable broth, 1/2 cup at a time, stirring constantly and allowing each portion to absorb before adding the next.",
+    "After 20 minutes of cooking, stir in the melted butter and grated Norwegian cheese.",
+    "Continue cooking for an additional 5 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Remove the paella pan from the heat and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "norwegian-cuisine",
+    "one-pan",
+    "rajasic-friendly",
+    "vegetarian",
+    "velvety-texture"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "velvety-norwegian-olive-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-norwegian-olive-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:03:48Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "velvety",
+    "mood": "show-off",
+    "technique": "whisk",
+    "primaryIngredient": "olives",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "olives",
+    "descriptor": "velvety buttery",
+    "dishForm": "Paella"
+  }
+}
