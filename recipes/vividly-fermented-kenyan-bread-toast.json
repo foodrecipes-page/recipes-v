@@ -1,0 +1,92 @@
+{
+  "title": "Vividly Fermented Kenyan Bread Toast",
+  "description": "A traditional Kenyan dish featuring crusty bread, fermented to perfection, and cut into thin strips using the katsuramuki technique, making it a nostalgic and jain-friendly option.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "crusty bread",
+      "amount": "1 loaf",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the water, sugar, and yeast, and let it sit for 5 minutes until the yeast is activated.",
+    "Add the salt, and 2 cups of flour to the bowl, and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it ferment in a warm place for 2 hours.",
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Punch down the dough, and shape it into a round loaf.",
+    "Place the loaf on a baking sheet, and bake for 25 minutes until it is golden brown.",
+    "Let the bread cool for 10 minutes before slicing it into thin strips using the katsuramuki technique.",
+    "Heat the vegetable oil in a pan over medium heat, and toast the bread strips until they are crispy and golden brown.",
+    "Sprinkle the chili flakes over the toast if desired.",
+    "Serve the vividly fermented Kenyan bread toast warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-option",
+    "crusty-bread",
+    "fermented-food",
+    "jain-friendly",
+    "kenyan-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "vividly-fermented-kenyan-bread-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vividly-fermented-kenyan-bread-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:18:24Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "nostalgic",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "crusty bread",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "bread",
+    "descriptor": "Vividly fermented",
+    "dishForm": "Toast"
+  }
+}
