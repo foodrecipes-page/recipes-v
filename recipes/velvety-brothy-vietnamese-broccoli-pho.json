@@ -1,0 +1,118 @@
+{
+  "title": "Velvety Brothy Vietnamese Broccoli Pho",
+  "description": "A rich, comforting, and lazy-sunday Vietnamese dish featuring broccoli, perfect for a homey individual meal in mini cocottes. This recipe is ayurvedic tamasic-friendly.",
+  "cuisine": "vietnamese",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "broccoli",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "lemongrass",
+      "amount": "1 stalk",
+      "notes": "bruise with a spoon for extra flavor"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "mantequilla (or unsalted butter)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large saucepan over medium heat.",
+    "Add the onion and cook, stirring occasionally, for 5 minutes, or until softened.",
+    "Add the ginger and cook, stirring occasionally, for 1 minute, or until fragrant.",
+    "Add the garlic and lemongrass and cook, stirring occasionally, for 1 minute, or until fragrant.",
+    "Pour in the beef broth and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes, or until the broth is rich and flavorful.",
+    "Meanwhile, melt the mantequilla in a small saucepan over low heat.",
+    "Add the broccoli to the saucepan and cook, stirring occasionally, for 3-5 minutes, or until tender but still crisp.",
+    "Stir the coconut milk into the beef broth and cook for 2-3 minutes, or until heated through.",
+    "To assemble the pho, place a portion of the cooked broccoli in the bottom of a mini cocotte, then ladle the hot broth over the top, and top with the mantequilla and additional beef broth if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "lazy-sunday",
+    "one-pan",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 14,
+    "carbs": 24,
+    "fat": 24
+  },
+  "slug": "velvety-brothy-vietnamese-broccoli-pho",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-brothy-vietnamese-broccoli-pho",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:51:54Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "broccoli",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Broccoli",
+    "descriptor": "Velvety Brothy",
+    "dishForm": "Pho"
+  }
+}

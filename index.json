@@ -1257,6 +1257,20 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-brothy-vietnamese-broccoli-pho",
+    "title": "Velvety Brothy Vietnamese Broccoli Pho",
+    "tags": [
+      "high-protein",
+      "lazy-sunday",
+      "one-pan",
+      "vietnamese",
+      "weeknight"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 40,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-buttery-dates-pilaf",
     "title": "Velvety Buttery Dates Pilaf",
     "tags": [
