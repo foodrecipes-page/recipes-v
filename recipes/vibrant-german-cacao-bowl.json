@@ -1,0 +1,93 @@
+{
+  "title": "Vibrant German Cacao Bowl",
+  "description": "A Jain-friendly, fermented German dish featuring cacao and a mother sauce base, served in an earthenware bowl. This adventurous recipe combines juicy and vibrant flavors.",
+  "cuisine": "German",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cacao powder",
+      "amount": "1 cup",
+      "notes": "high quality, fair trade"
+    },
+    {
+      "name": "mother sauce",
+      "amount": "2 cups",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fermented berries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped nuts",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Start by preparing the mother sauce according to the recipe or package instructions.",
+    "In a large bowl, whisk together the cacao powder, coconut milk, and maple syrup until smooth.",
+    "Add the fermented berries, chopped nuts, and shredded coconut to the bowl and stir until well combined.",
+    "Add the prepared mother sauce to the bowl and stir until the mixture is smooth and creamy.",
+    "Add the vanilla extract and stir to combine.",
+    "Spoon the mixture into individual earthenware bowls.",
+    "Refrigerate the bowls for at least 2 hours to allow the flavors to meld.",
+    "Serve the Vibrant German Cacao Bowls chilled, garnished with additional fermented berries and chopped nuts if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cacao-based",
+    "coconut-milk",
+    "dessert-recipe",
+    "fermented-food",
+    "german-cuisine",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "vibrant-german-cacao-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-german-cacao-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:00:11Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "cacao",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "cacao",
+    "descriptor": "Vibrant juicy",
+    "dishForm": "Bowl"
+  }
+}
