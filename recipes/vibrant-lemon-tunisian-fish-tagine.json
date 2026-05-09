@@ -1,0 +1,106 @@
+{
+  "title": "Vibrant Lemon Tunisian Fish Tagine",
+  "description": "A winey and crumbly solo dinner Tunisian dish featuring lemon and papillote, prepared in an ayurvedic sattvic friendly way",
+  "cuisine": "Tunisian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fish",
+      "amount": "1 pound",
+      "notes": "fresh and skin removed"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "aluminum foil",
+      "amount": "1 sheet",
+      "notes": "for papillote"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "Line a baking sheet with the aluminum foil sheet",
+    "Place the cod fish in the center of the foil sheet",
+    "Drizzle the olive oil over the fish",
+    "Sprinkle the minced garlic, grated ginger, paprika, salt, and black pepper over the fish",
+    "Pour the lemon juice over the fish",
+    "Fold the foil over the fish to create a papillote",
+    "Place the baking sheet in the oven and bake for 12 minutes",
+    "Remove the baking sheet from the oven and sprinkle the chopped parsley over the fish",
+    "Serve the fish hot, straight from the papillote"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "fish-recipe",
+    "healthy-recipe",
+    "lemon-recipes",
+    "one-pan",
+    "quick-dinner",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "vibrant-lemon-tunisian-fish-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-lemon-tunisian-fish-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:01:50Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "papillote",
+    "primaryIngredient": "lemon",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "fish",
+    "descriptor": "Vibrant Lemon",
+    "dishForm": "Tagine"
+  }
+}
