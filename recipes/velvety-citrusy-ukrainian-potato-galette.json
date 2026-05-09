@@ -1,0 +1,105 @@
+{
+  "title": "Ukrainian Potato Galette",
+  "description": "A rich, velvety, and citrusy Ukrainian dish made with potato starch, ideal for hangover recovery. Its brine-dry texture and vegan-friendly ingredients make it a unique breakfast option.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Potato starch",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Non-dairy milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegan butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, whisk together potato starch, non-dairy milk, vegan butter, lemon juice, dill, salt, and black pepper until smooth.",
+    "Pour the mixture into a greased 9-inch pie dish.",
+    "Drizzle olive oil over the top and sprinkle with baking powder.",
+    "Bake for 35 minutes or until the edges are golden brown and the center is set.",
+    "Remove from oven and let cool for 10 minutes before serving.",
+    "Garnish with additional chopped dill, if desired.",
+    "Serve warm, topped with your favorite hangover-curing condiments, if needed.",
+    "Store leftovers in an airtight container for up to 3 days in the refrigerator or freeze for up to 2 months."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "citrusy",
+    "gluten-free",
+    "hangover-cure",
+    "ukrainian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "velvety-citrusy-ukrainian-potato-galette",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-citrusy-ukrainian-potato-galette",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:08:06Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "velvety",
+    "mood": "hangover-cure",
+    "technique": "brine-dry",
+    "primaryIngredient": "potato starch",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "potato",
+    "descriptor": "velvety citrusy",
+    "dishForm": "Galette"
+  }
+}
