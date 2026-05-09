@@ -1,0 +1,106 @@
+{
+  "title": "Vibrant Juicy Filipino Buckwheat Noodles",
+  "description": "A salty, juicy, and festive Filipino dish featuring buckwheat flour, beurre-monte, and Buddhist-temple-friendly ingredients, this vibrant noodle dish is perfect for any occasion. It combines the nutty flavor of buckwheat with the richness of beurre-monte and the brightness of Filipino spices.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "buddhist"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "buckwheat flour",
+      "amount": "2 cups",
+      "notes": "preferably toasted"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1/4 cup",
+      "notes": "or vegan alternative"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "calamansi juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Cook the buckwheat noodles according to package instructions and set aside.",
+    "In a large pan, heat the vegetable oil over medium heat and saute the onion until translucent.",
+    "Add the garlic and ginger to the pan and cook for 1 minute, stirring constantly.",
+    "Stir in the beurre-monte and cook for 2 minutes, until fragrant.",
+    "Add the soy sauce, calamansi juice, salt, and black pepper to the pan and stir to combine.",
+    "Add the cooked noodles to the pan and toss to coat with the sauce.",
+    "Cook for an additional 2 minutes, until the noodles are well coated.",
+    "Serve the noodles hot, garnished with chopped green onions and a sprinkle of toasted buckwheat flour.",
+    "Refrigerate or freeze any leftovers for up to 3 days.",
+    "Reheat the noodles in a pan with a little water or oil until warmed through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-cuisine",
+    "beurre-monte-sauce",
+    "buckwheat-noodles",
+    "buddhist-friendly",
+    "filipino-food",
+    "vegetarian-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "vibrant-juicy-filipino-buckwheat-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-juicy-filipino-buckwheat-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:18:46Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "juicy",
+    "mood": "festive",
+    "technique": "beurre-monte",
+    "primaryIngredient": "buckwheat flour",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "buckwheat",
+    "descriptor": "Vibrant Juicy",
+    "dishForm": "Noodles"
+  }
+}
