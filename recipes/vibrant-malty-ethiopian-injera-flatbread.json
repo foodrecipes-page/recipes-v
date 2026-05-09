@@ -1,0 +1,94 @@
+{
+  "title": "Vibrant Malt Ethiopian Injera Flatbread",
+  "description": "A malty, crunchy, light Ethiopian dish featuring salsa and salt-bake, perfect for snack time, this egg-free friendly flatbread is a delight to make and eat.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "teff flour",
+      "amount": "2 cups",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "malt powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salsa",
+      "amount": "1 cup",
+      "notes": "homemade or store bought"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine teff flour, all purpose flour, malt powder, salt, sugar, and yeast.",
+    "Gradually add water to the dry ingredients and mix until a smooth batter forms.",
+    "Cover the bowl with a cloth and let the mixture ferment in a warm place for 24 hours.",
+    "Preheat a non-stick skillet or injera pan over medium heat.",
+    "Using a ladle, pour a small amount of the batter onto the skillet and tilt to evenly coat the bottom.",
+    "Cook the injera for 1-2 minutes, until the edges start to curl and the surface is dry.",
+    "Repeat the process until all the batter is used up.",
+    "Serve the injera warm with salsa spooned over the top.",
+    "Let the injera cool completely before storing in an airtight container."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "african-cuisine",
+    "flatbread",
+    "gluten-free",
+    "high-fiber",
+    "snack-time",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "vibrant-malty-ethiopian-injera-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-malty-ethiopian-injera-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:52:01Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "salt-bake",
+    "primaryIngredient": "salsa",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "injera",
+    "descriptor": "Vibrant malty",
+    "dishForm": "Flatbread"
+  }
+}
