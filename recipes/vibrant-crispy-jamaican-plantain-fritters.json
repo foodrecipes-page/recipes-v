@@ -1,0 +1,95 @@
+{
+  "title": "Vibrant Crispy Jamaican Plantain Fritters",
+  "description": "Buttery and crispy Jamaican plantain fritters flavored with thyme, perfect for a crowd, and plant-based friendly. Score-fat is replaced with a plant-based alternative.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ripe plantains",
+      "amount": "4",
+      "notes": "peeled and mashed"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "plant-based milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the mashed plantains, flour, thyme, and baking powder.",
+    "Add the melted vegan butter, plant-based milk, and salt to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 8 equal pieces and shape each piece into a ball.",
+    "Flatten each ball into a disk shape.",
+    "Heat the vegetable oil in a deep frying pan over medium heat.",
+    "Fry the plantain disks in batches until they are golden brown and crispy.",
+    "Remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the fritters warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crispy-snacks",
+    "jamaican-cuisine",
+    "plant-based",
+    "snack-time",
+    "thyme-flavored",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "vibrant-crispy-jamaican-plantain-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-crispy-jamaican-plantain-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:54:37Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "crowd-pleaser",
+    "technique": "score-fat",
+    "primaryIngredient": "thyme",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "plantains",
+    "descriptor": "Vibrant Crispy",
+    "dishForm": "Fritters"
+  }
+}
