@@ -1,0 +1,106 @@
+{
+  "title": "Velvety Norwegian Salmon Pasta",
+  "description": "Indulge in this rich and creamy Norwegian salmon pasta, featuring tender salmon and velvety sauce, perfect for a special occasion.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "4",
+      "notes": "wild caught, skin removed"
+    },
+    {
+      "name": "fettuccine pasta",
+      "amount": "12 oz"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "shallots",
+      "amount": "2",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dill",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous vide water bath to 120 degrees Fahrenheit.",
+    "Season the salmon fillets with salt, black pepper, and dried dill.",
+    "Seal the salmon fillets in a sous vide bag and cook for 20 minutes.",
+    "Bring a large pot of salted water to a boil and cook the fettuccine pasta according to package instructions.",
+    "In a large skillet, melt the unsalted butter over medium heat and saute the chopped shallots and minced garlic until softened.",
+    "Add the heavy cream to the skillet and stir to combine with the shallot and garlic mixture.",
+    "Bring the cream mixture to a simmer and cook until slightly reduced, stirring occasionally.",
+    "Stir in the lemon zest and cook for an additional minute.",
+    "Remove the cooked salmon from the sous vide bag and flake into large pieces.",
+    "Add the cooked fettuccine pasta to the cream sauce and toss to combine.",
+    "Divide the pasta among plates and top with the flaked salmon."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cream-sauce",
+    "indulgent-meal",
+    "norwegian-cuisine",
+    "seafood-pasta",
+    "sous-vide",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 32
+  },
+  "slug": "velvety-norwegian-salmon-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-norwegian-salmon-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:45:50Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "bouncy-qq",
+    "mood": "indulgent",
+    "technique": "sous-vide",
+    "primaryIngredient": "seasoning",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "salmon",
+    "descriptor": "Velvety",
+    "dishForm": "Pasta"
+  }
+}
