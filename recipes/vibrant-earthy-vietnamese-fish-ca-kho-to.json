@@ -1,0 +1,98 @@
+{
+  "title": "Vibrant Earthy Vietnamese Fish Ca Kho To",
+  "description": "A pescatarian friendly Vietnamese dish featuring marinated fish cooked in a cast iron skillet, perfect for a post workout meal. This earthy and crumbly Ca Kho To is made with pecorino and served with steamed vegetables.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish fillets",
+      "amount": "4",
+      "notes": "any white fish"
+    },
+    {
+      "name": "pecorino cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the cast iron skillet over medium high heat.",
+    "In a large bowl, whisk together fish sauce, soy sauce, brown sugar, and black pepper to make the marinade.",
+    "Add the fish fillets to the marinade and coat evenly.",
+    "Let the fish marinate for at least 30 minutes.",
+    "Remove the fish from the marinade and cook in the preheated skillet for 4 minutes per side.",
+    "While the fish is cooking, mix the crumbled pecorino cheese with chopped scallions.",
+    "Once the fish is cooked, top each fillet with the pecorino and scallion mixture.",
+    "Serve the fish hot with steamed vegetables.",
+    "Garnish with additional scallions and pecorino cheese if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-meal",
+    "high-protein",
+    "one-pan",
+    "pescatarian-friendly",
+    "post-workout",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "vibrant-earthy-vietnamese-fish-ca-kho-to",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-earthy-vietnamese-fish-ca-kho-to",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:36:59Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "marinate",
+    "primaryIngredient": "pecorino",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "fish",
+    "descriptor": "vibrant earthy",
+    "dishForm": "Ca Kho To"
+  }
+}
