@@ -1,0 +1,92 @@
+{
+  "title": "Velvety Rich Slovakian Meat Dumplings",
+  "description": "Indulgent Slovakian dish featuring fermented and aerated meat dumplings made with vegetable shortening and rest-meat, suitable for a satvik-friendly diet. This dish is a hearty and comforting meal.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vegetable shortening",
+      "amount": "1 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "rest-meat",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the chilled vegetable shortening and ground rest-meat, mixing until just combined.",
+    "In a separate bowl, whisk together the flour, salt, and black pepper.",
+    "Add the dry ingredients to the meat mixture and mix until a shaggy dough forms.",
+    "Gradually add the water to the dough, mixing until the dough comes together in a ball.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it ferment in a warm place for 2 hours.",
+    "After fermentation, punch down the dough and divide it into small balls.",
+    "Roll out each ball into a thin circle and place a tablespoon of nutritional yeast in the center.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal.",
+    "Bring a large pot of salted water to a boil and gently add the dumplings to the pot.",
+    "Cook the dumplings for 10-15 minutes, or until they float to the surface."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty",
+    "homemade",
+    "meat-dumplings",
+    "slovakian",
+    "traditional"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "velvety-rich-slovakian-meat-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-rich-slovakian-meat-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:22:34Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "aerated",
+    "mood": "indulgent",
+    "technique": "rest-meat",
+    "primaryIngredient": "vegetable shortening",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "meat",
+    "descriptor": "Velvety Rich",
+    "dishForm": "Dumplings"
+  }
+}
