@@ -1,0 +1,110 @@
+{
+  "title": "Vibrant Shattering Greek Pears Horiatiki Salad",
+  "description": "A refreshing and nostalgic Greek dish featuring sashimi-cut pears, this salad is a perfect combination of herbal flavors and crunchy texture, diabetic-friendly and made in a cast-iron skillet.",
+  "cuisine": "Greek",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pears",
+      "amount": "4",
+      "notes": "sashimi-cut"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 cups",
+      "notes": "diced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the cast-iron skillet over medium heat.",
+    "In a large bowl, combine the diced tomatoes, sliced cucumber, and thinly sliced red onion.",
+    "Add the sashimi-cut pears to the bowl and gently toss to combine.",
+    "In a small bowl, whisk together the extra virgin olive oil, lemon juice, and dried oregano.",
+    "Pour the dressing over the pear and vegetable mixture and toss to coat.",
+    "Crumble the feta cheese over the top of the salad and sprinkle with pitted kalamata olives.",
+    "Season with salt and pepper to taste.",
+    "Transfer the salad to the preheated cast-iron skillet and serve immediately.",
+    "Garnish with additional oregano and lemon wedges, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "greek-cuisine",
+    "healthy",
+    "one-pan",
+    "refreshing"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "vibrant-shattering-greek-pears-horiatiki-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-shattering-greek-pears-horiatiki-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:44:47Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shattering",
+    "mood": "nostalgic",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "pears",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "pears",
+    "descriptor": "vibrant shattering",
+    "dishForm": "Horiatiki Salad"
+  }
+}
