@@ -1,0 +1,105 @@
+{
+  "title": "crunchy beurre-monte shattering corn tortillas tacos",
+  "description": "Japanese-inspired brunch tacos made with crunchy corn tortillas, tangy beurre-monte, and pickled shiitake mushrooms.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "corn tortillas",
+      "amount": "8"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound"
+    },
+    {
+      "name": "beurre-monte ingredients:",
+      "amount": "",
+      "notes": "see separate ingredient list",
+      "subingredients": [
+        {
+          "name": "beurre noisette",
+          "amount": "2 tablespoons"
+        },
+        {
+          "name": "yuzu juice",
+          "amount": "2 tablespoons"
+        }
+      ]
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "4 tablespoons",
+      "notes": "see beurre-monte ingredients"
+    },
+    {
+      "name": "pickled shiitake mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Make the beurre-monte ingredients by melting the beurre noisette in a small saucepan and whisking in the yuzu juice.",
+    "Make the toasted sesame seeds by heating a small skillet and sprinkling in the sesame seeds, stirring frequently.",
+    "Make the pickled shiitake mushrooms by heating a small saucepan with the sesame oil and soy sauce and simmering the mushrooms for 2 minutes.",
+    "Cut the corn tortillas into quarters and fry in a deep frying basket until crunchy.",
+    "Combine the beurre noisette and yuzu juice in a bowl and whisk until thickened.",
+    "Assemble the tacos by placing a few pieces of the crunchy corn tortillas on a plate, topping with pickled shiitake mushrooms, scallions, and a drizzle of beurre-monte.",
+    "Sprinkle the toasted sesame seeds on top of each taco and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "brunch",
+    "high-protein",
+    "japanese",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 30,
+    "fat": 24
+  },
+  "slug": "vibrant-shattering-japanese-corn-tortillas-tacos",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-shattering-japanese-corn-tortillas-tacos",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T02:04:30Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "shattering",
+    "mood": "brunch-mood",
+    "technique": "beurre-monte",
+    "primaryIngredient": "corn tortillas",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "corn tortillas",
+    "descriptor": "Vibrant Shattering",
+    "dishForm": "Tacos"
+  }
+}
