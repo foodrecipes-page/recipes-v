@@ -1,0 +1,96 @@
+{
+  "title": "Vibrant Smoky Portuguese Chicken Kebabs",
+  "description": "Smoky and juicy Portuguese chicken kebabs featuring plum sauce, double-fry technique, and jain-friendly ingredients, perfect for a show-off dinner party.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "jain",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "plum sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together plum sauce, olive oil, smoked paprika, garlic powder, salt, and black pepper.",
+    "Add the chicken pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Double-fry the chicken kebabs by first baking them in the oven for 15 minutes, then finishing them off in a hot skillet with a little oil until crispy and golden brown.",
+    "Brush the kebabs with lemon juice during the last minute of cooking.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-party",
+    "gluten-free",
+    "jain-friendly",
+    "kebabs",
+    "portuguese-cuisine",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "vibrant-smoky-portuguese-chicken-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-smoky-portuguese-chicken-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:36:25Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "juicy",
+    "mood": "show-off",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "plum sauce",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "chicken",
+    "descriptor": "Vibrant Smoky",
+    "dishForm": "Kebabs"
+  }
+}
