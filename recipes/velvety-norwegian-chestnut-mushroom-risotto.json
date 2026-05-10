@@ -1,0 +1,111 @@
+{
+  "title": "Velvety Norwegian Chestnut Mushroom Risotto",
+  "description": "A creamy and festive Norwegian dish featuring chestnut mushrooms and a hint of dashi extract, made dairy-free friendly. This risotto is perfect for a cold winter night.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Arborio rice",
+      "amount": "1 cup",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Chestnut mushrooms",
+      "amount": "2 cups",
+      "notes": "sliced"
+    },
+    {
+      "name": "Dashi extract",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": "warm"
+    },
+    {
+      "name": "Non-dairy butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the sliced chestnut mushrooms and cook until they release their moisture and start to brown, about 5 minutes.",
+    "Add the Arborio rice and cook for 1-2 minutes, until the rice is coated in oil and slightly toasted.",
+    "Add the warm vegetable broth, 1/2 cup at a time, stirring constantly and allowing each portion to absorb before adding the next.",
+    "After 20 minutes of cooking, stir in the dashi extract and non-dairy butter until the butter is melted and the risotto is creamy.",
+    "Season the risotto with salt and black pepper to taste.",
+    "Stir in the chopped fresh parsley.",
+    "Serve the risotto immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "mushroom-recipes",
+    "norwegian-cuisine",
+    "vegetarian",
+    "winter-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "velvety-norwegian-chestnut-mushroom-risotto",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-norwegian-chestnut-mushroom-risotto",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:13:58Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "creamy",
+    "mood": "festive",
+    "technique": "dashi-extract",
+    "primaryIngredient": "chestnut mushroom",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "chestnut mushroom",
+    "descriptor": "velvety creamy",
+    "dishForm": "Risotto"
+  }
+}
