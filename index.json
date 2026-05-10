@@ -2295,6 +2295,20 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-filipino-chicken-stew",
+    "title": "Velvety Filipino Chicken Stew",
+    "tags": [
+      "chicken-recipes",
+      "comfort-food",
+      "dairy-free",
+      "filipino-food",
+      "one-pot"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 60,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-filipino-corned-beef-stew",
     "title": "Velvety Filipino Corned Beef Stew",
     "tags": [

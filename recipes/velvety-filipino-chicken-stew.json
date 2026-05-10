@@ -1,0 +1,101 @@
+{
+  "title": "Velvety Filipino Chicken Stew",
+  "description": "A salty and velvety Filipino dish featuring sultanas and render fat, perfect for a sick day, and dairy free friendly.",
+  "cuisine": "Filipino",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "render fat or vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sultanas",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the render fat or oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chicken thighs and cook until they are browned on all sides.",
+    "Add the sultanas, fish sauce, soy sauce, black pepper, and salt, and stir to combine.",
+    "Pour in the water and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Remove the pot from the heat and let it cool slightly.",
+    "Serve the stew hot, garnished with additional sultanas if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "comfort-food",
+    "dairy-free",
+    "filipino-food",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "velvety-filipino-chicken-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-filipino-chicken-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:07:02Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "velvety",
+    "mood": "sick-day",
+    "technique": "render-fat",
+    "primaryIngredient": "sultanas",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "chicken",
+    "descriptor": "velvety salty",
+    "dishForm": "Stew"
+  }
+}
