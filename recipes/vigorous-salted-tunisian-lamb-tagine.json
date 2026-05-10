@@ -1,0 +1,92 @@
+{
+  "title": "Vigorous Salted Tunisian Lamb Tagine",
+  "description": "A hearty and savory Tunisian dish featuring lamb, molasses, and a blend of spices, perfect for a post-workout meal. This low-sodium friendly recipe uses a corn husk wrap as a unique vessel.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "corn husks",
+      "amount": "4-6",
+      "notes": "for wrapping"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Rinse the lamb pieces and pat them dry with paper towels.",
+    "In a large bowl, whisk together the molasses, olive oil, salt, black pepper, cumin, and coriander.",
+    "Add the lamb pieces to the bowl and toss to coat with the marinade.",
+    "Wrap each lamb piece in a corn husk, making sure to seal the edges.",
+    "Place the wrapped lamb pieces in a large baking dish.",
+    "Bake the lamb for 2 1/2 hours, or until it is tender and falls apart easily.",
+    "Remove the lamb from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "corn-husk-wrap",
+    "lamb-recipes",
+    "low-sodium",
+    "post-workout",
+    "slow-cooked",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "vigorous-salted-tunisian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vigorous-salted-tunisian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:37:46Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "shaggy",
+    "mood": "post-workout",
+    "technique": "salt-bake",
+    "primaryIngredient": "molasses",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lamb",
+    "descriptor": "Vigorous Salted",
+    "dishForm": "Tagine"
+  }
+}
