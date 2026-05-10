@@ -1,0 +1,103 @@
+{
+  "title": "Vibrant Tangy Egyptian Morning Glory Stir Fry",
+  "description": "A flexitarian-friendly Egyptian dish featuring morning glory pak bung, stir-fry, with a tangy and springy flavor, perfect for an adventurous meal. This recipe combines the freshness of morning glory with the warmth of Egyptian spices.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "morning glory pak bung",
+      "amount": "1 bunch",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until it is translucent, about 3 minutes.",
+    "Add the minced garlic and grated ginger and cook for another minute, stirring constantly.",
+    "Add the morning glory pak bung and cook until it is tender, about 5 minutes.",
+    "Stir in the lemon juice, salt, black pepper, cumin, and coriander.",
+    "Reduce the heat to medium-low and simmer the stir-fry for 2 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the Vibrant Tangy Egyptian Morning Glory Stir Fry hot, garnished with lemon wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian-cuisine",
+    "flexitarian",
+    "morning-glory",
+    "stir-fry",
+    "tangy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "vibrant-tangy-egyptian-morning-glory-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-tangy-egyptian-morning-glory-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:49:25Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "springy",
+    "mood": "adventurous",
+    "technique": "stir-fry",
+    "primaryIngredient": "morning-glory-pak-bung",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "morning glory",
+    "descriptor": "vibrant tangy",
+    "dishForm": "Stir-fry"
+  }
+}
