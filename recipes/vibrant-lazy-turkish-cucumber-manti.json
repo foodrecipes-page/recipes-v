@@ -1,0 +1,97 @@
+{
+  "title": "Vibrant Lazy Turkish Cucumber Manti",
+  "description": "A yeasty and shattering Turkish dish featuring Persian cucumber, perfect for a lazy Sunday, this low-fat-friendly manti recipe is a delicious and easy meal option. It is made with a variety of ingredients and can be prepared in under an hour.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "unbleached"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Persian cucumber",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, yeast, and salt.",
+    "Gradually add the water to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Cover the dough with a damp cloth and let it rest for 30 minutes.",
+    "Divide the dough into small pieces and roll each piece into a thin circle.",
+    "Place a tablespoon of diced cucumber and onion in the center of each circle.",
+    "Fold the dough over the filling to form a triangle or square shape and press the edges together to seal.",
+    "Heat the olive oil in a large skillet over medium heat and cook the manti for 3-4 minutes on each side.",
+    "Serve the manti hot with your favorite sauce or yogurt.",
+    "Let the manti rest for a few minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sunday",
+    "low-fat",
+    "shattering",
+    "turkish-cuisine",
+    "vegetarian",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "vibrant-lazy-turkish-cucumber-manti",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-lazy-turkish-cucumber-manti",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:39:40Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "shattering",
+    "mood": "lazy-sunday",
+    "technique": "rest",
+    "primaryIngredient": "persian cucumber",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "cucumber",
+    "descriptor": "vibrant lazy",
+    "dishForm": "Manti"
+  }
+}
