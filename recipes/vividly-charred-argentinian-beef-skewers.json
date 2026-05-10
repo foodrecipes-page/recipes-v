@@ -1,0 +1,97 @@
+{
+  "title": "Vividly Charred Argentinian Beef Skewers",
+  "description": "Indulgent Argentinian dish featuring dried red chillies and pressure-cooked beef, cooked to perfection on a tava-griddle, this recipe is ayurvedic-tamasic-friendly.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "preferably ribeye or sirloin"
+    },
+    {
+      "name": "dried red chillies",
+      "amount": "4",
+      "notes": "crushed or 2 teaspoons chilli flakes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the tava-griddle over medium-high heat.",
+    "In a large bowl, whisk together olive oil, crushed chillies, garlic, salt, black pepper, and paprika.",
+    "Add the beef strips to the bowl and mix until they are evenly coated with the marinade.",
+    "Thread the marinated beef strips onto skewers, leaving a little space between each piece.",
+    "Pressure-cook the beef strips for 10 minutes to tenderize them.",
+    "Remove the beef from the pressure cooker and place the skewers on the preheated tava-griddle.",
+    "Cook the skewers for 5-7 minutes per side, or until they are vividly charred.",
+    "Serve the charred beef skewers hot, garnished with lemongrass if desired.",
+    "Let the skewers rest for a few minutes before serving.",
+    "Slice the skewers into individual portions and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-meats",
+    "high-protein",
+    "one-pan",
+    "south-american",
+    "spicy-food",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "vividly-charred-argentinian-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vividly-charred-argentinian-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:47:53Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crisp",
+    "mood": "indulgent",
+    "technique": "pressure-cook",
+    "primaryIngredient": "dried red chillies",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Vividly charred",
+    "dishForm": "Skewers"
+  }
+}
