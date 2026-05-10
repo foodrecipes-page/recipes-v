@@ -1,0 +1,104 @@
+{
+  "title": "Vibrant Garlicky Ethiopian Chicken Doro Wot",
+  "description": "A garlicky and juicy Ethiopian dish featuring colby jack cheese, served in a scallop shell, perfect for a sick day, this gluten-free-friendly recipe is a twist on the traditional doro wot.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "colby jack cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "scalloped shells",
+      "amount": "4-6",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Season the chicken with salt, black pepper, and berbere spice.",
+    "Heat the olive oil in a large skillet over medium-high heat and cook the chicken until browned.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent.",
+    "Add the chicken broth to the skillet and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Stir in the shredded colby jack cheese until melted.",
+    "Transfer the chicken mixture to the scalloped shells.",
+    "Bake in the preheated oven for 15 minutes or until the cheese is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "gluten-free",
+    "one-dish",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "vibrant-garlicky-ethiopian-chicken-doro-wot",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-garlicky-ethiopian-chicken-doro-wot",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:46:54Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "juicy",
+    "mood": "sick-day",
+    "technique": "fold",
+    "primaryIngredient": "colby jack cheese",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "chicken",
+    "descriptor": "vibrant garlicky",
+    "dishForm": "Doro Wot"
+  }
+}
