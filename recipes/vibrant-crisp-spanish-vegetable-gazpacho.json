@@ -1,0 +1,112 @@
+{
+  "title": "Vibrant Crisp Spanish Vegetable Gazpacho",
+  "description": "A refreshing and indulgent Spanish dish featuring sake-cooked vegetables, this gazpacho is a perfect blend of peppery and crisp flavors, made with satvik-friendly ingredients and a tempering technique.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cucumber",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sake",
+      "amount": "1/4 cup",
+      "notes": "for cooking"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for tempering"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "for garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the chopped cucumber, bell pepper, tomato, and red onion.",
+    "In a small saucepan, heat the sake over medium heat until it starts to simmer.",
+    "Add the minced garlic to the sake and cook for 1 minute, until fragrant.",
+    "Remove the garlic and sake mixture from the heat and let it cool slightly.",
+    "Add the cooled garlic and sake mixture to the bowl with the vegetables and stir to combine.",
+    "In a small skillet, heat the olive oil over medium heat until it starts to shimmer.",
+    "Add the smoked paprika to the olive oil and cook for 1 minute, until fragrant.",
+    "Pour the tempered olive oil mixture over the vegetables and stir to combine.",
+    "Season the gazpacho with salt and black pepper to taste.",
+    "Chill the gazpacho in the refrigerator for at least 30 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "indulgent",
+    "refreshing",
+    "spanish-cuisine",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "vibrant-crisp-spanish-vegetable-gazpacho",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-crisp-spanish-vegetable-gazpacho",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:25:04Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "indulgent",
+    "technique": "temper",
+    "primaryIngredient": "sake-cooking",
+    "diet": "satvik",
+    "region": "catalan",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "vegetables",
+    "descriptor": "Vibrant Crisp",
+    "dishForm": "Gazpacho"
+  }
+}
