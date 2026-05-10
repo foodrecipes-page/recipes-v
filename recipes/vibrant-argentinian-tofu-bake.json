@@ -1,0 +1,106 @@
+{
+  "title": "Vibrant Argentinian Tofu Bake",
+  "description": "A flavorful and herbal Argentinian dish featuring marinated tofu, perfect for a date night, and suitable for a satvik-friendly diet.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into 1-inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, chimichurri sauce, garlic, oregano, thyme, salt, and black pepper.",
+    "Add the cubed tofu to the bowl and toss to coat with the marinade.",
+    "Let the tofu marinate for at least 30 minutes.",
+    "In a separate bowl, toss the diced red bell pepper and zucchini with a little bit of olive oil and season with salt and black pepper.",
+    "In a baking dish, arrange the marinated tofu in a single layer.",
+    "Top the tofu with the bell pepper and zucchini mixture.",
+    "Bake the dish in the preheated oven for 30 minutes.",
+    "Remove the dish from the oven and let it rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "herbal",
+    "high-protein",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "vibrant-argentinian-tofu-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-argentinian-tofu-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:39:14Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shattering",
+    "mood": "date-night",
+    "technique": "bake",
+    "primaryIngredient": "marinated tofu",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "tofu",
+    "descriptor": "Vibrant Baked",
+    "dishForm": "Bake"
+  }
+}
