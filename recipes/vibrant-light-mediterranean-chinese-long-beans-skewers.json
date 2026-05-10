@@ -1,0 +1,90 @@
+{
+  "title": "Vibrant Light Mediterranean Chinese Long Beans Skewers",
+  "description": "A herbal and snappy Saudi-Arabian inspired dish featuring Chinese long beans, pressure-cooked to perfection with a Mediterranean twist.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese long beans",
+      "amount": "1 pound",
+      "notes": "trimmed and cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the Chinese long beans and cut them into 1-inch pieces.",
+    "In a large bowl, whisk together olive oil, lemon juice, minced garlic, salt, black pepper, and paprika.",
+    "Add the Chinese long beans to the bowl and toss to coat with the marinade.",
+    "Thread the marinated Chinese long beans onto skewers, leaving a small space between each piece.",
+    "Pressure-cook the skewers for 5 minutes, or until the beans are tender but still crisp.",
+    "Remove the skewers from the pressure cooker and sprinkle with chopped fresh parsley.",
+    "Serve the skewers hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy-snack",
+    "mediterranean-inspired",
+    "pressure-cooker-recipe",
+    "quick-dinner",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "vibrant-light-mediterranean-chinese-long-beans-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-light-mediterranean-chinese-long-beans-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:12:51Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "snappy",
+    "mood": "light",
+    "technique": "pressure-cook",
+    "primaryIngredient": "chinese long beans",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "chinese long beans",
+    "descriptor": "Vibrant Light",
+    "dishForm": "Skewers"
+  }
+}
