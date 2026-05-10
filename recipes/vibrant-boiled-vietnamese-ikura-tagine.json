@@ -1,0 +1,100 @@
+{
+  "title": "Vibrant Boiled Vietnamese Ikura Tagine",
+  "description": "A high protein solo dinner dish featuring ikura in a flavorful Vietnamese inspired tagine, boiled to perfection in a ceramic vessel.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "high protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ikura",
+      "amount": "1 cup",
+      "notes": "salmon roe"
+    },
+    {
+      "name": "fish stock",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "jasmine rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    }
+  ],
+  "instructions": [
+    "Bring the fish stock to a boil in the ceramic tagine over high heat.",
+    "Add the sliced ginger and minced garlic to the tagine and boil for 5 minutes.",
+    "Add the lemongrass stalks to the tagine and boil for an additional 5 minutes.",
+    "Reduce the heat to low and add the ikura to the tagine, simmering for 2 minutes.",
+    "Stir in the soy sauce and sesame oil.",
+    "Serve the ikura and broth over cooked jasmine rice.",
+    "Garnish with chopped scallions.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "boiled-dish",
+    "ceramic-tagine",
+    "floral-notes",
+    "high-protein",
+    "solo-dinner",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "vibrant-boiled-vietnamese-ikura-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-boiled-vietnamese-ikura-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:18:26Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "aerated",
+    "mood": "solo-dinner",
+    "technique": "boil",
+    "primaryIngredient": "ikura",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "ikura",
+    "descriptor": "vibrant boiled",
+    "dishForm": "Tagine"
+  }
+}
