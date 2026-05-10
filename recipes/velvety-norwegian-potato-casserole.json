@@ -1,0 +1,109 @@
+{
+  "title": "Velvety Norwegian Potato Casserole",
+  "description": "A comforting and crunchy Norwegian dish featuring sage, perfect for a cold winter night, with a low-calorie friendly twist.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "sage",
+      "amount": "2 tablespoons",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cream",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "whole wheat"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the sliced potatoes and melted butter, tossing to coat.",
+    "In a separate bowl, mix together the chopped sage, onion, garlic, salt, and pepper.",
+    "In a greased 9x13 inch baking dish, create a layer of potatoes, followed by a layer of the sage mixture, and then a sprinkle of parmesan cheese.",
+    "Repeat the layering process until all ingredients are used, finishing with a layer of potatoes on top.",
+    "Pour the low-fat cream over the top layer of potatoes.",
+    "Sprinkle the whole wheat breadcrumbs over the top of the casserole.",
+    "Bake the casserole in the preheated oven for 45 minutes, or until the top is golden brown and the potatoes are tender.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving.",
+    "Serve the casserole hot, garnished with additional chopped sage if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "comfort-food",
+    "low-calorie",
+    "norwegian-cuisine",
+    "potato-recipe",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "velvety-norwegian-potato-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-norwegian-potato-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:26:03Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crunchy",
+    "mood": "comforting",
+    "technique": "rest",
+    "primaryIngredient": "sage",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "potatoes",
+    "descriptor": "velvety crunchy",
+    "dishForm": "Casserole"
+  }
+}
