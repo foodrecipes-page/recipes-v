@@ -6985,6 +6985,21 @@
     "shard": "v"
   },
   {
+    "slug": "vibrant-crunchy-american-beef-skillet",
+    "title": "Vibrant Crunchy American Beef Skillet",
+    "tags": [
+      "american-cuisine",
+      "gluten-free",
+      "high-protein",
+      "low-glycemic",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 50,
+    "shard": "v"
+  },
+  {
     "slug": "vibrant-crunchy-basque-french-doner-meat-boeuf-bourguignon",
     "title": "Vibrant Crunchy Basque French Doner Meat Boeuf Bourguignon",
     "tags": [
