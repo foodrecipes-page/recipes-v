@@ -1,0 +1,107 @@
+{
+  "title": "Vividly Tangy Polish Pork Casserole",
+  "description": "A tangy and gooey Polish dish featuring a rich sauce and tender pork, perfect for a midnight craving. This keto-friendly casserole is cooked to perfection in a bain-marie.",
+  "cuisine": "Polish",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless and cut into 1-inch cubes"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried mushrooms",
+      "amount": "1/2 cup",
+      "notes": "rehydrated in 1 cup of hot water"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "low-carb and gluten-free"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large skillet, cook the pork cubes over medium-high heat until browned on all sides.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "In a large bowl, whisk together the sour cream, rehydrated mushrooms, paprika, salt, and black pepper.",
+    "Add the cooked pork and onion mixture to the bowl and stir until well combined.",
+    "Transfer the mixture to a 9x13 inch baking dish and top with shredded cheese.",
+    "Place the baking dish in a larger dish and add hot water to come halfway up the sides of the baking dish.",
+    "Cover the dish with aluminum foil and bake for 2 hours.",
+    "Remove the foil and continue baking for an additional 30 minutes, or until the cheese is melted and bubbly.",
+    "Remove the dish from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "keto-friendly",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "vividly-tangy-polish-pork-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vividly-tangy-polish-pork-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:46:39Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "bain-marie",
+    "primaryIngredient": "sauce",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "pork",
+    "descriptor": "Vividly tangy",
+    "dishForm": "Casserole"
+  }
+}
