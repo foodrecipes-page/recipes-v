@@ -1,0 +1,109 @@
+{
+  "title": "Vibrant Buttery French Vegetables Ratatouille",
+  "description": "A classic French dish from the Alsace region, this ratatouille is made with buttery vegetables and features a cheese pull, energizing flavors, and anti-inflammatory friendly ingredients, all tied together with an egg wash and mortar-pestle-pounded spices.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "sliced into 1/2 inch thick rounds"
+    },
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "sliced into 1/2 inch thick rounds"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 large",
+      "notes": "sliced into 1 inch pieces"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a mortar and pestle, pound the garlic and thyme until well combined.",
+    "In a large skillet, melt 2 tablespoons of butter over medium heat and add the sliced eggplant, cooking until browned on both sides and set aside.",
+    "In the same skillet, add the remaining 2 tablespoons of butter and cook the sliced zucchini and bell peppers until tender, about 5 minutes.",
+    "Add the chopped onions to the skillet and cook until they are translucent, about 3-4 minutes.",
+    "In a large bowl, whisk together the pounded garlic and thyme, and the cooked vegetables.",
+    "In a greased 9x13 inch baking dish, create a layer of the vegetable mixture, followed by a sprinkle of shredded gruyere cheese, and repeat this process until all ingredients are used, finishing with a layer of cheese on top.",
+    "Brush the egg wash over the top layer of cheese to create a golden brown crust.",
+    "Season with salt and black pepper to taste.",
+    "Bake the ratatouille in the preheated oven for 30 minutes, or until the top is golden brown and the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "buttery",
+    "cheesy",
+    "french-cuisine",
+    "gluten-free",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 32
+  },
+  "slug": "vibrant-buttery-french-vegetables-ratatouille",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-buttery-french-vegetables-ratatouille",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:47:50Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "cheese-pull",
+    "mood": "energizing",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "egg wash",
+    "diet": "anti-inflammatory",
+    "region": "alsace",
+    "cuisineAdjective": "French",
+    "mainIngredient": "vegetables",
+    "descriptor": "Vibrant Buttery",
+    "dishForm": "Ratatouille"
+  }
+}
