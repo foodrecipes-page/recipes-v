@@ -10673,5 +10673,20 @@
     "cuisine": "Norwegian",
     "totalTimeMin": 40,
     "shard": "v"
+  },
+  {
+    "slug": "vividly-tender-french-wensleydale-boeuf-bourguignon",
+    "title": "Vividly Tender French Wensleydale Boeuf Bourguignon",
+    "tags": [
+      "beef-recipes",
+      "comfort-food",
+      "french-cuisine",
+      "gluten-free",
+      "special-occasion",
+      "sugar-free"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 180,
+    "shard": "v"
   }
 ]

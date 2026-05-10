@@ -1,0 +1,112 @@
+{
+  "title": "Vividly Tender French Wensleydale Boeuf Bourguignon",
+  "description": "A classic French dish with a twist, featuring tender beef and Wensleydale cheese in a rich, sour broth. This sugar-free-friendly recipe is perfect for a special occasion.",
+  "cuisine": "French",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef short ribs",
+      "amount": "2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Wensleydale cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "red wine",
+      "amount": "2 cups",
+      "notes": "dry"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "no added sugar"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the beef short ribs with salt and pepper.",
+    "Heat a large Dutch oven over medium-high heat and sear the beef short ribs until browned on all sides.",
+    "Remove the browned beef from the pot and set aside.",
+    "Add the chopped onions, carrots, and celery to the pot and cook until the vegetables are tender.",
+    "Add the red wine, beef broth, tomato paste, thyme, and bay leaves to the pot and stir to combine.",
+    "Return the browned beef to the pot and bring the mixture to a boil.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Bake for 2 1/2 hours, or until the beef is tender.",
+    "Remove the pot from the oven and stir in the crumbly Wensleydale cheese.",
+    "Let the mixture cool slightly before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "beef-recipes",
+    "comfort-food",
+    "french-cuisine",
+    "gluten-free",
+    "special-occasion",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 34
+  },
+  "slug": "vividly-tender-french-wensleydale-boeuf-bourguignon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vividly-tender-french-wensleydale-boeuf-bourguignon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:32:54Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "tender",
+    "mood": "nostalgic",
+    "technique": "dehydrate",
+    "primaryIngredient": "wensleydale",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "wensleydale",
+    "descriptor": "Vividly Tender",
+    "dishForm": "Boeuf Bourguignon"
+  }
+}
