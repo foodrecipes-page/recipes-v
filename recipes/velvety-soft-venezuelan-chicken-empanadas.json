@@ -1,0 +1,98 @@
+{
+  "title": "Venezuelan Chicken Empanadas",
+  "description": "Soft and pillowy empanadas filled with chicken and served with chimichurri sauce and pickle, perfect for kids and adults alike.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "kid-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cooked and shredded"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "pickle slices",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for frying empanadas"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, salt, and water to make the empanada dough.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Roll out each ball into a thin circle.",
+    "Place a tablespoon of shredded chicken in the center of each circle.",
+    "Brush the edges with egg wash and fold the dough in half to form a half-moon shape.",
+    "Fry the empanadas in hot oil until they are golden brown.",
+    "Serve the empanadas with chimichurri sauce and pickle slices.",
+    "Let the empanadas cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "finger-food",
+    "homemade",
+    "kid-friendly",
+    "latin-american",
+    "snack-time"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "velvety-soft-venezuelan-chicken-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-soft-venezuelan-chicken-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:18:00Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "pillowy",
+    "mood": "kid-friendly",
+    "technique": "pickle",
+    "primaryIngredient": "chimichurri sauce",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chicken",
+    "descriptor": "velvety soft",
+    "dishForm": "Empanadas"
+  }
+}
