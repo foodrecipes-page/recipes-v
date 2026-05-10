@@ -1,0 +1,109 @@
+{
+  "title": "velvety japanese butter beans bowl",
+  "description": "a sattvic-friendly, ayurvedic-inspired bowl featuring butter beans in a rich, resinous sauce, served in a stone-bowl dolsot.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "butter beans, dried",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "kombu seaweed",
+      "amount": "3 sheets"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "dried wakame seaweed",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "shredded daikon",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "rinse the butter beans and soak them in water for at least 8 hours. discard the water and rinse the beans again.",
+    "in a large pot, combine the kombu seaweed, ginger, garlic, and 4 cups of water. bring to a boil, then reduce the heat and simmer for 1 hour.",
+    "remove the kombu seaweed and add the butter beans, soy sauce, rice vinegar, and sesame oil to the pot. bring to a boil, then reduce the heat and simmer for 20 minutes.",
+    "add the dried wakame seaweed and shredded daikon to the pot and continue to simmer for another 10 minutes.",
+    "season the bean mixture with salt to taste.",
+    "to prepare the garnish, toast the sesame seeds in a small pan over medium heat until fragrant.",
+    "just before serving, garnish the bean mixture with the toasted sesame seeds, scallions, and a sprinkle of salt.",
+    "serve the bean mixture in a stone-bowl dolsot, garnished with additional sesame seeds and scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "plant-based",
+    "vegan",
+    "weeknight",
+    "wellness"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "velvety-japanese-butter-beans-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-japanese-butter-beans-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T03:28:31Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "velvety",
+    "mood": "meal-prep",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "butter beans",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "butter beans",
+    "descriptor": "velvety",
+    "dishForm": "Bowl"
+  }
+}
