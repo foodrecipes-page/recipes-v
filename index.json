@@ -1351,6 +1351,21 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-canadian-chicken-casserole",
+    "title": "Velvety Canadian Chicken Casserole",
+    "tags": [
+      "canadian-cuisine",
+      "chicken-recipes",
+      "comfort-food",
+      "halal-friendly",
+      "one-pan",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 50,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-canadian-chicken-curry",
     "title": "Velvety Canadian Chicken Curry",
     "tags": [
