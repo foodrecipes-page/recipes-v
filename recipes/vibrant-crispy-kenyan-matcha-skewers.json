@@ -1,0 +1,100 @@
+{
+  "title": "Vibrant Crispy Kenyan Matcha Skewers",
+  "description": "A crispy and grassy Kenyan dish featuring matcha, this recipe is keto-friendly and cooked to perfection in a bamboo steamer, whisking up nostalgic feelings with each bite. The combination of matcha and crispy exterior is a unique twist on traditional Kenyan cuisine.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "matcha powder",
+      "amount": "2 tablespoons",
+      "notes": "high quality"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "pork sausage",
+      "amount": "1 pound",
+      "notes": "sliced into 1 inch pieces"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "20"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the bamboo steamer to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the matcha powder, almond flour, salt, and pepper.",
+    "Add the coconut oil and eggs to the bowl and mix until a dough forms.",
+    "Divide the dough into 20 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and place a slice of pork sausage in the center of each disk.",
+    "Fold the dough over the sausage and press the edges together to seal the skewer.",
+    "Thread the skewers onto the bamboo sticks, leaving a small space between each skewer.",
+    "Place the skewers in the bamboo steamer and cook for 12 minutes.",
+    "Remove the skewers from the steamer and sprinkle with chopped green onions.",
+    "Serve the skewers hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo-steamer",
+    "crispy",
+    "kenyan",
+    "keto-friendly",
+    "low-carb",
+    "matcha"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 5,
+    "fat": 22
+  },
+  "slug": "vibrant-crispy-kenyan-matcha-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-crispy-kenyan-matcha-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:11:34Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crispy",
+    "mood": "nostalgic",
+    "technique": "whisk",
+    "primaryIngredient": "matcha",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "matcha grass",
+    "descriptor": "Vibrant Crispy",
+    "dishForm": "Skewers"
+  }
+}
