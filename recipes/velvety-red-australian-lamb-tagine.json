@@ -1,0 +1,120 @@
+{
+  "title": "velvety red australian lamb tagine",
+  "description": "a malty, velvety, sick-day australian dish featuring red chilli flakes, binchotan charcoal, low-fat-friendly, cooked in a cataplana vessel",
+  "cuisine": "australian",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "500g",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "red onion",
+      "amount": "250g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "red bell peppers",
+      "amount": "250g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "red chilli flakes",
+      "amount": "20g",
+      "notes": "to taste"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "20g",
+      "notes": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "30g",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "200ml",
+      "notes": null
+    },
+    {
+      "name": "beef broth",
+      "amount": "200ml",
+      "notes": null
+    },
+    {
+      "name": "tomato paste",
+      "amount": "20g",
+      "notes": "diluted in beef broth"
+    },
+    {
+      "name": "honey",
+      "amount": "10g",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "5g",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "5g",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "heat the binchotan charcoal in the cataplana vessel over medium heat until it begins to smoke",
+    "add the olive oil to the cataplana and swirl it around to coat the bottom",
+    "add the lamb shoulder to the cataplana and sear it until browned on all sides, about 5 minutes",
+    "add the sliced red onion and red bell pepper to the cataplana and cook until they are tender, about 10 minutes",
+    "add the red chilli flakes to the cataplana and stir to combine",
+    "add the chicken broth, beef broth, and tomato paste to the cataplana and stir to combine",
+    "bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 2 hours",
+    "stir in the honey, salt, and black pepper",
+    "serve the lamb and vegetables hot, garnished with fresh herbs if desired"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "australian",
+    "lamb",
+    "low-fat",
+    "one-pan",
+    "sick-day",
+    "tagine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "velvety-red-australian-lamb-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-red-australian-lamb-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:45:39Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "velvety",
+    "mood": "sick-day",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "red chilli flakes",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "lamb",
+    "descriptor": "Velvety Red",
+    "dishForm": "Tagine"
+  }
+}
