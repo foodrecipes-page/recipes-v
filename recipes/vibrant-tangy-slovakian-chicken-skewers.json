@@ -1,0 +1,97 @@
+{
+  "title": "Vibrant Tangy Slovakian Chicken Skewers",
+  "description": "Tangy and snappy post-workout Slovakian dish featuring freshly chopped parsley and miso-marinate, perfect for a quick and refreshing meal.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "white miso paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "freshly chopped parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together miso paste, lemon juice, olive oil, garlic powder, salt, and black pepper.",
+    "Add the chicken pieces to the bowl and toss to coat with the miso marinade.",
+    "Thread the marinated chicken pieces onto the soaked wooden skewers, leaving a small space between each piece.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the chicken is cooked through and slightly charred.",
+    "Sprinkle the freshly chopped parsley over the skewers during the last minute of grilling.",
+    "Remove the skewers from the grill and let them rest for 2-3 minutes before serving.",
+    "Serve the Vibrant Tangy Slovakian Chicken Skewers hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled-chicken",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "slovakian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "vibrant-tangy-slovakian-chicken-skewers",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-tangy-slovakian-chicken-skewers",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-18T08:08:34Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "snappy",
+    "mood": "post-workout",
+    "technique": "miso-marinate",
+    "primaryIngredient": "freshly chopped parsley",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "chicken",
+    "descriptor": "Vibrant Tangy",
+    "dishForm": "Skewers"
+  }
+}
