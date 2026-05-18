@@ -1,0 +1,105 @@
+{
+  "title": "Velvety Charred Mediterranean Kabanos Skewers",
+  "description": "A lazy Sunday dish featuring charred kabanos sausages, velvety eggplant, and a mediterranean twist.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kabanos Sausages",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Eggplant",
+      "amount": "1 large",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 large",
+      "notes": "cut into 1-inch wedges"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "2 large",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 large",
+      "notes": "cut into 1-inch slices"
+    },
+    {
+      "name": "Fresh Oregano",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 375°F.",
+    "Thread the kabanos sausages, eggplant, red onion, bell peppers, and zucchini onto metal skewers.",
+    "Brush the vegetables with olive oil and sprinkle with salt.",
+    "Grill the skewers for 8-10 minutes per side, or until the vegetables are tender and lightly charred.",
+    "Meanwhile, whisk together lemon juice, garlic, and chopped oregano in a small bowl.",
+    "Once the skewers are cooked, brush them with the lemon-herb mixture.",
+    "Serve the skewers hot, garnished with additional oregano if desired.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve immediately and enjoy!",
+    "Note: You can also cook the skewers in the oven at 400°F for 12-15 minutes, or until the vegetables are tender and lightly browned."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "velvety-charred-mediterranean-kabanos-skewers",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-charred-mediterranean-kabanos-skewers",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:35:27Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "brine-dry",
+    "primaryIngredient": "kabanos sausages",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Kabanos",
+    "descriptor": "Velvety Charred",
+    "dishForm": "Skewers"
+  }
+}
