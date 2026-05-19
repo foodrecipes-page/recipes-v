@@ -1,0 +1,99 @@
+{
+  "title": "Velvety French Shiitake Mushrooms Macaron",
+  "description": "A keto-friendly French dish featuring shiitake mushrooms in a velvety macaron, cooked to perfection in a ttukbaegi earthenware pot, evoking nostalgic feelings with its nutty flavor.",
+  "cuisine": "French",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shiitake mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "almond flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "granulated sweetener",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "3 large"
+    },
+    {
+      "name": "cream cheese",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, whisk together the almond flour, coconut flour, and granulated sweetener.",
+    "In a separate bowl, whisk together the melted butter, eggs, and softened cream cheese.",
+    "Add the sliced shiitake mushrooms to the wet ingredients and stir until they are well coated.",
+    "Add the dry ingredients to the wet ingredients and stir until a smooth batter forms.",
+    "Spoon the batter into a ttukbaegi earthenware pot or a macaron mold.",
+    "Bake for 20 minutes or until the edges are lightly golden brown.",
+    "Remove from the oven and let cool completely on a wire rack.",
+    "Once cooled, carefully remove the macarons from the pot or mold and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "earthenware-cooking",
+    "french-cuisine",
+    "keto-friendly",
+    "low-carb",
+    "mushroom-recipes",
+    "velvety-texture"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 5,
+    "fat": 28
+  },
+  "slug": "velvety-french-shiitake-mushrooms-macaron",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-french-shiitake-mushrooms-macaron",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-19T08:12:04Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "shiitake mushrooms",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "shiitake mushrooms",
+    "descriptor": "Velvety Nutty",
+    "dishForm": "Macaron"
+  }
+}
