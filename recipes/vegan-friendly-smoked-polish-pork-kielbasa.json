@@ -1,0 +1,104 @@
+{
+  "title": "Vegan-friendly Smoked Polish Pork Kielbasa",
+  "description": "Indulge in this vegan twist on the classic Polish dish featuring char-grilled flavors and a hint of mustard.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vegan Seitan",
+      "amount": "1 pound",
+      "notes": "You can substitute with store-bought seitan if needed"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Mustard Seeds",
+      "amount": "1 tablespoon",
+      "notes": "You can also use prepared mustard as an alternative"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Onion Powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Vegan Worcestershire Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vegan BBQ Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Start by preparing your seitan according to the package instructions.",
+    "In a large bowl, combine the smoked paprika, mustard seeds, garlic powder, onion powder, salt, and black pepper.",
+    "Add the prepared seitan to the bowl and toss to coat with the spice mixture.",
+    "In a separate pan, heat the vegan Worcestershire sauce and vegan BBQ sauce over medium heat.",
+    "Add the coated seitan to the pan and cook for about 5-7 minutes on each side, or until it's nicely char-grilled.",
+    "Transfer the seitan to a plate and garnish with chopped fresh parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "char-grilled",
+    "flexitarian-friendly",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "vegan-friendly-smoked-polish-pork-kielbasa",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/vegan-friendly-smoked-polish-pork-kielbasa",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T16:37:17Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "shaggy",
+    "mood": "indulgent",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "mustard",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Pork",
+    "descriptor": "Vegan-friendly Smoked",
+    "dishForm": "Kielbasa"
+  }
+}

@@ -287,6 +287,20 @@
     "shard": "v"
   },
   {
+    "slug": "vegan-friendly-smoked-polish-pork-kielbasa",
+    "title": "Vegan-friendly Smoked Polish Pork Kielbasa",
+    "tags": [
+      "char-grilled",
+      "flexitarian-friendly",
+      "one-pan",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 27,
+    "shard": "v"
+  },
+  {
     "slug": "vegan-garlicky-brazilian-pastry-bake",
     "title": "Vegan Garlicky Brazilian Pastry Bake",
     "tags": [
