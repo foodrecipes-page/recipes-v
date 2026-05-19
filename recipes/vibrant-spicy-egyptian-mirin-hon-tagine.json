@@ -1,0 +1,123 @@
+{
+  "title": "Vibrant Spicy Egyptian Mirin-hon Tagine",
+  "description": "A spicy, molten, and energizing Egyptian dish made using mirin-hon, perfect for halal-friendly meals.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "halal",
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mirin-hon",
+      "amount": "2 tablespoons",
+      "notes": "A sweet Japanese cooking wine"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "500g",
+      "notes": "Boneless and skinless chicken breast"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1",
+      "notes": "Any color bell pepper can be used"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Any color onion can be used"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince the garlic before using"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Dry ground cumin"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": "Dry ground coriander"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "0.5 teaspoon",
+      "notes": "Adjust the heat level to your preference"
+    },
+    {
+      "name": "Paprika",
+      "amount": "0.5 teaspoon",
+      "notes": "Any sweet or smoked paprika can be used"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Adjust the salt to your taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.5 teaspoon",
+      "notes": "Freshly ground black pepper"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a neutral-tasting oil"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the tagine or a large Dutch oven over medium-high heat.",
+    "Add the minced garlic and cook for 1-2 minutes until fragrant.",
+    "Add the sliced onion and cook for 3-4 minutes until translucent.",
+    "Add the sliced red bell pepper and cook for another 2-3 minutes.",
+    "Add the chicken breast and cook for 3-4 minutes until browned on all sides.",
+    "Add the cumin, coriander, cayenne pepper, paprika, salt, and black pepper, and stir to combine.",
+    "Add the mirin-hon and stir to combine, then bring the mixture to a simmer.",
+    "Cover the tagine or Dutch oven and transfer to the preheated oven.",
+    "Bake for 25-30 minutes until the chicken is cooked through and the sauce has thickened.",
+    "Remove the tagine or Dutch oven from the oven and let it rest for 5 minutes before serving.",
+    "Serve the tagine hot, garnished with fresh herbs or lemon wedges, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "halal",
+    "high-protein",
+    "meat",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 42,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "vibrant-spicy-egyptian-mirin-hon-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-spicy-egyptian-mirin-hon-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T16:55:23Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "molten",
+    "mood": "energizing",
+    "technique": "tagine-cook",
+    "primaryIngredient": "mirin-hon",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Mirin-hon",
+    "descriptor": "Vibrant Spicy",
+    "dishForm": "Tagine"
+  }
+}
