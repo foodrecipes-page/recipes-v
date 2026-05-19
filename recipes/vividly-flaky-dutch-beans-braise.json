@@ -1,0 +1,101 @@
+{
+  "title": "Vividly Flaky Dutch Beans Braise",
+  "description": "A comforting, lacto-vegetarian Dutch dish featuring mustardy and flaky beans in a rich braise.",
+  "cuisine": "dutch",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cannellini beans",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "mustard powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large Dutch oven, cook the onion over medium heat until softened.",
+    "Add the caraway seeds and cook for 1 minute.",
+    "Add the flour and cook for 1 minute, stirring constantly.",
+    "Add the butter and cook until melted.",
+    "Add the mustard powder and cook for 1 minute.",
+    "Add the white wine and cook until reduced by half.",
+    "Add the chicken broth and bring to a boil.",
+    "Add the cannellini beans, salt, and black pepper.",
+    "Cover the Dutch oven and transfer to the oven.",
+    "Braise for 25 minutes or until the beans are tender.",
+    "Serve hot and garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beans",
+    "comfort-food",
+    "dutch",
+    "lacto-vegetarian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 22
+  },
+  "slug": "vividly-flaky-dutch-beans-braise",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/vividly-flaky-dutch-beans-braise",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T17:39:17Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "flaky",
+    "mood": "sick-day",
+    "technique": "braise",
+    "primaryIngredient": "beans",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "beans",
+    "descriptor": "Vividly Flaky",
+    "dishForm": "Braise"
+  }
+}
