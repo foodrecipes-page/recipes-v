@@ -1,0 +1,106 @@
+{
+  "title": "german lentils stew with chilli twist",
+  "description": "this hearty stew combines the rich flavors of lentils, onions, and carrots with the kick of chilli bean paste, making for a satisfying meal in under an hour.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "chilli bean paste",
+      "amount": "2 tbsp",
+      "notes": "see notes"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "heat the oil in a large pot over medium heat.",
+    "add the chopped onion and sauté until translucent, about 5 minutes.",
+    "add the chopped carrots and continue to sauté for another 5 minutes.",
+    "add the chilli bean paste, tomato paste, salt, and pepper, and stir to combine.",
+    "add the lentils, red wine vinegar, and 4 cups of water to the pot, and bring to a boil.",
+    "reduce the heat to low and simmer for 20-25 minutes, or until the lentils are tender.",
+    "season with additional salt and pepper to taste, if needed.",
+    "serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "german",
+    "gluten-free",
+    "hearty",
+    "lentils",
+    "one-pan",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 70,
+    "fat": 10
+  },
+  "slug": "vibrant-german-lentils-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-german-lentils-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T18:30:51Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "juicy",
+    "mood": "quick-fix",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "chilli bean paste",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "lentils",
+    "descriptor": "Vibrant",
+    "dishForm": "Stew"
+  }
+}
