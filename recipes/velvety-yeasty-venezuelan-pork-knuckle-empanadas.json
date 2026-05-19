@@ -1,0 +1,109 @@
+{
+  "title": "Venezuelan Yeasty Pork Knuckle Empanadas",
+  "description": "Delicate, flaky pastry pockets filled with slow-cooked pork knuckle in a rich, yeasty sauce, a crowd-pleaser from Venezuela.",
+  "cuisine": "Latin American",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "500g"
+    },
+    {
+      "name": "Lard or vegetable shortening",
+      "amount": "120g"
+    },
+    {
+      "name": "Warm water",
+      "amount": "240ml"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Pork knuckle",
+      "amount": "1 large"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Combine flour, lard or shortening, warm water, yeast, and salt in a large mixing bowl.",
+    "Mix until dough comes together in a shaggy mass, then knead for 10 minutes until smooth and elastic.",
+    "Place dough in a greased bowl, cover with plastic wrap, and refrigerate for at least 2 hours or overnight.",
+    "Preheat oven to 375°F (190°C).",
+    "Bake dough for 20-25 minutes, or until golden brown.",
+    "Meanwhile, braise pork knuckle in a large Dutch oven with onion, garlic, and enough water to cover.",
+    "Simmer for 2-3 hours, or until pork is tender and easily shreds with a fork.",
+    "Strain braising liquid and discard solids, then stir in sour cream and butter.",
+    "Season with salt to taste.",
+    "Roll out chilled dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a spoonful of braised pork knuckle in the center of each dough circle.",
+    "Fold dough over filling to form a half-moon shape, and press edges to seal.",
+    "Use a fork to crimp edges and create a decorative border.",
+    "Brush tops with a little water and sprinkle with cilantro."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 105,
+  "totalTimeMin": 150,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "dinner-party",
+    "empanada-recipe",
+    "homemade-pastry",
+    "lard-friendly",
+    "latin-american",
+    "pork-dinner-ideas",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 23,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "velvety-yeasty-venezuelan-pork-knuckle-empanadas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-yeasty-venezuelan-pork-knuckle-empanadas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T08:23:40Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "velvety",
+    "mood": "crowd-pleaser",
+    "technique": "lamination-puff",
+    "primaryIngredient": "pork knuckle",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "pork knuckle",
+    "descriptor": "velvety yeasty",
+    "dishForm": "Empanadas"
+  }
+}
