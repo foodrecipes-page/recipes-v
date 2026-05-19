@@ -287,6 +287,22 @@
     "shard": "v"
   },
   {
+    "slug": "vegan-garlicky-brazilian-pastry-bake",
+    "title": "Vegan Garlicky Brazilian Pastry Bake",
+    "tags": [
+      "brazilian",
+      "gluten-free",
+      "mediterranean",
+      "one-pan",
+      "snack-attack",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 40,
+    "shard": "v"
+  },
+  {
     "slug": "vegan-german-eggs-quiche",
     "title": "Vegan German Eggs Quiche",
     "tags": [

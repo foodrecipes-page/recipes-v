@@ -1,0 +1,102 @@
+{
+  "title": "Vegan Garlicky Brazilian Pastry Bake",
+  "description": "A flaky, savory, and aromatic pastry bake that pairs the umami of Marmite with the brightness of Mediterranean herbs.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Vegan shortcrust pastry",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Marmite",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Chopped rosemary",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Chopped thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Chopped lemon zest",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the vegan shortcrust pastry on a floured surface to a thickness of about 1/8 inch (3 mm).",
+    "Transfer the pastry to a 9x13 inch baking dish and trim the edges to fit.",
+    "In a small bowl, mix together the Marmite, olive oil, minced garlic, chopped rosemary, chopped thyme, and chopped lemon zest.",
+    "Brush the Marmite mixture evenly over the pastry, leaving a 1-inch (2.5 cm) border around the edges.",
+    "Season with salt to taste.",
+    "Bake the pastry for 25-30 minutes, or until golden brown.",
+    "Remove the pastry from the oven and let it cool for 5 minutes before slicing into squares.",
+    "Serve warm and enjoy!",
+    "If desired, reheat the pastry in the oven for an additional 5-10 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "gluten-free",
+    "mediterranean",
+    "one-pan",
+    "snack-attack",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 24,
+    "fat": 12
+  },
+  "slug": "vegan-garlicky-brazilian-pastry-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/vegan-garlicky-brazilian-pastry-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T13:52:38Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "flaky",
+    "mood": "midnight-craving",
+    "technique": "bake",
+    "primaryIngredient": "marmite",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "pastry",
+    "descriptor": "Vegan Garlicky",
+    "dishForm": "Bake"
+  }
+}
