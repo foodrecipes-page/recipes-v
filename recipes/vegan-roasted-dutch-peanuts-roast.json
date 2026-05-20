@@ -1,0 +1,111 @@
+{
+  "title": "Vegan Roasted Dutch Peanuts",
+  "description": "A hearty, comforting dish from the Netherlands roasted to perfection in peanut oil. Perfect for a hangover cure or a satisfying snack.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dutch peanuts",
+      "amount": "1 cup",
+      "notes": "unsalted and unsweetened"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "onion powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Spread the Dutch peanuts in a single layer on a parchment-lined Dutch oven.",
+    "Drizzle the peanut oil over the peanuts and sprinkle with salt, black pepper, garlic powder, onion powder, paprika, and cumin.",
+    "Toss the peanuts to coat evenly with the spice mixture.",
+    "Roast the peanuts in the preheated oven for 15 minutes, shaking the Dutch oven halfway through.",
+    "Remove the Dutch oven from the oven and sprinkle the maple syrup and water over the peanuts.",
+    "Return the Dutch oven to the oven and continue roasting for an additional 5 minutes, or until the peanuts are fragrant and lightly caramelized.",
+    "Remove the Dutch oven from the oven and let the peanuts cool completely before serving.",
+    "Serve the roasted peanuts warm or at room temperature.",
+    "Store any leftover peanuts in an airtight container at room temperature for up to 3 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "gluten-free",
+    "peanuts",
+    "roasted",
+    "snack",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 14
+  },
+  "slug": "vegan-roasted-dutch-peanuts-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/vegan-roasted-dutch-peanuts-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:46:48Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "juicy",
+    "mood": "hangover-cure",
+    "technique": "roast",
+    "primaryIngredient": "peanut oil",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "peanuts",
+    "descriptor": "Vegan Roasted",
+    "dishForm": "Roast"
+  }
+}

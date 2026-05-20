@@ -387,6 +387,21 @@
     "shard": "v"
   },
   {
+    "slug": "vegan-roasted-dutch-peanuts-roast",
+    "title": "Vegan Roasted Dutch Peanuts",
+    "tags": [
+      "dutch",
+      "gluten-free",
+      "peanuts",
+      "roasted",
+      "snack",
+      "vegan"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 30,
+    "shard": "v"
+  },
+  {
     "slug": "vegan-salt-cod-delight",
     "title": "Vegan Salt Cod Delight",
     "tags": [
@@ -1808,6 +1823,19 @@
     ],
     "cuisine": "Algerian",
     "totalTimeMin": 45,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-comforting-australian-chuck-roast-roast",
+    "title": "Velvety Comforting Australian Chuck Roast",
+    "tags": [
+      "australian",
+      "comfort-food",
+      "one-pan",
+      "paleo"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 195,
     "shard": "v"
   },
   {

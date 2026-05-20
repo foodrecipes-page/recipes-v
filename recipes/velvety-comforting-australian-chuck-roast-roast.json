@@ -1,0 +1,109 @@
+{
+  "title": "Velvety Comforting Australian Chuck Roast",
+  "description": "A sweet and comforting Australian dish featuring chuck roast, perfect for a cozy evening with friends and family. The velvety sauce is paleo-friendly and pairs well with a hot stone plate.",
+  "cuisine": "australian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian Chuck Roast",
+      "amount": "1.5",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "fresh root"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the chuck roast with salt and black pepper, then set aside.",
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Sear the chuck roast until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the skillet to the oven and roast the chuck roast at 300°F (150°C) for 2-3 hours, or until tender.",
+    "While the chuck roast is roasting, combine the brown sugar, apple cider vinegar, water, ginger, garlic, salt, and black pepper in a saucepan to make the glaze.",
+    "Bring the glaze to a boil over medium heat, then reduce the heat to low and simmer for 5 minutes.",
+    "Remove the chuck roast from the oven and brush the glaze all over the top.",
+    "Return the skillet to the oven and roast for an additional 10-15 minutes, or until the glaze is caramelized and sticky.",
+    "Remove the chuck roast from the oven and let it rest for 10 minutes before slicing and serving.",
+    "Serve the chuck roast on a hot stone plate with additional glaze spooned over the top, if desired.",
+    "Sprinkle with honey and serve."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 165,
+  "totalTimeMin": 195,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "comfort-food",
+    "one-pan",
+    "paleo"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 30,
+    "fat": 34
+  },
+  "slug": "velvety-comforting-australian-chuck-roast-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-comforting-australian-chuck-roast-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:46:27Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "velvety",
+    "mood": "comforting",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "chuck roast",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "chuck roast",
+    "descriptor": "velvety comforting",
+    "dishForm": "roast"
+  }
+}
