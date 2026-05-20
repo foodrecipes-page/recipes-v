@@ -8522,6 +8522,22 @@
     "shard": "v"
   },
   {
+    "slug": "vibrant-light-mediterranean-egg-omelette",
+    "title": "Vibrant Light Mediterranean Egg Omelette",
+    "tags": [
+      "breakfast",
+      "easy",
+      "gluten-free",
+      "high-protein",
+      "low-fodmap",
+      "mediterranean",
+      "one-pan"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 18,
+    "shard": "v"
+  },
+  {
     "slug": "vibrant-light-mediterranean-pappardelle-pasta",
     "title": "Vibrant Light Mediterranean Pappardelle Pasta",
     "tags": [

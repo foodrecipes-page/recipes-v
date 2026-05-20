@@ -1,0 +1,110 @@
+{
+  "title": "Vibrant Light Mediterranean Egg Omelette",
+  "description": "A jammy, light, and vibrant Mediterranean-inspired egg omelette perfect for a brunch mood. Made with FODMAP-friendly ingredients and a hint of tangy tomato ketchup.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "low-FODMAP"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "Large eggs"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "tomato ketchup",
+      "amount": "2 tbsp",
+      "notes": "Low-FODMAP"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup",
+      "notes": "Crumbled"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together eggs, salt, and black pepper.",
+    "Heat olive oil in a 6-inch non-stick skillet over medium heat.",
+    "Add thinly sliced red onion and cook for 2-3 minutes or until softened.",
+    "Add chopped parsley and dill and cook for another minute.",
+    "Pour the whisked eggs over the onion mixture and cook for 2-3 minutes or until the eggs start to set.",
+    "Sprinkle crumbled feta cheese over the eggs and fold the omelette in half.",
+    "Cook for another minute or until the cheese is melted and the eggs are cooked through.",
+    "Transfer the omelette to a serving plate and drizzle with tomato ketchup and a squeeze of lemon juice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "easy",
+    "gluten-free",
+    "high-protein",
+    "low-fodmap",
+    "mediterranean",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 24,
+    "carbs": 4,
+    "fat": 16
+  },
+  "slug": "vibrant-light-mediterranean-egg-omelette",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-light-mediterranean-egg-omelette",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:01:41Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "light",
+    "mood": "brunch-mood",
+    "technique": "emulsify",
+    "primaryIngredient": "tomato ketchup",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Egg",
+    "descriptor": "Vibrant Light",
+    "dishForm": "Omelette"
+  }
+}
