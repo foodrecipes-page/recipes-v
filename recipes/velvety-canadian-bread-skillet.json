@@ -1,0 +1,101 @@
+{
+  "title": "Velvety Canadian Bread Skillet",
+  "description": "A one-pot dish featuring white bread, deglazed onions, and a rich peppery sauce, perfect for a low-sodium-friendly meal.",
+  "cuisine": "north american",
+  "diet": [
+    "low sodium"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "4 cups white bread",
+      "amount": "1-inch cubes",
+      "notes": ""
+    },
+    {
+      "name": "1 large onion",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "1 cup chicken broth",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons butter",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon ground black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon dried thyme",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon paprika",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "",
+      "notes": "reduce for low-sodium diet"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large oven-safe skillet over medium-high heat.",
+    "Add onion and cook, stirring occasionally, until browned, about 10 minutes.",
+    "Add bread to the skillet and cook, stirring occasionally, until lightly toasted, about 5 minutes.",
+    "Add broth, butter, pepper, thyme, paprika, and salt. Stir to combine.",
+    "Bring to a simmer and cook, stirring occasionally, until liquid is almost completely absorbed, about 5 minutes.",
+    "Transfer skillet to the oven and bake, uncovered, at 375°F (190°C) for 10-12 minutes, or until the bread is golden brown and the edges are crispy.",
+    "Remove from oven and serve hot.",
+    "Let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "low-sodium",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 12
+  },
+  "slug": "velvety-canadian-bread-skillet",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-canadian-bread-skillet",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:19:52Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "velvety",
+    "mood": "one-pot",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "white bread",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "bread",
+    "descriptor": "velvety",
+    "dishForm": "skillet"
+  }
+}
