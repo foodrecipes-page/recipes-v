@@ -1,0 +1,109 @@
+{
+  "title": "Velvety Blueberry Indian Blueberries Curry",
+  "description": "A smoky, glassy-jelly Indian dish featuring blueberries, perfect for a brunch mood in the form of a tandoor-clay-pot stir-fry. This Jain-friendly recipe is a twist on traditional Indian curries.",
+  "cuisine": "Indian",
+  "diet": [
+    "jain",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Blueberries",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Ghee or vegan butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp, grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of ghee or vegan butter in a tandoor-clay-pot over medium heat.",
+    "Add the sliced onion and cook, stirring occasionally, until it's lightly caramelized, about 8 minutes.",
+    "Add the minced garlic and grated ginger and cook for another minute, stirring constantly.",
+    "Add the cumin, coriander, turmeric, and cayenne pepper and cook for 1 minute, stirring constantly.",
+    "Add the blueberries, salt, and remaining 1 tablespoon of ghee or vegan butter and stir to combine.",
+    "Reduce heat to low and simmer, stirring occasionally, until the blueberries have broken down and the mixture has thickened, about 12 minutes.",
+    "Garnish with chopped cilantro and serve over rice or with naan bread.",
+    "Serve immediately and enjoy!",
+    "This dish can be made ahead and refrigerated for up to 24 hours or frozen for up to 2 months.",
+    "When reheating, add a splash of water if the mixture has thickened too much.",
+    "Adjust the seasoning as needed before serving.",
+    "This recipe makes 4-6 servings."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 5,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "gluten-free",
+    "indian-cuisine",
+    "jain-recipes",
+    "one-pan",
+    "vegetarian-recipes",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "velvety-blueberry-indian-blueberries-curry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-blueberry-indian-blueberries-curry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:33:45Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "glassy-jelly",
+    "mood": "brunch-mood",
+    "technique": "stir-fry",
+    "primaryIngredient": "blueberries",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "blueberries",
+    "descriptor": "Velvety Blueberry",
+    "dishForm": "Curry"
+  }
+}

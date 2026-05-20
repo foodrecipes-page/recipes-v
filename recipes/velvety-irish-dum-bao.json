@@ -1,0 +1,99 @@
+{
+  "title": "velvety irish dum bao",
+  "description": "a refreshing monsoon irish dish that pairs dumplings with crunchy snow peas in a tangy, velvety sauce",
+  "cuisine": "irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dried dumpling wrappers (wonton wrappers)",
+      "amount": "12-15 wrappers"
+    },
+    {
+      "name": "grated carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated zucchini",
+      "amount": "1 cup"
+    },
+    {
+      "name": "snow peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "white vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "combine carrots, zucchini, and snow peas in a large bowl and set aside",
+    "prepare dumplings according to package instructions and set aside",
+    "in a blender or food processor, combine sour cream, vinegar, and honey and blend until smooth",
+    "heat olive oil in a large skillet over medium heat",
+    "add the blended sour cream mixture to the skillet and cook for 2-3 minutes, stirring constantly",
+    "stir in salt and black pepper",
+    "add prepared dumplings and vegetables to the skillet and stir to combine",
+    "cook for an additional 2-3 minutes, until the sauce has thickened",
+    "serve immediately"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "irish",
+    "one-pan",
+    "spring",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 18
+  },
+  "slug": "velvety-irish-dum-bao",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-irish-dum-bao",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:33:46Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "velvety",
+    "mood": "monsoon",
+    "technique": "dum",
+    "primaryIngredient": "snow peas",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Dum",
+    "descriptor": "Velvety",
+    "dishForm": "Bao"
+  }
+}

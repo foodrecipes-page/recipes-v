@@ -1200,6 +1200,22 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-blueberry-indian-blueberries-curry",
+    "title": "Velvety Blueberry Indian Blueberries Curry",
+    "tags": [
+      "breakfast-ideas",
+      "gluten-free",
+      "indian-cuisine",
+      "jain-recipes",
+      "one-pan",
+      "vegetarian-recipes",
+      "weeknight"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-braised-dutch-butternut-squash-skillet",
     "title": "Velvety Braised Dutch Butternut Squash Skillet",
     "tags": [
@@ -3005,6 +3021,21 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 75,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-irish-dum-bao",
+    "title": "velvety irish dum bao",
+    "tags": [
+      "comfort-food",
+      "irish",
+      "one-pan",
+      "spring",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "irish",
+    "totalTimeMin": 23,
     "shard": "v"
   },
   {
