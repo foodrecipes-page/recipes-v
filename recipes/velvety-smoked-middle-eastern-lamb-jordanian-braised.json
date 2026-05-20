@@ -1,0 +1,110 @@
+{
+  "title": "Velvety Smoked Middle Eastern Lamb Jordanian Braised",
+  "description": "Jammy, velvety, monsoon-style braised lamb dish from Jordanian cuisine, featuring the warmth of harissa and the depth of ferment-jang.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless lamb shoulder",
+      "amount": "2 lbs",
+      "notes": "Cut into 2-inch pieces"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Harissa",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ferment-jang",
+      "amount": "2 tbsp",
+      "notes": "Available at Asian markets"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Stock",
+      "amount": "2 cups",
+      "notes": "Lamb or beef stock"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb until browned, about 5 minutes.",
+    "Remove the lamb and set aside.",
+    "Add the onion, garlic, and ginger to the pot and cook until the onion is softened, about 5 minutes.",
+    "Add the smoked paprika, harissa, and ferment-jang to the pot and cook for 1 minute.",
+    "Add the lamb back to the pot, along with the lemon juice and stock.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "Braise the lamb in the preheated oven for 2 hours, or until it is tender and falls apart easily.",
+    "Remove the pot from the oven and let it cool for 10 minutes.",
+    "Serve the lamb hot, garnished with parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "braised-lamb",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "velvety-smoked-middle-eastern-lamb-jordanian-braised",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-smoked-middle-eastern-lamb-jordanian-braised",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:05:45Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "velvety",
+    "mood": "monsoon",
+    "technique": "ferment-jang",
+    "primaryIngredient": "harissa spice",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Lamb",
+    "descriptor": "Velvety Smoked",
+    "dishForm": "Jordanian Braised"
+  }
+}
