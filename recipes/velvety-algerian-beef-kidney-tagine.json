@@ -1,0 +1,120 @@
+{
+  "title": "Velvety Algerian Beef Kidney Tagine",
+  "description": "A rich and flavorful Algerian dish featuring tender beef kidney, slow-cooked in a clay pot with aromatic spices and sweet onions.",
+  "cuisine": "Algerian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef kidney",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a clay pot or Dutch oven over medium heat.",
+    "Add the sliced onion and saut\u00127\u00019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019  "
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 1,
+  "totalTimeMin": 21,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "algerian",
+    "dinner",
+    "high-protein",
+    "kidney-beef",
+    "slow-cooker",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "velvety-algerian-beef-kidney-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-algerian-beef-kidney-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:26:02Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "velvety",
+    "mood": "show-off",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "beef kidney",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "algerian",
+    "mainIngredient": "beef kidney",
+    "descriptor": "velvety",
+    "dishForm": "tagine"
+  }
+}
