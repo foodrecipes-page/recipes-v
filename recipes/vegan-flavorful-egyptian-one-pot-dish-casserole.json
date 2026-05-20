@@ -1,0 +1,131 @@
+{
+  "title": "Vegan Egyptian One-Pot Casserole",
+  "description": "A sweet and flavorful one-pot Egyptian dish made with vegan sugar-free ingredients, perfect for a quick and easy dinner. This recipe features a bouncy texture and a delicious taste that will make you want to cook it again and again.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan",
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Vegan white wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Canned crushed tomatoes",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can (15 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Quinoa",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium heat.",
+    "Add the onion, garlic, and red bell pepper, cook until the vegetables are softened.",
+    "Add the cumin, coriander, paprika, salt, and pepper, cook for 1 minute.",
+    "Add the crushed tomatoes, chickpeas, quinoa, and vegetable broth, bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes.",
+    "Stir in the vegan white wine vinegar and cook for an additional 5 minutes.",
+    "Garnish with fresh parsley and serve hot.",
+    "Let the casserole rest for 10 minutes before serving.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "european",
+    "middle-eastern",
+    "one-pan",
+    "sugar-free",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "vegan-flavorful-egyptian-one-pot-dish-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/vegan-flavorful-egyptian-one-pot-dish-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:38:16Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "bouncy-qq",
+    "mood": "one-pot",
+    "technique": "boil",
+    "primaryIngredient": "vegan white wine vinegar",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "egyptian",
+    "mainIngredient": "one-pot dish",
+    "descriptor": "vegan flavorful",
+    "dishForm": "casserole"
+  }
+}
