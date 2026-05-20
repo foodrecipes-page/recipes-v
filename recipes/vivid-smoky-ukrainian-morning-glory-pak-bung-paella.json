@@ -1,0 +1,97 @@
+{
+  "title": "Vivid Smoky Ukrainian Morning-glory-pak-bung Paella",
+  "description": "A twist on traditional Ukrainian cuisine featuring morning-glory-pak-bung with a smoky twist. This gluten-free-friendly dish is perfect for a weeknight dinner.",
+  "cuisine": "ukrainian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked paprika",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "freshly ground black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bunch of morning-glory-pak-bung",
+      "amount": "2 cups"
+    },
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3"
+    },
+    {
+      "name": "diced red bell pepper",
+      "amount": "1 large"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat. Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the garlic cloves and cook for 1 minute, until fragrant.",
+    "Add the diced red bell pepper and cook for 2 minutes, until tender.",
+    "Add the smoked paprika, sea salt, and freshly ground black pepper. Stir to combine.",
+    "Add the boneless chicken breast and cook until browned on all sides, about 5-7 minutes.",
+    "Add the bunch of morning-glory-pak-bung and chicken broth to the pan. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 15-20 minutes, or until the liquid has been absorbed and the morning-glory-pak-bung is tender.",
+    "Remove the pan from the heat and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "smoky",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "vivid-smoky-ukrainian-morning-glory-pak-bung-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/vivid-smoky-ukrainian-morning-glory-pak-bung-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:07:10Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "fluffy",
+    "mood": "weeknight",
+    "technique": "smoke-cold",
+    "primaryIngredient": "morning-glory-pak-bung",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Morning-glory-pak-bung",
+    "descriptor": "Vivid Smoky",
+    "dishForm": "Paella"
+  }
+}
