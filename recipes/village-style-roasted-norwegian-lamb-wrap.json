@@ -1,0 +1,112 @@
+{
+  "title": "village-style roasted norwegian lamb wrap",
+  "description": "roasted norwegian lamb shanks wrapped in corn husks with a hint of smoked paprika. inspired by traditional norwegian cuisine.",
+  "cuisine": "norwegian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "norwegian lamb shanks",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "corn husks",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 300f (150c).",
+    "in a large Dutch oven, heat the olive oil over medium-high heat.",
+    "brown the lamb shanks on all sides, about 5 minutes per side. remove the lamb from the pot and set it aside.",
+    "add the onion to the pot and cook until it's translucent, about 5 minutes.",
+    "add the garlic, caraway seeds, smoked paprika, salt, and black pepper to the pot. cook for 1 minute.",
+    "add the browned lamb shanks back to the pot, then add the lemon juice and enough water to cover the lamb.",
+    "cover the pot and transfer it to the preheated oven.",
+    "bake for 2.5 hours, or until the lamb is tender and falling off the bone.",
+    "while the lamb is cooking, prepare the corn husks by soaking them in water for 30 minutes.",
+    "remove the lamb from the oven and let it rest for 10 minutes before serving.",
+    "wrap each portion of lamb in a corn husk, garnished with parsley and served warm."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 160,
+  "totalTimeMin": 190,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-carb",
+    "norwegian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 60,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "village-style-roasted-norwegian-lamb-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/village-style-roasted-norwegian-lamb-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:57:35Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "snappy",
+    "mood": "one-pot",
+    "technique": "slow-cook",
+    "primaryIngredient": "lamb shanks",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "norwegian",
+    "mainIngredient": "lamb",
+    "descriptor": "village-style roasted",
+    "dishForm": "wrap"
+  }
+}
