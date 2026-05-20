@@ -1,0 +1,106 @@
+{
+  "title": "Vibrant Fermented Spanish Orange Crema Catalana",
+  "description": "A deliciously malty and crispy Spanish dessert featuring fermented orange, perfect for post-workout indulgence and suitable for Buddhist temple-friendly gatherings.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "orange juice",
+      "amount": "3 cups",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "fermented orange peels",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "almond milk",
+      "amount": "2 cups",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "rice flour",
+      "amount": "2 cups",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1 cup",
+      "notes": "organic"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "filtered"
+    },
+    {
+      "name": "black sesame seeds",
+      "amount": "1/4 cup",
+      "notes": "raw"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the orange juice, fermented orange peels, and yeast. Let it sit for 2 hours in a warm environment to activate the yeast.",
+    "Add the almond milk, rice flour, coconut sugar, salt, and water to the bowl. Mix well until a smooth batter forms.",
+    "Heat a raclette grill to 375°F (190°C). Pour the batter onto the grill and spread it evenly to form a thin layer.",
+    "Cook for 12 minutes or until the edges are crispy and golden brown, flipping halfway through.",
+    "Remove from heat and sprinkle with black sesame seeds. Allow it to cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "easy-to-make",
+    "fermented-foods",
+    "gluten-free",
+    "post-workout-snacks",
+    "spanish-desserts"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "vibrant-fermented-spanish-orange-crema-catalana",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-fermented-spanish-orange-crema-catalana",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:50:51Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crispy",
+    "mood": "post-workout",
+    "technique": "ferment-jang",
+    "primaryIngredient": "orange",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "orange",
+    "descriptor": "Vibrant Fermented",
+    "dishForm": "Crema Catalana"
+  }
+}
