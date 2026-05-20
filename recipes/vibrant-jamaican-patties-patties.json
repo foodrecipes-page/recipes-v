@@ -1,0 +1,104 @@
+{
+  "title": "Vibrant Jamaican Patties",
+  "description": "Peppery, dense, Jamaican patties featuring Asian-chive-buchu and char-grilled flavors, perfect for a vegetarian meal.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Asian Chive-Buchu Paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Char-Grilled Onion",
+      "amount": "1 large, finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Use a non-iodized salt."
+    },
+    {
+      "name": "Cassava Flour",
+      "amount": "2 cups",
+      "notes": "Gluten-free alternative to wheat flour."
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons, melted",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine Asian chive-buchu paste, char-grilled onion, cayenne pepper, cumin, and lime juice in a large bowl.",
+    "Add cassava flour, salt, and chopped cilantro to the bowl, and mix until well combined.",
+    "Gradually add the melted butter, mixing until a smooth dough forms.",
+    "Divide the dough into 8 equal pieces, and shape each into a ball.",
+    "Roll out each ball into a thin circle, about 1/8 inch thick.",
+    "Place the patties on a lightly oiled baking sheet, and chill in the refrigerator for at least 30 minutes.",
+    "Preheat a non-stick skillet or griddle to medium heat.",
+    "Cook the patties for 2-3 minutes on each side, until golden brown and crispy.",
+    "Serve the patties warm, garnished with additional cilantro and lime wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-item",
+    "gluten-free",
+    "jamaican",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 9
+  },
+  "slug": "vibrant-jamaican-patties-patties",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-jamaican-patties-patties",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:40:22Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "show-off",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "asian-chive-buchu",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "patties",
+    "descriptor": "Vibrant",
+    "dishForm": "Patties"
+  }
+}

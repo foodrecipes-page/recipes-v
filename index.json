@@ -8348,6 +8348,20 @@
     "shard": "v"
   },
   {
+    "slug": "vibrant-jamaican-patties-patties",
+    "title": "Vibrant Jamaican Patties",
+    "tags": [
+      "breakfast-item",
+      "gluten-free",
+      "jamaican",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 30,
+    "shard": "v"
+  },
+  {
     "slug": "vibrant-jamaican-tofu-custard",
     "title": "Vibrant Jamaican Tofu Custard",
     "tags": [
