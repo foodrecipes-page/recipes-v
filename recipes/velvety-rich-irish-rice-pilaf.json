@@ -1,0 +1,81 @@
+{
+  "title": "Velvety Rich Irish Rice Pilaf",
+  "description": "A show-off Irish dish featuring a velvety rich sauce made with rice syrup, jocheong, and dashi extract, perfect for a special occasion or a impressive dinner party. This lacto-vegetarian-friendly pilaf is a masterclass in flavor and texture.",
+  "cuisine": "Irish",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "short-grain rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "rice syrup",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "jocheong",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "dashi extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large saucepan over medium heat. Add chopped onion and cook until softened, about 3-4 minutes.",
+    "Add minced garlic and cook for 1 minute, until fragrant."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "irish",
+    "lacto-vegetarian",
+    "one-pan",
+    "show-off",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "velvety-rich-irish-rice-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-rich-irish-rice-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:52:25Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "velvety",
+    "mood": "show-off",
+    "technique": "dashi-extract",
+    "primaryIngredient": "rice-syrup-jocheong",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "rice",
+    "descriptor": "velvety rich",
+    "dishForm": "Pilaf"
+  }
+}
