@@ -1,0 +1,111 @@
+{
+  "title": "Velvety Indulgent Japanese Myeolchi-Anchovies Noodles",
+  "description": "A decadent and comforting dish featuring myeolchi-anchovies in a rich, yeasty sauce.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Myeolchi-Anchovies",
+      "amount": "8 ounces",
+      "notes": "Cured anchovies can be substituted with fresh anchovies if desired."
+    },
+    {
+      "name": "Sake",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dark Miso Paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 teaspoon",
+      "notes": "Optional."
+    },
+    {
+      "name": "Soba Noodles",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped."
+    }
+  ],
+  "instructions": [
+    "Combine myeolchi-anchovies, sake, miso paste, sugar, salt, and black pepper in a saucepan and simmer for 10 minutes over medium heat.",
+    "Add butter and sesame oil to the saucepan and stir until melted and well combined.",
+    "Bring a large pot of water to a boil and cook soba noodles according to package instructions.",
+    "Drain noodles and toss with the anchovy sauce until well coated.",
+    "Transfer noodles to a serving dish and top with green onions and sesame seeds (if using)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "indulgent",
+    "japanese",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "velvety-indulgent-japanese-myeolchi-anchovies-noodles",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-indulgent-japanese-myeolchi-anchovies-noodles",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:33:28Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "velvety",
+    "mood": "indulgent",
+    "technique": "cure",
+    "primaryIngredient": "myeolchi-anchovies",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "myeolchi-anchovies",
+    "descriptor": "velvety indulgent",
+    "dishForm": "Noodles"
+  }
+}
