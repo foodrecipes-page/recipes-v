@@ -1,0 +1,67 @@
+{
+  "title": "Velvety Winey Egyptian Beurre-Noisette Skillet",
+  "description": "A rich and indulgent Egyptian-inspired dish featuring a velvety beurre-noisette sauce, served in a cast-iron skillet.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1",
+      "notes": "1 lb, boneless, skinless"
+    }
+  ],
+  "instructions": [
+    "Heat the cast-iron skillet over medium-high heat.",
+    "Add the chicken breast and cook until browned on both sides, about 5 minutes total.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the butter to the skillet and cook until it turns golden brown and has a nutty aroma.",
+    "Add the garlic and ginger to the skillet and cook for 1 minute, until fragrant.",
+    "Add the wine and cook until reduced by half, about 2 minutes.",
+    "Add the chicken broth and bring to a simmer.",
+    "Return the chicken to the skillet and simmer until cooked through, about 5 minutes.",
+    "Stir in the ferment-jang and cook for 1 minute, until well combined.",
+    "Season with salt and pepper to taste.",
+    "Serve the chicken and sauce in the cast-iron skillet, garnished with fresh parsley.",
+    "Let the dish rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "egyptian",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 422,
+    "protein": 43,
+    "carbs": 6,
+    "fat": 26
+  },
+  "slug": "velvety-winey-egyptian-beurre-noisette-skillet",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-winey-egyptian-beurre-noisette-skillet",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:10:41Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "velvety",
+    "mood": "show-off",
+    "technique": "ferment-jang",
+    "primaryIngredient": "beurre-noisette",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "beurre-noisette",
+    "descriptor": "velvety winey",
+    "dishForm": "Skillet"
+  }
+}
