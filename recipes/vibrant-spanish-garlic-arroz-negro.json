@@ -1,0 +1,108 @@
+{
+  "title": "Vibrant Spanish Garlic Arroz Negro",
+  "description": "A sour, crispy, and quick-fix Spanish dish featuring garlic, mantecare, and a satvik twist. Perfect for a weeknight dinner or a special occasion.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Arroz Negro (Squid Ink Rice)",
+      "amount": "1 cup",
+      "notes": "Available at most Spanish or Asian grocery stores."
+    },
+    {
+      "name": "Mantecare (Milk or Vegan Alternative)",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed."
+    },
+    {
+      "name": "EVOO (Extra Virgin Olive Oil)",
+      "amount": "2 tablespoons",
+      "notes": "Cold-pressed."
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 teaspoon",
+      "notes": "Spanish smoked paprika (pimentón) for added depth."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped (optional)",
+      "notes": ""
+    },
+    {
+      "name": "Champagne Vinegar",
+      "amount": "1 tablespoon",
+      "notes": "White wine vinegar or apple cider vinegar as substitute."
+    },
+    {
+      "name": "Crushed Red Pepper Flakes",
+      "amount": "to taste",
+      "notes": "For added heat."
+    }
+  ],
+  "instructions": [
+    "Heat EVOO in a large skillet over medium-high heat.",
+    "Add crushed garlic and cook until fragrant, 1 minute.",
+    "Add Arroz Negro and cook for 2-3 minutes, stirring frequently.",
+    "Add mantecare, lemon juice, smoked paprika, salt, and crushed red pepper flakes. Stir until the mixture is heated through and slightly thickened.",
+    "Add chopped parsley if using. Stir to combine.",
+    "Taste and adjust seasoning as needed.",
+    "Transfer the arroz negro to a serving dish and garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "low-carb",
+    "one-pan",
+    "spanish",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "vibrant-spanish-garlic-arroz-negro",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-spanish-garlic-arroz-negro",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:19:02Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crispy",
+    "mood": "quick-fix",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "garlic",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "garlic",
+    "descriptor": "Vibrant",
+    "dishForm": "Arroz Negro"
+  }
+}
