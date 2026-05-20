@@ -1,0 +1,68 @@
+{
+  "title": "Vibrant Katsuramuki Brazilian Beets Bowl",
+  "description": "A bitter, gooey, indulgent Brazilian dish featuring beets, katsuramuki-cut, perfect for a Mediterranean-inspired meal. This recipe serves as a unique twist on traditional Brazilian cuisine.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beets",
+      "amount": "2 medium",
+      "notes": "any color, but red beets work best for color"
+    }
+  ],
+  "instructions": [
+    "Chop 2 medium beets into thin strips, using a mandoline for optimal katsuramuki-cut texture.",
+    "Heat 2 tablespoons of olive oil in a saucepan over medium-high heat.",
+    "Add 1 small onion, diced, and saut\u00068\u00066t until translucent, 3-4 minutes.",
+    "Add 2 cloves of minced garlic and cook for an additional 30 seconds, until fragrant.",
+    "Add 2 cups of water and 1 tablespoon of soy sauce to the saucepan.",
+    "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 20-25 minutes, or until the beets are tender.",
+    "Using a slotted spoon, transfer the beets to a blender and puree until smooth.",
+    "Strain the cooking liquid into a small bowl, discarding the solids.",
+    "In a large saucepan, combine 2 tablespoons of olive oil, 1 tablespoon of soy sauce, and 2 tablespoons of honey.",
+    "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 5-7 minutes, until thickened slightly.",
+    "Stir in 1 tablespoon of lemon juice and 1 teaspoon of grated ginger.",
+    "To assemble the bowls, place 1/4 cup of cooked quinoa in the bottom of a mason jar.",
+    "Add 1/2 cup of the beet puree on top of the quinoa, followed by 1/2 cup of the warm sauce and 1/4 cup of toasted almonds.",
+    "Garnish with fresh cilantro, if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "mason-jar",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "vibrant-katsuramuki-brazilian-beets-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-katsuramuki-brazilian-beets-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:31:36Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "gooey",
+    "mood": "indulgent",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "beets",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "beets",
+    "descriptor": "Vibrant Katsuramuki",
+    "dishForm": "Bowl"
+  }
+}
