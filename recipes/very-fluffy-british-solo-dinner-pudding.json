@@ -1,0 +1,139 @@
+{
+  "title": "very fluffy british solo-dinner pudding",
+  "description": "a spicy, fluffy, solo-dinner british dish featuring orange blossom water, lamination-puff, and macrobiotic-friendly ingredients. serves one person.",
+  "cuisine": "british",
+  "diet": [
+    "macrobiotic",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1 cup",
+      "notes": "macrobiotic-friendly"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "puff pastry, lamination-puff",
+      "amount": "1 sheet",
+      "notes": "macrobiotic-friendly"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "frozen orange juice concentrate",
+      "amount": "2 tablespoons",
+      "notes": "macrobiotic-friendly"
+    }
+  ],
+  "instructions": [
+    "combine water, cornstarch, and salt in a saucepan. cook over medium heat, whisking constantly, until the mixture thickens.",
+    "remove the saucepan from the heat and add the grated ginger, orange blossom water, and cayenne pepper. whisk until well combined.",
+    "add the unsweetened almond milk and vanilla extract to the saucepan. whisk until the milk is fully incorporated and the mixture is smooth.",
+    "remove the puff pastry from the freezer and let it thaw at room temperature for 10 minutes.",
+    "roll out the puff pastry to a thickness of about 1/8 inch.",
+    "cut out a circle of puff pastry that is slightly larger than the saucepan. place the pastry circle on top of the saucepan and trim the edges to fit.",
+    "brush the pastry with a little water and sprinkle with coconut sugar.",
+    "bake the pudding in a preheated oven at 400\u00178f for 25 minutes, or until the pastry is golden brown and the filling is hot and bubbly.",
+    "remove the pudding from the oven and sprinkle with turmeric powder and black pepper.",
+    "let the pudding cool for a few minutes before serving.",
+    "serve warm, garnished with a sprinkle of cinnamon powder, if desired.",
+    "discard any leftovers after 24 hours.",
+    "keep the pudding at a safe internal temperature of 145\u00178f or above during storage and service.",
+    "use a clean and sanitized utensil to handle the pudding when serving.",
+    "do not consume the pudding if it has been left at room temperature for more than 2 hours."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "fluffy",
+    "gluten-free",
+    "macrobiotic-friendly",
+    "pudding",
+    "solo-dinner",
+    "spicy",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "very-fluffy-british-solo-dinner-pudding",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/very-fluffy-british-solo-dinner-pudding",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:50:58Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "lamination-puff",
+    "primaryIngredient": "orange blossom water",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "solo-dinner",
+    "descriptor": "Very Fluffy",
+    "dishForm": "Pudding"
+  }
+}
