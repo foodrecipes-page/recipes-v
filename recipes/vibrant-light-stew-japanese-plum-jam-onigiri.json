@@ -1,0 +1,92 @@
+{
+  "title": "Vibrant Light Stew Japanese Plum Jam Onigiri",
+  "description": "A light and savory Japanese-inspired dish perfect for a sick day, featuring plum jam and a hint of tagine-spices, served as an onigiri in a terracotta dish.",
+  "cuisine": "Japanese",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Japanese short-grain rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Miso paste",
+      "amount": "1 cup",
+      "notes": "",
+      "},{": "miso-flavored water"
+    },
+    {
+      "name": "Dried plum (umeboshi)",
+      "amount": "1/4 cup",
+      "notes": "",
+      "},{": "Aromatics (green onions, grated ginger)"
+    },
+    {
+      "name": "Tagine spice blend",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 teaspoon",
+      "notes": "",
+      "},{": "Soy sauce"
+    }
+  ],
+  "instructions": [
+    "Combine the Japanese short-grain rice and miso paste in a large bowl, mixing well.",
+    "Gradually add the miso-flavored water, stirring until the mixture forms a sticky dough.",
+    "Knead the dough for 5 minutes until it becomes pliable and smooth.",
+    "Cut the dough into 4 equal pieces.",
+    "Shape each piece into a ball and then flatten it slightly into a disk shape.",
+    "Place a small amount of plum jam in the center of each disk.",
+    "Add a few strips of shio kombu and some chopped aromatics on top of the jam.",
+    "Fold the dough over the filling, forming a triangle or a square shape, and press the edges together to seal the onigiri.",
+    "Heat a large tagine or Dutch oven over medium heat.",
+    "Add a small amount of sesame seeds, if using, and then place the onigiri in the pot.",
+    "Cook for 10-12 minutes, turning the onigiri occasionally, until they are lightly browned and crispy on the outside.",
+    "Serve the onigiri hot in a terracotta dish, garnished with additional aromatics and a drizzle of soy sauce, if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "japanese",
+    "macrobiotic-friendly",
+    "sick-day",
+    "tagine-style",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 4
+  },
+  "slug": "vibrant-light-stew-japanese-plum-jam-onigiri",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-light-stew-japanese-plum-jam-onigiri",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:40:07Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "light",
+    "mood": "sick-day",
+    "technique": "tagine-cook",
+    "primaryIngredient": "plum jam",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Plum Jam",
+    "descriptor": "Vibrant Light Stew",
+    "dishForm": "Onigiri"
+  }
+}
