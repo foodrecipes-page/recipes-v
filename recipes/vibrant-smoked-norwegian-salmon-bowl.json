@@ -1,0 +1,113 @@
+{
+  "title": "Vibrant Smoked Norwegian Salmon Bowl",
+  "description": "A Buddhist-temple-friendly, sashimi-cut, hot smoked Norwegian salmon dish served in a lacquerware bowl, perfect for a sick day pick-me-up.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "hot smoked Norwegian salmon",
+      "amount": "12 oz",
+      "notes": "flaked"
+    },
+    {
+      "name": "jasmine rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1/2 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tbsp",
+      "notes": "toasted"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp",
+      "notes": "seasoned"
+    },
+    {
+      "name": "lacquerware bowl",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F to toast the sesame seeds.",
+    "Spread the sesame seeds on a baking sheet and toast in the oven for 5 minutes, or until fragrant.",
+    "Cook the jasmine rice according to package instructions.",
+    "Prepare the pickled ginger by thinly slicing it and soaking it in rice vinegar for at least 30 minutes.",
+    "Slice the cucumber and carrots into thin strips and set aside.",
+    "Flake the hot smoked Norwegian salmon into small pieces and set aside.",
+    "In a small bowl, whisk together the soy sauce and rice vinegar to make the dressing.",
+    "To assemble the bowls, divide the cooked jasmine rice between two lacquerware bowls.",
+    "Top the rice with the flaked salmon, pickled ginger, cucumber, carrots, and green onions.",
+    "Drizzle the dressing over the top of each bowl and sprinkle with toasted sesame seeds.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "healthy",
+    "high-protein",
+    "norwegian",
+    "one-bowl",
+    "smoked-fish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "vibrant-smoked-norwegian-salmon-bowl",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-smoked-norwegian-salmon-bowl",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-20T14:55:27Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "molten",
+    "mood": "sick-day",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "hot smoked flaked salmon",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "salmon",
+    "descriptor": "Vibrant Smoked",
+    "dishForm": "Bowl"
+  }
+}
