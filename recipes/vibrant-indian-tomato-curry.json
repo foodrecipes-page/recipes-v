@@ -1,0 +1,101 @@
+{
+  "title": "Vibrant Indian Tomato Curry",
+  "description": "A sour and light Indian-inspired curry featuring Madras paste and confit-tomato, perfect for an energizing ovo-vegetarian-friendly meal.",
+  "cuisine": "Indian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Onion",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch",
+      "notes": ""
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 can (14 oz)",
+      "notes": "confit"
+    },
+    {
+      "name": "Madras paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion, garlic, and ginger, and saut\u00187 until softened, about 5 minutes.",
+    "Add Madras paste and cook for 1 minute, stirring constantly.",
+    "Add tomatoes, coconut milk, water, and salt, and stir to combine."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "curry",
+    "indian",
+    "ovo-vegetarian",
+    "tomato",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 20
+  },
+  "slug": "vibrant-indian-tomato-curry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-indian-tomato-curry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:52:10Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "light",
+    "mood": "energizing",
+    "technique": "confit-tomato",
+    "primaryIngredient": "madras paste",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "tomato",
+    "descriptor": "Vibrant",
+    "dishForm": "Curry"
+  }
+}
