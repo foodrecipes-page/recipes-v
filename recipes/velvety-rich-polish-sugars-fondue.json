@@ -1,0 +1,96 @@
+{
+  "title": "Velvety Rich Polish Sugars Fondue",
+  "description": "Rich, gooey, comforting Polish dish featuring al-dente-finish. Perfect for a low-carb-friendly dessert or snack.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "light brown sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Polish rye flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large eggs",
+      "notes": " beaten "
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pinch of salt",
+      "amount": "",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Combine heavy cream, unsalted butter, granulated sugar, light brown sugar, and Polish rye flour in a medium saucepan over medium heat, stirring until the sugar dissolves.",
+    "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 5 minutes, or until the mixture thickens.",
+    "Remove the saucepan from the heat and stir in the beaten eggs, vanilla extract, and pinch of salt (if using).",
+    "Return the saucepan to medium heat and cook, stirring constantly, until the mixture thickens and coats the back of a spoon.",
+    "Transfer the fondue to a fondue pot and serve immediately.",
+    "Adjust the seasoning with additional sugar, vanilla extract, or pinch of salt as needed.",
+    "Serve the fondue with sliced fruit, cake, or cookies for dipping.",
+    "Allow the fondue to cool slightly before serving, if desired.",
+    "Use a thermometer to ensure the fondue reaches 160-170°F (71-77°C) for food safety."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "fondue",
+    "low-carb",
+    "polish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 30
+  },
+  "slug": "velvety-rich-polish-sugars-fondue",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-rich-polish-sugars-fondue",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:48:32Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "gooey",
+    "mood": "comforting",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "sugars",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "sugars",
+    "descriptor": "Velvety Rich",
+    "dishForm": "Fondue"
+  }
+}
