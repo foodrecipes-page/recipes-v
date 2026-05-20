@@ -1,0 +1,104 @@
+{
+  "title": "Vibrant Shattering Egyptian Vegetables Bake",
+  "description": "A flavorful and nutritious Egyptian-inspired dish featuring shattering vegetables, tangy gherkin relish, and aromatic spices. Perfect for a monsoon evening.",
+  "cuisine": "Egyptian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 large eggplants",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 large red onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "4 large bell peppers",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "1 large zucchini",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 cup gherkin relish",
+      "amount": "1",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "2 tsp ground cumin",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp paprika",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the eggplants, onion, bell peppers, and zucchini into bite-sized pieces.",
+    "Place the vegetables in a large bowl and drizzle with olive oil.",
+    "Sprinkle the cumin, paprika, salt, and pepper over the vegetables and toss to coat.",
+    "Transfer the vegetables to a large baking dish and cover with foil.",
+    "Bake for 30 minutes, then remove the foil and continue baking for an additional 20-25 minutes, or until the vegetables are tender and lightly browned.",
+    "While the vegetables are baking, prepare the gherkin relish by mixing it with a squeeze of lemon juice.",
+    "Remove the vegetables from the oven and top with the gherkin relish.",
+    "Serve hot and enjoy!",
+    "Garnish with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 50,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bell-pepper",
+    "eggplant",
+    "gerkin-relish",
+    "monsoon-weather",
+    "one-pan",
+    "vegetarian",
+    "zucchini"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "vibrant-shattering-egyptian-vegetables-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-shattering-egyptian-vegetables-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T17:08:52Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "shattering",
+    "mood": "monsoon",
+    "technique": "bake",
+    "primaryIngredient": "gherkin relish",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Vibrant Shattering",
+    "dishForm": "Bake"
+  }
+}
