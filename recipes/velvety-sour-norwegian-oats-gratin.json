@@ -1,0 +1,104 @@
+{
+  "title": "velvety sour norwegian oats gratin",
+  "description": "a lazy-sunday norwegian dish featuring oats and render-fat. can be adjusted to suit raw-friendly diets.",
+  "cuisine": "norwegian",
+  "diet": [
+    "vegetarian",
+    "paleo",
+    "raw-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "oats",
+      "amount": "1 cup",
+      "notes": "preferably steel-cut or rolled oats"
+    },
+    {
+      "name": "rendered fat",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tbsp",
+      "notes": "raw-friendly substitute for traditional sour cream"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "yogurt or coconut yogurt",
+      "amount": "1 cup",
+      "notes": "optional for raw-friendly diets"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375 degrees fahrenheit and place a cedar plank on a baking sheet.",
+    "rinse the oats in cold water and soak them for at least 30 minutes.",
+    "drain the oats and mix them with the rendered fat, water, apple cider vinegar, salt, black pepper, and fresh parsley.",
+    "pour the oat mixture onto the preheated cedar plank and smooth the top.",
+    "cover the baking sheet with aluminum foil and bake for 30 minutes.",
+    "remove the foil and continue baking for an additional 20-25 minutes or until the oats are tender.",
+    "if serving with yogurt or coconut yogurt, top the oats with it before serving.",
+    "garnish with chopped scallions before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 50,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "gratin",
+    "norwegian",
+    "oats",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "velvety-sour-norwegian-oats-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-sour-norwegian-oats-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:27:26Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "render-fat",
+    "primaryIngredient": "oats",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "oats",
+    "descriptor": "velvety sour",
+    "dishForm": "Gratin"
+  }
+}
