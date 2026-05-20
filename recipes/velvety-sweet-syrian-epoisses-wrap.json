@@ -1,0 +1,114 @@
+{
+  "title": "velvety,sweet syrian epoisses wrap",
+  "description": "a date-night syrian dish featuring epoisses, wrapped in leaves and steamed to perfection. perfect for a special occasion or romantic dinner.",
+  "cuisine": "syrian",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "epoisses cheese",
+      "amount": "120g",
+      "notes": "a strong, pungent cheese with a golden-brown color and a creamy texture."
+    },
+    {
+      "name": "pine nuts",
+      "amount": "30g",
+      "notes": ""
+    },
+    {
+      "name": "dried dates",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "wheat leaf wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "bamboo tray",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "cardamom",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "place a wheat leaf wrap in a bamboo tray lined with parchment paper.",
+    "arrange 4 dried dates in the center of the leaf wrap.",
+    "place 60g of epoisses cheese on top of the dates.",
+    "drizzle 1 tbsp of honey over the cheese.",
+    "sprinkle a pinch of cinnamon and cardamom over the honey.",
+    "fold the leaf wrap to enclose the filling.",
+    "secure with a toothpick if necessary.",
+    "steam the wrap in a bamboo steamer for 2 minutes.",
+    "serve warm, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "cheese",
+    "date-night",
+    "dessert",
+    "romantic",
+    "syrain"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 24,
+    "carbs": 64,
+    "fat": 32
+  },
+  "slug": "velvety-sweet-syrian-epoisses-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-sweet-syrian-epoisses-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:49:59Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "epoisses",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Epoisses",
+    "descriptor": "Velvety, Sweet",
+    "dishForm": "Wrap"
+  }
+}
