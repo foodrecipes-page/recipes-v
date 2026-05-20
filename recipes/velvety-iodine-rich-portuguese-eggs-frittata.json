@@ -1,0 +1,113 @@
+{
+  "title": "Velvety Iodine-Rich Portuguese Eggs Frittata",
+  "description": "A briny, velvety, post-workout Portuguese dish featuring free-range eggs, perfect for a cazuela, low-carb friendly and featuring shio-cure for an added iodine boost.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Free-range eggs",
+      "amount": "6",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Shio-cured salt",
+      "amount": "1/4 teaspoon",
+      "notes": "Fleury"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Mince"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "2 sprigs",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Melted"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Fresno pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Flakes"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 pinch",
+      "notes": "Kosher"
+    }
+  ],
+  "instructions": [
+    "Add 2 tablespoons of melted butter to a cazuela over medium-high heat.",
+    "Once hot, add the minced garlic and cook for 1 minute.",
+    "Add the chopped parsley and cook for an additional 30 seconds.",
+    "Add the beaten free-range eggs and cook until just set, about 3-4 minutes.",
+    "Add the shredded cheddar cheese, shio-cured salt, black pepper, and Fresno pepper flakes.",
+    "Stir until the cheese is melted and the mixture is well combined.",
+    "Transfer the mixture to the preheated oven and bake at 375°F (190°C) for 15-20 minutes.",
+    "Remove from the oven and sprinkle with chopped fresh thyme.",
+    "Serve warm with a squeeze of lemon juice and a pinch of kosher salt."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "eggs",
+    "iodine-rich",
+    "low-carb",
+    "one-pan",
+    "portuguese",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 4,
+    "fat": 18
+  },
+  "slug": "velvety-iodine-rich-portuguese-eggs-frittata",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-iodine-rich-portuguese-eggs-frittata",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:47:52Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "velvety",
+    "mood": "post-workout",
+    "technique": "shio-cure",
+    "primaryIngredient": "free-range eggs beaten",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "eggs",
+    "descriptor": "velvety iodine-rich",
+    "dishForm": "Frittata"
+  }
+}
