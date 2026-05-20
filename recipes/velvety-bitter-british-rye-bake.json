@@ -1,0 +1,96 @@
+{
+  "title": "Velvety Bitter British Rye Bake",
+  "description": "A rich and velvety dessert featuring British bitter beer, rye flour, and no eggs, perfect for a romantic evening.",
+  "cuisine": "British",
+  "diet": [
+    "dairy",
+    "gluten"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Rye flour",
+      "amount": "250g"
+    },
+    {
+      "name": "Dark brown sugar",
+      "amount": "150g"
+    },
+    {
+      "name": "Butter",
+      "amount": "120g"
+    },
+    {
+      "name": "Bitter British beer",
+      "amount": "120ml"
+    },
+    {
+      "name": "Large egg substitute (e.g. flaxseed",
+      "amount": "reconstituted 1:3 ratio"
+    },
+    {
+      "name": "Espresso powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Freshly grated ginger",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a copper pot over a low heat on your stovetop, then add the butter and allow it to melt.",
+    "Add the rye flour and mix until it forms a crumbly mixture.",
+    "Gradually add the dark brown sugar and mix until well combined.",
+    "Pour in the bitter British beer and mix until a smooth batter forms.",
+    "Add the reconstituted egg substitute, espresso powder, and salt, and mix until fully incorporated.",
+    "Transfer the mixture to the preheated copper pot and stir in the grated ginger.",
+    "Cook over a low heat for 30 minutes, stirring occasionally.",
+    "Remove from heat and let cool for 10 minutes before serving.",
+    "Serve warm, garnished with a sprinkle of grated ginger if desired.",
+    "Allow to cool completely before refrigerating for up to 3 days.",
+    "When ready to serve, reheat gently in a copper pot or oven until warm and gooey."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "british",
+    "dessert",
+    "easter",
+    "holiday",
+    "rich",
+    "romantic",
+    "velvety",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 12,
+    "carbs": 80,
+    "fat": 40
+  },
+  "slug": "velvety-bitter-british-rye-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-bitter-british-rye-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:34:05Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "velvety",
+    "mood": "romantic",
+    "technique": "emulsify",
+    "primaryIngredient": "rye",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "rye",
+    "descriptor": "velvety bitter",
+    "dishForm": "Bake"
+  }
+}
