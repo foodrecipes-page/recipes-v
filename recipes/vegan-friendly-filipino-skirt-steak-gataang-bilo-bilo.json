@@ -1,0 +1,131 @@
+{
+  "title": "Vegan-friendly Filipino Skirt Steak Gataang-Bilao-Bilao",
+  "description": "A comforting Filipino dish featuring skirt steak, vegetables, and sticky rice, cooked in coconut milk and flavored with spices. This vegan-friendly version replaces traditional fish sauce with a plant-based alternative.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "skirt steak",
+      "amount": "1 lb",
+      "notes": "vegan-friendly, sliced into thin strips"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "fish-free sauce",
+      "amount": "2 tbsp",
+      "notes": "such as nam pla or vegan fish sauce"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4-6",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "sticky rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium heat.",
+    "Add the onion, garlic, and ginger, and cook until the onion is translucent.",
+    "Add the skirt steak and cook until browned, about 3-4 minutes.",
+    "Add the vegetable broth, tomato paste, fish-free sauce, salt, and pepper, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10-15 minutes.",
+    "Add the coconut milk and stir to combine.",
+    "Add the rice and stir-fry for about 5 minutes, until the rice is well coated with the sauce.",
+    "Transfer the mixture to banana leaves or to individual serving cups, and serve with steamed vegetables.",
+    "Serve the Gataang-Bilao-Bilao with steamed sticky rice and a side of steamed vegetables.",
+    "Simmer the sauce for an additional 10-15 minutes to thicken it, if desired.",
+    "Taste and adjust the seasoning as needed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "filipino",
+    "gluten-free",
+    "one-pan",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "vegan-friendly-filipino-skirt-steak-gataang-bilo-bilo",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/vegan-friendly-filipino-skirt-steak-gataang-bilo-bilo",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:39:34Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "springy",
+    "mood": "comforting",
+    "technique": "dum",
+    "primaryIngredient": "skirty steak",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Skirt steak",
+    "descriptor": "Vegan-friendly",
+    "dishForm": "GATAANG-BILO-BILO"
+  }
+}
