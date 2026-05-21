@@ -1,0 +1,104 @@
+{
+  "title": "Velvety Slovakian Dried-Shrimp-Goong-Haeng Pasta",
+  "description": "A sweet and velvety Slovakian pasta dish made with dried shrimp, goong haeng, and a pasta water emulsion. Perfect for a brunch-inspired meal.",
+  "cuisine": "Slovakian",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Dried shrimp goong haeng",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Penne pasta",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Whole milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Large egg yolks",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Grated fresh ginger",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the penne pasta according to package instructions until al dente. Drain and set aside.",
+    "In a medium saucepan, melt the butter over medium heat. Whisk in the flour to make a roux, cooking for 1 minute.",
+    "Slowly pour in the milk, whisking constantly to avoid lumps. Bring the mixture to a simmer and cook for 2 minutes, or until thickened.",
+    "In a separate bowl, whisk together the egg yolks and grated ginger. Temper the egg yolks by slowly pouring the warm milk mixture into the eggs, whisking constantly.",
+    "Return the sauce to the saucepan and add the cooked dried shrimp goong haeng. Whisk until well combined.",
+    "Add the granulated sugar and cook for an additional 1-2 minutes, or until dissolved.",
+    "Season with salt to taste.",
+    "Stir in the cooked penne pasta until well coated in the sauce.",
+    "Garnish with fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "velvety-slovakian-dried-shrimp-goong-haeng-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-slovakian-dried-shrimp-goong-haeng-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:40:34Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "velvety",
+    "mood": "brunch-mood",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "dried-shrimp-goong-haeng",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Dried-Shrimp-Goong-Haeng",
+    "descriptor": "Velvety",
+    "dishForm": "Pasta"
+  }
+}
