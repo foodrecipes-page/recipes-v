@@ -1,0 +1,124 @@
+{
+  "title": "Vibrant Crispy Irish Chicken Quesadilla",
+  "description": "A fresh, juicy, weeknight Irish-inspired dish featuring crispy chicken, sweet peppers, onions, and smooth Monterey Jack cheese, all wrapped in a gluten-free-friendly tortilla.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "4",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "Monterey Jack cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Flour",
+      "amount": "1/4 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tortilla",
+      "amount": "4",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Bacon",
+      "amount": "4 slices",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "In a large skillet, melt 1 tablespoon of butter over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of butter, the soy sauce, Worcestershire sauce, and garlic.",
+    "Cook for 1 minute, stirring constantly.",
+    "Add the sliced onions to the skillet and cook until they start to caramelize, about 5 minutes.",
+    "Add the bell peppers to the skillet and cook for an additional 2 minutes.",
+    "In a shallow dish, mix together the flour, Panko breadcrumbs, and a pinch of salt.",
+    "Dredge the chicken pieces in the flour mixture, shaking off excess.",
+    "Dip the floured chicken in the beaten eggs and then coat in the Panko breadcrumb mixture.",
+    "Heat about 1/2 inch of oil in a large skillet over medium-high heat.",
+    "Add the coated chicken to the skillet and cook until golden brown and crispy, about 3-4 minutes per side.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the quesadillas by placing a piece of crispy chicken on one half of the tortilla, followed by some sautéed onions and bell peppers.",
+    "Top with shredded cheese and fold the tortilla in half.",
+    "Cook the quesadillas in a large skillet over medium heat for 2-3 minutes on each side, until the cheese is melted and the tortilla is crispy.",
+    "Cut the quesadillas into wedges and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "gluten-free",
+    "high-protein",
+    "irish",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 30,
+    "fat": 34
+  },
+  "slug": "vibrant-crispy-irish-chicken-quesadilla",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-crispy-irish-chicken-quesadilla",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T01:12:40Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "juicy",
+    "mood": "weeknight",
+    "technique": "flambe",
+    "primaryIngredient": "monterey jack cheese",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "chicken",
+    "descriptor": "Vibrant Crispy",
+    "dishForm": "Quesadilla"
+  }
+}
