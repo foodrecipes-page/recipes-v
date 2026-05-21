@@ -1,0 +1,101 @@
+{
+  "title": "Vibrant Raw Jamaican Vegetable Salad",
+  "description": "A bitter, snappy, and indulgent Jamaican dish featuring raw vegetables, tempered with chocolate, and keto-friendly.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "keto",
+    "low-carb",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "1/2 cup",
+      "notes": "diced and seeded"
+    },
+    {
+      "name": "dark chocolate",
+      "amount": "1/4 cup",
+      "notes": "tempered"
+    },
+    {
+      "name": "pumpkin seeds",
+      "amount": "1/4 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the shredded cabbage, grated carrots, and diced scotch bonnet peppers.",
+    "In a small bowl, whisk together the lime juice, olive oil, salt, and black pepper.",
+    "Pour the dressing over the vegetable mixture and toss to coat.",
+    "Melt the dark chocolate in a double boiler and temper it by cooling and re-heating it.",
+    "Stir the tempered chocolate into the vegetable mixture until well combined.",
+    "Sprinkle the toasted pumpkin seeds over the top of the salad and toss again to coat.",
+    "Refrigerate the salad for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the salad a good stir and adjust the seasoning if necessary."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate-infused",
+    "jamaican-cuisine",
+    "keto-friendly",
+    "low-carb",
+    "raw-food",
+    "veggie-based"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 26
+  },
+  "slug": "vibrant-raw-jamaican-vegetable-salad",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/vibrant-raw-jamaican-vegetable-salad",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-21T15:00:19Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "snappy",
+    "mood": "indulgent",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "raw vegetables",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "vegetables",
+    "descriptor": "Vibrant raw",
+    "dishForm": "Salad"
+  }
+}
