@@ -1,0 +1,109 @@
+{
+  "title": "Velvety Vegan Thai Fish Curry Nam Prik",
+  "description": "A creamy and floral Thai-inspired dish featuring apples and a mirepoix base, perfect for a sick day. This vegan version of nam prik is a twist on the traditional Thai fish curry.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "apple",
+      "amount": "1 medium"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large tagine pot over medium heat.",
+    "Add the onion, garlic, and red bell pepper, and sauté until the vegetables are tender.",
+    "Add the mushroom and cook until it releases its liquid and starts to brown.",
+    "Add the curry paste and cook for 1 minute, until fragrant.",
+    "Add the tomato paste and cook for another minute.",
+    "Add the coconut milk, salt, and black pepper, and stir to combine.",
+    "Add the apple and stir to coat with the curry sauce.",
+    "Simmer the curry for 10-15 minutes, until the flavors have melded together and the apple is tender.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the curry hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "one-pan",
+    "sick-day",
+    "thai",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "velvety-vegan-thai-fish-curry-nam-prik",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-vegan-thai-fish-curry-nam-prik",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T13:58:33Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "sick-day",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "apples",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Fish Curry",
+    "descriptor": "Velvety Vegan",
+    "dishForm": "Nam Prik"
+  }
+}
