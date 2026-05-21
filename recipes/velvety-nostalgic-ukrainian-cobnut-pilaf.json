@@ -1,0 +1,83 @@
+{
+  "title": "Velvety Nostalgic Ukrainian Cobnut Pilaf",
+  "description": "A funky, velvety vegetarian-friendly dish featuring cobnuts, a traditional Ukrainian ingredient that adds both texture and flavor to this nostalgic treat.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cobnuts",
+      "amount": "10"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2"
+    },
+    {
+      "name": "Carrots",
+      "amount": "3 medium, peeled and sliced thinly"
+    },
+    {
+      "name": "Stuffed cabbage leaves (optional)",
+      "amount": "6-8 per person"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat vegetable broth in a pot over medium heat.",
+    "Slice the onion and garlic cloves finely, sauté them in oil until translucent.",
+    "Add sliced carrots to the pot, stirring occasionally.",
+    "Crush cobnuts and add them to the pot with a handful of water. Bring to a boil.",
+    "If using stuffed cabbage leaves, prepare them by filling the leaves with the pilaf mixture. Place in a casserole dish.",
+    "Reduce heat to low, cover and let simmer for 20 minutes.",
+    "Garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cobnuts",
+    "funky",
+    "nostalgic",
+    "ukrainian",
+    "vegetarian",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 38,
+    "fat": 7
+  },
+  "slug": "velvety-nostalgic-ukrainian-cobnut-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-nostalgic-ukrainian-cobnut-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-21T13:37:06Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "knead",
+    "primaryIngredient": "cobnuts",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "cobnuts",
+    "descriptor": "Velvety Nostalgic",
+    "dishForm": "Pilaf"
+  }
+}
