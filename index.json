@@ -989,6 +989,22 @@
     "shard": "v"
   },
   {
+    "slug": "velvety-argentinian-beef-empanadas",
+    "title": "Velvety Argentinian Beef Empanadas",
+    "tags": [
+      "argentinian-cuisine",
+      "beef-empanadas",
+      "comfort-food",
+      "fried-food",
+      "latin-american",
+      "main-dish",
+      "single-cream"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 50,
+    "shard": "v"
+  },
+  {
     "slug": "velvety-argentinian-beef-skillet",
     "title": "Velvety Argentinian Beef Skillet",
     "tags": [

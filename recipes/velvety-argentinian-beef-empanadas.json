@@ -1,0 +1,102 @@
+{
+  "title": "Velvety Argentinian Beef Empanadas",
+  "description": "Rich and comforting empanadas filled with tender beef and creamy single cream, fried to a golden brown and served on a vibrant talavera plate",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "single cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten for egg wash"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350 degrees Fahrenheit",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it into small pieces as it cooks",
+    "Add the diced onion and minced garlic to the skillet and cook until the onion is translucent",
+    "Stir in the single cream and bring the mixture to a simmer, cooking until the cream has thickened and the mixture is heated through",
+    "Roll out the empanada dough to a thickness of about 1/8 inch",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass",
+    "Spoon a small amount of the beef and cream mixture onto the center of each dough circle",
+    "Brush the edges of the dough with the beaten egg and fold the dough in half, pressing the edges together to seal the empanada",
+    "Fry the empanadas in batches until they are golden brown, about 2-3 minutes per side",
+    "Drain the empanadas on paper towels and serve hot on a talavera plate"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "beef-empanadas",
+    "comfort-food",
+    "fried-food",
+    "latin-american",
+    "main-dish",
+    "single-cream"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "velvety-argentinian-beef-empanadas",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/velvety-argentinian-beef-empanadas",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-21T14:55:57Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "chewy",
+    "mood": "comforting",
+    "technique": "fry",
+    "primaryIngredient": "single cream",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "velvety chewy",
+    "dishForm": "Empanadas"
+  }
+}
