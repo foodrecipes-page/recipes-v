@@ -1,0 +1,68 @@
+{
+  "slug": "vibrant-german-pumpernickel-flatbread",
+  "title": "German Flatbread with Pumpernickel Crust",
+  "description": "A crispy flatbread topped with a layer of creamy pumpernickel paste, perfect for snacking or as a side dish.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pumpernickel bread",
+      "amount": "1 cup, crumbled"
+    },
+    {
+      "name": "german flatbread",
+      "amount": "1 package"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "2 sprigs, chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Combine crumbled pumpernickel bread and olive oil in a bowl.",
+    "Add minced garlic, salt, and chopped rosemary to the bowl and mix well.",
+    "Roll out the german flatbread to a thickness of 1/4 inch.",
+    "Spread the pumpernickel mixture evenly over the flatbread, leaving a 1/2 inch border around the edges.",
+    "Fold the edges of the flatbread up over the filling to create a crust.",
+    "Bake for 15-20 minutes or until crispy and golden brown.",
+    "Remove from oven and let cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "flatbread",
+    "pumpernickel",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-german-pumpernickel-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:41:15.686Z"
+}
