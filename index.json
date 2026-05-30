@@ -2177,15 +2177,14 @@
   },
   {
     "slug": "velvety-earthly-polish-stew",
-    "title": "Velvety Earthly Polish Stew",
+    "title": "Earthy Polish Stew",
     "tags": [
-      "comfort-food",
-      "lacto-vegetarian",
-      "one-pot",
-      "sick-day"
+      "stew",
+      "polish-food",
+      "comfort-food"
     ],
-    "cuisine": "polish",
-    "totalTimeMin": 45,
+    "cuisine": "European",
+    "totalTimeMin": 40,
     "shard": "v"
   },
   {
