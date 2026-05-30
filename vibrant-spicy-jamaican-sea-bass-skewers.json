@@ -1,0 +1,84 @@
+{
+  "slug": "vibrant-spicy-jamaican-sea-bass-skewers",
+  "title": "Jamaican Sea Bass Skewers",
+  "description": "A flavorful and easy-to-make seafood dish with a Caribbean twist, perfect for summer grilling.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sea Bass Fillets",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Jamaican Jerk Seasoning",
+      "amount": "2 tbsp",
+      "notes": "Spicy and aromatic"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1/4 cup",
+      "notes": "For grilling"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Chopped Scallions",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Vibrant Bell Peppers",
+      "amount": "2",
+      "notes": "Sliced and colorful"
+    },
+    {
+      "name": "Spicy Pineapple Chunks",
+      "amount": "1 cup",
+      "notes": "Fresh and sweet"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10",
+      "notes": "For grilling"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread sea bass, bell peppers, pineapple, and scallions onto skewers.",
+    "In a small bowl, mix together jerk seasoning, coconut oil, and lime juice.",
+    "Brush the mixture evenly onto both sides of the seafood and vegetables.",
+    "Grill skewers for 8-10 minutes, or until seafood is cooked through and vegetables are tender.",
+    "Serve immediately and garnish with additional scallions if desired.",
+    "Cook skewers to an internal temperature of at least 145°F (63°C) to ensure food safety."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilling",
+    "caribbean",
+    "seafood",
+    "summer",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-spicy-jamaican-sea-bass-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:08:25.970Z"
+}
