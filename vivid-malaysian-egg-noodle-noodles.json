@@ -1,0 +1,67 @@
+{
+  "slug": "vivid-malaysian-egg-noodle-noodles",
+  "title": "Vivid Malaysian Noodle Soup",
+  "description": "A spicy and flavorful noodle soup inspired by Malaysian cuisine, perfect for a quick lunch. This recipe combines the brightness of vivid ingredients with the warmth of traditional Malaysian spices.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vivid",
+      "amount": "2 tablespoons",
+      "notes": "Use vivid chili paste for added heat"
+    },
+    {
+      "name": "Malaysian",
+      "amount": "2 tablespoons",
+      "notes": "Use Malaysian curry powder for authentic flavor"
+    },
+    {
+      "name": "Egg",
+      "amount": "2 eggs",
+      "notes": "Add eggs for added protein"
+    },
+    {
+      "name": "Noodle",
+      "amount": "8 ounces",
+      "notes": "Use thin rice noodles for a traditional texture"
+    },
+    {
+      "name": "Noodles",
+      "amount": "1 cup",
+      "notes": "Add additional noodles for a heartier soup"
+    }
+  ],
+  "instructions": [
+    "Heat the vivid chili paste in a large pot over medium heat.",
+    "Add the Malaysian curry powder and cook for 1 minute, stirring constantly.",
+    "Add 4 cups of water to the pot and bring to a boil.",
+    "Add the egg and cook until set.",
+    "Add the noodles to the pot and cook according to package instructions.",
+    "Season the soup with salt and pepper to taste.",
+    "Serve hot, garnished with additional vivid ingredients if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "noodle-soup",
+    "lunch",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 50,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vivid-malaysian-egg-noodle-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:56:56.984Z"
+}
