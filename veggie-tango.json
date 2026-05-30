@@ -1,0 +1,66 @@
+{
+  "slug": "veggie-tango",
+  "title": "Tango Veggie Stir Fry",
+  "description": "Quick and easy stir fry recipe using tango and your favorite veggies. Perfect for a weeknight dinner.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tango",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Veggie",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cooking oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add garlic and cook for 1 minute.",
+    "Add veggie and cook until tender.",
+    "Add soy sauce and stir to combine.",
+    "Add tango and stir-fry for 1-2 minutes.",
+    "Season with sesame seeds and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "asian",
+    "veggie",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/veggie-tango",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:33:33.874Z"
+}
