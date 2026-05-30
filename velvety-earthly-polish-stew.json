@@ -1,0 +1,76 @@
+{
+  "slug": "velvety-earthly-polish-stew",
+  "title": "Earthy Polish Stew",
+  "description": "A hearty, comforting stew that combines the earthy flavors of vegetables with the richness of polish sausage. Serve with crusty bread for a satisfying meal.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Polish sausage",
+      "amount": "1 pound, sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium, peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3 medium, peeled and chopped"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Earthy broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Velvety cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 tablespoon, chopped"
+    }
+  ],
+  "instructions": [
+    "Heat a large pot or Dutch oven over medium-high heat.",
+    "Add the sliced polish sausage and cook until browned, about 5 minutes.",
+    "Add the chopped onions and cook until they start to soften, about 3-4 minutes.",
+    "Add the chopped carrots and potatoes, and cook for an additional 5 minutes.",
+    "Add the sliced mushrooms, earthy broth, and sliced polish sausage back into the pot.",
+    "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 20-25 minutes, or until the vegetables are tender.",
+    "Stir in the velvety cream and cook for an additional 2-3 minutes, or until heated through.",
+    "Season with salt and pepper to taste, then garnish with chopped fresh parsley.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "polish-food",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-earthly-polish-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:28:36.451Z"
+}
