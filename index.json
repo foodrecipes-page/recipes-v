@@ -598,15 +598,15 @@
   },
   {
     "slug": "veggie-tango",
-    "title": "Veggie Tango",
+    "title": "Tango Veggie Stir Fry",
     "tags": [
-      "veggie_tango",
-      "argentine_dish",
-      "raw_vegetables",
-      "air_fried"
+      "stir-fry",
+      "asian",
+      "veggie",
+      "dinner"
     ],
-    "cuisine": "Argentine",
-    "totalTimeMin": 15,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
