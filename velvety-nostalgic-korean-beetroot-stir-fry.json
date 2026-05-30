@@ -1,0 +1,68 @@
+{
+  "slug": "velvety-nostalgic-korean-beetroot-stir-fry",
+  "title": "Korean-Style Beetroot Stir Fry",
+  "description": "A sweet and savory stir fry made with tender beetroot and a hint of Korean chili flakes. Perfect as a side dish or a light lunch.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beetroot",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Velvety Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Nostalgic Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "1 tsp",
+      "notes": "gochugaru"
+    },
+    {
+      "name": "Stir Fry Oil",
+      "amount": "2 tbsp",
+      "notes": "vegetable or peanut oil"
+    }
+  ],
+  "instructions": [
+    "Heat the stir fry oil in a large skillet or wok over medium-high heat.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the sliced beetroot and cook for 5 minutes, until tender.",
+    "In a small bowl, whisk together the velvety soy sauce and Korean chili flakes.",
+    "Pour the soy sauce mixture over the beetroot and stir to combine.",
+    "Cook for an additional 2 minutes, until the sauce has thickened.",
+    "Serve hot, garnished with chopped green onions or toasted sesame seeds.",
+    "Optional: add sliced kimchi or pickled ginger for added flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "beetroot",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-nostalgic-korean-beetroot-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:32:33.051Z"
+}
