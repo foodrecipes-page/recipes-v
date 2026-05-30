@@ -4037,17 +4037,15 @@
   },
   {
     "slug": "velvety-nostalgic-korean-beetroot-stir-fry",
-    "title": "Velvety Nostalgic Korean Beetroot Stir-fry",
+    "title": "Korean-Style Beetroot Stir Fry",
     "tags": [
-      "spicy",
-      "velvety",
-      "nostalgic",
       "korean",
       "beetroot",
-      "stir-fry"
+      "stir-fry",
+      "vegetarian"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
