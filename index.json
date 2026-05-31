@@ -5879,18 +5879,18 @@
   },
   {
     "slug": "velvety-sweet-dutch-pomegranate-tart",
-    "title": "Velvety Sweet Dutch Pomegranate Tart",
+    "title": "Pomegranate Panna Cotta",
     "tags": [
-      "date-night",
-      "dutch-dessert",
-      "lacto-vegetarian",
+      "italian",
+      "italian-dessert",
+      "chocolate",
+      "cocoa",
       "pomegranate",
-      "sous-vide",
-      "tart",
-      "velvety-sweet"
+      "breakfast",
+      "dinner"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 115,
+    "cuisine": null,
+    "totalTimeMin": 20,
     "shard": "v"
   },
   {
