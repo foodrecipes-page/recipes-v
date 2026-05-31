@@ -1,0 +1,75 @@
+{
+  "slug": "velvety-sweet-dutch-pomegranate-tart",
+  "title": "Pomegranate Panna Cotta",
+  "description": "A creamy and sweet dessert with a pomegranate twist, perfect for warm weather.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dutch cocoa powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "velvety chocolate chips",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pomegranate seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Combine the heavy cream, cocoa powder, and sugar in a saucepan and cook over medium heat, stirring constantly.",
+    "Bring the mixture to a simmer and cook for 5 minutes, or until it thickens slightly.",
+    "Remove the saucepan from the heat and stir in the chocolate chips until they are melted.",
+    "Add the pomegranate molasses and vanilla extract, and stir to combine.",
+    "Pour the mixture into individual serving cups or a large baking dish.",
+    "Refrigerate for at least 4 hours, or until chilled and set.",
+    "Just before serving, sprinkle the pomegranate seeds on top of the panna cotta.",
+    "Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "italian-dessert",
+    "chocolate",
+    "cocoa",
+    "pomegranate",
+    "breakfast",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-sweet-dutch-pomegranate-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:42:07.597Z"
+}
