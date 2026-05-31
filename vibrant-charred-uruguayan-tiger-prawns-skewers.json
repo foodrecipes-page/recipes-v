@@ -1,0 +1,94 @@
+{
+  "slug": "vibrant-charred-uruguayan-tiger-prawns-skewers",
+  "title": "Uruguayan-Style Prawn Skewers",
+  "description": "Grilled prawn skewers with a Uruguayan twist, featuring vibrant and charred flavors. Perfect for a sunny day.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large prawns",
+      "amount": "12",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "tiger prawn skewers",
+      "amount": "1 box",
+      "notes": "wooden or metal"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "charred red pepper flakes",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "vibrant chimichurri sauce",
+      "amount": "2 tbsp",
+      "notes": "see below for recipe"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat (375°F).",
+    "2. In a small bowl, mix together olive oil, lime juice, cilantro, garlic powder, salt, pepper, and red pepper flakes.",
+    "3. Add the prawns to the bowl and toss to coat with the marinade.",
+    "4. Thread the marinated prawns onto the skewers, leaving a small space between each prawn.",
+    "5. Brush the grates with olive oil to prevent sticking.",
+    "6. Grill the skewers for 2-3 minutes per side, or until the prawns are pink and cooked through.",
+    "7. Serve immediately with vibrant chimichurri sauce (see below for recipe).",
+    "8. Garnish with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "prawns",
+    "uruguayan",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 25,
+    "carbs": 6,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-charred-uruguayan-tiger-prawns-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T19:52:20.428Z"
+}
