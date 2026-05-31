@@ -3891,15 +3891,15 @@
   },
   {
     "slug": "velvety-moroccan-peas-stir-fry",
-    "title": "Velvety Moroccan Peas Stir-fry",
+    "title": "Moroccan Veggie Stir Fry",
     "tags": [
-      "moroccan-peas-stir-fry",
-      "diabetic-friendly",
-      "floral-moroccan",
-      "veggie-side-dish"
+      "moroccan",
+      "vegetarian",
+      "vegan",
+      "stir-fry"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 30,
+    "totalTimeMin": 13,
     "shard": "v"
   },
   {
@@ -11640,6 +11640,18 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 180,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-earthly-polish-stew--indian",
+    "title": "Earthy Polish Stew with Velvety Garnish",
+    "tags": [
+      "indian",
+      "vegetarian",
+      "stew"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
     "shard": "v"
   }
 ]
