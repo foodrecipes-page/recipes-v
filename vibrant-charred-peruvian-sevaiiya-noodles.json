@@ -1,0 +1,80 @@
+{
+  "slug": "vibrant-charred-peruvian-sevaiiya-noodles",
+  "title": "Charred Sevaiiya Noodle Salad",
+  "description": "A flavorful and refreshing salad made with charred Sevaiiya noodles, mixed with vibrant Peruvian ingredients.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sevaiiya noodles",
+      "amount": "250g",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "Charred red onion",
+      "amount": "1 medium",
+      "notes": "charred in a pan with some oil"
+    },
+    {
+      "name": "Diced vibrant bell peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "Chopped Peruvian aji amarillo peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "1 tbsp",
+      "notes": "for dressing"
+    }
+  ],
+  "instructions": [
+    "Cook the Sevaiiya noodles according to package instructions. Drain and set aside.",
+    "Char the red onion in a pan with some oil until it's caramelized.",
+    "Dice the bell peppers and chop the cilantro.",
+    "Seed and chop the aji amarillo peppers.",
+    "In a large bowl, combine the cooked noodles, charred red onion, bell peppers, cilantro, and aji amarillo peppers.",
+    "In a small bowl, mix together the lime juice and olive oil.",
+    "Pour the dressing over the noodle mixture and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "salad",
+    "veggie",
+    "noodle",
+    "charred"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-charred-peruvian-sevaiiya-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:57:18.047Z"
+}
