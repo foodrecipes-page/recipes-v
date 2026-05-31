@@ -1,0 +1,69 @@
+{
+  "slug": "vibrant-raw-jamaican-vegetable-salad",
+  "title": "Jamaican Vibes Salad",
+  "description": "A fresh and vibrant Jamaican-inspired salad made with mixed greens, vegetables, and a hint of Caribbean spices.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Raw red onions",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Jamaican peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Salad",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Vibrant lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine mixed greens, sliced red onions, and chopped peppers.",
+    "2. In a small bowl, whisk together vegetable oil and vibrant lime juice.",
+    "3. Pour the dressing over the salad and toss to coat.",
+    "4. Chill in the refrigerator for 30 minutes.",
+    "5. Serve the salad garnished with additional peppers and a sprinkle of lime juice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "veggie",
+    "salad",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-raw-jamaican-vegetable-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T01:55:40.857Z"
+}
