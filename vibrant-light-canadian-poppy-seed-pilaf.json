@@ -1,0 +1,63 @@
+{
+  "slug": "vibrant-light-canadian-poppy-seed-pilaf",
+  "title": "Canadian Pilaf Bowl",
+  "description": "A simple and flavorful Canadian pilaf dish with vibrant vegetables and crunchy seeds.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Canadian pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vibrant bell peppers",
+      "amount": "1 cup",
+      "notes": "any color"
+    },
+    {
+      "name": "Light olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Poppy seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook the Canadian pilaf according to package instructions.",
+    "Heat the light olive oil in a pan over medium heat.",
+    "Add the vibrant bell peppers and cook until tender, about 5 minutes.",
+    "Stir in the poppy seeds and cook for an additional minute.",
+    "Combine the cooked pilaf and pepper mixture in a bowl.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and garnish with additional poppy seeds if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-light-canadian-poppy-seed-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:56:22.611Z"
+}
