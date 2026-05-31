@@ -1232,16 +1232,14 @@
   },
   {
     "slug": "velvety-bitter-pepper-stir-fry",
-    "title": "Velvety Bitter Pepper Stir-fry",
+    "title": "Bitter Pepper Stir Fry",
     "tags": [
-      "irish",
-      "bitter-pepper",
-      "velvety",
       "stir-fry",
-      "diabetic-friendly"
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 45,
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
@@ -7279,17 +7277,16 @@
   },
   {
     "slug": "vibrant-charred-peruvian-sevaiiya-noodles",
-    "title": "Vibrant Charred Peruvian Sevaiiya Noodles",
+    "title": "Charred Sevaiiya Noodle Salad",
     "tags": [
-      "dairy-free",
-      "noodle-dish",
-      "one-pot",
       "peruvian",
-      "smoky",
-      "vegetarian"
+      "salad",
+      "veggie",
+      "noodle",
+      "charred"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
@@ -8913,17 +8910,14 @@
   },
   {
     "slug": "vibrant-light-canadian-poppy-seed-pilaf",
-    "title": "Vibrant Light Canadian Poppy Seed Pilaf",
+    "title": "Canadian Pilaf Bowl",
     "tags": [
-      "canadian-cuisine",
-      "healthy",
-      "low-calorie",
-      "one-pot",
-      "quick",
-      "vegetarian"
+      "canadian",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 15,
     "shard": "v"
   },
   {
