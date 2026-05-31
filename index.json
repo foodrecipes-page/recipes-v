@@ -6442,14 +6442,14 @@
   },
   {
     "slug": "velvety-vegetarian-courgette-pilaf",
-    "title": "Velvety Vegetarian Courgette Pilaf",
+    "title": "Vegetarian Courgette Pilaf",
     "tags": [
-      "courgette-pilaf",
-      "resinous-courgette",
-      "satvik-friendly"
+      "vegetarian",
+      "pilaf",
+      "courgette"
     ],
-    "cuisine": "american",
-    "totalTimeMin": 40,
+    "cuisine": null,
+    "totalTimeMin": 30,
     "shard": "v"
   },
   {
