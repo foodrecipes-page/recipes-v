@@ -1,0 +1,74 @@
+{
+  "slug": "velvety-caramelized-greek-fennel-soup",
+  "title": "Caramelized Fennel Soup",
+  "description": "A comforting and flavorful soup perfect for a chilly evening. The caramelized fennel adds a sweet and anise-like flavor that's sure to please.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fennel bulbs",
+      "amount": "2 large bulbs"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chicken or vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the sliced onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the sliced fennel and cook until caramelized, stirring occasionally, about 20-25 minutes.",
+    "Pour in the broth and bring to a boil.",
+    "Reduce the heat and simmer until the fennel is tender, about 15-20 minutes.",
+    "Use an immersion blender to puree the soup until smooth.",
+    "Stir in the Greek yogurt and season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "greek",
+    "fennel",
+    "caramelized",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-caramelized-greek-fennel-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T03:04:17.961Z"
+}
