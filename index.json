@@ -2271,15 +2271,14 @@
   },
   {
     "slug": "velvety-earthy-sushi-rice-stir-fry",
-    "title": "Velvety Earthy Sushi Rice Stir-fry",
+    "title": "Earthy Stir Fry",
     "tags": [
-      "velvety",
-      "earthy",
-      "sushi-rice",
-      "stir-fry"
+      "stir-fry",
+      "mushroom",
+      "vegetarian"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
@@ -7307,18 +7306,15 @@
   },
   {
     "slug": "vibrant-charred-uruguayan-tiger-prawns-skewers",
-    "title": "Vibrant Charred Uruguayan Tiger Prawns Skewers",
+    "title": "Uruguayan-Style Prawn Skewers",
     "tags": [
-      "binchotan",
-      "charred",
-      "gluten-free",
-      "gourmet",
-      "seafood",
-      "spicy",
-      "uruguayan"
+      "grilled",
+      "prawns",
+      "uruguayan",
+      "skewers"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 21,
+    "cuisine": "uruguayan",
+    "totalTimeMin": 23,
     "shard": "v"
   },
   {
@@ -10685,17 +10681,15 @@
   },
   {
     "slug": "vibrant-umami-indian-paneer-rasmalai",
-    "title": "Vibrant Umami Indian Paneer Rasmalai",
+    "title": "Paneer Rasmalai",
     "tags": [
-      "crowd-pleaser",
-      "gluten-free",
-      "indian-dessert",
-      "paneer-recipe",
-      "sesame-butter",
-      "special-occasion"
+      "indian",
+      "dessert",
+      "paneer",
+      "rasmalai"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 65,
+    "totalTimeMin": 30,
     "shard": "v"
   },
   {
