@@ -3350,17 +3350,17 @@
   },
   {
     "slug": "velvety-japanese-cabbage-bowl",
-    "title": "Velvety Japanese Cabbage Bowl",
+    "title": "Japanese-Style Cabbage Bowl",
     "tags": [
-      "cabbage",
-      "citrusy",
-      "comfort-food",
-      "indulgent",
-      "one-pan",
-      "quick"
+      "vegan",
+      "gluten-free",
+      "lunch",
+      "dinner",
+      "japanese",
+      "vegetarian"
     ],
-    "cuisine": "japanese",
-    "totalTimeMin": 20,
+    "cuisine": "Japanese",
+    "totalTimeMin": 18,
     "shard": "v"
   },
   {
@@ -6375,16 +6375,16 @@
   },
   {
     "slug": "velvety-umami-xiaolongbao-tunisian-rocket-tagine",
-    "title": "Velvety Umami Xiaolongbao Tunisian Rocket Tagine",
+    "title": "Tunisian Chicken Tagine with Rocket Salad",
     "tags": [
-      "flexitarian",
-      "one-pan",
-      "romantic",
-      "tunisian",
-      "weeknight"
+      "north african",
+      "chicken",
+      "tagine",
+      "rocket",
+      "healthy"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 65,
+    "cuisine": "North African",
+    "totalTimeMin": 45,
     "shard": "v"
   },
   {
@@ -9247,17 +9247,15 @@
   },
   {
     "slug": "vibrant-pickled-slovakian-pork-dumplings",
-    "title": "Vibrant Pickled Slovakian Pork Dumplings",
+    "title": "Slovakian Pork Dumplings with Pickled Onions",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "meal-prep",
-      "one-pan",
-      "pork-recipes",
-      "weeknight"
+      "slovakian",
+      "pork",
+      "dumplings",
+      "breakfast"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 50,
     "shard": "v"
   },
   {
@@ -10987,15 +10985,14 @@
   },
   {
     "slug": "village-style-roasted-norwegian-lamb-wrap",
-    "title": "village-style roasted norwegian lamb wrap",
+    "title": "Traditional Norwegian Lamb Wrap",
     "tags": [
-      "low-carb",
       "norwegian",
-      "one-pan",
-      "weeknight"
+      "lamb",
+      "wrap"
     ],
     "cuisine": "norwegian",
-    "totalTimeMin": 190,
+    "totalTimeMin": 140,
     "shard": "v"
   },
   {
