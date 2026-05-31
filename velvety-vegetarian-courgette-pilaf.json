@@ -1,0 +1,72 @@
+{
+  "slug": "velvety-vegetarian-courgette-pilaf",
+  "title": "Vegetarian Courgette Pilaf",
+  "description": "A flavorful and light vegetarian dish made with sautéed courgette and served over a pilaf base.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Courgette",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup dry"
+    },
+    {
+      "name": "Vegetarian velvety sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a pan over medium heat.",
+    "Add the chopped courgette and cook until tender, about 5 minutes.",
+    "In a separate pot, heat 1 cup of water and bring to a boil.",
+    "Add the pilaf and cook according to the package instructions.",
+    "In a separate pan, heat the remaining 1 tablespoon of olive oil over medium heat.",
+    "Add the vegetarian velvety sauce and stir to combine.",
+    "Add the cooked courgette to the sauce and stir to combine.",
+    "Serve the courgette mixture over the pilaf.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "pilaf",
+    "courgette"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-vegetarian-courgette-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T23:53:33.591Z"
+}
