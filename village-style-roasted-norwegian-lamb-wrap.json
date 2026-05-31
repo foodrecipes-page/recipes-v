@@ -1,0 +1,75 @@
+{
+  "slug": "village-style-roasted-norwegian-lamb-wrap",
+  "title": "Traditional Norwegian Lamb Wrap",
+  "description": "A flavorful wrap filled with roasted lamb and traditional Norwegian ingredients.",
+  "cuisine": "norwegian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "Boneless"
+    },
+    {
+      "name": "Lamb seasoning",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Roasted village bread",
+      "amount": "1 loaf",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Norwegian feta cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Norwegian lamb sauce",
+      "amount": "1/2 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Wrap",
+      "amount": "4-6",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the lamb shoulder with lamb seasoning and roast for 20-25 minutes per pound, or until cooked through.",
+    "Slice the roasted lamb into thin strips.",
+    "Warm the sliced village bread in the oven for 5-7 minutes, or until lightly toasted.",
+    "Assemble the wraps by spreading a layer of lamb sauce on each bread slice, followed by a few slices of roasted lamb, some crumbled feta cheese, and a sprinkle of parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "lamb",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/village-style-roasted-norwegian-lamb-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:17:52.778Z"
+}
