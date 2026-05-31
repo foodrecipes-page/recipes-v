@@ -1,0 +1,85 @@
+{
+  "slug": "vibrant-crisp-american-chicken-skewers",
+  "title": "Grilled Chicken Skewers with American Slaw",
+  "description": "A refreshing summer dish featuring vibrant chicken skewers paired with a crunchy American-inspired slaw.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "American-style coleslaw mix",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "vibrant bell peppers",
+      "amount": "2",
+      "notes": "any color, sliced into 1-inch pieces"
+    },
+    {
+      "name": "crisp red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grilled lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "aluminum foil",
+      "amount": "1 square",
+      "notes": "for grilling skewers"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Thread chicken, bell peppers, and onion onto skewers.",
+    "3. In a small bowl, whisk together olive oil, lemon juice, salt, and pepper.",
+    "4. Brush skewers with the marinade, making sure to coat all the ingredients.",
+    "5. Grill skewers for 10-12 minutes, or until chicken is cooked through.",
+    "6. Meanwhile, prepare the slaw by mixing the American-style coleslaw mix with a squeeze of lemon juice.",
+    "7. Serve skewers with slaw on the side and a dollop of your favorite sauce, if desired.",
+    "8. Wrap foil around skewers to keep warm and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "summer",
+    "skewers",
+    "american"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-crisp-american-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T03:45:38.049Z"
+}
