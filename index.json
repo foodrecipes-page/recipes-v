@@ -4047,16 +4047,14 @@
   },
   {
     "slug": "velvety-nostalgic-rice-stir-fry",
-    "title": "Velvety Nostalgic Rice Stir-fry",
+    "title": "Nostalgic Velvety Rice Bowl",
     "tags": [
+      "rice",
       "velvety",
-      "nostalgic",
-      "sour",
-      "korean",
-      "stir-fry"
+      "nostalgic"
     ],
-    "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
@@ -4935,15 +4933,13 @@
   },
   {
     "slug": "velvety-salty-yucatecan-shrimp-ceviche",
-    "title": "Velvety Salty Yucatecan Shrimp Ceviche",
+    "title": "Ceviche Yucateco",
     "tags": [
-      "mexican",
-      "seafood",
       "ceviche",
-      "low-carb",
-      "date-night",
-      "diabetic-friendly",
-      "yucatecan"
+      "yucateco",
+      "mexican",
+      "appetizer",
+      "seafood"
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 15,
@@ -7079,17 +7075,17 @@
   },
   {
     "slug": "vibrant-argentinian-tofu-bake",
-    "title": "Vibrant Argentinian Tofu Bake",
+    "title": "Argentinian Vibrant Tofu Bake",
     "tags": [
       "argentinian",
-      "herbal",
-      "high-protein",
-      "one-pan",
+      "tofu",
+      "bake",
       "vegetarian",
-      "weeknight"
+      "easy",
+      "dinner"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "v"
   },
   {
