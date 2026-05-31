@@ -1,0 +1,79 @@
+{
+  "slug": "velvety-bitter-pepper-stir-fry",
+  "title": "Bitter Pepper Stir Fry",
+  "description": "A quick and flavorful stir fry dish that combines bitter and sweet notes from the pepper and velvety sauce. Perfect for a weeknight dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "velvety sauce",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "bitter melon",
+      "amount": "1 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "any color, sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of sesame oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced bell pepper and cook until tender, about 3-4 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute, until fragrant.",
+    "Add the sliced bitter melon and cook for 2-3 minutes, until slightly tender.",
+    "Pour in the velvety sauce and stir to coat the vegetables.",
+    "Add the soy sauce (if using) and stir-fry for another minute.",
+    "Season with salt and pepper to taste.",
+    "Serve the stir fry hot, garnished with sesame seeds and scallions (if desired).",
+    "Optional: Serve over steamed rice or noodles for a filling meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stir-fry",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-bitter-pepper-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:55:12.045Z"
+}
