@@ -1,0 +1,74 @@
+{
+  "slug": "vibrant-smoked-turkish-lamb-kebabs",
+  "title": "Turkish Lamb Kebabs",
+  "description": "A flavorful and aromatic dish originating from the streets of Turkey, made with tender lamb and a blend of spices.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "500g",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Turkish red pepper flakes",
+      "amount": "2 teaspoons",
+      "notes": "Spicy and aromatic"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vibrant sumac",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine lamb cubes, red pepper flakes, smoked paprika, salt, and black pepper. Mix well.",
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the lamb cubes to the skillet and cook for 2-3 minutes on each side, until browned.",
+    "Transfer the lamb to a plate and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of olive oil.",
+    "Add the lamb cubes back to the skillet and cook for an additional 5-7 minutes, until cooked through.",
+    "Sprinkle sumac over the lamb and serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "turkish",
+    "grill",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-smoked-turkish-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T03:27:27.150Z"
+}
