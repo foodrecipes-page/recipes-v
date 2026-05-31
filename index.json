@@ -1625,16 +1625,16 @@
   },
   {
     "slug": "velvety-caramelized-greek-fennel-soup",
-    "title": "Velvety Caramelized Greek Fennel Soup",
+    "title": "Caramelized Fennel Soup",
     "tags": [
-      "vegan",
-      "gluten-free",
-      "Greek",
       "soup",
+      "greek",
+      "fennel",
+      "caramelized",
       "comfort-food"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 45,
+    "totalTimeMin": 55,
     "shard": "v"
   },
   {
@@ -7435,32 +7435,28 @@
   },
   {
     "slug": "vibrant-creamy-thai-curry-bowl",
-    "title": "Vibrant Creamy Thai Curry Bowl",
+    "title": "Creamy Thai Curry Bowl",
     "tags": [
+      "thai",
       "curry",
-      "easy-vegan",
-      "fermented",
-      "one-pan",
-      "quick-cooking",
-      "thaicuisine"
+      "vegetarian",
+      "lunch"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 40,
+    "cuisine": "thai",
+    "totalTimeMin": 30,
     "shard": "v"
   },
   {
     "slug": "vibrant-crisp-american-chicken-skewers",
-    "title": "Vibrant Crisp American Chicken Skewers",
+    "title": "Grilled Chicken Skewers with American Slaw",
     "tags": [
-      "high-protein",
-      "low-carb",
-      "meal-prep",
-      "one-pan",
-      "paleo-friendly",
-      "weeknight"
+      "grilled",
+      "summer",
+      "skewers",
+      "american"
     ],
     "cuisine": "American",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
@@ -9746,16 +9742,16 @@
   },
   {
     "slug": "vibrant-smoked-turkish-lamb-kebabs",
-    "title": "Vibrant Smoked Turkish Lamb Kebabs",
+    "title": "Turkish Lamb Kebabs",
     "tags": [
+      "lamb",
+      "kebabs",
+      "turkish",
       "grill",
-      "high-protein",
-      "low-sodium",
-      "one-pan",
-      "weeknight"
+      "summer"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
