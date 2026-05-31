@@ -1,0 +1,87 @@
+{
+  "slug": "vibrant-pickled-slovakian-pork-dumplings",
+  "title": "Slovakian Pork Dumplings with Pickled Onions",
+  "description": "A hearty Slovakian dish featuring tender pork dumplings in a flavorful broth, topped with crispy pickled onions and vibrant fresh parsley.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegetable shortening",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pickled onions",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 cup"
+    },
+    {
+      "name": "slovakian paprika",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the shortening in a large skillet over medium-high heat.",
+    "Add the diced pork shoulder and sear until browned, about 5 minutes. Set aside.",
+    "In a large mixing bowl, combine the flour, sour cream, paprika, salt, and pepper.",
+    "Add the seared pork and mix until the dough comes together.",
+    "Knead the dough for 10 minutes until smooth.",
+    "Wrap the dough in plastic wrap and let rest for 30 minutes.",
+    "Divide the dough into 8 equal pieces and shape into balls.",
+    "Roll out each ball into a thin circle.",
+    "Place a tablespoon of water in the center of each circle and fold the dough to form a half-moon shape.",
+    "Press the edges together to seal the dumpling.",
+    "Bring the water to a boil in a large pot and cook the dumplings for 10-15 minutes, or until they float to the surface.",
+    "Garnish with pickled onions and fresh parsley."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "pork",
+    "dumplings",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-pickled-slovakian-pork-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:13:58.800Z"
+}
