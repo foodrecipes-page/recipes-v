@@ -1,0 +1,90 @@
+{
+  "slug": "velvety-umami-xiaolongbao-tunisian-rocket-tagine",
+  "title": "Tunisian Chicken Tagine with Rocket Salad",
+  "description": "A flavorful North African-inspired dish featuring chicken cooked in a rich and aromatic tagine sauce, served with a fresh rocket salad.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "tunisian tagine spice blend",
+      "amount": "2 tablespoons",
+      "notes": "available at most Middle Eastern markets"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "rocket",
+      "amount": "4 cups",
+      "notes": "fresh and chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for an additional 1 minute.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Add the tagine spice blend and cook for 1 minute.",
+    "Add the chicken broth and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, until the chicken is cooked through, about 20 minutes.",
+    "Stir in the rocket and cook until wilted.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with lemon wedges.",
+    "For the salad, combine the rocket and lemon juice in a bowl and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve alongside the tagine."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north african",
+    "chicken",
+    "tagine",
+    "rocket",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-umami-xiaolongbao-tunisian-rocket-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:14:28.503Z"
+}
