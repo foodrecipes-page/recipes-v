@@ -1,0 +1,88 @@
+{
+  "slug": "velvety-japanese-cabbage-bowl",
+  "title": "Japanese-Style Cabbage Bowl",
+  "description": "A simple and healthy Japanese-inspired dish made with sautéed cabbage and topped with a velvety sauce.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Napa cabbage",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "Vegan mayonnaise",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Bowl",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Cut the cabbage into thin strips and set aside.",
+    "In a small bowl, whisk together the mayonnaise, soy sauce, rice vinegar, sugar, and sesame oil.",
+    "Heat a large skillet or wok over medium-high heat.",
+    "Add the sesame oil to the skillet and swirl to coat.",
+    "Add the cabbage to the skillet and cook, stirring frequently, until it starts to soften, about 3-4 minutes.",
+    "Pour the velvety sauce over the cabbage and stir to coat.",
+    "Cook for an additional 2-3 minutes, until the cabbage is tender and the sauce has thickened.",
+    "Transfer the cabbage to a bowl and top with sesame seeds.",
+    "Serve immediately.",
+    "Garnish with additional sesame seeds and a drizzle of soy sauce, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "lunch",
+    "dinner",
+    "japanese",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 15,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-japanese-cabbage-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:18:19.225Z"
+}
