@@ -1,0 +1,78 @@
+{
+  "slug": "velvety-salty-yucatecan-shrimp-ceviche",
+  "title": "Ceviche Yucateco",
+  "description": "A refreshing and zesty Mexican dish originating from the Yucatan region. This ceviche recipe combines succulent shrimp marinated in a mixture of lime juice, mixed with a hint of velvety avocado and salty cotija cheese.",
+  "cuisine": "Mexican",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "velvety avocado",
+      "amount": "1 ripe avocado, diced",
+      "notes": ""
+    },
+    {
+      "name": "yucatecan-style onion",
+      "amount": "1 medium onion, diced",
+      "notes": ""
+    },
+    {
+      "name": "ceviche-style cilantro",
+      "amount": "1/4 cup chopped cilantro",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "cotija cheese",
+      "amount": "1/4 cup crumbled",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the shrimp, lime juice, avocado, onion, and cilantro. Stir well to combine.",
+    "Refrigerate for at least 30 minutes to allow the shrimp to 'cook' in the lime juice.",
+    "Just before serving, stir in the crumbled cotija cheese.",
+    "Taste and adjust the seasoning with salt as needed.",
+    "Serve immediately, garnished with additional cilantro if desired.",
+    "Note: If you prefer a stronger lime flavor, you can increase the amount of lime juice to 3/4 cup or more to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ceviche",
+    "yucateco",
+    "mexican",
+    "appetizer",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 20,
+    "carbs": 8,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-salty-yucatecan-shrimp-ceviche",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T22:05:59.583Z"
+}
