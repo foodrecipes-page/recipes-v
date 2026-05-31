@@ -1,0 +1,85 @@
+{
+  "slug": "vibrant-argentinian-tofu-bake",
+  "title": "Argentinian Vibrant Tofu Bake",
+  "description": "A fusion of Argentine flavors with a vibrant twist using vibrant vegetables. This dish is perfect for a quick and easy dinner.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "drained and cut into cubes"
+    },
+    {
+      "name": "vibrant",
+      "amount": "2 cups ( mixed bell peppers, carrots, zucchini)",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for baking"
+    },
+    {
+      "name": "Argentinian seasoning blend",
+      "amount": "1 tsp",
+      "notes": "such as paprika, oregano, and cumin"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "bake potatoes",
+      "amount": "2 large",
+      "notes": "washed and pierced with a fork"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Place tofu cubes on the baking sheet, drizzle with 1 tbsp of olive oil, and sprinkle with Argentinian seasoning blend.",
+    "Toss the vibrant vegetables, onion, and garlic with the remaining 1 tbsp of olive oil on a separate baking sheet.",
+    "Season with salt to taste.",
+    "Bake the tofu and vegetables for 25-30 minutes, or until the tofu is golden brown and the vegetables are tender.",
+    "Meanwhile, bake the potatoes for 45-50 minutes, or until they are cooked through.",
+    "Serve the tofu and vegetables with baked potatoes on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "tofu",
+    "bake",
+    "vegetarian",
+    "easy",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-argentinian-tofu-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T21:25:05.123Z"
+}
