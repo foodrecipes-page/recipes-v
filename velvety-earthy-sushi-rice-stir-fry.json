@@ -1,0 +1,60 @@
+{
+  "slug": "velvety-earthy-sushi-rice-stir-fry",
+  "title": "Earthy Stir Fry",
+  "description": "A simple and flavorful stir fry recipe using earthy mushrooms and velvety sauce.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Earthy",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Velvety",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sushi rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fry",
+      "amount": "2 tablespoons vegetable oil",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add earthy mushrooms and stir-fry until tender.",
+    "Add velvety sauce and stir-fry for 1-2 minutes.",
+    "Add sushi rice and stir-fry until heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "mushroom",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-earthy-sushi-rice-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T19:55:48.961Z"
+}
