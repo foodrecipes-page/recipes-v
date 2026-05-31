@@ -1,0 +1,75 @@
+{
+  "slug": "vibrant-umami-indian-paneer-rasmalai",
+  "title": "Paneer Rasmalai",
+  "description": "A rich and creamy Indian dessert made with paneer, rasmalai and a hint of umami flavor.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Paneer",
+      "amount": "250g",
+      "notes": "Cubed"
+    },
+    {
+      "name": "Rasmalai",
+      "amount": "200g",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Milk",
+      "amount": "500ml",
+      "notes": "Full-fat milk"
+    },
+    {
+      "name": "Sugar",
+      "amount": "100g",
+      "notes": "Granulated sugar"
+    },
+    {
+      "name": "Cardamom powder",
+      "amount": "1 tsp",
+      "notes": "Ground cardamom"
+    },
+    {
+      "name": "Kesar",
+      "amount": "1 tsp",
+      "notes": "Saffron threads"
+    }
+  ],
+  "instructions": [
+    "Combine sugar, cardamom powder and saffron in a saucepan.",
+    "Heat the mixture over medium heat, stirring until the sugar dissolves.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 5 minutes.",
+    "Add the milk to the saucepan and stir well.",
+    "Add the paneer to the saucepan and stir gently.",
+    "Cook for 5-7 minutes, or until the paneer is well coated with the milk mixture.",
+    "Stir in the rasmalai and cook for a further 2 minutes.",
+    "Remove from heat and let it cool to room temperature.",
+    "Chill the mixture in the refrigerator for at least 2 hours.",
+    "Serve chilled, garnished with cardamom powder and kesar."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "dessert",
+    "paneer",
+    "rasmalai"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-umami-indian-paneer-rasmalai",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T20:46:23.565Z"
+}
