@@ -1,0 +1,86 @@
+{
+  "slug": "velvety-earthly-polish-stew--indian",
+  "title": "Earthy Polish Stew with Velvety Garnish",
+  "description": "A hearty Indian-inspired stew made with tender polish and topped with a rich velvety garnish, perfect for a cold evening.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Polish",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Earthy",
+      "amount": "2 cups, sliced"
+    },
+    {
+      "name": "Stew",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": "mince before adding"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece, grated"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 can, diced"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion, garlic, and ginger. Cook until onion is translucent.",
+    "Add polish and earthy. Cook until tender.",
+    "Add stew, tomato, and coconut milk. Stir to combine.",
+    "Bring to a boil, then reduce heat and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with a dollop of velvety."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-earthly-polish-stew--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:12:37.768Z"
+}
