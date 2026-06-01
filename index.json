@@ -7928,18 +7928,16 @@
   },
   {
     "slug": "vibrant-earthy-japanese-noodles-udon",
-    "title": "Vibrant Earthy Japanese Noodles Udon",
+    "title": "Earthy Japanese Udon Noodle Soup",
     "tags": [
-      "anti-inflammatory",
-      "easy-to-make",
-      "japanese-cuisine",
-      "noodle-dish",
-      "one-pot",
-      "vegan-friendly",
-      "vegetarian-friendly"
+      "japanese",
+      "udon",
+      "noodle-soup",
+      "vegetarian",
+      "vegan"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
@@ -11022,16 +11020,14 @@
   },
   {
     "slug": "vinegary-chewy-indian-mung-beans-sambhar",
-    "title": "Vinegary Chewy Indian Mung Beans Sambhar",
+    "title": "Mung Bean Sambhar",
     "tags": [
-      "chewy",
-      "fermented",
-      "lacto-vegetarian",
-      "pan-quick",
-      "quick-fix",
-      "sambhar"
+      "south-indian",
+      "mung-beans",
+      "vegetarian",
+      "vegan"
     ],
-    "cuisine": "Punjabi",
+    "cuisine": "Indian",
     "totalTimeMin": 40,
     "shard": "v"
   },
