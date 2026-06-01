@@ -1,0 +1,96 @@
+{
+  "slug": "vibrant-earthy-japanese-noodles-udon",
+  "title": "Earthy Japanese Udon Noodle Soup",
+  "description": "A hearty and comforting Japanese-inspired noodle soup made with udon noodles, earthy mushrooms, and vibrant vegetables.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "udon noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "mushrooms (shiitake or cremini)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce (or tamari)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sake (or dry white wine)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "green chili pepper",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring the vegetable broth to a boil in a large pot.",
+    "Add the soy sauce, sake, sugar, and sesame oil to the pot.",
+    "Add the sliced mushrooms to the pot and cook for 3-4 minutes, or until they release their liquid and start to brown.",
+    "Add the udon noodles to the pot and cook for 8-10 minutes, or until they are tender.",
+    "Stir in the sesame seeds and green chili pepper.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the hot udon noodle soup garnished with green onions and sesame seeds.",
+    "Drizzle with sesame oil and soy sauce (if using).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "udon",
+    "noodle-soup",
+    "vegetarian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-earthy-japanese-noodles-udon",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T11:43:49.497Z"
+}
