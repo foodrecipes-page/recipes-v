@@ -947,17 +947,15 @@
   },
   {
     "slug": "velvety-american-pork-back-ribs-casserole",
-    "title": "Velvety American Pork Back Ribs Casserole",
+    "title": "Pork Back Ribs Casserole",
     "tags": [
-      "american-classics",
-      "comfort-food",
-      "halal-friendly",
-      "one-pot",
-      "pork-ribs",
-      "weeknight-dinners"
+      "american",
+      "pork",
+      "casserole",
+      "dinner"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 140,
+    "cuisine": "american",
+    "totalTimeMin": 65,
     "shard": "v"
   },
   {
@@ -11629,6 +11627,32 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
+    "slug": "vivid-malaysian-egg-noodle-noodles--french",
+    "title": "French Noodle Stir Fry",
+    "tags": [
+      "french",
+      "noodle-stir-fry",
+      "vegetarian",
+      "easy-cooking"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 25,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-american-pork-back-ribs-casserole--vegan",
+    "title": "Vegan Pulled Pork Casserole",
+    "tags": [
+      "vegan",
+      "pulled-pork",
+      "jackfruit",
+      "bbq"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 50,
     "shard": "v"
   }
 ]
