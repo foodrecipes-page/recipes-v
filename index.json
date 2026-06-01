@@ -760,14 +760,15 @@
   },
   {
     "slug": "velvet-gelatin-wrap",
-    "title": "Velvet Gelatin Wrap",
+    "title": "Crunchy Velvet Wrap",
     "tags": [
-      "velvet-gelatin-wrap",
-      "algerian-dessert",
-      "sous-vide-cooking"
+      "sweet",
+      "crunchy",
+      "vegan",
+      "kid-friendly"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 60,
+    "cuisine": null,
+    "totalTimeMin": 30,
     "shard": "v"
   },
   {
