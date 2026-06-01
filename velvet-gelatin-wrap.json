@@ -1,0 +1,62 @@
+{
+  "slug": "velvet-gelatin-wrap",
+  "title": "Crunchy Velvet Wrap",
+  "description": "A sweet and crunchy treat made with velvet, gelatin, and wrap.",
+  "cuisine": null,
+  "diet": null,
+  "meal": null,
+  "ingredients": [
+    {
+      "name": "Wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Gelatin",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Velvet",
+      "amount": "1 cup",
+      "notes": "Crushed or chopped velvet for garnish"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons",
+      "notes": "Optional, for added sweetness"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, sprinkle the gelatin over 1 tablespoon of water and let it sit for 2 minutes.",
+    "In a separate bowl, mix together the sugar and crushed velvet.",
+    "Place the wrap on a flat surface and brush the edges with water.",
+    "Sprinkle the gelatin mixture evenly over the center of the wrap.",
+    "Top the gelatin mixture with the velvet-sugar mixture.",
+    "Fold the bottom edge of the wrap up over the filling, then fold in the sides and roll up the wrap tightly.",
+    "Place the roll seam-side down on a plate and refrigerate for at least 30 minutes.",
+    "Cut the roll into slices and serve.",
+    "Garnish with additional crushed velvet if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "crunchy",
+    "vegan",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 0,
+    "carbs": 20,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvet-gelatin-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T09:31:41.541Z"
+}
