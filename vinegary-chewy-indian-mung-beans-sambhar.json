@@ -1,0 +1,76 @@
+{
+  "slug": "vinegary-chewy-indian-mung-beans-sambhar",
+  "title": "Mung Bean Sambhar",
+  "description": "A traditional South Indian dish made with mung beans and spices. This recipe is a flavorful and nutritious option for a comforting meal.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mung beans",
+      "amount": "1 cup",
+      "notes": "sorted and rinsed"
+    },
+    {
+      "name": "sambhar",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "vinegary",
+      "amount": "2 tablespoons",
+      "notes": "white vinegar"
+    },
+    {
+      "name": "chewy",
+      "amount": "1 small onion",
+      "notes": "chopped"
+    },
+    {
+      "name": "indian",
+      "amount": "2 teaspoons",
+      "notes": "ground cumin and coriander"
+    },
+    {
+      "name": "beans",
+      "amount": "1 cup",
+      "notes": "cooked and mashed"
+    }
+  ],
+  "instructions": [
+    "Rinse the mung beans and soak them in water for at least 4 hours. Drain and set aside.",
+    "Heat oil in a pan and sauté the chopped onion until translucent.",
+    "Add the ground cumin and coriander and cook for 1 minute.",
+    "Add the sambhar and vinegary to the pan and bring to a boil.",
+    "Add the mung beans to the pan and reduce heat to low.",
+    "Simmer the mixture for 20-25 minutes or until the mung beans are tender.",
+    "Add the cooked and mashed beans to the pan and stir well.",
+    "Season the sambhar with salt to taste.",
+    "Serve hot garnished with fresh cilantro.",
+    "Store leftover sambhar in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "south-indian",
+    "mung-beans",
+    "vegetarian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vinegary-chewy-indian-mung-beans-sambhar",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T12:04:52.931Z"
+}
