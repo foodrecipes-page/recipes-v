@@ -1,0 +1,76 @@
+{
+  "slug": "velvety-american-pork-back-ribs-casserole",
+  "title": "Pork Back Ribs Casserole",
+  "description": "A twist on traditional pork ribs by baking them in a delicious casserole. This dish is perfect for a family dinner.",
+  "cuisine": "american",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork back ribs",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "Casserole",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Velvety",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "to grease the baking dish"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Bread crumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "1 cup, shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Grease a 9x13-inch baking dish with olive oil.",
+    "In a large skillet, cook the chopped onion and minced garlic over medium heat until softened.",
+    "Add the pork back ribs to the skillet and cook for 2-3 minutes on each side.",
+    "Transfer the ribs to the prepared baking dish and top with casserole, velvety, and bread crumbs.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and top with shredded cheddar cheese. Return to the oven and bake for an additional 15-20 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let rest for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "pork",
+    "casserole",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-american-pork-back-ribs-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T13:10:41.298Z"
+}
