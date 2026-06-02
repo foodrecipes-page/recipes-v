@@ -1,0 +1,82 @@
+{
+  "slug": "velvety-roasted-saudi-arabian-tuna-kebabs",
+  "title": "Saudi Arabian Tuna Kebabs",
+  "description": "A simple and flavorful dish combining the bold flavors of Saudi Arabian cuisine with the freshness of tuna. Perfect for a quick dinner.",
+  "cuisine": "saudi-arabian",
+  "diet": [
+    "fish",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tuna steaks",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Velvety hummus",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Roasted red pepper",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Arabian spice mix",
+      "amount": "2 teaspoons",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Vegetable skewers",
+      "amount": "8-10",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, mix together hummus, red pepper, and Arabian spice mix.",
+    "Brush tuna steaks with olive oil and season with salt and pepper.",
+    "Thread tuna, red pepper, and onion onto skewers, leaving a small space between each piece.",
+    "Brush skewers with the hummus mixture and grill for 8-10 minutes per side, or until tuna is cooked through.",
+    "Serve hot with additional hummus on the side, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 16,
+  "totalTimeMin": 26,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi-arabian",
+    "kebabs",
+    "fish",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-roasted-saudi-arabian-tuna-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T17:42:22.659Z"
+}
