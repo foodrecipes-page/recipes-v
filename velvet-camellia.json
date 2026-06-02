@@ -1,0 +1,97 @@
+{
+  "slug": "velvet-camellia",
+  "title": "Velvet-Camellia Chicken Stir Fry",
+  "description": "A simple and delicious stir fry recipe using velvet and camellia oil, perfect for a quick weeknight dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Velvet",
+      "amount": "2 tablespoons",
+      "notes": "use for marinating"
+    },
+    {
+      "name": "Camellia oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Snow peas",
+      "amount": "1 cup",
+      "notes": "trimmed"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Oyster sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a small bowl, whisk together velvet, soy sauce, and oyster sauce (if using). Add the chicken and marinate for at least 15 minutes.",
+    "2. Heat 1 tablespoon of camellia oil in a wok or large skillet over medium-high heat.",
+    "3. Add the chicken to the wok and cook until browned and cooked through, about 5-7 minutes.",
+    "4. Remove the chicken from the wok and set aside.",
+    "5. In the same wok, add the remaining 1 tablespoon of camellia oil.",
+    "6. Add the garlic and ginger to the wok and stir-fry until fragrant, about 30 seconds.",
+    "7. Add the bell peppers and snow peas to the wok and stir-fry until tender-crisp, about 2-3 minutes.",
+    "8. Return the chicken to the wok and stir in the velvet marinade.",
+    "9. Cook for an additional 1-2 minutes, until the sauce has thickened.",
+    "10. Season with salt and pepper to taste.",
+    "11. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "stir-fry",
+    "velvet",
+    "camellia-oil"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvet-camellia",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T16:19:01.621Z"
+}
