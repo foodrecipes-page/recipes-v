@@ -4729,17 +4729,15 @@
   },
   {
     "slug": "velvety-roasted-saudi-arabian-tuna-kebabs",
-    "title": "Velvety Roasted Saudi Arabian Tuna Kebabs",
+    "title": "Saudi Arabian Tuna Kebabs",
     "tags": [
-      "healthy",
-      "high-protein",
-      "middle-eastern",
-      "one-pan",
-      "seafood",
-      "weeknight"
+      "saudi-arabian",
+      "kebabs",
+      "fish",
+      "seafood"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 42,
+    "cuisine": "saudi-arabian",
+    "totalTimeMin": 26,
     "shard": "v"
   },
   {
@@ -8715,17 +8713,15 @@
   },
   {
     "slug": "vibrant-juicy-filipino-buckwheat-noodles",
-    "title": "Vibrant Juicy Filipino Buckwheat Noodles",
+    "title": "Filipino-Style Buckwheat Noodle Dish",
     "tags": [
-      "asian-cuisine",
-      "beurre-monte-sauce",
-      "buckwheat-noodles",
-      "buddhist-friendly",
-      "filipino-food",
-      "vegetarian-dish"
+      "filipino",
+      "vegetarian",
+      "gluten-free",
+      "noodle-dish"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 35,
+    "cuisine": "filipino",
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
