@@ -5703,10 +5703,14 @@
   },
   {
     "slug": "velvety-spicy-algerian-lamb-tagine",
-    "title": "Velvety Spicy Algerian Lamb Tagine",
-    "tags": [],
-    "cuisine": "Algerian",
-    "totalTimeMin": null,
+    "title": "Slow Cooker Moroccan Lamb Tagine",
+    "tags": [
+      "moroccan",
+      "lamb",
+      "slow-cooker"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 440,
     "shard": "v"
   },
   {
