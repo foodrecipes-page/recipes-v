@@ -1,0 +1,76 @@
+{
+  "slug": "velvety-american-pork-back-ribs-casserole--gluten-free",
+  "title": "Gluten-Free Pork Ribs Casserole",
+  "description": "A hearty and flavorful casserole made with pork ribs, perfect for a comforting meal.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork ribs",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "velvety casserole",
+      "amount": "1 package"
+    },
+    {
+      "name": "back ribs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pork",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "gluten-free breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large skillet, heat olive oil over medium-high heat.",
+    "Add onion and garlic, cooking until softened.",
+    "Add pork ribs and cook until browned on all sides.",
+    "In a separate bowl, mix together casserole and breadcrumbs.",
+    "Transfer the ribs to a 9x13 inch baking dish.",
+    "Top with the casserole mixture and bake for 25 minutes.",
+    "Increase oven temperature to broil and cook for an additional 5 minutes.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "pork",
+    "casserole",
+    "american"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 33,
+    "carbs": 24,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-american-pork-back-ribs-casserole--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T14:11:27.342Z"
+}
