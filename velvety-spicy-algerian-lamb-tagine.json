@@ -1,0 +1,89 @@
+{
+  "slug": "velvety-spicy-algerian-lamb-tagine",
+  "title": "Slow Cooker Moroccan Lamb Tagine",
+  "description": "A hearty and flavorful North African-inspired stew made with tender lamb and a blend of aromatic spices. Perfect for a chilly evening.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "algerian spice blend",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "velvety tomato paste",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "spicy harissa",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for browning lamb"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "",
+      "notes": "chopped (for garnish)"
+    }
+  ],
+  "instructions": [
+    "Season the lamb with salt, black pepper, and Algerian spice blend.",
+    "Heat oil in a large Dutch oven over medium-high heat. Sear the lamb until browned on all sides, about 5 minutes. Remove from heat and set aside.",
+    "Reduce heat to medium and add chopped onion to the pot. Cook until softened, about 5 minutes.",
+    "Add minced garlic and cook for an additional minute.",
+    "If using, add velvety tomato paste and cook for 1-2 minutes, stirring constantly.",
+    "Add spicy harissa (if using) and cook for 1 minute.",
+    "Add chicken broth, browned lamb, and any accumulated juices to the pot. Bring to a simmer.",
+    "Transfer the pot to a slow cooker and cook on low for 8-10 hours or on high for 4-6 hours.",
+    "Garnish with chopped parsley and serve over couscous or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 420,
+  "totalTimeMin": 440,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "lamb",
+    "slow-cooker"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-spicy-algerian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T19:56:18.116Z"
+}
