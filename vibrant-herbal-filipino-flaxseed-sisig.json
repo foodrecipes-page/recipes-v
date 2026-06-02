@@ -1,0 +1,85 @@
+{
+  "slug": "vibrant-herbal-filipino-flaxseed-sisig",
+  "title": "Filipino Sisig with a Herbal Twist",
+  "description": "A spicy Filipino sisig dish with a vibrant twist, featuring flaxseed-crusted pork and a herbal kick.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork face",
+      "amount": "1",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "flaxseed",
+      "amount": "2 tablespoons",
+      "notes": "crushed"
+    },
+    {
+      "name": "chili peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "vinegar",
+      "amount": "2 tablespoons",
+      "notes": "apple cider vinegar"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vibrant",
+      "amount": "2 tablespoons",
+      "notes": "herbal sauce"
+    },
+    {
+      "name": "sliced green onions",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a bowl, mix together crushed flaxseed and a pinch of salt.",
+    "3. Coat the pork pieces with the flaxseed mixture, shaking off excess.",
+    "4. Bake the pork in the oven for 15-20 minutes, or until cooked through.",
+    "5. In a pan, heat some oil over medium heat.",
+    "6. Add sliced chili peppers and cook until they start to soften.",
+    "7. Add minced garlic and cook for another minute.",
+    "8. Add vinegar, lime juice, and vibrant herbal sauce. Stir to combine.",
+    "9. Add the cooked pork to the pan and stir to coat with the sauce.",
+    "10. Serve hot, garnished with sliced green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "sisig",
+    "herb",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-herbal-filipino-flaxseed-sisig",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T14:33:09.538Z"
+}
