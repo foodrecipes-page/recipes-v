@@ -8498,17 +8498,15 @@
   },
   {
     "slug": "vibrant-herbal-filipino-flaxseed-sisig",
-    "title": "Vibrant Herbal Filipino Flaxseed Sisig",
+    "title": "Filipino Sisig with a Herbal Twist",
     "tags": [
-      "filipino-food",
-      "flaxseed-recipes",
-      "herbal-dishes",
-      "jain-friendly",
-      "sisig-recipes",
-      "vegetarian-recipes"
+      "filipino",
+      "sisig",
+      "herb",
+      "gluten-free"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "v"
   },
   {
@@ -11653,6 +11651,19 @@
     ],
     "cuisine": null,
     "totalTimeMin": 50,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-american-pork-back-ribs-casserole--gluten-free",
+    "title": "Gluten-Free Pork Ribs Casserole",
+    "tags": [
+      "gluten-free",
+      "pork",
+      "casserole",
+      "american"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 55,
     "shard": "v"
   }
 ]
