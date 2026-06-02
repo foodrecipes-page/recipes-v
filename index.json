@@ -562,12 +562,12 @@
     "slug": "vegetable-essence-soup",
     "title": "Vegetable Essence Soup",
     "tags": [
-      "vegetable-soup",
-      "umami-friendly",
-      "light-weeknight-dinner"
+      "vegetarian",
+      "soup",
+      "comfort-food"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 30,
     "shard": "v"
   },
   {
@@ -665,15 +665,15 @@
   },
   {
     "slug": "velvet-camellia",
-    "title": "Velvet Camellia",
+    "title": "Velvet-Camellia Chicken Stir Fry",
     "tags": [
-      "velvet-camellia",
-      "floral-flavor",
-      "comforting-dish",
-      "kosher-friendly"
+      "chicken",
+      "stir-fry",
+      "velvet",
+      "camellia-oil"
     ],
-    "cuisine": "French",
-    "totalTimeMin": 45,
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
