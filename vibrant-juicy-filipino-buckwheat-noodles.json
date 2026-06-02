@@ -1,0 +1,96 @@
+{
+  "slug": "vibrant-juicy-filipino-buckwheat-noodles",
+  "title": "Filipino-Style Buckwheat Noodle Dish",
+  "description": "A flavorful and nutritious Filipino-inspired buckwheat noodle dish, perfect for a weeknight dinner. This recipe combines the nutty flavor of buckwheat noodles with the vibrant spices of the Philippines.",
+  "cuisine": "filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "buckwheat noodles",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "vibrant vegetable stir-fry mix",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "juicy pineapple",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/2 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Cook the buckwheat noodles according to the package instructions.",
+    "In a large skillet or wok, heat the coconut oil over medium-high heat.",
+    "Add the garlic and onion to the skillet and cook until the onion is translucent.",
+    "Add the vibrant vegetable stir-fry mix to the skillet and cook until the vegetables are tender.",
+    "Add the diced pineapple to the skillet and cook for an additional 2 minutes.",
+    "In a small bowl, whisk together the soy sauce, brown sugar, rice vinegar, and chili flakes.",
+    "Pour the sauce over the vegetable mixture in the skillet and stir to combine.",
+    "Add the cooked buckwheat noodles to the skillet and stir to combine with the sauce.",
+    "Serve the noodles hot, garnished with additional vibrant vegetables if desired.",
+    "Enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "vegetarian",
+    "gluten-free",
+    "noodle-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-juicy-filipino-buckwheat-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T17:51:02.009Z"
+}
