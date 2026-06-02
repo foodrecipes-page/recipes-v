@@ -1,0 +1,71 @@
+{
+  "slug": "velvety-australian-colby-jack-mousse",
+  "title": "Australian Jack Cheese Fritters",
+  "description": "A simple recipe for crispy cheese fritters using Australian jack cheese, perfect as a snack or appetizer.",
+  "cuisine": "australian",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Australian Jack Cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Colby Cheese",
+      "amount": "1/2 cup, shredded"
+    },
+    {
+      "name": "1 egg",
+      "amount": "1 whole egg"
+    },
+    {
+      "name": "1/4 cup, all-purpose flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "1/2 teaspoon, salt",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "1/4 teaspoon, black pepper",
+      "amount": "0.25 tsp"
+    },
+    {
+      "name": "1 tablespoon, unsalted butter, melted",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oil in a deep frying pan to 375°F (190°C).",
+    "2. In a bowl, combine the Australian jack cheese, Colby cheese, egg, flour, salt, and black pepper.",
+    "3. Mix well until all the ingredients are fully incorporated.",
+    "4. Using a spoon, drop small balls of the cheese mixture into the hot oil.",
+    "5. Fry the fritters for 2-3 minutes on each side, or until golden brown and crispy.",
+    "6. Remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "7. Serve the fritters hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese",
+    "fritters",
+    "snack",
+    "australian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-australian-colby-jack-mousse",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T20:05:11.203Z"
+}
