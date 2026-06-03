@@ -1211,18 +1211,15 @@
   },
   {
     "slug": "velvety-bitter-norwegian-cod-grill",
-    "title": "Velvety Bitter Norwegian Cod Grill",
+    "title": "Pan-Seared Cod with Norwegian Sauce",
     "tags": [
-      "kosher-friendly",
-      "grilled",
-      "seafood",
-      "bitter",
-      "velvety",
-      "date-night",
-      "norwegian"
+      "fish",
+      "norwegian",
+      "cod",
+      "dinner"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
