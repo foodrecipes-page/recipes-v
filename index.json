@@ -2182,15 +2182,15 @@
   },
   {
     "slug": "velvety-earthy-algerian-chicken-stir-fry",
-    "title": "Velvety Earthy Algerian Chicken Stir-fry",
+    "title": "Algerian Chicken Stir Fry",
     "tags": [
       "algerian",
       "chicken",
       "stir-fry",
-      "vegetarian-friendly"
+      "velvety"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
@@ -2671,15 +2671,14 @@
   },
   {
     "slug": "velvety-garlicky-melon-stir-fry",
-    "title": "Velvety Garlicky Melon Stir-fry",
+    "title": "Garlicky Melon Stir Fry",
     "tags": [
-      "velvety-garlicky-melon-stir-fry",
-      "light-turkish-dish",
-      "bhuna-sauce",
-      "dash-friendly"
+      "stir-fry",
+      "quick-dinner",
+      "summer-recipe"
     ],
-    "cuisine": "Turkish",
-    "totalTimeMin": 25,
+    "cuisine": "Asian",
+    "totalTimeMin": 15,
     "shard": "v"
   },
   {
