@@ -1,0 +1,90 @@
+{
+  "slug": "velvety-earthy-algerian-chicken-stir-fry",
+  "title": "Algerian Chicken Stir Fry",
+  "description": "A rich and flavorful Algerian-inspired stir fry made with tender chicken and velvety sauce. Serve with a side of earthy vegetables for a well-rounded meal.",
+  "cuisine": "Algerian",
+  "diet": [
+    "meat",
+    "poultry"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "velvety sauce",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "fry",
+      "amount": "",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of oil in a large skillet over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the sliced onion and cook until softened, about 3-4 minutes.",
+    "Add the sliced carrot and cook until tender, about 5 minutes.",
+    "Return the chicken to the skillet and stir in the velvety sauce.",
+    "Season with cumin, paprika, salt, and pepper to taste.",
+    "Stir-fry for an additional 2-3 minutes until the sauce has thickened.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "chicken",
+    "stir-fry",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-earthy-algerian-chicken-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T01:06:50.895Z"
+}
