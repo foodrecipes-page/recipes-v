@@ -1,0 +1,72 @@
+{
+  "slug": "velvety-bitter-norwegian-cod-grill",
+  "title": "Pan-Seared Cod with Norwegian Sauce",
+  "description": "A delicate cod dish smothered in a rich Norwegian sauce, perfect for a weeknight dinner.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod",
+      "amount": "4 fillets (6 oz each)"
+    },
+    {
+      "name": "Norwegian Sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Grill",
+      "amount": "1 tablespoon, finely chopped"
+    },
+    {
+      "name": "Velvety Sauce (optional)",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Bitter Greens (optional)",
+      "amount": "1 cup",
+      "notes": "such as kale or arugula"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Season cod fillets with salt and pepper.",
+    "3. Heat butter in an oven-safe skillet over medium heat.",
+    "4. Sear cod for 2-3 minutes per side, then transfer to the oven.",
+    "5. Bake cod for 8-10 minutes or until cooked through.",
+    "6. Meanwhile, heat Norwegian sauce in a small saucepan over low heat.",
+    "7. Stir in chopped grill and remove from heat.",
+    "8. Serve cod with Norwegian sauce spooned over the top.",
+    "9. Garnish with velvety sauce and bitter greens, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "norwegian",
+    "cod",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-bitter-norwegian-cod-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T06:33:54.147Z"
+}
