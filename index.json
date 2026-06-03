@@ -7824,17 +7824,15 @@
   },
   {
     "slug": "vibrant-dense-mexican-comte-tacos",
-    "title": "Vibrant Dense Mexican Comte Tacos",
+    "title": "Mexican Tacos with Vibrant Salsa",
     "tags": [
-      "comte-cheese",
-      "gluten-free",
-      "mexican-inspired",
-      "one-pan",
-      "sous-vide",
+      "mexican",
+      "tacos",
+      "cheese",
       "vegetarian"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 140,
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
