@@ -1,0 +1,61 @@
+{
+  "slug": "velvety-garlicky-melon-stir-fry",
+  "title": "Garlicky Melon Stir Fry",
+  "description": "A simple and delicious stir fry made with fresh melon, garlic, and a velvety sauce.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Velvety sauce (store-bought)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Melon (cantaloupe or honeydew)",
+      "amount": "2 cups diced"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the minced garlic and stir-fry until fragrant, about 1 minute.",
+    "Add the diced melon and stir-fry for about 3-4 minutes, or until slightly tender.",
+    "Pour in the velvety sauce and stir-fry for another minute, until the melon is well coated.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "quick-dinner",
+    "summer-recipe"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-garlicky-melon-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T00:33:48.128Z"
+}
