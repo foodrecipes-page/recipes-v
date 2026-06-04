@@ -1,0 +1,76 @@
+{
+  "slug": "velvety-turkish-bean-soup",
+  "title": "Creamy Bean Soup",
+  "description": "A comforting and flavorful soup made with velvety Turkish beans and spices.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Velvety Turkish Beans",
+      "amount": "1 (14 oz) can",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Dried Thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Saute the chopped onion and minced garlic in a large pot until softened.",
+    "Add the chicken broth, dried thyme, salt, and black pepper to the pot.",
+    "Stir in the can of velvety Turkish beans.",
+    "Bring the mixture to a boil, then reduce the heat to low and let simmer for 20 minutes.",
+    "Use an immersion blender to puree the soup until smooth.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soup",
+    "lunch",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-turkish-bean-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T17:58:22.614Z"
+}
