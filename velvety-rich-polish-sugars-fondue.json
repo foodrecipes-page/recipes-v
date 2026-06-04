@@ -1,0 +1,68 @@
+{
+  "slug": "velvety-rich-polish-sugars-fondue",
+  "title": "Polish Velvety Fondue",
+  "description": "A rich and creamy Polish-inspired fondue perfect for dipping bread or vegetables. Rich in calories and indulgent in flavor.",
+  "cuisine": "Polish",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Polish Sugar",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Velvety Fondue",
+      "amount": "1 jar (16 oz)",
+      "notes": null
+    },
+    {
+      "name": "Rich Whipping Cream",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Fondue Cheese",
+      "amount": "1 cup, shredded",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Combine Polish Sugar and Fondue in a medium saucepan and heat over medium heat, stirring constantly.",
+    "Bring the mixture to a simmer and cook for 5 minutes or until the sugar dissolves.",
+    "Remove from heat and stir in the Rich Whipping Cream until well combined.",
+    "Add the Fondue Cheese and stir until melted and smooth.",
+    "Season with Salt to taste.",
+    "Transfer the fondue to a serving bowl and serve immediately.",
+    "Arrange bread or vegetables on a platter and serve with the fondue for dipping.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "polish",
+    "fondue",
+    "rich",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-rich-polish-sugars-fondue",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T14:18:04.293Z"
+}
