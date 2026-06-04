@@ -1,0 +1,77 @@
+{
+  "slug": "vibrant-crispy-greek-snapper-fish-pastitsio--gluten-free",
+  "title": "Crispy Greek Fish",
+  "description": "A gluten-free and crispy Greek-style fish dish perfect for a quick lunch.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Snapper fillets",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Greek pastitsio",
+      "amount": "1 cup",
+      "notes": "Gluten-free version"
+    },
+    {
+      "name": "Vibrant lemons",
+      "amount": "2",
+      "notes": "Juice and slices"
+    },
+    {
+      "name": "Crispy breadcrumbs",
+      "amount": "1 cup",
+      "notes": "Gluten-free"
+    },
+    {
+      "name": "Fish oil",
+      "amount": "2 tbsp",
+      "notes": "For frying"
+    },
+    {
+      "name": "Dill",
+      "amount": "1 sprig",
+      "notes": "Fresh and chopped"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the snapper fillets with salt, pepper, and dill.",
+    "Dip each fillet in the Greek pastitsio, coating both sides evenly.",
+    "Dip the coated fillet in the crispy breadcrumbs, pressing gently to ensure they stick.",
+    "Heat 1/2 inch (1 cm) of fish oil in an oven-safe skillet over medium-high heat.",
+    "Sear the coated snapper fillets for 2-3 minutes on each side, until golden brown.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, until cooked through.",
+    "Serve immediately, garnished with lemon slices and wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "fish",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-crispy-greek-snapper-fish-pastitsio--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T17:24:51.145Z"
+}
