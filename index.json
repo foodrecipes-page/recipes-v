@@ -1493,17 +1493,14 @@
   },
   {
     "slug": "velvety-canadian-chicken-casserole",
-    "title": "Velvety Canadian Chicken Casserole",
+    "title": "Chicken Canadian Casserole",
     "tags": [
-      "canadian-cuisine",
-      "chicken-recipes",
-      "comfort-food",
-      "halal-friendly",
-      "one-pan",
-      "weeknight-dinner"
+      "chicken",
+      "casserole",
+      "canadian"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 50,
+    "cuisine": "north american",
+    "totalTimeMin": 55,
     "shard": "v"
   },
   {
