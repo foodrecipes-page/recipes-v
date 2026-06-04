@@ -1,0 +1,89 @@
+{
+  "slug": "vibrant-kenyan-chicken-stew",
+  "title": "Kenyan Chicken Stew",
+  "description": "A flavorful and hearty stew from Kenya, made with tender chicken and vibrant spices.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound, cut into 1-inch pieces",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "kenyan stew spice mix",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "vibrant red bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic; cook until softened, about 5 minutes.",
+    "Add chicken; cook until browned, about 5-6 minutes.",
+    "Add carrots, potatoes, and Kenyan stew spice mix; cook for 1 minute.",
+    "Add tomato paste; cook for 1 minute.",
+    "Add chicken broth; bring to a boil.",
+    "Reduce heat to low; simmer, covered, until chicken is cooked through and vegetables are tender, about 20-25 minutes.",
+    "Stir in vibrant red bell pepper; cook for 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "chicken",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-kenyan-chicken-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T15:27:33.458Z"
+}
