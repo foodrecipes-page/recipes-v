@@ -1,0 +1,80 @@
+{
+  "slug": "velvety-coconut-cream-yucatecan-paella",
+  "title": "Yucatecan Coconut Cream Paella",
+  "description": "A rich and creamy twist on traditional paella, featuring the bold flavors of Yucatecan cuisine.",
+  "cuisine": "yucatecan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "velvety cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "paella rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "diced bell peppers",
+      "amount": "1 medium"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "2 cups"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large paella pan over medium-high heat.",
+    "Add diced onions and bell peppers, cooking until tender.",
+    "Add diced tomatoes, smoked paprika, and ground cumin, stirring to combine.",
+    "Add paella rice, stirring to coat with oil and mix with tomato mixture.",
+    "Add coconut cream, stirring to combine.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 20 minutes.",
+    "Stir in velvety cream and cook for an additional 5 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "yucatecan",
+    "coconut",
+    "paella",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-coconut-cream-yucatecan-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T19:13:13.413Z"
+}
