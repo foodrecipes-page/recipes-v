@@ -6177,10 +6177,14 @@
   },
   {
     "slug": "velvety-turkish-bean-soup",
-    "title": "Velvety Turkish Bean Soup",
-    "tags": [],
+    "title": "Creamy Bean Soup",
+    "tags": [
+      "soup",
+      "lunch",
+      "turkish"
+    ],
     "cuisine": "Turkish",
-    "totalTimeMin": null,
+    "totalTimeMin": 30,
     "shard": "v"
   },
   {
@@ -11660,6 +11664,18 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 15,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-crispy-greek-snapper-fish-pastitsio--gluten-free",
+    "title": "Crispy Greek Fish",
+    "tags": [
+      "greek",
+      "fish",
+      "gluten-free"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 25,
     "shard": "v"
   }
 ]
