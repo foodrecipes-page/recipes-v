@@ -1,0 +1,80 @@
+{
+  "slug": "velvety-australian-cod-soup",
+  "title": "Pan-Seared Australian Cod with Velvety Soup",
+  "description": "A delicate cod fillet served with a rich and creamy velvety soup, perfect for a cold evening.",
+  "cuisine": "Australian",
+  "diet": [
+    "fish",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian cod fillets",
+      "amount": "2",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "Velvety soup",
+      "amount": "2 cups",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Chopped parsley",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the cod fillets with salt and black pepper.",
+    "Heat the butter in an oven-safe skillet over medium-high heat.",
+    "Sear the cod fillets for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until cooked through.",
+    "Meanwhile, heat the velvety soup in a separate pot over low heat.",
+    "Serve the cod fillets with the velvety soup spooned over the top.",
+    "Garnish with chopped parsley and a squeeze of lemon juice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "seafood",
+    "australian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-australian-cod-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T19:04:44.556Z"
+}
