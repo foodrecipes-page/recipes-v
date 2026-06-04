@@ -1,0 +1,88 @@
+{
+  "slug": "velvety-canadian-chicken-casserole",
+  "title": "Chicken Canadian Casserole",
+  "description": "A creamy casserole dish filled with chicken, velvety sauce and Canadian ingredients, perfect for a weeknight dinner.",
+  "cuisine": "north american",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "velvety sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "canadian bacon",
+      "amount": "6 slices",
+      "notes": "crumbled"
+    },
+    {
+      "name": "casserole dish",
+      "amount": "1",
+      "notes": "9x13 inch"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup",
+      "notes": "divided"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for thickening"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "for sauce"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Cook the Canadian bacon in a skillet until crispy, then set aside.",
+    "In a separate pot, combine velvety sauce, milk, and flour. Whisk until smooth and bring to a simmer.",
+    "Add shredded cheddar cheese to the sauce and stir until melted.",
+    "In a large bowl, combine cooked chicken, Canadian bacon, and sauce mixture.",
+    "Transfer the mixture to a 9x13 inch casserole dish and top with additional shredded cheese.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove foil and continue baking for an additional 10-15 minutes, or until the top is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "casserole",
+    "canadian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-canadian-chicken-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T08:53:01.173Z"
+}
