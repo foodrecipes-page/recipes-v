@@ -8760,13 +8760,11 @@
   },
   {
     "slug": "vibrant-kenyan-chicken-stew",
-    "title": "Vibrant Kenyan Chicken Stew",
+    "title": "Kenyan Chicken Stew",
     "tags": [
-      "african",
-      "comfort-food",
-      "gluten-free",
-      "low-sodium",
-      "one-pot"
+      "kenyan",
+      "chicken",
+      "stew"
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 40,
@@ -11649,6 +11647,19 @@
     ],
     "cuisine": "American",
     "totalTimeMin": 55,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-german-pumpernickel-flatbread--vegan",
+    "title": "German-Style Flatbread with Vegan Pumpernickel Topping",
+    "tags": [
+      "german",
+      "flatbread",
+      "pumpernickel",
+      "vegan"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 15,
     "shard": "v"
   }
 ]
