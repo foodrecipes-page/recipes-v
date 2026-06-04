@@ -1101,10 +1101,15 @@
   },
   {
     "slug": "velvety-australian-cod-soup",
-    "title": "Velvety Australian Cod Soup",
-    "tags": [],
+    "title": "Pan-Seared Australian Cod with Velvety Soup",
+    "tags": [
+      "fish",
+      "seafood",
+      "australian",
+      "comfort-food"
+    ],
     "cuisine": "Australian",
-    "totalTimeMin": null,
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
@@ -1813,16 +1818,14 @@
   },
   {
     "slug": "velvety-coconut-cream-yucatecan-paella",
-    "title": "Velvety Coconut Cream Yucatecan Paella",
+    "title": "Yucatecan Coconut Cream Paella",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "high-protein",
-      "mexican-inspired",
-      "one-pan",
-      "weeknight"
+      "yucatecan",
+      "coconut",
+      "paella",
+      "vegetarian"
     ],
-    "cuisine": "Yucatecan",
+    "cuisine": "yucatecan",
     "totalTimeMin": 40,
     "shard": "v"
   },
@@ -2107,15 +2110,14 @@
   },
   {
     "slug": "velvety-dutch-red-potatoes-stir-fry",
-    "title": "Velvety Dutch Red Potatoes Stir-fry",
+    "title": "Dutch Red Potato Hash",
     "tags": [
-      "dutch-red-potatoes",
-      "velvety-stir-fry",
-      "earthly-veggies",
-      "high-protein-friendly"
+      "dutch",
+      "potatoes",
+      "side dish"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 80,
+    "cuisine": "dutch",
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
