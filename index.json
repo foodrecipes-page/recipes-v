@@ -7538,16 +7538,15 @@
   },
   {
     "slug": "vibrant-crispy-greek-snapper-fish-pastitsio",
-    "title": "Vibrant Crispy Greek Snapper Fish Pastitsio",
+    "title": "Baked Snapper Pastitsio",
     "tags": [
-      "crowd-pleaser",
-      "fish-dish",
-      "greek-cuisine",
-      "one-pan",
-      "plant-based"
+      "greek",
+      "fish",
+      "pasta",
+      "baked"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 70,
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
