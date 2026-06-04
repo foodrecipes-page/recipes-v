@@ -1,0 +1,66 @@
+{
+  "slug": "vibrant-german-pumpernickel-flatbread--vegan",
+  "title": "German-Style Flatbread with Vegan Pumpernickel Topping",
+  "description": "A vegan twist on traditional German flatbread, topped with a rich pumpernickel spread.",
+  "cuisine": "german",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 package (8-10 pieces)"
+    },
+    {
+      "name": "Pumpernickel seeds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Vegan black bean paste",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Vegan yeast",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. In a food processor, combine pumpernickel seeds, black bean paste, apple cider vinegar, olive oil, garlic powder, and salt. Process until smooth.",
+    "3. Brush the flatbread with vegan yeast and spread the pumpernickel mixture on top.",
+    "4. Bake for 10-12 minutes, or until the flatbread is crispy and the topping is golden brown.",
+    "5. Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "flatbread",
+    "pumpernickel",
+    "vegan"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-german-pumpernickel-flatbread--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T15:42:48.828Z"
+}
