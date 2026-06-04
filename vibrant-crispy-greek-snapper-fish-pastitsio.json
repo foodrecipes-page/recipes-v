@@ -1,0 +1,87 @@
+{
+  "slug": "vibrant-crispy-greek-snapper-fish-pastitsio",
+  "title": "Baked Snapper Pastitsio",
+  "description": "A Mediterranean twist on the classic Greek pasta dish, featuring fresh snapper as the star ingredient.",
+  "cuisine": "Greek",
+  "diet": [
+    "fish",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Snapper fillet",
+      "amount": "2",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Vibrant tomato sauce",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Crispy panko breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": "For topping"
+    },
+    {
+      "name": "Greek pasta (such as penne or rigatoni)",
+      "amount": "8 oz",
+      "notes": "Cooked al dente"
+    },
+    {
+      "name": "Fish stock",
+      "amount": "2 cups",
+      "notes": "For moisture and flavor"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "Grated and sprinkled on top"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For drizzling"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the Greek pasta al dente according to package instructions.",
+    "In a separate pan, heat the fish stock over medium heat.",
+    "Add the vibrant tomato sauce to the pan and stir to combine.",
+    "Season the snapper fillet with salt and pepper.",
+    "Place the snapper fillet in a baking dish and spoon the tomato sauce over the top.",
+    "Sprinkle the crispy panko breadcrumbs over the top of the snapper.",
+    "Drizzle with olive oil and sprinkle with parmesan cheese.",
+    "Bake in the preheated oven for 15-20 minutes, or until the snapper is cooked through.",
+    "Serve the baked snapper with the cooked Greek pasta and tomato sauce.",
+    "Garnish with chopped parsley or dill, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "fish",
+    "pasta",
+    "baked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 50,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-crispy-greek-snapper-fish-pastitsio",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T11:50:52.943Z"
+}
