@@ -7146,13 +7146,13 @@
   },
   {
     "slug": "vibrant-brine-dry-mexican-corn-elote",
-    "title": "Vibrant Brine-Dry Mexican Corn Elote",
+    "title": "Mexican Street Corn Grilled Chicken",
     "tags": [
-      "low-fat",
+      "grilled",
+      "chicken",
+      "corn",
       "mexican",
-      "one-pan",
-      "snack",
-      "weeknight"
+      "street-food"
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 35,
@@ -11691,6 +11691,20 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 20,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-herbal-filipino-flaxseed-sisig--mexican",
+    "title": "Vibrant Sisig Tacos",
+    "tags": [
+      "easy",
+      "mexican",
+      "filipino",
+      "veggie",
+      "vegan-friendly"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "v"
   }
 ]
