@@ -11698,5 +11698,32 @@
     "cuisine": "mexican",
     "totalTimeMin": 25,
     "shard": "v"
+  },
+  {
+    "slug": "vibrant-brine-dry-mexican-corn-elote--japanese",
+    "title": "Japanese Grilled Corn with Spicy Elote Topping",
+    "tags": [
+      "japanese",
+      "grilled",
+      "corn",
+      "elote",
+      "vegan"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 22,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-roasted-saudi-arabian-tuna-kebabs--thai",
+    "title": "Saudi-Style Thai Tuna Kebabs",
+    "tags": [
+      "thai",
+      "saudi-arabian",
+      "kebabs",
+      "fish"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 36,
+    "shard": "v"
   }
 ]
