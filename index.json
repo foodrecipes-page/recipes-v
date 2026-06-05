@@ -11679,5 +11679,18 @@
     "cuisine": "Greek",
     "totalTimeMin": 25,
     "shard": "v"
+  },
+  {
+    "slug": "velvety-garlicky-melon-stir-fry--thai",
+    "title": "Melon and Stir-Fry Delight",
+    "tags": [
+      "thai",
+      "vegan",
+      "melon",
+      "stir-fry"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 20,
+    "shard": "v"
   }
 ]
