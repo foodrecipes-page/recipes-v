@@ -1,0 +1,75 @@
+{
+  "slug": "vibrant-brine-dry-mexican-corn-elote",
+  "title": "Mexican Street Corn Grilled Chicken",
+  "description": "A flavorful and colorful dish that combines the smokiness of grilled chicken with the sweetness of corn, all seasoned with vibrant and spicy Mexican flavors.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "4",
+      "notes": "1 pound"
+    },
+    {
+      "name": "corn on the cob",
+      "amount": "4",
+      "notes": "fresh and husked"
+    },
+    {
+      "name": "elote seasoning",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "brine",
+      "amount": "1/4 cup",
+      "notes": "chicken brine or substitute with kosher salt and water"
+    },
+    {
+      "name": "mexican dry blend",
+      "amount": "1 tablespoon",
+      "notes": "or substitute with chili powder and cumin"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a small bowl, whisk together elote seasoning, lime juice, and brine.",
+    "3. Place chicken in a large bowl and pour the marinade over it.",
+    "4. Toss chicken to coat and let it marinate for at least 30 minutes.",
+    "5. Grill chicken for 5-7 minutes per side, or until it reaches an internal temperature of 165°F.",
+    "6. Grill corn for 10-12 minutes, turning every 2-3 minutes, or until slightly charred.",
+    "7. Once chicken is done, let it rest for 5 minutes before slicing.",
+    "8. Serve chicken with grilled corn and additional elote seasoning, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "chicken",
+    "corn",
+    "mexican",
+    "street-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-brine-dry-mexican-corn-elote",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T00:41:29.988Z"
+}
