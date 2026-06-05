@@ -1,0 +1,78 @@
+{
+  "slug": "velvet-camellia--japanese",
+  "title": "Japanese Camellia Oil Braised Velvet",
+  "description": "A delicate Japanese-inspired dish featuring tender velvet braised in rich camellia oil. Perfect for a special occasion.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tender velvet",
+      "amount": "500g"
+    },
+    {
+      "name": "Camellia oil",
+      "amount": "250ml"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sake",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "sliced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat camellia oil in a large Dutch oven over medium heat.",
+    "Add sliced ginger and cook for 1 minute.",
+    "Add tender velvet and cook for 5 minutes.",
+    "Add soy sauce, sake, and brown sugar. Stir to combine.",
+    "Cover the pot and transfer it to the oven.",
+    "Braise for 30 minutes, or until the velvet is tender.",
+    "Stir in sesame oil and chopped green onions.",
+    "Serve hot, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "braised",
+    "velvet",
+    "camellia oil"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvet-camellia--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T08:27:52.895Z"
+}
