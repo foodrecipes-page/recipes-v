@@ -1,0 +1,90 @@
+{
+  "slug": "vivid-peruvian-redcurrant-skewers",
+  "title": "Grilled Peruvian Chicken Skewers with Redcurrant Glaze",
+  "description": "A flavorful and healthy dish featuring marinated chicken skewers grilled to perfection and served with a sweet and tangy redcurrant glaze.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Peruvian vivid vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Redcurrant",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Skewers",
+      "amount": "8-10",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Cut chicken breast into 1-inch pieces and thread onto skewers, leaving a small space between each piece.",
+    "3. In a small bowl, whisk together Peruvian vivid vinegar, olive oil, garlic, salt, and black pepper.",
+    "4. Brush the marinade onto the chicken skewers, making sure they're fully coated.",
+    "5. Grill the skewers for 8-10 minutes per side, or until cooked through.",
+    "6. Meanwhile, combine redcurrant and red onion in a blender or food processor.",
+    "7. Blend until smooth, then transfer to a saucepan and simmer over medium heat for 5 minutes.",
+    "8. Brush the redcurrant glaze onto the grilled skewers during the last 2 minutes of cooking.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "chicken",
+    "redcurrant",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vivid-peruvian-redcurrant-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T03:51:51.769Z"
+}
