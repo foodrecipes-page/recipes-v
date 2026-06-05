@@ -1,0 +1,96 @@
+{
+  "slug": "vibrant-garlicky-vietnamese-shrimp-cha-gio",
+  "title": "Vietnamese Shrimp Cha Gio",
+  "description": "A Vietnamese-inspired shrimp spring roll recipe, perfect for a quick and easy meal. The combination of shrimp, pork, and crunchy vegetables creates a delicious and refreshing dish.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Gio",
+      "amount": "1 package",
+      "notes": "spring roll wrappers"
+    },
+    {
+      "name": "Cha",
+      "amount": "1/2 cup",
+      "notes": "minced pork"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Vietnamese herb",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Vibrant oil",
+      "amount": "2 tablespoons",
+      "notes": "peanut oil"
+    }
+  ],
+  "instructions": [
+    "1. Prepare the shrimp by peeling and deveining them.",
+    "2. In a large bowl, combine the shrimp, cha, carrot, cucumber, and Vietnamese herb.",
+    "3. In a small pan, heat 1 tablespoon of vibrant oil over medium heat.",
+    "4. Add the minced garlic and cook for 1 minute, until fragrant.",
+    "5. Add the shrimp and cha mixture to the pan and cook for 2-3 minutes, until the shrimp are pink and cooked through.",
+    "6. Soak a spring roll wrapper in warm water for 10-15 seconds, until pliable.",
+    "7. Place 1 tablespoon of the shrimp and cha mixture in the center of the wrapper.",
+    "8. Fold the bottom half of the wrapper up over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "9. Repeat with the remaining ingredients to form 10-12 spring rolls.",
+    "10. Heat the remaining 1 tablespoon of vibrant oil in a large skillet or wok over medium-high heat.",
+    "11. Add the spring rolls to the skillet and cook for 2-3 minutes on each side, until crispy and golden brown.",
+    "12. Serve the spring rolls hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "shrimp",
+    "spring-rolls",
+    "cha-gio"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-garlicky-vietnamese-shrimp-cha-gio",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T01:16:43.544Z"
+}
