@@ -1,0 +1,88 @@
+{
+  "slug": "velvety-crumbly-polish-potato-pancakes",
+  "title": "Polish Potato Pancakes",
+  "description": "A classic Eastern European dish made with grated potatoes and served with a side of velvety sour cream. Crispy on the outside and fluffy on the inside, these pancakes are a delicious accompaniment to any meal.",
+  "cuisine": "Eastern European",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "pancakes",
+      "amount": "4-6",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "polish sausage",
+      "amount": "1/2 pound",
+      "notes": "optional"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "velvety sour cream",
+      "amount": "1 cup",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Grate the potatoes and squeeze out as much liquid as possible.",
+    "In a large bowl, combine the grated potatoes, chopped onion, minced garlic, salt, and pepper.",
+    "Add the egg and mix well.",
+    "Heat a large frying pan with about 1/2 inch of oil over medium-high heat.",
+    "Using a 1/4 cup measuring cup, scoop the potato mixture into the pan and flatten slightly.",
+    "Cook for about 4-5 minutes on each side, until crispy and golden brown.",
+    "Serve hot with a dollop of velvety sour cream.",
+    "If using polish sausage, cook according to package instructions and serve on top of the pancakes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "pancakes",
+    "polish",
+    "potato"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-crumbly-polish-potato-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T05:50:42.519Z"
+}
