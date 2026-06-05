@@ -1,0 +1,75 @@
+{
+  "slug": "vibrant-herbal-filipino-flaxseed-sisig--mexican",
+  "title": "Vibrant Sisig Tacos",
+  "description": "A fusion of Filipino sisig and Mexican flavors, these vibrant tacos are a flavorful twist on traditional Mexican street food.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Sisig",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Flaxseed",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "filipino vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "herbal salsa",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vibrant cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tortillas",
+      "amount": "6-8"
+    },
+    {
+      "name": "avocado",
+      "amount": "2"
+    },
+    {
+      "name": "lime",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Heat a pan over medium-high heat.",
+    "Add 1 tbsp of flaxseed and toast until fragrant.",
+    "Add sisig and cook until lightly browned.",
+    "Add filipino vinegar, herbal salsa, and vibrant cilantro. Stir to combine.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos by spooning sisig mixture onto tortillas and topping with sliced avocado and a squeeze of lime juice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy",
+    "mexican",
+    "filipino",
+    "veggie",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-herbal-filipino-flaxseed-sisig--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T00:50:47.725Z"
+}
