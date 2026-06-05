@@ -1,0 +1,75 @@
+{
+  "slug": "vibrant-brine-dry-mexican-corn-elote--japanese",
+  "title": "Japanese Grilled Corn with Spicy Elote Topping",
+  "description": "A twist on traditional Japanese grilled corn, topped with a spicy elote sauce.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "corn",
+      "amount": "4 ears"
+    },
+    {
+      "name": "mexican",
+      "amount": "1 cup",
+      "notes": "elote sauce"
+    },
+    {
+      "name": "vibrant",
+      "amount": "1/4 cup",
+      "notes": "diced green chili peppers"
+    },
+    {
+      "name": "dry",
+      "amount": "1 tsp",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "brine",
+      "amount": "1 tsp",
+      "notes": "soy sauce"
+    },
+    {
+      "name": "lime",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Grill corn ears for 10-12 minutes, turning occasionally.",
+    "In a small bowl, mix together elote sauce, cumin, soy sauce, lime juice and sugar.",
+    "Once corn is cooked, brush with elote sauce mixture.",
+    "Sprinkle diced green chili peppers on top of corn.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "grilled",
+    "corn",
+    "elote",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-brine-dry-mexican-corn-elote--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T05:57:37.033Z"
+}
