@@ -11725,5 +11725,18 @@
     "cuisine": "thai",
     "totalTimeMin": 36,
     "shard": "v"
+  },
+  {
+    "slug": "velvet-camellia--japanese",
+    "title": "Japanese Camellia Oil Braised Velvet",
+    "tags": [
+      "japanese",
+      "braised",
+      "velvet",
+      "camellia oil"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 50,
+    "shard": "v"
   }
 ]
