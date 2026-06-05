@@ -1,0 +1,62 @@
+{
+  "slug": "velvety-garlicky-melon-stir-fry--thai",
+  "title": "Melon and Stir-Fry Delight",
+  "description": "A refreshing and flavorful Thai-inspired dish that combines the sweetness of melon with the savory flavors of a stir-fry. Perfect for a light lunch or dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Melon",
+      "amount": "1 small",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Fry",
+      "amount": "",
+      "notes": "Thai red curry paste"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a wok or large skillet over medium-high heat.",
+    "Add the curry paste and stir-fry until fragrant.",
+    "Add the garlic and stir-fry for 1 minute.",
+    "Add the melon and stir-fry until slightly tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot.",
+    "Garnish with additional melon slices if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "vegan",
+    "melon",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-garlicky-melon-stir-fry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T21:10:35.565Z"
+}
