@@ -5418,17 +5418,15 @@
   },
   {
     "slug": "velvety-soft-indian-quinoa-pilaf",
-    "title": "Velvety Soft Indian Quinoa Pilaf",
+    "title": "Indian Quinoa Pilaf",
     "tags": [
-      "date-night",
-      "indian-cuisine",
-      "kosher-friendly",
-      "one-pot",
-      "quinoa-recipes",
-      "vegetarian"
+      "indian",
+      "quinoa",
+      "pilaf",
+      "veggie"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 45,
+    "cuisine": "indian",
+    "totalTimeMin": 30,
     "shard": "v"
   },
   {
@@ -11206,17 +11204,15 @@
   },
   {
     "slug": "vivid-peruvian-redcurrant-skewers",
-    "title": "Vivid Peruvian Redcurrant Skewers",
+    "title": "Grilled Peruvian Chicken Skewers with Redcurrant Glaze",
     "tags": [
-      "fodmap-friendly",
-      "low-fat",
-      "peruvian",
-      "quick",
-      "skewers",
-      "snack"
+      "gluten-free",
+      "chicken",
+      "redcurrant",
+      "skewers"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 26,
+    "totalTimeMin": 30,
     "shard": "v"
   },
   {
