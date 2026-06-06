@@ -1,0 +1,81 @@
+{
+  "slug": "vibrant-sour-peruvian-cream-flatbread--thai",
+  "title": "Vibrant Thai Flatbread with Sour Cream and Chutney",
+  "description": "A flavorful flatbread dish inspired by Thai cuisine, topped with sour cream chutney and fresh herbs.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "4-6 pieces",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Sour Cream Chutney",
+      "amount": "1 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Vibrant Peruvian Pepper",
+      "amount": "1",
+      "notes": "Diced"
+    },
+    {
+      "name": "Flatbread Seasoning",
+      "amount": "1 tsp",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Optional"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut flatbread into triangles or squares.",
+    "Brush flatbread with Flatbread Seasoning.",
+    "Bake flatbread for 5-7 minutes, or until crispy.",
+    "In a bowl, mix sour cream chutney and chopped cilantro.",
+    "Top flatbread with sour cream chutney mixture.",
+    "Garnish with diced Peruvian pepper.",
+    "Season with salt and sugar to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flatbread",
+    "thai",
+    "snack",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-sour-peruvian-cream-flatbread--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T15:00:42.129Z"
+}
