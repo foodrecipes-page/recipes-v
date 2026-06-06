@@ -1,0 +1,78 @@
+{
+  "slug": "vibrant-sour-peruvian-cream-flatbread",
+  "title": "Peruvian Creamy Flatbread",
+  "description": "A flavorful twist on traditional flatbread, infused with Peruvian spices and topped with a vibrant and sour cream sauce.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "Peruvian Yellow Pepper",
+      "amount": "1 medium",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "Vibrant Green Chili",
+      "amount": "1/2 medium",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chopped Cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Arrange the flatbread pieces on a baking sheet.",
+    "Drizzle a small amount of oil over the flatbread.",
+    "Bake the flatbread for 10-12 minutes, or until crispy and golden brown.",
+    "While the flatbread is baking, mix together the Peruvian yellow pepper, vibrant green chili, garlic, and chopped cilantro in a bowl.",
+    "Once the flatbread is done, remove it from the oven and top each piece with a spoonful of the pepper mixture.",
+    "Drizzle the sour cream over the top of the flatbread pieces.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "flatbread",
+    "sour-cream"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-sour-peruvian-cream-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T13:36:10.618Z"
+}
