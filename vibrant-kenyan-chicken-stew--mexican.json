@@ -1,0 +1,93 @@
+{
+  "slug": "vibrant-kenyan-chicken-stew--mexican",
+  "title": "Spicy Kenyan Chicken Stew",
+  "description": "A flavorful and spicy stew made with Kenyan chicken, vibrant vegetables, and a hint of Mexican flair.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kenyan Chicken",
+      "amount": "1 lb",
+      "notes": "Boneless and skinless chicken breast or thighs"
+    },
+    {
+      "name": "Vibrant Bell Peppers",
+      "amount": "2",
+      "notes": "Green, red, or yellow"
+    },
+    {
+      "name": "Onions",
+      "amount": "1",
+      "notes": "Medium-sized"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Stew Tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": "Diced"
+    },
+    {
+      "name": "Chipotle Peppers",
+      "amount": "2",
+      "notes": "In adobo sauce"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "Smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a large Dutch oven over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-6 minutes. Remove from pot and set aside.",
+    "Add more oil if necessary, then sauté the onions and bell peppers until tender, about 5 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the chipotle peppers, cumin, paprika, salt, and black pepper. Cook for 1 minute.",
+    "Add the stew tomatoes and chicken broth. Stir to combine.",
+    "Return the chicken to the pot and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20-25 minutes, or until the chicken is cooked through.",
+    "Serve hot, garnished with fresh cilantro or scallions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "stew",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-kenyan-chicken-stew--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T15:39:55.795Z"
+}
