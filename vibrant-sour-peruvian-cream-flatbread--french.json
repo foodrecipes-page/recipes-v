@@ -1,0 +1,62 @@
+{
+  "slug": "vibrant-sour-peruvian-cream-flatbread--french",
+  "title": "Creamy Peruvian Flatbread",
+  "description": "A French-inspired flatbread dish with Peruvian cream and vibrant flavors, perfect for a snack or light meal.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Peruvian flatbread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Peruvian cream",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Vibrant",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sour",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Place flatbread pieces on a baking sheet.",
+    "3. Spread Peruvian cream on each flatbread piece.",
+    "4. Sprinkle vibrant on top of the cream.",
+    "5. Drizzle sour over the vibrant.",
+    "6. Season with salt to taste.",
+    "7. Bake for 10-12 minutes or until the flatbread is crispy.",
+    "8. Remove from oven and let cool for 2-3 minutes.",
+    "9. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "french",
+    "creamy",
+    "vibrant"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-sour-peruvian-cream-flatbread--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T15:00:40.606Z"
+}
