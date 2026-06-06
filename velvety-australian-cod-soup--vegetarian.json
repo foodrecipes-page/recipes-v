@@ -1,0 +1,92 @@
+{
+  "slug": "velvety-australian-cod-soup--vegetarian",
+  "title": "Creamy Cod-Free Australian Soup",
+  "description": "A vegetarian take on a classic Australian-inspired soup, using velvety potatoes for a rich and creamy texture.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "australian sweet potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Melt 2 tablespoons of butter in a large pot over medium heat.",
+    "Add the chopped onion, minced garlic, and diced celery, and cook until the vegetables are tender.",
+    "Add the diced sweet potatoes, flour, and vegetable broth, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat and simmer for 20 minutes.",
+    "Use an immersion blender to puree the soup until smooth.",
+    "Return the pot to the stovetop and add the milk, salt, and black pepper.",
+    "Simmer the soup over low heat until heated through.",
+    "Ladle the soup into bowls and garnish with chopped parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "vegetarian",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-australian-cod-soup--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T13:46:38.324Z"
+}
