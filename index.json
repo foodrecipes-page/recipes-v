@@ -11824,5 +11824,31 @@
     "cuisine": "mexican",
     "totalTimeMin": 40,
     "shard": "v"
+  },
+  {
+    "slug": "velvety-turkish-bean-soup--mexican",
+    "title": "Mexican Bean Soup",
+    "tags": [
+      "mexican",
+      "bean",
+      "soup",
+      "vegetarian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-sour-peruvian-cream-flatbread--vegetarian",
+    "title": "Peruvian Creamy Flatbread",
+    "tags": [
+      "peruvian",
+      "vegetarian",
+      "snack",
+      "flatbread"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 10,
+    "shard": "v"
   }
 ]
