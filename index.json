@@ -10018,18 +10018,14 @@
   },
   {
     "slug": "vibrant-sour-peruvian-cream-flatbread",
-    "title": "Vibrant Sour Peruvian Cream Flatbread",
+    "title": "Peruvian Creamy Flatbread",
     "tags": [
-      "chewy",
-      "flatbread",
-      "kid-friendly",
-      "no-bake",
       "peruvian",
-      "quick",
-      "sour"
+      "flatbread",
+      "sour-cream"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 27,
     "shard": "v"
   },
   {
@@ -11749,6 +11745,18 @@
     ],
     "cuisine": null,
     "totalTimeMin": 15,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-australian-cod-soup--vegetarian",
+    "title": "Creamy Cod-Free Australian Soup",
+    "tags": [
+      "australian",
+      "vegetarian",
+      "soup"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 40,
     "shard": "v"
   }
 ]
