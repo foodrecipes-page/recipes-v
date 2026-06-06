@@ -1,0 +1,66 @@
+{
+  "slug": "velvety-australian-cod-soup--keto",
+  "title": "Baked Cod with Velvety Soup",
+  "description": "A keto-friendly dish featuring cod baked to perfection and served with a rich velvety soup.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Velvety",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Australian olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Australian lemon",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the cod fillets with salt and pepper.",
+    "Drizzle the Australian olive oil over the cod fillets.",
+    "Bake the cod in the preheated oven for 8-10 minutes, or until cooked through.",
+    "While the cod is baking, heat the velvety in a saucepan over medium heat.",
+    "Add a squeeze of Australian lemon juice to the velvety and stir to combine.",
+    "Serve the baked cod with the velvety soup spooned over the top."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "baked cod",
+    "velvety soup"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-australian-cod-soup--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T12:17:42.734Z"
+}
