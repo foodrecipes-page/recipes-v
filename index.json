@@ -11865,5 +11865,19 @@
     "cuisine": "italian",
     "totalTimeMin": 50,
     "shard": "v"
+  },
+  {
+    "slug": "velvety-rich-polish-sugars-fondue--indian",
+    "title": "Creamy Indian Chicken Curry",
+    "tags": [
+      "indian",
+      "chicken",
+      "curry",
+      "easy",
+      "weeknight"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 30,
+    "shard": "v"
   }
 ]
