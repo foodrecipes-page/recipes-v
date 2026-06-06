@@ -11850,5 +11850,20 @@
     "cuisine": "Peruvian",
     "totalTimeMin": 10,
     "shard": "v"
+  },
+  {
+    "slug": "vibrant-kenyan-chicken-stew--italian",
+    "title": "Kenyan Chicken Stew",
+    "tags": [
+      "italian",
+      "kenyan",
+      "chicken",
+      "stew",
+      "hearty",
+      "flavorful"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 50,
+    "shard": "v"
   }
 ]
