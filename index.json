@@ -11758,5 +11758,71 @@
     "cuisine": "australian",
     "totalTimeMin": 40,
     "shard": "v"
+  },
+  {
+    "slug": "vibrant-sour-peruvian-cream-flatbread--german",
+    "title": "German Flatbread with Peruvian Salsa",
+    "tags": [
+      "german",
+      "peruvian",
+      "flatbread",
+      "salsa",
+      "sourcream"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 30,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-sour-peruvian-cream-flatbread--french",
+    "title": "Creamy Peruvian Flatbread",
+    "tags": [
+      "peruvian",
+      "french",
+      "creamy",
+      "vibrant"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 15,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-sour-peruvian-cream-flatbread--thai",
+    "title": "Vibrant Thai Flatbread with Sour Cream and Chutney",
+    "tags": [
+      "flatbread",
+      "thai",
+      "snack",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 15,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-sour-peruvian-cream-flatbread--chinese",
+    "title": "Crispy Peruvian Chicken Flatbread",
+    "tags": [
+      "chinese",
+      "peruvian",
+      "fusion",
+      "snack"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 45,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-kenyan-chicken-stew--mexican",
+    "title": "Spicy Kenyan Chicken Stew",
+    "tags": [
+      "mexican",
+      "stew",
+      "chicken"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "v"
   }
 ]
