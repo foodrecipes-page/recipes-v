@@ -1,0 +1,83 @@
+{
+  "slug": "vibrant-sour-peruvian-cream-flatbread--chinese",
+  "title": "Crispy Peruvian Chicken Flatbread",
+  "description": "A fusion of Peruvian and Chinese flavors, crispy flatbread topped with sour chicken, fresh vibrant slaw, and a hint of cream.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Peruvian chicken breast",
+      "amount": "2",
+      "notes": "Marinated in soy sauce and vinegar"
+    },
+    {
+      "name": "Flatbread",
+      "amount": "1",
+      "notes": "Gluten-free flatbread"
+    },
+    {
+      "name": "Vibrant cabbage slaw",
+      "amount": "1 cup",
+      "notes": "Shredded cabbage with a hint of vinegar"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1/4 cup",
+      "notes": "For serving"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Marinade for chicken"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp",
+      "notes": "Marinade for chicken"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "Grated"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Marinate the Peruvian chicken breast in soy sauce, rice vinegar, garlic, and ginger for at least 30 minutes.",
+    "3. Bake the chicken in the oven for 20-25 minutes or until cooked through.",
+    "4. Slice the cooked chicken into thin strips.",
+    "5. Grill the flatbread for 2-3 minutes or until crispy.",
+    "6. Top the flatbread with the sour chicken, vibrant cabbage slaw, and a dollop of sour cream.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "peruvian",
+    "fusion",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-sour-peruvian-cream-flatbread--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T15:01:20.555Z"
+}
