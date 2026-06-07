@@ -1,0 +1,98 @@
+{
+  "slug": "vibrant-egyptian-fish-skewers",
+  "title": "Grilled Egyptian Fish Skewers with Vibrant Vegetables",
+  "description": "A flavorful and colorful dish featuring marinated fish and vegetables grilled to perfection.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish (400g)",
+      "amount": "1 pound",
+      "notes": "Any white fish works well, such as tilapia or cod"
+    },
+    {
+      "name": "Vibrant Vegetables (bell peppers, onions, mushrooms)",
+      "amount": "1 cup",
+      "notes": "Assorted colors for a pop of color"
+    },
+    {
+      "name": "Egyptian Skewers",
+      "amount": "10-12 skewers",
+      "notes": "Wooden or metal skewers work well"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed for best flavor"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": "Extra virgin for a rich flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced for easy mixing"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "Smoked for a deep flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "Cut the fish into 1-inch cubes and place in a large bowl.",
+    "Add lemon juice, olive oil, garlic, paprika, salt, and black pepper to the bowl with the fish.",
+    "Mix well to combine and let marinate for at least 30 minutes.",
+    "Thread the marinated fish and vibrant vegetables onto the Egyptian skewers.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes per side, or until the fish is cooked through.",
+    "Serve hot, garnished with chopped fresh parsley.",
+    "Let the skewers rest for 2-3 minutes before serving.",
+    "Serve with your favorite sides, such as couscous or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "fish",
+    "skewers",
+    "middle-eastern",
+    "gluten-free",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-egyptian-fish-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:18:47.088Z"
+}
