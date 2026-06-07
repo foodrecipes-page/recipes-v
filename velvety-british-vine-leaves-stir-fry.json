@@ -1,0 +1,68 @@
+{
+  "slug": "velvety-british-vine-leaves-stir-fry",
+  "title": "Pan-Seared Vine Leaves",
+  "description": "A classic British recipe featuring tender vine leaves, pan-seared to perfection.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vine leaves",
+      "amount": "12",
+      "notes": "Fresh or jarred"
+    },
+    {
+      "name": "Velvety olive oil",
+      "amount": "2 tbsp",
+      "notes": "For pan-searing"
+    },
+    {
+      "name": "British white wine vinegar",
+      "amount": "2 tbsp",
+      "notes": "For dressing"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the vine leaves and remove any stems.",
+    "Heat the velvety olive oil in a large skillet over medium heat.",
+    "Add the vine leaves to the skillet and pan-sear for 2-3 minutes on each side.",
+    "Remove the vine leaves from the skillet and place on a plate.",
+    "Sprinkle with salt and pepper to taste.",
+    "In a small bowl, whisk together the British white wine vinegar and a pinch of salt.",
+    "Drizzle the vinegar dressing over the vine leaves.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "vegetarian",
+    "easy-dinner",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-british-vine-leaves-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:00:34.323Z"
+}
