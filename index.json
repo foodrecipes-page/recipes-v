@@ -10288,16 +10288,16 @@
   },
   {
     "slug": "vibrant-spicy-tunisian-chicken-tagine",
-    "title": "Vibrant Spicy Tunisian Chicken Tagine",
+    "title": "Tunisian Chicken Tagine",
     "tags": [
-      "chicken-dinner",
-      "gluten-free",
-      "north-african",
-      "one-pot",
-      "spicy"
+      "chicken",
+      "tagine",
+      "tunisian",
+      "moroccan",
+      "north-african"
     ],
     "cuisine": "Tunisian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 55,
     "shard": "v"
   },
   {
@@ -11113,13 +11113,10 @@
   },
   {
     "slug": "vivid-crispy-mediterranean-pappardelle-pasta",
-    "title": "Vivid Crispy Mediterranean Pappardelle Pasta",
+    "title": "Vivid Mediterranean Pasta",
     "tags": [
-      "brunch",
-      "crispy",
-      "low-calorie",
+      "pasta",
       "mediterranean",
-      "quick",
       "vegetarian"
     ],
     "cuisine": "Mediterranean",
