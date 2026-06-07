@@ -1,0 +1,92 @@
+{
+  "slug": "vibrant-spicy-tunisian-chicken-tagine",
+  "title": "Tunisian Chicken Tagine",
+  "description": "A flavorful and aromatic North African stew made with chicken, spices, and dried fruits.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "pork-free",
+    "lamb-free",
+    "beef-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast or thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Tagine spice blend",
+      "amount": "2 tablespoons",
+      "notes": "Available at Middle Eastern markets"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Freshly grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Extra virgin"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Peeled and chopped"
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "1 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the bottom of a clay or ceramic tagine or a large Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and ginger and cook for 1 minute.",
+    "Add chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Add tagine spice blend, carrots, and apricots. Stir to combine.",
+    "Add 2 cups of water and bring to a boil.",
+    "Cover and transfer to the oven. Bake at 300°F (150°C) for 30-40 minutes, or until the chicken is cooked through.",
+    "Taste and adjust seasoning as needed. If using honey, stir it in during the last 10 minutes of cooking.",
+    "Serve hot, garnished with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "tagine",
+    "tunisian",
+    "moroccan",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-spicy-tunisian-chicken-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:52:28.115Z"
+}
