@@ -1,0 +1,78 @@
+{
+  "slug": "very-light-italian-yeast-panettone",
+  "title": "Italian Panettone French Toast",
+  "description": "A twist on classic French toast using Italian Panettone bread. Serve with a side of maple syrup or fresh fruit.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "panettone",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "maple syrup",
+      "amount": "optional",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a shallow dish, whisk together eggs, milk, cinnamon, and vanilla extract.",
+    "Cut the panettone into 1-inch thick slices.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Dip each panettone slice into the egg mixture, coating both sides.",
+    "Place the coated panettone slices on the skillet or griddle.",
+    "Cook for 2-3 minutes on each side, or until golden brown.",
+    "Serve warm with maple syrup or fresh fruit.",
+    "Repeat with remaining panettone slices."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "italian",
+    "brunch",
+    "holiday"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/very-light-italian-yeast-panettone",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:42:30.577Z"
+}
