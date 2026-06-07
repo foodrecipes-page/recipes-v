@@ -1,0 +1,91 @@
+{
+  "slug": "velvety-middle-eastern-avocado-stir-fry",
+  "title": "Eastern Style Avocado Stir Fry",
+  "description": "A delicious and healthy stir fry dish inspired by Eastern cuisine, featuring velvety tofu and creamy avocado.",
+  "cuisine": "eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "velvety tofu",
+      "amount": "250g",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "avocado",
+      "amount": "2",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "middle eastern spice blend",
+      "amount": "1 tsp",
+      "notes": "available at most grocery stores"
+    },
+    {
+      "name": "stir fry oil",
+      "amount": "2 tbsp",
+      "notes": "vegetable or peanut oil"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the stir fry oil in a large skillet or wok over medium-high heat.",
+    "Add the tofu and cook until golden brown, about 3-4 minutes.",
+    "Add the garlic and ginger and cook for 1 minute, until fragrant.",
+    "Add the green onions and cook for 1 minute, until wilted.",
+    "Add the avocado and cook for 2-3 minutes, until tender.",
+    "Sprinkle the middle eastern spice blend over the top and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with additional green onions if desired.",
+    "Enjoy your delicious Eastern Style Avocado Stir Fry!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "avocado",
+    "stir-fry",
+    "eastern-cuisine",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-middle-eastern-avocado-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:56:37.681Z"
+}
