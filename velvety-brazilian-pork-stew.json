@@ -1,0 +1,94 @@
+{
+  "slug": "velvety-brazilian-pork-stew",
+  "title": "Brazilian Pork Stew",
+  "description": "A hearty and flavorful stew originating from Brazil, perfect for a chilly evening. The velvety texture of the sauce pairs well with the tender pork.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "2 lbs",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Velvety chocolate",
+      "amount": "1/4 cup",
+      "notes": "Used to thicken the sauce"
+    },
+    {
+      "name": "Brazilian coffee",
+      "amount": "2 tbsp",
+      "notes": "Used to add depth to the sauce"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "Peel and chop into 1-inch pieces"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "Chop into large pieces"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": "Used to add intensity to the sauce"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "To cover the pork and vegetables"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the pork cubes on all sides, about 5 minutes.",
+    "Add the onions and cook until they start to caramelize, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the tomato paste and cook for 1 minute.",
+    "Add the potatoes, coffee, salt, and pepper. Stir to combine.",
+    "Add the water and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 1/2 hours, or until the pork is tender.",
+    "Stir in the chocolate until melted and smooth.",
+    "Serve hot, garnished with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "stew",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 55,
+    "carbs": 35,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-brazilian-pork-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:27:14.806Z"
+}
