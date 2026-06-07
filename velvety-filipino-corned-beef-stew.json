@@ -1,0 +1,80 @@
+{
+  "slug": "velvety-filipino-corned-beef-stew",
+  "title": "Beef Stew",
+  "description": "Classic beef stew recipe with tender beef and rich flavors.",
+  "cuisine": "filipino",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef stew",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "velvety corn",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "corned beef",
+      "amount": "1/2 pound",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Brown beef in batches, then set aside.",
+    "Add onion and garlic, cook until softened.",
+    "Add tomato paste and cook for 1 minute.",
+    "Add beef broth and water, bring to a boil.",
+    "Return beef to the pot and simmer for 1 hour.",
+    "Add corn and corned beef, cook for an additional 15 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "filipino"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-filipino-corned-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:24:26.207Z"
+}
