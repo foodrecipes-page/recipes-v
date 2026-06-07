@@ -2326,17 +2326,14 @@
   },
   {
     "slug": "velvety-ethiopian-apricot-stew",
-    "title": "Velvety Ethiopian Apricot Stew",
+    "title": "Ethiopian Apricot Stew",
     "tags": [
-      "ethiopian",
-      "stew",
-      "apricot",
-      "velvety",
-      "spicy",
-      "lowfat"
+      "ethiopian-food",
+      "lamb-stew",
+      "apricot-stew"
     ],
-    "cuisine": "ethiopian",
-    "totalTimeMin": 25,
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 110,
     "shard": "v"
   },
   {
@@ -2497,18 +2494,14 @@
   },
   {
     "slug": "velvety-filipino-corned-beef-stew",
-    "title": "Velvety Filipino Corned Beef Stew",
+    "title": "Beef Stew",
     "tags": [
-      "filipino",
-      "corned-beef",
+      "beef",
       "stew",
-      "velvety",
-      "bhuna",
-      "romantic",
-      "dinner"
+      "filipino"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 35,
+    "cuisine": "filipino",
+    "totalTimeMin": 110,
     "shard": "v"
   },
   {
