@@ -1,0 +1,71 @@
+{
+  "slug": "velvety-citrusy-date-pilaf",
+  "title": "Citrusy Pilaf with Velvety Sauce",
+  "description": "A warm and comforting pilaf infused with citrus flavors, topped with a creamy velvety sauce.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "Citrus zest",
+      "amount": "1 tablespoon",
+      "notes": "from 1 orange"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Velvety sauce",
+      "amount": "1 cup",
+      "notes": "see below for velvety sauce ingredients"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add chopped onion and cook until translucent, about 5 minutes.",
+    "Add citrus zest and cook for 1 minute.",
+    "Add pilaf and stir to coat with oil mixture.",
+    "Add vegetable broth and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20 minutes.",
+    "Meanwhile, prepare velvety sauce (see below).",
+    "Stir velvety sauce into pilaf and cook for an additional 2 minutes.",
+    "Serve hot, garnished with additional citrus zest if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pilaf",
+    "citrus",
+    "velvety",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-citrusy-date-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:12:14.596Z"
+}
