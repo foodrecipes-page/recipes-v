@@ -6910,16 +6910,15 @@
   },
   {
     "slug": "very-light-italian-yeast-panettone",
-    "title": "Very Light Italian Yeast Panettone",
+    "title": "Italian Panettone French Toast",
     "tags": [
-      "high-fat",
-      "italian-bread",
-      "plant-based",
-      "solo-dinner",
-      "yeast-bread"
+      "breakfast",
+      "italian",
+      "brunch",
+      "holiday"
     ],
     "cuisine": "italian",
-    "totalTimeMin": 65,
+    "totalTimeMin": 18,
     "shard": "v"
   },
   {
@@ -7980,17 +7979,17 @@
   },
   {
     "slug": "vibrant-egyptian-fish-skewers",
-    "title": "Vibrant Egyptian Fish Skewers",
+    "title": "Grilled Egyptian Fish Skewers with Vibrant Vegetables",
     "tags": [
-      "cheesy",
-      "high-protein",
+      "grilled",
+      "fish",
+      "skewers",
       "middle-eastern",
-      "one-pan",
-      "seafood",
-      "weeknight"
+      "gluten-free",
+      "low-carb"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 35,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 36,
     "shard": "v"
   },
   {
