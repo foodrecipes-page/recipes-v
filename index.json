@@ -1787,14 +1787,15 @@
   },
   {
     "slug": "velvety-citrusy-date-pilaf",
-    "title": "Velvety Citrusy Date Pilaf",
+    "title": "Citrusy Pilaf with Velvety Sauce",
     "tags": [
-      "date-pilaf",
-      "citrusy",
-      "raw-friendly"
+      "pilaf",
+      "citrus",
+      "velvety",
+      "vegetarian"
     ],
-    "cuisine": "jamaican",
-    "totalTimeMin": 30,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 40,
     "shard": "v"
   },
   {
