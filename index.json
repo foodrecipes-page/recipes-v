@@ -1334,18 +1334,14 @@
   },
   {
     "slug": "velvety-brazilian-pork-stew",
-    "title": "Velvety Brazilian Pork Stew",
+    "title": "Brazilian Pork Stew",
     "tags": [
-      "comfort-food",
-      "donabe",
-      "high-protein",
-      "one-pot",
       "pork",
-      "slow-cook",
-      "tamarind"
+      "stew",
+      "brazilian"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 75,
+    "totalTimeMin": 165,
     "shard": "v"
   },
   {
@@ -9311,17 +9307,16 @@
   },
   {
     "slug": "vibrant-roast-mediterranean-morcilla-grill",
-    "title": "Vibrant Roast Mediterranean Morcilla Grill",
+    "title": "Morcilla Skewers with Roast Vegetables",
     "tags": [
-      "grilled",
-      "high-protein",
-      "mediterranean",
-      "one-pan",
-      "roast",
-      "weeknight"
+      "spanish",
+      "grill",
+      "skewers",
+      "morcilla",
+      "vegetables"
     ],
-    "cuisine": "mediterranean",
-    "totalTimeMin": 35,
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
     "shard": "v"
   },
   {
