@@ -709,14 +709,15 @@
   },
   {
     "slug": "velvet-corn-medley",
-    "title": "Velvet Corn Medley",
+    "title": "Creamy Corn and Medley Casserole with Velvet Crunch",
     "tags": [
-      "velvet-corn-medley",
-      "herbal-tunisian-dish",
-      "white-cornmeal-dessert"
+      "casserole",
+      "comfort food",
+      "side dish",
+      "vegetarian"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 45,
+    "cuisine": "American",
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
@@ -3748,13 +3749,15 @@
   },
   {
     "slug": "velvety-middle-eastern-avocado-stir-fry",
-    "title": "Velvety Middle Eastern Avocado Stir-fry",
+    "title": "Eastern Style Avocado Stir Fry",
     "tags": [
-      "middle-eastern-stir-fry",
-      "floral-avocado-dish",
-      "plant-based-friendly-meal-prep"
+      "avocado",
+      "stir-fry",
+      "eastern-cuisine",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Middle Eastern",
+    "cuisine": "eastern",
     "totalTimeMin": 25,
     "shard": "v"
   },
