@@ -1,0 +1,80 @@
+{
+  "slug": "velvety-vietnamese-eggplant-com-tam",
+  "title": "Vietnamese Eggplant Velvety Com Tam",
+  "description": "A fusion dish combining the flavors of eggplant, velvety sauce, and com tam. This recipe is a twist on traditional Vietnamese cuisine.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "2 medium",
+      "notes": "Asian-style eggplant"
+    },
+    {
+      "name": "Velvety Sauce",
+      "amount": "1 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Com Rice",
+      "amount": "1 cup",
+      "notes": "Short-grain rice"
+    },
+    {
+      "name": "Tam Huong Cucumber",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Green Onion",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tbsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the eggplant into 1-inch cubes and place on a baking sheet.",
+    "Drizzle with 1 tsp of sesame oil and roast for 20-25 minutes, or until tender.",
+    "Cook the com rice according to package instructions.",
+    "In a pan, heat 1 tbsp of oil and sauté the green onion until fragrant.",
+    "Add the tam huong cucumber and cook for 1-2 minutes, or until slightly softened.",
+    "Add the cooked eggplant, fish sauce, and velvety sauce to the pan and stir to combine.",
+    "Serve the eggplant mixture over the cooked com rice.",
+    "Garnish with additional green onion and tam huong cucumber, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "eggplant",
+    "velvety",
+    "vietnamese",
+    "com-tam",
+    "fusion-cuisine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-vietnamese-eggplant-com-tam",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:01:47.114Z"
+}
