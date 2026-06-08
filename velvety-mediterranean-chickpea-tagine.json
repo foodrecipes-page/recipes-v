@@ -1,0 +1,79 @@
+{
+  "slug": "velvety-mediterranean-chickpea-tagine",
+  "title": "Chickpea Tagine with Mediterranean Flair",
+  "description": "A hearty and aromatic North African stew made with chickpeas, velvety eggplant, and a blend of Mediterranean spices.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can (14 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "velvety eggplant",
+      "amount": "2 medium",
+      "notes": "sliced into 1-inch pieces"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 tsp",
+      "notes": "see notes for DIY blend"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Sauté onion and garlic until softened, about 5 minutes.",
+    "Add sliced eggplant and cook, stirring occasionally, until it starts to brown, about 10 minutes.",
+    "Add chickpeas, tagine spice blend, salt, and pepper; stir to combine.",
+    "Add 2 cups of water and bring to a simmer.",
+    "Reduce heat to low and cook, covered, for 20-25 minutes or until the eggplant is tender.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "stew",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-mediterranean-chickpea-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:13:42.754Z"
+}
