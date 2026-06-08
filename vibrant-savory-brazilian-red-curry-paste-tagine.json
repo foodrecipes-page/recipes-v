@@ -1,0 +1,79 @@
+{
+  "slug": "vibrant-savory-brazilian-red-curry-paste-tagine",
+  "title": "Brazilian Red Tagine Chicken",
+  "description": "A flavorful and aromatic dish from Brazil, featuring tender chicken cooked in a rich red curry sauce.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": null
+    },
+    {
+      "name": "red curry paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "vibrant",
+      "amount": "1 red bell pepper, sliced",
+      "notes": null
+    },
+    {
+      "name": "savory",
+      "amount": "2 cloves garlic, minced",
+      "notes": null
+    },
+    {
+      "name": "brazilian",
+      "amount": "1 tablespoon olive oil",
+      "notes": null
+    },
+    {
+      "name": "curry",
+      "amount": "1 can coconut milk",
+      "notes": null
+    },
+    {
+      "name": "tagine",
+      "amount": "1 cup chicken broth",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add garlic and cook until fragrant, about 1 minute.",
+    "Add chicken and cook until browned on all sides, about 5 minutes.",
+    "Add red curry paste and cook for 1 minute, until fragrant.",
+    "Add coconut milk and chicken broth, bring to a simmer.",
+    "Reduce heat to low and cook, covered, until chicken is cooked through, about 20-25 minutes.",
+    "Stir in sliced red bell pepper and cook until tender, about 5 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "curry",
+    "brazilian",
+    "red bell pepper"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-savory-brazilian-red-curry-paste-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:43:15.420Z"
+}
