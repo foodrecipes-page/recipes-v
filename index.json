@@ -4793,16 +4793,14 @@
   },
   {
     "slug": "velvety-russian-sugar-bowl",
-    "title": "Velvety Russian Sugar Bowl",
+    "title": "Velvety Russian Panna Cotta",
     "tags": [
-      "russian",
       "dessert",
-      "velvety",
-      "sugar",
-      "simmer"
+      "italian",
+      "creamy"
     ],
-    "cuisine": "russian",
-    "totalTimeMin": 7,
+    "cuisine": "Italian",
+    "totalTimeMin": 20,
     "shard": "v"
   },
   {
@@ -7327,17 +7325,15 @@
   },
   {
     "slug": "vibrant-citrusy-dutch-smoked-salmon-salad",
-    "title": "Vibrant Citrusy Dutch Smoked Salmon Salad",
+    "title": "Smoked Salmon Salad",
     "tags": [
-      "dutch-cuisine",
-      "gluten-free",
-      "high-protein",
-      "nut-free",
-      "one-bowl",
-      "weeknight"
+      "salmon",
+      "salad",
+      "dutch",
+      "healthy"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 50,
+    "cuisine": "dutch",
+    "totalTimeMin": 10,
     "shard": "v"
   },
   {
@@ -9450,18 +9446,15 @@
   },
   {
     "slug": "vibrant-savory-brazilian-red-curry-paste-tagine",
-    "title": "Vibrant Savory Brazilian Red-Curry-Paste Tagine",
+    "title": "Brazilian Red Tagine Chicken",
     "tags": [
+      "chicken",
+      "curry",
       "brazilian",
-      "christmas",
-      "coconut",
-      "high-protein",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "red bell pepper"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "v"
   },
   {
@@ -10437,17 +10430,15 @@
   },
   {
     "slug": "vibrant-tangy-slovakian-chicken-skewers",
-    "title": "Vibrant Tangy Slovakian Chicken Skewers",
+    "title": "Slovakian Chicken Skewers",
     "tags": [
-      "grilled-chicken",
-      "high-protein",
-      "one-pan",
-      "post-workout",
-      "slovakian-cuisine",
-      "weeknight"
+      "grilled",
+      "chicken",
+      "slovakian",
+      "summer"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
