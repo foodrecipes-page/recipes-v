@@ -1952,17 +1952,15 @@
   },
   {
     "slug": "velvety-crispy-argentinian-flaxseed-fritters",
-    "title": "Velvety Crispy Argentinian Flaxseed Fritters",
+    "title": "Crispy Argentinian Fritters",
     "tags": [
       "argentinian",
-      "crispy",
-      "flaxseed",
-      "fritter",
-      "macro-vegetarian",
-      "one-pan"
+      "vegetarian",
+      "gluten-free",
+      "snack"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 25,
+    "cuisine": "argentinian",
+    "totalTimeMin": 17,
     "shard": "v"
   },
   {
@@ -3028,17 +3026,15 @@
   },
   {
     "slug": "velvety-indulgent-japanese-myeolchi-anchovies-noodles",
-    "title": "Velvety Indulgent Japanese Myeolchi-Anchovies Noodles",
+    "title": "Myeolchi Noodle Stir Fry",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "indulgent",
       "japanese",
-      "one-pan",
-      "weeknight"
+      "noodle-stir-fry",
+      "myeolchi",
+      "vegan"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
@@ -10324,17 +10320,16 @@
   },
   {
     "slug": "vibrant-spring-algerian-lamb-tagine",
-    "title": "Vibrant Spring Algerian Lamb Tagine",
+    "title": "Algerian Spring Lamb Tagine",
     "tags": [
-      "lamb-dishes",
-      "north-african-cuisine",
-      "one-pot",
-      "paleo-friendly",
-      "romantic-dinners",
-      "spring-recipes"
+      "algerian",
+      "lamb",
+      "tagine",
+      "spring",
+      "vegetarian"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 120,
+    "totalTimeMin": 170,
     "shard": "v"
   },
   {
@@ -10369,17 +10364,15 @@
   },
   {
     "slug": "vibrant-steamed-pretzel-delight",
-    "title": "vibrant steamed pretzel delight",
+    "title": "Vibrant Delight Salad",
     "tags": [
-      "aerated",
-      "easy-to-make",
-      "healthy",
-      "one-pan",
-      "sour",
-      "venezuelan"
+      "salad",
+      "vegetarian",
+      "gluten-free",
+      "lunch"
     ],
-    "cuisine": "venezuelan",
-    "totalTimeMin": 35,
+    "cuisine": "American",
+    "totalTimeMin": 15,
     "shard": "v"
   },
   {
