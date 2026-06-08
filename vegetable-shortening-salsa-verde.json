@@ -1,0 +1,76 @@
+{
+  "slug": "vegetable-shortening-salsa-verde",
+  "title": "Roasted Vegetables with Verde Sauce",
+  "description": "A flavorful and easy-to-make recipe featuring roasted vegetables smothered in a tangy verde sauce.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 large onion",
+      "amount": "chopped",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced",
+      "notes": "about 1 tablespoon"
+    },
+    {
+      "name": "2 medium zucchinis",
+      "amount": "sliced",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "2 medium bell peppers",
+      "amount": "sliced",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "1/2 cup verde sauce",
+      "amount": "store-bought or homemade",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon shortening",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Place the chopped onion and minced garlic on a baking sheet.",
+    "Toss the sliced zucchinis and bell peppers with a little bit of oil and spread them on a separate baking sheet.",
+    "Roast the vegetables in the oven for 20-25 minutes, or until tender.",
+    "In a large skillet, heat the shortening over medium heat.",
+    "Add the verde sauce and stir to combine.",
+    "Add the roasted vegetables to the skillet and toss to coat with the verde sauce.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "vegetarian",
+    "easy",
+    "roasted",
+    "verde"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vegetable-shortening-salsa-verde",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T16:14:28.424Z"
+}
