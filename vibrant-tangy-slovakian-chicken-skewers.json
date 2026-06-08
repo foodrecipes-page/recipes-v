@@ -1,0 +1,73 @@
+{
+  "slug": "vibrant-tangy-slovakian-chicken-skewers",
+  "title": "Slovakian Chicken Skewers",
+  "description": "Tangy and vibrant, these Slovakian-inspired chicken skewers are a delicious summer treat.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "slovakian paprika",
+      "amount": "2 tsp",
+      "notes": "smoked or sweet"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together paprika, garlic, salt, and pepper.",
+    "Add the chicken to the bowl and toss to coat.",
+    "Thread the marinated chicken onto skewers.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes, turning occasionally.",
+    "Brush the skewers with honey and lemon juice during the last minute of cooking.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "chicken",
+    "slovakian",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-tangy-slovakian-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:44:51.848Z"
+}
