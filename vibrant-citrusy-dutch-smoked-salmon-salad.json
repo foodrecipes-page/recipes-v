@@ -1,0 +1,85 @@
+{
+  "slug": "vibrant-citrusy-dutch-smoked-salmon-salad",
+  "title": "Smoked Salmon Salad",
+  "description": "A refreshing light salad featuring smoked salmon, mixed greens, and a citrusy vinaigrette.",
+  "cuisine": "dutch",
+  "diet": [
+    "fish",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked salmon",
+      "amount": "6 ounces",
+      "notes": "preferably wild-caught"
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups",
+      "notes": "such as arugula and spinach"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Dutch mustard",
+      "amount": "2 tablespoons",
+      "notes": "or whole-grain mustard"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Vibrant olive oil",
+      "amount": "1/4 cup",
+      "notes": "such as truffle oil"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "Cracked black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Citrusy herbs",
+      "amount": "1/4 cup",
+      "notes": "such as parsley and dill"
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, combine the smoked salmon, mixed greens, and red onion.",
+    "In a small bowl, whisk together the Dutch mustard, lemon juice, and vibrant olive oil until smooth.",
+    "Season the dressing with salt and black pepper to taste.",
+    "Pour the dressing over the salmon mixture and toss to combine.",
+    "Sprinkle the citrusy herbs over the top and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salmon",
+    "salad",
+    "dutch",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-citrusy-dutch-smoked-salmon-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:38:17.022Z"
+}
