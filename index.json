@@ -2640,17 +2640,15 @@
   },
   {
     "slug": "velvety-fried-kenyan-sardines-skewers",
-    "title": "Velvety Fried Kenyan Sardines Skewers",
+    "title": "Kenyan Sardine Skewers with Fried Onions",
     "tags": [
-      "fodmap-friendly",
-      "fried-food",
-      "gluten-free",
-      "kenyan-cuisine",
-      "seafood",
-      "weeknight"
+      "kenyan",
+      "sardines",
+      "skewers",
+      "appetizer"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 27,
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
@@ -3678,20 +3676,15 @@
   },
   {
     "slug": "velvety-mediterranean-chickpea-tagine",
-    "title": "Velvety Mediterranean Chickpea Tagine",
+    "title": "Chickpea Tagine with Mediterranean Flair",
     "tags": [
-      "mediterranean",
-      "vegetarian",
-      "sugar-free",
-      "creamy",
-      "comfort-food",
-      "chickpea",
-      "tagine",
-      "sick-day",
-      "bhuna"
+      "north-african",
+      "stew",
+      "vegan",
+      "vegetarian"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "v"
   },
   {
@@ -9148,17 +9141,15 @@
   },
   {
     "slug": "vibrant-mustardy-indian-chicken-vindaloo",
-    "title": "Vibrant Mustardy Indian Chicken Vindaloo",
+    "title": "Vindaloo Chicken",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "indian-cuisine",
-      "one-pan",
-      "spicy",
-      "stir-fry"
+      "indian",
+      "chicken",
+      "curry",
+      "spicy"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 40,
+    "cuisine": "indian",
+    "totalTimeMin": 30,
     "shard": "v"
   },
   {
