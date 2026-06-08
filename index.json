@@ -573,15 +573,16 @@
   },
   {
     "slug": "vegetable-shortening-salsa-verde",
-    "title": "Vegetable Shortening Salsa Verde",
+    "title": "Roasted Vegetables with Verde Sauce",
     "tags": [
-      "vegetable-shortening",
-      "salsa-verde",
-      "uruguayan",
-      "plant-based-friendly"
+      "mexican",
+      "vegetarian",
+      "easy",
+      "roasted",
+      "verde"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 15,
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
     "shard": "v"
   },
   {
@@ -8777,16 +8778,15 @@
   },
   {
     "slug": "vibrant-korean-almond-wrap",
-    "title": "Vibrant Korean Almond Wrap",
+    "title": "Vibrant Korean-Style Almond Wrap",
     "tags": [
-      "copper-pot",
-      "korean-inspired",
-      "leaf-wrap",
-      "raw-friendly",
-      "szechuan-pepper"
+      "korean",
+      "vegan",
+      "gluten-free",
+      "healthy"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 31,
+    "totalTimeMin": 5,
     "shard": "v"
   },
   {
