@@ -1,0 +1,86 @@
+{
+  "slug": "velvety-indulgent-japanese-myeolchi-anchovies-noodles",
+  "title": "Myeolchi Noodle Stir Fry",
+  "description": "A Japanese-inspired stir fry with myeolchi, noodles, and a hint of anchovy umami. This dish is a fusion of sweet and savory flavors, perfect for a quick weeknight dinner.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Myeolchi",
+      "amount": "200g",
+      "notes": "dried myeolchi"
+    },
+    {
+      "name": "Japanese Noodles",
+      "amount": "200g",
+      "notes": "thin, curly noodles"
+    },
+    {
+      "name": "Anchovy",
+      "amount": "10",
+      "notes": "canned anchovy fillets"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Cook the noodles according to package instructions.",
+    "Rinse the myeolchi and soak it in water for 30 minutes.",
+    "Drain and rinse the myeolchi, then chop it into bite-sized pieces.",
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the chopped myeolchi and cook for 2-3 minutes, until it starts to brown.",
+    "Add the soy sauce, sugar (if using), and chopped green onions to the skillet.",
+    "Stir in the cooked noodles and cooked myeolchi.",
+    "Add the anchovy fillets to the skillet and stir to combine.",
+    "Cook for an additional 1-2 minutes, until the flavors have melded together.",
+    "Transfer the stir-fry to a serving dish and garnish with sesame seeds (if using).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "noodle-stir-fry",
+    "myeolchi",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-indulgent-japanese-myeolchi-anchovies-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:34:19.617Z"
+}
