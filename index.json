@@ -3232,17 +3232,15 @@
   },
   {
     "slug": "velvety-italian-milk-chocolate-mousse",
-    "title": "Velvety Italian Milk Chocolate Mousse",
+    "title": "Italian Chocolate Mousse",
     "tags": [
-      "cocoa",
+      "italian",
+      "chocolate",
       "dessert",
-      "easy",
-      "mousse",
-      "no-bake",
-      "plant-based"
+      "mousse"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 30,
     "shard": "v"
   },
   {
