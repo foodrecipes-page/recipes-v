@@ -1,0 +1,85 @@
+{
+  "slug": "vibrant-mustardy-indian-chicken-vindaloo",
+  "title": "Vindaloo Chicken",
+  "description": "A popular Indian-inspired dish with marinated chicken cooked in a spicy tomato-based curry sauce.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Vindaloo curry paste",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Mustard oil",
+      "amount": "2 tablespoons",
+      "notes": "or vegetable oil"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "chopped (optional)",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Vibrant red bell pepper",
+      "amount": "1, sliced",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add chicken and cook until browned, about 5-6 minutes.",
+    "Remove chicken from skillet and set aside.",
+    "Add curry paste to skillet and cook for 1 minute, stirring constantly.",
+    "Add tomato sauce, salt, and pepper to skillet. Stir to combine.",
+    "Return chicken to skillet and stir to coat with sauce.",
+    "Reduce heat to medium-low and simmer for 10-12 minutes, or until chicken is cooked through.",
+    "Stir in chopped cilantro (if using).",
+    "Serve hot, garnished with sliced red bell pepper (if using)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "chicken",
+    "curry",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-mustardy-indian-chicken-vindaloo",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:11:31.151Z"
+}
