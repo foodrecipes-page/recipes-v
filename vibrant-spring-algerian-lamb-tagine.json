@@ -1,0 +1,83 @@
+{
+  "slug": "vibrant-spring-algerian-lamb-tagine",
+  "title": "Algerian Spring Lamb Tagine",
+  "description": "A hearty and aromatic North African dish made with lamb, spring vegetables, and a blend of spices, slow-cooked in a traditional clay pot.",
+  "cuisine": "Algerian",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "Cut into 2-inch pieces"
+    },
+    {
+      "name": "Spring onions",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Spring garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Peeled and chopped"
+    },
+    {
+      "name": "Cauliflower",
+      "amount": "1 head",
+      "notes": "Broken into florets"
+    },
+    {
+      "name": "Vibrant preserved lemon",
+      "amount": "2 tablespoons",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Algerian spice blend",
+      "amount": "2 tablespoons",
+      "notes": "Available at most Middle Eastern markets"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "In a large clay or ceramic tagine, heat the olive oil over medium heat. Add the lamb and cook until browned, about 5 minutes.",
+    "Add the spring onions, garlic, carrots, and cauliflower to the tagine. Cook, stirring occasionally, for 10 minutes.",
+    "Add the preserved lemon, spice blend, and 1 cup of water to the tagine. Stir to combine.",
+    "Cover the tagine and transfer it to the preheated oven. Cook for 2 1/2 hours, or until the lamb is tender and the vegetables are cooked through.",
+    "Season the tagine with salt and pepper to taste. Serve hot, garnished with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "lamb",
+    "tagine",
+    "spring",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-spring-algerian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:10:51.281Z"
+}
