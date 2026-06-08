@@ -1,0 +1,60 @@
+{
+  "slug": "vibrant-steamed-pretzel-delight",
+  "title": "Vibrant Delight Salad",
+  "description": "A colorful and refreshing salad made with steamed vegetables, vibrant greens, and a crunchy pretzel topping.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vibrant greens (lettuce, spinach, arugula)",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Steamed broccoli florets",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Pretzel sticks, crushed",
+      "amount": "1/2 cup",
+      "notes": "gluten-free pretzels"
+    },
+    {
+      "name": "Delight dressing (homemade or store-bought)",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the vibrant greens, steamed broccoli florets, and crushed pretzel sticks.",
+    "In a small bowl, whisk together the Delight dressing and a pinch of salt.",
+    "Pour the dressing over the salad and toss to combine.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "vegetarian",
+    "gluten-free",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-steamed-pretzel-delight",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:35:55.907Z"
+}
