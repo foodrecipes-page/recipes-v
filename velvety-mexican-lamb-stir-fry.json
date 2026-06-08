@@ -1,0 +1,79 @@
+{
+  "slug": "velvety-mexican-lamb-stir-fry",
+  "title": "Mexican Lamb Koftas",
+  "description": "A flavorful and spicy lamb kofta recipe inspired by Mexican cuisine. Serve with your favorite toppings and sides.",
+  "cuisine": "Mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g",
+      "notes": "Ground lamb"
+    },
+    {
+      "name": "Mexican Stir Fry Sauce",
+      "amount": "2 tbsp",
+      "notes": "Available at most supermarkets"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "Ground cumin"
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "1 tsp",
+      "notes": "Dried chili powder"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing the grill"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, combine the lamb, Mexican stir fry sauce, cumin, chili powder, salt, and pepper. Mix well with your hands until just combined.",
+    "Do not overmix the lamb mixture.",
+    "Shape the lamb mixture into 8-10 koftas.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the koftas for 5-7 minutes per side, or until they reach an internal temperature of 63°C (145°F) for medium-rare.",
+    "Transfer the koftas to a plate and let them rest for 5 minutes.",
+    "Garnish with chopped cilantro and serve with your favorite toppings and sides.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "mexican",
+    "kebabs",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 55,
+    "carbs": 10,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-mexican-lamb-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:55:22.583Z"
+}
