@@ -1,0 +1,82 @@
+{
+  "slug": "velvety-comforting-jamaican-lentils-stew",
+  "title": "Hearty Lentil Stew",
+  "description": "A comforting, slow-cooked stew made with red lentils, Jamaican spices, and a touch of velvety texture.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red Lentils",
+      "amount": "1 cup dried"
+    },
+    {
+      "name": "Jamaican Curry Powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves minced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 medium chopped"
+    },
+    {
+      "name": "Potato",
+      "amount": "1 medium chopped"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic, cook until softened.",
+    "Add curry powder, cook for 1 minute.",
+    "Add lentils, carrot, and potato, cook for 5 minutes.",
+    "Add broth and bring to a boil.",
+    "Reduce heat, cover, and simmer for 30 minutes.",
+    "Stir in coconut milk and cook for an additional 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs.",
+    "Optional: Serve with crusty bread or over rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comforting",
+    "lentils",
+    "stew",
+    "jamaican"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-comforting-jamaican-lentils-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:48:05.801Z"
+}
