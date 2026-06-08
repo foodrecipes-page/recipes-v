@@ -127,15 +127,16 @@
   },
   {
     "slug": "vanilla-medley",
-    "title": "Vanilla Medley",
+    "title": "Vanilla Medley Cake",
     "tags": [
-      "spanish-recipe",
-      "peppery-dessert",
-      "vanilla-mixture",
-      "mediterranean-friendly"
+      "cake",
+      "vanilla",
+      "medley",
+      "fruit",
+      "dessert"
     ],
-    "cuisine": "Spanish",
-    "totalTimeMin": 35,
+    "cuisine": "american",
+    "totalTimeMin": 40,
     "shard": "v"
   },
   {
@@ -1884,15 +1885,15 @@
   },
   {
     "slug": "velvety-comforting-jamaican-lentils-stew",
-    "title": "Jamaican Lentils Stew",
+    "title": "Hearty Lentil Stew",
     "tags": [
-      "high-fiber",
-      "low-calorie",
-      "one-pan",
-      "weeknight"
+      "comforting",
+      "lentils",
+      "stew",
+      "jamaican"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 50,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 55,
     "shard": "v"
   },
   {
