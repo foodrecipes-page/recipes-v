@@ -1,0 +1,83 @@
+{
+  "slug": "velvety-fried-kenyan-sardines-skewers",
+  "title": "Kenyan Sardine Skewers with Fried Onions",
+  "description": "A flavorful and spicy appetizer that combines the taste of Kenya with the simplicity of a sardine skewer, finished with crispy fried onions.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "fish"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Canned sardines in water",
+      "amount": "1 (14 oz) can",
+      "notes": "Drained and flaked"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Kenyan spice blend",
+      "amount": "2 tsp",
+      "notes": "Available at most African markets"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "for frying",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Alternate sardines, onions, bell pepper, and tomatoes on skewers.",
+    "Brush skewers with lime juice and sprinkle with Kenyan spice blend.",
+    "Grill skewers for 5-7 minutes, or until sardines are cooked through and vegetables are tender.",
+    "While skewers are cooking, heat vegetable oil in a pan over medium heat.",
+    "Add sliced onions to the pan and fry until crispy and golden brown.",
+    "Remove skewers from grill and brush with additional lime juice, if desired.",
+    "Serve with fried onions and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "sardines",
+    "skewers",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-fried-kenyan-sardines-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:06:22.188Z"
+}
