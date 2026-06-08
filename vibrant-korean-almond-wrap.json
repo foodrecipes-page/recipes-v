@@ -1,0 +1,68 @@
+{
+  "slug": "vibrant-korean-almond-wrap",
+  "title": "Vibrant Korean-Style Almond Wrap",
+  "description": "A flavorful and refreshing wrap filled with vibrant Korean-inspired ingredients. Perfect for a light lunch or snack.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Almond butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sliced cucumber",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Carrot sticks",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Sliced vibrant bell pepper",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Korean pear",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Tortilla wrap",
+      "amount": "1"
+    },
+    {
+      "name": "Sliced almonds",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together almond butter and Korean chili flakes.",
+    "Lay a tortilla wrap flat and spread the almond butter mixture evenly.",
+    "Arrange the sliced cucumber, carrot sticks, and vibrant bell pepper on top of the almond butter mixture.",
+    "Add sliced Korean pear and sprinkle with sliced almonds.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap into a tight cylinder.",
+    "Slice in half and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "vegan",
+    "gluten-free",
+    "healthy"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-korean-almond-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T16:09:53.602Z"
+}
