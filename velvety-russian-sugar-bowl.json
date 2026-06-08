@@ -1,0 +1,62 @@
+{
+  "slug": "velvety-russian-sugar-bowl",
+  "title": "Velvety Russian Panna Cotta",
+  "description": "A creamy dessert made with Russian velvety sugar and a touch of sweetness.",
+  "cuisine": "Italian",
+  "diet": [
+    "dairy",
+    "sugar"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Velvety Russian sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Unflavored gelatin",
+      "amount": "2 tsp"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, sprinkle gelatin over 1/4 cup of cold water and let it sit for 5 minutes.",
+    "In a medium saucepan, combine milk, heavy cream, and sugar. Heat over medium heat, stirring occasionally, until the sugar dissolves and the mixture is hot but not boiling.",
+    "Remove the saucepan from the heat and add the gelatin mixture, stirring until it's fully dissolved.",
+    "Add the vanilla extract and stir to combine.",
+    "Pour the mixture into individual serving cups or a large serving dish.",
+    "Refrigerate for at least 4 hours or until set.",
+    "Serve chilled, garnished with fresh fruit or a sprinkle of sugar."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "italian",
+    "creamy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-russian-sugar-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:42:38.528Z"
+}
