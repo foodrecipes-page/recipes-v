@@ -3701,15 +3701,15 @@
   },
   {
     "slug": "velvety-mexican-lamb-stir-fry",
-    "title": "Velvety Mexican Lamb Stir-fry",
+    "title": "Mexican Lamb Koftas",
     "tags": [
-      "sous-vide-lamb",
-      "umami-dish",
-      "high-protein-friendly",
-      "mexican-stir-fry"
+      "lamb",
+      "mexican",
+      "kebabs",
+      "grilled"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "v"
   },
   {
