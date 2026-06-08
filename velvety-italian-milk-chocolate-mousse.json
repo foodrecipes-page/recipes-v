@@ -1,0 +1,65 @@
+{
+  "slug": "velvety-italian-milk-chocolate-mousse",
+  "title": "Italian Chocolate Mousse",
+  "description": "A rich and creamy Italian dessert made with velvety chocolate and topped with a fluffy mousse. Perfect for a special occasion.",
+  "cuisine": "Italian",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dark chocolate",
+      "amount": "200g",
+      "notes": "High-quality chocolate with at least 70% cocoa content"
+    },
+    {
+      "name": "Milk",
+      "amount": "250ml",
+      "notes": "Whole milk for a richer taste"
+    },
+    {
+      "name": "Velvety chocolate spread",
+      "amount": "100g",
+      "notes": "For the chocolate cake layer"
+    },
+    {
+      "name": "Mousse",
+      "amount": "200g",
+      "notes": "Ready-made mousse for the topping"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Melt the dark chocolate in a double boiler or in the microwave in 30-second increments, stirring between each interval.",
+    "In a separate bowl, whip the milk until it becomes frothy.",
+    "Pour the melted chocolate into a cake pan and smooth the top.",
+    "Bake for 10-12 minutes or until the edges are set.",
+    "Let the cake cool completely in the pan.",
+    "Cut the cake into small pieces and layer them in a serving dish.",
+    "Spread a layer of velvety chocolate spread on top of the cake pieces.",
+    "Top with a layer of mousse and smooth the top.",
+    "Refrigerate for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "chocolate",
+    "dessert",
+    "mousse"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-italian-milk-chocolate-mousse",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:19:20.948Z"
+}
