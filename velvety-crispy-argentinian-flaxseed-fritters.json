@@ -1,0 +1,70 @@
+{
+  "slug": "velvety-crispy-argentinian-flaxseed-fritters",
+  "title": "Crispy Argentinian Fritters",
+  "description": "Tasty, crispy fritters made with a blend of Argentinian spices and served with a side of velvety flaxseed sauce.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Argentinian fritters mix",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Velvety flaxseed sauce",
+      "amount": "1/2 cup",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "Flaxseed",
+      "amount": "1/4 cup",
+      "notes": "ground"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix together fritters mix, egg, and olive oil.",
+    "Heat a non-stick pan with a small amount of oil over medium heat.",
+    "Using a spoon, drop small amounts of the fritters mix into the pan, flattening slightly.",
+    "Cook for 2-3 minutes or until the edges start to crisp.",
+    "Flip the fritters and cook for another 2 minutes or until crispy.",
+    "Serve with velvety flaxseed sauce (see below for recipe).",
+    "To make the velvety flaxseed sauce, mix together flaxseed and 1/2 cup of water in a blender.",
+    "Blend until smooth and creamy, adding more water if needed.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "vegetarian",
+    "gluten-free",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-crispy-argentinian-flaxseed-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:09:53.022Z"
+}
