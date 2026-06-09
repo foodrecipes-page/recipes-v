@@ -1871,17 +1871,15 @@
   },
   {
     "slug": "velvety-comforting-french-citrus-stir-fry",
-    "title": "Velvety Comforting French Citrus Stir-fry",
+    "title": "Pan-Seared Chicken with Lemon and Herbs",
     "tags": [
-      "comforting",
-      "citrusy",
-      "velvety",
       "french",
-      "stir-fry",
-      "scotch-bonnet"
+      "lemon",
+      "chicken",
+      "herbs"
     ],
     "cuisine": "French",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "v"
   },
   {
