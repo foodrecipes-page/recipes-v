@@ -5112,16 +5112,15 @@
   },
   {
     "slug": "velvety-slovakian-lime-stew",
-    "title": "Velvety Slovakian Lime Stew",
+    "title": "Slovakian Beef Stew",
     "tags": [
+      "beef",
       "slovakian",
-      "dinner",
       "comfort-food",
-      "vegetable-rich",
-      "gluten-free"
+      "slow-cooker"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 170,
     "shard": "v"
   },
   {
