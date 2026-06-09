@@ -1,0 +1,91 @@
+{
+  "slug": "velvety-indian-lamb-rogan-josh",
+  "title": "Classic Indian Lamb Rogan Josh",
+  "description": "A popular and flavorful North Indian curry made with tender lamb pieces, aromatic spices, and a rich sauce.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder or neck bone",
+      "amount": "500g",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Velvety tomato puree",
+      "amount": "250g",
+      "notes": "canned or homemade"
+    },
+    {
+      "name": "Rogan josh spice mix",
+      "amount": "2 tsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "2-inch piece",
+      "notes": "about 2 tbsp"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Onion, sliced",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "for garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a large Dutch oven over medium heat.",
+    "Add the sliced onion and cook until browned, stirring occasionally.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the lamb pieces and cook until browned on all sides.",
+    "Add the Rogan josh spice mix, cayenne pepper, and salt. Mix well.",
+    "Add the velvety tomato puree and stir to combine.",
+    "Bring the mixture to a simmer, then cover the Dutch oven and transfer it to the oven.",
+    "Bake at 300°F (150°C) for 2 hours, or until the lamb is tender.",
+    "Garnish with chopped cilantro and serve over basmati rice or with naan bread.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "indian",
+    "curry",
+    " Rogan josh"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-indian-lamb-rogan-josh",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T04:26:58.681Z"
+}
