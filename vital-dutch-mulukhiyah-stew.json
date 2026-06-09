@@ -1,0 +1,77 @@
+{
+  "slug": "vital-dutch-mulukhiyah-stew",
+  "title": "Mulukhiyah and Vital Stew",
+  "description": "A hearty and flavorful stew made with mulukhiyah, vital, and dutch, perfect for a cold winter night.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "Vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mulukhiyah",
+      "amount": "2 cups, chopped"
+    },
+    {
+      "name": "Vital",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Dutch",
+      "amount": "1/2 cup, sliced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the onion and garlic and sauté until softened, about 5 minutes.",
+    "Add the vital and dutch and cook for an additional 5 minutes.",
+    "Add the mulukhiyah, tomato paste, chicken broth, salt, and pepper.",
+    "Bring to a boil, then reduce the heat to low and simmer for 20-25 minutes.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mulukhiyah",
+    "vital",
+    "stew",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vital-dutch-mulukhiyah-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T00:39:07.966Z"
+}
