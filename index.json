@@ -9141,13 +9141,16 @@
   },
   {
     "slug": "vibrant-northern-irish-seaweed-salad",
-    "title": "Vibrant Northern Irish Seaweed Salad",
+    "title": "Northern Irish Seaweed Salad",
     "tags": [
-      "british-northern-ireland",
-      "lunch"
+      "salad",
+      "seaweed",
+      "irish",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "British (Northern Ireland)",
-    "totalTimeMin": 40,
+    "cuisine": "Irish",
+    "totalTimeMin": 15,
     "shard": "v"
   },
   {
