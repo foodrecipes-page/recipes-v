@@ -2680,17 +2680,13 @@
   },
   {
     "slug": "velvety-german-beef-stew",
-    "title": "Velvety German Beef Stew",
+    "title": "German Beef Stew",
     "tags": [
-      "beef",
-      "german",
-      "hangover-cure",
-      "hearty",
-      "slow-cook",
-      "smoky",
-      "stew"
+      "beef-stew",
+      "german-food",
+      "comfort-food"
     ],
-    "cuisine": "German",
+    "cuisine": "german",
     "totalTimeMin": 140,
     "shard": "v"
   },
