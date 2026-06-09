@@ -1,0 +1,86 @@
+{
+  "slug": "velvety-german-beef-stew",
+  "title": "German Beef Stew",
+  "description": "Hearty and comforting, this German beef stew is perfect for a chilly evening. The velvety texture from the addition of beer gives it a rich flavor.",
+  "cuisine": "german",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef chunks",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "german beer",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "velvety mustard",
+      "amount": "2 teaspoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Season the beef with salt and pepper.",
+    "Heat oil in a large Dutch oven over medium-high heat. Brown the beef, then remove it from the pot.",
+    "Add the onion, carrot, and celery to the pot and cook until the vegetables are tender.",
+    "Add the beef broth, beer, tomato paste, and flour to the pot. Stir to combine.",
+    "Return the beef to the pot and bring to a boil. Reduce the heat to low and simmer for 2 hours.",
+    "Stir in the velvety mustard, if using.",
+    "Serve the stew hot, garnished with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "german-food",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-german-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T18:11:22.252Z"
+}
