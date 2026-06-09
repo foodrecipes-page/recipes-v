@@ -1,0 +1,64 @@
+{
+  "slug": "vibrant-northern-irish-seaweed-salad",
+  "title": "Northern Irish Seaweed Salad",
+  "description": "A refreshing and healthy salad made with Irish seaweed, northern greens, and vibrant vegetables.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Northern Irish Seaweed",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Vibrant Lettuce",
+      "amount": "1 head"
+    },
+    {
+      "name": "Irish Cabbage",
+      "amount": "1 medium head"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Dressing (Olive Oil & Vinegar)",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the Irish seaweed and pat it dry with a paper towel.",
+    "Chop the vibrant lettuce and Irish cabbage into bite-sized pieces.",
+    "Shred the carrots into thin strips.",
+    "In a large bowl, combine the seaweed, lettuce, cabbage, and carrots.",
+    "Drizzle the dressing over the salad and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "seaweed",
+    "irish",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-northern-irish-seaweed-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T20:16:30.185Z"
+}
