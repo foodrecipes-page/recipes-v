@@ -4918,18 +4918,15 @@
   },
   {
     "slug": "velvety-saudi-arabian-duck-tagine",
-    "title": "Velvety Saudi-Arabian Duck Tagine",
+    "title": "Saudian Arabian Duck Tagine",
     "tags": [
-      "duck-confit",
-      "high-protein",
-      "low-sodium",
-      "moroccan-inspired",
-      "one-pan",
-      "saffron-flatbread",
-      "saudi-arabian"
+      "arabian",
+      "duck",
+      "tagine",
+      "middle-eastern"
     ],
-    "cuisine": "saudi-arabian",
-    "totalTimeMin": 125,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 75,
     "shard": "v"
   },
   {
