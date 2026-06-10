@@ -3817,10 +3817,16 @@
   },
   {
     "slug": "velvety-moroccan-almond-tagine",
-    "title": "Velvety Moroccan Almond Tagine",
-    "tags": [],
-    "cuisine": "Moroccan",
-    "totalTimeMin": null,
+    "title": "Moroccan Almond Chicken Tagine",
+    "tags": [
+      "chicken",
+      "north-african",
+      "moroccan",
+      "almond",
+      "tagine"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 45,
     "shard": "v"
   },
   {
@@ -5462,18 +5468,14 @@
   },
   {
     "slug": "velvety-sour-canadian-dark-chocolate-bake",
-    "title": "velvety sour canadian dark chocolate bake",
+    "title": "Dark Chocolate Fudge Brownies",
     "tags": [
-      "chocolate-obsessed",
-      "coffee-lover",
-      "dinner-party",
-      "high-protein",
-      "make-ahead",
-      "one-pan",
-      "weeknight"
+      "brownies",
+      "dark chocolate",
+      "fudge"
     ],
-    "cuisine": "canadian",
-    "totalTimeMin": 60,
+    "cuisine": "North American",
+    "totalTimeMin": 45,
     "shard": "v"
   },
   {
@@ -5904,16 +5906,15 @@
   },
   {
     "slug": "velvety-sweet-northern-irish-beetroot-bake",
-    "title": "Velvety Sweet Northern Irish Beetroot Bake",
+    "title": "Baked Irish Beetroot Cake",
     "tags": [
-      "british",
-      "comfort-food",
-      "low-calorie",
-      "one-pan",
-      "weeknight"
+      "irish",
+      "beetroot",
+      "cake",
+      "dessert"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 50,
+    "cuisine": "Irish",
+    "totalTimeMin": 45,
     "shard": "v"
   },
   {
@@ -11156,17 +11157,15 @@
   },
   {
     "slug": "vivid-russian-lamb-shank-tartare",
-    "title": "Vivid Russian Lamb Shank Tartare",
+    "title": "Braised Russian Lamb Shank",
     "tags": [
-      "cold-appetizer",
-      "emulsion",
+      "braised",
       "lamb",
-      "plant-based-friendly",
-      "quick-fix",
-      "rustic"
+      "russian",
+      "hearty"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 290,
     "shard": "v"
   },
   {
@@ -11332,17 +11331,14 @@
   },
   {
     "slug": "vividly-flaky-dutch-beans-braise",
-    "title": "Vividly Flaky Dutch Beans Braise",
+    "title": "Hearty Dutch Bean Stew",
     "tags": [
-      "beans",
+      "stew",
       "comfort-food",
-      "dutch",
-      "lacto-vegetarian",
-      "one-pan",
-      "weeknight"
+      "dutch"
     ],
-    "cuisine": "dutch",
-    "totalTimeMin": 65,
+    "cuisine": "Dutch",
+    "totalTimeMin": 40,
     "shard": "v"
   },
   {
