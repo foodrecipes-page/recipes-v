@@ -2480,16 +2480,15 @@
   },
   {
     "slug": "velvety-filipino-chicken-stew",
-    "title": "Velvety Filipino Chicken Stew",
+    "title": "Filipino-Style Chicken Stew",
     "tags": [
-      "chicken-recipes",
-      "comfort-food",
-      "dairy-free",
-      "filipino-food",
-      "one-pot"
+      "chicken",
+      "stew",
+      "filipino",
+      "coconut milk"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "v"
   },
   {
@@ -3590,17 +3589,15 @@
   },
   {
     "slug": "velvety-light-mediterranean-gelatin-pudding",
-    "title": "Velvety Light Mediterranean Gelatin Pudding",
+    "title": "Mediterranean Pudding Dessert",
     "tags": [
-      "gluten-free",
-      "light-dessert",
-      "macrobiotic-friendly",
-      "mediterranean-inspired",
-      "vegetarian-friendly",
-      "wine-infused"
+      "mediterranean",
+      "pudding",
+      "dessert",
+      "summer"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 30,
+    "totalTimeMin": 75,
     "shard": "v"
   },
   {
@@ -6701,14 +6698,14 @@
   },
   {
     "slug": "very-charred-pillowy-jiangsu-noodles-dan-dan-mian",
-    "title": "Very Charred, Pillowy Jiangsu Noodles Dan-Dan-Mian",
+    "title": "Charred Noodle Stir Fry",
     "tags": [
-      "gluten-free",
-      "vegan-friendly",
-      "weeknight"
+      "chinese",
+      "stir-fry",
+      "noodles"
     ],
-    "cuisine": "jiangsu",
-    "totalTimeMin": 50,
+    "cuisine": "Chinese",
+    "totalTimeMin": 18,
     "shard": "v"
   },
   {
@@ -8141,19 +8138,16 @@
   },
   {
     "slug": "vibrant-garlicky-brazilian-cheese-wrap",
-    "title": "Vibrant Garlicky Brazilian Cheese Wrap",
+    "title": "Brazilian Cheese Wrap",
     "tags": [
-      "brazilian-food",
-      "cheese-lovers",
-      "easy-snacks",
-      "garlic-delight",
-      "orange-juice",
-      "ovo-vegetarian",
-      "quick-meals",
-      "ssam-wrap"
+      "cheese",
+      "garlic",
+      "brazilian",
+      "snack",
+      "wrap"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 15,
+    "totalTimeMin": 9,
     "shard": "v"
   },
   {
