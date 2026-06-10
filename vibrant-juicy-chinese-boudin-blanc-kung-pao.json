@@ -1,0 +1,94 @@
+{
+  "slug": "vibrant-juicy-chinese-boudin-blanc-kung-pao",
+  "title": "Kung Pao Chicken",
+  "description": "A spicy Sichuan dish made with marinated chicken, peanuts, and vegetables. This recipe serves 4.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "pao (chinese sauce)",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "1. Marinate the chicken in a mixture of soy sauce, rice vinegar, and cornstarch for 30 minutes.",
+    "2. Heat 2 tbsp of oil in a wok or large skillet over medium-high heat.",
+    "3. Add the chicken to the wok and cook until browned, about 5 minutes.",
+    "4. Add the peanuts, scallions, bell peppers, garlic, and ginger to the wok. Cook for 2-3 minutes.",
+    "5. Add the pao sauce to the wok and stir to combine.",
+    "6. Cook for an additional 2-3 minutes or until the sauce has thickened.",
+    "7. Serve immediately over rice.",
+    "8. Garnish with additional peanuts and scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kungpao",
+    "chicken",
+    "chinesecuisine",
+    "spicy",
+    "quickandeasy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-juicy-chinese-boudin-blanc-kung-pao",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T15:34:34.099Z"
+}
