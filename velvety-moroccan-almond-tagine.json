@@ -1,0 +1,96 @@
+{
+  "slug": "velvety-moroccan-almond-tagine",
+  "title": "Moroccan Almond Chicken Tagine",
+  "description": "A hearty and aromatic North African-inspired dish made with tender chicken, flavorful spices, and a rich almond sauce.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "almond butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "velvety peanut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of the peanut oil in a large Dutch oven over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for an additional 1-2 minutes.",
+    "Add the chicken to the pot and cook until browned on all sides, about 5-7 minutes.",
+    "Add the cumin, cinnamon, ginger, and salt. Stir to combine.",
+    "Add the remaining 1 tablespoon of peanut oil, almond butter, and 1 cup of water to the pot.",
+    "Bring the mixture to a simmer and cook, covered, until the chicken is cooked through and the sauce has thickened, about 25-30 minutes.",
+    "Stir in the chopped parsley and cook for an additional 1-2 minutes.",
+    "Serve the chicken and sauce over couscous or rice.",
+    "Garnish with additional parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "north-african",
+    "moroccan",
+    "almond",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-moroccan-almond-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T15:15:21.535Z"
+}
