@@ -1,0 +1,92 @@
+{
+  "slug": "very-charred-pillowy-jiangsu-noodles-dan-dan-mian",
+  "title": "Charred Noodle Stir Fry",
+  "description": "A spicy and savory stir-fry made with charred noodles, tossed with vegetables and a hint of Jiangsu flavors.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Charred noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Jiangsu sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Pillowy egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Dan dan sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the charred noodles and stir-fry for 2-3 minutes, until they start to soften.",
+    "Add the Jiangsu sauce, dan dan sauce, soy sauce, sugar, and ginger. Stir-fry for another 2-3 minutes, until the noodles are well coated.",
+    "Push the noodles to one side of the wok. Crack in the pillowy egg and scramble it until it's cooked through.",
+    "Mix the egg with the noodles.",
+    "Transfer the noodles to a serving platter. Garnish with green onions and sesame seeds.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/very-charred-pillowy-jiangsu-noodles-dan-dan-mian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T12:13:08.379Z"
+}
