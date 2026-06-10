@@ -1,0 +1,91 @@
+{
+  "slug": "velvety-salty-japanese-pork-curry",
+  "title": "Japanese Pork Curry",
+  "description": "A rich and flavorful Japanese-style curry made with pork and a blend of spices.",
+  "cuisine": "japanese",
+  "diet": [
+    "meat",
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "japanese curry powder",
+      "amount": "2 tablespoons",
+      "notes": "available at most Asian markets"
+    },
+    {
+      "name": "velvety curry sauce",
+      "amount": "1 cup",
+      "notes": "available at most Asian markets"
+    },
+    {
+      "name": "salty soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat for richer flavor"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional, for sweetness"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for braising"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large Dutch oven over medium-high heat.",
+    "Add the pork and cook until browned, about 5 minutes. Remove from heat and set aside.",
+    "Add another tablespoon of oil and sauté the onion and garlic until softened, about 3 minutes.",
+    "Add the Japanese curry powder and cook for 1 minute, stirring constantly.",
+    "Add the velvety curry sauce, soy sauce, and coconut milk. Stir to combine.",
+    "Return the pork to the pot and add the brown sugar and water. Bring to a simmer.",
+    "Reduce heat to low and braise for 1 1/2 hours, or until the pork is tender.",
+    "Season with salt to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "pork",
+    "curry",
+    "japanese",
+    "meat",
+    "braise"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-salty-japanese-pork-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T09:21:47.625Z"
+}
