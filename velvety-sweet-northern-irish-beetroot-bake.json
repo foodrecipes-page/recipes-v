@@ -1,0 +1,72 @@
+{
+  "slug": "velvety-sweet-northern-irish-beetroot-bake",
+  "title": "Baked Irish Beetroot Cake",
+  "description": "A delightful Irish-inspired dessert made with beetroot, perfect for springtime. Moist and flavorful, this cake is a great way to enjoy the natural sweetness of beets.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "velvety sweet beetroot",
+      "amount": "250g",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "irish all-purpose flour",
+      "amount": "150g",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "northern sugar",
+      "amount": "100g",
+      "notes": "white sugar"
+    },
+    {
+      "name": "bake butter, softened",
+      "amount": "50g"
+    },
+    {
+      "name": "eggs, large",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Grease a 20cm (8 inch) round cake pan and set aside.",
+    "In a medium bowl, whisk together flour, sugar, and a pinch of salt.",
+    "In a large bowl, whisk together beetroot, softened butter, eggs, and vanilla extract.",
+    "Add the dry ingredients to the wet ingredients and mix until just combined.",
+    "Pour the batter into the prepared cake pan and smooth the top.",
+    "Bake for 35-40 minutes, or until a toothpick inserted into the center comes out clean.",
+    "Remove from the oven and let cool in the pan for 5 minutes.",
+    "Transfer to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "beetroot",
+    "cake",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-sweet-northern-irish-beetroot-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T14:57:04.069Z"
+}
