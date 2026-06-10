@@ -4419,14 +4419,16 @@
   },
   {
     "slug": "velvety-pumpkin-uruguayan-stir-fry",
-    "title": "Velvety Pumpkin Uruguayan Stir-fry",
+    "title": "Uruguayan Pumpking Fry",
     "tags": [
-      "velvety-pumpkin",
-      "bhuna-style-stir-fry",
-      "nutty"
+      "pumpkin",
+      "uruguayan",
+      "vegetarian",
+      "fall",
+      "warming"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 35,
+    "cuisine": "Latin American",
+    "totalTimeMin": 40,
     "shard": "v"
   },
   {
@@ -4839,10 +4841,16 @@
   },
   {
     "slug": "velvety-salty-japanese-pork-curry",
-    "title": "Velvety Salty Japanese Pork Curry",
-    "tags": [],
-    "cuisine": "Japanese",
-    "totalTimeMin": null,
+    "title": "Japanese Pork Curry",
+    "tags": [
+      "pork",
+      "curry",
+      "japanese",
+      "meat",
+      "braise"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 110,
     "shard": "v"
   },
   {
@@ -6705,18 +6713,14 @@
   },
   {
     "slug": "very-cheesy-italian-cheese-cheese-pull-cassata",
-    "title": "very cheesy italian cheese pull cassata",
+    "title": "Cassata Cheesecake",
     "tags": [
-      "cheesy",
-      "easy-to-make",
-      "homestyle",
       "italian",
-      "one-pan",
-      "post-workout",
-      "weeknight"
+      "cheesecake",
+      "dessert"
     ],
     "cuisine": "italian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 70,
     "shard": "v"
   },
   {
