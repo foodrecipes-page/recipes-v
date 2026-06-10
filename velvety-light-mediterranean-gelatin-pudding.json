@@ -1,0 +1,63 @@
+{
+  "slug": "velvety-light-mediterranean-gelatin-pudding",
+  "title": "Mediterranean Pudding Dessert",
+  "description": "A creamy and refreshing dessert inspired by the Mediterranean region, perfect for warm weather.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mediterranean pudding",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Velvety gelatin",
+      "amount": "1 envelope (0.25 oz)",
+      "notes": "Unflavored and unsweetened"
+    },
+    {
+      "name": "Light whipped cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small bowl, sprinkle the gelatin over 1/4 cup of cold water and let it sit for 2 minutes to soften.",
+    "In a medium saucepan, combine the Mediterranean pudding and the softened gelatin. Cook over low heat, stirring constantly, until the gelatin has dissolved.",
+    "Remove the saucepan from the heat and stir in the whipped cream until well combined.",
+    "Pour the mixture into individual serving cups or a large serving dish.",
+    "Refrigerate for at least 3 hours or until set.",
+    "Just before serving, garnish with fresh mint leaves.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "pudding",
+    "dessert",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-light-mediterranean-gelatin-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T11:18:32.764Z"
+}
