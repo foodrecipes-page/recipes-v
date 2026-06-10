@@ -1,0 +1,78 @@
+{
+  "slug": "vibrant-shattering-egyptian-vegetables-bake",
+  "title": "Egyptian Vegetable Bake",
+  "description": "A flavorful and colorful vegetable bake inspired by Egyptian cuisine, made with a vibrant mix of vegetables and a crispy top.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vegetables",
+      "amount": "1 cup, mixed (carrots, zucchini, bell peppers)",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Bake",
+      "amount": "2 tablespoons",
+      "notes": "Olive oil"
+    },
+    {
+      "name": "Egyptian",
+      "amount": "1 teaspoon",
+      "notes": "Ground cumin"
+    },
+    {
+      "name": "Vibrant",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground coriander"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Shattering",
+      "amount": "1/4 teaspoon",
+      "notes": "Ground black pepper"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, combine the chopped vegetables, olive oil, cumin, coriander, salt, and black pepper. Toss to coat.",
+    "Transfer the vegetable mixture to a 9x13-inch baking dish.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the vegetables are tender and lightly browned.",
+    "Garnish with chopped parsley, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "gluten-free",
+    "middle-eastern",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-shattering-egyptian-vegetables-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T17:46:58.334Z"
+}
