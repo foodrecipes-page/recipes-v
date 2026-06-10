@@ -1,0 +1,67 @@
+{
+  "slug": "vibrant-garlicky-brazilian-cheese-wrap",
+  "title": "Brazilian Cheese Wrap",
+  "description": "A vibrant, garlicky cheese wrap inspired by Brazilian flavors, perfect for a quick snack or meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Brazilian cheese",
+      "amount": "8 oz",
+      "notes": "such as Minas"
+    },
+    {
+      "name": "Vibrant wrap",
+      "amount": "1",
+      "notes": "whole wheat or flour option"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp",
+      "notes": "for brushing wrap"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat. Brush the wrap with olive oil.",
+    "Grill the wrap for 1-2 minutes on each side, until slightly charred and crispy.",
+    "In a small bowl, mix minced garlic with Brazilian cheese.",
+    "Spread the cheese-garlic mixture on the grilled wrap.",
+    "Season with salt to taste.",
+    "Roll up the wrap tightly and slice in half.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 4,
+  "totalTimeMin": 9,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "cheese",
+    "garlic",
+    "brazilian",
+    "snack",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-garlicky-brazilian-cheese-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T11:45:08.232Z"
+}
