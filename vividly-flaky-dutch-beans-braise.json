@@ -1,0 +1,82 @@
+{
+  "slug": "vividly-flaky-dutch-beans-braise",
+  "title": "Hearty Dutch Bean Stew",
+  "description": "A comforting and flavorful stew made with tender beans and rich dutch flavors.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Dutch sausage, sliced",
+      "amount": "1 pound",
+      "notes": "look for a vegetarian alternative if needed"
+    },
+    {
+      "name": "Cannellini beans, drained and rinsed",
+      "amount": "1 can",
+      "notes": "or 1 cup cooked from scratch"
+    },
+    {
+      "name": "Vividly colored bell peppers, sliced",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Flaky sea salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper, ground",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Braised red wine",
+      "amount": "1 cup",
+      "notes": "or beef broth for a different flavor"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat. Add sausage and cook until browned, about 5 minutes.",
+    "Remove sausage from pot and set aside. Add onion and garlic and cook until softened, about 5 minutes.",
+    "Add bell peppers and cook for an additional 2 minutes.",
+    "Add braised red wine, scraping up browned bits from the bottom of the pot.",
+    "Add beans, sausage, flaky sea salt, and black pepper. Stir to combine.",
+    "Bring to a simmer, then reduce heat to low and cook, covered, until flavors have melded together and the stew has thickened, about 20 minutes.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "comfort-food",
+    "dutch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vividly-flaky-dutch-beans-braise",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T14:46:47.892Z"
+}
