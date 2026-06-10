@@ -1,0 +1,78 @@
+{
+  "slug": "velvety-pumpkin-uruguayan-stir-fry",
+  "title": "Uruguayan Pumpking Fry",
+  "description": "A sweet and savory combination of pumpkin and Uruguayan spices. A perfect side dish for a chilly evening.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pumpkin",
+      "amount": "2 cups, peeled and cubed"
+    },
+    {
+      "name": "Uruguayan stir fry spice blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "velvety brown sugar",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Toss the pumpkin cubes with 1 tablespoon of olive oil, salt, and pepper on a baking sheet.",
+    "Roast in the preheated oven for 20-25 minutes, or until tender.",
+    "In a large skillet, heat the remaining 1 tablespoon of olive oil over medium-high heat.",
+    "Add the chopped onion and cook for 3-4 minutes, until translucent.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the Uruguayan stir fry spice blend and cook for 1 minute, until fragrant.",
+    "Add the roasted pumpkin cubes to the skillet and stir to combine with the onion and spice mixture.",
+    "Sprinkle the velvety brown sugar over the top and stir to combine.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pumpkin",
+    "uruguayan",
+    "vegetarian",
+    "fall",
+    "warming"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-pumpkin-uruguayan-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T09:38:49.110Z"
+}
