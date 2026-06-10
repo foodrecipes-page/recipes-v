@@ -1,0 +1,91 @@
+{
+  "slug": "velvety-saudi-arabian-duck-tagine",
+  "title": "Saudian Arabian Duck Tagine",
+  "description": "A rich and flavorful stew originating from the Middle East, made with tender duck, aromatic spices, and velvety sauce.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck breast",
+      "amount": "1 (1.5 lbs)",
+      "notes": "Boneless, skinless"
+    },
+    {
+      "name": "Velvety sauce",
+      "amount": "2 tbsp",
+      "notes": "For serving"
+    },
+    {
+      "name": "Saudian spice blend",
+      "amount": "2 tsp",
+      "notes": "Available at Middle Eastern markets"
+    },
+    {
+      "name": "Arabian cumin",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/4 cup",
+      "notes": "Sliced"
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large Dutch oven over medium-high heat.",
+    "2. Brown the duck breast on both sides, then set aside.",
+    "3. Add onion and garlic to the pot and cook until softened.",
+    "4. Stir in spice blend and cumin and cook for 1 minute.",
+    "5. Add apricots and almonds to the pot and cook for 2 minutes.",
+    "6. Return the duck to the pot and add enough water to cover.",
+    "7. Bring to a boil, then reduce heat to low and simmer for 1 hour.",
+    "8. Serve the duck with steamed vegetables and velvety sauce spooned over the top.",
+    "9. Garnish with additional almonds, if desired.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "arabian",
+    "duck",
+    "tagine",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-saudi-arabian-duck-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T07:39:56.283Z"
+}
