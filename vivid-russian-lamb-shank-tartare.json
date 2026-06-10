@@ -1,0 +1,100 @@
+{
+  "slug": "vivid-russian-lamb-shank-tartare",
+  "title": "Braised Russian Lamb Shank",
+  "description": "A hearty, comforting dish featuring tender lamb shank in a rich Russian-inspired sauce.",
+  "cuisine": "Russian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shank",
+      "amount": "2 pounds",
+      "notes": "preferably with bone"
+    },
+    {
+      "name": "Vivid oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Russian vodka",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Tartare (optional)",
+      "amount": "1 teaspoon",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the lamb shank with salt and black pepper.",
+    "Heat vivid oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shank until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add minced garlic and cook for an additional minute.",
+    "Add Russian vodka to the pot, scraping up any browned bits.",
+    "Bring the vodka to a simmer and cook until reduced by half, about 2 minutes.",
+    "Add beef broth and diced tomatoes to the pot.",
+    "Return the lamb shank to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and braise for 2 1/2 to 3 hours, or until the lamb is tender.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Skim off any excess fat from the sauce.",
+    "Serve the lamb shank with the sauce spooned over the top, garnished with tartare if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 270,
+  "totalTimeMin": 290,
+  "servings": 2,
+  "difficulty": "hard",
+  "tags": [
+    "braised",
+    "lamb",
+    "russian",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 63,
+    "carbs": 20,
+    "fat": 60
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vivid-russian-lamb-shank-tartare",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T14:34:12.609Z"
+}
