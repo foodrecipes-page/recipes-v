@@ -1,0 +1,83 @@
+{
+  "slug": "very-cheesy-italian-cheese-cheese-pull-cassata",
+  "title": "Cassata Cheesecake",
+  "description": "A creamy and classic Italian cheesecake dessert, inspired by the traditional Sicilian cassata cake.",
+  "cuisine": "italian",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "graham cracker crust",
+      "amount": "1 1/2 cups",
+      "notes": null
+    },
+    {
+      "name": "very cheesy ricotta",
+      "amount": "1 1/2 cups",
+      "notes": "room temperature"
+    },
+    {
+      "name": "italian cassata cake",
+      "amount": "1 cup",
+      "notes": "crumbs"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup",
+      "notes": "mascarpone, softened"
+    },
+    {
+      "name": "pull-apart mozzarella",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "eggs",
+      "amount": "3 large",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Prepare the crust by mixing graham cracker crumbs and melted butter.",
+    "Press the crust mixture into a springform pan.",
+    "Beat the ricotta, mascarpone, and eggs until smooth.",
+    "Add sugar, vanilla extract, and mix well.",
+    "Pour the cheesecake batter into the prepared crust.",
+    "Bake for 45-50 minutes, or until the edges are set.",
+    "Let the cheesecake cool completely before serving.",
+    "Top with whipped cream and cassata cake crumbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "cheesecake",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/very-cheesy-italian-cheese-cheese-pull-cassata",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T09:10:23.951Z"
+}
