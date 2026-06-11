@@ -1,0 +1,62 @@
+{
+  "slug": "velvety-sweet-egyptian-ricotta-tagine",
+  "title": "Velvety Ricotta Tagine",
+  "description": "A sweet and creamy dessert inspired by North African cuisine, featuring velvety ricotta and a hint of Egyptian spices.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Ricotta",
+      "amount": "1 cup",
+      "notes": "whole-milk ricotta recommended"
+    },
+    {
+      "name": "Velvety",
+      "amount": "1/4 cup",
+      "notes": "unsweetened cocoa powder"
+    },
+    {
+      "name": "Egyptian",
+      "amount": "1 tsp",
+      "notes": "ground cinnamon"
+    },
+    {
+      "name": "Sweet",
+      "amount": "2 tbsp",
+      "notes": "honey"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a bowl, mix together ricotta, velvety, and Egyptian.",
+    "Transfer the mixture to a baking dish.",
+    "Drizzle sweet over the top.",
+    "Bake for 20-25 minutes, or until lightly golden brown.",
+    "Serve warm, garnished with additional velvety if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "ricotta",
+    "tagine",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-sweet-egyptian-ricotta-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T18:36:26.502Z"
+}
