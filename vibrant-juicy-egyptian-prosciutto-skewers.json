@@ -1,0 +1,67 @@
+{
+  "slug": "vibrant-juicy-egyptian-prosciutto-skewers",
+  "title": "Grilled Prosciutto Skewers",
+  "description": "A simple yet flavorful appetizer featuring prosciutto, vibrant vegetables, and a hint of Egyptian spices.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Prosciutto",
+      "amount": "6 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Vibrant bell pepper",
+      "amount": "1",
+      "notes": "any color"
+    },
+    {
+      "name": "Juicy cherry tomatoes",
+      "amount": "12",
+      "notes": "halved"
+    },
+    {
+      "name": "Egyptian oregano",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": "wooden or metal"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "Thread prosciutto, bell pepper, and cherry tomatoes onto skewers.",
+    "In a small bowl, mix together Egyptian oregano and a pinch of salt.",
+    "Brush the skewers with the oregano mixture, making sure to coat evenly.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the prosciutto is crispy.",
+    "Serve immediately, garnished with additional oregano if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "appetizer",
+    "mediterranean",
+    "easy",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 10,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-juicy-egyptian-prosciutto-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T19:31:58.070Z"
+}
