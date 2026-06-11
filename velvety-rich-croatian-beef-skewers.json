@@ -1,0 +1,76 @@
+{
+  "slug": "velvety-rich-croatian-beef-skewers",
+  "title": "Croatian Beef Skewers",
+  "description": "Tender beef skewers marinated in a rich and flavorful Croatian-inspired sauce, perfect for a summer evening.",
+  "cuisine": "Croatian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef (1 pound)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "velvety red wine (1/2 cup)",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "rich olive oil (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "croatian paprika (2 teaspoons)",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic (3 cloves)",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "salt (to taste)",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper (to taste)",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the red wine, olive oil, paprika, garlic, salt, and black pepper.",
+    "Add the beef to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat the grill to medium-high heat.",
+    "Remove the beef from the marinade and thread onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 8-10 minutes per side, or until the beef is cooked to your desired level of doneness.",
+    "Transfer the skewers to a plate and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 16,
+  "totalTimeMin": 46,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian-beef-skewers",
+    "summer-dinner",
+    "grilled-beef"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-rich-croatian-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T22:22:20.193Z"
+}
