@@ -7147,17 +7147,15 @@
   },
   {
     "slug": "vibrant-cajun-saudi-arabian-chicken-tagine",
-    "title": "Vibrant Cajun Saudi Arabian Chicken Tagine",
+    "title": "Cajun Chicken Tagine",
     "tags": [
-      "cajun-inspired",
-      "cheesy",
-      "low-fat",
-      "one-pot",
-      "saudi-arabian",
-      "weeknight"
+      "cajun",
+      "chicken",
+      "tagine",
+      "moroccan"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 50,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 40,
     "shard": "v"
   },
   {
