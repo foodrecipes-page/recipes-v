@@ -4541,17 +4541,14 @@
   },
   {
     "slug": "velvety-rich-croatian-beef-skewers",
-    "title": "Velvety Rich Croatian Beef Skewers",
+    "title": "Croatian Beef Skewers",
     "tags": [
-      "croatian",
-      "grilled",
-      "high-protein",
-      "one-pan",
-      "red-wine",
-      "weeknight"
+      "croatian-beef-skewers",
+      "summer-dinner",
+      "grilled-beef"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 46,
     "shard": "v"
   },
   {
