@@ -5133,14 +5133,12 @@
   },
   {
     "slug": "velvety-slovakian-pork-stew",
-    "title": "Velvety Slovakian Pork Stew",
+    "title": "Slovakian Pork Stew",
     "tags": [
-      "comfort-food",
-      "european-cuisine",
-      "gluten-free",
-      "one-pot",
-      "pork-recipes",
-      "sugar-free"
+      "slovakian",
+      "pork",
+      "stew",
+      "comfort-food"
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 140,
@@ -5852,17 +5850,14 @@
   },
   {
     "slug": "velvety-sweet-egyptian-ricotta-tagine",
-    "title": "Velvety Sweet Egyptian Ricotta Tagine",
+    "title": "Velvety Ricotta Tagine",
     "tags": [
-      "vegetarian",
-      "fodmap-friendly",
-      "sweet",
-      "creamy",
-      "egyptian",
+      "dessert",
       "ricotta",
-      "tagine"
+      "tagine",
+      "north-african"
     ],
-    "cuisine": "Egyptian",
+    "cuisine": "North African",
     "totalTimeMin": 35,
     "shard": "v"
   },
