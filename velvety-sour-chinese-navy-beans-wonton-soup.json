@@ -1,0 +1,75 @@
+{
+  "slug": "velvety-sour-chinese-navy-beans-wonton-soup",
+  "title": "Velvety Wonton Soup",
+  "description": "A comforting and flavorful soup made with velvety broth, wontons, and navy beans.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Navy beans",
+      "amount": "1 cup, dried",
+      "notes": "Rinsed and drained"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "4 cups",
+      "notes": "Vegetarian option available"
+    },
+    {
+      "name": "Velvety broth",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Wonton wrappers",
+      "amount": "20-24 wrappers",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "1. Rinse the navy beans and soak them in water for 8 hours or overnight.",
+    "2. Drain and rinse the navy beans, then transfer them to a large pot.",
+    "3. Add 4 cups of chicken broth and bring to a boil.",
+    "4. Reduce the heat to low and simmer for 1 hour, or until the beans are tender.",
+    "5. Meanwhile, prepare the wonton filling by mixing 1 cup of the velvety broth with 1/4 cup of sour cream (if using).",
+    "6. Lay a wonton wrapper on a clean surface and place a tablespoon of the filling in the center.",
+    "7. Dip your finger in water and run it along the edges of the wrapper.",
+    "8. Fold the wrapper into a triangle and press the edges together to seal the wonton.",
+    "9. Repeat with the remaining wrappers and filling.",
+    "10. When the navy beans are tender, add the wontons to the pot and simmer for 2-3 minutes, or until they float to the surface.",
+    "11. Serve the soup hot, garnished with sesame oil and additional sour cream (if desired)"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 65,
+  "totalTimeMin": 95,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "soup",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-sour-chinese-navy-beans-wonton-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T09:00:03.973Z"
+}
