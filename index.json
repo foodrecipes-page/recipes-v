@@ -5475,17 +5475,14 @@
   },
   {
     "slug": "velvety-sour-chinese-navy-beans-wonton-soup",
-    "title": "Velvety Sour Chinese Navy Beans Wonton Soup",
+    "title": "Velvety Wonton Soup",
     "tags": [
-      "chinese-cuisine",
-      "date-night",
-      "mushimono-steam",
-      "plant-based",
-      "vegetarian-friendly",
-      "wonton-soup"
+      "chinese",
+      "soup",
+      "vegetarian"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 70,
+    "totalTimeMin": 95,
     "shard": "v"
   },
   {
@@ -9483,16 +9480,15 @@
   },
   {
     "slug": "vibrant-savory-moroccan-garlic-sellou",
-    "title": "Vibrant, Savory Moroccan Garlic Sellou",
+    "title": "Moroccan Chickpea Stew",
     "tags": [
-      "comfort-food",
-      "dinner",
-      "garlic",
       "moroccan",
-      "one-pan"
+      "stew",
+      "lunch",
+      "vegetarian"
     ],
-    "cuisine": "moroccan",
-    "totalTimeMin": 25,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
