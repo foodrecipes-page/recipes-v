@@ -271,17 +271,15 @@
   },
   {
     "slug": "vegan-flavorful-egyptian-one-pot-dish-casserole",
-    "title": "Vegan Egyptian One-Pot Casserole",
+    "title": "Egyptian Lentil Casserole",
     "tags": [
-      "comfort-food",
-      "european",
-      "middle-eastern",
-      "one-pan",
-      "sugar-free",
+      "egyptian",
+      "lentil",
+      "casserole",
       "vegan"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 65,
     "shard": "v"
   },
   {
@@ -1130,17 +1128,16 @@
   },
   {
     "slug": "velvety-australian-katsuramuki-salad",
-    "title": "Velvety Australian Katsuramuki Salad",
+    "title": "Katsuramuki and Australian Salad",
     "tags": [
-      "aerated",
+      "salad",
       "australian",
-      "lazy-sunday",
-      "paleo-friendly",
-      "peppery",
-      "vegetarian"
+      "katsuramuki",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 20,
+    "cuisine": "australian",
+    "totalTimeMin": 15,
     "shard": "v"
   },
   {
