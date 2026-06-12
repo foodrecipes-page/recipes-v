@@ -1,0 +1,74 @@
+{
+  "slug": "velvety-fresh-german-peppers-casserole",
+  "title": "German Pepper Casserole",
+  "description": "A hearty, flavorful German-inspired casserole filled with tender peppers and a rich, velvety sauce.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fresh peppers",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Velvety",
+      "amount": "1 cup",
+      "notes": "bechamel sauce"
+    },
+    {
+      "name": "German bread",
+      "amount": "1 loaf",
+      "notes": "stale"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Slice the peppers and onion into large pieces.",
+    "In a large skillet, sauté the peppers and onion in a little bit of oil until tender.",
+    "Add the garlic and cook for 1 minute.",
+    "Stir in the bechamel sauce and cook until heated through.",
+    "Cut the stale bread into small pieces and add to the skillet.",
+    "Season with salt to taste.",
+    "Transfer the mixture to a baking dish and top with additional bread pieces if desired.",
+    "Bake for 20-25 minutes, or until the top is golden brown.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "casserole",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-fresh-german-peppers-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T05:59:40.312Z"
+}
