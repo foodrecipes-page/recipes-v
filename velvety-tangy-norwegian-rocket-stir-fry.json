@@ -1,0 +1,69 @@
+{
+  "slug": "velvety-tangy-norwegian-rocket-stir-fry",
+  "title": "Norwegian Rocket Stir Fry",
+  "description": "A quick and tangy Norwegian-inspired stir fry with a velvety twist.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rocket",
+      "amount": "2 cups",
+      "notes": "Fresh rocket leaves"
+    },
+    {
+      "name": "Velvety Sauce",
+      "amount": "1/4 cup",
+      "notes": "See below for velvety sauce recipe"
+    },
+    {
+      "name": "Norwegian Fjord Salmon",
+      "amount": "4 oz",
+      "notes": "Canned or cooked salmon"
+    },
+    {
+      "name": "Stir Fry Oil",
+      "amount": "2 tbsp",
+      "notes": "Vegetable or canola oil"
+    },
+    {
+      "name": "Fry Garlic",
+      "amount": "1 clove",
+      "notes": "Minced garlic"
+    }
+  ],
+  "instructions": [
+    "Heat stir fry oil in a large skillet over medium-high heat.",
+    "Add fry garlic and cook for 1 minute.",
+    "Add rocket leaves and cook until wilted.",
+    "In a small bowl, whisk together velvety sauce ingredients.",
+    "Pour velvety sauce over rocket mixture and stir to combine.",
+    "Add Norwegian fjord salmon and stir to combine.",
+    "Cook for an additional 2-3 minutes or until heated through.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "rocket",
+    "stir-fry",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-tangy-norwegian-rocket-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T13:23:07.525Z"
+}
