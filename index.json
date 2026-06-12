@@ -2144,17 +2144,14 @@
   },
   {
     "slug": "velvety-dutch-smoked-turkey-neck-stew",
-    "title": "Velvety Dutch Smoked Turkey Neck Stew",
+    "title": "Smoked Turkey Stew",
     "tags": [
-      "banana-leaf",
-      "comfort-food",
-      "dutch-cuisine",
-      "low-sodium",
-      "one-pot",
-      "smoked-turkey"
+      "smoked-turkey",
+      "stew",
+      "comfort-food"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 150,
+    "cuisine": "American",
+    "totalTimeMin": 140,
     "shard": "v"
   },
   {
@@ -11491,17 +11488,15 @@
   },
   {
     "slug": "vividly-tangy-polish-pork-casserole",
-    "title": "Vividly Tangy Polish Pork Casserole",
+    "title": "Pork Casserole with Polish Sausage",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "keto-friendly",
-      "low-carb",
-      "one-pan",
-      "weeknight"
+      "pork",
+      "casserole",
+      "polish-sausage",
+      "comfort-food"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 180,
+    "totalTimeMin": 65,
     "shard": "v"
   },
   {
