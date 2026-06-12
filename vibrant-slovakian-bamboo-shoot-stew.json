@@ -1,0 +1,82 @@
+{
+  "slug": "vibrant-slovakian-bamboo-shoot-stew",
+  "title": "Slovakian Stew with Bamboo Shoots",
+  "description": "A hearty and flavorful Slovakian stew recipe featuring bamboo shoots, perfect for a chilly evening.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bamboo shoots",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium, peeled and diced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium, peeled and diced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegan broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the vegan broth in a large pot over medium heat.",
+    "Add the sliced onions and sauté until translucent.",
+    "Add the minced garlic and sauté for another minute.",
+    "Add the sliced bamboo shoots, diced carrots, and diced potatoes.",
+    "Stir in the tomato paste and season with salt and pepper.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired.",
+    "Enjoy your delicious and comforting Slovakian stew!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian",
+    "vegetarian",
+    "stew",
+    "bamboo",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-slovakian-bamboo-shoot-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T06:07:16.338Z"
+}
