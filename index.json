@@ -2605,16 +2605,14 @@
   },
   {
     "slug": "velvety-fresh-german-peppers-casserole",
-    "title": "Velvety Fresh German Peppers Casserole",
+    "title": "German Pepper Casserole",
     "tags": [
-      "vegetarian-friendly",
       "german",
       "casserole",
-      "comfort-food",
-      "bell-pepper"
+      "vegetarian"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 60,
+    "cuisine": "german",
+    "totalTimeMin": 40,
     "shard": "v"
   },
   {
@@ -3900,10 +3898,15 @@
   },
   {
     "slug": "velvety-norwegian-beef-soup",
-    "title": "Velvety Norwegian Beef Soup",
-    "tags": [],
-    "cuisine": "Norwegian",
-    "totalTimeMin": null,
+    "title": "Norwegian Beef Soup",
+    "tags": [
+      "beef",
+      "soup",
+      "comfort-food",
+      "norwegian"
+    ],
+    "cuisine": "norwegian",
+    "totalTimeMin": 110,
     "shard": "v"
   },
   {
@@ -9601,17 +9604,16 @@
   },
   {
     "slug": "vibrant-slovakian-bamboo-shoot-stew",
-    "title": "Vibrant Slovakian Bamboo Shoot Stew",
+    "title": "Slovakian Stew with Bamboo Shoots",
     "tags": [
-      "comfort-food",
-      "hearty-stew",
-      "one-pot",
-      "satvik-friendly",
-      "slovakian-cuisine",
-      "vegetarian"
+      "slovakian",
+      "vegetarian",
+      "stew",
+      "bamboo",
+      "comfort-food"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
