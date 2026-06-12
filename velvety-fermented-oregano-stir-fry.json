@@ -1,0 +1,88 @@
+{
+  "slug": "velvety-fermented-oregano-stir-fry",
+  "title": "Fermented Velvety Stew",
+  "description": "A comforting and unique stew made with fermented ingredients and velvety texture.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fermented Vegetables",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Velvety Tofu",
+      "amount": "1 block",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Oregano",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cooking Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add garlic and ginger and stir for 1 minute.",
+    "Add fermented vegetables and cook for 5 minutes.",
+    "Add soy sauce, sugar, and oregano. Stir to combine.",
+    "Add velvety tofu and cook for 3-4 minutes.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "tofu",
+    "fermented",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-fermented-oregano-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T11:42:35.171Z"
+}
