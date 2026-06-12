@@ -1,0 +1,101 @@
+{
+  "slug": "velvety-herbal-tripe-stir-fry",
+  "title": "Herbal Beef Tripe Stir Fry",
+  "description": "A savory and aromatic stir fry made with tender beef tripe, infused with herbal flavors.",
+  "cuisine": "Asian",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef tripe",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into bite-sized pieces"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "herbal stir-fry sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "sliced bell peppers",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "sliced carrots",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "sliced mushrooms",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the beef tripe and cook until browned, about 3-4 minutes. Remove from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of vegetable oil.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the sliced bell peppers, carrots, and mushrooms. Cook until the vegetables are tender-crisp, about 3-4 minutes.",
+    "Add the chopped scallions and cook for 1 minute, until wilted.",
+    "Return the cooked beef tripe to the skillet and stir in the herbal stir-fry sauce, fish sauce, and soy sauce.",
+    "Cook for an additional 2-3 minutes, until the sauce has thickened and the beef tripe is coated.",
+    "Season with black pepper to taste.",
+    "Serve hot and garnish with additional scallions, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stir-fry",
+    "herbal"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-herbal-tripe-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T13:26:46.049Z"
+}
