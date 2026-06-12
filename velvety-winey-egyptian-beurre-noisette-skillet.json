@@ -1,0 +1,71 @@
+{
+  "slug": "velvety-winey-egyptian-beurre-noisette-skillet",
+  "title": "Pan-Seared Duck Breast with Beurre Noisette",
+  "description": "A classic French dish featuring pan-seared duck breast served with a rich beurre noisette sauce.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck breast",
+      "amount": "4",
+      "notes": "Skin removed"
+    },
+    {
+      "name": "Beurre noisette",
+      "amount": "2 tbsp",
+      "notes": "See instructions for preparation"
+    },
+    {
+      "name": "Velvety red wine",
+      "amount": "1 cup",
+      "notes": "For reduction"
+    },
+    {
+      "name": "Skillet",
+      "amount": "",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Egyptian spices",
+      "amount": "1 tsp",
+      "notes": "Mixed herbs"
+    }
+  ],
+  "instructions": [
+    "Season the duck breast with Egyptian spices.",
+    "Heat skillet over medium-high heat.",
+    "Sear the duck breast for 5 minutes per side, or until cooked to your liking.",
+    "Let the duck rest for 5 minutes before slicing.",
+    "To prepare the beurre noisette, melt 2 tablespoons of butter in a saucepan over low heat.",
+    "Once melted, increase heat to medium and cook until the butter turns golden brown.",
+    "Remove from heat and whisk in 1 tablespoon of red wine reduction (see below).",
+    "To make the wine reduction, heat 1 cup of red wine in a saucepan over medium heat until reduced by half.",
+    "Serve the sliced duck breast with beurre noisette sauce spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "duck",
+    "beurre noisette",
+    "red wine",
+    "reduction"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-winey-egyptian-beurre-noisette-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T06:55:11.082Z"
+}
