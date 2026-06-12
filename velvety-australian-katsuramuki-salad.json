@@ -1,0 +1,76 @@
+{
+  "slug": "velvety-australian-katsuramuki-salad",
+  "title": "Katsuramuki and Australian Salad",
+  "description": "A refreshing salad featuring crunchy katsuramuki and savory australian ingredients.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Katsuramuki",
+      "amount": "4 cups",
+      "notes": "Julienne"
+    },
+    {
+      "name": "Australian Salad Greens",
+      "amount": "2 cups",
+      "notes": "Mixed greens"
+    },
+    {
+      "name": "Velvety Carrots",
+      "amount": "2 medium",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Australian Avocado",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Australian Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For dressing"
+    },
+    {
+      "name": "Australian Balsamic Vinegar",
+      "amount": "1 tbsp",
+      "notes": "For dressing"
+    },
+    {
+      "name": "Australian Feta Cheese",
+      "amount": "1/4 cup",
+      "notes": "Crumble"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine katsuramuki, salad greens, shredded carrots, and diced avocado.",
+    "2. In a small bowl, whisk together olive oil and balsamic vinegar for the dressing.",
+    "3. Pour the dressing over the salad and toss to combine.",
+    "4. Sprinkle crumbled feta cheese on top of the salad and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "australian",
+    "katsuramuki",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-australian-katsuramuki-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T14:45:44.405Z"
+}
