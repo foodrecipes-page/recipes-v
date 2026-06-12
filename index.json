@@ -4087,15 +4087,15 @@
   },
   {
     "slug": "velvety-nostalgic-vietnamese-peanut-stir-fry",
-    "title": "Velvety Nostalgic Vietnamese Peanut Stir-fry",
+    "title": "Vietnamese Nostalgia Stir Fry",
     "tags": [
-      "velvety-nostalgic",
-      "sugar-free-friendly",
-      "stir-fry",
-      "peanut-dish"
+      "quick",
+      "easy",
+      "vegetarian",
+      "vietnamese"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 18,
     "shard": "v"
   },
   {
@@ -9408,15 +9408,13 @@
   },
   {
     "slug": "vibrant-saudi-lamb-skewers",
-    "title": "Vibrant Saudi Lamb Skewers",
+    "title": "Saudi Lamb Skewers",
     "tags": [
-      "date-night",
-      "grilled",
-      "kebab",
-      "kosher-friendly",
-      "saudi-arabian"
+      "lamb",
+      "skewers",
+      "middle-eastern"
     ],
-    "cuisine": "Saudi Arabian",
+    "cuisine": "Middle Eastern",
     "totalTimeMin": 40,
     "shard": "v"
   },
