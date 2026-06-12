@@ -1,0 +1,87 @@
+{
+  "slug": "velvety-sour-egyptian-dill-pickle-stir-fry",
+  "title": "Egyptian Pickle Stir Fry",
+  "description": "A flavorful and tangy stir fry dish infused with Egyptian spices and crunchy pickles. Serve as a side or add to your meal for a burst of flavor.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pickle",
+      "amount": "1 cup",
+      "notes": "thinly sliced dill pickles"
+    },
+    {
+      "name": "Velvety",
+      "amount": "2 tablespoons",
+      "notes": "velvety tahini paste"
+    },
+    {
+      "name": "Stir",
+      "amount": "2 tablespoons",
+      "notes": "vegetable oil for stir-frying"
+    },
+    {
+      "name": "Fry",
+      "amount": "1 small onion",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Dill",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh dill"
+    },
+    {
+      "name": "Sour",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed lemon juice"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the sliced onion and cook until lightly browned, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the thinly sliced pickles, chopped fresh dill, and cooked onion mixture to the skillet.",
+    "In a small bowl, whisk together the velvety tahini paste, sour lemon juice, salt, and black pepper.",
+    "Pour the tahini sauce over the pickle mixture and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the sauce has thickened slightly.",
+    "Serve hot over rice or as a side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pickles",
+    "stir-fry",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-sour-egyptian-dill-pickle-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T13:08:05.754Z"
+}
