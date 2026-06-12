@@ -2406,15 +2406,15 @@
   },
   {
     "slug": "velvety-fermented-oregano-stir-fry",
-    "title": "Velvety Fermented Oregano Stir-fry",
+    "title": "Fermented Velvety Stew",
     "tags": [
-      "velvety",
+      "stew",
+      "tofu",
       "fermented",
-      "stir-fry",
-      "australian"
+      "vegan"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 30,
+    "cuisine": "Asian",
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
@@ -5887,10 +5887,15 @@
   },
   {
     "slug": "velvety-sweet-mexican-chicken-tacos",
-    "title": "Velvety Sweet Mexican Chicken Tacos",
-    "tags": [],
+    "title": "Sweet Chicken Tacos",
+    "tags": [
+      "chicken",
+      "mexican",
+      "tacos",
+      "sweet-onion"
+    ],
     "cuisine": "Mexican",
-    "totalTimeMin": null,
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
