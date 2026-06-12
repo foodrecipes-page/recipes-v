@@ -1,0 +1,78 @@
+{
+  "slug": "velvety-nostalgic-vietnamese-peanut-stir-fry",
+  "title": "Vietnamese Nostalgia Stir Fry",
+  "description": "A quick and easy stir fry with a nostalgic twist, inspired by the flavors of Vietnam.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Velvety sauce",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Stir-fry noodles",
+      "amount": "1 cup",
+      "notes": "rice stick or rice noodles"
+    },
+    {
+      "name": "Peanuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Snow peas",
+      "amount": "1 cup",
+      "notes": "trimmed and sliced"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add the onion and garlic and stir-fry until the onion is translucent.",
+    "Add the noodles and stir-fry for 1-2 minutes, until they start to brown.",
+    "Add the snow peas and stir-fry for another 2-3 minutes, until they are tender-crisp.",
+    "Pour in the velvety sauce and stir-fry for 1-2 minutes, until the sauce has thickened.",
+    "Stir in the peanuts.",
+    "Season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "quick",
+    "easy",
+    "vegetarian",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": "6g",
+    "carbs": "40g",
+    "fat": "14g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-nostalgic-vietnamese-peanut-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T09:47:22.106Z"
+}
