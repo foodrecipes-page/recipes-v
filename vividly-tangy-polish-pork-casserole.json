@@ -1,0 +1,93 @@
+{
+  "slug": "vividly-tangy-polish-pork-casserole",
+  "title": "Pork Casserole with Polish Sausage",
+  "description": "A hearty, comforting dish featuring pork and polish sausage in a tangy casserole. Perfect for a cold evening.",
+  "cuisine": "Polish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Polish sausage",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "canned tomato",
+      "amount": "14.5 ounces",
+      "notes": "diced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "tangy mustard",
+      "amount": "2 tablespoons",
+      "notes": "such as Dijon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the pork and Polish sausage in a skillet over medium-high heat until browned, about 5 minutes.",
+    "Add the onion, carrot, and potato to the skillet and cook until the vegetables are tender, about 5 minutes.",
+    "Stir in the canned tomato, beef broth, tangy mustard, salt, and black pepper.",
+    "Transfer the mixture to a 9x13-inch baking dish and cover with aluminum foil.",
+    "Bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 15-20 minutes, or until the casserole is hot and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "casserole",
+    "polish-sausage",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 34,
+    "carbs": 40,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vividly-tangy-polish-pork-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T04:45:43.683Z"
+}
