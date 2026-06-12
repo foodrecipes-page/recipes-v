@@ -1,0 +1,87 @@
+{
+  "slug": "vibrant-saudi-lamb-skewers",
+  "title": "Saudi Lamb Skewers",
+  "description": "A traditional Middle Eastern dish made with marinated lamb, perfect for grilling. Serve with a side of couscous or rice.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "500g",
+      "notes": " Shoulder or leg meat"
+    },
+    {
+      "name": "vibrant",
+      "amount": "2tbsp",
+      "notes": "Vibrant spice blend or a mix of cumin, coriander, and paprika"
+    },
+    {
+      "name": "olive oil",
+      "amount": "4tbsp",
+      "notes": "For marinating"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "saudi",
+      "amount": "2 tbsp",
+      "notes": "Saudi spice blend or a mix of cinnamon, allspice, and cardamom"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": "Metal or bamboo"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, salt, and black pepper.",
+    "Add the lamb to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat the grill to medium-high heat.",
+    "Thread the marinated lamb onto the skewers, leaving a little space between each piece.",
+    "Brush the skewers with the remaining marinade and season with vibrant spice blend and saudi spice blend.",
+    "Grill the skewers for 8-10 minutes per side, or until cooked to your desired level of doneness.",
+    "Let the skewers rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "skewers",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-saudi-lamb-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T10:41:00.759Z"
+}
