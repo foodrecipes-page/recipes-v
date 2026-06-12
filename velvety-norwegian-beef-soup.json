@@ -1,0 +1,90 @@
+{
+  "slug": "velvety-norwegian-beef-soup",
+  "title": "Norwegian Beef Soup",
+  "description": "A hearty and comforting beef soup inspired by Norwegian cuisine. Velvety texture and rich flavors make this dish perfect for a chilly evening.",
+  "cuisine": "norwegian",
+  "diet": [
+    "beef",
+    "soup"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef shin",
+      "amount": "1 pound, cut into 1-inch pieces",
+      "notes": "Choose a cut with good connective tissue for a rich broth"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium, chopped",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks, chopped",
+      "notes": ""
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup, sliced",
+      "notes": "Button or cremini work well"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": "Homemade or store-bought, low-sodium"
+    },
+    {
+      "name": "velvety",
+      "amount": "1 tablespoon",
+      "notes": "Mayonnaise or sour cream work as substitutes"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large Dutch oven or pot, heat 2 tablespoons of oil over medium-high heat.",
+    "2. Add beef and cook until browned, about 5 minutes. Remove from pot and set aside.",
+    "3. Add onion, carrot, and celery to the pot and cook until softened, about 5 minutes.",
+    "4. Add mushroom and cook until tender, about 3-4 minutes.",
+    "5. Add beef broth, browned beef, thyme, salt, and pepper to the pot.",
+    "6. Bring to a boil, then reduce heat to low and simmer, covered, for 1 1/2 hours.",
+    "7. Stir in velvety and let soup cool slightly.",
+    "8. Use an immersion blender to puree soup to desired consistency.",
+    "9. Taste and adjust seasoning as needed.",
+    "10. Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "soup",
+    "comfort-food",
+    "norwegian"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-norwegian-beef-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T05:40:51.357Z"
+}
