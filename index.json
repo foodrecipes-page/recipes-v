@@ -2876,14 +2876,14 @@
   },
   {
     "slug": "velvety-herbal-tripe-stir-fry",
-    "title": "Velvety Herbal Tripe Stir-fry",
+    "title": "Herbal Beef Tripe Stir Fry",
     "tags": [
-      "malaysian-tripe",
-      "herbal-sauce",
-      "vegan-friendly"
+      "beef",
+      "stir-fry",
+      "herbal"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 35,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
@@ -5513,16 +5513,14 @@
   },
   {
     "slug": "velvety-sour-egyptian-dill-pickle-stir-fry",
-    "title": "Velvety Sour Egyptian Dill Pickle Stir-Fry",
+    "title": "Egyptian Pickle Stir Fry",
     "tags": [
-      "egyptian",
+      "pickles",
       "stir-fry",
-      "dill-pickle",
-      "velvety",
-      "sour"
+      "middle-eastern"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
@@ -6046,17 +6044,15 @@
   },
   {
     "slug": "velvety-tangy-norwegian-rocket-stir-fry",
-    "title": "Velvety Tangy Norwegian Rocket Stir-fry",
+    "title": "Norwegian Rocket Stir Fry",
     "tags": [
-      "velvety",
-      "tangy",
       "norwegian",
       "rocket",
       "stir-fry",
-      "halal-friendly"
+      "velvety"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 20,
     "shard": "v"
   },
   {
