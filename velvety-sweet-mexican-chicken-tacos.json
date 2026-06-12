@@ -1,0 +1,91 @@
+{
+  "slug": "velvety-sweet-mexican-chicken-tacos",
+  "title": "Sweet Chicken Tacos",
+  "description": "A delicious and easy-to-make Mexican-inspired dish featuring chicken, sweet flavors, and crunchy tacos.",
+  "cuisine": "Mexican",
+  "diet": [
+    null,
+    null,
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "tacos shells",
+      "amount": "8-10",
+      "notes": "your favorite brand"
+    },
+    {
+      "name": "sweet onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "mexican cheese blend",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "taco seasoning",
+      "amount": "1 packet",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium-high heat.",
+    "Add chicken to the skillet and cook until browned and cooked through, about 5-7 minutes.",
+    "Add diced sweet onion to the skillet and cook until softened, about 3-4 minutes.",
+    "Add taco seasoning, cumin, garlic powder (if using), salt, and pepper to the skillet and stir to combine.",
+    "Cook for 1-2 minutes, until the flavors are fragrant.",
+    "Warm tacos shells according to package instructions.",
+    "Assemble tacos by placing cooked chicken onto a warmed taco shell, followed by a spoonful of the onion mixture.",
+    "Top with shredded mexican cheese blend, a dollop of sour cream (if using), and serve immediately.",
+    "Garnish with your favorite toppings, such as diced tomatoes, shredded lettuce, or diced avocado."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "mexican",
+    "tacos",
+    "sweet-onion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-sweet-mexican-chicken-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T12:35:02.305Z"
+}
