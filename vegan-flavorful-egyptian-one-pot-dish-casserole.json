@@ -1,0 +1,95 @@
+{
+  "slug": "vegan-flavorful-egyptian-one-pot-dish-casserole",
+  "title": "Egyptian Lentil Casserole",
+  "description": "A flavorful and hearty one-pot casserole originating from Egypt, made with lentils, vegetables, and spices.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red Lentils",
+      "amount": "1 cup",
+      "notes": "Rinsed and drained"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Peeled and chopped"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp",
+      "notes": "Dried"
+    },
+    {
+      "name": "Canned Diced Tomatoes",
+      "amount": "14 oz",
+      "notes": "Crushed"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Spices (Cumin, Coriander, Paprika)",
+      "amount": "1 tsp",
+      "notes": "Mixed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large casserole dish, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chopped carrots and sliced zucchini, cooking until the vegetables are tender, about 5-7 minutes.",
+    "Add the tomato paste and cook, stirring constantly, for 1-2 minutes.",
+    "Add the crushed canned tomatoes, red lentils, spices, and lemon juice. Stir to combine.",
+    "Bring the mixture to a simmer and cook for 20-25 minutes, or until the lentils are tender.",
+    "Transfer the casserole to the preheated oven and bake for an additional 20-25 minutes, or until the top is lightly browned.",
+    "Remove from the oven and let it rest for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "lentil",
+    "casserole",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 55,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vegan-flavorful-egyptian-one-pot-dish-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T14:29:31.110Z"
+}
