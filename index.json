@@ -6974,19 +6974,16 @@
   },
   {
     "slug": "vessel-simmered-fermented-algerian-lamb-tagine",
-    "title": "Vessel-Simmered Fermented Algerian Lamb Tagine",
+    "title": "Traditional Algerian Lamb Tagine",
     "tags": [
-      "algerian-cuisine",
-      "fermented-dishes",
-      "high-protein",
-      "lamb-recipes",
-      "one-pan-meals",
-      "slow-cooker",
-      "tagine-recipes",
-      "weeknight-meals"
+      "lamb",
+      "tagine",
+      "algerian",
+      "north-african",
+      "stew"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 180,
+    "cuisine": "North African",
+    "totalTimeMin": 150,
     "shard": "v"
   },
   {
