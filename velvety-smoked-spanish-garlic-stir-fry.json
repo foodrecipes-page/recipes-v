@@ -1,0 +1,77 @@
+{
+  "slug": "velvety-smoked-spanish-garlic-stir-fry",
+  "title": "Smoked Spanish Chicken Fajitas",
+  "description": "Spicy fajitas made with smoked chicken, sautéed with garlic, bell peppers, and onions, served with warm flour tortillas.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked chicken breast",
+      "amount": "1 pound",
+      "notes": "Cut into thin strips"
+    },
+    {
+      "name": "Velvety olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Spanish garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2",
+      "notes": "Any color, sliced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Stir-fry sauce",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-7 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the bell peppers and onions and cook until tender, about 5 minutes.",
+    "Add the stir-fry sauce (if using) and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Warm flour tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the fajitas by placing the chicken and vegetable mixture onto the tortillas and serving hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "chicken",
+    "fajitas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-smoked-spanish-garlic-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:21:45.901Z"
+}
