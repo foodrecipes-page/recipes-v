@@ -1,0 +1,83 @@
+{
+  "slug": "velvety-mexican-mackerel-tamales",
+  "title": "Baked Mackerel Tamales",
+  "description": "A unique fusion of Mexican and seafood flavors, perfect for a dinner night.",
+  "cuisine": "mexican",
+  "diet": [
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mackerel Fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Corn Husks",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "Mexican Spice Mix",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Soak corn husks in water for at least 30 minutes.",
+    "In a bowl, mix together Mexican spice mix, lime juice, cilantro, butter, salt, and black pepper.",
+    "Place a mackerel fillet in the center of a corn husk, leaving a 1-inch border around the fish.",
+    "Brush the spice mix mixture on the mackerel fillet, then fold the corn husk to enclose the fish.",
+    "Repeat with the remaining ingredients.",
+    "Place the tamales in a steamer basket, steam for 12-15 minutes, or until the corn husks are tender.",
+    "Transfer the tamales to a baking dish, bake for an additional 5-7 minutes, or until the fish is cooked through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 17,
+  "totalTimeMin": 37,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "mexican",
+    "seafood",
+    "tamales"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-mexican-mackerel-tamales",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:22:00.450Z"
+}
