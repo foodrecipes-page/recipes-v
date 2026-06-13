@@ -1,0 +1,84 @@
+{
+  "slug": "velvety-canadian-chicken-stew",
+  "title": "Chicken and Velvety Stew",
+  "description": "A hearty and comforting stew made with tender chicken and a rich velvety sauce.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast or thighs",
+      "amount": "1 lb",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Velvety sauce",
+      "amount": "2 cups",
+      "notes": "Store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Remove the chicken and set aside.",
+    "Add more oil if necessary, then sauté the onion, garlic, carrots, and potatoes until the vegetables are tender.",
+    "Add the mushrooms and cook for an additional 2-3 minutes.",
+    "Add the browned chicken back into the pot, along with the velvety sauce.",
+    "Bring the stew to a simmer and cook for 15-20 minutes or until the chicken is cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-canadian-chicken-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:06:13.951Z"
+}
