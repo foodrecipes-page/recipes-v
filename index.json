@@ -5660,15 +5660,15 @@
   },
   {
     "slug": "velvety-spicy-chili-mexic-stir-fry",
-    "title": "Velvety Spicy Chili Mexic Stir-Fry",
+    "title": "Spicy Stir Fry",
     "tags": [
       "spicy",
-      "velvety",
-      "midnight-craving",
-      "mexican-dish"
+      "stir-fry",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 50,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
