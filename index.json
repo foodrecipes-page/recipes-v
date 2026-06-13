@@ -1520,10 +1520,14 @@
   },
   {
     "slug": "velvety-canadian-chicken-stew",
-    "title": "Velvety Canadian Chicken Stew",
-    "tags": [],
+    "title": "Chicken and Velvety Stew",
+    "tags": [
+      "chicken",
+      "stew",
+      "comfort-food"
+    ],
     "cuisine": "Canadian",
-    "totalTimeMin": null,
+    "totalTimeMin": 45,
     "shard": "v"
   },
   {
@@ -4980,19 +4984,15 @@
   },
   {
     "slug": "velvety-savory-syrian-chickpeas-stew",
-    "title": "Velvety Savory Syrian Chickpeas Stew",
+    "title": "Syrian Chickpea Stew",
     "tags": [
-      "vegan",
-      "low-sodium",
-      "chickpeas",
-      "comfort-food",
-      "syrian",
+      "chickpea",
       "stew",
-      "creamy",
-      "umami"
+      "syrian",
+      "vegetarian"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
@@ -8011,16 +8011,14 @@
   },
   {
     "slug": "vibrant-filipino-turkey-ham-lechon",
-    "title": "Vibrant Filipino Turkey Ham Lechon",
+    "title": "Lechon Kawali with Turkey and Ham",
     "tags": [
-      "filipino-food",
-      "low-sodium",
-      "special-occasion",
-      "turkey-ham",
-      "vibrant-dish"
+      "filipino",
+      "party",
+      "meat-lovers"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 65,
+    "cuisine": "filipino",
+    "totalTimeMin": 75,
     "shard": "v"
   },
   {
@@ -8534,14 +8532,13 @@
     "slug": "vibrant-italian-pasta-bake",
     "title": "Vibrant Italian Pasta Bake",
     "tags": [
-      "comfort-food",
-      "italian-food",
-      "lacto-vegetarian",
-      "one-pan",
-      "weeknight"
+      "italian",
+      "pasta",
+      "bake",
+      "vegetarian"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 40,
+    "cuisine": "italian",
+    "totalTimeMin": 50,
     "shard": "v"
   },
   {
@@ -11367,14 +11364,12 @@
   },
   {
     "slug": "vividly-peppery-slovakian-black-pudding-papillote",
-    "title": "Vividly Peppery Slovakian Black Pudding Papillote",
+    "title": "Slovakian Paprika Pudding",
     "tags": [
-      "black-pudding",
-      "comfort-food",
-      "dairy-free",
-      "one-pan",
+      "slovakian",
+      "dessert",
       "papillote",
-      "slovakian-cuisine"
+      "pudding"
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 45,
