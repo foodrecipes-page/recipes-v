@@ -6160,12 +6160,14 @@
   },
   {
     "slug": "velvety-turkish-mozzarella-bruschetta",
-    "title": "Velvety Turkish Mozzarella Bruschetta",
+    "title": "Turkish Bruschetta with Mozzarella",
     "tags": [
-      "velvety-recipe",
-      "tadka-inspired",
-      "turkish-mozzarella-bruschetta",
-      "jain-friendly-snack"
+      "appetizer",
+      "snack",
+      "turkish",
+      "mozzarella",
+      "bruschetta",
+      "easy"
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 25,
@@ -11306,17 +11308,16 @@
   },
   {
     "slug": "vividly-flaky-syrian-lamb-flatbread",
-    "title": "Vividly Flaky Syrian Lamb Flatbread",
+    "title": "Syrian Lamb Shawarma",
     "tags": [
-      "flatbread",
-      "lamb-based",
-      "middle-eastern",
-      "special-occasion",
-      "syrian-cuisine",
-      "vin-santo"
+      "syrian",
+      "lamb",
+      "shawarma",
+      "pita",
+      "middle-eastern"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
