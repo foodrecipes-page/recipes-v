@@ -1,0 +1,93 @@
+{
+  "slug": "vessel-simmered-fermented-algerian-lamb-tagine",
+  "title": "Traditional Algerian Lamb Tagine",
+  "description": "A hearty and flavorful stew originating from North Africa, made with tender lamb and a rich blend of spices.",
+  "cuisine": "North African",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 2-inch cubes"
+    },
+    {
+      "name": "algerian spice blend",
+      "amount": "2 tablespoons",
+      "notes": "available at most Middle Eastern markets"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "prunes",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tablespoons",
+      "notes": "for thickening"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the vessel over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the lamb and cook until browned on all sides, about 5 minutes.",
+    "Add the spice blend and cook for 1 minute.",
+    "Add the broth, apricots, and prunes. Bring to a boil, then reduce the heat to low and simmer, covered, for 2 hours, or until the lamb is tender.",
+    "Stir in the flour to thicken the sauce.",
+    "Serve hot, garnished with fresh herbs, if desired.",
+    "Simmer the tagine for at least 2 hours to allow the flavors to meld.",
+    "Serve over couscous, if desired.",
+    "Fermented foods, such as yogurt or cheese, can be served on the side to add a tangy contrast to the rich tagine."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "algerian",
+    "north-african",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 620,
+    "protein": 45,
+    "carbs": 50,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vessel-simmered-fermented-algerian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:17:50.722Z"
+}
