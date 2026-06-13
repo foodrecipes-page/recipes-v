@@ -1,0 +1,90 @@
+{
+  "slug": "vibrant-italian-pasta-bake",
+  "title": "Vibrant Italian Pasta Bake",
+  "description": "A colorful pasta dish loaded with flavors of Italy, perfect for a weeknight dinner. This vibrant bake combines pasta, vegetables, and cheese for a satisfying meal.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz (225g)",
+      "notes": "penne or fusilli work well"
+    },
+    {
+      "name": "vibrant sauce",
+      "amount": "1 cup (250ml)",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "baked mozzarella",
+      "amount": "8 oz (225g)",
+      "notes": "shredded or sliced"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 tsp",
+      "notes": "dried oregano, basil, and thyme"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cook the pasta according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, heat the olive oil over medium heat. Add the garlic, onion, bell peppers, and zucchini. Cook until the vegetables are tender, about 5 minutes.",
+    "Stir in the vibrant sauce and cook for an additional 2 minutes.",
+    "In a large mixing bowl, combine the cooked pasta, vegetables, and sauce. Mix well to combine.",
+    "Transfer the pasta mixture to a 9x13 inch baking dish. Sprinkle the baked mozzarella on top.",
+    "Season with italian seasoning and a pinch of salt.",
+    "Cover the baking dish with aluminum foil and bake for 20 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let it rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pasta",
+    "bake",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-italian-pasta-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:06:39.936Z"
+}
