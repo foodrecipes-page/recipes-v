@@ -1,0 +1,90 @@
+{
+  "slug": "velvety-spicy-chili-mexic-stir-fry",
+  "title": "Spicy Stir Fry",
+  "description": "A spicy and savory stir fry dish made with chili, velvety sauce and mexic spices.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chili",
+      "amount": "1/2 cup",
+      "notes": "any color"
+    },
+    {
+      "name": "Velvety sauce",
+      "amount": "2 tablespoons",
+      "notes": "any brand"
+    },
+    {
+      "name": "Mexic spices",
+      "amount": "1 teaspoon",
+      "notes": "any combination"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for frying"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Stir-fry vegetables",
+      "amount": "1 cup",
+      "notes": "any combination"
+    }
+  ],
+  "instructions": [
+    "1. Heat the olive oil in a large skillet or wok over medium-high heat.",
+    "2. Add the onions and bell peppers and cook until they start to soften.",
+    "3. Add the chili and garlic and cook for another minute.",
+    "4. Add the stir-fry vegetables and cook until they are tender.",
+    "5. In a small bowl, mix together the velvety sauce and soy sauce (if using).",
+    "6. Pour the sauce over the vegetables and stir to coat.",
+    "7. Add the Mexic spices and stir to combine.",
+    "8. Cook for an additional 1-2 minutes, until the sauce has thickened.",
+    "9. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "stir-fry",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-spicy-chili-mexic-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T19:26:54.118Z"
+}
