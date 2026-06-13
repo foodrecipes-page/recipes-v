@@ -74,14 +74,15 @@
   },
   {
     "slug": "vanilla-date-bliss",
-    "title": "Vanilla Date Bliss",
+    "title": "Vanilla Date Bliss Bars",
     "tags": [
-      "vanilla",
-      "date-night",
-      "brazilian",
-      "paleo-friendly"
+      "dessert",
+      "bars",
+      "date",
+      "bliss",
+      "vanilla"
     ],
-    "cuisine": "Brazilian",
+    "cuisine": "American",
     "totalTimeMin": 35,
     "shard": "v"
   },
