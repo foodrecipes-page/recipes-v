@@ -1,0 +1,64 @@
+{
+  "slug": "velvety-turkish-mozzarella-bruschetta",
+  "title": "Turkish Bruschetta with Mozzarella",
+  "description": "A delicious and easy-to-make appetizer that combines the flavors of Turkish cuisine with the creaminess of mozzarella.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bruschetta",
+      "amount": "6 slices",
+      "notes": "toasted"
+    },
+    {
+      "name": "velvety",
+      "amount": "1/4 cup",
+      "notes": "sour cream"
+    },
+    {
+      "name": "mozzarella",
+      "amount": "8 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "turkish",
+      "amount": "1/4 cup",
+      "notes": "crushed red pepper flakes"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toast the bruschetta slices for 5 minutes.",
+    "In a small bowl, mix together the velvety and turkish.",
+    "Spread the velvety-turkish mixture on the toasted bruschetta.",
+    "Top with sliced mozzarella cheese.",
+    "Bake in the oven for 5-7 minutes, until the cheese is melted and bubbly.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "appetizer",
+    "snack",
+    "turkish",
+    "mozzarella",
+    "bruschetta",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-turkish-mozzarella-bruschetta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T23:10:43.829Z"
+}
