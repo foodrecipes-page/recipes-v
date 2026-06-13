@@ -7255,17 +7255,16 @@
   },
   {
     "slug": "vibrant-chewy-venezuelan-lamb-tagine",
-    "title": "Vibrant Chewy Venezuelan Lamb Tagine",
+    "title": "Lamb Tagine with Venezualan Chewy Rice",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "middle-eastern-inspired",
-      "one-pot",
-      "slow-cooked",
-      "spicy"
+      "lamb",
+      "tagine",
+      "venezuelan",
+      "chewy",
+      "rice"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 180,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 170,
     "shard": "v"
   },
   {
@@ -8023,19 +8022,16 @@
   },
   {
     "slug": "vibrant-flaky-jamaican-mussels-bake",
-    "title": "vibrant flaky jamaican mussels bake",
+    "title": "Jamaican Mussels Bake",
     "tags": [
-      "fish",
-      "jamaican",
-      "low-carb",
       "mussels",
-      "one-pan",
+      "jamaican",
       "seafood",
-      "sous-vide",
-      "weeknight"
+      "coconut",
+      "lime"
     ],
     "cuisine": "jamaican",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "v"
   },
   {
@@ -10082,18 +10078,16 @@
   },
   {
     "slug": "vibrant-spicy-greek-reblochon-tagliere",
-    "title": "Vibrant Spicy Greek Reblochon Tagliere",
+    "title": "Greek Spicy Fritters with Reblochon Cheese",
     "tags": [
-      "appetizer",
-      "buddhist-temples",
-      "cheese",
       "greek",
-      "romantic",
-      "shio-koji",
-      "spicy"
+      "spicy",
+      "fritters",
+      "cheese",
+      "snack"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
@@ -10185,17 +10179,15 @@
   },
   {
     "slug": "vibrant-spicy-mexican-rye-tacos",
-    "title": "Vibrant Spicy Mexican Rye Tacos",
+    "title": "Spicy Taco Rye Burgers",
     "tags": [
-      "bamboo-steamer",
-      "gluten-free",
+      "taco",
       "mexican",
-      "raw-friendly",
-      "spicy",
-      "veggie"
+      "burgers",
+      "spicy"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 50,
+    "cuisine": "mexican",
+    "totalTimeMin": 22,
     "shard": "v"
   },
   {
