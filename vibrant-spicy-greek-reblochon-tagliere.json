@@ -1,0 +1,82 @@
+{
+  "slug": "vibrant-spicy-greek-reblochon-tagliere",
+  "title": "Greek Spicy Fritters with Reblochon Cheese",
+  "description": "A flavorful twist on traditional fritters, combining the warmth of spices with the creaminess of reblochon cheese, all wrapped up in a crispy Greek-inspired coating.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Reblochon cheese",
+      "amount": "1 cup, crumbled"
+    },
+    {
+      "name": "Tagliere",
+      "amount": "1 cup, grated"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vibrant bell peppers",
+      "amount": "1/2 cup, diced"
+    },
+    {
+      "name": "Spicy jalapeños",
+      "amount": "2, seeded and finely chopped"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Salt",
+      "amount": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oil in a deep frying pan to 375°F (190°C).",
+    "2. In a large bowl, combine the reblochon cheese, tagliere, Greek yogurt, vibrant bell peppers, and spicy jalapeños. Mix well until combined.",
+    "3. Add the breadcrumbs, egg, salt, and black pepper to the bowl and mix until just combined.",
+    "4. Using a spoon, drop small balls of the mixture into the hot oil, being careful not to overcrowd the pan.",
+    "5. Fry the fritters for 3-4 minutes or until golden brown and crispy, flipping halfway through.",
+    "6. Remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "7. Serve the fritters warm, garnished with fresh herbs if desired.",
+    "8. For an extra crispy coating, you can chill the fritters in the refrigerator for 30 minutes before frying.",
+    "9. Be careful when frying, as the oil can be hot and splatters easily.",
+    "10. Enjoy your delicious Greek spicy fritters with reblochon cheese!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "spicy",
+    "fritters",
+    "cheese",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-spicy-greek-reblochon-tagliere",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T20:34:32.486Z"
+}
