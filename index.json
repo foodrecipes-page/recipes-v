@@ -317,16 +317,15 @@
   },
   {
     "slug": "vegan-friendly-smoked-polish-pork-kielbasa",
-    "title": "Vegan-friendly Smoked Polish Pork Kielbasa",
+    "title": "Smoked Kielbasa and Sauerkraut Skillet",
     "tags": [
-      "char-grilled",
-      "flexitarian-friendly",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "polish",
+      "kielbasa",
+      "sauerkraut",
+      "smoked"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 27,
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
