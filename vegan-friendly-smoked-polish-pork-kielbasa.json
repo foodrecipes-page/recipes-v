@@ -1,0 +1,70 @@
+{
+  "slug": "vegan-friendly-smoked-polish-pork-kielbasa",
+  "title": "Smoked Kielbasa and Sauerkraut Skillet",
+  "description": "A hearty and flavorful Polish-inspired dish featuring smoked kielbasa and tangy sauerkraut, perfect for a weeknight dinner.",
+  "cuisine": "Polish",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked Kielbasa",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Sauerkraut",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Caraway Seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large cast-iron skillet over medium-high heat.",
+    "Add the kielbasa and cook until browned, about 5 minutes.",
+    "Add the onion and cook until softened, about 3 minutes.",
+    "Add the sauerkraut, caraway seeds, and apple cider vinegar. Stir to combine.",
+    "Reduce heat to low and simmer, covered, for 10 minutes.",
+    "Season with black pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "polish",
+    "kielbasa",
+    "sauerkraut",
+    "smoked"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vegan-friendly-smoked-polish-pork-kielbasa",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:30:44.529Z"
+}
