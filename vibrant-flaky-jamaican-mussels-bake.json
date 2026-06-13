@@ -1,0 +1,96 @@
+{
+  "slug": "vibrant-flaky-jamaican-mussels-bake",
+  "title": "Jamaican Mussels Bake",
+  "description": "A flavorful and spicy seafood dish featuring mussels in a Jamaican-inspired broth, baked in the oven with vibrant and flaky toppings.",
+  "cuisine": "jamaican",
+  "diet": [
+    "fish",
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mussels",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "vibrant bell peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "flaky coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "bake breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "lime",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the mussels and remove any broken shells.",
+    "In a large bowl, combine the mussels, jerk seasoning, bell peppers, garlic, salt, and black pepper.",
+    "Pour the coconut milk into the bowl and toss to combine.",
+    "Transfer the mixture to a baking dish and top with breadcrumbs.",
+    "Drizzle the olive oil over the breadcrumbs.",
+    "Cut the lime in half and place on top of the breadcrumbs.",
+    "Bake for 15-20 minutes, or until the mussels are cooked and the breadcrumbs are golden brown.",
+    "Serve hot, garnished with additional lime wedges if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mussels",
+    "jamaican",
+    "seafood",
+    "coconut",
+    "lime"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-flaky-jamaican-mussels-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T20:12:52.202Z"
+}
