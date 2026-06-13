@@ -1,0 +1,109 @@
+{
+  "slug": "vibrant-chewy-venezuelan-lamb-tagine",
+  "title": "Lamb Tagine with Venezualan Chewy Rice",
+  "description": "A flavorful and aromatic lamb stew cooked in a traditional tagine with a side of vibrant and chewy Venezualan rice.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chewy venezuelan rice",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat the olive oil in the bottom of a tagine or large Dutch oven over medium heat.",
+    "2. Add the onion and cook until softened, about 5 minutes.",
+    "3. Add the garlic and cook for 1 minute.",
+    "4. Add the lamb and cook until browned on all sides, about 5 minutes.",
+    "5. Add the cumin, coriander, cinnamon, salt, and black pepper, and stir to combine.",
+    "6. Add the chicken broth and dried apricots, and bring to a boil.",
+    "7. Cover the tagine and transfer to the oven. Braise the lamb for 2 1/2 hours, or until tender.",
+    "8. While the lamb is cooking, prepare the chewy Venezualan rice.",
+    "9. To make the rice, heat 2 tablespoons of olive oil in a large saucepan over medium heat.",
+    "10. Add 1 cup of rice and cook until lightly toasted, about 5 minutes.",
+    "11. Add 2 cups of chicken broth and bring to a boil.",
+    "12. Reduce the heat to low, cover, and simmer for 15-20 minutes, or until the rice is tender and chewy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "venezuelan",
+    "chewy",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 40,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-chewy-venezuelan-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T20:45:32.313Z"
+}
