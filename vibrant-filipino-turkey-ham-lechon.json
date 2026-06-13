@@ -1,0 +1,80 @@
+{
+  "slug": "vibrant-filipino-turkey-ham-lechon",
+  "title": "Lechon Kawali with Turkey and Ham",
+  "description": "A fusion Filipino dish with crispy pork belly, turkey, and ham. Perfect for a party or gathering.",
+  "cuisine": "filipino",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork Belly (Lechon)",
+      "amount": "1 kg"
+    },
+    {
+      "name": "Turkey Breast",
+      "amount": "500g"
+    },
+    {
+      "name": "Ham",
+      "amount": "250g"
+    },
+    {
+      "name": "Vinegar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Bay Leaves",
+      "amount": "4 leaves"
+    }
+  ],
+  "instructions": [
+    "1. In a large pot, combine vinegar, water, salt, black pepper, garlic, and bay leaves.",
+    "2. Bring the mixture to a boil, then reduce heat to low and simmer for 10 minutes.",
+    "3. Add the pork belly to the pot and simmer for 30 minutes or until the meat is tender.",
+    "4. Preheat oil in a deep frying pan to 180°C.",
+    "5. Remove the pork belly from the pot and let it cool slightly.",
+    "6. Cut the pork belly into bite-sized pieces and deep-fry until crispy.",
+    "7. Grill the turkey breast until cooked through.",
+    "8. Slice the ham into thin pieces.",
+    "9. Assemble the dish by placing the crispy pork belly on a platter, topped with sliced turkey and ham.",
+    "10. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "party",
+    "meat-lovers"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 90
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-filipino-turkey-ham-lechon",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:08:01.286Z"
+}
