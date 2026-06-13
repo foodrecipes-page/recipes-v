@@ -1,0 +1,97 @@
+{
+  "slug": "vibrant-spicy-mexican-rye-tacos",
+  "title": "Spicy Taco Rye Burgers",
+  "description": "A flavorful twist on traditional burgers with spicy taco seasoning and crunchy rye buns. Perfect for a quick dinner or lunch.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Taco seasoning",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Rye buns",
+      "amount": "4",
+      "notes": "gluten-free buns available"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Avocado",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1 cup",
+      "notes": "vegan sour cream available"
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1 cup",
+      "notes": "vegan cheese available"
+    },
+    {
+      "name": "Spicy sauce",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. In a large bowl, combine the ground beef and taco seasoning.",
+    "3. Form the beef mixture into 4 patties.",
+    "4. Grill the patties for 4-5 minutes per side, or until cooked to your desired level of doneness.",
+    "5. Meanwhile, toast the rye buns on the grill or in a toaster.",
+    "6. Assemble the burgers with lettuce, tomatoes, red onion, avocado, and shredded cheese.",
+    "7. Serve with spicy sauce on the side, if desired.",
+    "8. Cook the buns for an additional 2-3 minutes to give them a nice crunch.",
+    "9. Serve the burgers on the toasted rye buns.",
+    "10. Enjoy your delicious Spicy Taco Rye Burgers!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "taco",
+    "mexican",
+    "burgers",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-spicy-mexican-rye-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T20:25:25.814Z"
+}
