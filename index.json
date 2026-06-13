@@ -3700,16 +3700,15 @@
   },
   {
     "slug": "velvety-mexican-mackerel-tamales",
-    "title": "Velvety Mexican Mackerel Tamales",
+    "title": "Baked Mackerel Tamales",
     "tags": [
-      "ayurvedic-rajasic-friendly",
-      "mackerel",
-      "nimono-simmered",
-      "tamales",
-      "vegan-friendly"
+      "baked",
+      "mexican",
+      "seafood",
+      "tamales"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 75,
+    "cuisine": "mexican",
+    "totalTimeMin": 37,
     "shard": "v"
   },
   {
@@ -5181,15 +5180,14 @@
   },
   {
     "slug": "velvety-smoked-spanish-garlic-stir-fry",
-    "title": "Velvety Smoked Spanish Garlic Stir-fry",
+    "title": "Smoked Spanish Chicken Fajitas",
     "tags": [
-      "spanish-garlic-stir-fry",
-      "smoked-paprika",
-      "light-polish-dish",
-      "dash-friendly"
+      "spanish",
+      "chicken",
+      "fajitas"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 18,
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
