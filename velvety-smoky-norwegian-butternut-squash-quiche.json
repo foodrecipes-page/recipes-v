@@ -1,0 +1,74 @@
+{
+  "slug": "velvety-smoky-norwegian-butternut-squash-quiche",
+  "title": "Smoky Butternut Squash Quiche",
+  "description": "A creamy quiche filled with roasted butternut squash and a hint of smokiness.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Butternut Squash",
+      "amount": "1 medium, peeled and cubed",
+      "notes": ""
+    },
+    {
+      "name": "Quiche Crust (homemade or store-bought)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Grated Cheddar Cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "4 large",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the quiche crust and place it in a pie dish.",
+    "In a pan, sauté the onion and garlic until softened.",
+    "Add the cubed butternut squash and smoked paprika. Cook until the squash is tender.",
+    "In a separate bowl, whisk together the eggs and grated cheese.",
+    "Pour the egg mixture over the squash mixture and stir to combine.",
+    "Pour the filling into the pie crust.",
+    "Bake for 35-40 minutes or until the quiche is set and golden brown.",
+    "Let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "quiche",
+    "butternut squas",
+    "smoked paprika",
+    "veggie breakfast"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-smoky-norwegian-butternut-squash-quiche",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:53:09.220Z"
+}
