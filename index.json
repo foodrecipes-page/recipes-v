@@ -11756,5 +11756,17 @@
     "cuisine": "indian",
     "totalTimeMin": 30,
     "shard": "v"
+  },
+  {
+    "slug": "velvety-australian-colby-jack-mousse--gluten-free",
+    "title": "Colby and Jack Mousse Bites",
+    "tags": [
+      "gluten-free",
+      "cheese",
+      "snack"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 22,
+    "shard": "v"
   }
 ]
