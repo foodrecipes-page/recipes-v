@@ -2892,14 +2892,16 @@
   },
   {
     "slug": "velvety-honey-stir-fry",
-    "title": "Velvety Honey Stir-fry",
+    "title": "Honey Velvety Stir-Fry",
     "tags": [
-      "velvety-honey-stir-fry",
-      "buttery-date-night-ukrainian-dish",
-      "mediterranean-friendly"
+      "stir-fry",
+      "tofu",
+      "honey",
+      "vegetarian",
+      "vegan"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 40,
+    "cuisine": "Asian",
+    "totalTimeMin": 20,
     "shard": "v"
   },
   {
@@ -5328,18 +5330,15 @@
   },
   {
     "slug": "velvety-smoky-norwegian-butternut-squash-quiche",
-    "title": "Velvety Smoky Norwegian Butternut Squash Quiche",
+    "title": "Smoky Butternut Squash Quiche",
     "tags": [
-      "breakfast",
-      "butternut-squash",
-      "cazuela",
-      "diabetic-friendly",
-      "nordic",
-      "smoky",
-      "velvety"
+      "quiche",
+      "butternut squas",
+      "smoked paprika",
+      "veggie breakfast"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 50,
+    "cuisine": "French",
+    "totalTimeMin": 55,
     "shard": "v"
   },
   {
