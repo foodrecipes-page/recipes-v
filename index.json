@@ -285,20 +285,17 @@
   },
   {
     "slug": "vegan-friendly-energizing-middle-eastern-oyster-mushrooms-muhammara",
-    "title": "Vegan Friendly Energizing Middle Eastern Oyster Mushroom Muhammara",
+    "title": "Muhammara Stuffed Portobello Mushrooms",
     "tags": [
-      "dairy-free",
-      "dinner",
-      "easy-to-make",
-      "gluten-free",
-      "lunch",
-      "middle-eastern",
-      "one-pan",
       "vegan",
-      "weeknight"
+      "vegetarian",
+      "middle-eastern",
+      "snack",
+      "mushrooms",
+      "muhammara"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
@@ -5315,17 +5312,15 @@
   },
   {
     "slug": "velvety-smoky-jamaican-yam-skewers",
-    "title": "Velvety Smoky Jamaican Yam Skewers",
+    "title": "Jamaican Spiced Yam Skewers",
     "tags": [
-      "dairy-free",
-      "grilled-vegetables",
-      "jamaican-cuisine",
-      "smoky-flavors",
-      "tropical-vibes",
-      "vegetarian"
+      "caribbean",
+      "vegetarian",
+      "snack",
+      "grilled"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 40,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
