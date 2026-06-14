@@ -1,0 +1,97 @@
+{
+  "slug": "vibrant-polish-pork-casserole",
+  "title": "Polish-Style Pork Casserole",
+  "description": "A hearty, comforting dish featuring pork and vibrant vegetables in a traditional Polish-inspired casserole.",
+  "cuisine": "Polish",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "vibrant bell pepper",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "vibrant onion",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "polish sausage",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "casserole-sized pasta",
+      "amount": "1 pound",
+      "notes": "dried"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for thickening"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "for serving (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Cook pasta according to package instructions; set aside.",
+    "In a large skillet, cook sliced pork and polish sausage over medium-high heat until browned.",
+    "Add sliced bell pepper and onion to the skillet and cook until tender.",
+    "Stir in tomato paste, beef broth, and Dijon mustard (if using); bring to a simmer.",
+    "In a separate bowl, mix flour and a splash of beef broth to create a slurry.",
+    "Add the slurry to the skillet and stir to combine.",
+    "Transfer the skillet mixture to a casserole dish and top with cooked pasta.",
+    "Bake for 25-30 minutes or until the casserole is hot and the pasta is coated in the sauce.",
+    "Serve hot, topped with a dollop of sour cream (if desired).",
+    "Let the casserole rest for 10-15 minutes before serving to allow the flavors to meld."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "casserole",
+    "pork",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-polish-pork-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:59:33.799Z"
+}
