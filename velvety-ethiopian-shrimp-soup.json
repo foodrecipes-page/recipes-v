@@ -1,0 +1,97 @@
+{
+  "slug": "velvety-ethiopian-shrimp-soup",
+  "title": "Ethiopian Shrimp Velvety Soup",
+  "description": "A creamy and flavorful soup inspired by Ethiopian cuisine, featuring succulent shrimp and velvety texture.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "velvety",
+      "amount": "1 can (14 oz)",
+      "notes": "coconut milk"
+    },
+    {
+      "name": "ethiopian spice blend",
+      "amount": "2 teaspoons",
+      "notes": " Berbere spice mix"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic and cook until softened, about 5 minutes.",
+    "Add shrimp and cook until pink, about 2-3 minutes.",
+    "Add Ethiopian spice blend, chicken broth, and heavy cream.",
+    "Bring to a simmer and cook for 5-7 minutes.",
+    "Stir in coconut milk and cook for an additional 2-3 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped cilantro, if desired.",
+    "Serve hot and enjoy!",
+    "Note: You can also serve with crusty bread or over rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "shrimp-recipe",
+    "ethiopian-cuisine",
+    "velvety-soup",
+    "gluten-free-recipe",
+    "seafood-recipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-ethiopian-shrimp-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T03:03:41.814Z"
+}
