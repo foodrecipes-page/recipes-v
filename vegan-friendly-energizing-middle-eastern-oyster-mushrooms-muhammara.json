@@ -1,0 +1,74 @@
+{
+  "slug": "vegan-friendly-energizing-middle-eastern-oyster-mushrooms-muhammara",
+  "title": "Muhammara Stuffed Portobello Mushrooms",
+  "description": "A flavorful and energizing vegetarian dish inspired by Middle Eastern cuisine, perfect for a satisfying snack or light meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Portobello mushrooms",
+      "amount": "4",
+      "notes": "Large, cleaned and stems removed"
+    },
+    {
+      "name": "Muhammara",
+      "amount": "1/2 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Optional garnish"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing mushrooms"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Brush the mushrooms with olive oil and season with salt and pepper.",
+    "Spoon the muhammara mixture into the mushroom caps.",
+    "Place the mushrooms on a baking sheet and bake for 15-20 minutes, or until the mushrooms are tender and the filling is heated through.",
+    "Garnish with chopped parsley, if desired.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "vegetarian",
+    "middle-eastern",
+    "snack",
+    "mushrooms",
+    "muhammara"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vegan-friendly-energizing-middle-eastern-oyster-mushrooms-muhammara",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:06:00.494Z"
+}
