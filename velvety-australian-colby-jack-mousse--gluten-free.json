@@ -1,0 +1,62 @@
+{
+  "slug": "velvety-australian-colby-jack-mousse--gluten-free",
+  "title": "Colby and Jack Mousse Bites",
+  "description": "A gluten-free take on the classic cheese bites, featuring a creamy mousse filling.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Colby cheese",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "Jack cheese",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "Velvety cheese",
+      "amount": "4 ounces"
+    },
+    {
+      "name": "Australian wheat thins (gluten-free)",
+      "amount": "1 package"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a large mixing bowl, combine Colby cheese, Jack cheese, and Velvety cheese.",
+    "Stir until well combined and smooth.",
+    "Place a small amount of the cheese mixture onto each Wheat Thin.",
+    "Roll up the cheese and place seam-side down on a baking sheet.",
+    "Bake for 10-12 minutes, or until the cheese is melted and the crackers are toasted.",
+    "Serve warm and enjoy!",
+    "Let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "cheese",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 12,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-australian-colby-jack-mousse--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T08:10:22.902Z"
+}
