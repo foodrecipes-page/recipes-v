@@ -1,0 +1,83 @@
+{
+  "slug": "velvety-australian-bun-bao",
+  "title": "Bun Bao Burgers",
+  "description": "A twist on traditional burgers using velvety buns and Australian-style bao for a unique flavor experience.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian Bao",
+      "amount": "4",
+      "notes": "Soft and fluffy bao"
+    },
+    {
+      "name": "Velvety Buns",
+      "amount": "4",
+      "notes": "Soft and slightly sweet buns"
+    },
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": "Romaine or iceberg lettuce"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium",
+      "notes": "Fresh and juicy"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1 cup",
+      "notes": "Shredded cheddar or mozzarella"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "1/4 cup",
+      "notes": "Or to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Form the ground beef into 4 patties, about 3/4 inch thick.",
+    "Season the patties with salt and pepper to taste.",
+    "Grill the patties for 4-5 minutes per side, or until cooked to your desired level of doneness.",
+    "Meanwhile, toast the velvety buns on the grill or in a toaster.",
+    "Spoon a small amount of mayonnaise onto the bottom bun.",
+    "Add a cooked patty, a few slices of cheese, a lettuce leaf, and a tomato slice.",
+    "Top with the top bun.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "bacon-free",
+    "beef",
+    "cheese",
+    "gluten-free",
+    "grill",
+    "lunch",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-australian-bun-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T07:52:30.565Z"
+}
