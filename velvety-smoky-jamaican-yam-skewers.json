@@ -1,0 +1,62 @@
+{
+  "slug": "velvety-smoky-jamaican-yam-skewers",
+  "title": "Jamaican Spiced Yam Skewers",
+  "description": "A Caribbean-inspired dish featuring smoky yam skewers infused with the warmth of Jamaican spices.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "yam",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "velvety",
+      "amount": "1/4 cup",
+      "notes": "Jamaican jerk seasoning"
+    },
+    {
+      "name": "jamaican",
+      "amount": "2 tbsp",
+      "notes": "spice blend"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12 bamboo",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "Cut yam into 1-inch cubes, leaving a small amount of space between each piece.",
+    "Thread yam cubes onto skewers, leaving a small amount of space between each piece.",
+    "In a small bowl, mix together velvety and jamaican spices.",
+    "Brush the yam skewers with the spice mixture, making sure to coat evenly.",
+    "Grill the skewers for 12-15 minutes, turning occasionally, until yam is tender and slightly charred.",
+    "Serve hot, garnished with a sprinkle of additional jamaican spice if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "caribbean",
+    "vegetarian",
+    "snack",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-smoky-jamaican-yam-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:00:24.375Z"
+}
