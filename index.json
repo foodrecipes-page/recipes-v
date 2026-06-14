@@ -5073,14 +5073,15 @@
   },
   {
     "slug": "velvety-slovakian-dried-shrimp-goong-haeng-pasta",
-    "title": "Velvety Slovakian Dried-Shrimp-Goong-Haeng Pasta",
+    "title": "Slovakian Shrimp Pasta",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "slovakian",
+      "shrimp",
+      "pasta",
+      "velvety"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 35,
+    "cuisine": "slovakian",
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
