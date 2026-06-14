@@ -1,0 +1,82 @@
+{
+  "slug": "velvety-irish-barley-casserole",
+  "title": "Irish Barley Casserole",
+  "description": "A hearty, comforting casserole made with velvety Irish barley and savory flavors.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish barley",
+      "amount": "2 cups"
+    },
+    {
+      "name": "velvety",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium, peeled and sliced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks, diced"
+    },
+    {
+      "name": "barley broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large saucepan, heat the olive oil over medium heat.",
+    "Add the diced onion, sliced carrots, and diced celery. Cook until the vegetables are tender.",
+    "Add the Irish barley, barley broth, thyme, and salt. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Transfer the barley mixture to a 9x13 inch baking dish.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the barley is tender and the liquid has been absorbed.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "casserole",
+    "irish",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-irish-barley-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T05:26:34.147Z"
+}
