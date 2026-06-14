@@ -1,0 +1,82 @@
+{
+  "slug": "vegan-velvety-slovakian-butternut-squash-stew",
+  "title": "Slovakian Butternut Squash Stew",
+  "description": "A hearty and comforting Slovakian-inspired stew made with roasted butternut squash and a blend of aromatic spices.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "butternut squash",
+      "amount": "1 large, peeled and cubed",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced",
+      "notes": null
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "dried bay leaves",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "vegan vegetable broth",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss the cubed butternut squash with 1 tbsp of oil and season with salt and pepper. Spread on a baking sheet and roast for 30 minutes.",
+    "In a large pot, heat 2 tbsp of oil over medium heat. Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the caraway seeds, thyme, and bay leaves. Cook for 1 minute.",
+    "Add the roasted butternut squash, vegetable broth, and apple cider vinegar. Bring to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "stew",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vegan-velvety-slovakian-butternut-squash-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T04:23:45.786Z"
+}
