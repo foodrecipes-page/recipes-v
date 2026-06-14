@@ -1,0 +1,87 @@
+{
+  "slug": "velvety-australian-colby-jack-mousse--indian",
+  "title": "Colby and Jack Mousse Naan Bites",
+  "description": "A fusion of Indian naan and French mousse, these bite-sized treats are perfect for any occasion. With the creaminess of mousse and the tanginess of Colby and Jack cheese, every bite is a delight.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "velvety mousse",
+      "amount": "250g",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Australian colby cheese",
+      "amount": "120g",
+      "notes": "shredded"
+    },
+    {
+      "name": "jack cheese",
+      "amount": "120g",
+      "notes": "shredded"
+    },
+    {
+      "name": "all-purpose gluten-free flour",
+      "amount": "150g",
+      "notes": "for naan dough"
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "20ml",
+      "notes": "for brushing naan"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "20g",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "Combine the gluten-free flour and salt in a mixing bowl.",
+    "Gradually add the ghee or vegetable oil to the flour mixture and knead to form a smooth dough.",
+    "Divide the dough into 8-10 equal portions and shape each portion into a ball.",
+    "Roll out each ball into a thin circle, about 6 inches in diameter.",
+    "Brush the edges of each naan with a little water and top with a dollop of velvety mousse.",
+    "Sprinkle shredded Colby and Jack cheese over the mousse.",
+    "Fold the naan in half to enclose the filling and press the edges to seal.",
+    "Place the naan bites on a baking sheet lined with parchment paper and bake for 12-15 minutes, or until golden brown.",
+    "Remove from the oven and garnish with chopped cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "snack",
+    "cheese",
+    "naan",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-australian-colby-jack-mousse--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T05:08:18.817Z"
+}
