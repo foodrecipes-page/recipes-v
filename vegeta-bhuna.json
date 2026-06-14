@@ -1,0 +1,95 @@
+{
+  "slug": "vegeta-bhuna",
+  "title": "Vegeta Bhuna Curry",
+  "description": "A flavorful and spicy Indian-inspired curry made with vegeta and bhuna. Serve over rice or with naan bread.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vegeta",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Bhuna",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece, grated"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add cumin seeds and let them sizzle for a few seconds.",
+    "Add onion, garlic, and ginger. Cook until the onion is translucent.",
+    "Add bhuna and cook for 1-2 minutes.",
+    "Add Vegeta, coriander powder, turmeric powder, red chili powder, and salt. Mix well.",
+    "Add water and bring to a boil.",
+    "Reduce heat to low and simmer for 10-15 minutes.",
+    "Stir in Greek yogurt (if using).",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "curry",
+    "indian",
+    "lunch",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vegeta-bhuna",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:35:34.204Z"
+}
