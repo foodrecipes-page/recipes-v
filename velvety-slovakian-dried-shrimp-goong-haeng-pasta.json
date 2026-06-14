@@ -1,0 +1,76 @@
+{
+  "slug": "velvety-slovakian-dried-shrimp-goong-haeng-pasta",
+  "title": "Slovakian Shrimp Pasta",
+  "description": "A hearty pasta dish inspired by Slovakian cuisine, featuring succulent shrimp and a rich velvety sauce.",
+  "cuisine": "slovakian",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "Peel and de-vein before using"
+    },
+    {
+      "name": "Dried Shrimp",
+      "amount": "1/4 cup",
+      "notes": "Rehydrate in water before using"
+    },
+    {
+      "name": "Velvety Sauce",
+      "amount": "1 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Goong",
+      "amount": "2 tablespoons",
+      "notes": "Korean chili flakes"
+    },
+    {
+      "name": "Haeng",
+      "amount": "2 tablespoons",
+      "notes": "Sesame oil"
+    }
+  ],
+  "instructions": [
+    "Cook the pasta according to the package instructions.",
+    "In a large skillet, heat the haeng over medium-high heat.",
+    "Add the shrimp and cook until pink and fully cooked, about 2-3 minutes per side.",
+    "Remove the shrimp from the skillet and set aside.",
+    "Add the dried shrimp to the skillet and cook until fragrant, about 1 minute.",
+    "Add the velvety sauce to the skillet and stir to combine.",
+    "Return the cooked shrimp to the skillet and stir to coat with the sauce.",
+    "Add the goong and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve the shrimp mixture over the cooked pasta."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "shrimp",
+    "pasta",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-slovakian-dried-shrimp-goong-haeng-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:42:29.508Z"
+}
