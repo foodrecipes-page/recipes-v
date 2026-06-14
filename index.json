@@ -483,19 +483,14 @@
   },
   {
     "slug": "vegan-velvety-slovakian-butternut-squash-stew",
-    "title": "Vegan Velvety Slovakian Butternut Squash Stew",
+    "title": "Slovakian Butternut Squash Stew",
     "tags": [
-      "butternut-squash",
-      "comfort-food",
-      "one-pan",
       "slovakian",
       "stew",
-      "vegan",
-      "warming",
-      "weeknight"
+      "vegan"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 70,
     "shard": "v"
   },
   {
@@ -2336,16 +2331,16 @@
   },
   {
     "slug": "velvety-ethiopian-shrimp-soup",
-    "title": "Velvety Ethiopian Shrimp Soup",
+    "title": "Ethiopian Shrimp Velvety Soup",
     "tags": [
-      "ethiopian",
-      "shrimp",
-      "low-calorie",
+      "shrimp-recipe",
+      "ethiopian-cuisine",
       "velvety-soup",
-      "buttery-soup"
+      "gluten-free-recipe",
+      "seafood-recipe"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
@@ -3133,18 +3128,15 @@
   },
   {
     "slug": "velvety-irish-barley-casserole",
-    "title": "Velvety Irish Barley Casserole",
+    "title": "Irish Barley Casserole",
     "tags": [
-      "barley",
-      "chewy",
-      "fondue-pot",
+      "casserole",
       "irish",
-      "malty",
-      "solo-dinner",
-      "vegan"
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 75,
+    "totalTimeMin": 55,
     "shard": "v"
   },
   {
