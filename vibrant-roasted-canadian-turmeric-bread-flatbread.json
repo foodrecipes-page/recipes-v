@@ -1,0 +1,63 @@
+{
+  "slug": "vibrant-roasted-canadian-turmeric-bread-flatbread",
+  "title": "Canadian Turmeric Flatbread with Vibrant Roasted Vegetables",
+  "description": "A flavorful and colorful flatbread dish, topped with roasted vegetables and infused with turmeric for added depth.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "flatbread",
+      "amount": "1 (12 inch) piece"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vibrant",
+      "amount": "1 cup mixed roasted vegetables (such as bell peppers, zucchini, and onions)"
+    },
+    {
+      "name": "canadian",
+      "amount": "1/4 cup crumbled feta cheese"
+    },
+    {
+      "name": "bread",
+      "amount": "2 tbsp chopped (for garnish)"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp (for brushing flatbread)"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Brush the flatbread with olive oil and sprinkle with turmeric.",
+    "Top the flatbread with roasted vegetables and crumbled feta cheese.",
+    "Bake in the preheated oven for 10-12 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and sprinkle with chopped bread.",
+    "Season with salt to taste and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flatbread",
+    "vegetarian",
+    "canadian"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-roasted-canadian-turmeric-bread-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:36:37.351Z"
+}
