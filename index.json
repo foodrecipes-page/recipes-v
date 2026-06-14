@@ -1081,18 +1081,19 @@
   },
   {
     "slug": "velvety-australian-bun-bao",
-    "title": "Velvety Australian Bun Bao",
+    "title": "Bun Bao Burgers",
     "tags": [
       "australian",
-      "ayurvedic",
-      "date-night",
-      "pescatarian",
-      "sattvic",
-      "seafood",
-      "vegetarian"
+      "bacon-free",
+      "beef",
+      "cheese",
+      "gluten-free",
+      "grill",
+      "lunch",
+      "meat"
     ],
-    "cuisine": "australian",
-    "totalTimeMin": 45,
+    "cuisine": "Australian",
+    "totalTimeMin": 22,
     "shard": "v"
   },
   {
@@ -8320,14 +8321,13 @@
   },
   {
     "slug": "vibrant-golden-thai-kabocha-kanom-ko",
-    "title": "Vibrant Golden Thai Kabocha Kanom Ko",
+    "title": "Thai-Style Kabocha Squash Stir Fry",
     "tags": [
-      "cheese-pull",
-      "jain-friendly",
+      "thai",
+      "stir-fry",
       "kabocha-squash",
-      "one-pan",
-      "thai-street-food",
-      "vegetarian-snacks"
+      "ko",
+      "vegetarian"
     ],
     "cuisine": "Thai",
     "totalTimeMin": 35,
