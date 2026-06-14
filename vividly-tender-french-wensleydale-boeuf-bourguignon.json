@@ -1,0 +1,106 @@
+{
+  "slug": "vividly-tender-french-wensleydale-boeuf-bourguignon",
+  "title": "French Beef Bourguignon",
+  "description": "A classic French dish made with tender beef and flavorful vegetables, slow-cooked in a rich red wine sauce.",
+  "cuisine": "French",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (boeuf) cubes",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Add the beef cubes and cook until browned, about 5 minutes. Remove from heat and set aside.",
+    "Add more oil if necessary, then sauté the onion, carrot, and celery until tender, about 10 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the red wine, scraping up any browned bits, and bring to a boil.",
+    "Add the beef broth, tomato paste, thyme, salt, and pepper. Stir to combine.",
+    "Return the beef to the pot and bring to a boil.",
+    "Cover and transfer to the oven. Braise for 2 1/2 to 3 hours, or until the beef is tender.",
+    "Skim off any excess fat before serving.",
+    "Serve with crusty bread and a side of Wensleydale cheese, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "french",
+    "beef",
+    "bourguignon",
+    "red-wine",
+    "braise"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vividly-tender-french-wensleydale-boeuf-bourguignon",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T23:01:54.729Z"
+}
