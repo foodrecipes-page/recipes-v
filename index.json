@@ -536,13 +536,16 @@
   },
   {
     "slug": "vegeta-bhuna",
-    "title": "VegetaBhuna",
+    "title": "Vegeta Bhuna Curry",
     "tags": [
-      "vegeta-bhuna",
-      "algerian-veggies"
+      "vegan",
+      "curry",
+      "indian",
+      "lunch",
+      "dinner"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 45,
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
@@ -9275,17 +9278,14 @@
   },
   {
     "slug": "vibrant-roasted-canadian-turmeric-bread-flatbread",
-    "title": "Vibrant Roasted Canadian Turmeric Bread Flatbread",
+    "title": "Canadian Turmeric Flatbread with Vibrant Roasted Vegetables",
     "tags": [
-      "canadian-cuisine",
       "flatbread",
-      "keto-friendly",
-      "low-carb",
-      "roasted",
-      "turmeric"
+      "vegetarian",
+      "canadian"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 15,
     "shard": "v"
   },
   {
