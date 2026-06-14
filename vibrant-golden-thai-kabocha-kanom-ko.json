@@ -1,0 +1,86 @@
+{
+  "slug": "vibrant-golden-thai-kabocha-kanom-ko",
+  "title": "Thai-Style Kabocha Squash Stir Fry",
+  "description": "A flavorful and nutritious stir fry made with roasted kabocha squash, crispy ko, and fragrant thai spices.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kabocha Squash",
+      "amount": "1 medium kabocha squash, peeled and cubed",
+      "notes": null
+    },
+    {
+      "name": "Ko",
+      "amount": "2 cloves of garlic, minced",
+      "notes": null
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Golden Coconut Milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Vibrant Fresh Cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh Thai Basil",
+      "amount": "2 tablespoons, chopped",
+      "notes": "optional"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet or wok over medium-high heat.",
+    "Add the minced ko and cook until fragrant, about 1 minute.",
+    "Add the cubed kabocha squash and cook until tender, about 5 minutes.",
+    "Add the Thai red curry paste and cook for 1 minute.",
+    "Pour in the golden coconut milk and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the mixture cook for 5-7 minutes or until the squash is tender.",
+    "Season with salt to taste.",
+    "Garnish with vibrant fresh cilantro and fresh Thai basil, if desired.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "stir-fry",
+    "kabocha-squash",
+    "ko",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-golden-thai-kabocha-kanom-ko",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T07:11:47.633Z"
+}
