@@ -1,0 +1,82 @@
+{
+  "slug": "velvety-soft-spanish-shrimp-gambas-al-ajillo",
+  "title": "Spanish Garlic Shrimp",
+  "description": "A classic Spanish dish made with succulent shrimp, garlic, and olive oil. Serve with crusty bread or over rice for a flavorful meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "Gluten-Free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garlic Shrimp (Gambas al Ajillo)",
+      "amount": "12 large shrimp",
+      "notes": ""
+    },
+    {
+      "name": "Spanish Olive Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Velvety Red Pepper",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Soft Crusty Bread",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Spanish Al Ajillo Seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Wedges",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced red peppers and cook for 3-4 minutes, until tender.",
+    "Add the garlic shrimp and cook for 2-3 minutes per side, until pink and cooked through.",
+    "Sprinkle with Spanish Al Ajillo seasoning and season with salt to taste.",
+    "Serve immediately, garnished with fresh parsley and lemon wedges.",
+    "Serve with crusty bread on the side for sopping up the flavorful sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "garlic",
+    "shrimp",
+    "seafood",
+    "easy dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-soft-spanish-shrimp-gambas-al-ajillo",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T01:01:43.823Z"
+}
