@@ -1,0 +1,60 @@
+{
+  "slug": "velvety-indian-mustard-seeds-mustard-korma-fondue-pot",
+  "title": "Creamy Indian Pot Fondue",
+  "description": "A rich and creamy fondue dish that combines the flavors of India with the comfort of a pot of fondue. Serve with an assortment of vegetables and bread for a fun and interactive dining experience.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mustard Seeds",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Fondue",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Korma",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Velvety",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Pot",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Heat the fondue in a pot over medium heat.",
+    "Add the mustard seeds and let them sizzle for 1-2 minutes.",
+    "Add the korma and velvety to the pot and stir until well combined.",
+    "Reduce heat to low and let simmer for 5-7 minutes.",
+    "Serve the fondue hot with an assortment of vegetables and bread.",
+    "Enjoy the creamy and flavorful fondue!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 17,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "indian-fondue",
+    "vegetarian-fondue",
+    "creamy-fondue"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-indian-mustard-seeds-mustard-korma-fondue-pot",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-29T22:44:34.572Z"
+}
