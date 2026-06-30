@@ -1,0 +1,108 @@
+{
+  "slug": "velvety-nutty-egyptian-lamb-biryani",
+  "title": "Spiced Lamb Biryani",
+  "description": "A flavorful and aromatic lamb biryani with a nutty twist, perfect for a special occasion.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "meat",
+    "lactose",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g",
+      "notes": "Boneless and cut into small pieces"
+    },
+    {
+      "name": "Egyptian Rice",
+      "amount": "1 cup",
+      "notes": "Long-grain rice"
+    },
+    {
+      "name": "Velvety Basmati Rice",
+      "amount": "1 cup",
+      "notes": "For serving"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ground Cumin",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Ground Coriander",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Lamb Biryani Masala",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and cook until translucent.",
+    "Add garlic and cook for 1 minute.",
+    "Add lamb and cook until browned.",
+    "Add cumin, coriander, turmeric, and biryani masala. Cook for 1 minute.",
+    "Add rice and mix well.",
+    "Cook for 2 minutes.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low and cover with a lid.",
+    "Simmer for 15-20 minutes or until the rice is cooked.",
+    "Garnish with chopped cilantro and serve with velvety basmati rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "biriyani",
+    "middle-eastern",
+    "spiced"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-nutty-egyptian-lamb-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T04:26:49.585Z"
+}
