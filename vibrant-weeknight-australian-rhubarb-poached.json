@@ -1,0 +1,60 @@
+{
+  "slug": "vibrant-weeknight-australian-rhubarb-poached",
+  "title": "Australian Poached Rhubarb",
+  "description": "A sweet and tangy dessert that showcases the unique flavor of rhubarb, perfect for a weeknight treat. This recipe is a simple yet elegant way to enjoy the fresh flavors of the season.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "rhubarb",
+      "amount": "400g",
+      "notes": "fresh and trimmed"
+    },
+    {
+      "name": "sugar",
+      "amount": "100g",
+      "notes": "granulated"
+    },
+    {
+      "name": "water",
+      "amount": "200ml",
+      "notes": "filtered"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2tbsp",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Combine the rhubarb, sugar, water, and lemon juice in a saucepan.",
+    "Bring to a boil over medium heat, then reduce the heat to low and simmer for 10-12 minutes.",
+    "Use a slotted spoon to transfer the poached rhubarb to a serving dish.",
+    "Serve warm or chilled, garnished with a sprinkle of sugar if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "australian",
+    "poached",
+    "rhubarb",
+    "spring"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-weeknight-australian-rhubarb-poached",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T12:40:44.922Z"
+}
