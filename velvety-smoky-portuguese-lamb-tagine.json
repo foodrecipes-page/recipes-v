@@ -1,0 +1,101 @@
+{
+  "slug": "velvety-smoky-portuguese-lamb-tagine",
+  "title": "Lamb Tagine with Smoky Flair",
+  "description": "A traditional Portuguese-inspired tagine dish featuring tender lamb and rich smoky flavors.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 (1.5 kg)",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "smoky chipotle peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb pieces on all sides, then set aside.",
+    "Reduce heat to medium and sauté the onion and smoked peppers until softened.",
+    "Add garlic and cook for 1 minute.",
+    "Stir in tomato paste, cumin, cinnamon, salt, and pepper. Cook for 1-2 minutes.",
+    "Add the chicken broth and honey. Stir to combine.",
+    "Return the lamb to the pot and bring to a boil.",
+    "Cover the pot and transfer to the oven. Braise at 300°F (150°C) for 2-3 hours.",
+    "Remove from the oven and let rest for 10 minutes.",
+    "Serve hot, garnished with fresh cilantro (optional)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "portuguese",
+    "smoky",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 24,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-smoky-portuguese-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T09:33:20.479Z"
+}
