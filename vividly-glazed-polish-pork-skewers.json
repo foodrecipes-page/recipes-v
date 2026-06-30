@@ -1,0 +1,86 @@
+{
+  "slug": "vividly-glazed-polish-pork-skewers",
+  "title": "Polish Pork Skewers with Glazed Onions",
+  "description": "A delicious and easy-to-make dish featuring pork skewers with a sweet and sticky glaze made from onions. Perfect for a quick dinner or barbecue.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder, cut into 1-inch cubes",
+      "amount": "500g",
+      "notes": "cut into uniform pieces for even cooking"
+    },
+    {
+      "name": "glazed onions",
+      "amount": "200g",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "polish sausage, sliced",
+      "amount": "200g",
+      "notes": "optional, but adds flavor and texture"
+    },
+    {
+      "name": "vividly colored bell peppers",
+      "amount": "2",
+      "notes": "any color, sliced"
+    },
+    {
+      "name": "skewers",
+      "amount": "10",
+      "notes": "soak in water for at least 30 minutes before use"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing skewers before cooking"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": "optional, but adds depth of flavor"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Thread pork, sausage (if using), bell peppers, and onions onto skewers, leaving space between each piece.",
+    "3. Brush skewers with olive oil and season with salt, pepper, and garlic powder (if using).",
+    "4. Grill skewers for 8-10 minutes, turning occasionally, or until pork is cooked through and slightly charred.",
+    "5. Meanwhile, heat glaze in a small saucepan over medium heat until warm and bubbly.",
+    "6. Brush glaze over skewers during last 2 minutes of cooking.",
+    "7. Remove skewers from grill and let rest for 2-3 minutes before serving.",
+    "8. Serve hot, garnished with fresh parsley or thyme (if desired)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "polish",
+    "barbecue",
+    "pork",
+    "skewers",
+    "glazed",
+    "onions"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vividly-glazed-polish-pork-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T06:26:07.826Z"
+}
