@@ -1,0 +1,64 @@
+{
+  "slug": "velvety-tangy-ukrainian-sirloin-kebabs",
+  "title": "Sirloin Kebabs with Ukrainian Twist",
+  "description": "A hearty and flavorful sirloin kebab recipe with a tangy Ukrainian twist, featuring a velvety sauce.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sirloin steak",
+      "amount": "500g"
+    },
+    {
+      "name": "Vegetables (bell peppers, onions, mushrooms)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Ukrainian kebab sauce (tangy)",
+      "amount": "250ml",
+      "notes": "Available in most Eastern European stores"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the grill to medium-high heat.",
+    "2. Cut the sirloin steak into 1-inch cubes.",
+    "3. Thread the sirloin cubes, vegetables, and Ukrainian kebab sauce onto skewers.",
+    "4. Brush the kebabs with olive oil and season with salt and pepper.",
+    "5. Grill the kebabs for 8-10 minutes, turning occasionally.",
+    "6. Meanwhile, heat the remaining Ukrainian kebab sauce in a saucepan over low heat.",
+    "7. Serve the grilled kebabs with the warm Ukrainian kebab sauce.",
+    "8. Garnish with fresh parsley or dill, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebab",
+    "sirloin",
+    "ukrainian",
+    "grilling"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-tangy-ukrainian-sirloin-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T00:55:22.540Z"
+}
