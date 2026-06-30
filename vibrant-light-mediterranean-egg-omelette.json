@@ -1,0 +1,67 @@
+{
+  "slug": "vibrant-light-mediterranean-egg-omelette",
+  "title": "Mediterranean Omelette",
+  "description": "A flavorful and light omelette filled with the taste of the Mediterranean, perfect for any meal. This dish is packed with protein and can be made in under 20 minutes.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Vibrant Egg",
+      "amount": "4",
+      "notes": "Large eggs, separated"
+    },
+    {
+      "name": "Mediterranean Omelette Spice Mix",
+      "amount": "1 tsp",
+      "notes": "A blend of herbs and spices found in mediterranean cuisine"
+    },
+    {
+      "name": "Light Feta Cheese",
+      "amount": "2 tbsp",
+      "notes": "Crumbly feta cheese for added protein and flavor"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1 tsp",
+      "notes": "Chopped parsley for garnish"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced garlic for added flavor"
+    }
+  ],
+  "instructions": [
+    "1. Crack the eggs into a bowl and whisk them together. Add the mediterranean omelette spice mix and mix well.",
+    "2. Heat a non-stick pan over medium heat and add a small amount of oil.",
+    "3. Pour the egg mixture into the pan and let it cook for 2-3 minutes.",
+    "4. Sprinkle the crumbled feta cheese over half of the omelette.",
+    "5. Use a spatula to gently fold the other half of the omelette over the feta cheese.",
+    "6. Cook for an additional 2-3 minutes or until the cheese is melted and the eggs are cooked through.",
+    "7. Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "omelette",
+    "mediterranean",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 6,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-light-mediterranean-egg-omelette",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T03:00:12.522Z"
+}
