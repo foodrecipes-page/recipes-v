@@ -8459,13 +8459,11 @@
   },
   {
     "slug": "vibrant-indian-tomato-curry",
-    "title": "Vibrant Indian Tomato Curry",
+    "title": "Indian-Style Tomato Curry",
     "tags": [
-      "curry",
       "indian",
-      "ovo-vegetarian",
-      "tomato",
-      "weeknight"
+      "curry",
+      "tomato"
     ],
     "cuisine": "Indian",
     "totalTimeMin": 30,
@@ -10661,16 +10659,16 @@
   },
   {
     "slug": "vibrant-weeknight-australian-rhubarb-poached",
-    "title": "Vibrant Weeknight Australian Rhubarb Poached",
+    "title": "Australian Poached Rhubarb",
     "tags": [
-      "australian",
       "dessert",
+      "australian",
       "poached",
       "rhubarb",
-      "weeknight"
+      "spring"
     ],
     "cuisine": "australian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
