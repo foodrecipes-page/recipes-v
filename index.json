@@ -4120,10 +4120,15 @@
   },
   {
     "slug": "velvety-nutty-egyptian-lamb-biryani",
-    "title": "Velvety Nutty Egyptian Lamb Biryani",
-    "tags": [],
-    "cuisine": "Egyptian",
-    "totalTimeMin": null,
+    "title": "Spiced Lamb Biryani",
+    "tags": [
+      "lamb",
+      "biriyani",
+      "middle-eastern",
+      "spiced"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 40,
     "shard": "v"
   },
   {
