@@ -1,0 +1,64 @@
+{
+  "slug": "velvety-umami-dark-soft-brown-sugar-stir-fry",
+  "title": "Umami Stir Fry Delight",
+  "description": "A simple and satisfying stir fry recipe combining sweet and savory flavors. This dish can be prepared quickly and is perfect for a weeknight dinner.",
+  "cuisine": "Asian-Inspired",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dark brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Umami stir-fry sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soft brown mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Velvety soft tofu",
+      "amount": "1/2 cup",
+      "notes": "cubed"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a pan over medium-high heat.",
+    "Add the sliced mushrooms and cook until they start to soften, about 2 minutes.",
+    "Add the cubed tofu and cook for another minute, until lightly browned.",
+    "Add the brown sugar, umami stir-fry sauce, and stir-fry until well combined.",
+    "Cook for an additional 2-3 minutes, until the sauce has thickened.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "vegetarian",
+    "gluten-free",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-umami-dark-soft-brown-sugar-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T03:23:27.708Z"
+}
