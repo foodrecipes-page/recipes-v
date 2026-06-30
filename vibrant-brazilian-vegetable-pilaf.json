@@ -1,0 +1,74 @@
+{
+  "slug": "vibrant-brazilian-vegetable-pilaf",
+  "title": "Vibrant Brazilian Pilaf",
+  "description": "A colorful and flavorful Brazilian-inspired pilaf dish, perfect for a weeknight dinner.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Green beans",
+      "amount": "1 cup, trimmed and cut",
+      "notes": ""
+    },
+    {
+      "name": "Vibrant rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Brazilian-style seasoning",
+      "amount": "1 tsp",
+      "notes": "Available at most grocery stores or online"
+    },
+    {
+      "name": "Pilaf seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a large skillet over medium-high heat.",
+    "Add the red bell pepper and cook for 3-4 minutes, until tender.",
+    "Add the yellow onion and cook for an additional 2-3 minutes.",
+    "Add the green beans and cook for 2-3 minutes, until tender.",
+    "Add the vibrant rice, Brazilian-style seasoning, and pilaf seasoning to the skillet.",
+    "Stir to combine and cook for 1-2 minutes.",
+    "Add 2 cups of water to the skillet and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes, or until the water is absorbed and the rice is tender.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pilaf",
+    "brazilian",
+    "vegetarian",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-brazilian-vegetable-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T02:45:19.993Z"
+}
