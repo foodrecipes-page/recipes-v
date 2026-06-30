@@ -1,0 +1,71 @@
+{
+  "slug": "velvety-malaysian-rice-pudding",
+  "title": "Malaysian Rice Pudding",
+  "description": "A creamy and comforting dessert inspired by Malaysian cuisine. Made with rice, pudding mix, and a touch of velvety coconut milk.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Pudding Mix",
+      "amount": "1 packet",
+      "notes": "vanilla flavor"
+    },
+    {
+      "name": "Velvety Coconut Milk",
+      "amount": "1/2 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine the rice, pudding mix, sugar, and salt. Whisk until well combined.",
+    "Add in the melted butter and velvety coconut milk. Whisk until smooth.",
+    "Cook over medium heat, stirring constantly, until the mixture thickens and comes to a boil.",
+    "Reduce heat to low and simmer for 5 minutes, or until the pudding has reached desired consistency.",
+    "Remove from heat and let cool to room temperature.",
+    "Cover and refrigerate for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "malaysian",
+    "dessert",
+    "pudding",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-malaysian-rice-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T11:37:36.914Z"
+}
