@@ -4479,17 +4479,15 @@
   },
   {
     "slug": "velvety-rich-algerian-lemongrass-tagine",
-    "title": "Velvety Rich Algerian Lemongrass Tagine",
+    "title": "Lemongrass Chicken Tagine",
     "tags": [
-      "algerian-cuisine",
-      "chickpeas",
-      "comfort-food",
-      "lemongrass",
-      "one-pot",
-      "plant-based"
+      "lemon-garlic",
+      "chicken",
+      "tagine",
+      "moroccan"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 40,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 45,
     "shard": "v"
   },
   {
@@ -5249,16 +5247,14 @@
   },
   {
     "slug": "velvety-smoky-brazilian-cheese-skewers",
-    "title": "Velvety Smoky Brazilian Cheese Skewers",
+    "title": "Brazilian Smoked Cheese Skewers",
     "tags": [
-      "brazilian-cuisine",
-      "cheese-recipes",
-      "grilled-cheese",
-      "romantic-dinner",
-      "smoky-flavors"
+      "brazilian",
+      "cheese",
+      "appetizer"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 16,
     "shard": "v"
   },
   {
@@ -5334,16 +5330,16 @@
   },
   {
     "slug": "velvety-smoky-portuguese-lamb-tagine",
-    "title": "Velvety Smoky Portuguese Lamb Tagine",
+    "title": "Lamb Tagine with Smoky Flair",
     "tags": [
-      "lamb-recipes",
-      "one-pot-meals",
-      "portuguese-cuisine",
-      "slow-cooked",
-      "smoky-flavors"
+      "lamb",
+      "tagine",
+      "portuguese",
+      "smoky",
+      "meat"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 210,
+    "totalTimeMin": 135,
     "shard": "v"
   },
   {
