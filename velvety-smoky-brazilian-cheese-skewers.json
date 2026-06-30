@@ -1,0 +1,69 @@
+{
+  "slug": "velvety-smoky-brazilian-cheese-skewers",
+  "title": "Brazilian Smoked Cheese Skewers",
+  "description": "A delicious and easy-to-make appetizer that combines the flavors of Brazil with the richness of cheese. These skewers are perfect for a quick snack or a party.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cheese",
+      "amount": "1 cup, shredded",
+      "notes": null
+    },
+    {
+      "name": "Velvety Cheese Sauce",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Smoked Cheese",
+      "amount": "1/4 cup, shredded",
+      "notes": null
+    },
+    {
+      "name": "Brazilian Skewers",
+      "amount": "12",
+      "notes": null
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Thread cheese, velvety cheese sauce, and smoked cheese onto skewers.",
+    "3. Brush skewers with a little bit of oil and season with salt and pepper.",
+    "4. Grill skewers for 2-3 minutes per side, or until cheese is melted and slightly charred.",
+    "5. Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "cheese",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-smoky-brazilian-cheese-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T08:45:19.308Z"
+}
