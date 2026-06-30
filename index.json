@@ -3635,18 +3635,15 @@
   },
   {
     "slug": "velvety-malaysian-rice-pudding",
-    "title": "Velvety Malaysian Rice Pudding",
+    "title": "Malaysian Rice Pudding",
     "tags": [
-      "dessert",
-      "vegan",
       "malaysian",
-      "lazy-sunday",
-      "floral",
-      "coconut",
-      "pudding"
+      "dessert",
+      "pudding",
+      "rice"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 35,
+    "cuisine": "malaysian",
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
