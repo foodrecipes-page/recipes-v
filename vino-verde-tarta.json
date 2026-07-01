@@ -1,0 +1,77 @@
+{
+  "slug": "vino-verde-tarta",
+  "title": "Vino Verde Tarta",
+  "description": "A tangy and flaky pastry filled with a refreshing vino verde and verde sauce, topped with a sweet tarta crumble.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Vino Verde",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Verde",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Tarta",
+      "amount": "1 cup"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Cold unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium bowl, whisk together flour, sugar, and salt.",
+    "Add cold butter and use a pastry blender or your fingers to work it into the flour mixture until it resembles coarse crumbs.",
+    "Press dough into a 9-inch tart pan with a removable bottom.",
+    "In a separate bowl, whisk together vino verde, verde, and egg.",
+    "Pour the filling into the tart shell.",
+    "Top with tarta crumble.",
+    "Bake for 40-45 minutes, or until the crust is golden brown and the filling is set.",
+    "Let cool completely before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "dessert",
+    "tart",
+    "pastry",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vino-verde-tarta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T22:09:04.238Z"
+}
