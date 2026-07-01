@@ -1,0 +1,84 @@
+{
+  "slug": "velvety-fermented-malaysian-vegetable-stock-tagine",
+  "title": "Malaysian Vegetable Tagine",
+  "description": "A flavorful and aromatic stew originating from Malaysia, made with tender vegetables and a blend of spices.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "vegetable tagine",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "fermented vegetable",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "stock",
+      "amount": "2 cups",
+      "notes": "vegetable"
+    },
+    {
+      "name": "velvety coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion, garlic, and ginger; sauté until softened.",
+    "Add fermented vegetable and cook for 2 minutes.",
+    "Add stock and bring to a boil.",
+    "Reduce heat and simmer for 10 minutes.",
+    "Stir in coconut milk and spinach.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "vegetarian",
+    "stew",
+    "vegetable"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-fermented-malaysian-vegetable-stock-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:43:48.006Z"
+}
