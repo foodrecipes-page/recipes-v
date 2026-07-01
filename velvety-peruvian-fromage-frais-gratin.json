@@ -1,0 +1,67 @@
+{
+  "slug": "velvety-peruvian-fromage-frais-gratin",
+  "title": "Creamy Peruvian-Style Gratin",
+  "description": "A rich and creamy gratin infused with Peruvian flavors.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Peruvian",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Gratin",
+      "amount": "1 cup, shredded",
+      "notes": null
+    },
+    {
+      "name": "Fromage",
+      "amount": "1 cup, shredded",
+      "notes": null
+    },
+    {
+      "name": "Frais",
+      "amount": "1 cup, crumbled",
+      "notes": "softened to room temperature"
+    },
+    {
+      "name": "Velvety",
+      "amount": "1/2 cup, heavy cream",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium saucepan, heat the Peruvian for 1 minute.",
+    "In a separate saucepan, melt the Fromage over low heat.",
+    "In a large mixing bowl, combine the Gratin, Frais, and Velvety.",
+    "Add the melted Fromage and mixed Peruvian to the bowl and stir until well combined.",
+    "Transfer the mixture to a 9x13 inch baking dish and top with additional Fromage if desired.",
+    "Bake for 20-25 minutes, or until the top is golden brown and the gratin is heated through.",
+    "Serve hot, garnished with additional Frais if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gratin",
+    "cream",
+    "peruvian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-peruvian-fromage-frais-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T17:09:13.735Z"
+}
