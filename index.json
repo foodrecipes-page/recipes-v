@@ -7651,16 +7651,15 @@
   },
   {
     "slug": "vibrant-crunchy-italian-chuck-roast-trofie",
-    "title": "Vibrant Crunchy Italian Chuck Roast Trofie",
+    "title": "Roast Chuck with Roasted Vegetables",
     "tags": [
-      "comfort-food",
-      "italian-food",
-      "one-pot",
-      "paleo-diet",
-      "slow-cooker"
+      "italian",
+      "meat",
+      "pasta",
+      "roast"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 180,
+    "cuisine": "italian",
+    "totalTimeMin": 190,
     "shard": "v"
   },
   {
@@ -10552,17 +10551,15 @@
   },
   {
     "slug": "vibrant-vegan-mincemeat-pinakbet",
-    "title": "vibrant vegan mincemeat pinakbet",
+    "title": "Vegan Pinakbet Stuffed Mini Meatballs",
     "tags": [
-      "citrusy",
-      "filipino",
-      "kid-friendly",
-      "one-pan",
       "vegan",
-      "weeknight"
+      "filipino",
+      "meatless",
+      "pinakbet"
     ],
-    "cuisine": "filipino",
-    "totalTimeMin": 50,
+    "cuisine": "Filipino",
+    "totalTimeMin": 30,
     "shard": "v"
   },
   {
