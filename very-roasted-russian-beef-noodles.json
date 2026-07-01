@@ -1,0 +1,89 @@
+{
+  "slug": "very-roasted-russian-beef-noodles",
+  "title": "Beef Stroganoff",
+  "description": "A classic russian dish made with sautéed beef, mushrooms, and a creamy sauce, served over egg noodles. This recipe is a hearty and flavorful take on a beloved comfort food.",
+  "cuisine": "russian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 ounces",
+      "notes": "egg noodles"
+    },
+    {
+      "name": "roasted mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "very butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for thickening"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": "or half-and-half"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the noodles according to package instructions. Reserve 1 cup of pasta water before draining.",
+    "In a large skillet, melt 1 tablespoon of butter over medium-high heat. Add the beef and cook until browned, about 3-4 minutes. Remove from heat and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of butter. Add the mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Sprinkle the flour over the mushrooms and cook for 1 minute, stirring constantly.",
+    "Gradually pour in the beef broth, whisking continuously to avoid lumps. Bring the mixture to a simmer and cook until it thickens, about 2-3 minutes.",
+    "Stir in the heavy cream, Dijon mustard, and cooked beef. Season with salt and pepper to taste.",
+    "Add the cooked noodles to the skillet, tossing to coat with the sauce. If the sauce seems too thick, add a little of the reserved pasta water.",
+    "Serve the beef stroganoff hot, garnished with chopped parsley if desired.",
+    "Cooking time will be shorter if using a pressure cooker. Cooking time will be longer if using a slow cooker.",
+    "To serve, divide the noodles among individual plates and top with the beef and sauce. Garnish with parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "russian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 44,
+    "fat": 26
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/very-roasted-russian-beef-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T17:27:17.790Z"
+}
