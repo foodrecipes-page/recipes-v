@@ -2389,16 +2389,15 @@
   },
   {
     "slug": "velvety-fermented-malaysian-vegetable-stock-tagine",
-    "title": "Velvety Fermented Malaysian Vegetable Stock Tagine",
+    "title": "Malaysian Vegetable Tagine",
     "tags": [
-      "fermented",
-      "gluten-free",
       "malaysian",
-      "vegan",
-      "weeknight"
+      "vegetarian",
+      "stew",
+      "vegetable"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 65,
+    "cuisine": "malaysian",
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
@@ -3345,17 +3344,15 @@
   },
   {
     "slug": "velvety-juicy-thai-tofu-khanom-krok",
-    "title": "Velvety Juicy Thai Tofu Khanom Krok",
+    "title": "Thai Krok Pancake with Sweet Velvety Sauce",
     "tags": [
-      "cazuela",
-      "lacto-vegetarian",
-      "one-pan",
-      "post-workout",
-      "slow-cooked",
-      "thai-cuisine"
+      "thai",
+      "dessert",
+      "pancake",
+      "sweet"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 70,
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
