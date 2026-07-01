@@ -343,16 +343,15 @@
   },
   {
     "slug": "vegan-german-eggs-quiche",
-    "title": "Vegan German Eggs Quiche",
+    "title": "German Quiche",
     "tags": [
-      "breakfast",
-      "gluten-free",
-      "one-pan",
+      "german",
+      "quiche",
       "vegan",
-      "weeknight"
+      "breakfast"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 70,
+    "cuisine": "german",
+    "totalTimeMin": 55,
     "shard": "v"
   },
   {
@@ -4789,17 +4788,16 @@
   },
   {
     "slug": "velvety-salty-british-paccheri-pasta",
-    "title": "Velvety Salty British Paccheri Pasta",
+    "title": "Paccheri alla Carbonara",
     "tags": [
-      "british",
-      "paccheri",
-      "low-fat",
-      "tadka",
+      "italian",
       "pasta",
-      "velvety",
-      "salty"
+      "carbonara",
+      "bacon",
+      "parmesan",
+      "eggs"
     ],
-    "cuisine": "British",
+    "cuisine": "italian",
     "totalTimeMin": 25,
     "shard": "v"
   },
@@ -4843,15 +4841,14 @@
   },
   {
     "slug": "velvety-salty-petit-pois-soup",
-    "title": "Velvety Salty Petit pois Soup",
+    "title": "Creamy Pea and Petit Soup",
     "tags": [
-      "ukrainian-recipe",
-      "salty-petit-pois-soup",
-      "low-fat-friendly",
-      "quick-dinner"
+      "soup",
+      "comfort-food",
+      "easy"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 50,
+    "cuisine": "French",
+    "totalTimeMin": 15,
     "shard": "v"
   },
   {
@@ -10889,13 +10886,14 @@
     "slug": "vino-verde-tarta",
     "title": "Vino Verde Tarta",
     "tags": [
-      "vino-verde",
-      "tarta",
-      "vegan",
-      "dessert"
+      "spanish",
+      "dessert",
+      "tart",
+      "pastry",
+      "crumble"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 45,
+    "cuisine": "Spanish",
+    "totalTimeMin": 60,
     "shard": "v"
   },
   {
