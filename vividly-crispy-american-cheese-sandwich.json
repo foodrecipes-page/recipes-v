@@ -1,0 +1,67 @@
+{
+  "slug": "vividly-crispy-american-cheese-sandwich",
+  "title": "Crispy American Cheese Sandwich",
+  "description": "A classic comfort food made with crispy bread and melted American cheese. Perfect for a quick snack or lunch.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "American cheese slices",
+      "amount": "4 slices"
+    },
+    {
+      "name": "White bread",
+      "amount": "2 slices",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Optional: lettuce, tomato, or pickles",
+      "amount": "",
+      "notes": "add your favorite toppings"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "Butter one side of each bread slice.",
+    "Place one bread slice, buttered side down, in the skillet.",
+    "Top with a slice of cheese, a lettuce leaf, a tomato slice, and/or a few pickle slices (if using).",
+    "Place the second bread slice, buttered side up, on top of the filling.",
+    "Cook for 2-3 minutes or until the bread is golden brown and the cheese is melted.",
+    "Carefully flip the sandwich over and cook for an additional 2-3 minutes or until the other side is also golden brown.",
+    "Remove from heat and let cool for a minute or two before serving.",
+    "Cut the sandwich in half and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 4,
+  "totalTimeMin": 9,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "comfort-food",
+    "cheese",
+    "sandwich"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vividly-crispy-american-cheese-sandwich",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T17:42:44.767Z"
+}
