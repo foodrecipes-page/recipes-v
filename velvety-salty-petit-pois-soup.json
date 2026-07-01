@@ -1,0 +1,61 @@
+{
+  "slug": "velvety-salty-petit-pois-soup",
+  "title": "Creamy Pea and Petit Soup",
+  "description": "A comforting and flavorful soup made with petit pois and a touch of saltiness from velvety cheese.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "petit pois",
+      "amount": "250g"
+    },
+    {
+      "name": "velvety cheese",
+      "amount": "100g",
+      "notes": "shredded"
+    },
+    {
+      "name": "salty butter",
+      "amount": "20g"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Melt the salty butter in a large saucepan over medium heat.",
+    "Add the petit pois and cook for 3-4 minutes, or until tender.",
+    "Stir in the velvety cheese until melted and well combined.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with additional petit pois if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soup",
+    "comfort-food",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-salty-petit-pois-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T22:18:26.944Z"
+}
