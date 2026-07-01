@@ -1,0 +1,78 @@
+{
+  "slug": "velvety-juicy-thai-tofu-khanom-krok",
+  "title": "Thai Krok Pancake with Sweet Velvety Sauce",
+  "description": "A crispy and sweet Thai pancake recipe filled with juicy khanom and topped with a velvety sauce, perfect for a dessert or snack.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "khanom",
+      "amount": "250g",
+      "notes": "Grated"
+    },
+    {
+      "name": "tapioca flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "krok",
+      "amount": "6 pieces",
+      "notes": "Melted in the sauce"
+    },
+    {
+      "name": "velvety sauce",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine khanom, tapioca flour, coconut milk, maple syrup, and vanilla extract. Mix well until a smooth batter forms.",
+    "Heat a non-stick pan or a krok mold over medium heat.",
+    "Pour the batter into the pan or mold, and cook for 2-3 minutes or until the edges start to curl.",
+    "Flip the pancake and cook for another 2 minutes or until golden brown.",
+    "In a separate pan, melt the krok pieces over low heat.",
+    "Add the velvety sauce to the pan and stir until combined.",
+    "Serve the Thai krok pancake with the sweet velvety sauce.",
+    "Enjoy your crispy and sweet Thai pancake!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "dessert",
+    "pancake",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-juicy-thai-tofu-khanom-krok",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T15:01:24.181Z"
+}
