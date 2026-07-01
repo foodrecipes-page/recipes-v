@@ -4268,16 +4268,14 @@
   },
   {
     "slug": "velvety-peruvian-fromage-frais-gratin",
-    "title": "Velvety Peruvian Fromage Frais Gratin",
+    "title": "Creamy Peruvian-Style Gratin",
     "tags": [
-      "dairy-free",
-      "kid-friendly",
-      "one-pan",
-      "peruvian",
-      "weeknight"
+      "gratin",
+      "cream",
+      "peruvian"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
@@ -6865,17 +6863,14 @@
   },
   {
     "slug": "very-roasted-russian-beef-noodles",
-    "title": "Very Roasted Russian Beef Noodles",
+    "title": "Beef Stroganoff",
     "tags": [
-      "comfort-food",
-      "hearty-meal",
-      "one-pot",
-      "raw-friendly",
-      "russian-cuisine",
-      "weeknight-dinner"
+      "beef",
+      "russian",
+      "comfort-food"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 210,
+    "cuisine": "russian",
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
@@ -9000,19 +8995,15 @@
   },
   {
     "slug": "vibrant-mexican-avocado-toast",
-    "title": "Vibrant Mexican Avocado Toast",
+    "title": "Avocado Toast",
     "tags": [
-      "cedar-plank",
-      "diabetic-friendly",
-      "fruit-based",
-      "high-fiber",
-      "mexican",
-      "no-bake",
-      "quick",
-      "vegan"
+      "breakfast",
+      "snack",
+      "avocado",
+      "mexican"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 25,
+    "cuisine": "mexican",
+    "totalTimeMin": 7,
     "shard": "v"
   },
   {
@@ -11195,16 +11186,15 @@
   },
   {
     "slug": "vividly-crispy-american-cheese-sandwich",
-    "title": "Vividly Crispy American Cheese Sandwich",
+    "title": "Crispy American Cheese Sandwich",
     "tags": [
-      "american-classic",
+      "american",
       "comfort-food",
-      "grilled-cheese",
-      "lazy-sunday",
-      "vegetarian"
+      "cheese",
+      "sandwich"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 16,
+    "cuisine": "american",
+    "totalTimeMin": 9,
     "shard": "v"
   },
   {
