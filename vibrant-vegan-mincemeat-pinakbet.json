@@ -1,0 +1,78 @@
+{
+  "slug": "vibrant-vegan-mincemeat-pinakbet",
+  "title": "Vegan Pinakbet Stuffed Mini Meatballs",
+  "description": "A fusion of Filipino flavors, this dish combines the savory taste of pinakbet with the convenience of mini meatballs. Perfect for a quick and easy dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Vegan mincemeat",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pinakbet",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegan breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a food processor, crumble the tofu and mincemeat until well combined.",
+    "Add the pinakbet, breadcrumbs, olive oil, salt, and pepper to the processor.",
+    "Process until a dough forms.",
+    "Use a small cookie scoop to form the dough into mini meatballs.",
+    "Place the meatballs on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes or until the meatballs are lightly browned.",
+    "Serve hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "filipino",
+    "meatless",
+    "pinakbet"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 15,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-vegan-mincemeat-pinakbet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T15:18:40.875Z"
+}
