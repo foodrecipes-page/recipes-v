@@ -1,0 +1,80 @@
+{
+  "slug": "velvety-salty-british-paccheri-pasta",
+  "title": "Paccheri alla Carbonara",
+  "description": "A classic Italian pasta dish made with paccheri pasta, a rich and creamy sauce, and a hint of salty flavor.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "paccheri pasta",
+      "amount": "12 oz",
+      "notes": "preferably british-made"
+    },
+    {
+      "name": "velvety bacon fat",
+      "amount": "2 tbsp",
+      "notes": "from 4 slices of cooked bacon"
+    },
+    {
+      "name": "salty parmesan cheese",
+      "amount": "1 cup",
+      "notes": "grated and freshly shredded"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook paccheri pasta according to package instructions.",
+    "In a large skillet, heat velvety bacon fat over medium heat.",
+    "Add grated parmesan cheese to the skillet and cook, stirring constantly, until the cheese is melted and slightly browned.",
+    "In a medium bowl, whisk together eggs and a pinch of salt.",
+    "Add the cooked paccheri pasta to the bowl and toss with the egg mixture until well combined.",
+    "Add the melted parmesan cheese to the bowl and toss until the pasta is well coated.",
+    "Season with freshly ground pepper to taste.",
+    "Serve immediately, garnished with chopped fresh parsley if desired.",
+    "Optional: add some crispy cooked bacon on top for an extra salty kick."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pasta",
+    "carbonara",
+    "bacon",
+    "parmesan",
+    "eggs"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-salty-british-paccheri-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T23:15:45.746Z"
+}
