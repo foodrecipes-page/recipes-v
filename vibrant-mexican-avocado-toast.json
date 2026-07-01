@@ -1,0 +1,59 @@
+{
+  "slug": "vibrant-mexican-avocado-toast",
+  "title": "Avocado Toast",
+  "description": "A simple and delicious breakfast or snack option, perfect for a quick morning pick-me-up.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Whole Wheat Bread",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "Avocado",
+      "amount": "1",
+      "notes": "ripe"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Toast the bread until lightly browned.",
+    "Mash the avocado in a bowl until it's smooth.",
+    "Add salt to the avocado and mix well.",
+    "Squeeze lime juice over the avocado and mix again.",
+    "Spread the avocado mixture on top of the toasted bread.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "snack",
+    "avocado",
+    "mexican"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-mexican-avocado-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T17:26:22.561Z"
+}
