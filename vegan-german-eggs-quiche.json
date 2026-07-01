@@ -1,0 +1,89 @@
+{
+  "slug": "vegan-german-eggs-quiche",
+  "title": "German Quiche",
+  "description": "A German-inspired quiche made with eggs, sautéed vegetables, and vegan sausage.",
+  "cuisine": "german",
+  "diet": [
+    "vegan",
+    "eggs"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Vegan sausage",
+      "amount": "1 package",
+      "notes": "such as Tofurky or Field Roast"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Eggs",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "Vegan milk",
+      "amount": "1 1/2 cups",
+      "notes": "such as soy or almond milk"
+    },
+    {
+      "name": "Vegan cheese shreds",
+      "amount": "1 cup",
+      "notes": "such as Daiya or Follow Your Heart"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the vegan sausage and slice it into thin strips.",
+    "Sauté the onions, bell peppers, and mushrooms in a little bit of oil until tender.",
+    "In a separate bowl, whisk together the eggs, vegan milk, and vegan cheese shreds.",
+    "Add the cooked sausage and vegetables to the egg mixture and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Pour the mixture into a pie crust and bake for 35-40 minutes, or until the quiche is set.",
+    "Let the quiche cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "quiche",
+    "vegan",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vegan-german-eggs-quiche",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T23:16:18.395Z"
+}
