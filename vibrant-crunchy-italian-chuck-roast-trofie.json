@@ -1,0 +1,86 @@
+{
+  "slug": "vibrant-crunchy-italian-chuck-roast-trofie",
+  "title": "Roast Chuck with Roasted Vegetables",
+  "description": "A hearty and flavorful dish featuring a slow-cooked roast chuck served with a variety of roasted vegetables.",
+  "cuisine": "italian",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chuck roast",
+      "amount": "1 (2-3 pound) piece",
+      "notes": null
+    },
+    {
+      "name": "trofie pasta",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "vibrant bell peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "crunchy carrots",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped (optional)",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 325°F (160°C).",
+    "Season the chuck roast with salt and black pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the chuck roast until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the roast to a large baking sheet and roast in the preheated oven for 2-1/2 hours, or until tender.",
+    "Toss the bell peppers and carrots with olive oil, salt, and black pepper on a baking sheet.",
+    "Roast in the preheated oven for 20-25 minutes, or until tender.",
+    "Cook the trofie pasta according to package instructions.",
+    "Slice the roast against the grain and serve with the roasted vegetables and pasta.",
+    "Garnish with chopped parsley, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 180,
+  "totalTimeMin": 190,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "meat",
+    "pasta",
+    "roast"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-crunchy-italian-chuck-roast-trofie",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T15:14:57.928Z"
+}
