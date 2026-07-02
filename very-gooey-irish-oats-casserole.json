@@ -1,0 +1,69 @@
+{
+  "slug": "very-gooey-irish-oats-casserole",
+  "title": "Irish Oat Casserole",
+  "description": "A hearty and comforting casserole made with Irish oats and gooey cheese.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Irish oats",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Gooey cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "In a large pot, bring 4 cups of water to a boil.",
+    "Add Irish oats and cook according to package instructions.",
+    "In a separate pan, melt vegetable oil over medium heat.",
+    "Add brown sugar and cinnamon; stir until sugar dissolves.",
+    "Add cooked oats to the pan with sugar mixture and stir well.",
+    "Transfer oats mixture to a 9x13 inch baking dish.",
+    "Sprinkle gooey cheese on top of the oats mixture.",
+    "Bake for 20-25 minutes or until the cheese is melted and bubbly.",
+    "Remove from oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "casserole",
+    "irish",
+    "oats"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/very-gooey-irish-oats-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T08:02:11.617Z"
+}
