@@ -4095,16 +4095,15 @@
   },
   {
     "slug": "velvety-nutty-bryndza-cheese-toast",
-    "title": "Velvety Nutty Bryndza Cheese Toast",
+    "title": "Bryndza Toasts",
     "tags": [
-      "nutty",
-      "velvety",
-      "bryndza cheese",
-      "malaysian",
-      "toasted"
+      "bryndza",
+      "cheese",
+      "toast",
+      "snack"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 5,
+    "cuisine": "Eastern European",
+    "totalTimeMin": 12,
     "shard": "v"
   },
   {
@@ -5752,17 +5751,16 @@
   },
   {
     "slug": "velvety-sweet-algerian-date-tagine",
-    "title": "Velvety Sweet Algerian Date Tagine",
+    "title": "Algerian Date Tagine",
     "tags": [
-      "algerian-cuisine",
-      "chocolate-dishes",
-      "date-recipes",
-      "gluten-free",
-      "special-occasion",
-      "vegetarian-desserts"
+      "algerian",
+      "date",
+      "tagine",
+      "stew",
+      "north-african"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 50,
+    "cuisine": "North African",
+    "totalTimeMin": 30,
     "shard": "v"
   },
   {
