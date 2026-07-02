@@ -929,15 +929,15 @@
   },
   {
     "slug": "velvety-almond-turkish-stir-fry",
-    "title": "Velvety Almond Turkish Stir-fry",
+    "title": "Turkish Delight Stir Fry",
     "tags": [
       "turkish",
-      "velvety",
-      "nutty",
-      "post-workout"
+      "dessert",
+      "sauce",
+      "snack"
     ],
-    "cuisine": "Turkish",
-    "totalTimeMin": 55,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
@@ -2755,17 +2755,14 @@
   },
   {
     "slug": "velvety-golden-irish-potato-hash",
-    "title": "Velvety Golden Irish Potato Hash",
+    "title": "Golden Hash Browns with Irish Potato Cakes",
     "tags": [
-      "breakfast-recipes",
-      "hojicha-infused",
-      "irish-cuisine",
-      "kosher-friendly",
-      "potato-dishes",
-      "tava-griddle-recipes"
+      "breakfast",
+      "irish",
+      "potatoes"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 50,
+    "cuisine": "irish",
+    "totalTimeMin": 45,
     "shard": "v"
   },
   {
@@ -11335,17 +11332,14 @@
   },
   {
     "slug": "vividly-smoky-dutch-millet-pilaf",
-    "title": "Vividly Smoky Dutch Millet Pilaf",
+    "title": "Smoky Dutch Millet Pilaf",
     "tags": [
-      "comfort-food",
-      "dairy-free",
-      "easy-weeknight",
-      "one-pot",
-      "smoky",
-      "vegetarian"
+      "sides",
+      "pilaf",
+      "millet"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 45,
+    "cuisine": "Western",
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
