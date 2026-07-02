@@ -1,0 +1,90 @@
+{
+  "slug": "vibrant-garlicky-korean-snow-peas-stew",
+  "title": "Korean Stew with Snow Peas",
+  "description": "A flavorful and nutritious Korean-inspired stew made with snow peas and other wholesome ingredients.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Snow Peas",
+      "amount": "1 cup",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "1 tsp",
+      "notes": "Optional for some heat"
+    },
+    {
+      "name": "Vibrant Sesame Oil",
+      "amount": "2 tbsp",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp",
+      "notes": "Optional for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Heat the sesame oil in a large pan over medium heat.",
+    "2. Add the sliced ginger and cook for 1 minute.",
+    "3. Add the minced garlic and cook for another minute.",
+    "4. Add the Korean chili flakes and cook for 1 minute.",
+    "5. Add the snow peas, vegetable broth, soy sauce, and brown sugar.",
+    "6. Bring the mixture to a boil, then reduce the heat and simmer for 5 minutes.",
+    "7. Taste and adjust seasoning as needed.",
+    "8. Garnish with sesame seeds if desired.",
+    "9. Serve hot over rice or noodles.",
+    "10. Enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "stew",
+    "snow-peas",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-garlicky-korean-snow-peas-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T16:00:50.231Z"
+}
