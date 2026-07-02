@@ -1,0 +1,89 @@
+{
+  "slug": "vital-quick-british-turkey-ham-ploughmans",
+  "title": "Turkey and Ploughman's Ploughman's Ploughman's Ploughman's Ploughman's Ploughman's Ploughman's",
+  "description": "A hearty Ploughman's Ploughman's Ploughman's Ploughman's Ploughman's Ploughman's Ploughman's with a twist of turkey.",
+  "cuisine": null,
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Turkey Breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "4 slices",
+      "notes": null
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Tomato",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Ploughman's Pickle",
+      "amount": "4 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Ham",
+      "amount": "4 slices",
+      "notes": null
+    },
+    {
+      "name": "Crusty Bread",
+      "amount": "1 loaf",
+      "notes": null
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "4 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Slice the turkey breast into thin strips.",
+    "3. Grill or bake the turkey for 15-20 minutes or until cooked through.",
+    "4. Slice the cheddar cheese and arrange on a platter.",
+    "5. Add sliced cucumber, tomato, and onion to the platter.",
+    "6. Spread a layer of Ploughman's pickle on the bottom slice of bread.",
+    "7. Top the pickle with a slice of turkey, a slice of ham, and a slice of cheese.",
+    "8. Spread mayonnaise on the top slice of bread and place on top of the sandwich.",
+    "9. Repeat the layers two more times.",
+    "10. Cut into quarters and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "turkey",
+    "ham"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vital-quick-british-turkey-ham-ploughmans",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T05:34:48.839Z"
+}
