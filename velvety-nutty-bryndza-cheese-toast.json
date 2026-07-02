@@ -1,0 +1,58 @@
+{
+  "slug": "velvety-nutty-bryndza-cheese-toast",
+  "title": "Bryndza Toasts",
+  "description": "A simple snack combining the nutty flavors of bryndza cheese with crispy toast.",
+  "cuisine": "Eastern European",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bryndza Cheese",
+      "amount": "8 oz (225g)",
+      "notes": null
+    },
+    {
+      "name": "Toast",
+      "amount": "4 slices (60g each)",
+      "notes": null
+    },
+    {
+      "name": "Velvety Cheese",
+      "amount": "2 oz (55g)",
+      "notes": "Optional, adds extra creaminess"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Slice the bryndza cheese into 1/4-inch thick pieces.",
+    "Arrange the toast slices on a baking sheet.",
+    "Place a slice of bryndza cheese on each piece of toast.",
+    "Bake for 5-7 minutes, or until the cheese is melted and bubbly.",
+    "Optional: Top with velvety cheese and return to the oven for an additional 2-3 minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bryndza",
+    "cheese",
+    "toast",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-nutty-bryndza-cheese-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T11:46:57.899Z"
+}
