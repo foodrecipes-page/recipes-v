@@ -1,0 +1,69 @@
+{
+  "slug": "velvety-flaky-polish-date-flatbread",
+  "title": "Polish Flatbread with Date Filling",
+  "description": "A sweet and savory flatbread filled with caramelized dates and topped with a dollop of creamy velvety cheese.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flatbread",
+      "amount": "1 package",
+      "notes": "preferably polish style"
+    },
+    {
+      "name": "dates",
+      "amount": "6-8",
+      "notes": "pitted and chopped"
+    },
+    {
+      "name": "velvety cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "polish butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out flatbread to desired thickness.",
+    "Spread polish butter evenly over flatbread.",
+    "Top with chopped dates and sprinkle with salt.",
+    "Dot the top with velvety cheese.",
+    "Bake for 12-15 minutes or until cheese is melted and bubbly.",
+    "Remove from oven and let cool for 2-3 minutes.",
+    "Slice into squares and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "polish",
+    "flatbread",
+    "dates",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-flaky-polish-date-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T15:05:23.535Z"
+}
