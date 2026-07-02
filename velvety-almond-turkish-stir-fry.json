@@ -1,0 +1,73 @@
+{
+  "slug": "velvety-almond-turkish-stir-fry",
+  "title": "Turkish Delight Stir Fry",
+  "description": "A sweet and savory stir fry featuring Turkish delight, almonds, and velvety sauce. This dish is perfect for a quick and easy dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turkish delight",
+      "amount": "200g"
+    },
+    {
+      "name": "Almonds",
+      "amount": "100g"
+    },
+    {
+      "name": "Velvety sauce",
+      "amount": "250ml"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the sliced ginger and minced garlic and cook for 1 minute.",
+    "Add the Turkish delight, almonds, and soy sauce. Cook for 2-3 minutes, stirring constantly.",
+    "Pour in the velvety sauce and stir to combine.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes, or until heated through.",
+    "Serve hot over rice or noodles.",
+    "Garnish with additional sliced almonds and Turkish delight, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "dessert",
+    "sauce",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 50,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-almond-turkish-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T03:24:28.537Z"
+}
