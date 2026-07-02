@@ -1,0 +1,73 @@
+{
+  "slug": "vibrant-jamaican-patties-patties",
+  "title": "Jamaican Patties Vibes",
+  "description": "A flavorful twist on traditional Jamaican patties, filled with vibrant spices and served with a side of love.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Vibrant Curry Powder",
+      "amount": "2 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Patties (homemade or store-bought)",
+      "amount": "4-6",
+      "notes": "depending on size"
+    },
+    {
+      "name": "Jamaican Jerk Seasoning",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 350°F (175°C).",
+    "Season patties with jerk seasoning and curry powder.",
+    "Fry patties in batches until golden brown and crispy.",
+    "Drain on paper towels.",
+    "Serve hot with a squeeze of lime juice and a sprinkle of cilantro.",
+    "Optional: Serve with a side of mango chutney or salsa."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "jamaican",
+    "caribbean",
+    "snack",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": "8g",
+    "carbs": "20g",
+    "fat": "18g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-jamaican-patties-patties",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T12:32:36.400Z"
+}
