@@ -1,0 +1,84 @@
+{
+  "slug": "velvety-light-french-cream-choux-pastry",
+  "title": "French Cream Puffs",
+  "description": "A classic French dessert consisting of light and airy choux pastry filled with a rich velvety cream.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Choux Pastry",
+      "amount": "2 cups (250g)",
+      "notes": null
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "1/2 cup (115g)",
+      "notes": null
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup (200g)",
+      "notes": null
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup (240ml)",
+      "notes": null
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Powdered Sugar",
+      "amount": "1 cup (200g)",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C). Line a baking sheet with parchment paper.",
+    "In a medium saucepan, combine the butter, sugar, and 1 cup (240ml) of water.",
+    "Bring the mixture to a boil over medium heat, then reduce the heat to low.",
+    "Add the flour and cook, stirring constantly, for 2 minutes.",
+    "Remove the saucepan from the heat and let cool for 5 minutes.",
+    "Add the eggs one at a time, beating well after each addition.",
+    "Transfer the dough to a piping bag fitted with a large round tip.",
+    "Pipe small balls of dough onto the prepared baking sheet.",
+    "Bake for 15-20 minutes, or until the puffs are golden brown.",
+    "Allow the puffs to cool completely.",
+    "To make the cream, whip the heavy cream until stiff peaks form.",
+    "Add the vanilla extract and powdered sugar, and whip until combined.",
+    "Split the cooled puffs in half horizontally using a serrated knife.",
+    "Spoon the cream into the puffs and top with the other half of the puff.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "dessert",
+    "cream",
+    "puff",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-light-french-cream-choux-pastry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T00:40:25.782Z"
+}
