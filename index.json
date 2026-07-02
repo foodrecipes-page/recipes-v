@@ -2497,17 +2497,15 @@
   },
   {
     "slug": "velvety-flaky-polish-date-flatbread",
-    "title": "Velvety Flaky Polish Date Flatbread",
+    "title": "Polish Flatbread with Date Filling",
     "tags": [
-      "coconut-cream-recipes",
-      "date-recipes",
-      "flatbread-recipes",
-      "polish-cuisine",
-      "snack-ideas",
-      "vegetarian-recipes"
+      "polish",
+      "flatbread",
+      "dates",
+      "cheese"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 22,
     "shard": "v"
   },
   {
@@ -8126,17 +8124,15 @@
   },
   {
     "slug": "vibrant-garlicky-korean-snow-peas-stew",
-    "title": "Vibrant Garlicky Korean Snow Peas Stew",
+    "title": "Korean Stew with Snow Peas",
     "tags": [
-      "garlicky",
-      "high-protein",
       "korean",
-      "lazy-sunday",
-      "one-pan",
+      "stew",
+      "snow-peas",
       "vegetarian"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
