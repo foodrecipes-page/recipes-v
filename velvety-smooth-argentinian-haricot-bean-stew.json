@@ -1,0 +1,76 @@
+{
+  "slug": "velvety-smooth-argentinian-haricot-bean-stew",
+  "title": "Argentinian Haricot Bean Stew",
+  "description": "A hearty and comforting stew inspired by Argentinian cuisine, made with tender haricot beans and a rich, velvety broth.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Argentinian haricot beans",
+      "amount": "1 cup, dried, soaked overnight",
+      "notes": "Rinse and drain well before using"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Velvety stew broth",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for another minute.",
+    "Add the soaked and drained haricot beans, stew broth, tomato paste, salt, and pepper.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 1 hour, or until the beans are tender.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "bean-stew",
+    "comfort-food",
+    "lentil-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-smooth-argentinian-haricot-bean-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T00:53:34.170Z"
+}
