@@ -1,0 +1,62 @@
+{
+  "slug": "velvety-sweet-algerian-date-tagine",
+  "title": "Algerian Date Tagine",
+  "description": "A rich and flavorful North African stew made with tender dates and sweet velvety sauce, served with a side of crusty bread.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "1 cup, pitted"
+    },
+    {
+      "name": "velvety",
+      "amount": "2 tablespoons, sweet almond milk"
+    },
+    {
+      "name": "algerian",
+      "amount": "2 teaspoons, ras el hanout"
+    },
+    {
+      "name": "date syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the velvety in a large saucepan over medium heat.",
+    "Add the algerian and cook for 1 minute, until fragrant.",
+    "Add the dates, date syrup, and water to the saucepan.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Serve hot, garnished with fresh herbs if desired.",
+    "Serve over crusty bread or couscous for a filling meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "date",
+    "tagine",
+    "stew",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-sweet-algerian-date-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T11:49:37.904Z"
+}
