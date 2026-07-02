@@ -1,0 +1,88 @@
+{
+  "slug": "vividly-smoky-dutch-millet-pilaf",
+  "title": "Smoky Dutch Millet Pilaf",
+  "description": "A hearty and flavorful side dish made with smoky sausage, dutch spices, and nutritious millet.",
+  "cuisine": "Western",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoky Sausage",
+      "amount": "1 pound",
+      "notes": " sliced"
+    },
+    {
+      "name": "Millet",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dutch Spice Blend",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Vividly Colored Bell Pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped",
+      "notes": "optional"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup",
+      "notes": "cooked"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced sausage and cook until browned, about 5 minutes.",
+    "Add the diced bell pepper and cook until tender, about 3 minutes.",
+    "Stir in the Dutch spice blend and cook for 1 minute.",
+    "Add the millet and cooked pilaf to the skillet, stirring to combine.",
+    "Cook for an additional 2-3 minutes, until the millet is heated through.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sides",
+    "pilaf",
+    "millet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vividly-smoky-dutch-millet-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T03:19:35.158Z"
+}
