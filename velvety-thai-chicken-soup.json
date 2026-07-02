@@ -1,0 +1,75 @@
+{
+  "slug": "velvety-thai-chicken-soup",
+  "title": "Creamy Thai Chicken Soup",
+  "description": "A rich and flavorful Thai-inspired soup made with velvety coconut milk and tender chicken.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Velvety coconut milk",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh basil leaves",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium-high heat.",
+    "Add the curry paste and cook for 1-2 minutes, stirring constantly.",
+    "Add the chicken and cook until browned, about 5-7 minutes.",
+    "Add the broth, fish sauce, soy sauce, and brown sugar. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10-15 minutes.",
+    "Stir in the coconut milk and cook for an additional 2-3 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Garnish with fresh basil leaves and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "soup",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-thai-chicken-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T08:06:17.209Z"
+}
