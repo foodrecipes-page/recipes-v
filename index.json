@@ -6046,14 +6046,14 @@
   },
   {
     "slug": "velvety-thai-chicken-soup",
-    "title": "Velvety Thai Chicken Soup",
+    "title": "Creamy Thai Chicken Soup",
     "tags": [
       "thai",
-      "velvety",
-      "meal-prep"
+      "soup",
+      "chicken"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
@@ -6781,17 +6781,15 @@
   },
   {
     "slug": "very-gooey-irish-oats-casserole",
-    "title": "Very Gooey Irish Oats Casserole",
+    "title": "Irish Oat Casserole",
     "tags": [
+      "breakfast",
       "casserole",
-      "comfort-food",
-      "irish-food",
-      "jain-friendly",
-      "oat-based",
-      "vegetarian"
+      "irish",
+      "oats"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 65,
+    "totalTimeMin": 30,
     "shard": "v"
   },
   {
