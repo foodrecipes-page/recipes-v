@@ -1,0 +1,70 @@
+{
+  "slug": "velvety-golden-irish-potato-hash",
+  "title": "Golden Hash Browns with Irish Potato Cakes",
+  "description": "A delicious breakfast dish featuring crispy hash browns and fluffy Irish potato cakes.",
+  "cuisine": "irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Irish potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Hash browns",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Velvety golden oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Peel and grate the Irish potatoes.",
+    "3. Squeeze out excess moisture from the grated potatoes.",
+    "4. Mix in the hash browns and golden oil.",
+    "5. Divide the mixture into 4 portions and shape each into a patty.",
+    "6. Place the patties on a baking sheet lined with parchment paper.",
+    "7. Bake for 20-25 minutes or until crispy and golden brown.",
+    "8. Meanwhile, heat a non-stick pan over medium heat.",
+    "9. Add a small amount of golden oil to the pan.",
+    "10. Cook the Irish potato cakes for 4-5 minutes on each side or until crispy and golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "irish",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-golden-irish-potato-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T03:14:23.479Z"
+}
