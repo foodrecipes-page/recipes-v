@@ -1,0 +1,71 @@
+{
+  "slug": "very-light-indulgent-turkish-pecan-nuts-sis-kebap",
+  "title": "Turkish-Style Chicken Kebap",
+  "description": "A flavorful and spicy kebab dish originating from Turkey, perfect for a quick and delicious dinner.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound, cut into 1-inch pieces"
+    },
+    {
+      "name": "Pecan oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Pecans",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together pecan oil, lemon juice, garlic, paprika, salt, and black pepper.",
+    "Add the chicken to the bowl and mix well to coat.",
+    "Thread the chicken onto skewers, leaving a little space between each piece.",
+    "Heat a grill or grill pan to medium-high heat.",
+    "Cook the kebabs for 8-10 minutes, turning occasionally, until the chicken is cooked through and slightly charred.",
+    "Sprinkle with chopped pecans and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "kebap",
+    "chicken",
+    "grilling"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/very-light-indulgent-turkish-pecan-nuts-sis-kebap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T09:58:19.521Z"
+}
