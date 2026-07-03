@@ -1,0 +1,73 @@
+{
+  "slug": "velvety-herbal-peruvian-french-praline-tart",
+  "title": "Tart Tatin French Crumble",
+  "description": "A twist on the classic French dessert, combining the caramelized flavors of a Tatin with a crunchy praline topping.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Tart pastry (homemade or store-bought)",
+      "amount": "1 sheet",
+      "notes": "Make sure it's gluten-free"
+    },
+    {
+      "name": "Velvety apples (e.g., Gala or Fuji)",
+      "amount": "3-4",
+      "notes": "Peel, core, and halve them"
+    },
+    {
+      "name": "Herbal honey",
+      "amount": "2 tbsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Praline",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "French butter",
+      "amount": "1/4 cup",
+      "notes": "Softened"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Roll out the tart pastry and place it in a 9-inch (23cm) tart pan with a removable bottom.",
+    "Arrange the apple halves in a concentric circle pattern, leaving a 1-inch (2.5cm) border around the edges.",
+    "Drizzle the herbal honey over the apples.",
+    "Dot the top of the apples with French butter.",
+    "Fold the edges of the pastry up over the apples, pressing gently to seal.",
+    "Sprinkle the praline evenly over the pastry.",
+    "Bake for 25 minutes, then reduce the oven temperature to 375°F (190°C) and continue baking for an additional 20-25 minutes, or until the pastry is golden brown and the apples are tender.",
+    "Remove the tart from the oven and let it cool for 10 minutes.",
+    "Transfer the tart to a wire rack to cool completely.",
+    "Serve warm, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "tartatin",
+    "praline",
+    "french",
+    "dessert",
+    "glutenfree"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-herbal-peruvian-french-praline-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T22:41:42.414Z"
+}
