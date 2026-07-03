@@ -1,0 +1,68 @@
+{
+  "slug": "velvety-brothy-vietnamese-broccoli-pho",
+  "title": "Vietnamese Pho Broth with Broccoli",
+  "description": "A comforting and flavorful Vietnamese-style noodle soup with a rich pho broth and tender broccoli.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pho",
+      "amount": "4 cups",
+      "notes": "broth"
+    },
+    {
+      "name": "velvety",
+      "amount": "2 tablespoons",
+      "notes": "fish sauce"
+    },
+    {
+      "name": "broccoli",
+      "amount": "2 bunches",
+      "notes": ""
+    },
+    {
+      "name": "vietnamese",
+      "amount": "1 tablespoon",
+      "notes": "chili sauce"
+    },
+    {
+      "name": "broth",
+      "amount": "4 cups",
+      "notes": "vegetable broth"
+    }
+  ],
+  "instructions": [
+    "Bring the pho and broth to a boil in a large pot.",
+    "Reduce heat to a simmer and add the velvety and vietnamese.",
+    "Cook for 5 minutes, or until the flavors have melded together.",
+    "Add the broccoli and cook for an additional 3-5 minutes, or until tender.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot over noodles, garnished with additional broccoli and chili sauce if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pho",
+    "vietnamese",
+    "broccoli",
+    "soup",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-brothy-vietnamese-broccoli-pho",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T06:54:37.432Z"
+}
