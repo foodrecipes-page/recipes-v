@@ -969,17 +969,15 @@
   },
   {
     "slug": "velvety-arabian-split-pea-tagine",
-    "title": "Velvety Arabian Split Pea Tagine",
+    "title": "Spicy Pea and Split Lentil Tagine",
     "tags": [
-      "dairy-free",
-      "one-pot",
-      "root-vegetable",
-      "slow-cook",
-      "stew",
-      "vegan"
+      "lentil",
+      "pea",
+      "north-african",
+      "stew"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 65,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "v"
   },
   {
@@ -2838,15 +2836,15 @@
   },
   {
     "slug": "velvety-herbal-norwegian-stir-fry",
-    "title": "Velvety Herbal Norwegian Stir-fry",
+    "title": "Herbal Velvety Stir Fry",
     "tags": [
-      "vegan",
-      "herbal",
-      "velvety",
-      "norwegian"
+      "stir-fry",
+      "mushroom",
+      "vegetarian",
+      "easy-dinner"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 25,
+    "cuisine": "Asian",
+    "totalTimeMin": 13,
     "shard": "v"
   },
   {
