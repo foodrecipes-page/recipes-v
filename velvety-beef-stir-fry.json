@@ -1,0 +1,82 @@
+{
+  "slug": "velvety-beef-stir-fry",
+  "title": "Velvety Beef Stir Fry",
+  "description": "A quick and easy Asian-inspired dish made with tender beef and a rich velvety sauce.",
+  "cuisine": "Asian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "250g",
+      "notes": "sliced"
+    },
+    {
+      "name": "velvety",
+      "amount": "2 tbsp",
+      "notes": "stir-fry sauce"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "broccoli",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "oil",
+      "amount": "1 tbsp",
+      "notes": "vegetable oil"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a wok or large skillet over medium-high heat.",
+    "Add the beef and cook until browned, about 3-4 minutes.",
+    "Add the onion, bell pepper, and broccoli, and cook until the vegetables are tender.",
+    "In a small bowl, whisk together the velvety sauce, soy sauce, and garlic.",
+    "Pour the sauce over the beef and vegetables, and stir to coat.",
+    "Cook for an additional 2-3 minutes, or until the sauce is bubbly and slightly thickened.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stir-fry",
+    "velvety-sauce"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-beef-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T02:22:24.083Z"
+}
