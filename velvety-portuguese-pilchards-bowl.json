@@ -1,0 +1,75 @@
+{
+  "slug": "velvety-portuguese-pilchards-bowl",
+  "title": "Pilchard Velvety Stew",
+  "description": "A Portuguese-inspired stew featuring pilchards in a rich velvety sauce, perfect for a cozy dinner.",
+  "cuisine": "portuguese",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pilchards",
+      "amount": "2 cans, drained and flaked"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "velvety sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large bowl over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the tomato paste and cook for 1-2 minutes.",
+    "Add the flaked pilchards, salt, and black pepper. Cook for 2-3 minutes.",
+    "Pour in the velvety sauce and stir to combine.",
+    "Reduce heat to low and simmer for 10-15 minutes.",
+    "Serve hot, garnished with chopped parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish-stew",
+    "portuguese-cuisine",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-portuguese-pilchards-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T04:42:22.979Z"
+}
