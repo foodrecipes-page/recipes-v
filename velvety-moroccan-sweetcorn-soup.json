@@ -1,0 +1,89 @@
+{
+  "slug": "velvety-moroccan-sweetcorn-soup",
+  "title": "Creamy Moroccan Sweetcorn Soup",
+  "description": "A comforting and flavorful soup that combines the sweetness of sweetcorn with the spices of Morocco. Velvety texture adds a luxurious touch.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sweetcorn",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Velvety",
+      "amount": "2 tablespoons",
+      "notes": "may substitute with heavy cream"
+    },
+    {
+      "name": "Moroccan spice blend",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add diced onion and cook until softened, about 5 minutes.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add sweetcorn, Moroccan spice blend, salt, and black pepper. Cook for 2 minutes.",
+    "Pour in chicken broth and bring to a boil.",
+    "Reduce heat and simmer for 15 minutes.",
+    "Use an immersion blender to puree the soup until smooth.",
+    "Stir in velvety (or heavy cream) and cook for an additional 2 minutes.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "sweetcorn",
+    "soup",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-moroccan-sweetcorn-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T03:18:54.507Z"
+}
