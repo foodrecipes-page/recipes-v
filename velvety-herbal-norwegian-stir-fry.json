@@ -1,0 +1,70 @@
+{
+  "slug": "velvety-herbal-norwegian-stir-fry",
+  "title": "Herbal Velvety Stir Fry",
+  "description": "Quick and flavorful stir fry with herbal notes and velvety texture.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Herbal oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Velvety mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Stir-fry vegetables",
+      "amount": "1 cup mixed"
+    },
+    {
+      "name": "Norwegian feta cheese",
+      "amount": "1/4 cup crumbled"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp grated",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat herbal oil in a pan over medium-high heat.",
+    "Add stir-fry vegetables and cook for 2 minutes.",
+    "Add velvety mushrooms and cook for another 2-3 minutes.",
+    "Add soy sauce, honey, and ginger (if using) to the pan and stir for 1 minute.",
+    "Stir in Norwegian feta cheese until melted and combined with the vegetables.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stir-fry",
+    "mushroom",
+    "vegetarian",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-herbal-norwegian-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:09:30.046Z"
+}
