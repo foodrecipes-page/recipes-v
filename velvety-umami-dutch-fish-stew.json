@@ -1,0 +1,83 @@
+{
+  "slug": "velvety-umami-dutch-fish-stew",
+  "title": "Dutch Fish Stew",
+  "description": "A hearty fish stew originating from the Netherlands, served with a side of crusty bread.",
+  "cuisine": "Dutch",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish fillets ( Cod or Halibut )",
+      "amount": "1 pound",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Dutch stew seasoning ( or paprika, salt, and pepper )",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "White wine ( or chicken broth )",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Fish stock",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add diced onion and sauté until translucent.",
+    "Add diced carrots and potatoes, stir to combine.",
+    "Add fish fillets, salt, and Dutch stew seasoning.",
+    "Pour in white wine and fish stock, bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 10-12 minutes.",
+    "Check fish for flakiness and adjust cooking time as needed.",
+    "Serve hot with crusty bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "seafood",
+    "lunch",
+    "dutch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-umami-dutch-fish-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T19:45:10.830Z"
+}
