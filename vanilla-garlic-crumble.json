@@ -1,0 +1,64 @@
+{
+  "slug": "vanilla-garlic-crumble",
+  "title": "Crumble Apple Crisp",
+  "description": "A classic dessert made with crumble topping and fresh apples, easy to make and delicious.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "apples",
+      "amount": "6 medium",
+      "notes": null
+    },
+    {
+      "name": "vanilla",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "0.5 tsp",
+      "notes": "minced, used for flavor"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "for crumble topping"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Peel, core, and slice the apples into a large mixing bowl.",
+    "Add the vanilla and garlic to the apples, and toss to combine.",
+    "In a separate bowl, mix together the flour and a pinch of salt for the crumble topping.",
+    "Add the crumble mixture to the apple mixture and toss until the apples are evenly coated.",
+    "Transfer the apple mixture to a 9x9-inch baking dish.",
+    "Top the apple mixture with the remaining crumble mixture.",
+    "Bake for 35-40 minutes, or until the topping is golden brown and the apples are tender.",
+    "Serve warm with vanilla ice cream or whipped cream, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "apple-crisp",
+    "crumble-topping"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vanilla-garlic-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T22:34:37.967Z"
+}
