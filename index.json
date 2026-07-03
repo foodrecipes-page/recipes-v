@@ -2108,17 +2108,14 @@
   },
   {
     "slug": "velvety-dutch-rest-meat-casserole",
-    "title": "Velvety Dutch Rest-Meat Casserole",
+    "title": "Hearty Beef Casserole",
     "tags": [
       "casserole",
-      "comfort-food",
-      "dutch",
-      "fodmap-friendly",
-      "gluten-free",
-      "high-protein"
+      "beef",
+      "comfort-food"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 55,
+    "cuisine": "American",
+    "totalTimeMin": 60,
     "shard": "v"
   },
   {
@@ -4384,13 +4381,14 @@
   },
   {
     "slug": "velvety-portuguese-pilchards-bowl",
-    "title": "Velvety Portuguese Pilchards Bowl",
+    "title": "Pilchard Velvety Stew",
     "tags": [
-      "portuguese",
-      "dinner"
+      "fish-stew",
+      "portuguese-cuisine",
+      "comfort-food"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 40,
+    "cuisine": "portuguese",
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
@@ -7268,18 +7266,15 @@
   },
   {
     "slug": "vibrant-citrusy-egyptian-veal-kebabs",
-    "title": "Vibrant Citrusy Egyptian Veal Kebabs",
+    "title": "Egyptian-Style Veal Kebabs",
     "tags": [
-      "citrusy",
-      "healthy",
-      "high-protein",
-      "kosher",
-      "one-pan",
+      "egyptian",
+      "kebabs",
       "veal",
-      "weeknight"
+      "grilled"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 27,
     "shard": "v"
   },
   {
