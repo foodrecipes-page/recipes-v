@@ -7465,13 +7465,13 @@
     "slug": "vibrant-crispy-jamaican-plantain-fritters",
     "title": "Crispy Jamaican Plantain Fritters",
     "tags": [
-      "caribbean",
-      "snack",
+      "plantain",
+      "jamaican",
       "fritters",
-      "plantains",
-      "jamaican"
+      "snack",
+      "crispy"
     ],
-    "cuisine": "Caribbean",
+    "cuisine": "jamaican",
     "totalTimeMin": 25,
     "shard": "v"
   },
