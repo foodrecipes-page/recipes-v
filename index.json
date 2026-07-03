@@ -6238,18 +6238,15 @@
   },
   {
     "slug": "velvety-umami-dutch-fish-stew",
-    "title": "Velvety Umami Dutch Fish Stew",
+    "title": "Dutch Fish Stew",
     "tags": [
-      "dutch-dish",
-      "gluten-free",
-      "high-protein",
-      "keto",
-      "one-pan",
-      "umami",
-      "weeknight"
+      "fish",
+      "seafood",
+      "lunch",
+      "dutch"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 35,
+    "totalTimeMin": 27,
     "shard": "v"
   },
   {
