@@ -1,0 +1,67 @@
+{
+  "slug": "velvety-sweet-algerian-pumpkin-tagine",
+  "title": "Sweet Pumpkin Tagine",
+  "description": "A traditional Moroccan-inspired sweet pumpkin dish cooked in a flavorful tagine. Perfect for a cozy dinner or special occasion.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pumpkin",
+      "amount": "1 medium, peeled and cubed",
+      "notes": ""
+    },
+    {
+      "name": "velvety",
+      "amount": "1 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "sweet",
+      "amount": "2 tbsp, honey",
+      "notes": ""
+    },
+    {
+      "name": "algerian",
+      "amount": "1 tsp, cumin",
+      "notes": ""
+    },
+    {
+      "name": "tagine",
+      "amount": "1, for cooking",
+      "notes": "traditionally clay"
+    }
+  ],
+  "instructions": [
+    "Heat the tagine over medium heat.",
+    "Add the cumin and cook for 1 minute.",
+    "Add the pumpkin and cook for 5 minutes.",
+    "Add the honey and velvety, stir to combine.",
+    "Cover the tagine and cook for 20 minutes, or until the pumpkin is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "sweet",
+    "pumpkin",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-sweet-algerian-pumpkin-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:46:35.420Z"
+}
