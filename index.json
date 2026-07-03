@@ -1163,16 +1163,14 @@
   },
   {
     "slug": "velvety-beef-stir-fry",
-    "title": "Velvety Beef Stir-fry",
+    "title": "Velvety Beef Stir Fry",
     "tags": [
-      "velvety-beef-stir-fry",
-      "cozy-mexican-dish",
-      "beef-gravy",
-      "mexican-spice",
-      "dairy-free-friendly"
+      "beef",
+      "stir-fry",
+      "velvety-sauce"
     ],
-    "cuisine": "Mexican (Oaxacan)",
-    "totalTimeMin": 35,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
