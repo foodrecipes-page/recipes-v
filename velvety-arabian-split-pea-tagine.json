@@ -1,0 +1,80 @@
+{
+  "slug": "velvety-arabian-split-pea-tagine",
+  "title": "Spicy Pea and Split Lentil Tagine",
+  "description": "A hearty North African stew made with split lentils, peas, and a blend of aromatic spices.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "split lentils, rinsed",
+      "amount": "1 cup"
+    },
+    {
+      "name": "peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "arabian spice mix",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "velvety olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion, chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin, ground",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp olive oil in a large pan over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add split lentils, peas, arabian spice mix, salt, black pepper, and cumin. Stir well.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes or until lentils are tender.",
+    "Stir in remaining 1 tbsp olive oil.",
+    "Serve hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil",
+    "pea",
+    "north-african",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 65,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-arabian-split-pea-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:13:26.315Z"
+}
