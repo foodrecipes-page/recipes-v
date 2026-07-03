@@ -3840,22 +3840,15 @@
   },
   {
     "slug": "velvety-moroccan-sweetcorn-soup",
-    "title": "Velvety Moroccan Sweetcorn Soup",
+    "title": "Creamy Moroccan Sweetcorn Soup",
     "tags": [
       "moroccan",
-      "vegetarian",
-      "low-sodium",
-      "gluten-free",
-      "vegan",
       "sweetcorn",
       "soup",
-      "velvety",
-      "quick",
-      "blanch",
-      "dairy-free"
+      "vegetarian"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
@@ -4077,15 +4070,16 @@
   },
   {
     "slug": "velvety-nut-irish-crumble",
-    "title": "Velvety Nut Irish Crumble",
+    "title": "Irish Crumble Cake",
     "tags": [
-      "velvety",
-      "nut",
+      "cake",
       "irish",
-      "whole30"
+      "crumble",
+      "velvety",
+      "walnuts"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 60,
     "shard": "v"
   },
   {
