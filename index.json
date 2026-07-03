@@ -1407,16 +1407,16 @@
   },
   {
     "slug": "velvety-brothy-vietnamese-broccoli-pho",
-    "title": "Velvety Brothy Vietnamese Broccoli Pho",
+    "title": "Vietnamese Pho Broth with Broccoli",
     "tags": [
-      "high-protein",
-      "lazy-sunday",
-      "one-pan",
+      "pho",
       "vietnamese",
-      "weeknight"
+      "broccoli",
+      "soup",
+      "noodles"
     ],
-    "cuisine": "vietnamese",
-    "totalTimeMin": 40,
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
