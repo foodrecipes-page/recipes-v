@@ -5268,18 +5268,15 @@
   },
   {
     "slug": "velvety-smoky-french-cod-stew",
-    "title": "Velvety Smoky French Cod Stew",
+    "title": "Cod in Smoky Velvety French Stew",
     "tags": [
-      "pescatarian",
-      "gluten-free",
-      "smoky",
-      "creamy",
-      "cod",
       "french",
-      "stew"
+      "fish-stew",
+      "smoky",
+      "velvety"
     ],
     "cuisine": "French",
-    "totalTimeMin": 25,
+    "totalTimeMin": 45,
     "shard": "v"
   },
   {
