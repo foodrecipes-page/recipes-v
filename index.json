@@ -88,14 +88,14 @@
   },
   {
     "slug": "vanilla-garlic-crumble",
-    "title": "Vanilla Garlic Crumble",
+    "title": "Crumble Apple Crisp",
     "tags": [
-      "vanilla-garlic-crumb",
-      "low-calorie",
-      "quick-weeknight-dish"
+      "dessert",
+      "apple-crisp",
+      "crumble-topping"
     ],
-    "cuisine": "Philippine",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 50,
     "shard": "v"
   },
   {
@@ -1475,13 +1475,14 @@
   },
   {
     "slug": "velvety-canadian-cheese-soup",
-    "title": "Velvety Canadian Cheese Soup",
+    "title": "Canadian Velvety Cheese Soup",
     "tags": [
-      "canadian",
-      "lunch"
+      "soup",
+      "cheese",
+      "canadian"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
@@ -2849,16 +2850,16 @@
   },
   {
     "slug": "velvety-herbal-peruvian-french-praline-tart",
-    "title": "Velvety Herbal Peruvian French Praline Tart",
+    "title": "Tart Tatin French Crumble",
     "tags": [
-      "date-night",
-      "gluten-free",
+      "tartatin",
       "praline",
-      "tart",
-      "vegan"
+      "french",
+      "dessert",
+      "glutenfree"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 65,
+    "cuisine": "French",
+    "totalTimeMin": 60,
     "shard": "v"
   },
   {
@@ -5760,10 +5761,15 @@
   },
   {
     "slug": "velvety-sweet-algerian-pumpkin-tagine",
-    "title": "Velvety Sweet Algerian Pumpkin Tagine",
-    "tags": [],
-    "cuisine": "Algerian",
-    "totalTimeMin": null,
+    "title": "Sweet Pumpkin Tagine",
+    "tags": [
+      "moroccan",
+      "sweet",
+      "pumpkin",
+      "tagine"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 40,
     "shard": "v"
   },
   {
