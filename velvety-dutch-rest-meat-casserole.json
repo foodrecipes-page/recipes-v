@@ -1,0 +1,95 @@
+{
+  "slug": "velvety-dutch-rest-meat-casserole",
+  "title": "Hearty Beef Casserole",
+  "description": "A comforting beef casserole made with tender beef, velvety potatoes, and a rich sauce.",
+  "cuisine": "American",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (ground)",
+      "amount": "1 pound",
+      "notes": "80% lean ground beef"
+    },
+    {
+      "name": "Velvety potatoes (diced)",
+      "amount": "2 medium",
+      "notes": "About 2 cups diced"
+    },
+    {
+      "name": "Dutch casserole dish",
+      "amount": "1",
+      "notes": "9x13 inch baking dish"
+    },
+    {
+      "name": "Casserole-style breadcrumbs",
+      "amount": "1 cup",
+      "notes": "Panko or regular breadcrumbs"
+    },
+    {
+      "name": "Meat-based broth",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought beef broth"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted butter"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 small",
+      "notes": "About 1/2 cup chopped"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1/2 teaspoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "1 tablespoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Brown the ground beef in a large skillet over medium-high heat, breaking it up with a spoon as it cooks.",
+    "Once the beef is browned, add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the caraway seeds and Worcestershire sauce (if using) and stir to combine.",
+    "Transfer the beef mixture to the Dutch casserole dish and set aside.",
+    "In a separate bowl, combine the diced potatoes, meat-based broth, and butter. Mix until the potatoes are well coated.",
+    "Pour the potato mixture over the beef mixture in the casserole dish.",
+    "Sprinkle the casserole-style breadcrumbs on top of the potatoes.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 15-20 minutes, or until the potatoes are tender and the top is golden brown.",
+    "Remove from the oven and let it rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "beef",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 26,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-dutch-rest-meat-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T05:12:45.178Z"
+}
