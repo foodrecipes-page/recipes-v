@@ -1,52 +1,54 @@
 {
   "slug": "vibrant-crispy-jamaican-plantain-fritters",
   "title": "Crispy Jamaican Plantain Fritters",
-  "description": "A delicious Caribbean-inspired snack made with ripe plantains, jamaican seasoning, and crispy batter.",
-  "cuisine": "Caribbean",
+  "description": "A delicious and easy-to-make snack or side dish made with ripened plantains, jamaican spices, and crispy fried exterior.",
+  "cuisine": "jamaican",
   "diet": [
-    "vegetarian"
+    "vegetarian",
+    "gluten-free"
   ],
   "meal": "snack",
   "ingredients": [
     {
       "name": "ripe plantains",
-      "amount": "2"
+      "amount": "2",
+      "notes": "about 2-3 inches long"
     },
     {
       "name": "all-purpose flour",
-      "amount": "1 cup"
+      "amount": "1/2 cup",
+      "notes": "for dusting"
     },
     {
-      "name": "jamaican seasoning",
-      "amount": "2 tsp"
-    },
-    {
-      "name": "crispy fried onions",
-      "amount": "1/4 cup"
+      "name": "jamaican jerk seasoning",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
     },
     {
       "name": "eggs",
-      "amount": "2"
-    },
-    {
-      "name": "buttermilk",
-      "amount": "1/2 cup"
+      "amount": "1",
+      "notes": "beaten"
     },
     {
       "name": "vegetable oil",
-      "amount": "1/2 cup"
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "crispy corn flakes",
+      "amount": "1/4 cup",
+      "notes": "crushed for coating"
     }
   ],
   "instructions": [
     "Peel the plantains and slice them into 1-inch rounds.",
-    "In a large bowl, whisk together the flour, jamaican seasoning, and crispy fried onions.",
-    "In a separate bowl, whisk together the eggs, buttermilk, and a pinch of salt.",
-    "Add the wet ingredients to the dry ingredients and stir until just combined.",
-    "Add the sliced plantains to the batter and stir until they are evenly coated.",
+    "In a shallow dish, mix together the flour and jamaican jerk seasoning.",
+    "In a separate dish, beat the eggs.",
     "Heat about 1/2 inch of vegetable oil in a large skillet over medium-high heat.",
-    "When the oil is hot, add a few of the battered plantain slices to the skillet.",
-    "Fry the plantains for about 2-3 minutes on each side, or until they are crispy and golden brown.",
-    "Remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Dip each plantain round into the beaten eggs and then coat in the flour mixture, shaking off excess.",
+    "Place the coated plantains in the hot oil and fry until golden brown, about 2-3 minutes per side.",
+    "Using a slotted spoon, remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Immediately sprinkle the crispy corn flakes over the fritters while still warm.",
     "Serve the fritters hot and enjoy!"
   ],
   "prepTimeMin": 10,
@@ -55,20 +57,20 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "caribbean",
-    "snack",
+    "plantain",
+    "jamaican",
     "fritters",
-    "plantains",
-    "jamaican"
+    "snack",
+    "crispy"
   ],
   "nutrition": {
-    "calories": 220,
+    "calories": 240,
     "protein": 3,
-    "carbs": 30,
+    "carbs": 35,
     "fat": 10
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-crispy-jamaican-plantain-fritters",
   "providerUsed": "groq",
-  "createdAt": "2026-07-01T00:49:16.125Z"
+  "createdAt": "2026-07-01T21:03:59.068Z"
 }
