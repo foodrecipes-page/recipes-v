@@ -6572,14 +6572,15 @@
   },
   {
     "slug": "velvety-zesty-mung-bean-sprout-pilaf",
-    "title": "Velvety Zesty Mung Bean Sprout Pilaf",
+    "title": "Mung Bean and Sprout Pilaf",
     "tags": [
-      "high-protein",
-      "veggie-friendly",
-      "weeknight-dinner"
+      "vegetarian",
+      "pilaf",
+      "mung-beans",
+      "sprouts"
     ],
     "cuisine": "Asian",
-    "totalTimeMin": 22,
+    "totalTimeMin": 30,
     "shard": "v"
   },
   {
