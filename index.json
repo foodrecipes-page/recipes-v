@@ -2501,15 +2501,14 @@
   },
   {
     "slug": "velvety-floral-folded-dried-white-corn",
-    "title": "Velvety Floral Folded Dried White Corn",
+    "title": "Velvety Corn Pudding",
     "tags": [
-      "velvety-floral",
-      "dried-white-corn",
-      "whole30-friendly",
-      "brunch-mood"
+      "dessert",
+      "pudding",
+      "corn"
     ],
-    "cuisine": "Brazilian",
-    "totalTimeMin": 50,
+    "cuisine": "American",
+    "totalTimeMin": 40,
     "shard": "v"
   },
   {
