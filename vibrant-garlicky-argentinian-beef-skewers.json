@@ -1,0 +1,88 @@
+{
+  "slug": "vibrant-garlicky-argentinian-beef-skewers",
+  "title": "Argentinian Beef Skewers",
+  "description": "A classic Argentinian-inspired dish featuring tender beef, vibrant colors, and a hint of garlicky flavor.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flank Steak",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "2",
+      "notes": "any color, cut into 1-inch pieces"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Chimichurri Sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vibrant Red Pepper Flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together olive oil, garlic, red pepper flakes, salt, and black pepper.",
+    "3. Add the beef, onion, and bell pepper to the bowl and toss to coat.",
+    "4. Thread the beef and vegetables onto skewers.",
+    "5. Grill the skewers for 8-10 minutes, turning occasionally, or until the beef reaches 135°F for medium-rare.",
+    "6. Brush with chimichurri sauce during the last 2 minutes of grilling.",
+    "7. Let the skewers rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "grill",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-garlicky-argentinian-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T19:47:18.648Z"
+}
