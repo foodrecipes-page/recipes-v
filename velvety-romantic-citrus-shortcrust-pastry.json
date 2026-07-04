@@ -1,0 +1,87 @@
+{
+  "slug": "velvety-romantic-citrus-shortcrust-pastry",
+  "title": "Velvety Citrus Tart",
+  "description": "A delicate pastry tart filled with a velvety citrus curd, perfect for a romantic dessert.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Shortcrust Pastry",
+      "amount": "1 sheet (homemade or store-bought)",
+      "notes": null
+    },
+    {
+      "name": "Velvety Citrus Curd",
+      "amount": "1 1/2 cups",
+      "notes": null
+    },
+    {
+      "name": "Fresh Citrus Zest",
+      "amount": "2 tablespoons",
+      "notes": "from 1 orange and 1 lemon"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "1/2 cup (melted)",
+      "notes": null
+    },
+    {
+      "name": "Confectioners' Sugar",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the shortcrust pastry to a thickness of about 1/8 inch.",
+    "Transfer the pastry to a 9-inch tart pan with a removable bottom.",
+    "Trim the edges and press the pastry into the corners of the pan.",
+    "Prick the bottom of the pastry with a fork to prevent it from bubbling up during baking.",
+    "Line the pastry with parchment paper and fill with pie weights or dried beans.",
+    "Bake the pastry for 15 minutes.",
+    "Remove the parchment paper and pie weights or beans.",
+    "Return the pastry to the oven and bake for an additional 5-7 minutes, or until lightly golden.",
+    "Allow the pastry to cool completely.",
+    "To make the velvety citrus curd, whisk together the citrus zest, granulated sugar, eggs, and melted butter in a medium saucepan.",
+    "Cook over medium heat, stirring constantly, until the mixture thickens and reaches 170°F (77°C) on a candy thermometer.",
+    "Strain the curd into a clean bowl and whisk in the confectioners' sugar.",
+    "Pour the curd into the cooled pastry shell and smooth the top.",
+    "Chill the tart in the refrigerator for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "tart",
+    "pastry",
+    "citrus",
+    "dessert",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-romantic-citrus-shortcrust-pastry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T18:55:58.931Z"
+}
