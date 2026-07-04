@@ -1421,16 +1421,15 @@
   },
   {
     "slug": "velvety-buttery-dates-pilaf",
-    "title": "Velvety Buttery Dates Pilaf",
+    "title": "Date Pilaf Delight",
     "tags": [
-      "velvety",
-      "buttery",
-      "date-night",
-      "malaysian",
-      "jain-friendly"
+      "breakfast",
+      "pilaf",
+      "dates",
+      "sweet"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 50,
+    "cuisine": null,
+    "totalTimeMin": 15,
     "shard": "v"
   },
   {
@@ -3021,18 +3020,16 @@
   },
   {
     "slug": "velvety-indulgent-malaysian-paella-rice-paella",
-    "title": "Velvety Indulgent Malaysian Paella Rice",
+    "title": "Malaysian-Style Paella",
     "tags": [
-      "indulgent",
-      "low-sodium",
       "malaysian",
-      "one-pan",
-      "rice-bowl",
-      "tangy",
-      "weeknight"
+      "paella",
+      "rice",
+      "chicken",
+      "shrimp"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 45,
+    "cuisine": "malaysian",
+    "totalTimeMin": 40,
     "shard": "v"
   },
   {
@@ -4699,15 +4696,16 @@
   },
   {
     "slug": "velvety-romantic-citrus-shortcrust-pastry",
-    "title": "Velvety Romantic Citrus Shortcrust Pastry",
+    "title": "Velvety Citrus Tart",
     "tags": [
-      "velvety",
-      "romantic",
-      "low-carb-friendly",
-      "shortcrust-pastry"
+      "tart",
+      "pastry",
+      "citrus",
+      "dessert",
+      "romantic"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 65,
+    "cuisine": null,
+    "totalTimeMin": 55,
     "shard": "v"
   },
   {
