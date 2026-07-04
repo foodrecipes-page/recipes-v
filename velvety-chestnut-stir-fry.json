@@ -1,0 +1,75 @@
+{
+  "slug": "velvety-chestnut-stir-fry",
+  "title": "Chestnut Velvety Stir Fry",
+  "description": "A simple and delicious stir fry recipe using velvety mushrooms and chestnuts.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Velvety mushrooms",
+      "amount": "250g",
+      "notes": null
+    },
+    {
+      "name": "Chestnuts",
+      "amount": "120g",
+      "notes": "canned"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the garlic and ginger and stir-fry for 1 minute.",
+    "Add the velvety mushrooms and stir-fry for 2-3 minutes.",
+    "Add the chestnuts and stir-fry for another 2 minutes.",
+    "Add the soy sauce and stir-fry for 1 minute.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "dinner",
+    "mushrooms",
+    "chestnuts"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-chestnut-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T09:17:41.804Z"
+}
