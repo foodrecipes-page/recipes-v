@@ -8027,17 +8027,15 @@
   },
   {
     "slug": "vibrant-garlicky-argentinian-beef-skewers",
-    "title": "Vibrant Garlicky Argentinian Beef Skewers",
+    "title": "Argentinian Beef Skewers",
     "tags": [
       "argentinian",
-      "beef-skewers",
-      "garlicky",
-      "halal-friendly",
-      "one-pan",
-      "weeknight"
+      "beef",
+      "grill",
+      "skewers"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
@@ -9075,17 +9073,14 @@
   },
   {
     "slug": "vibrant-pink-ethiopian-injera-bake",
-    "title": "Vibrant Pink Ethiopian Injera Bake",
+    "title": "Injera Bread",
     "tags": [
-      "ethiopian-cuisine",
-      "fermented-foods",
-      "injera-recipes",
-      "pink-food",
-      "vegetarian",
-      "wood-fired"
+      "injera",
+      "ethiopian",
+      "gluten-free"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
