@@ -1682,15 +1682,15 @@
   },
   {
     "slug": "velvety-chestnut-stir-fry",
-    "title": "Velvety Chestnut Stir-fry",
+    "title": "Chestnut Velvety Stir Fry",
     "tags": [
-      "chestnut",
       "stir-fry",
-      "vegan",
-      "pescatarian-friendly"
+      "dinner",
+      "mushrooms",
+      "chestnuts"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 30,
+    "cuisine": null,
+    "totalTimeMin": 18,
     "shard": "v"
   },
   {
