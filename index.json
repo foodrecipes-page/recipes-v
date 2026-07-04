@@ -9843,16 +9843,16 @@
   },
   {
     "slug": "vibrant-sour-french-sugar-snap-peas-souffle",
-    "title": "Vibrant Sour French Sugar Snap Peas Souffle",
+    "title": "French Pea Soufflé",
     "tags": [
-      "french-cuisine",
-      "gluten-free",
-      "souffle-recipe",
-      "tandoor-cooking",
-      "vegetarian-dish"
+      "souffle",
+      "peas",
+      "french",
+      "dessert",
+      "vegetarian"
     ],
     "cuisine": "French",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "v"
   },
   {
@@ -10528,19 +10528,16 @@
   },
   {
     "slug": "vibrant-velvety-italian-cabbage-frittata",
-    "title": "Vibrant Velvety Italian Cabbage Frittata",
+    "title": "Italian-Style Frittata with Cabbage",
     "tags": [
-      "breakfast",
-      "frittata",
-      "gluten-free",
       "italian",
-      "lunch",
-      "one-pan",
-      "vegan",
-      "vegetarian"
+      "breakfast",
+      "vegetarian",
+      "eggs",
+      "cabbage"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 45,
+    "cuisine": "italian",
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
