@@ -1,0 +1,67 @@
+{
+  "slug": "velvety-floral-folded-dried-white-corn",
+  "title": "Velvety Corn Pudding",
+  "description": "A creamy and comforting dessert made with dried corn and velvety texture.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dried White Corn",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Velvety Cream",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Floral Honey",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Folded Egg Whites",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium bowl, whisk together dried white corn, velvety cream, floral honey, and salt.",
+    "In a separate bowl, whip folded egg whites until stiff peaks form.",
+    "Gently fold egg whites into the corn mixture until well combined.",
+    "Pour the mixture into 6 ramekins or small baking dishes.",
+    "Bake for 20-25 minutes or until the edges are set and the centers are slightly jiggly.",
+    "Remove from oven and let cool for 5 minutes.",
+    "Serve warm or chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "pudding",
+    "corn"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-floral-folded-dried-white-corn",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T23:17:53.069Z"
+}
