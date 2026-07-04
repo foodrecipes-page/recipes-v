@@ -1,0 +1,63 @@
+{
+  "slug": "vibrant-pink-ethiopian-injera-bake",
+  "title": "Injera Bread",
+  "description": "Traditional Ethiopian flatbread, often served with various stews and salads. Injera is made from teff flour.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "teff flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 1/4 cups"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "bake stone or baking sheet",
+      "amount": "",
+      "notes": "for baking injera"
+    }
+  ],
+  "instructions": [
+    "Mix teff flour and baking powder together in a large bowl.",
+    "Gradually add water and mix until a smooth batter is formed.",
+    "Let the batter rest for 24 hours.",
+    "Preheat oven to 450°F (230°C).",
+    "Place a small amount of the batter onto the preheated bake stone or baking sheet.",
+    "Spread the batter evenly into a thin circle.",
+    "Bake for 1-2 minutes or until the injera starts to bubble and the edges are slightly charred.",
+    "Remove from oven and let cool on a wire rack."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 5,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "injera",
+    "ethiopian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-pink-ethiopian-injera-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T19:53:21.897Z"
+}
