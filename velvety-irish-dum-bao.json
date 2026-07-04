@@ -1,0 +1,99 @@
+{
+  "slug": "velvety-irish-dum-bao",
+  "title": "Pan-Seared Bao Dumplings with Irish Sauce",
+  "description": "A twist on traditional bao, filled with dum and served with a velvety Irish-inspired sauce.",
+  "cuisine": "Chinese-Irish Fusion",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bao wrappers (dried)",
+      "amount": "12-16 pieces",
+      "notes": "available at Asian markets"
+    },
+    {
+      "name": "Vegetable dum filling",
+      "amount": "1 package",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Irish stout",
+      "amount": "1/4 cup",
+      "notes": "Guinness or other stout"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "2 tablespoons",
+      "notes": "or substitute with non-dairy milk"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    }
+  ],
+  "instructions": [
+    "1. In a large skillet, heat 2 tablespoons of oil over medium-high heat.",
+    "2. Add the mushrooms and cook until browned, about 3-4 minutes.",
+    "3. Add the onion and garlic and cook until softened, about 2-3 minutes.",
+    "4. Add the vegetable dum filling and cook until heated through.",
+    "5. Meanwhile, prepare the Irish sauce by combining the stout, heavy cream, brown sugar, soy sauce, and scallions in a small saucepan.",
+    "6. Bring the sauce to a simmer over medium heat and cook until thickened, about 5-7 minutes.",
+    "7. To assemble the bao dumplings, lay a bao wrapper on a flat surface and place a tablespoon of the dum filling in the center.",
+    "8. Fold the wrapper into a triangle and press the edges together to seal the dumpling.",
+    "9. Repeat with the remaining wrappers and filling.",
+    "10. In a large skillet or wok, heat a tablespoon of oil over medium-high heat.",
+    "11. Add the bao dumplings and cook until golden brown on the bottom, about 2-3 minutes.",
+    "12. Flip the dumplings and cook until the other side is also golden brown, about 1-2 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bao",
+    "dumplings",
+    "irish-sauce",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-irish-dum-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T15:59:14.917Z"
+}
