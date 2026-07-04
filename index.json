@@ -2013,17 +2013,15 @@
   },
   {
     "slug": "velvety-crunchy-middle-eastern-tofu-stir-fry",
-    "title": "Velvety Crunchy Middle Eastern Tofu Stir-fry",
+    "title": "Tofu Stir Fry",
     "tags": [
-      "vegan",
-      "meal-prep",
+      "tofu",
+      "stir-fry",
       "middle-eastern",
-      "tofu-stir-fry",
-      "velvety-texture",
-      "oyster-sauce"
+      "vegetarian"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
@@ -3344,15 +3342,15 @@
   },
   {
     "slug": "velvety-kenyan-beef-tomatoes-bake",
-    "title": "Velvety Kenyan Beef Tomatoes Bake",
+    "title": "Kenyan Beef Stew",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "tomato-based",
-      "weeknight"
+      "beef",
+      "stew",
+      "kenyan",
+      "hearty"
     ],
-    "cuisine": "kenyan",
-    "totalTimeMin": 55,
+    "cuisine": "Kenyan",
+    "totalTimeMin": 105,
     "shard": "v"
   },
   {
