@@ -1,0 +1,84 @@
+{
+  "slug": "velvety-roasted-vietnamese-beef-pho-bo",
+  "title": "Vietnamese Beef Pho",
+  "description": "A flavorful and comforting Vietnamese noodle soup made with slow-cooked beef and aromatic spices.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "velvety beef broth",
+      "amount": "4 cups",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "roasted ginger",
+      "amount": "2 inches",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "pho spices",
+      "amount": "2 tablespoons",
+      "notes": "available at Asian markets"
+    },
+    {
+      "name": "noodles",
+      "amount": "1 pound",
+      "notes": "rice noodles or egg noodles"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "4",
+      "notes": "for serving"
+    },
+    {
+      "name": "sriracha",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Bring the beef broth to a boil in a large pot over high heat.",
+    "Add the sliced ginger and pho spices to the pot and boil for 5 minutes.",
+    "Add the beef to the pot and cook for 1-2 hours, or until tender.",
+    "Cook the noodles according to package instructions and set aside.",
+    "To assemble the pho, place a portion of noodles into a bowl and add sliced beef.",
+    "Pour the hot broth over the beef and noodles, and garnish with cilantro and a lime wedge.",
+    "Serve with sriracha on the side, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "beef",
+    "pho",
+    "soup",
+    "comforting"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-roasted-vietnamese-beef-pho-bo",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T08:40:41.937Z"
+}
