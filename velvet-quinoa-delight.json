@@ -1,0 +1,74 @@
+{
+  "slug": "velvet-quinoa-delight",
+  "title": "Quinoa Delight Bowl",
+  "description": "A healthy and flavorful quinoa bowl with toasted velvet and delight toppings.",
+  "cuisine": "Vegetarian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Velvet (tofu)",
+      "amount": "1 block"
+    },
+    {
+      "name": "Delight (mixed berry jam)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chopped fresh herbs (optional)",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Rinse the quinoa in a fine-mesh strainer and drain well.",
+    "2. In a medium saucepan, bring 2 cups of water to a boil.",
+    "3. Add the quinoa and reduce heat to low. Cover and simmer for 15-20 minutes.",
+    "4. In a small bowl, whisk together the olive oil, salt, and black pepper.",
+    "5. Cut the velvet into small cubes and toss with the olive oil mixture.",
+    "6. Toast the velvet in a non-stick skillet over medium heat for 5-7 minutes.",
+    "7. Fluff the cooked quinoa with a fork and stir in the delight.",
+    "8. To assemble the bowls, place a scoop of quinoa on each plate, top with toasted velvet, and garnish with chopped fresh herbs if desired.",
+    "9. Serve immediately and enjoy!",
+    "10. Refrigerate or freeze leftovers for later."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quinoa",
+    "tofu",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvet-quinoa-delight",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T17:18:35.181Z"
+}
