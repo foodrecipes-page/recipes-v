@@ -1,0 +1,72 @@
+{
+  "slug": "vanilla-soy-beef-stir-fry",
+  "title": "Beef Stir Fry",
+  "description": "Quick and flavorful beef stir fry made with soy and a hint of vanilla.",
+  "cuisine": "Chinese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "oil",
+      "amount": "1 tablespoon",
+      "notes": "vegetable oil"
+    },
+    {
+      "name": "vanilla",
+      "amount": "1/4 teaspoon",
+      "notes": "optional flavor enhancement"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a wok or large skillet over medium-high heat.",
+    "Add the beef and cook until browned, about 3-4 minutes.",
+    "Remove the beef from the wok and set aside.",
+    "Add the garlic and green onions to the wok and cook until fragrant, about 1 minute.",
+    "Add the soy sauce and stir to combine.",
+    "Return the beef to the wok and stir to coat with the soy sauce mixture.",
+    "Cook for an additional 2 minutes, until the beef is cooked to your liking.",
+    "Serve hot and garnish with vanilla, if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "stir-fry",
+    "chinese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vanilla-soy-beef-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T14:24:26.955Z"
+}
