@@ -1,0 +1,58 @@
+{
+  "slug": "velvety-buttery-dates-pilaf",
+  "title": "Date Pilaf Delight",
+  "description": "A sweet and savory pilaf dish featuring caramelized dates and a hint of buttery flavor.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Pilaf",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Dates",
+      "amount": "4-6",
+      "notes": "pitted"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Velvety",
+      "amount": "2 tbsp",
+      "notes": "for serving (optional)"
+    }
+  ],
+  "instructions": [
+    "1. Heat butter in a medium saucepan over medium heat.",
+    "2. Add pilaf and cook, stirring occasionally, until lightly toasted, about 5 minutes.",
+    "3. Add dates to the saucepan and cook, stirring occasionally, until they begin to caramelize, about 5-7 minutes.",
+    "4. Fluff pilaf with a fork to separate grains.",
+    "5. Serve pilaf mixture hot, topped with velvety if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "pilaf",
+    "dates",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-buttery-dates-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T18:36:06.566Z"
+}
