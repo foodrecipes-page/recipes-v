@@ -4689,17 +4689,16 @@
   },
   {
     "slug": "velvety-roasted-vietnamese-beef-pho-bo",
-    "title": "Velvety Roasted Vietnamese Beef Pho Bo",
+    "title": "Vietnamese Beef Pho",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "one-pot",
-      "roasted-beef",
-      "special-occasion",
-      "vietnamese-cuisine"
+      "vietnamese",
+      "beef",
+      "pho",
+      "soup",
+      "comforting"
     ],
-    "cuisine": "vietnamese",
-    "totalTimeMin": 180,
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 135,
     "shard": "v"
   },
   {
@@ -4792,18 +4791,16 @@
   },
   {
     "slug": "velvety-salty-filipino-chicken-stew",
-    "title": "Velvety Salty Filipino Chicken Stew",
+    "title": "Filipino Chicken Stew",
     "tags": [
-      "halal-friendly",
-      "velvety",
-      "comfort-food",
-      "sour-cream",
+      "chicken",
       "filipino",
       "stew",
-      "chicken"
+      "meat",
+      "dinner"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "v"
   },
   {
