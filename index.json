@@ -3123,17 +3123,16 @@
   },
   {
     "slug": "velvety-irish-dum-bao",
-    "title": "velvety irish dum bao",
+    "title": "Pan-Seared Bao Dumplings with Irish Sauce",
     "tags": [
-      "comfort-food",
-      "irish",
-      "one-pan",
-      "spring",
+      "bao",
+      "dumplings",
+      "irish-sauce",
       "vegetarian",
-      "weeknight"
+      "gluten-free"
     ],
-    "cuisine": "irish",
-    "totalTimeMin": 23,
+    "cuisine": "Chinese-Irish Fusion",
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
@@ -8247,18 +8246,16 @@
   },
   {
     "slug": "vibrant-golden-polish-beurre-noisette-tagine",
-    "title": "vibrant golden polish beurre-noisette tagine",
+    "title": "Tagine Chicken with Pistachio Crust",
     "tags": [
-      "cheese",
-      "dessert",
-      "easter",
-      "low-fat",
-      "one-pan",
-      "polish",
-      "tagine"
+      "chicken",
+      "north-african",
+      "tagine",
+      "pistachio",
+      "easy-dinner"
     ],
-    "cuisine": "polish",
-    "totalTimeMin": 50,
+    "cuisine": "North African",
+    "totalTimeMin": 45,
     "shard": "v"
   },
   {
@@ -9709,17 +9706,16 @@
   },
   {
     "slug": "vibrant-smoky-moroccan-lamb-tagine",
-    "title": "Vibrant Smoky Moroccan Lamb Tagine",
+    "title": "Smoky Moroccan Lamb Tagine",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "lamb-recipes",
-      "moroccan-cuisine",
-      "one-pot",
-      "slow-cooker"
+      "moroccan",
+      "lamb",
+      "tagine",
+      "slow-cooked",
+      "flavorful"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 180,
+    "totalTimeMin": 170,
     "shard": "v"
   },
   {
@@ -10309,15 +10305,15 @@
   },
   {
     "slug": "vibrant-tender-algerian-potato-tagine",
-    "title": "Vibrant Tender Algerian Potato Tagine",
+    "title": "Classic Algerian Tagine",
     "tags": [
-      "algerian-cuisine",
-      "comfort-food",
-      "gluten-free",
-      "one-pot",
-      "vegetarian"
+      "algerian",
+      "north-african",
+      "stew",
+      "vegetarian",
+      "lunch"
     ],
-    "cuisine": "Algerian",
+    "cuisine": "North African",
     "totalTimeMin": 50,
     "shard": "v"
   },
