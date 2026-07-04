@@ -1,0 +1,87 @@
+{
+  "slug": "vibrant-smoky-moroccan-lamb-tagine",
+  "title": "Smoky Moroccan Lamb Tagine",
+  "description": "A hearty and flavorful North African stew made with lamb, aromatic spices, and dried fruits. Serve with couscous or crusty bread.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 lbs (675g)",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "Moroccan spice blend",
+      "amount": "2 tsp",
+      "notes": "available at most spice stores or online"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1 cup (115g)",
+      "notes": "chopped"
+    },
+    {
+      "name": "prunes",
+      "amount": "1 cup (120g)",
+      "notes": "chopped"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the tagine or a large Dutch oven over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the lamb and cook until browned on all sides, about 5 minutes.",
+    "Add the spice blend, apricots, prunes, and honey.",
+    "Stir to combine, then add 1 cup (240ml) of water.",
+    "Bring to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2-3 hours, or until the lamb is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "lamb",
+    "tagine",
+    "slow-cooked",
+    "flavorful"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 45,
+    "carbs": 40,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-smoky-moroccan-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T16:17:52.778Z"
+}
