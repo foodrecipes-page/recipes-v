@@ -1,0 +1,75 @@
+{
+  "slug": "vibrant-velvety-italian-cabbage-frittata",
+  "title": "Italian-Style Frittata with Cabbage",
+  "description": "A flavorful and nutritious breakfast dish made with cabbage, vibrant eggs, and velvety cheese, all wrapped up in a delicious Italian-inspired frittata.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6",
+      "notes": "Vibrant eggs provide the base of this dish"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 head",
+      "notes": "Shredded cabbage adds a sweet crunch"
+    },
+    {
+      "name": "italian cheese blend",
+      "amount": "1 cup",
+      "notes": "Velvety cheese melts beautifully into the eggs"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "Season with salt to bring out the flavors"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "Pepper adds a nice kick"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 tsp",
+      "notes": "A hint of garlic powder complements the dish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Whisk eggs in a large bowl and set aside.",
+    "In a large skillet, sauté the shredded cabbage over medium heat until softened.",
+    "Add the Italian cheese blend to the skillet and stir until melted.",
+    "Pour the whisked eggs over the cabbage mixture and cook until the eggs start to set.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes.",
+    "Remove the skillet from the oven and let it cool slightly.",
+    "Use a spatula to loosen the frittata from the skillet and slide it onto a plate.",
+    "Slice the frittata into wedges and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "breakfast",
+    "vegetarian",
+    "eggs",
+    "cabbage"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-velvety-italian-cabbage-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T14:05:11.713Z"
+}
