@@ -1,0 +1,77 @@
+{
+  "slug": "velvety-crunchy-middle-eastern-tofu-stir-fry",
+  "title": "Tofu Stir Fry",
+  "description": "A quick and easy stir fry recipe using tofu and vegetables, inspired by middle eastern flavors.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Crunchy carrots",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Middle eastern seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Eastern spices",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the onion and cook until softened, about 3-4 minutes.",
+    "Add the crunchy carrots and cook until tender, about 5 minutes.",
+    "Add the tofu and cook until golden brown, about 5-6 minutes.",
+    "Add the middle eastern seasoning and eastern spices and stir to combine.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tofu",
+    "stir-fry",
+    "middle-eastern",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-crunchy-middle-eastern-tofu-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T10:56:43.644Z"
+}
