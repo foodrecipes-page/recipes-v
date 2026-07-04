@@ -792,14 +792,15 @@
   },
   {
     "slug": "velvet-quinoa-delight",
-    "title": "Velvet Quinoa Delight",
+    "title": "Quinoa Delight Bowl",
     "tags": [
       "quinoa",
-      "keto-friendly",
-      "meal-prep"
+      "tofu",
+      "vegan",
+      "gluten-free"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 55,
+    "cuisine": "Vegetarian",
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
@@ -3353,17 +3354,16 @@
   },
   {
     "slug": "velvety-kenyan-chicken-stew",
-    "title": "Velvety Kenyan Chicken Stew",
+    "title": "Kenyan Chicken Stew",
     "tags": [
-      "chicken-recipe",
-      "coconut-milk",
-      "kenyan-cuisine",
-      "low-fat",
-      "romantic-dinner",
-      "star-anise"
+      "african",
+      "chicken",
+      "stew",
+      "coconut",
+      "kenyan"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 45,
+    "cuisine": "african",
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
