@@ -1,0 +1,64 @@
+{
+  "slug": "vibrant-tender-algerian-potato-tagine",
+  "title": "Classic Algerian Tagine",
+  "description": "A flavorful and aromatic stew originating from Algeria, made with tender meat and vibrant spices.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "algerian",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "vibrant",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "tender",
+      "amount": "2 cups",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add the algerian and vibrant spices and cook for 1 minute.",
+    "Add the tender meat and cook until browned, about 5 minutes.",
+    "Add the potato and 2 cups of water to the pan.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 30 minutes.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "north-african",
+    "stew",
+    "vegetarian",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-tender-algerian-potato-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T16:18:48.844Z"
+}
