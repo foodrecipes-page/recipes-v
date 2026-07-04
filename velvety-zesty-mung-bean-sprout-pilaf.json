@@ -1,0 +1,76 @@
+{
+  "slug": "velvety-zesty-mung-bean-sprout-pilaf",
+  "title": "Mung Bean and Sprout Pilaf",
+  "description": "A flavorful and nutritious vegetarian pilaf made with mung beans, sprouts, and a hint of zesty flavor.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mung beans",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "velvety pilaf",
+      "amount": "1 package",
+      "notes": "according to package instructions"
+    },
+    {
+      "name": "zesty sauce",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "oil",
+      "amount": "1 tsp",
+      "notes": "for greasing the pan"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add the mung beans and cook for 2-3 minutes, until lightly browned.",
+    "Add the bean sprouts and cook for an additional 2 minutes, until they start to soften.",
+    "Add the pilaf and cook according to package instructions.",
+    "Stir in the zesty sauce, if using.",
+    "Season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "pilaf",
+    "mung-beans",
+    "sprouts"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-zesty-mung-bean-sprout-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T12:03:40.428Z"
+}
