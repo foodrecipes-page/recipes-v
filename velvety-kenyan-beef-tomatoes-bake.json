@@ -1,0 +1,67 @@
+{
+  "slug": "velvety-kenyan-beef-tomatoes-bake",
+  "title": "Kenyan Beef Stew",
+  "description": "A hearty and flavorful stew originating from Kenya, perfect for a chilly evening. This recipe combines tender beef with the sweetness of tomatoes and spices.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "velvety",
+      "amount": "1/4 cup",
+      "notes": "Tomato paste"
+    },
+    {
+      "name": "kenyan",
+      "amount": "2 teaspoons",
+      "notes": "Dried spices (e.g. cumin, coriander)"
+    },
+    {
+      "name": "bake",
+      "amount": "1 teaspoon",
+      "notes": "Paprika"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Add diced tomatoes, tomato paste, spices, and paprika. Stir well.",
+    "Add enough water to cover the beef and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 1 1/2 hours, or until the beef is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "kenyan",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-kenyan-beef-tomatoes-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T10:28:42.898Z"
+}
