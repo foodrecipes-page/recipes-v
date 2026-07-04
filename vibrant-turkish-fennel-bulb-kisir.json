@@ -1,0 +1,66 @@
+{
+  "slug": "vibrant-turkish-fennel-bulb-kisir",
+  "title": "Turkish-Style Fennel and Kisir Salad",
+  "description": "A refreshing and flavorful salad inspired by Turkish cuisine, featuring crunchy fennel and kisir.",
+  "cuisine": "turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fennel",
+      "amount": "1 large bulb, thinly sliced"
+    },
+    {
+      "name": "kisir",
+      "amount": "1 cup, crumbled"
+    },
+    {
+      "name": "vibrant",
+      "amount": "1/4 cup, chopped fresh herbs (such as parsley, dill, or mint)"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the sliced fennel and crumbled kisir.",
+    "In a small bowl, whisk together the lemon juice and olive oil.",
+    "Season the dressing with salt to taste.",
+    "Pour the dressing over the fennel and kisir mixture, and toss to combine.",
+    "Sprinkle the chopped vibrant herbs over the salad, and toss again to distribute evenly.",
+    "Serve the salad chilled, garnished with additional herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "turkish-cuisine",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-turkish-fennel-bulb-kisir",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T20:53:54.498Z"
+}
