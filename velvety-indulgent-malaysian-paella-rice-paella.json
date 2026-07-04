@@ -1,0 +1,86 @@
+{
+  "slug": "velvety-indulgent-malaysian-paella-rice-paella",
+  "title": "Malaysian-Style Paella",
+  "description": "A twist on the classic Spanish dish, this recipe combines the flavors of Malaysia with the comfort of a hearty paella. Perfect for a family dinner or special occasion.",
+  "cuisine": "malaysian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "paella rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "sambal oelek",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large paella pan or skillet over medium-high heat.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Add onion and garlic and cook until softened, about 3 minutes.",
+    "Add shrimp and cook until pink, about 2 minutes.",
+    "Add rice and stir to coat with oil and mix with chicken and seafood.",
+    "Add sambal oelek, fish sauce, and palm sugar, and stir to combine.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20 minutes.",
+    "Remove from heat and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "paella",
+    "rice",
+    "chicken",
+    "shrimp"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-indulgent-malaysian-paella-rice-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T19:10:14.902Z"
+}
