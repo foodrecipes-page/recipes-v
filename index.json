@@ -156,15 +156,14 @@
   },
   {
     "slug": "vanilla-soy-beef-stir-fry",
-    "title": "Vanilla Soy Beef Stir-fry",
+    "title": "Beef Stir Fry",
     "tags": [
-      "vanilla",
       "beef",
       "stir-fry",
-      "low-calorie-friendly"
+      "chinese"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 50,
+    "cuisine": "Chinese",
+    "totalTimeMin": 15,
     "shard": "v"
   },
   {
