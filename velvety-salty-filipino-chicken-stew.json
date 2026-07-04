@@ -1,0 +1,83 @@
+{
+  "slug": "velvety-salty-filipino-chicken-stew",
+  "title": "Filipino Chicken Stew",
+  "description": "A hearty and flavorful stew originating from the Philippines, featuring tender chicken and a rich blend of spices. Serve with steamed rice for a complete meal.",
+  "cuisine": "Filipino",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast or thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "your favorite stew mix"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic and sauté until fragrant.",
+    "Add chicken and cook until browned on all sides.",
+    "Add salt, black pepper, and ground black pepper.",
+    "Pour in stew mix and fish sauce.",
+    "Bring to a boil, then reduce heat and simmer for 30 minutes.",
+    "Serve hot with steamed rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "filipino",
+    "stew",
+    "meat",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-salty-filipino-chicken-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T08:10:54.001Z"
+}
