@@ -8812,18 +8812,15 @@
   },
   {
     "slug": "vibrant-light-mediterranean-pappardelle-pasta",
-    "title": "Vibrant Light Mediterranean Pappardelle Pasta",
+    "title": "Light Pappardelle with Mediterranean Sauce",
     "tags": [
-      "gluten-free",
-      "lazy-sunday",
-      "light-meal",
-      "mediterranean",
+      "italian",
       "pasta",
-      "raw-friendly",
-      "vegetarian"
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 27,
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
@@ -9638,17 +9635,15 @@
   },
   {
     "slug": "vibrant-smoky-croatian-chicken-skewers",
-    "title": "Vibrant Smoky Croatian Chicken Skewers",
+    "title": "Smoky Chicken Skewers",
     "tags": [
+      "grilled",
+      "chicken",
       "croatian",
-      "gluten-free",
-      "high-protein",
-      "post-workout",
-      "rajasic-friendly",
-      "smoky"
+      "summer"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 33,
     "shard": "v"
   },
   {
