@@ -1,0 +1,84 @@
+{
+  "slug": "very-comforting-middle-eastern-turkey-neck-falafel-bake",
+  "title": "Eastern-Style Oven-Baked Turkey Neck",
+  "description": "A hearty and comforting oven-baked meal from the Middle East, featuring tender turkey neck and crispy falafel.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "comfort food"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turkey neck",
+      "amount": "1 medium",
+      "notes": "ask your butcher for a cleaned and patted dry neck"
+    },
+    {
+      "name": "Falafel",
+      "amount": "4-6 pieces",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for browning the neck"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Bake potatoes",
+      "amount": "2-3 medium",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Season the turkey neck with salt and black pepper.",
+    "In a large Dutch oven or oven-safe pot, heat the olive oil over medium-high heat.",
+    "Sear the turkey neck until browned on all sides, about 5 minutes.",
+    "Transfer the pot to the preheated oven and roast for 20 minutes.",
+    "Add the minced garlic and falafel to the pot.",
+    "Bake for an additional 15-20 minutes, or until the neck is cooked through and the falafel is crispy.",
+    "Squeeze the lemon juice over the neck and falafel.",
+    "Serve with bake potatoes and your favorite sides.",
+    "Let the dish rest for 5-10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": "2-3",
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "middle-eastern",
+    "oven-baked"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/very-comforting-middle-eastern-turkey-neck-falafel-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T22:08:39.159Z"
+}
