@@ -5879,16 +5879,15 @@
   },
   {
     "slug": "velvety-sweet-thai-pork-curry",
-    "title": "Velvety Sweet Thai Pork Curry",
+    "title": "Thai Sweet Pork Curry",
     "tags": [
-      "comfort-food",
-      "low-sodium",
-      "one-pot",
-      "pork-recipes",
-      "thai-cuisine"
+      "thai",
+      "curry",
+      "sweet",
+      "pork"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "v"
   },
   {
@@ -10302,17 +10301,16 @@
   },
   {
     "slug": "vibrant-thai-cabbage-curry",
-    "title": "Vibrant Thai Cabbage Curry",
+    "title": "Thai Cabbage Stir Fry",
     "tags": [
-      "brunch",
-      "gluten-free",
-      "one-pan",
-      "thai-cuisine",
+      "thai",
+      "stir-fry",
+      "cabbage",
       "vegetarian",
-      "weeknight"
+      "gluten-free"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 40,
+    "totalTimeMin": 20,
     "shard": "v"
   },
   {
