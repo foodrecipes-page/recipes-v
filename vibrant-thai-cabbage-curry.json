@@ -1,0 +1,63 @@
+{
+  "slug": "vibrant-thai-cabbage-curry",
+  "title": "Thai Cabbage Stir Fry",
+  "description": "A flavorful and healthy stir fry recipe that combines the crunch of cabbage with the spices of Thailand.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": "1 medium head, thinly sliced"
+    },
+    {
+      "name": "Thai Curry Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tablespoon",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Vibrant Bell Peppers",
+      "amount": "1 large, sliced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add curry paste and cook, stirring constantly, for 1-2 minutes.",
+    "Add cabbage and bell peppers and cook, stirring frequently, until the vegetables are tender-crisp.",
+    "Season with salt to taste.",
+    "Serve hot over rice or noodles, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "stir-fry",
+    "cabbage",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-thai-cabbage-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T08:50:04.240Z"
+}
