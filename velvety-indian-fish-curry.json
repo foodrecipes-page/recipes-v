@@ -1,0 +1,84 @@
+{
+  "slug": "velvety-indian-fish-curry",
+  "title": "Creamy Indian Fish Curry",
+  "description": "A delicate and flavorful fish curry dish made with velvety curry sauce and tender fish. Serve with rice or naan for a complete meal.",
+  "cuisine": "indian",
+  "diet": [
+    "fish-only",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish fillets (cod or tilapia)",
+      "amount": "4 pieces",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Velvety curry sauce",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Indian spices (garam masala, cumin, coriander)",
+      "amount": "1 tsp",
+      "notes": "Blend of spices"
+    },
+    {
+      "name": "Fish oil or coconut oil",
+      "amount": "2 tbsp",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Rice or naan",
+      "amount": "serving suggestion",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add spices and sauté for 1 minute, until fragrant.",
+    "Add fish fillets and cook for 2-3 minutes, until browned.",
+    "Add curry sauce and stir to coat fish.",
+    "Simmer for 5-7 minutes, until fish is cooked through.",
+    "Stir in lime juice and season with salt.",
+    "Garnish with cilantro.",
+    "Serve with rice or naan."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "indian-cuisine",
+    "fish-dish",
+    "curry",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-indian-fish-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T20:19:45.512Z"
+}
