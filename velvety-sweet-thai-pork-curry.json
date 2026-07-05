@@ -1,0 +1,83 @@
+{
+  "slug": "velvety-sweet-thai-pork-curry",
+  "title": "Thai Sweet Pork Curry",
+  "description": "A flavorful and aromatic Thai-inspired curry made with tender pork and a sweet and sour sauce.",
+  "cuisine": "Thai",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Velvety coconut milk",
+      "amount": "200ml",
+      "notes": ""
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sweet soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon of oil in a pan over medium-high heat.",
+    "2. Add the pork shoulder and cook until browned, then set aside.",
+    "3. In the same pan, add the remaining oil and cook the curry paste until fragrant.",
+    "4. Add the coconut milk, soy sauce, fish sauce, sugar, and salt. Stir well.",
+    "5. Return the pork to the pan and simmer until the sauce has thickened.",
+    "6. Serve hot over steamed rice or noodles.",
+    "7. Garnish with fresh herbs, such as basil or cilantro.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "curry",
+    "sweet",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-sweet-thai-pork-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T09:01:38.471Z"
+}
