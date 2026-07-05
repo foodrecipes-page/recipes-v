@@ -1,0 +1,91 @@
+{
+  "slug": "vibrant-crunchy-dutch-chicken-tagine",
+  "title": "Dutch Chicken Tagine",
+  "description": "A hearty and flavorful tagine dish made with tender chicken, crunchy vegetables, and aromatic spices, inspired by Dutch cuisine.",
+  "cuisine": "Dutch",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "vibrant bell peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dutch mustard",
+      "amount": "2 tablespoons",
+      "notes": "spooned over chicken"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "1 tablespoon",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, whisk together chicken broth, mustard, and spice blend. Add chicken and mix well.",
+    "Heat 1 tablespoon of olive oil in a large Dutch oven over medium-high heat.",
+    "Add chicken and cook until browned on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Add remaining 1 tablespoon of olive oil to pot. Add chopped onion and cook until softened, about 5 minutes.",
+    "Add minced garlic and cook for 1 minute, until fragrant.",
+    "Add bell peppers and cook until tender, about 5 minutes.",
+    "Return chicken to pot and pour in chicken broth mixture. Stir to combine.",
+    "Cover pot and transfer to preheated oven.",
+    "Bake for 30-35 minutes, or until chicken is cooked through and sauce has thickened.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "tagine",
+    "dutch",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-crunchy-dutch-chicken-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T18:24:27.544Z"
+}
