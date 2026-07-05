@@ -3861,17 +3861,14 @@
   },
   {
     "slug": "velvety-norwegian-chestnut-mushroom-risotto",
-    "title": "Velvety Norwegian Chestnut Mushroom Risotto",
+    "title": "Creamy Chestnut and Mushroom Risotto",
     "tags": [
       "comfort-food",
-      "dairy-free",
-      "mushroom-recipes",
-      "norwegian-cuisine",
-      "vegetarian",
-      "winter-recipes"
+      "creamy",
+      "risotto"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 50,
+    "cuisine": "italian",
+    "totalTimeMin": 30,
     "shard": "v"
   },
   {
@@ -10904,17 +10901,15 @@
   },
   {
     "slug": "vivid-dense-japanese-duck-gyoza",
-    "title": "Vivid Dense Japanese Duck Gyoza",
+    "title": "Pan-Seared Duck Gyoza with Asian Glaze",
     "tags": [
-      "date-night",
-      "duck-recipes",
-      "japanese-cuisine",
-      "low-carb",
-      "pan-fried",
-      "sugar-free"
+      "gluten-free",
+      "asian-fusion",
+      "duck",
+      "gyoza"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
