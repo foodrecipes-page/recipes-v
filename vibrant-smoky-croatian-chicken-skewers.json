@@ -1,0 +1,77 @@
+{
+  "slug": "vibrant-smoky-croatian-chicken-skewers",
+  "title": "Smoky Chicken Skewers",
+  "description": "A flavorful and aromatic dish inspired by Croatian cuisine, perfect for a summer evening.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1.5 pounds",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "vibrant paprika",
+      "amount": "2 tablespoons",
+      "notes": "smoked paprika alternative"
+    },
+    {
+      "name": "smoky salt",
+      "amount": "1 teaspoon",
+      "notes": "smoked salt for added flavor"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread chicken, vibrant paprika, smoky salt, and black pepper onto skewers.",
+    "Brush skewers with olive oil and season with lemon juice.",
+    "Grill skewers for 8-10 minutes per side, or until chicken is cooked through.",
+    "Let skewers rest for 5 minutes before serving.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "chicken",
+    "croatian",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 6,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-smoky-croatian-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T02:56:15.958Z"
+}
