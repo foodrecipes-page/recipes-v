@@ -4502,17 +4502,16 @@
   },
   {
     "slug": "velvety-rich-french-pumpkin-gratin",
-    "title": "Velvety Rich French Pumpkin Gratin",
+    "title": "French Pumpkin Gratin",
     "tags": [
-      "comfort-food",
-      "french-cuisine",
-      "macrobiotic",
-      "pumpkin-recipes",
+      "pumpkin",
+      "gratin",
+      "french",
       "vegetarian",
-      "weeknight-dinner"
+      "gluten-free"
     ],
     "cuisine": "French",
-    "totalTimeMin": 70,
+    "totalTimeMin": 45,
     "shard": "v"
   },
   {
@@ -6636,14 +6635,11 @@
   },
   {
     "slug": "very-comforting-middle-eastern-turkey-neck-falafel-bake",
-    "title": "Very Comforting Middle Eastern Turkey Neck Falafel Bake",
+    "title": "Eastern-Style Oven-Baked Turkey Neck",
     "tags": [
-      "baked-not-fried",
-      "dairy-free",
-      "falafel",
-      "gluten-free",
+      "comfort-food",
       "middle-eastern",
-      "turkey-recipes"
+      "oven-baked"
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 50,
