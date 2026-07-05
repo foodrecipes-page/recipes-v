@@ -1,0 +1,85 @@
+{
+  "slug": "velvety-italian-oysters-saltimbocca",
+  "title": "Venison Saltimbocca",
+  "description": "A classic Italian dish featuring tender venison cutlets, topped with prosciutto and sage, served with a creamy velvety sauce.",
+  "cuisine": "Italian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Venison cutlets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Prosciutto",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Fresh sage leaves",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Velvety sauce",
+      "amount": "1 cup",
+      "notes": "See below for sauce recipe"
+    },
+    {
+      "name": "Saltimbocca seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the venison cutlets with saltimbocca seasoning, salt, and pepper.",
+    "Heat olive oil in a skillet over medium-high heat.",
+    "Sear the venison cutlets for 2-3 minutes per side, or until browned.",
+    "Reduce heat to medium and add a slice of prosciutto to each cutlet.",
+    "Top each cutlet with a fresh sage leaf.",
+    "Pour velvety sauce over the top and simmer for 2-3 minutes.",
+    "Serve immediately and enjoy!",
+    "To make the velvety sauce, combine 1 cup of heavy cream with 2 tbsp of unsalted butter in a saucepan.",
+    "Bring to a simmer over medium heat and cook until the butter is melted and the sauce is smooth.",
+    "Season with salt and pepper to taste.",
+    "Strain the sauce through a fine-mesh sieve to remove any lumps."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "game-meat",
+    "venison"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-italian-oysters-saltimbocca",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T12:51:42.396Z"
+}
