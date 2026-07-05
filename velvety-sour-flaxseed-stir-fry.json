@@ -1,0 +1,67 @@
+{
+  "slug": "velvety-sour-flaxseed-stir-fry",
+  "title": "Sweet Velvety Flaxseed Pancakes",
+  "description": "Moist and fluffy pancakes made with ground flaxseed and a hint of sour flavor, topped with a velvety sauce.",
+  "cuisine": "american",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ground flaxseed",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sour milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "velvety sauce",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together ground flaxseed, sour milk, maple syrup, baking powder, and salt.",
+    "Let the mixture sit for 5 minutes to thicken.",
+    "Heat a non-stick pan or griddle over medium heat.",
+    "Drop the mixture by 1/4 cupfuls onto the pan.",
+    "Cook for 2-3 minutes, until bubbles appear on the surface.",
+    "Flip and cook for another 1-2 minutes, until golden brown.",
+    "Serve with velvety sauce, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flaxseed",
+    "pancakes",
+    "breakfast",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-sour-flaxseed-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T06:15:36.960Z"
+}
