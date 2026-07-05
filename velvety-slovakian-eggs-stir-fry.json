@@ -1,0 +1,50 @@
+{
+  "slug": "velvety-slovakian-eggs-stir-fry",
+  "title": "Slovakian Velvety Fry-Ups",
+  "description": "A simple and delicious breakfast dish with Slovakian flair. Velvety eggs, stir-fried to a perfect finish.",
+  "cuisine": "slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "large eggs"
+    },
+    {
+      "name": "velvety",
+      "amount": "6 oz",
+      "notes": "velvety sauce (store-bought)"
+    }
+  ],
+  "instructions": [
+    "Crack 4 eggs into a bowl and whisk until well combined.",
+    "Heat 1 tablespoon of oil in a non-stick pan over medium heat.",
+    "Pour in the egg mixture and stir constantly until the eggs are almost set.",
+    "Add 6 oz of velvety sauce and stir to combine.",
+    "Continue cooking for another minute, until the eggs are just set.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "slovakian-cuisine",
+    "egg-recipes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-slovakian-eggs-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T10:06:39.320Z"
+}
