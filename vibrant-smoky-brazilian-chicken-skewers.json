@@ -1,0 +1,82 @@
+{
+  "slug": "vibrant-smoky-brazilian-chicken-skewers",
+  "title": "Brazilian Chicken Skewers",
+  "description": "Grilled chicken skewers infused with smoky Brazilian flavors, perfect for a summer evening.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "brazilian churrasco seasoning",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "vibrant lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together churrasco seasoning, smoked paprika, and lime juice.",
+    "Add chicken, onion, and bell pepper to the bowl, and toss to coat.",
+    "Thread chicken and vegetables onto skewers.",
+    "Brush skewers with olive oil.",
+    "Grill skewers for 10-12 minutes, turning occasionally, until chicken is cooked through and vegetables are tender.",
+    "Serve immediately, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "grilled",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-smoky-brazilian-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T05:08:29.470Z"
+}
