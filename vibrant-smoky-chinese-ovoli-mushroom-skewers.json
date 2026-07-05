@@ -1,0 +1,78 @@
+{
+  "slug": "vibrant-smoky-chinese-ovoli-mushroom-skewers",
+  "title": "Mushroom and Ovoli Skewers",
+  "description": "A simple and flavorful appetizer featuring marinated mushrooms and ovoli, grilled to perfection. This recipe showcases the vibrant and smoky flavors of the ingredients.",
+  "cuisine": "grilled",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "ovoli",
+      "amount": "1 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12 wooden skewers",
+      "notes": ""
+    },
+    {
+      "name": "chinese five-spice",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together Chinese five-spice, vegetable oil, soy sauce, and honey. Add sliced mushrooms and ovoli, tossing to coat.",
+    "Thread mushroom and ovoli mixture onto skewers, leaving a small space between each piece.",
+    "Season with salt and pepper to taste.",
+    "Grill skewers for 8-10 minutes, turning occasionally, until vegetables are tender and lightly charred.",
+    "Serve hot, garnished with fresh herbs if desired.",
+    "Let cool for a few minutes before serving.",
+    "Enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "vegetarian",
+    "appetizer",
+    "mushroom"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-smoky-chinese-ovoli-mushroom-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T14:52:43.436Z"
+}
