@@ -3248,19 +3248,15 @@
   },
   {
     "slug": "velvety-jamaican-cream-cheese-crumble",
-    "title": "Velvety Jamaican Cream Cheese Crumble",
+    "title": "Jamaican Cheese Crumble",
     "tags": [
-      "jamaican",
-      "creamy",
+      "snack",
+      "cheese",
       "crumble",
-      "dessert",
-      "vegetarian",
-      "gluten-free",
-      "low-fodmap",
-      "comfort-food"
+      "dessert"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 25,
+    "cuisine": "jamaican",
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
@@ -5054,15 +5050,14 @@
   },
   {
     "slug": "velvety-slovakian-eggs-stir-fry",
-    "title": "Earthly Velvety Slovakian Eggs Stir-Fry",
+    "title": "Slovakian Velvety Fry-Ups",
     "tags": [
-      "velvety-eggs",
-      "earthly-slovakian",
-      "paleo-friendly",
-      "show-off-dish"
+      "breakfast",
+      "slovakian-cuisine",
+      "egg-recipes"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 25,
+    "cuisine": "slovakian",
+    "totalTimeMin": 15,
     "shard": "v"
   },
   {
