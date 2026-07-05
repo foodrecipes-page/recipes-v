@@ -1,0 +1,87 @@
+{
+  "slug": "vibrant-crispy-moroccan-mozzarella-chebakia",
+  "title": "Moroccan Chebakia Bites with Mozzarella",
+  "description": "A twist on traditional Moroccan pastries, these crispy bites are filled with melted mozzarella cheese and perfect as a snack or appetizer.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flour",
+      "amount": "1 1/2 cups",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "Confectioners' sugar",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "Vibrant orange blossom water",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Crispy chopped almonds",
+      "amount": "1/2 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "8 ounces",
+      "notes": "shredded"
+    },
+    {
+      "name": "Moroccan spice blend",
+      "amount": "1 teaspoon",
+      "notes": "ground cinnamon, ground ginger, ground cumin"
+    },
+    {
+      "name": "Chebakia",
+      "amount": "1 package",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 cup",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 375°F (190°C).",
+    "In a large mixing bowl, combine flour, confectioners' sugar, and Moroccan spice blend.",
+    "Add the vibrant orange blossom water and mix until a dough forms.",
+    "Knead the dough for 5 minutes until smooth.",
+    "Divide the dough into small balls and flatten each into a disk.",
+    "Place a piece of chebakia in the center of each disk and top with shredded mozzarella cheese.",
+    "Fold the dough over the filling and press the edges to seal.",
+    "Fry the pastries in batches until golden brown, about 2-3 minutes per side.",
+    "Drain the pastries on paper towels and dust with confectioners' sugar.",
+    "Garnish with crispy chopped almonds and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "chebakia",
+    "mozzarella",
+    "cheese",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-crispy-moroccan-mozzarella-chebakia",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T11:39:20.730Z"
+}
