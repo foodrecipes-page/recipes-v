@@ -1,0 +1,90 @@
+{
+  "slug": "vibrant-light-mediterranean-pappardelle-pasta",
+  "title": "Light Pappardelle with Mediterranean Sauce",
+  "description": "A quick and easy pasta dish that combines vibrant flavors of the mediterranean. This recipe is perfect for a weeknight dinner.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pappardelle",
+      "amount": "12 oz"
+    },
+    {
+      "name": "pasta",
+      "amount": "1 cup",
+      "notes": "reserves from the pappardelle"
+    },
+    {
+      "name": "vibrant",
+      "amount": "1/4 cup",
+      "notes": "olive oil"
+    },
+    {
+      "name": "light",
+      "amount": "1 cup",
+      "notes": "cherry tomatoes, halved"
+    },
+    {
+      "name": "mediterranean",
+      "amount": "1/4 cup",
+      "notes": "kalamata olives, pitted"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "grated parmesan",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook the pappardelle according to package instructions.",
+    "In a large skillet, heat the vibrant over medium heat.",
+    "Add the garlic and cook for 1-2 minutes until fragrant.",
+    "Add the light and cook for 2-3 minutes until tender.",
+    "Stir in the mediterranean and cook for 1 minute.",
+    "Toss the cooked pappardelle in the skillet with the sauce.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately, topped with grated parmesan and chopped parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pasta",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-light-mediterranean-pappardelle-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T02:44:51.644Z"
+}
