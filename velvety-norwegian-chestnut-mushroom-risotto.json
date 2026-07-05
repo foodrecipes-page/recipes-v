@@ -1,0 +1,57 @@
+{
+  "slug": "velvety-norwegian-chestnut-mushroom-risotto",
+  "title": "Creamy Chestnut and Mushroom Risotto",
+  "description": "A rich and comforting risotto dish made with chestnuts and mushrooms in a creamy velvety sauce.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian risotto",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chestnut",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Mushroom",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Velvety",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large skillet over medium heat.",
+    "Add sliced chestnut and cook for 3-4 minutes, or until slightly tender.",
+    "Add sliced mushroom and cook for an additional 3-4 minutes, or until tender.",
+    "In a separate pot, heat the Norwegian risotto with 2 cups of water, stirring constantly, until the water is absorbed.",
+    "Add cooked chestnut and mushroom to the risotto and stir in 2 tablespoons of velvety sauce.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "creamy",
+    "risotto"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-norwegian-chestnut-mushroom-risotto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T01:33:27.963Z"
+}
