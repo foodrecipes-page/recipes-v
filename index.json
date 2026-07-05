@@ -6163,17 +6163,16 @@
   },
   {
     "slug": "velvety-ukrainian-wagyu-tartare",
-    "title": "Velvety Ukrainian Wagyu Tartare",
+    "title": "Pan-Seared Wagyu Tartare with Ukrainian Pickles",
     "tags": [
-      "fine-dining",
-      "high-protein",
-      "raw-food",
-      "special-occasion",
-      "ukrainian-cuisine",
-      "wagyu-beef"
+      "wagyu",
+      "tartare",
+      "beef",
+      "appetizer",
+      "european"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 50,
+    "cuisine": "European",
+    "totalTimeMin": 15,
     "shard": "v"
   },
   {
