@@ -1,0 +1,67 @@
+{
+  "slug": "velvety-ukrainian-wagyu-tartare",
+  "title": "Pan-Seared Wagyu Tartare with Ukrainian Pickles",
+  "description": "A luxurious twist on the classic tartare dish, featuring the tender wagyu beef and paired with a tangy Ukrainian pickle.",
+  "cuisine": "European",
+  "diet": [
+    "meat-lovers"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "wagyu beef",
+      "amount": "8 oz",
+      "notes": "preferably sashimi-grade"
+    },
+    {
+      "name": "freshly ground black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "finely chopped shallot",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1 tablespoon",
+      "notes": "garnish"
+    },
+    {
+      "name": "ukrainian pickles",
+      "amount": "2-3",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Place the wagyu beef on a cutting board and chop it coarsely with a sharp knife.",
+    "In a small bowl, mix together the chopped shallot and a pinch of black pepper.",
+    "Add the chopped shallot mixture to the chopped beef and mix gently to combine.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, garnish with chopped fresh parsley and serve.",
+    "To assemble the dish, place a small scoop of the wagyu beef mixture onto a plate and top with a few slices of Ukrainian pickle.",
+    "Drizzle with a small amount of olive oil, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "wagyu",
+    "tartare",
+    "beef",
+    "appetizer",
+    "european"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-ukrainian-wagyu-tartare",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T00:42:01.921Z"
+}
