@@ -1,0 +1,64 @@
+{
+  "slug": "velvety-jamaican-cream-cheese-crumble",
+  "title": "Jamaican Cheese Crumble",
+  "description": "A spicy twist on the classic crumble, featuring a Jamaican-inspired filling and a crunchy topping. Perfect for a snack or dessert.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "velvety",
+      "amount": "1 cup"
+    },
+    {
+      "name": "jamaican",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "crumble",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium saucepan, combine the velvety, Jamaican, and cream. Cook over medium heat, stirring constantly, until the mixture thickens.",
+    "Remove the saucepan from the heat and stir in the cheese until melted and smooth.",
+    "Transfer the cheese mixture to a 9x9-inch baking dish.",
+    "In a small bowl, mix together the crumble and a pinch of salt.",
+    "Spread the crumble mixture evenly over the top of the cheese filling.",
+    "Bake for 20-25 minutes, or until the crumble is golden brown and the filling is heated through.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "snack",
+    "cheese",
+    "crumble",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-jamaican-cream-cheese-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T11:36:08.017Z"
+}
