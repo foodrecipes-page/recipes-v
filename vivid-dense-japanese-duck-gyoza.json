@@ -1,0 +1,66 @@
+{
+  "slug": "vivid-dense-japanese-duck-gyoza",
+  "title": "Pan-Seared Duck Gyoza with Asian Glaze",
+  "description": "A fusion dish featuring crispy duck gyoza served with a sweet and savory Asian-inspired glaze. Perfect for a dinner party or special occasion.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck gyoza (store-bought)",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "Vivid honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dense soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Japanese sake",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp (grated)"
+    },
+    {
+      "name": "Gyoza pan or skillet",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan or skillet over medium-high heat.",
+    "Add the duck gyoza to the pan, leaving space between each piece.",
+    "Pan-fry the gyoza for 2-3 minutes on each side, until golden brown and crispy.",
+    "While the gyoza is cooking, combine the vivid honey, dense soy sauce, Japanese sake, and grated ginger in a small saucepan.",
+    "Bring the glaze to a simmer over medium heat, stirring constantly.",
+    "Once the gyoza is cooked, remove it from the pan and brush the Asian glaze on top.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "asian-fusion",
+    "duck",
+    "gyoza"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vivid-dense-japanese-duck-gyoza",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T01:27:15.900Z"
+}
