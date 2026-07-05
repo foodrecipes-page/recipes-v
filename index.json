@@ -3206,17 +3206,14 @@
   },
   {
     "slug": "velvety-italian-oysters-saltimbocca",
-    "title": "Velvety Italian Oysters Saltimbocca",
+    "title": "Venison Saltimbocca",
     "tags": [
       "italian",
-      "one-pan",
-      "pescatarian",
-      "quick",
-      "romantic",
-      "weeknight"
+      "game-meat",
+      "venison"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 17,
+    "totalTimeMin": 27,
     "shard": "v"
   },
   {
@@ -7334,17 +7331,15 @@
   },
   {
     "slug": "vibrant-crisp-jamaican-chicken-skewers",
-    "title": "Vibrant Crisp Jamaican Chicken Skewers",
+    "title": "Jamaican Chicken Skewers",
     "tags": [
-      "chicken-recipes",
-      "dinner-ideas",
-      "gluten-free",
-      "iron-teppan",
-      "jamaican-cuisine",
-      "low-calorie"
+      "jamaican",
+      "chicken",
+      "skewers",
+      "grill"
     ],
     "cuisine": "Jamaican",
-    "totalTimeMin": 32,
+    "totalTimeMin": 23,
     "shard": "v"
   },
   {
@@ -7480,16 +7475,16 @@
   },
   {
     "slug": "vibrant-crispy-moroccan-mozzarella-chebakia",
-    "title": "Vibrant Crispy Moroccan Mozzarella Chebakia",
+    "title": "Moroccan Chebakia Bites with Mozzarella",
     "tags": [
-      "cheese-lovers",
-      "crispy-snacks",
-      "flexitarian",
-      "moroccan-cuisine",
-      "vegetarian-friendly"
+      "moroccan",
+      "chebakia",
+      "mozzarella",
+      "cheese",
+      "snack"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "v"
   },
   {
