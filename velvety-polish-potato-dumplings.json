@@ -1,0 +1,72 @@
+{
+  "slug": "velvety-polish-potato-dumplings",
+  "title": "Polish Potato Dumplings",
+  "description": "A traditional Polish dish made with potato dumplings, perfect for a hearty lunch. Serve with a side of velvety sauce for extra flavor.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "velvety sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "polish sausage (optional)",
+      "amount": "1/2 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Boil the potatoes until tender, then mash.",
+    "In a separate bowl, mix together the mashed potatoes, flour, and caraway seeds.",
+    "Knead the dough for 5-7 minutes until smooth.",
+    "Divide the dough into small pieces and shape into dumplings.",
+    "Bring a large pot of salted water to a boil and cook the dumplings for 5-7 minutes.",
+    "Drain the dumplings and serve with velvety sauce and polish sausage (if using).",
+    "Saute the onion in a pan until softened, then add to the sauce.",
+    "Simmer the sauce for 5-7 minutes until heated through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "potato",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-polish-potato-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T21:22:05.139Z"
+}
