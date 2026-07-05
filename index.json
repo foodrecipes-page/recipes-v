@@ -9574,17 +9574,14 @@
   },
   {
     "slug": "vibrant-smoky-brazilian-chicken-skewers",
-    "title": "Vibrant Smoky Brazilian Chicken Skewers",
+    "title": "Brazilian Chicken Skewers",
     "tags": [
-      "brazilian-food",
-      "dairy-free",
-      "gluten-free",
-      "grilled-chicken",
-      "high-protein",
-      "weeknight-meal"
+      "chicken",
+      "grilled",
+      "summer"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 32,
     "shard": "v"
   },
   {
