@@ -2897,17 +2897,15 @@
   },
   {
     "slug": "velvety-indian-fish-curry",
-    "title": "Velvety Indian Fish Curry",
+    "title": "Creamy Indian Fish Curry",
     "tags": [
-      "coconut-milk",
-      "comfort-food",
-      "fish-curry",
       "indian-cuisine",
-      "mangalorean",
-      "pescatarian"
+      "fish-dish",
+      "curry",
+      "easy-to-make"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 40,
+    "cuisine": "indian",
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
@@ -4326,16 +4324,14 @@
   },
   {
     "slug": "velvety-polish-potato-dumplings",
-    "title": "Velvety Polish Potato Dumplings",
+    "title": "Polish Potato Dumplings",
     "tags": [
-      "comfort-food",
-      "one-pot",
-      "polish-cuisine",
-      "vegetarian",
-      "weeknight"
+      "polish",
+      "potato",
+      "dumplings"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 45,
     "shard": "v"
   },
   {
