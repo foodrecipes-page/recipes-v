@@ -1,0 +1,79 @@
+{
+  "slug": "velvety-indulgent-vietnamese-tamarind-pho",
+  "title": "Tamarind Pho",
+  "description": "A twist on the classic Vietnamese noodle soup, adding a tangy tamarind flavor.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tamarind paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 package",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "velvety tofu",
+      "amount": "1 block",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "pho spices",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "4"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring the beef broth to a boil in a large pot.",
+    "Reduce the heat to a simmer and add the tamarind paste, pho spices, and fish sauce.",
+    "Cook for 10 minutes, stirring occasionally.",
+    "Cook the rice noodles according to the package instructions.",
+    "Add the velvety tofu to the pot and cook for 5 minutes.",
+    "Add the cooked noodles to the pot and stir to combine.",
+    "Serve hot, garnished with fresh cilantro and lime wedges.",
+    "Let each guest assemble their own bowl with the desired amount of tofu and noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "soup",
+    "noodles",
+    "tamarind"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-indulgent-vietnamese-tamarind-pho",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T11:03:54.848Z"
+}
