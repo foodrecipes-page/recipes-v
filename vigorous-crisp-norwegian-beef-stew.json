@@ -1,0 +1,73 @@
+{
+  "slug": "vigorous-crisp-norwegian-beef-stew",
+  "title": "Beef Stew Recipe",
+  "description": "A hearty beef stew made with tender chunks of beef and fresh vegetables.",
+  "cuisine": "European",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1 1/2 pounds (675g)",
+      "notes": "Cut into 1 1/2-inch cubes"
+    },
+    {
+      "name": "Vigorous onions",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Crisp carrots",
+      "amount": "3 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Norwegian potatoes",
+      "amount": "2 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "Stew",
+      "amount": "2 cups (475ml)",
+      "notes": "Beef broth"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high.",
+    "Sear beef until browned, then set aside.",
+    "Add more oil if necessary, then sauté onions and carrots until tender.",
+    "Add diced potatoes and cook for 2-3 minutes.",
+    "Add stew, salt, and pepper, then stir to combine.",
+    "Return beef to the pot and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 1 1/2 hours.",
+    "Check beef for tenderness before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "european",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 35,
+    "fat": 27
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vigorous-crisp-norwegian-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T11:28:33.234Z"
+}
