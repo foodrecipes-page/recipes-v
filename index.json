@@ -8304,16 +8304,15 @@
   },
   {
     "slug": "vibrant-hearty-french-chicken-tagine",
-    "title": "Vibrant Hearty French Chicken Tagine",
+    "title": "Hearty Chicken Tagine",
     "tags": [
-      "cheese-pull",
-      "date-night",
-      "diabetic-friendly",
-      "french-cuisine",
-      "one-pot"
+      "chicken",
+      "vegetarian",
+      "gluten-free",
+      "moroccan"
     ],
-    "cuisine": "French",
-    "totalTimeMin": 50,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 45,
     "shard": "v"
   },
   {
