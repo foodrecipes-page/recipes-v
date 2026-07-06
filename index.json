@@ -4621,17 +4621,15 @@
   },
   {
     "slug": "velvety-roasted-peruvian-fish-ceviche",
-    "title": "Velvety Roasted Peruvian Fish Ceviche",
+    "title": "Peruvian Fish Ceviche",
     "tags": [
-      "comfort-food",
-      "latin-american",
-      "peruvian-cuisine",
-      "pescatarian",
-      "roasted",
-      "seafood"
+      "peruvian",
+      "fish",
+      "ceviche",
+      "raw"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 15,
     "shard": "v"
   },
   {
@@ -4934,18 +4932,15 @@
   },
   {
     "slug": "velvety-savory-venezuelan-mushrooms-air-fry",
-    "title": "Velvety Savory Venezuelan Mushrooms Air-Fry",
+    "title": "Venezuelan Air Fryer Mushrooms",
     "tags": [
-      "date-night",
-      "gluten-free",
-      "low-fat",
-      "mushroom",
-      "one-pan",
-      "savory",
-      "vegetarian"
+      "air-fryer",
+      "vegan",
+      "mushrooms",
+      "venezuelan"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 22,
+    "cuisine": "venezuelan",
+    "totalTimeMin": 17,
     "shard": "v"
   },
   {
@@ -5874,17 +5869,15 @@
   },
   {
     "slug": "velvety-sweet-uruguayan-pancetta-skillet",
-    "title": "Velvety Sweet Uruguayan Pancetta Skillet",
+    "title": "Uruguayan Skillet Pancetta",
     "tags": [
-      "date-night",
-      "dinner-ideas",
-      "gluten-free",
-      "nut-free",
-      "one-pan",
-      "uruguayan-cuisine"
+      "breakfast",
+      "pancetta",
+      "uruguay",
+      "skillet"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
