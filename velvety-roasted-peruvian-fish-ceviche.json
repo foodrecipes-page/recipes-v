@@ -1,0 +1,76 @@
+{
+  "slug": "velvety-roasted-peruvian-fish-ceviche",
+  "title": "Peruvian Fish Ceviche",
+  "description": "A refreshing and flavorful dish from Peru, typically made with raw fish marinated in citrus juices.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Peruvian Fish (halibut or sea bass)",
+      "amount": "4 oz",
+      "notes": ""
+    },
+    {
+      "name": "Roasted Corn",
+      "amount": "1 cup",
+      "notes": "roasted over an open flame"
+    },
+    {
+      "name": "Velvety Lime Juice",
+      "amount": "1/2 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the fish into small pieces and place in a large bowl.",
+    "In a separate bowl, mix together the lime juice, corn, onion, and cilantro.",
+    "Pour the lime juice mixture over the fish, and season with salt and pepper to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "Just before serving, garnish with additional cilantro if desired.",
+    "Serve the ceviche chilled, with tortilla chips or toasted bread on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "fish",
+    "ceviche",
+    "raw"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 20,
+    "carbs": 5,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-roasted-peruvian-fish-ceviche",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T17:23:38.150Z"
+}
