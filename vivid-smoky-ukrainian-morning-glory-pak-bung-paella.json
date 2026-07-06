@@ -1,0 +1,90 @@
+{
+  "slug": "vivid-smoky-ukrainian-morning-glory-pak-bung-paella",
+  "title": "Smoky Paella with Bung and Glory",
+  "description": "A flavorful and spicy paella dish made with smoky sausage, bung for added richness, and morning glory for a burst of color and freshness.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoky Sausage",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Bung",
+      "amount": "1/2 cup",
+      "notes": "optional, for added richness"
+    },
+    {
+      "name": "Morning Glory",
+      "amount": "2 cups",
+      "notes": "or other leafy greens"
+    },
+    {
+      "name": "Pak",
+      "amount": "1 cup",
+      "notes": "or other short-grain rice"
+    },
+    {
+      "name": "Ukrainian Caraway Seeds",
+      "amount": "1 teaspoon",
+      "notes": "optional, for added flavor"
+    },
+    {
+      "name": "Vivid Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Glorious Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the smoky sausage and cook until browned, about 5 minutes.",
+    "Add the bung (if using) and cook for an additional 2 minutes.",
+    "Add the morning glory and cook until wilted, about 3 minutes.",
+    "Stir in the pak, caraway seeds (if using), salt, and black pepper.",
+    "Bring the mixture to a simmer and cook for 10-12 minutes, or until the liquid has been absorbed and the rice is tender.",
+    "Stir in the glorious garlic and cook for an additional minute.",
+    "Remove the pan from the heat and let it rest for 5 minutes before serving.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "paella",
+    "smoky",
+    "bung",
+    "morning-glory"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vivid-smoky-ukrainian-morning-glory-pak-bung-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T15:36:25.302Z"
+}
