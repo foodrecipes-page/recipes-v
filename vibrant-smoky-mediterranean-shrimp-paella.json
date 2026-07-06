@@ -1,0 +1,79 @@
+{
+  "slug": "vibrant-smoky-mediterranean-shrimp-paella",
+  "title": "Shrimp and Saffron Paella",
+  "description": "A classic Spanish dish with a smoky twist. This paella recipe combines succulent shrimp and vibrant saffron-infused rice.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "celiac"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked paprika",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Vibrant saffron threads",
+      "amount": "1/4 teaspoon",
+      "notes": "soaked in 2 tablespoons hot water"
+    },
+    {
+      "name": "Mediterranean rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 cup",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large paella pan over medium-high heat.",
+    "Add garlic and sauté until fragrant, about 1 minute.",
+    "Add tomato and sauté until softened, about 3 minutes.",
+    "Add smoked paprika and saffron (with its water) and stir to combine.",
+    "Add Mediterranean rice and stir to coat with the spice mixture.",
+    "Add shrimp and stir to combine with the rice mixture.",
+    "Cook for 5 minutes, stirring occasionally.",
+    "Transfer the paella pan to the oven and bake at 400°F (200°C) for 15-20 minutes, or until the rice is cooked and the shrimp are pink.",
+    "Remove from the oven and let rest for 5 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "paella",
+    "shrimp",
+    "spanish",
+    "seafood",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-smoky-mediterranean-shrimp-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T12:16:27.708Z"
+}
