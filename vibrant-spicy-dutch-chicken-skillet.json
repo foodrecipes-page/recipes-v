@@ -1,0 +1,83 @@
+{
+  "slug": "vibrant-spicy-dutch-chicken-skillet",
+  "title": "Spicy Chicken Skillet",
+  "description": "A quick and flavorful chicken skillet dish with a spicy kick.",
+  "cuisine": "dutch",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "skillet",
+      "amount": "",
+      "notes": "any size will do, but larger is better"
+    },
+    {
+      "name": "vibrant bell peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "spicy sausage",
+      "amount": "1/2 lb",
+      "notes": ""
+    },
+    {
+      "name": "dutch spice blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of olive oil in a large skillet over medium-high heat.",
+    "Add the chicken breast and cook until browned on both sides, about 5-6 minutes per side.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the remaining 1 tbsp of olive oil to the skillet.",
+    "Add the sliced bell peppers and cook until tender, about 5 minutes.",
+    "Add the spicy sausage and cook until browned, about 3-4 minutes.",
+    "Add the chicken back into the skillet and sprinkle with Dutch spice blend, salt, and pepper.",
+    "Stir to combine and continue cooking for an additional 2-3 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "skillet",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-spicy-dutch-chicken-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T11:55:55.054Z"
+}
