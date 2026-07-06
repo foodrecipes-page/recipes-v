@@ -1,0 +1,87 @@
+{
+  "slug": "velvety-uruguayan-apricot-bhuna",
+  "title": "Uruguayan Apricot Velvety Cake",
+  "description": "A moist and creamy cake infused with the sweetness of apricots and the richness of velvety chocolate, inspired by the flavors of Uruguay.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "250g"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "200g"
+    },
+    {
+      "name": "velvety chocolate chips",
+      "amount": "100g"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "60g"
+    },
+    {
+      "name": "eggs",
+      "amount": "3"
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "120g"
+    },
+    {
+      "name": "whole milk",
+      "amount": "150g"
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F). Grease a 20cm (8-inch) round cake pan and line the bottom with parchment paper.",
+    "In a medium bowl, whisk together the flour, sugar, baking powder, and salt.",
+    "In a large bowl, combine the melted butter, milk, eggs, and vanilla extract. Stir until well combined.",
+    "Add the flour mixture to the wet ingredients and stir until just combined.",
+    "Melt the velvety chocolate chips in a double boiler or in the microwave in 30-second increments, stirring between each interval.",
+    "Add the melted chocolate to the cake batter and stir until well combined.",
+    "Fold in the dried apricots.",
+    "Pour the batter into the prepared cake pan and smooth the top.",
+    "Bake for 40-45 minutes, or until a toothpick inserted into the center of the cake comes out clean.",
+    "Remove the cake from the oven and let it cool in the pan for 10 minutes.",
+    "Transfer the cake to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cake",
+    "dessert",
+    "uruguayan",
+    "apricot",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-uruguayan-apricot-bhuna",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T11:42:58.250Z"
+}
