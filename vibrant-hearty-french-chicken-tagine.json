@@ -1,0 +1,92 @@
+{
+  "slug": "vibrant-hearty-french-chicken-tagine",
+  "title": "Hearty Chicken Tagine",
+  "description": "A flavorful Moroccan-inspired stew made with chicken, hearty vegetables, and aromatic spices.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Add bell pepper, carrots, and onion. Cook until the vegetables are tender, about 10 minutes.",
+    "Add cumin, coriander, paprika, salt, and pepper. Cook for 1 minute.",
+    "Reduce heat to low and simmer, covered, for 20 minutes.",
+    "Serve hot, garnished with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "vegetarian",
+    "gluten-free",
+    "moroccan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-hearty-french-chicken-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T09:24:35.834Z"
+}
