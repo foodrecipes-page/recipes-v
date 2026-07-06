@@ -1,0 +1,63 @@
+{
+  "slug": "velvety-sweet-uruguayan-pancetta-skillet",
+  "title": "Uruguayan Skillet Pancetta",
+  "description": "A savory and sweet dish from Uruguay, combining crispy pancetta with a rich velvety sauce.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "pancetta",
+      "amount": "6 slices",
+      "notes": "thick-cut"
+    },
+    {
+      "name": "skillet",
+      "amount": "",
+      "notes": "for cooking"
+    },
+    {
+      "name": "velvety",
+      "amount": "2 tablespoons",
+      "notes": "sweet and creamy sauce"
+    },
+    {
+      "name": "sweet",
+      "amount": "2 tablespoons",
+      "notes": "caramelized onions"
+    }
+  ],
+  "instructions": [
+    "Preheat the skillet over medium heat.",
+    "Cook the pancetta slices until crispy, flipping halfway through.",
+    "Remove the pancetta from the skillet and set aside.",
+    "In the same skillet, add the sweet ingredients and cook until caramelized.",
+    "Add the velvety sauce to the skillet and stir to combine with the sweet ingredients.",
+    "Return the pancetta to the skillet and toss to coat with the velvety sauce.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "pancetta",
+    "uruguay",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 24,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-sweet-uruguayan-pancetta-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T17:53:03.804Z"
+}
