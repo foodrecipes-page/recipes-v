@@ -9209,17 +9209,16 @@
   },
   {
     "slug": "vibrant-roasted-peruvian-fish-stew",
-    "title": "Vibrant Roasted Peruvian Fish Stew",
+    "title": "Pan-Seared Fish with Peruvian Stew Sauce",
     "tags": [
-      "comfort-food",
-      "fish-stew",
-      "one-pot",
-      "peruvian-cuisine",
-      "pescatarian",
-      "roasted"
+      "fish",
+      "peruvian",
+      "stew",
+      "dinner",
+      "lunch"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 22,
     "shard": "v"
   },
   {
@@ -11020,16 +11019,15 @@
   },
   {
     "slug": "vivid-smoky-ukrainian-morning-glory-pak-bung-paella",
-    "title": "Vivid Smoky Ukrainian Morning-glory-pak-bung Paella",
+    "title": "Smoky Paella with Bung and Glory",
     "tags": [
-      "gluten-free",
-      "one-pan",
+      "paella",
       "smoky",
-      "ukrainian",
-      "weeknight"
+      "bung",
+      "morning-glory"
     ],
-    "cuisine": "ukrainian",
-    "totalTimeMin": 35,
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
     "shard": "v"
   },
   {
