@@ -1,0 +1,83 @@
+{
+  "slug": "vibrant-roasted-peruvian-fish-stew",
+  "title": "Pan-Seared Fish with Peruvian Stew Sauce",
+  "description": "A delicious and flavorful dish combining the freshness of Pan-Seared Fish with the boldness of Peruvian Stew Sauce.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "fish",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish fillet (Salmon)",
+      "amount": "4",
+      "notes": "Fresh fish, about 6 oz each"
+    },
+    {
+      "name": "Vibrant Olive Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Roasted Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Peruvian Stew Sauce",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped (optional)",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the fish fillets with salt and pepper.",
+    "Heat the vibrant olive oil in an oven-safe skillet over medium-high heat.",
+    "Add the roasted garlic cloves and cook for 1 minute.",
+    "Add the fish fillets, skin side up (if they have skin), and sear for 2-3 minutes.",
+    "Flip the fish over and transfer the skillet to the preheated oven.",
+    "Bake for 8-10 minutes or until cooked through.",
+    "While the fish is cooking, heat the Peruvian Stew Sauce in a separate saucepan over medium heat.",
+    "To serve, place the fish on a plate and spoon the Peruvian Stew Sauce over the top.",
+    "Garnish with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "peruvian",
+    "stew",
+    "dinner",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-roasted-peruvian-fish-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T15:30:58.249Z"
+}
