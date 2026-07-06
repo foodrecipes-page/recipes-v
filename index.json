@@ -6255,16 +6255,16 @@
   },
   {
     "slug": "velvety-uruguayan-apricot-bhuna",
-    "title": "Velvety Uruguayan Apricot Bhuna",
+    "title": "Uruguayan Apricot Velvety Cake",
     "tags": [
-      "velvety",
+      "cake",
+      "dessert",
       "uruguayan",
       "apricot",
-      "bhuna",
-      "low-carb"
+      "velvety"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 30,
+    "totalTimeMin": 60,
     "shard": "v"
   },
   {
@@ -9645,17 +9645,16 @@
   },
   {
     "slug": "vibrant-smoky-mediterranean-shrimp-paella",
-    "title": "Vibrant Smoky Mediterranean Shrimp Paella",
+    "title": "Shrimp and Saffron Paella",
     "tags": [
-      "keto-friendly",
-      "low-carb",
-      "mediterranean-cuisine",
-      "one-pan",
+      "paella",
+      "shrimp",
+      "spanish",
       "seafood",
-      "smoky"
+      "mediterranean"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 40,
+    "cuisine": "Spanish",
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
@@ -9892,17 +9891,14 @@
   },
   {
     "slug": "vibrant-spicy-dutch-chicken-skillet",
-    "title": "Vibrant Spicy Dutch Chicken Skillet",
+    "title": "Spicy Chicken Skillet",
     "tags": [
-      "chicken-recipes",
-      "dutch-cuisine",
-      "gluten-free",
-      "one-pan",
-      "spicy",
-      "weeknight"
+      "chicken",
+      "skillet",
+      "spicy"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 35,
+    "cuisine": "dutch",
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
@@ -10647,17 +10643,15 @@
   },
   {
     "slug": "vigorous-crisp-norwegian-beef-stew",
-    "title": "Vigorous Crisp Norwegian Beef Stew",
+    "title": "Beef Stew Recipe",
     "tags": [
-      "cold-weather",
-      "comfort-food",
-      "gluten-free",
-      "hearty-stew",
-      "norwegian-cuisine",
-      "one-pot"
+      "beef",
+      "stew",
+      "european",
+      "lunch"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 120,
+    "cuisine": "European",
+    "totalTimeMin": 110,
     "shard": "v"
   },
   {
