@@ -1,0 +1,69 @@
+{
+  "slug": "velvety-savory-venezuelan-mushrooms-air-fry",
+  "title": "Venezuelan Air Fryer Mushrooms",
+  "description": "A simple and flavorful recipe to make delicious air-fried mushrooms inspired by Venezuelan cuisine.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Savory",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Velvety",
+      "amount": "2 tbsp",
+      "notes": "Optional for extra creaminess"
+    },
+    {
+      "name": "Air",
+      "amount": "",
+      "notes": "Just kidding, we'll be using the air fryer!"
+    },
+    {
+      "name": "Fry",
+      "amount": "",
+      "notes": "The air fryer will do the work for us!"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 375°F (190°C).",
+    "Pat the mushrooms dry with a paper towel to remove excess moisture.",
+    "In a bowl, mix together the savory and velvety (if using).",
+    "Add the mushrooms to the bowl and toss to coat with the savory and velvety mixture.",
+    "Place the coated mushrooms in a single layer in the air fryer basket.",
+    "Air fry for 10-12 minutes, shaking halfway through.",
+    "Check the mushrooms for tenderness and crispiness.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "air-fryer",
+    "vegan",
+    "mushrooms",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 2,
+    "carbs": 5,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-savory-venezuelan-mushrooms-air-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T17:48:48.417Z"
+}
