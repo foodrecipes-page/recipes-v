@@ -1,0 +1,64 @@
+{
+  "slug": "velvety-festive-garlic-uruguayan-bake",
+  "title": "Uruguayan Garlic Bake",
+  "description": "A flavorful Uruguayan-inspired casserole with a garlic kick. This bake is perfect for a casual dinner or lunch.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "festive",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "bake",
+      "amount": "1 box",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "velvety",
+      "amount": "1/2 cup",
+      "notes": "unsweetened almond milk"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, sauté minced garlic until fragrant.",
+    "Add diced festive vegetables to the skillet and cook until tender.",
+    "In a separate bowl, whisk together gluten-free bake mix and unsweetened almond milk.",
+    "Add the wet ingredients to the skillet and stir to combine.",
+    "Pour the mixture into a greased 9x13-inch baking dish.",
+    "Bake for 25-30 minutes or until the top is lightly golden brown.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "garlic",
+    "casserole",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-festive-garlic-uruguayan-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T01:56:44.708Z"
+}
