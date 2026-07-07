@@ -1,0 +1,94 @@
+{
+  "slug": "vibrant-silky-peruvian-fish-ceviche-clasico",
+  "title": "Peruvian-Style Fish Ceviche",
+  "description": "A refreshing and zesty ceviche dish originating from Peru, made with fresh fish marinated in citrus juices and mixed with vibrant Peruvian-inspired flavors.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fish (halibut or snapper)",
+      "amount": "1 pound, cut into small pieces",
+      "notes": ""
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Peruvian aji amarillo peppers",
+      "amount": "2, seeded and chopped",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup, thinly sliced",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Vibrant Peruvian corn kernels",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fish bouillon cubes (optional)",
+      "amount": "1-2 cubes, dissolved in 2 tablespoons water",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Silky Peruvian aji panca oil (or regular olive oil)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the fish into small pieces and place in a large bowl.",
+    "In a separate bowl, mix together the lime juice, lemon juice, aji amarillo peppers, red onion, cilantro, and salt.",
+    "Pour the marinade over the fish and toss to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "Just before serving, stir in the Peruvian corn kernels, fish bouillon (if using), and aji panca oil.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the ceviche immediately, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "ceviche",
+    "fish",
+    "seafood",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-silky-peruvian-fish-ceviche-clasico",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T09:26:39.699Z"
+}
