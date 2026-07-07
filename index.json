@@ -9433,17 +9433,16 @@
   },
   {
     "slug": "vibrant-silky-peruvian-fish-ceviche-clasico",
-    "title": "Vibrant Silky Peruvian Fish Ceviche Clasico",
+    "title": "Peruvian-Style Fish Ceviche",
     "tags": [
-      "citrusy",
-      "jain-friendly",
       "peruvian",
+      "ceviche",
+      "fish",
       "seafood",
-      "spicy",
-      "steamed"
+      "snack"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 15,
     "shard": "v"
   },
   {
