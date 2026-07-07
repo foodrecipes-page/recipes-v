@@ -10040,18 +10040,16 @@
   },
   {
     "slug": "vibrant-spicy-saudi-arabian-pumpkin-tagine",
-    "title": "Vibrant Spicy Saudi-Arabian Pumpkin Tagine",
+    "title": "Pumpkin Tagine",
     "tags": [
-      "comfort-food",
-      "easy-to-make",
-      "gluten-free-option",
-      "high-fiber",
-      "saudi-arabian",
-      "vegan-option",
-      "weeknight-meal"
+      "saudi",
+      "arabian",
+      "stew",
+      "vegetarian",
+      "pumpkin"
     ],
-    "cuisine": "saudi-arabian",
-    "totalTimeMin": 55,
+    "cuisine": "Saudi",
+    "totalTimeMin": 40,
     "shard": "v"
   },
   {
