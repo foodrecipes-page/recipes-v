@@ -1,0 +1,77 @@
+{
+  "slug": "vigorously-charred-argentinian-beef-skewers",
+  "title": "Argentinian Beef Skewers",
+  "description": "Tender beef skewers grilled to perfection, inspired by the flavors of Argentina. This recipe is perfect for a summer evening or a backyard BBQ.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef (1.5 lbs)",
+      "amount": "1.5 lbs",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "charred red onion (1 medium)",
+      "amount": "1 medium",
+      "notes": "charred for 10 minutes"
+    },
+    {
+      "name": "garlic (4 cloves)",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh oregano (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "red pepper flakes (1 tsp)",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "olive oil (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": "for brushing"
+    },
+    {
+      "name": "lemon wedges (4)",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together garlic, oregano, red pepper flakes, and olive oil.",
+    "3. Add the beef cubes to the bowl and toss to coat with the marinade.",
+    "4. Thread the beef, red onion, and oregano onto skewers.",
+    "5. Season with salt and pepper to taste.",
+    "6. Grill the skewers for 8-10 minutes, turning occasionally, until the beef is cooked to your desired level of doneness.",
+    "7. Transfer the skewers to a serving platter and serve with lemon wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "argentinian",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vigorously-charred-argentinian-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T08:00:38.836Z"
+}
