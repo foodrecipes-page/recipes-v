@@ -10561,17 +10561,16 @@
   },
   {
     "slug": "vibrant-wok-hei-korean-macaroni-sujebi",
-    "title": "Vibrant Wok-Hei Korean Macaroni Sujebi",
+    "title": "Spicy Korean Macaroni Stir Fry",
     "tags": [
-      "dinner",
       "korean",
-      "one-pan",
-      "paleo",
-      "weeknight",
-      "wok-hei"
+      "stir-fry",
+      "spicy",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 25,
+    "totalTimeMin": 20,
     "shard": "v"
   },
   {
@@ -10661,17 +10660,14 @@
   },
   {
     "slug": "vigorously-charred-argentinian-beef-skewers",
-    "title": "Vigorously Charred Argentinian Beef Skewers",
+    "title": "Argentinian Beef Skewers",
     "tags": [
-      "argentinian",
-      "beef",
       "grilled",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "argentinian",
+      "beef"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
