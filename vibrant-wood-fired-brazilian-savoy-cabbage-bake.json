@@ -1,0 +1,73 @@
+{
+  "slug": "vibrant-wood-fired-brazilian-savoy-cabbage-bake",
+  "title": "Savoy Cabbage Brazilian Bake",
+  "description": "A delicious and healthy vegetarian dish with a fusion of Brazilian flavors and a crispy top.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "savoy cabbage",
+      "amount": "1 head",
+      "notes": null
+    },
+    {
+      "name": "brazilian cheddar cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "fired up bread crumbs",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "wood fired olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "vibrant bell peppers",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "salt and pepper",
+      "amount": null,
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Shred the savoy cabbage and set aside.",
+    "In a pan, heat the wood fired olive oil over medium heat.",
+    "Add the vibrant bell peppers and cook until tender, about 5 minutes.",
+    "In a large mixing bowl, combine the shredded cabbage, cooked bell peppers, and brazilian cheddar cheese.",
+    "Mix well and transfer the mixture to a baking dish.",
+    "Top with fired up bread crumbs and bake for 25 minutes, or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "vegetarian",
+    "lunch",
+    "cabbage"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-wood-fired-brazilian-savoy-cabbage-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T15:27:34.287Z"
+}
