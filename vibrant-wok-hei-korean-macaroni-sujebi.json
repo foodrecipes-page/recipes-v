@@ -1,0 +1,65 @@
+{
+  "slug": "vibrant-wok-hei-korean-macaroni-sujebi",
+  "title": "Spicy Korean Macaroni Stir Fry",
+  "description": "A simple and spicy stir fry recipe using Korean chili flakes and macaroni.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Macaroni",
+      "amount": "8 oz",
+      "notes": "any shape will do"
+    },
+    {
+      "name": "Vibrant Hei",
+      "amount": "1 cup",
+      "notes": "any variety of vibrant hei will work"
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Sujebi",
+      "amount": "1 tsp",
+      "notes": "optional, for added flavor"
+    }
+  ],
+  "instructions": [
+    "Cook the macaroni according to the package instructions until al dente.",
+    "In a large wok or frying pan, heat 1 tablespoon of oil over medium-high heat.",
+    "Add the vibrant hei and stir-fry for 2-3 minutes until slightly browned.",
+    "Add the Korean chili flakes and stir-fry for another minute.",
+    "Add the cooked macaroni to the wok and stir-fry for 2-3 minutes until combined with the hei and chili flakes.",
+    "Add the sujebi (if using) and stir-fry for another minute.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "stir-fry",
+    "spicy",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-wok-hei-korean-macaroni-sujebi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T08:08:04.373Z"
+}
