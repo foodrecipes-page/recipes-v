@@ -1,0 +1,86 @@
+{
+  "slug": "vibrant-spicy-turkish-bulgur-kisir",
+  "title": "Turkish Kisir Salad",
+  "description": "A traditional Turkish salad made with bulgur, vegetables, and spices. Kisir is a refreshing and flavorful side dish or light meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bulgur",
+      "amount": "1 cup",
+      "notes": "cracked wheat"
+    },
+    {
+      "name": "kisir",
+      "amount": "2 tablespoons",
+      "notes": "Turkish chili pepper paste"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine bulgur and 2 cups of water. Let it soak for 30 minutes.",
+    "Drain the bulgur and rinse it with cold water.",
+    "In a pan, heat the olive oil over medium heat. Add the diced onion and cook until softened, about 5 minutes.",
+    "Add the kisir and cook for 1 minute.",
+    "Add the diced tomato and cook for an additional 2 minutes.",
+    "Stir in the lemon juice, salt, and black pepper.",
+    "Add the cooked bulgur to the pan and stir to combine.",
+    "Transfer the mixture to a bowl and garnish with parsley.",
+    "Serve at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "salad",
+    "vegetarian",
+    "bulgur",
+    "kisir"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-spicy-turkish-bulgur-kisir",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T08:56:26.729Z"
+}
