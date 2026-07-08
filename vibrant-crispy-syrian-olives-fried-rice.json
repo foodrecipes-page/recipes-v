@@ -1,0 +1,69 @@
+{
+  "slug": "vibrant-crispy-syrian-olives-fried-rice",
+  "title": "Crispy Fried Rice",
+  "description": "A simple and delicious fried rice dish with a crispy twist.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Vibrant Olives",
+      "amount": "1/4 cup",
+      "notes": "sliced or chopped"
+    },
+    {
+      "name": "Syrian Olives",
+      "amount": "1/4 cup",
+      "notes": "pitted and sliced"
+    },
+    {
+      "name": "Fried Olives",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced syrian olives and cook until fragrant, about 1 minute.",
+    "Add the vibrant olives and cook for an additional minute.",
+    "Push the olives to one side of the skillet.",
+    "Add the remaining 1 tablespoon of vegetable oil to the other side of the skillet.",
+    "Add 2 cups of cooked rice to the skillet and stir-fry for 2-3 minutes.",
+    "Mix the rice with the olives and cook for an additional 2 minutes.",
+    "Transfer the rice mixture to a serving platter.",
+    "Garnish with fried olives and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fried-rice",
+    "asian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 4,
+    "carbs": 50,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-crispy-syrian-olives-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T16:37:54.807Z"
+}
