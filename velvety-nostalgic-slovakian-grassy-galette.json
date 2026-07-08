@@ -1,0 +1,83 @@
+{
+  "slug": "velvety-nostalgic-slovakian-grassy-galette",
+  "title": "Slovakian Wild Galette",
+  "description": "A hearty and earthy galette filled with wild mushrooms and herbs, inspired by Slovakian cuisine.",
+  "cuisine": "slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wild mushrooms",
+      "amount": "1 cup",
+      "notes": "such as chanterelle or cremini"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "grassy galette crust",
+      "amount": "1 pie crust",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "velvety goat cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "slovakian sour cream",
+      "amount": "2 tbsp",
+      "notes": "chilled"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the galette crust on a floured surface to a thickness of about 1/8 inch.",
+    "Transfer the crust to a baking sheet lined with parchment paper.",
+    "In a skillet, sauté the wild mushrooms and garlic in a little olive oil until tender.",
+    "Sprinkle the thyme and salt to taste over the mushroom mixture.",
+    "Spread the mushroom mixture over the center of the galette crust, leaving a 1-inch border around the edges.",
+    "Crumble the goat cheese over the mushroom mixture.",
+    "Drizzle the sour cream over the goat cheese.",
+    "Fold the edges of the galette crust up over the filling, pressing gently to seal.",
+    "Brush the crust with a little olive oil and sprinkle with salt.",
+    "Bake the galette for 25-30 minutes, or until the crust is golden brown and the filling is heated through.",
+    "Remove from the oven and sprinkle with chopped scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "wild-mushrooms",
+    "slovakian-cuisine",
+    "galette",
+    "herbs",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-nostalgic-slovakian-grassy-galette",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T09:46:54.568Z"
+}
