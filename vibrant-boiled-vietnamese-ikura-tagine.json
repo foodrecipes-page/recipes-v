@@ -1,0 +1,78 @@
+{
+  "slug": "vibrant-boiled-vietnamese-ikura-tagine",
+  "title": "Vietnamese Iced Coffee with Ikura Topping",
+  "description": "A refreshing Vietnamese iced coffee recipe with a twist of ikura and vibrant flavors.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "vietnamese coffee beans",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "strong brewed coffee",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "frozen ikura",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "condensed milk",
+      "amount": "3 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "ice cubes",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "vibrant mint leaves",
+      "amount": "2 sprigs",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Brew a cup of strong coffee.",
+    "In a separate glass, combine the condensed milk and sugar. Stir until the sugar is dissolved.",
+    "Add the brewed coffee to the glass and stir well.",
+    "Fill the glass with ice and stir well.",
+    "Top the coffee with frozen ikura.",
+    "Garnish with vibrant mint leaves.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "coffee",
+    "breakfast",
+    "vietnamese",
+    "ikura"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-boiled-vietnamese-ikura-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T09:58:43.906Z"
+}
