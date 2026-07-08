@@ -6445,17 +6445,16 @@
   },
   {
     "slug": "velvety-winey-argentinian-almond-butter-hash",
-    "title": "Velvety Winey Argentinian Almond Butter Hash",
+    "title": "Argentinian Hash with Caramelized Almonds",
     "tags": [
       "argentinian",
       "breakfast",
-      "high-protein",
-      "one-pan",
-      "weeknight",
-      "wine-based"
+      "hash",
+      "almonds",
+      "caramelized"
     ],
     "cuisine": "argentinian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 15,
     "shard": "v"
   },
   {
@@ -7461,16 +7460,14 @@
   },
   {
     "slug": "vibrant-crispy-syrian-olives-fried-rice",
-    "title": "Vibrant Crispy Syrian Olives Fried-Rice",
+    "title": "Crispy Fried Rice",
     "tags": [
-      "fodmap-friendly",
-      "one-pan",
-      "quick",
-      "syrian-heritage",
+      "fried-rice",
+      "asian-cuisine",
       "vegetarian"
     ],
-    "cuisine": "syrian",
-    "totalTimeMin": 45,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
@@ -9000,16 +8997,16 @@
   },
   {
     "slug": "vibrant-peppery-saudi-arabian-lamb-tagine",
-    "title": "Vibrant Peppery Saudi Arabian Lamb Tagine",
+    "title": "Savory Lamb Tagine",
     "tags": [
-      "comfort-food",
-      "lamb-based",
-      "low-fat",
-      "middle-eastern",
-      "one-pot"
+      "lamb",
+      "tagine",
+      "north-african",
+      "arabic",
+      "saudi"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 180,
+    "cuisine": "North African",
+    "totalTimeMin": 170,
     "shard": "v"
   },
   {
