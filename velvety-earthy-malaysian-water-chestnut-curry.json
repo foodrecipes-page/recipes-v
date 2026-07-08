@@ -1,0 +1,76 @@
+{
+  "slug": "velvety-earthy-malaysian-water-chestnut-curry",
+  "title": "Malaysian Velvety Chestnut Curry",
+  "description": "A rich and aromatic curry originating from Malaysia, made with velvety coconut milk and earthy chestnuts.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chestnut",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 cups, velvety"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion and garlic and sauté until softened.",
+    "Add curry powder and cook for 1 minute.",
+    "Add water and bring to a boil.",
+    "Add chestnut and coconut milk.",
+    "Simmer for 15-20 minutes or until chestnut is tender.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot garnished with fresh herbs."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry",
+    "chestnut",
+    "malaysian",
+    "vegetarian",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-earthy-malaysian-water-chestnut-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T01:05:24.514Z"
+}
