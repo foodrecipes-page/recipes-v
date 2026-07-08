@@ -1,0 +1,78 @@
+{
+  "slug": "velvety-light-filipino-cranberries-pudding",
+  "title": "Filipino Cranberry Pudding",
+  "description": "A simple dessert recipe that combines the sweetness of cranberries with the richness of Filipino-style pudding. Serve chilled and enjoy!",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup cranberries",
+      "amount": "",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "1 cup pudding mix",
+      "amount": "",
+      "notes": "Filipino-style"
+    },
+    {
+      "name": "1 cup milk",
+      "amount": "",
+      "notes": "whole, low-fat or nonfat"
+    },
+    {
+      "name": "1/4 cup sugar",
+      "amount": "",
+      "notes": "or to taste"
+    },
+    {
+      "name": "1/4 teaspoon salt",
+      "amount": "",
+      "notes": "optional"
+    },
+    {
+      "name": "1 tablespoon unsalted butter",
+      "amount": "",
+      "notes": "melted"
+    },
+    {
+      "name": "1 teaspoon vanilla extract",
+      "amount": "",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine cranberries, pudding mix, milk, sugar, and salt. Whisk until well combined.",
+    "Cook over medium heat, stirring constantly, until the mixture comes to a boil.",
+    "Reduce heat to low and simmer for 5 minutes, or until the pudding has thickened.",
+    "Remove from heat and stir in melted butter and vanilla extract (if using).",
+    "Let cool to room temperature, then refrigerate until chilled.",
+    "Serve chilled, garnished with additional cranberries if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "cranberry",
+    "pudding",
+    "dessert",
+    "chilled"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-light-filipino-cranberries-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T11:19:52.646Z"
+}
