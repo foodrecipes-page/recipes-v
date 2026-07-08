@@ -3965,16 +3965,16 @@
   },
   {
     "slug": "velvety-nostalgic-slovakian-grassy-galette",
-    "title": "velvety nostalgic Slovakian grassy Galette",
+    "title": "Slovakian Wild Galette",
     "tags": [
-      "dessert",
-      "grassy",
-      "slovakian",
-      "tempering-chocolate",
-      "velvety"
+      "wild-mushrooms",
+      "slovakian-cuisine",
+      "galette",
+      "herbs",
+      "cheese"
     ],
     "cuisine": "slovakian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "v"
   },
   {
@@ -10072,17 +10072,16 @@
   },
   {
     "slug": "vibrant-spicy-turkish-bulgur-kisir",
-    "title": "Vibrant Spicy Turkish Bulgur Kisir",
+    "title": "Turkish Kisir Salad",
     "tags": [
-      "diabetic-friendly",
-      "one-pot",
-      "spicy",
       "turkish",
+      "salad",
       "vegetarian",
-      "weeknight"
+      "bulgur",
+      "kisir"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
