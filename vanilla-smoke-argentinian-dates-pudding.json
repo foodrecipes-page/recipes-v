@@ -1,0 +1,64 @@
+{
+  "slug": "vanilla-smoke-argentinian-dates-pudding",
+  "title": "Argentinian Vanilla Pudding with Dates",
+  "description": "A creamy and sweet dessert made with Argentinian vanilla and dates, perfect for warm evenings.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Pudding",
+      "amount": "2 cups",
+      "notes": "vanilla flavored"
+    },
+    {
+      "name": "Vanilla",
+      "amount": "2 tsp",
+      "notes": "Argentinian vanilla extract"
+    },
+    {
+      "name": "Smoked salt",
+      "amount": "pinch",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine the pudding and 2 cups of milk. Whisk until well combined.",
+    "Cook over medium heat, stirring constantly, until the pudding comes to a boil.",
+    "Reduce the heat to low and simmer for 5 minutes, or until the pudding has thickened.",
+    "Remove the saucepan from the heat and stir in the Argentinian vanilla extract.",
+    "Cover the saucepan with plastic wrap and refrigerate for at least 2 hours, or until chilled.",
+    "Just before serving, stir in the pitted dates.",
+    "Spoon the pudding into individual serving cups or a large serving dish.",
+    "If desired, sprinkle with a pinch of smoked salt.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "vanilla",
+    "pudding",
+    "dates"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vanilla-smoke-argentinian-dates-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T22:46:31.806Z"
+}
