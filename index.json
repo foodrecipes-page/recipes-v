@@ -3502,16 +3502,16 @@
   },
   {
     "slug": "velvety-light-filipino-cranberries-pudding",
-    "title": "Velvety Light Filipino Cranberries Pudding",
+    "title": "Filipino Cranberry Pudding",
     "tags": [
-      "dessert-recipe",
-      "filipino-food",
-      "healthy-snack",
-      "low-carb",
-      "special-occasion"
+      "filipino",
+      "cranberry",
+      "pudding",
+      "dessert",
+      "chilled"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 45,
+    "totalTimeMin": 15,
     "shard": "v"
   },
   {
@@ -6944,17 +6944,15 @@
   },
   {
     "slug": "vibrant-boiled-vietnamese-ikura-tagine",
-    "title": "Vibrant Boiled Vietnamese Ikura Tagine",
+    "title": "Vietnamese Iced Coffee with Ikura Topping",
     "tags": [
-      "boiled-dish",
-      "ceramic-tagine",
-      "floral-notes",
-      "high-protein",
-      "solo-dinner",
-      "vietnamese"
+      "coffee",
+      "breakfast",
+      "vietnamese",
+      "ikura"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 35,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 5,
     "shard": "v"
   },
   {
