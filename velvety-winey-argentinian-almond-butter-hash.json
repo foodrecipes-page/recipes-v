@@ -1,0 +1,68 @@
+{
+  "slug": "velvety-winey-argentinian-almond-butter-hash",
+  "title": "Argentinian Hash with Caramelized Almonds",
+  "description": "A simple and flavorful dish showcasing the combination of crispy hash and caramelized almonds, originating from Argentina.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "hash",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "unsalted"
+    },
+    {
+      "name": "velvety",
+      "amount": "1 tsp",
+      "notes": "almond extract"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a pan, melt butter over medium heat.",
+    "Add sliced almonds and cook until caramelized, about 5 minutes.",
+    "Stir in almond extract (velvety) and remove from heat.",
+    "In a separate pan, reheat cooked hash over medium heat.",
+    "Add caramelized almonds to the hash and stir to combine.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "breakfast",
+    "hash",
+    "almonds",
+    "caramelized"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-winey-argentinian-almond-butter-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T17:26:42.023Z"
+}
