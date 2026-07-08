@@ -142,16 +142,15 @@
   },
   {
     "slug": "vanilla-smoke-argentinian-dates-pudding",
-    "title": "Vanilla Smoke Argentinian Dates Pudding",
+    "title": "Argentinian Vanilla Pudding with Dates",
     "tags": [
-      "vanilla",
-      "smoke",
       "argentinian",
-      "dessert",
-      "vegetarian"
+      "vanilla",
+      "pudding",
+      "dates"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 15,
     "shard": "v"
   },
   {
@@ -3691,15 +3690,15 @@
   },
   {
     "slug": "velvety-middle-eastern-chickpeas-hummus",
-    "title": "Velvety Middle Eastern Chickpeas Hummus",
+    "title": "Eastern Chickpea Wrap",
     "tags": [
-      "bitter",
-      "copper-mug",
-      "crowd-pleaser",
+      "chickpeas",
       "hummus",
-      "juicy",
-      "mid-eastern",
-      "vegan"
+      "middle-eastern",
+      "wrap",
+      "lunch",
+      "veggie",
+      "gluten-free"
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 10,
@@ -6661,14 +6660,12 @@
   },
   {
     "slug": "very-dense-slovakian-kiwifruit-galette",
-    "title": "slovakian kiwifruit galette",
+    "title": "Slovakian Kiwifruit Galette",
     "tags": [
-      "dessert",
-      "easy-to-make",
       "kiwifruit",
-      "single-pan",
+      "galette",
       "slovakian",
-      "weeknight"
+      "dessert"
     ],
     "cuisine": "slovakian",
     "totalTimeMin": 60,
@@ -9721,18 +9718,15 @@
   },
   {
     "slug": "vibrant-snappy-moroccan-kabanos-skewers",
-    "title": "Vibrant Snappy Moroccan Kabanos Skewers",
+    "title": "Spicy Moroccan Kebabs",
     "tags": [
-      "easy",
-      "gluten-free",
-      "meat-based",
-      "mediterranean",
-      "one-pan",
-      "quick",
-      "weeknight"
+      "grilled",
+      "kebabs",
+      "moroccan",
+      "vegetarian"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 27,
+    "totalTimeMin": 30,
     "shard": "v"
   },
   {
