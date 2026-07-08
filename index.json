@@ -3626,17 +3626,15 @@
   },
   {
     "slug": "velvety-mediterranean-oyster-mushrooms-soup",
-    "title": "Velvety Mediterranean Oyster Mushroom Soup",
+    "title": "Mediterranean Mushroom Soup",
     "tags": [
-      "vegetarian",
-      "keto-friendly",
-      "soups",
-      "Mediterranean",
-      "velvety",
-      "oyster-mushroom"
+      "soup",
+      "mushroom",
+      "mediterranean",
+      "vegetarian"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 30,
+    "totalTimeMin": 40,
     "shard": "v"
   },
   {
