@@ -1,0 +1,92 @@
+{
+  "slug": "vibrant-snappy-moroccan-kabanos-skewers",
+  "title": "Spicy Moroccan Kebabs",
+  "description": "A flavorful and colorful dish featuring marinated kabanos and vibrant vegetables, perfect for a quick lunch or dinner.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kabanos",
+      "amount": "12 oz",
+      "notes": "sliced into 1-inch pieces"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "snappy carrots",
+      "amount": "4",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "vibrant cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "spicy moroccan spice blend",
+      "amount": "1 tsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together lemon juice, spicy moroccan spice blend, and salt.",
+    "Add sliced kabanos to the marinade and let it sit for at least 30 minutes.",
+    "Thread kabanos, zucchini, bell pepper, red onion, and carrots onto skewers.",
+    "Brush skewers with olive oil and season with salt.",
+    "Grill skewers for 10-12 minutes, turning occasionally, until kabanos is slightly charred.",
+    "Serve hot with cherry tomatoes on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "kebabs",
+    "moroccan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-snappy-moroccan-kabanos-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T23:23:20.435Z"
+}
