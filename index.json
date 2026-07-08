@@ -3663,14 +3663,16 @@
   },
   {
     "slug": "velvety-mexican-yautia-polish",
-    "title": "Velvety Mexican Yautia Polish",
+    "title": "Yautia and Mexican Velvety Soup",
     "tags": [
-      "velvety-yautia-polish",
-      "high-protein-friendly-dish",
-      "mexican-bitter-root"
+      "yautia",
+      "mexican",
+      "velvety",
+      "soup",
+      "lunch"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 45,
+    "cuisine": "Latin American",
+    "totalTimeMin": 40,
     "shard": "v"
   },
   {
