@@ -1,0 +1,91 @@
+{
+  "slug": "velvety-mexican-yautia-polish",
+  "title": "Yautia and Mexican Velvety Soup",
+  "description": "A hearty and creamy soup blending the flavors of yautia and mexican cuisine.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yautia",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Mexican crema",
+      "amount": "1 cup",
+      "notes": "velvety"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add chopped onion and cook until softened, about 5 minutes.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add chopped yautia, cumin, and paprika. Cook for 2-3 minutes.",
+    "Pour in chicken broth and bring to a boil.",
+    "Reduce heat and simmer for 20-25 minutes, or until yautia is tender.",
+    "Use an immersion blender to puree the soup until smooth.",
+    "Stir in Mexican crema and season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "yautia",
+    "mexican",
+    "velvety",
+    "soup",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-mexican-yautia-polish",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T15:52:03.689Z"
+}
