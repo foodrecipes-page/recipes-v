@@ -1,0 +1,80 @@
+{
+  "slug": "velvety-nostalgic-uruguayan-oyster-stir-fry",
+  "title": "Uruguayan-Style Stir Fry",
+  "description": "A twist on traditional stir frys, this Uruguayan-inspired dish combines the flavors of Uruguay with the quick cooking method of stir frying.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Velvety Stir Fry Sauce",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Nostalgic Noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Oyster Mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok over medium-high heat.",
+    "Add onions and ginger and stir-fry until onions are translucent.",
+    "Add bell peppers and stir-fry for 3 minutes.",
+    "Add mushrooms and stir-fry for 4 minutes.",
+    "Add noodles, stir-fry sauce, and soy sauce. Stir-fry for 2-3 minutes.",
+    "Season with sesame oil and serve hot.",
+    "Serve hot over noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-nostalgic-uruguayan-oyster-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T04:59:17.182Z"
+}
