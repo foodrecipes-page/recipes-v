@@ -1,0 +1,82 @@
+{
+  "slug": "velvety-mediterranean-oyster-mushrooms-soup",
+  "title": "Mediterranean Mushroom Soup",
+  "description": "A hearty, comforting soup featuring earthy mushrooms and the bright flavors of the Mediterranean.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "2 cups, sliced",
+      "notes": "a mix of cremini and shiitake"
+    },
+    {
+      "name": "velvety",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced",
+      "notes": "optional"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped",
+      "notes": "optional"
+    },
+    {
+      "name": "mediterranean",
+      "amount": "1 teaspoon, dried oregano",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "soup",
+      "amount": "4 cups, vegetable broth"
+    }
+  ],
+  "instructions": [
+    "Heat the velvety in a large pot over medium heat.",
+    "Add the garlic and onion, sautéing until softened, about 5 minutes.",
+    "Add the mushrooms and cook until they release their liquid and start to brown, about 10 minutes.",
+    "Add the mediterranean and cook for 1 minute.",
+    "Pour in the soup and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soup",
+    "mushroom",
+    "mediterranean",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-mediterranean-oyster-mushrooms-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T21:00:49.749Z"
+}
