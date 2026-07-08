@@ -1,0 +1,79 @@
+{
+  "slug": "very-dense-slovakian-kiwifruit-galette",
+  "title": "Slovakian Kiwifruit Galette",
+  "description": "A traditional Slovakian-style fruit galette filled with sweet kiwifruit, perfect for a warm dessert. This recipe showcases the simplicity of Slovakian cuisine and the natural sweetness of kiwifruit.",
+  "cuisine": "slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "kiwifruit",
+      "amount": "3-4"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "icing sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C). Line a baking sheet with parchment paper.",
+    "2. In a large bowl, combine the flour, cold butter, and icing sugar. Use a pastry blender or your fingers to work the butter into the flour until the mixture resembles coarse crumbs.",
+    "3. In a separate bowl, whisk together the egg and vanilla extract. Add the granulated sugar and mix until combined.",
+    "4. Add the kiwifruit to the bowl and mix until the fruit is evenly coated with the sugar mixture.",
+    "5. Roll out the dough on a lightly floured surface to a thickness of about 1/8 inch. Transfer the dough to a 9-inch tart pan with a removable bottom.",
+    "6. Arrange the kiwifruit mixture in the center of the dough, leaving a 1-inch border around the edges.",
+    "7. Fold the edges of the dough up over the filling, pressing gently to seal.",
+    "8. Brush the tops of the dough with the beaten egg for a golden glaze.",
+    "9. Bake for 35-40 minutes, or until the crust is golden brown and the filling is tender.",
+    "10. Allow the galette to cool on a wire rack for at least 30 minutes before serving.",
+    "11. Dust with confectioners sugar before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "kiwifruit",
+    "galette",
+    "slovakian",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 3,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/very-dense-slovakian-kiwifruit-galette",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T23:16:04.330Z"
+}
