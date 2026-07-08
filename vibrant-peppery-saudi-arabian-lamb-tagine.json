@@ -1,0 +1,95 @@
+{
+  "slug": "vibrant-peppery-saudi-arabian-lamb-tagine",
+  "title": "Savory Lamb Tagine",
+  "description": "A traditional North African dish from the Arabian Peninsula, featuring tender lamb and aromatic spices in a rich tagine sauce.",
+  "cuisine": "North African",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 (1.5-2 kg)",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 tsp",
+      "notes": "available at most Middle Eastern stores"
+    },
+    {
+      "name": "ghee or olive oil",
+      "amount": "2 tbsp",
+      "notes": "for browning lamb"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "saudi saffron",
+      "amount": "1/2 tsp",
+      "notes": "soaked in 2 tbsp hot water"
+    },
+    {
+      "name": "arabian dates",
+      "amount": "6-8 pitted",
+      "notes": "chopped"
+    },
+    {
+      "name": "vibrant red bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped (for garnish)"
+    }
+  ],
+  "instructions": [
+    "Heat ghee or oil in a large clay or ceramic tagine over medium heat.",
+    "Brown lamb pieces in batches until browned on all sides. Remove and set aside.",
+    "Add onions and garlic to the tagine; cook until softened, stirring occasionally.",
+    "Add tagine spice blend, saffron, and dates; cook 1 minute, stirring constantly.",
+    "Add browned lamb, red bell pepper, and salt. Stir to combine.",
+    "Cover the tagine and transfer to the oven. Roast at 300°F (150°C) for 2-3 hours, or until lamb is tender.",
+    "Remove from the oven and garnish with fresh cilantro. Serve over couscous or rice.",
+    "Let the tagine rest for 10-15 minutes before serving to allow the flavors to meld."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "north-african",
+    "arabic",
+    "saudi"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 55,
+    "carbs": 30,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-peppery-saudi-arabian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T16:49:24.659Z"
+}
