@@ -1,0 +1,91 @@
+{
+  "slug": "velvety-middle-eastern-chickpeas-hummus",
+  "title": "Eastern Chickpea Wrap",
+  "description": "A delicious and healthy wrap filled with eastern flavors and chickpea goodness. Serve with a side of hummus for dipping.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chickpeas",
+      "amount": "1 can (14.5 oz)",
+      "notes": "Drained and rinsed"
+    },
+    {
+      "name": "Hummus",
+      "amount": "1/4 cup",
+      "notes": "For serving"
+    },
+    {
+      "name": "Pita bread",
+      "amount": "2 large",
+      "notes": "Soft and slightly warmed"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 cup, chopped",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 cup, diced",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 cup, sliced",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/4 cup, thinly sliced",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Tahini",
+      "amount": "2 tbsp",
+      "notes": "For dressing"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "For dressing"
+    }
+  ],
+  "instructions": [
+    "Warm pita bread by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Spread 2 tbsp of hummus on each pita half.",
+    "Top with chickpeas, lettuce, tomato, cucumber, and red onion.",
+    "Drizzle with tahini dressing (mix tahini and lemon juice in a small bowl).",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "chickpeas",
+    "hummus",
+    "middle-eastern",
+    "wrap",
+    "lunch",
+    "veggie",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-middle-eastern-chickpeas-hummus",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T21:42:27.512Z"
+}
