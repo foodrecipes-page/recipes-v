@@ -8588,18 +8588,15 @@
   },
   {
     "slug": "vibrant-kenyan-vegetable-skewers",
-    "title": "Vibrant Kenyan Vegetable Skewers",
+    "title": "Kenyan Vegetable Skewers",
     "tags": [
-      "african",
-      "healthy",
-      "one-pan",
-      "quick",
-      "street-food",
-      "vegan",
-      "vegetarian"
+      "grilled",
+      "vegetarian",
+      "kenyan",
+      "skewers"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 27,
+    "cuisine": "kenyan",
+    "totalTimeMin": 22,
     "shard": "v"
   },
   {
