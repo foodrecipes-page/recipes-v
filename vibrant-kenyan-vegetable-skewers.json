@@ -1,0 +1,76 @@
+{
+  "slug": "vibrant-kenyan-vegetable-skewers",
+  "title": "Kenyan Vegetable Skewers",
+  "description": "Grilled vegetable skewers inspired by Kenyan flavors, perfect for a quick and easy dinner.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vegetable skewers",
+      "amount": "1",
+      "notes": "any color or combination of bell peppers, onions, mushrooms, cherry tomatoes, and zucchini"
+    },
+    {
+      "name": "Extra-virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread vegetables onto skewers.",
+    "In a small bowl, whisk together olive oil, lemon juice, garlic powder, salt, and black pepper.",
+    "Brush the mixture onto both sides of the vegetables.",
+    "Grill the skewers for 10-12 minutes, turning occasionally.",
+    "Serve hot, garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "vegetarian",
+    "kenyan",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-kenyan-vegetable-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T11:07:55.068Z"
+}
