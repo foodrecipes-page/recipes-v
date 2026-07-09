@@ -2262,16 +2262,14 @@
   },
   {
     "slug": "velvety-egyptian-lentil-stew",
-    "title": "Velvety Egyptian Lentil Stew",
+    "title": "Lentil Stew",
     "tags": [
-      "comfort-food",
-      "hearty-stew",
-      "lentil-based",
-      "middle-eastern",
-      "one-pot"
+      "lentils",
+      "stew",
+      "vegetarian"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 60,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 50,
     "shard": "v"
   },
   {
