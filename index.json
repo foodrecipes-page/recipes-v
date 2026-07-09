@@ -1191,17 +1191,16 @@
   },
   {
     "slug": "velvety-bitter-malaysian-monterey-jack-cheese-quesadilla",
-    "title": "Velvety Bitter Malaysian Monterey Jack Cheese Quesadilla",
+    "title": "Malaysian Quesadilla Delight",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
+      "malaysian",
+      "quesadilla",
+      "cheese",
       "vegetarian",
-      "weeknight"
+      "gluten-free"
     ],
-    "cuisine": "mexican",
-    "totalTimeMin": 27,
+    "cuisine": "malaysian",
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
@@ -6575,17 +6574,16 @@
   },
   {
     "slug": "verdant-kenyan-sweet-potato-bao",
-    "title": "Verdant Kenyan Sweet Potato Bao",
+    "title": "Pan-Seared Bao with Sweet Potato Hash",
     "tags": [
-      "comfort-food",
-      "flexitarian",
-      "grassy",
-      "kenyan",
-      "puff-roux",
-      "quick-fix"
+      "breakfast",
+      "brunch",
+      "sweet-potato",
+      "bao",
+      "kenyan-spices"
     ],
-    "cuisine": "kenyan",
-    "totalTimeMin": 25,
+    "cuisine": "Asian-Fusion",
+    "totalTimeMin": 45,
     "shard": "v"
   },
   {
