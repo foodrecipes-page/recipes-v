@@ -1,0 +1,74 @@
+{
+  "slug": "verdant-kenyan-sweet-potato-bao",
+  "title": "Pan-Seared Bao with Sweet Potato Hash",
+  "description": "A delicious breakfast or brunch dish featuring pan-seared bao with a crispy sweet potato hash and a hint of Kenyan spices.",
+  "cuisine": "Asian-Fusion",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Sweet Potato",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Bao",
+      "amount": "4 pieces",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Kenyan Spices",
+      "amount": "1 tsp",
+      "notes": "a blend of cumin, coriander, and turmeric"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": "for pan-frying"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1 bunch",
+      "notes": "chopped (optional)"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of vegetable oil in a large skillet over medium-high heat.",
+    "Add the diced sweet potatoes and cook for 5 minutes, stirring occasionally.",
+    "Add the Kenyan spices and stir to combine.",
+    "Reduce heat to medium-low and cook for an additional 10 minutes, stirring occasionally.",
+    "Meanwhile, pan-fry the bao pieces in the remaining 1 tbsp of vegetable oil until golden brown.",
+    "Serve the pan-seared bao on top of the sweet potato hash.",
+    "Garnish with chopped green onions and fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "sweet-potato",
+    "bao",
+    "kenyan-spices"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/verdant-kenyan-sweet-potato-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T01:02:49.570Z"
+}
