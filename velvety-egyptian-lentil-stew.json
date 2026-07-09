@@ -1,0 +1,77 @@
+{
+  "slug": "velvety-egyptian-lentil-stew",
+  "title": "Lentil Stew",
+  "description": "A hearty and nutritious stew made with lentils and a hint of egyptian spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup",
+      "notes": "red or green"
+    },
+    {
+      "name": "velvety",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "egyptian spices",
+      "amount": "1 teaspoon",
+      "notes": "a mix of cumin, coriander, and paprika"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 can",
+      "notes": "diced"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": "or vegetable broth"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic, cook until softened.",
+    "Add egyptian spices and cook for 1 minute.",
+    "Add lentils, tomato, and water. Bring to a boil.",
+    "Reduce heat, cover, and simmer for 30 minutes.",
+    "Stir in velvety and season with salt and pepper.",
+    "Serve hot, garnished with fresh herbs."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lentils",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-egyptian-lentil-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T07:25:06.377Z"
+}
