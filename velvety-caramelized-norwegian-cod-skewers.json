@@ -1,0 +1,85 @@
+{
+  "slug": "velvety-caramelized-norwegian-cod-skewers",
+  "title": "Pan-Seared Cod with Caramelized Velvety Sauce",
+  "description": "A delicious and easy-to-make cod dish with a velvety caramelized sauce, perfect for a weeknight dinner.",
+  "cuisine": "Scandinavian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian Cod Fillets",
+      "amount": "4 fillets (6 oz each)",
+      "notes": "Fresh and sustainably sourced"
+    },
+    {
+      "name": "Velvety",
+      "amount": "1 cup",
+      "notes": "Caramelized, store-bought or homemade"
+    },
+    {
+      "name": "Skewers",
+      "amount": "4 wooden skewers",
+      "notes": "For serving"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "Unsalted and softened"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Wedges",
+      "amount": "4",
+      "notes": "For serving"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the cod fillets with salt and black pepper.",
+    "Heat the butter in an oven-safe skillet over medium heat.",
+    "Add the cod fillets to the skillet and sear for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until the cod is cooked through.",
+    "Meanwhile, warm the velvety caramelized sauce in a separate saucepan over low heat.",
+    "To serve, place a cod fillet on each skewer, spoon some of the warm sauce over the top, and garnish with chopped parsley and a lemon wedge, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "scandinavian",
+    "fish",
+    "gluten-free",
+    "dinner",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-caramelized-norwegian-cod-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T18:01:48.124Z"
+}
