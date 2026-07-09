@@ -1,0 +1,83 @@
+{
+  "slug": "velvety-comforting-algerian-aubergine-tagine",
+  "title": "Algerian Aubergine Tagine",
+  "description": "A hearty, flavorful stew originating from North Africa. This dish combines the rich flavors of algerian spices with the comforting taste of aubergine.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "algerian spice mix",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "aubergine",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "chicken or vegetable broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "white sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "canned crushed tomatoes",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay or ceramic pot over medium heat.",
+    "Add the chopped onion and sauté until softened, about 3-4 minutes.",
+    "Add the minced garlic and sauté for another minute.",
+    "Add the algerian spice mix and stir for 1 minute.",
+    "Add the aubergine pieces and cook, stirring occasionally, until they begin to soften, about 5 minutes.",
+    "Add the broth, sugar, and crushed tomatoes.",
+    "Bring the mixture to a simmer, then reduce the heat to low and let cook, covered, for 20-25 minutes, or until the aubergine is tender.",
+    "Season with salt and pepper to taste, then serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "aubergine",
+    "tagine",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-comforting-algerian-aubergine-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T20:56:25.603Z"
+}
