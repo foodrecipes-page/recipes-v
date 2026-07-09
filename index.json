@@ -1820,18 +1820,15 @@
   },
   {
     "slug": "velvety-comforting-algerian-aubergine-tagine",
-    "title": "Velvety Comforting Algerian Aubergine Tagine",
+    "title": "Algerian Aubergine Tagine",
     "tags": [
       "algerian",
-      "vegetarian",
-      "egg-free",
-      "gluten-free",
-      "tagine",
       "aubergine",
-      "vegan-friendly"
+      "tagine",
+      "stew"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 45,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "v"
   },
   {
