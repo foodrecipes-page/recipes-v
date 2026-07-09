@@ -1,0 +1,78 @@
+{
+  "slug": "velvety-greek-toor-dal-stir-fry",
+  "title": "Greek Dal Fry",
+  "description": "A flavorful and comforting Indian-inspired one-pot dish made with split lentils, onions, and spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Toor Dal",
+      "amount": "1 cup",
+      "notes": "split red lentils"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Velvety Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fry Spices",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add the sliced onions and sauté until they turn golden brown.",
+    "Add the toor dal, yogurt, tomato paste, and spices.",
+    "Mix well and add water. Bring the mixture to a boil.",
+    "Reduce the heat to low and let it simmer for 15-20 minutes or until the lentils are cooked.",
+    "Stir occasionally to prevent the lentils from sticking to the pan.",
+    "Season with salt to taste.",
+    "Serve hot garnished with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "lentils",
+    "vegetarian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-greek-toor-dal-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T22:07:36.990Z"
+}
