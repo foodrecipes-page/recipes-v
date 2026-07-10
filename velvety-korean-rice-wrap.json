@@ -1,0 +1,72 @@
+{
+  "slug": "velvety-korean-rice-wrap",
+  "title": "Korean-Style Rice Wrap",
+  "description": "A quick and easy recipe for a delicious Korean-inspired rice wrap. The velvety sauce adds a rich and creamy element to this meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Korean rice wrap",
+      "amount": "4-6 wraps",
+      "notes": ""
+    },
+    {
+      "name": "Cooked white rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Velvety sauce",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Kimchi",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crushed toasted sesame seeds",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Prepare the velvety sauce by mixing it with 1 tablespoon of soy sauce and 1 tablespoon of rice vinegar.",
+    "Cook the white rice according to package instructions.",
+    "Assemble the wrap by spreading a tablespoon of velvety sauce on the wrap, followed by a scoop of cooked rice, 1-2 tablespoons of kimchi, and a few slices of green onions.",
+    "Sprinkle crushed toasted sesame seeds on top.",
+    "Repeat the layers two more times to make a total of 3 layers.",
+    "Cut the wrap in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "rice",
+    "wrap",
+    "veggie",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-korean-rice-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T09:32:04.883Z"
+}
