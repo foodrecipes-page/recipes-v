@@ -1,0 +1,71 @@
+{
+  "slug": "vibrant-malty-ethiopian-injera-flatbread",
+  "title": "Ethiopian-Style Injera Flatbread",
+  "description": "A traditional Ethiopian flatbread made with teff flour, often served with stews and salads. Injera is a sourdough flatbread with a slightly sour taste and spongy texture.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "bread",
+  "ingredients": [
+    {
+      "name": "teff flour",
+      "amount": "2 cups",
+      "notes": "available in most health food stores or online"
+    },
+    {
+      "name": "water",
+      "amount": "1 1/2 cups",
+      "notes": "use filtered water"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "2 teaspoons",
+      "notes": "make sure yeast is gluten-free"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "use unrefined sea salt"
+    },
+    {
+      "name": "vibrant injera spices",
+      "amount": "1 teaspoon",
+      "notes": "or substitute with a mix of paprika and cumin"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine teff flour, yeast, and salt.",
+    "Gradually add water, stirring with a wooden spoon until the batter is smooth.",
+    "Cover the bowl with a damp cloth and let the mixture rest in a warm place for 24-48 hours.",
+    "After the batter has fermented, stir in vibrant injera spices.",
+    "Heat a non-stick skillet or injera pan over medium-high heat.",
+    "Pour 1/4 cup of the batter into the skillet and tilt to evenly coat the bottom.",
+    "Cook for 1-2 minutes, until the edges start to curl and the surface is dry.",
+    "Flip the injera and cook for another 30 seconds to 1 minute.",
+    "Repeat with the remaining batter, greasing the skillet with a small amount of oil between each injera."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": "8-10",
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "flatbread",
+    "injera",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 1
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-malty-ethiopian-injera-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T15:43:39.463Z"
+}
