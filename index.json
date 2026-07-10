@@ -897,17 +897,16 @@
   },
   {
     "slug": "velvety-algerian-lamb-tagine",
-    "title": "Velvety Algerian Lamb Tagine",
+    "title": "Lamb Tagine",
     "tags": [
-      "keto-friendly",
-      "low-carb",
-      "romantic",
-      "algerian",
-      "umami",
-      "velvety"
+      "lamb",
+      "tagine",
+      "north-african-cuisine",
+      "stew",
+      "couscous"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 70,
+    "cuisine": "North African",
+    "totalTimeMin": 110,
     "shard": "v"
   },
   {
@@ -8872,17 +8871,16 @@
   },
   {
     "slug": "vibrant-malty-ethiopian-injera-flatbread",
-    "title": "Vibrant Malt Ethiopian Injera Flatbread",
+    "title": "Ethiopian-Style Injera Flatbread",
     "tags": [
-      "african-cuisine",
+      "ethiopian",
       "flatbread",
+      "injera",
       "gluten-free",
-      "high-fiber",
-      "snack-time",
-      "vegan-friendly"
+      "vegetarian"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 30,
     "shard": "v"
   },
   {
