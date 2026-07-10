@@ -1,0 +1,85 @@
+{
+  "slug": "vibrant-polish-cauliflower-curry",
+  "title": "Curry Cauliflower Polish Sausage",
+  "description": "A flavorful curry dish made with polish sausage, cauliflower, and vibrant spices.",
+  "cuisine": "Polish",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish sausage",
+      "amount": "1 pound",
+      "notes": "any type of polish sausage is fine"
+    },
+    {
+      "name": "Cauliflower",
+      "amount": "1 head",
+      "notes": "you can use frozen cauliflower too"
+    },
+    {
+      "name": "Vibrant curry powder",
+      "amount": "2 teaspoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "1. Preheat your oven to 400°F (200°C).",
+    "2. Cook the polish sausage in a pan over medium heat until browned, then set aside.",
+    "3. In the same pan, add the olive oil and sauté the chopped onion until softened.",
+    "4. Add the minced garlic and curry powder to the pan and cook for another minute.",
+    "5. Add the cauliflower to the pan and cook until it starts to soften.",
+    "6. Add the cooked polish sausage back to the pan and stir to combine.",
+    "7. Season with salt and black pepper to taste.",
+    "8. Transfer the mixture to a baking dish and roast in the oven for 20-25 minutes.",
+    "9. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "curry",
+    "cauliflower",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-polish-cauliflower-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T00:46:32.540Z"
+}
