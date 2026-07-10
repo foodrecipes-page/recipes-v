@@ -1,0 +1,64 @@
+{
+  "slug": "vibrant-light-stew-japanese-plum-jam-onigiri",
+  "title": "Japanese Onigiri with Plum Jam",
+  "description": "A simple and delicious Japanese dish featuring triangular onigiri rice balls filled with sweet plum jam.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Japanese short-grain rice",
+      "amount": "1 cup",
+      "notes": "preferably Koshihikari or Akita Komachi"
+    },
+    {
+      "name": "Water",
+      "amount": "1 1/4 cups",
+      "notes": "for cooking the rice"
+    },
+    {
+      "name": "Plum jam",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 pinch",
+      "notes": "for flavor"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice thoroughly and cook according to the package instructions.",
+    "Once the rice is cooked, let it cool down to room temperature.",
+    "Mix the cooled rice with a pinch of salt and water to achieve the right consistency.",
+    "Divide the rice mixture into 3-4 equal parts and shape each part into a triangular onigiri.",
+    "Cut a small hole in the center of each onigiri and fill it with 1-2 teaspoons of plum jam.",
+    "Gently press the edges of the onigiri to seal the filling and shape the rice into a neat triangle.",
+    "Serve the onigiri triangles immediately or store them in an airtight container in the refrigerator for up to a day."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "rice",
+    "snack",
+    "onigiri",
+    "plum-jam"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 4,
+    "carbs": 70,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-light-stew-japanese-plum-jam-onigiri",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T21:37:32.977Z"
+}
