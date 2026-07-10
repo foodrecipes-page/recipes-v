@@ -3422,16 +3422,16 @@
   },
   {
     "slug": "velvety-korean-rice-wrap",
-    "title": "Velvety Korean Rice Wrap",
+    "title": "Korean-Style Rice Wrap",
     "tags": [
-      "caramel-drizzle",
-      "festive",
       "korean",
-      "rice-wrap",
-      "vegetarian"
+      "rice",
+      "wrap",
+      "veggie",
+      "lunch"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 15,
     "shard": "v"
   },
   {
