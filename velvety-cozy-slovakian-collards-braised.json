@@ -1,0 +1,70 @@
+{
+  "slug": "velvety-cozy-slovakian-collards-braised",
+  "title": "Cozy Slovakian Braised Collard Greens",
+  "description": "A hearty and comforting dish featuring tender collard greens in a rich, Slovakian-inspired sauce.",
+  "cuisine": "Eastern European",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "collards",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "braised",
+      "amount": "1 cup",
+      "notes": "Slovakian-style braised sauce"
+    },
+    {
+      "name": "velvety",
+      "amount": "2 tablespoons",
+      "notes": "Velvety sauce, see notes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and garlic and cook until softened, about 5 minutes.",
+    "Add collard greens and cook until wilted.",
+    "Stir in braised sauce and velvety sauce (see notes).",
+    "Bring to a simmer and cook, covered, until greens are tender, about 20-25 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs, if desired.",
+    "Note: To make velvety sauce, combine 2 tablespoons of butter with 2 tablespoons of heavy cream in a small saucepan.",
+    "Bring to a simmer over medium heat and cook until thickened, stirring occasionally."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "gluten-free",
+    "comfort-food",
+    "collard-greens"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-cozy-slovakian-collards-braised",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T00:05:47.640Z"
+}
