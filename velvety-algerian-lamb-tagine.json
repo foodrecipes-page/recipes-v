@@ -1,0 +1,111 @@
+{
+  "slug": "velvety-algerian-lamb-tagine",
+  "title": "Lamb Tagine",
+  "description": "A traditional North African stew made with tender lamb and flavorful spices, served over couscous.",
+  "cuisine": "North African",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 pound lamb shoulder, cut into 2-inch pieces",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1 onion, chopped",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1 tablespoon ground cumin",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1 teaspoon ground coriander",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1 teaspoon ground cinnamon",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1/2 teaspoon ground cayenne pepper",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "2 cups lamb or beef broth",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "2 tablespoons chopped fresh parsley",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "2 tablespoons chopped fresh cilantro",
+      "amount": null,
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add lamb and cook until browned on all sides, about 5 minutes.",
+    "Add cumin, coriander, cinnamon, cayenne pepper, salt, and black pepper. Cook for 1 minute.",
+    "Add broth and bring to a boil.",
+    "Reduce heat to low and simmer, covered, until lamb is tender, about 1 1/2 hours.",
+    "Stir in parsley and cilantro.",
+    "Serve over couscous.",
+    "Garnish with additional parsley and cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "north-african-cuisine",
+    "stew",
+    "couscous"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-algerian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T13:56:01.789Z"
+}
