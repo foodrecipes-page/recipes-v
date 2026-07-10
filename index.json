@@ -1921,17 +1921,15 @@
   },
   {
     "slug": "velvety-cozy-slovakian-collards-braised",
-    "title": "Velvety Cozy Slovakian Collards Braised",
+    "title": "Cozy Slovakian Braised Collard Greens",
     "tags": [
-      "collard-greens",
-      "comfort-food",
+      "vegetarian",
       "gluten-free",
-      "high-fiber",
-      "slovakian",
-      "vegan"
+      "comfort-food",
+      "collard-greens"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 150,
+    "cuisine": "Eastern European",
+    "totalTimeMin": 40,
     "shard": "v"
   },
   {
@@ -9021,17 +9019,15 @@
   },
   {
     "slug": "vibrant-polish-cauliflower-curry",
-    "title": "Vibrant Polish Cauliflower Curry",
+    "title": "Curry Cauliflower Polish Sausage",
     "tags": [
-      "cauliflower-curry",
-      "herbal",
-      "macrobiotic",
-      "one-pot",
-      "terracotta",
-      "vegan"
+      "polish",
+      "curry",
+      "cauliflower",
+      "sausage"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "v"
   },
   {
