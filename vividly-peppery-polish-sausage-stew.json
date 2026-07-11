@@ -1,0 +1,91 @@
+{
+  "slug": "vividly-peppery-polish-sausage-stew",
+  "title": "Polish Sausage Stew",
+  "description": "A hearty and flavorful stew made with Polish sausage, vividly colored vegetables, and a peppery kick.",
+  "cuisine": "Polish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish sausage",
+      "amount": "1 lb",
+      "notes": "Slice the sausage into 1-inch pieces"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Peel and chop the carrots into bite-sized pieces"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": "Seed and chop the pepper into bite-sized pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chop the onion into bite-sized pieces"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "Peel and chop the potatoes into bite-sized pieces"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": "Use a high-quality tomato paste for the best flavor"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "Use low-sodium broth for a healthier option"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Use kosher salt for the best flavor"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "Use freshly ground black pepper for the best flavor"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a large Dutch oven over medium-high heat.",
+    "Add the sliced sausage and cook until browned, about 5 minutes.",
+    "Remove the sausage from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the chopped carrots, bell pepper, and potatoes to the pot.",
+    "Cook for 5 minutes, stirring occasionally.",
+    "Add the tomato paste to the pot and cook for 1 minute.",
+    "Add the beef broth to the pot and stir to combine.",
+    "Return the sausage to the pot and bring the stew to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Season the stew with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "sausage",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vividly-peppery-polish-sausage-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T05:57:07.502Z"
+}
