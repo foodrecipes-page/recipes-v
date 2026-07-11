@@ -1,0 +1,92 @@
+{
+  "slug": "vibrant-roasted-mexican-date-tacos",
+  "title": "Vibrant Mexican Tacos",
+  "description": "A flavorful and colorful taco recipe with roasted vegetables and a hint of spice.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vibrant bell peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "Roasted sweet potatoes",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "Mexican oregano",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Tacos shells",
+      "amount": "6-8",
+      "notes": ""
+    },
+    {
+      "name": "Date chutney",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Roast the sweet potatoes at 400°F (200°C) for 20 minutes, or until tender.",
+    "In a pan, heat 1 tablespoon of oil over medium heat.",
+    "Add the diced peppers and cook until tender, about 5 minutes.",
+    "Add the cumin, oregano, and salt to the pan and stir for 1 minute.",
+    "Warm the tacos shells according to package instructions.",
+    "Assemble the tacos by spooning the pepper mixture onto a shell and topping with a spoonful of roasted sweet potatoes, date chutney, avocado, and cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "vegetarian",
+    "tacos",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-roasted-mexican-date-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T03:03:45.998Z"
+}
