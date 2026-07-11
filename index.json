@@ -1552,17 +1552,15 @@
   },
   {
     "slug": "velvety-canadian-summer-savoury-satay",
-    "title": "Velvety Canadian Summer Savoury Satay",
+    "title": "Summer Satay Velvety Soup",
     "tags": [
-      "canadian",
-      "midnight-craving",
-      "plant-based",
-      "savory",
+      "southeast-asian",
       "summer",
-      "velvety"
+      "velvety",
+      "soup"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 25,
+    "cuisine": "Southeast Asian",
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
@@ -5079,17 +5077,16 @@
   },
   {
     "slug": "velvety-smoked-portuguese-steak-stew",
-    "title": "Velvety Smoked Portuguese Steak Stew",
+    "title": "Smoked Steak with Velvety Stew",
     "tags": [
-      "creamy",
-      "portuguese",
-      "romantic",
-      "smoky",
       "steak",
-      "stew"
+      "stew",
+      "portuguese",
+      "beef",
+      "pork"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 40,
+    "totalTimeMin": 60,
     "shard": "v"
   },
   {
@@ -9670,17 +9667,15 @@
   },
   {
     "slug": "vibrant-snappy-kenyan-yang-bowl",
-    "title": "Vibrant Snappy Kenyan Yang Bowl",
+    "title": "Sizzling Yang and Kenyan Bowl",
     "tags": [
-      "fermented-foods",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
+      "kenyan",
+      "yang",
       "vegetarian",
-      "weeknight"
+      "gluten-free"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 35,
+    "cuisine": "kenyan",
+    "totalTimeMin": 15,
     "shard": "v"
   },
   {
@@ -11031,16 +11026,14 @@
   },
   {
     "slug": "vividly-crunchy-canadian-oats-pancakes",
-    "title": "Vividly Crunchy Canadian Oats Pancakes",
+    "title": "Canadian Crunchy Pancakes",
     "tags": [
-      "brunch-favorite",
-      "canadian-classic",
-      "crunchy-texture",
-      "oat-based",
-      "slow-cooked"
+      "breakfast",
+      "canadian",
+      "crunchy"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 35,
+    "cuisine": "North American",
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
