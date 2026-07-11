@@ -1,0 +1,84 @@
+{
+  "slug": "velvety-canadian-summer-savoury-satay",
+  "title": "Summer Satay Velvety Soup",
+  "description": "A refreshing summer soup inspired by the flavors of Southeast Asia, blending the creaminess of velvety and the warmth of satay.",
+  "cuisine": "Southeast Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Velvety",
+      "amount": "2 cups",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Summer squash",
+      "amount": "1 medium",
+      "notes": "such as zucchini or yellow crookneck"
+    },
+    {
+      "name": "Savory vegetable broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Satay sauce",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the velvety in a large pot over medium heat.",
+    "Add the summer squash and cook until tender, about 5 minutes.",
+    "Pour in the savory vegetable broth and bring to a simmer.",
+    "Stir in the satay sauce and coconut cream (if using).",
+    "Reduce heat to low and let soup simmer for 10 minutes.",
+    "Taste and adjust seasoning with salt as needed.",
+    "Stir in chopped cilantro and lime juice.",
+    "Serve hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "southeast-asian",
+    "summer",
+    "velvety",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-canadian-summer-savoury-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T17:04:16.888Z"
+}
