@@ -1,0 +1,64 @@
+{
+  "slug": "vibrant-snappy-kenyan-yang-bowl",
+  "title": "Sizzling Yang and Kenyan Bowl",
+  "description": "A flavorful bowl dish combining the spices of Yang and the savory flavors of Kenyan cuisine, all wrapped up in a vibrant and snappy twist.",
+  "cuisine": "kenyan",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kenyan",
+      "amount": "2 cups cooked"
+    },
+    {
+      "name": "yang",
+      "amount": "1 tablespoon paste"
+    },
+    {
+      "name": "vibrant",
+      "amount": "1/4 cup chopped fresh herbs"
+    },
+    {
+      "name": "snappy",
+      "amount": "1 cup cooked beans"
+    },
+    {
+      "name": "bowl",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large pan over medium-high heat.",
+    "Add the yang paste and cook for 1 minute, until fragrant.",
+    "Add the cooked kenyan and cook for 2 minutes, until heated through.",
+    "Stir in the vibrant fresh herbs and snappy beans.",
+    "Season with salt and pepper to taste.",
+    "Spoon the mixture into the bowls and serve hot.",
+    "Garnish with additional vibrant herbs if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "yang",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-snappy-kenyan-yang-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T17:55:04.282Z"
+}
