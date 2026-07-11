@@ -1,0 +1,82 @@
+{
+  "slug": "vegan-fermented-tender-bryndza-cheese-stir-fry",
+  "title": "Vegan Bryndza Stir Fry",
+  "description": "A twist on traditional bryndza stir fry, this vegan version replaces traditional cheese with a fermented option.",
+  "cuisine": null,
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fermented bryndza cheese alternative",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Tender broccoli florets",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Vegan stir-fry oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sliced onions",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Sliced bell peppers",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Sliced mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the stir-fry oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced onions and cook until they begin to soften, about 3 minutes.",
+    "Add the sliced bell peppers and mushrooms, and cook until the vegetables are tender-crisp, about 4 minutes.",
+    "Add the broccoli and cook until it reaches your desired level of tenderness, about 3-5 minutes.",
+    "Stir in the fermented bryndza cheese alternative and cook until it's melted and well combined with the vegetables.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot over rice or noodles, garnished with additional sliced onions and bell peppers if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "fermented",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vegan-fermented-tender-bryndza-cheese-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T16:34:24.247Z"
+}
