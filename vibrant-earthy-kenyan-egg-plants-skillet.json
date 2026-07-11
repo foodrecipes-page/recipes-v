@@ -1,0 +1,68 @@
+{
+  "slug": "vibrant-earthy-kenyan-egg-plants-skillet",
+  "title": "Kenyan Skillet Eggs",
+  "description": "A simple and flavorful dish that combines the richness of eggs with the spice of Kenya. Serve with crusty bread or over rice for a satisfying meal.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "egg",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "kenyan",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "skillet",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "plants",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "earth, vibrant",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium heat.",
+    "Crack the eggs into a bowl and whisk them together with a pinch of kenyan spice.",
+    "Add a small amount of oil to the skillet and pour in the eggs.",
+    "Cook the eggs until the edges start to set, then add the chopped plants to the skillet.",
+    "Continue cooking until the eggs are set and the plants are tender.",
+    "Season with a pinch of earthy, vibrant spice to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "eggs",
+    "breakfast",
+    "kenyan",
+    "skillet",
+    "plants"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-earthy-kenyan-egg-plants-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T07:06:04.573Z"
+}
