@@ -1,0 +1,74 @@
+{
+  "slug": "velvety-indian-shrimp-curry",
+  "title": "Shrimp Curry",
+  "description": "A classic Indian-inspired dish made with succulent shrimp and a rich, creamy curry sauce. Serve with steamed basmati rice or naan bread.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "velvety curry sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the shrimp and cook until pink, about 2-3 minutes per side.",
+    "Add the curry sauce, garam masala, and cumin powder. Stir to combine.",
+    "Reduce heat to low and simmer for 5-7 minutes, until the sauce has thickened.",
+    "Season with salt to taste.",
+    "Serve hot over steamed basmati rice or naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "curry",
+    "shrimp",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-indian-shrimp-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T16:34:29.002Z"
+}
