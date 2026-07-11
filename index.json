@@ -255,17 +255,14 @@
   },
   {
     "slug": "vegan-fermented-tender-bryndza-cheese-stir-fry",
-    "title": "Vegan Fermented Tender Bryndza Cheese Stir-fry",
+    "title": "Vegan Bryndza Stir Fry",
     "tags": [
       "vegan",
-      "stir-fry",
-      "bryndza_cheese",
       "fermented",
-      "tender",
-      "filipino"
+      "stir-fry"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 30,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
@@ -2948,16 +2945,15 @@
   },
   {
     "slug": "velvety-indian-shrimp-curry",
-    "title": "Velvety Indian Shrimp Curry",
+    "title": "Shrimp Curry",
     "tags": [
-      "comfort-food",
-      "curry",
       "indian",
-      "nighttime",
+      "curry",
+      "shrimp",
       "seafood"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 27,
     "shard": "v"
   },
   {
