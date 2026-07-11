@@ -4126,15 +4126,15 @@
   },
   {
     "slug": "velvety-peppery-chicken-stir-fry",
-    "title": "Velvety Peppery Chicken Stir-fry",
+    "title": "Chicken Stir Fry",
     "tags": [
-      "vegan",
+      "chicken",
       "stir-fry",
-      "peppery",
-      "velvety"
+      "asian",
+      "quick-dinner"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
