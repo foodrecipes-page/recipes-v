@@ -2669,17 +2669,15 @@
   },
   {
     "slug": "velvety-german-pork-skewers",
-    "title": "Velvety German Pork Skewers",
+    "title": "Velvety Pork Skewers with German Flavor",
     "tags": [
-      "german-cuisine",
-      "gluten-free",
-      "pork-recipes",
-      "quick-fix",
-      "sous-vide",
-      "weeknight"
+      "german",
+      "velvety",
+      "pork",
+      "skewers"
     ],
     "cuisine": "German",
-    "totalTimeMin": 140,
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
