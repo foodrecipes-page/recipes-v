@@ -1238,20 +1238,14 @@
   },
   {
     "slug": "velvety-bitter-thai-mushroom-curry",
-    "title": "Velvety Bitter Thai Mushroom Curry",
+    "title": "Thai Curry Mushroom Soup",
     "tags": [
-      "plant-based",
-      "vegan",
-      "thai-cuisine",
-      "mushroom",
-      "cozy",
-      "velvety",
-      "bitter",
-      "wine",
-      "winter"
+      "soup",
+      "vegetarian",
+      "thai"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "v"
   },
   {
@@ -7730,18 +7724,16 @@
   },
   {
     "slug": "vibrant-earthy-kenyan-egg-plants-skillet",
-    "title": "Vibrant Earthy Kenyan Egg Plants Skillet",
+    "title": "Kenyan Skillet Eggs",
     "tags": [
-      "easy-meal",
+      "eggs",
+      "breakfast",
       "kenyan",
-      "lunch",
-      "one-pan",
-      "paleo",
-      "vegan",
-      "whole30"
+      "skillet",
+      "plants"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 35,
+    "cuisine": "kenyan",
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
