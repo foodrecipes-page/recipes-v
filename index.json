@@ -450,15 +450,14 @@
   },
   {
     "slug": "vegan-toast-boost",
-    "title": "Vegan Toast Boost",
+    "title": "Vegan Breakfast Boost Toast",
     "tags": [
-      "vegan-butter",
-      "sourdough-toast",
-      "post-workout-dish",
-      "raw-friendly"
+      "breakfast",
+      "vegan",
+      "gluten-free"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 22,
+    "cuisine": "international",
+    "totalTimeMin": 7,
     "shard": "v"
   },
   {
@@ -11116,17 +11115,14 @@
   },
   {
     "slug": "vividly-peppery-polish-sausage-stew",
-    "title": "Vividly Peppery Polish Sausage Stew",
+    "title": "Polish Sausage Stew",
     "tags": [
-      "brunch-idea",
-      "comfort-food",
-      "hearty-stew",
-      "polish-cuisine",
-      "slow-cooked",
-      "spicy-food"
+      "polish",
+      "sausage",
+      "stew"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 60,
+    "totalTimeMin": 40,
     "shard": "v"
   },
   {
