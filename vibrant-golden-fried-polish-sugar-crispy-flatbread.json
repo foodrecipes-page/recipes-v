@@ -1,0 +1,67 @@
+{
+  "slug": "vibrant-golden-fried-polish-sugar-crispy-flatbread",
+  "title": "Polish Flatbread with Crispy Fried Apples",
+  "description": "A sweet and crunchy Polish-inspired flatbread topped with crispy fried apples, perfect for a snack or dessert.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Polish flatbread",
+      "amount": "6 pieces",
+      "notes": null
+    },
+    {
+      "name": "Golden apples",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons",
+      "notes": "granulated"
+    },
+    {
+      "name": "Crispy fried onions",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Slice the apples into thin wedges.",
+    "In a shallow dish, mix together sugar and crispy fried onions.",
+    "Dredge the apple wedges in the sugar mixture, coating evenly.",
+    "Heat 1/2 inch (1 cm) of oil in a large skillet over medium-high heat.",
+    "Fry the coated apple wedges until golden brown, about 2-3 minutes per side.",
+    "Transfer the fried apples to a baking sheet.",
+    "Bake in the preheated oven for 10-12 minutes, or until caramelized.",
+    "Cut the Polish flatbread into triangles or squares.",
+    "Serve the flatbread with the crispy fried apples on top.",
+    "Garnish with additional crispy fried onions, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "polish",
+    "flatbread",
+    "apples",
+    "fried",
+    "sugar"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-golden-fried-polish-sugar-crispy-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T20:47:51.104Z"
+}
