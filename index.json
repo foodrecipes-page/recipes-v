@@ -4235,18 +4235,16 @@
   },
   {
     "slug": "velvety-peruvian-shrimp-soup",
-    "title": "Velvety Peruvian Shrimp Soup",
+    "title": "Peruvian Shrimp Velvety Soup",
     "tags": [
-      "flexitarian",
-      "peruvian",
-      "seafood",
-      "soupy",
-      "spicy",
+      "shrimp",
       "velvety",
-      "weeknight"
+      "peruvian",
+      "soup",
+      "seafood"
     ],
-    "cuisine": "peruvian",
-    "totalTimeMin": 32,
+    "cuisine": "Peruvian",
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
@@ -4694,17 +4692,15 @@
   },
   {
     "slug": "velvety-russian-mushroom-dumplings",
-    "title": "Velvety Russian Mushroom Dumplings",
+    "title": "Beef and Mushroom Dumplings",
     "tags": [
-      "comfort-food",
-      "one-pot",
-      "rich-and-creamy",
-      "sous-vide",
-      "special-occasion",
-      "vegetarian-friendly"
+      "beef",
+      "mushroom",
+      "dumplings",
+      "russian"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 50,
     "shard": "v"
   },
   {
@@ -9129,17 +9125,15 @@
   },
   {
     "slug": "vibrant-roasted-mexican-date-tacos",
-    "title": "Vibrant Roasted Mexican Date Tacos",
+    "title": "Vibrant Mexican Tacos",
     "tags": [
-      "dairy-free",
-      "date-night",
-      "mexican-food",
-      "roasted-vegetables",
+      "mexican",
+      "vegetarian",
       "tacos",
-      "vegetarian"
+      "veggie"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 45,
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
@@ -11150,16 +11144,15 @@
   },
   {
     "slug": "vividly-smoked-argentinian-squid-empanadas",
-    "title": "Vividly Smoked Argentinian Squid Empanadas",
+    "title": "Smoked Argentine Squid Empanadas",
     "tags": [
       "argentinian",
-      "egg-free",
+      "seafood",
       "empanadas",
-      "squid",
-      "weeknight"
+      "squid"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 38,
+    "cuisine": "argentinian",
+    "totalTimeMin": 50,
     "shard": "v"
   },
   {
