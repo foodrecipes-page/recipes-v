@@ -1,0 +1,96 @@
+{
+  "slug": "vividly-smoked-argentinian-squid-empanadas",
+  "title": "Smoked Argentine Squid Empanadas",
+  "description": "A delicious twist on traditional empanadas, filled with tender smoked squid and perfect for a seafood lover's dinner.",
+  "cuisine": "argentinian",
+  "diet": [
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked squid",
+      "amount": "1/2 pound",
+      "notes": "Pre-cooked and flaked"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Lard or vegetable shortening",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Argentinian chimichurri",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, combine flour, lard or shortening, egg, salt, and pepper. Mix until a dough forms.",
+    "Knead the dough for 5-7 minutes until smooth.",
+    "Wrap the dough in plastic wrap and let rest for 30 minutes.",
+    "Roll out the dough to a thickness of 1/8 inch (3 mm).",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of smoked squid mixture onto one half of each dough circle.",
+    "Fold the dough in half and press edges together to seal.",
+    "Brush tops with egg wash and cut a few slits in each empanada.",
+    "Bake for 15-20 minutes, or until golden brown.",
+    "Serve hot with a side of chimichurri sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "seafood",
+    "empanadas",
+    "squid"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vividly-smoked-argentinian-squid-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T03:44:23.643Z"
+}
