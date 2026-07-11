@@ -1,0 +1,103 @@
+{
+  "slug": "velvety-smoked-portuguese-steak-stew",
+  "title": "Smoked Steak with Velvety Stew",
+  "description": "A hearty steak dish paired with a rich, creamy stew. Perfect for a cold evening.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Steak",
+      "amount": "1.5 lbs",
+      "notes": "1.5-2 lbs porterhouse or ribeye"
+    },
+    {
+      "name": "Portuguese Stew Meat",
+      "amount": "1 lb",
+      "notes": "such as beef or pork"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp",
+      "notes": "add depth to stew"
+    },
+    {
+      "name": "Velvety Red Wine",
+      "amount": "1 cup",
+      "notes": "such as Cabernet or Merlot"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp",
+      "notes": "adds rich flavor"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1 tsp",
+      "notes": "adds spice"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "seasoning"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "seasoning"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Season steak with salt and pepper. Sear in a skillet for 2-3 minutes per side.",
+    "3. Finish cooking steak in oven for 10-12 minutes to desired doneness.",
+    "4. While steak cooks, heat a large skillet over medium-high heat.",
+    "5. Add stew meat and cook until browned, about 5 minutes.",
+    "6. Add onion, garlic, smoked paprika, and chili flakes. Cook for 2 minutes.",
+    "7. Add red wine and bring to a boil.",
+    "8. Scrape up browned bits from skillet and add tomato paste.",
+    "9. Simmer stew for 20-25 minutes or until meat is tender.",
+    "10. Stir in diced tomatoes and cook for an additional 5 minutes.",
+    "11. Serve steak with velvety stew spooned over the top.",
+    "12. Garnish with chopped fresh herbs, such as parsley or thyme."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "steak",
+    "stew",
+    "portuguese",
+    "beef",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 60,
+    "carbs": 30,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-smoked-portuguese-steak-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T17:14:02.777Z"
+}
