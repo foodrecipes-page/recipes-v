@@ -7651,16 +7651,15 @@
   },
   {
     "slug": "vibrant-dense-venezuelan-shrimp-pilaf",
-    "title": "Vibrant Dense Venezuelan Shrimp Pilaf",
+    "title": "Venezuelan Shrimp and Pilaf",
     "tags": [
-      "comfort-food",
-      "healthy",
-      "latin-american",
-      "one-pot",
-      "seafood"
+      "venezuelan",
+      "shrimp",
+      "pilaf",
+      "latin"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
