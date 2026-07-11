@@ -2504,14 +2504,14 @@
   },
   {
     "slug": "velvety-flour-cake",
-    "title": "Velvety Flour Cake",
+    "title": "Velvety Cake",
     "tags": [
+      "cake",
       "velvety",
-      "portuguese",
       "dessert"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 40,
+    "cuisine": null,
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
@@ -8159,17 +8159,16 @@
   },
   {
     "slug": "vibrant-golden-fried-polish-sugar-crispy-flatbread",
-    "title": "Vibrant Golden Fried Polish Sugar Crispy Flatbread",
+    "title": "Polish Flatbread with Crispy Fried Apples",
     "tags": [
-      "dessert",
-      "easy-to-make",
-      "fried",
       "polish",
-      "sugar",
-      "weeknight"
+      "flatbread",
+      "apples",
+      "fried",
+      "sugar"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 25,
+    "totalTimeMin": 30,
     "shard": "v"
   },
   {
