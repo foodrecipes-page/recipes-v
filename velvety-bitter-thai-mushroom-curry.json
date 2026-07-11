@@ -1,0 +1,73 @@
+{
+  "slug": "velvety-bitter-thai-mushroom-curry",
+  "title": "Thai Curry Mushroom Soup",
+  "description": "A warm and comforting soup made with the flavors of Thailand, featuring tender mushrooms in a rich and creamy curry sauce.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Thai curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "velvety coconut milk",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "bitter balsamic vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fish sauce (optional)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium heat.",
+    "Add the Thai curry paste and stir until fragrant.",
+    "Add the mushrooms and cook until they release their liquid and start to brown.",
+    "Pour in the coconut milk, balsamic vinegar, and fish sauce (if using).",
+    "Add the water and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10-15 minutes, or until the soup has thickened slightly.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with fresh herbs if desired.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve over rice or noodles for a filling meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "vegetarian",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-bitter-thai-mushroom-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T07:44:50.632Z"
+}
