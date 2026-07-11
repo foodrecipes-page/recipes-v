@@ -1,0 +1,92 @@
+{
+  "slug": "velvety-peruvian-shrimp-soup",
+  "title": "Peruvian Shrimp Velvety Soup",
+  "description": "A rich and creamy Peruvian-inspired shrimp soup with a velvety texture.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "velvety",
+      "amount": "1 cup",
+      "notes": "velvety sauce (store-bought or homemade)"
+    },
+    {
+      "name": "peruvian",
+      "amount": "2 tablespoons",
+      "notes": "peruvian aji amarillo pepper paste"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "heavy cream or half-and-half"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and cook until softened, about 3-4 minutes.",
+    "Add garlic and cook for an additional minute.",
+    "Add shrimp and cook until pink, about 2-3 minutes.",
+    "Add Peruvian aji amarillo pepper paste and cook for 1 minute.",
+    "Pour in chicken broth and bring to a boil.",
+    "Reduce heat to low and simmer for 10-12 minutes.",
+    "Stir in velvety sauce and heavy cream.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "shrimp",
+    "velvety",
+    "peruvian",
+    "soup",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-peruvian-shrimp-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T03:27:30.477Z"
+}
