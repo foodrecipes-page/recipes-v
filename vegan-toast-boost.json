@@ -1,0 +1,66 @@
+{
+  "slug": "vegan-toast-boost",
+  "title": "Vegan Breakfast Boost Toast",
+  "description": "A delicious and nutritious breakfast option made with whole grain toast, topped with a vibrant and healthy vegan spread.",
+  "cuisine": "international",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Whole Grain Bread",
+      "amount": "2 slices",
+      "notes": "Use a gluten-free option if needed"
+    },
+    {
+      "name": "Vegan Spread",
+      "amount": "2 tablespoons",
+      "notes": "Choose a brand that suits your taste"
+    },
+    {
+      "name": "Boost Powder",
+      "amount": "1 teaspoon",
+      "notes": "Mix according to the package instructions"
+    },
+    {
+      "name": "Fresh Fruit",
+      "amount": "1 cup",
+      "notes": "Choose your favorite berries or sliced citrus"
+    },
+    {
+      "name": "Nuts or Seeds",
+      "amount": "1/4 cup",
+      "notes": "Select your preferred nut or seed for added crunch"
+    }
+  ],
+  "instructions": [
+    "1. Toast the slices of whole grain bread until lightly browned.",
+    "2. Spread 1 tablespoon of the vegan spread on each toasted slice.",
+    "3. Sprinkle 1/2 teaspoon of the Boost powder on top of each slice.",
+    "4. Arrange the fresh fruit on top of the spread.",
+    "5. Sprinkle the nuts or seeds over the fruit for added crunch.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vegan-toast-boost",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T05:57:09.190Z"
+}
