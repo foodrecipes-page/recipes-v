@@ -1,0 +1,69 @@
+{
+  "slug": "velvety-sour-croatian-mussels-stir-fry",
+  "title": "Mussels in a Velvety Sour Croatian Broth",
+  "description": "A hearty seafood dish featuring mussels in a rich and tangy broth, inspired by Croatian culinary traditions.",
+  "cuisine": "Croatian",
+  "diet": [
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mussels",
+      "amount": "2 pounds, scrubbed and debearded"
+    },
+    {
+      "name": "Velvety sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Croatian white wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 bunch, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large pot over medium heat.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the Croatian white wine and cook for 2-3 minutes, until reduced by half.",
+    "Add the mussels, velvety sour cream, and chopped parsley. Stir to combine.",
+    "Cover the pot and cook for 5-7 minutes, until the mussels are cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve the mussels in the rich broth, with a squeeze of fresh lemon juice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "croatian",
+    "mussels"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-sour-croatian-mussels-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T21:13:53.980Z"
+}
