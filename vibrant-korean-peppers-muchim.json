@@ -1,0 +1,75 @@
+{
+  "slug": "vibrant-korean-peppers-muchim",
+  "title": "Korean-Style Stir-Fried Muchim",
+  "description": "A spicy and flavorful stir-fry made with muchim, vibrant peppers, and other Korean-inspired ingredients. This dish is perfect for a quick and easy dinner.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "muchim",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vibrant pepper",
+      "amount": "2",
+      "notes": "any color of your choice"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon",
+      "notes": "for frying"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large skillet or wok over medium-high heat.",
+    "Add the garlic and green onion and stir-fry for 1 minute.",
+    "Add the vibrant peppers and stir-fry for 2-3 minutes, or until they start to soften.",
+    "Add the muchim and stir-fry for another 2-3 minutes, or until everything is well combined and heated through.",
+    "Season with soy sauce and salt to taste.",
+    "Serve immediately over rice or noodles.",
+    "Garnish with additional green onion if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "quick",
+    "vegetarian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-korean-peppers-muchim",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T02:00:45.476Z"
+}
