@@ -1,0 +1,78 @@
+{
+  "slug": "velvety-smoked-dutch-rice-pilaf",
+  "title": "Smoked Dutch Pilaf with Velvety Touch",
+  "description": "A creamy twist on traditional pilaf, featuring velvety texture and smoky flavor.",
+  "cuisine": "Dutch",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked Dutch sausage",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Rice pilaf mix",
+      "amount": "1 cup",
+      "notes": "Follow package instructions for preparation"
+    },
+    {
+      "name": "Velvety cream",
+      "amount": "1/2 cup",
+      "notes": "Heavy cream or half-and-half work as substitutes"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium broth recommended"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 teaspoon",
+      "notes": "Fresh thyme can be used as a substitute"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Cook the smoked Dutch sausage in a large skillet over medium-high heat until browned.",
+    "Remove sausage from the skillet and set aside.",
+    "Add the rice pilaf mix to the skillet and cook according to package instructions.",
+    "Stir in the velvety cream, chicken broth, thyme, salt, and pepper.",
+    "Return the cooked sausage to the skillet and stir to combine.",
+    "Bring the mixture to a simmer and cook for an additional 2-3 minutes.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoked-sausage",
+    "dutch-cuisine",
+    "pilaf",
+    "creamy",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-smoked-dutch-rice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T01:32:13.634Z"
+}
