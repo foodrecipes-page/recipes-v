@@ -5049,13 +5049,13 @@
   },
   {
     "slug": "velvety-smoked-dutch-rice-pilaf",
-    "title": "Velvety Smoked Dutch Rice Pilaf",
+    "title": "Smoked Dutch Pilaf with Velvety Touch",
     "tags": [
-      "anti-inflammatory",
-      "dutch",
-      "one-pan",
-      "smoked",
-      "weeknight"
+      "smoked-sausage",
+      "dutch-cuisine",
+      "pilaf",
+      "creamy",
+      "comfort-food"
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 30,
@@ -8598,16 +8598,15 @@
   },
   {
     "slug": "vibrant-korean-peppers-muchim",
-    "title": "Vibrant Korean Peppers Muchim",
+    "title": "Korean-Style Stir-Fried Muchim",
     "tags": [
-      "gluten-free",
-      "keto-friendly",
-      "korean-cuisine",
-      "low-carb",
-      "spicy"
+      "korean",
+      "quick",
+      "vegetarian",
+      "stir-fry"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 30,
+    "totalTimeMin": 15,
     "shard": "v"
   },
   {
