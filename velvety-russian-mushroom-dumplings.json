@@ -1,0 +1,83 @@
+{
+  "slug": "velvety-russian-mushroom-dumplings",
+  "title": "Beef and Mushroom Dumplings",
+  "description": "Hearty beef and mushroom dumplings in a rich and savory sauce, inspired by Russian cuisine.",
+  "cuisine": "Russian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "500g"
+    },
+    {
+      "name": "Mushroom",
+      "amount": "200g",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "250g"
+    },
+    {
+      "name": "Dumplings",
+      "amount": "20 pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "100g",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "20ml"
+    },
+    {
+      "name": "Salt",
+      "amount": "5g"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "2g"
+    },
+    {
+      "name": "Velvety Sauce",
+      "amount": "250ml"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion and cook until softened, about 3 minutes.",
+    "Add ground beef and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add mushrooms and cook until they release their liquid and start to brown.",
+    "Season with salt and pepper to taste.",
+    "Bring a large pot of salted water to a boil.",
+    "Add dumplings and cook until they float to the surface, about 5 minutes.",
+    "Drain dumplings and add them to the pan with the beef and mushroom mixture.",
+    "Stir in velvety sauce and cook for an additional 2-3 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "mushroom",
+    "dumplings",
+    "russian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-russian-mushroom-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T04:09:05.578Z"
+}
