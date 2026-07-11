@@ -1,0 +1,94 @@
+{
+  "slug": "vibrant-dense-venezuelan-shrimp-pilaf",
+  "title": "Venezuelan Shrimp and Pilaf",
+  "description": "A flavorful Venezuelan dish combining succulent shrimp with aromatic pilaf, inspired by the vibrant and dense cultures of the region.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "arborio rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "vegan oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add onion and garlic; cook, stirring occasionally, until softened, 3-4 minutes.",
+    "Add cumin, paprika, salt, and pepper; cook, stirring constantly, 1 minute.",
+    "Add shrimp; cook, stirring occasionally, until pink, 2-3 minutes per side.",
+    "Add rice, stirring to combine with shrimp mixture.",
+    "Cook, stirring constantly, 2 minutes.",
+    "Transfer skillet to oven; cook, covered, at 375°F (190°C) until rice is tender and liquid is absorbed, 15-20 minutes.",
+    "Stir in cilantro; serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "venezuelan",
+    "shrimp",
+    "pilaf",
+    "latin"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-dense-venezuelan-shrimp-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T13:32:52.735Z"
+}
