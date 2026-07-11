@@ -1,0 +1,95 @@
+{
+  "slug": "vividly-crunchy-canadian-oats-pancakes",
+  "title": "Canadian Crunchy Pancakes",
+  "description": "A delicious breakfast recipe featuring crunchy elements and a hint of Canadian flavor.",
+  "cuisine": "North American",
+  "diet": [
+    "Gluten-Free",
+    "Vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Oats",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Pancakes Mix",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "Canadian Maple Syrup",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Vividly Blueberries",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Crunchy Granola",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "In a large bowl, whisk together oats, pancakes mix, baking powder, and salt.",
+    "In a separate bowl, whisk together eggs, milk, and Canadian maple syrup.",
+    "Add the wet ingredients to the dry ingredients and stir until combined.",
+    "Fold in the vividly blueberries.",
+    "Pour the batter onto a greased skillet or griddle.",
+    "Cook for 2-3 minutes, until bubbles appear on the surface.",
+    "Flip and cook for another 1-2 minutes, until golden brown.",
+    "Top with crunchy granola and a pat of butter.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "canadian",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vividly-crunchy-canadian-oats-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T17:15:57.559Z"
+}
