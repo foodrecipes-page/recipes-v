@@ -1,0 +1,89 @@
+{
+  "slug": "velvety-german-pork-skewers",
+  "title": "Velvety Pork Skewers with German Flavor",
+  "description": "A delicious and easy-to-make pork skewer recipe with a velvety twist, inspired by traditional German flavors.",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, cut into 1-inch cubes",
+      "amount": "500g",
+      "notes": "Choose lean pork for a healthier option"
+    },
+    {
+      "name": "Velvety sauce (see instructions)",
+      "amount": "250ml",
+      "notes": "You can also use store-bought velvety sauce"
+    },
+    {
+      "name": "German mustard",
+      "amount": "2 tbsp",
+      "notes": "Choose a mild or spicy German mustard to your taste"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Optional garnish"
+    },
+    {
+      "name": "Vegetable skewers (wooden or metal)",
+      "amount": "12-15",
+      "notes": "Pre-soak wooden skewers in water for 30 minutes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "You can also use other neutral-tasting oils"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": "Optional, for extra flavor"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "Optional, for extra flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat (180°C / 350°F).",
+    "In a large bowl, whisk together velvety sauce, German mustard, garlic powder, and paprika.",
+    "Add the pork cubes to the bowl and toss to coat with the sauce mixture.",
+    "Thread the pork cubes onto the vegetable skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and season with salt and pepper to taste.",
+    "Grill the skewers for 10-12 minutes per side, or until the pork is cooked through and the internal temperature reaches 71°C (160°F).",
+    "Transfer the skewers to a plate and garnish with chopped parsley (if using).",
+    "Serve the skewers hot with additional velvety sauce on the side (if desired)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "velvety",
+    "pork",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": "35g",
+    "carbs": "15g",
+    "fat": "25g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-german-pork-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T11:25:34.012Z"
+}
