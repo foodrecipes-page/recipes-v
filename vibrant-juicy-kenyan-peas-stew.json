@@ -1,0 +1,89 @@
+{
+  "slug": "vibrant-juicy-kenyan-peas-stew",
+  "title": "Kenyan Pea Stew",
+  "description": "A hearty and flavorful stew originating from Kenya, featuring vibrant peas and juicy meat.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kenyan stew meat (beef or lamb)",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Vibrant peas",
+      "amount": "2 cups",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Juicy tomatoes",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add the stew meat and cook until browned, about 5 minutes.",
+    "Add the onion, garlic, and cook until the onion is translucent, about 3-4 minutes.",
+    "Add the tomato paste, chicken broth, salt, and pepper. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Add the vibrant peas and juicy tomatoes. Simmer for an additional 10-15 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "stew",
+    "peas",
+    "beef",
+    "lamb"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-juicy-kenyan-peas-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:13:10.418Z"
+}
