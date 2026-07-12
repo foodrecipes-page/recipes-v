@@ -1,0 +1,84 @@
+{
+  "slug": "velvety-dough-pie",
+  "title": "Classic Quiche Lorraine",
+  "description": "A rich and creamy quiche filled with bacon, onions, and cheese, perfect for a satisfying breakfast or brunch.",
+  "cuisine": "French",
+  "diet": [
+    "dairy",
+    "gluten"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Pie dough",
+      "amount": "1 sheet",
+      "notes": null
+    },
+    {
+      "name": "Bacon",
+      "amount": "6 slices",
+      "notes": "thick-cut"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Velvety cheese",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "Milk",
+      "amount": "3 large",
+      "notes": "eggs"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the pie dough and place it in a 9-inch tart pan with a removable bottom.",
+    "Bake the pie crust for 10-12 minutes, or until lightly golden.",
+    "In a large skillet, cook the bacon over medium heat until crispy.",
+    "Remove the bacon from the skillet with a slotted spoon and set aside.",
+    "Leave the drippings in the skillet and add the chopped onion.",
+    "Cook the onion until softened, about 5 minutes.",
+    "In a large bowl, whisk together the eggs, milk, salt, and black pepper.",
+    "Sprinkle the shredded cheese over the bottom of the pie crust.",
+    "Pour the egg mixture over the cheese.",
+    "Sprinkle the cooked bacon over the egg mixture.",
+    "Bake the quiche for 35-40 minutes, or until the edges are golden brown and the center is set."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "quiche",
+    "lorraine",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-dough-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:56:53.970Z"
+}
