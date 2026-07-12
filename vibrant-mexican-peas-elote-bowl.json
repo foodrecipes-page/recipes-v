@@ -1,0 +1,83 @@
+{
+  "slug": "vibrant-mexican-peas-elote-bowl",
+  "title": "Vibrant Elote Bowl",
+  "description": "A colorful and flavorful Mexican-inspired bowl filled with vibrant vegetables and a delicious elote sauce. Perfect for a light lunch or dinner.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Elote",
+      "amount": "4 ears",
+      "notes": "grilled"
+    },
+    {
+      "name": "Peas",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "Vibrant",
+      "amount": "1 cup",
+      "notes": " bell peppers, onion, and tomatoes"
+    },
+    {
+      "name": "Mexican Rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "Queso Fresco",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Grill the elote for 10-12 minutes, turning occasionally, until slightly charred.",
+    "Meanwhile, cook the Mexican rice according to package instructions.",
+    "In a large bowl, combine the cooked rice, grilled elote, peas, vibrant vegetables, and sliced avocado.",
+    "In a small bowl, whisk together the lime juice and queso fresco until smooth.",
+    "Pour the lime dressing over the bowl and toss to combine.",
+    "Sprinkle chopped cilantro on top and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "vegetarian",
+    "grilled",
+    "summer",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-mexican-peas-elote-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T02:56:54.878Z"
+}
