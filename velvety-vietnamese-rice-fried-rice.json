@@ -1,0 +1,64 @@
+{
+  "slug": "velvety-vietnamese-rice-fried-rice",
+  "title": "Crispy Fried Rice",
+  "description": "A simple and delicious Vietnamese-inspired dish made with fried rice, perfect for a quick snack or lunch.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fried Rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the fried rice and stir-fry for 2-3 minutes, breaking up any clumps with a spatula.",
+    "Add the chopped scallions and stir-fry for another minute.",
+    "Add the soy sauce (if using) and stir-fry for a further minute.",
+    "Taste and adjust the seasoning with salt as needed.",
+    "Transfer the fried rice to a serving platter and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fried-rice",
+    "vietnamese-cuisine",
+    "quick-recipe",
+    "lunch-ideas"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-vietnamese-rice-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T06:10:55.363Z"
+}
