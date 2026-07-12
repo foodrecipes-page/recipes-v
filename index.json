@@ -167,15 +167,14 @@
   },
   {
     "slug": "vanilla-spiced-garlic-syrian-stir-fry",
-    "title": "Vanilla Spiced Garlic Syrian Stir-fry",
+    "title": "Vanilla Garlic Stir Fry",
     "tags": [
-      "vanilla-spiced",
-      "garlic-syrian",
-      "diabetic-friendly",
-      "smoky"
+      "stir-fry",
+      "vegetarian",
+      "garlic-lovers"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 9,
+    "cuisine": "Asian",
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
