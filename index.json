@@ -1418,14 +1418,16 @@
   },
   {
     "slug": "velvety-buttery-steak-stir-fry",
-    "title": "Velvety Buttery Steak Stir-fry",
+    "title": "Pan-Seared Steak",
     "tags": [
+      "beef",
       "steak",
-      "stir-fry",
-      "vegan"
+      "dinner",
+      "quick",
+      "easy"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 35,
+    "cuisine": "American",
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
@@ -2030,15 +2032,16 @@
   },
   {
     "slug": "velvety-dough-pie",
-    "title": "Velvety Dough Pie",
+    "title": "Classic Quiche Lorraine",
     "tags": [
-      "velvety-dough-pie",
-      "british-dessert",
-      "vegan-friendly",
-      "dairy-free"
+      "breakfast",
+      "brunch",
+      "quiche",
+      "lorraine",
+      "french"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 50,
+    "cuisine": "French",
+    "totalTimeMin": 65,
     "shard": "v"
   },
   {
