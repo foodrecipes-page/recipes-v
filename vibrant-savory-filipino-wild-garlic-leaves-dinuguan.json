@@ -1,0 +1,97 @@
+{
+  "slug": "vibrant-savory-filipino-wild-garlic-leaves-dinuguan",
+  "title": "Filipino-Style Wild Pork Dinuguan with Leaves",
+  "description": "A hearty and savory Filipino dish made with wild pork, herbs, and a rich, garlicky sauce, served with vibrant leaves.",
+  "cuisine": "Filipino",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Wild Pork Shoulder",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Fresh Leaves (Panggang or Malunggay)",
+      "amount": "1 bunch",
+      "notes": null
+    },
+    {
+      "name": "Filipino Vinegar",
+      "amount": "2 tablespoons",
+      "notes": "such as Sukang Iloko or vinegar of choice"
+    },
+    {
+      "name": "Patis (Fish Sauce)",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Savory Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Dinuguan Spice Mix",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. In a large pot, boil the wild pork shoulder in water until tender, about 20 minutes.",
+    "2. Drain the pork and set it aside.",
+    "3. In a blender or food processor, combine the garlic, patis, black pepper, savory salt, and dinuguan spice mix. Blend until smooth.",
+    "4. In a pan, heat a tablespoon of oil over medium heat. Add the blended mixture and sauté until fragrant, about 2-3 minutes.",
+    "5. Add the vinegar and water to the pan, and stir to combine.",
+    "6. Add the cooked pork to the pan, and simmer the mixture for about 10-15 minutes, stirring occasionally.",
+    "7. Meanwhile, chop the fresh leaves and set them aside.",
+    "8. To serve, place a portion of the dinuguan on a plate, and garnish with chopped leaves.",
+    "9. Serve hot, and enjoy!",
+    "10. Optional: Serve with steamed rice or a side of steamed vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "pork",
+    "dinuguan",
+    "leaves",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-savory-filipino-wild-garlic-leaves-dinuguan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T11:16:11.094Z"
+}
