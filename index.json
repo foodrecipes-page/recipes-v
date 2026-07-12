@@ -1224,15 +1224,14 @@
   },
   {
     "slug": "velvety-bitter-summer-savory-leaves-stir-fry",
-    "title": "Velvety Bitter Summer Savory Leaves Stir-fry",
+    "title": "Summer Stir Fry",
     "tags": [
-      "bitter",
-      "velvety",
-      "summer-savory",
-      "post-workout"
+      "summer-stir-fry",
+      "vegetarian",
+      "quick-dinner"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 12,
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
@@ -8862,17 +8861,16 @@
   },
   {
     "slug": "vibrant-mexican-peas-elote-bowl",
-    "title": "Vibrant Mexican Peas Elote Bowl",
+    "title": "Vibrant Elote Bowl",
     "tags": [
-      "buddhist-temple-friendly",
-      "elote-bowl",
-      "fermented",
-      "quick-fix",
-      "shattering",
-      "sonoran"
+      "mexican",
+      "vegetarian",
+      "grilled",
+      "summer",
+      "bowl"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 20,
+    "totalTimeMin": 27,
     "shard": "v"
   },
   {
