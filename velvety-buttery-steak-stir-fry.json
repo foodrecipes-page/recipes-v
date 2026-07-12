@@ -1,0 +1,69 @@
+{
+  "slug": "velvety-buttery-steak-stir-fry",
+  "title": "Pan-Seared Steak",
+  "description": "A simple and flavorful steak recipe cooked to perfection. Enjoy a juicy and tender steak with a crispy crust.",
+  "cuisine": "American",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Steak",
+      "amount": "1.5 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Velvety",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Buttery",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Stir",
+      "amount": "1 tsp",
+      "notes": "ground black pepper"
+    },
+    {
+      "name": "Fry",
+      "amount": "1 tsp",
+      "notes": "garlic powder"
+    }
+  ],
+  "instructions": [
+    "Season the steak with stir (black pepper) and fry (garlic powder) on both sides.",
+    "Heat a skillet over medium-high heat and add buttery.",
+    "Sear the steak for 3-4 minutes per side or until it reaches 135°F for medium-rare.",
+    "Transfer the steak to a plate and let it rest.",
+    "Add velvety to the skillet and whisk until smooth.",
+    "Return the steak to the skillet and spoon the velvety sauce over the top.",
+    "Cook for an additional 1-2 minutes or until the sauce is bubbly and slightly thickened.",
+    "Slice the steak against the grain and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "steak",
+    "dinner",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-buttery-steak-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T08:11:21.816Z"
+}
