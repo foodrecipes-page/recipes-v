@@ -1,0 +1,74 @@
+{
+  "slug": "velvety-sour-italian-emmentaler-cheese-pesto-robata-grill",
+  "title": "Grilled Italian Cheese Sandwich",
+  "description": "A classic Italian-inspired grilled cheese sandwich made with Emmentaler cheese, pesto, and a hint of Italian seasoning.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Emmentaler cheese",
+      "amount": "2 slices",
+      "notes": "about 1 oz each"
+    },
+    {
+      "name": "Pesto",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 tsp",
+      "notes": "dried oregano, basil, thyme"
+    },
+    {
+      "name": "Bread",
+      "amount": "2 slices",
+      "notes": " Ciabatta or Italian bread"
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tbsp",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium heat.",
+    "2. Butter one side of each bread slice.",
+    "3. Place one bread slice, butter side down, on the grill.",
+    "4. Spread a layer of pesto on top of the bread.",
+    "5. Place a slice of Emmentaler cheese on top of the pesto.",
+    "6. Sprinkle Italian seasoning over the cheese.",
+    "7. Place the second bread slice, butter side up, on top of the cheese.",
+    "8. Cook for 2-3 minutes or until the bread is golden brown and the cheese is melted.",
+    "9. Flip the sandwich over and cook for an additional 2-3 minutes or until the other side is also golden brown.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 4,
+  "totalTimeMin": 9,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "grilled",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-sour-italian-emmentaler-cheese-pesto-robata-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T13:32:33.800Z"
+}
