@@ -1,0 +1,69 @@
+{
+  "slug": "velvety-american-tamarind-ball-stir-fry",
+  "title": "Tamarind BBQ Ribs",
+  "description": "Tender and fall-off-the-bone ribs slathered in a sweet and tangy tamarind BBQ sauce.",
+  "cuisine": "American",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork ribs",
+      "amount": "2 pounds",
+      "notes": "baby back ribs or spare ribs"
+    },
+    {
+      "name": "tamarind BBQ sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "velvety BBQ rub",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 275°F (135°C).",
+    "Remove the membrane from the back of the ribs.",
+    "In a small bowl, mix together the BBQ rub and brown sugar (if using).",
+    "Apply the rub evenly to both sides of the ribs.",
+    "Place the ribs in a large baking dish and cover with aluminum foil.",
+    "Bake for 2 hours, or until the ribs are tender.",
+    "Brush the ribs with tamarind BBQ sauce during the last 10 minutes of cooking.",
+    "Remove the ribs from the oven and let them rest for 5 minutes.",
+    "Cut the ribs into individual portions and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bbq",
+    "american",
+    "ribs",
+    "tamarind"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-american-tamarind-ball-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T06:26:59.464Z"
+}
