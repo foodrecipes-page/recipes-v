@@ -351,14 +351,13 @@
   },
   {
     "slug": "vegan-golden-brownie-halwa",
-    "title": "Vegan Golden Brownie Halwa",
+    "title": "Golden Brownie Halwa",
     "tags": [
       "vegan",
-      "golden-brownie-halwa",
-      "sweet-dessert",
-      "energy-boost"
+      "dessert",
+      "indian-inspired"
     ],
-    "cuisine": "Indian (Maharashtrian)",
+    "cuisine": "Indian",
     "totalTimeMin": 35,
     "shard": "v"
   },
@@ -8216,17 +8215,14 @@
   },
   {
     "slug": "vibrant-green-japanese-fenugreek-ramen-shio",
-    "title": "Vibrant Green Japanese Fenugreek Ramen-Shio",
+    "title": "Shio Ramen with Miso Soup",
     "tags": [
-      "high-protein",
-      "japanese",
-      "one-pan",
       "ramen",
-      "vegetarian",
-      "weeknight"
+      "japanese",
+      "vegetarian"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
@@ -9417,17 +9413,14 @@
   },
   {
     "slug": "vibrant-slow-cooked-tunisian-egg-white-tagine",
-    "title": "Vibrant Slow-Cooked Tunisian Egg White Tagine",
+    "title": "Tunisian Egg Tagine",
     "tags": [
-      "date-night",
-      "egg-white",
-      "high-protein",
-      "one-pan",
-      "slow-cooked",
+      "breakfast",
+      "eggs",
       "tunisian"
     ],
     "cuisine": "Tunisian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
