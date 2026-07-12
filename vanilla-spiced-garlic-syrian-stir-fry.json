@@ -1,0 +1,73 @@
+{
+  "slug": "vanilla-spiced-garlic-syrian-stir-fry",
+  "title": "Vanilla Garlic Stir Fry",
+  "description": "A flavorful and aromatic stir fry made with garlic, vanilla, and a hint of spiced goodness. Serve hot over rice or noodles.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vanilla",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 whole head",
+      "notes": "for roasting"
+    },
+    {
+      "name": "Syrian",
+      "amount": "1 cup",
+      "notes": "mixed greens"
+    },
+    {
+      "name": "Stir",
+      "amount": "2 tablespoons",
+      "notes": "stir-fry oil"
+    },
+    {
+      "name": "Fry",
+      "amount": "1 cup",
+      "notes": "mixed vegetables"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Wrap the whole head of garlic in foil and roast for 30 minutes.",
+    "Heat 1 tablespoon of stir-fry oil in a wok or large skillet over medium-high heat.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the mixed vegetables and cook until tender.",
+    "Add the roasted garlic, mixed greens, and vanilla.",
+    "Stir-fry for 1-2 minutes until combined.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "vegetarian",
+    "garlic-lovers"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vanilla-spiced-garlic-syrian-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T08:27:41.934Z"
+}
