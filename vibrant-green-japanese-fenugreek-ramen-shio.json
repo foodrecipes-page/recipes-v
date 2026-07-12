@@ -1,0 +1,71 @@
+{
+  "slug": "vibrant-green-japanese-fenugreek-ramen-shio",
+  "title": "Shio Ramen with Miso Soup",
+  "description": "A Japanese-inspired bowl filled with flavorful ramen, topped with a vibrant green fenugreek and green onion garnish, served with a side of rich and savory miso soup.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ramen noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "Shio broth",
+      "amount": "4 cups",
+      "notes": " store-bought or homemade"
+    },
+    {
+      "name": "Fenugreek leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Green onion",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring the shio broth to a boil in a large pot.",
+    "Cook the ramen noodles according to the package instructions.",
+    "In a small bowl, whisk together the miso paste and soy sauce.",
+    "Add the sesame oil to the miso paste mixture and whisk until combined.",
+    "Ladle the hot broth into bowls and top with cooked ramen noodles, chopped fenugreek leaves, and green onion.",
+    "Serve the miso paste mixture on the side for dipping."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ramen",
+    "japanese",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-green-japanese-fenugreek-ramen-shio",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T02:28:23.256Z"
+}
