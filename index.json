@@ -7378,17 +7378,14 @@
   },
   {
     "slug": "vibrant-crispy-kenyan-matcha-skewers",
-    "title": "Vibrant Crispy Kenyan Matcha Skewers",
+    "title": "Kenyan Matcha Chicken Skewers",
     "tags": [
-      "bamboo-steamer",
-      "crispy",
       "kenyan",
-      "keto-friendly",
-      "low-carb",
-      "matcha"
+      "matcha",
+      "grilled-chicken"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 32,
+    "cuisine": "kenyan",
+    "totalTimeMin": 30,
     "shard": "v"
   },
   {
@@ -8480,18 +8477,16 @@
   },
   {
     "slug": "vibrant-juicy-kenyan-peas-stew",
-    "title": "Vibrant Juicy Kenyan Peas Stew",
+    "title": "Kenyan Pea Stew",
     "tags": [
-      "dehydrated",
-      "gluten-free",
-      "high-protein",
-      "kenyan-cuisine",
-      "one-pot",
-      "vegetarian",
-      "weeknight"
+      "kenyan",
+      "stew",
+      "peas",
+      "beef",
+      "lamb"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 60,
+    "cuisine": "kenyan",
+    "totalTimeMin": 40,
     "shard": "v"
   },
   {
