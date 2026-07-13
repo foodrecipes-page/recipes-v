@@ -1,0 +1,73 @@
+{
+  "slug": "velvety-dutch-noodle-noodles",
+  "title": "Creamy Dutch Noodle Bake",
+  "description": "A rich and comforting dish that combines the flavors of the Netherlands with the simplicity of a home-cooked noodle bake.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "velvety white sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "dutch noodles",
+      "amount": "8 oz",
+      "notes": "wide noodles"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sliced onions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped bacon",
+      "amount": "4 slices",
+      "notes": "crumbled"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook noodles according to package instructions.",
+    "In a large skillet, cook bacon until crispy.",
+    "Add sliced onions to the skillet and cook until softened.",
+    "Stir in velvety white sauce and bring to a simmer.",
+    "In a large baking dish, combine cooked noodles, white sauce mixture, and grated cheese.",
+    "Top with chopped parsley and crumbled bacon.",
+    "Bake for 20-25 minutes, or until the top is golden brown and the cheese is melted.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "netherlands",
+    "comfort-food",
+    "cheesy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-dutch-noodle-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T01:55:26.968Z"
+}
