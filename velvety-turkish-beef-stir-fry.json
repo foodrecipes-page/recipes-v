@@ -1,0 +1,82 @@
+{
+  "slug": "velvety-turkish-beef-stir-fry",
+  "title": "Beef Stir Fry with Turkish Flair",
+  "description": "A quick and flavorful dish that combines the richness of velvety sauce with the bold flavors of Turkish spices, all wrapped up in a savory beef stir fry.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (sirloin or ribeye)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Turkish spice blend",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Velvety sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Stir-fry vegetables (such as broccoli, carrots, and snap peas)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet or wok over medium-high heat.",
+    "Add the beef and cook until browned, about 3-4 minutes.",
+    "Add the onion and bell pepper and cook until the vegetables are tender, about 4-5 minutes.",
+    "Add the stir-fry vegetables and cook until they are tender but still crisp, about 2-3 minutes.",
+    "In a small bowl, whisk together the Turkish spice blend and velvety sauce.",
+    "Pour the sauce over the beef and vegetables and stir to coat.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "turkish",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-turkish-beef-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T14:56:56.692Z"
+}
