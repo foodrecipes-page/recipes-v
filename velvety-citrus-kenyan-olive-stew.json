@@ -1,0 +1,83 @@
+{
+  "slug": "velvety-citrus-kenyan-olive-stew",
+  "title": "Kenyan Stew with Olive and Citrus",
+  "description": "A flavorful and spicy stew originating from Kenya, made with tender chunks of meat and fragrant spices, served with a squeeze of fresh citrus and a drizzle of olive oil.",
+  "cuisine": "kenyan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "stew meat (beef or lamb)",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "citrus (lemon or lime)",
+      "amount": "2",
+      "notes": "Juiced"
+    },
+    {
+      "name": "kenyan spices (ground cumin, coriander, and turmeric)",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "velvety tomatoes (canned)",
+      "amount": "1 can",
+      "notes": "Diced"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium-high heat.",
+    "Add the chopped onion and cook until browned, about 5 minutes.",
+    "Add the stew meat and cook until browned on all sides, about 5 minutes.",
+    "Add the kenyan spices, salt, and pepper, and stir to combine.",
+    "Add the diced tomatoes and water, and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 1 1/2 hours, or until the meat is tender.",
+    "Stir in the citrus juice and continue to simmer for an additional 10 minutes.",
+    "Serve hot, garnished with fresh cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan stew",
+    "beef stew",
+    "lamb stew",
+    "citrus"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-citrus-kenyan-olive-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T15:16:27.123Z"
+}
