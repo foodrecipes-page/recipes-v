@@ -1,0 +1,97 @@
+{
+  "slug": "vibrant-malaysian-chicken-satay",
+  "title": "Chicken Satay with Peanut Sauce",
+  "description": "Grilled chicken skewers served with a creamy peanut sauce. This dish is a classic Malaysian street food.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "250ml",
+      "notes": ""
+    },
+    {
+      "name": "Peanut butter",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "50ml",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "Garlic paste",
+      "amount": "25g",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "25ml",
+      "notes": ""
+    },
+    {
+      "name": "Satay spice blend",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "100g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a blender or food processor, combine coconut milk, peanut butter, soy sauce, brown sugar, ginger paste, garlic paste, and satay spice blend. Blend until smooth.",
+    "2. Heat 2 tablespoons of vegetable oil in a saucepan over medium heat.",
+    "3. Pour the peanut sauce into the saucepan and bring to a simmer.",
+    "4. Reduce the heat to low and let the sauce simmer for 5 minutes, stirring occasionally.",
+    "5. Meanwhile, cut the chicken breast into 1-inch pieces.",
+    "6. Thread the chicken pieces onto skewers, leaving a small space between each piece.",
+    "7. Brush the chicken with a little vegetable oil and season with salt and pepper.",
+    "8. Preheat a grill or grill pan to medium-high heat.",
+    "9. Grill the chicken skewers for 5-7 minutes per side, or until cooked through.",
+    "10. Serve the grilled chicken with the peanut sauce for dipping.",
+    "11. Garnish with fresh cilantro and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "peanut-sauce",
+    "grilled",
+    "malaysian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-malaysian-chicken-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T04:12:12.471Z"
+}
