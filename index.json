@@ -1431,15 +1431,14 @@
   },
   {
     "slug": "velvety-buttery-venezuelan-one-pot-stone-bowl-dolsot",
-    "title": "Venezuelan Arepa with Avocado and Queso",
+    "title": "Venezuelan Stone Pot Chicken",
     "tags": [
-      "latin-american",
-      "one-pan",
-      "veggie-friendly",
-      "weeknight"
+      "chicken",
+      "rice",
+      "latin-american"
     ],
-    "cuisine": "venezuelan",
-    "totalTimeMin": 25,
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 45,
     "shard": "v"
   },
   {
@@ -1734,18 +1733,15 @@
   },
   {
     "slug": "velvety-citrus-kenyan-olive-stew",
-    "title": "Velvety Citrus Kenyan Olive Stew",
+    "title": "Kenyan Stew with Olive and Citrus",
     "tags": [
-      "citrus",
-      "velvety",
-      "one-pot",
-      "kenyan",
-      "vegan-friendly",
-      "olive",
-      "stew"
+      "kenyan stew",
+      "beef stew",
+      "lamb stew",
+      "citrus"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 45,
+    "cuisine": "kenyan",
+    "totalTimeMin": 110,
     "shard": "v"
   },
   {
@@ -2045,14 +2041,16 @@
   },
   {
     "slug": "velvety-dutch-chicken-stir-fry",
-    "title": "Velvety Dutch Chicken Stir-fry",
+    "title": "Chicken Velvety Fry",
     "tags": [
-      "velvety-dutch-chicken-stir-fry",
-      "whole30-friendly",
-      "umami-tasting"
+      "dutch-cuisine",
+      "chicken-recipes",
+      "velvety-sauce",
+      "stir-fry",
+      "easy-recipes"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 55,
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
@@ -2324,14 +2322,12 @@
   },
   {
     "slug": "velvety-fermented-italian-taleggio-lasagna",
-    "title": "Velvety Fermented Italian Taleggio Lasagna",
+    "title": "Taleggio Lasagna",
     "tags": [
-      "fermented",
       "italian",
-      "one-pan",
-      "satvik-friendly",
-      "slow-cook",
-      "velvety"
+      "lasagna",
+      "taleggio",
+      "cheese"
     ],
     "cuisine": "Italian",
     "totalTimeMin": 60,
@@ -6027,14 +6023,11 @@
   },
   {
     "slug": "velvety-turkish-beef-stir-fry",
-    "title": "Velvety Turkish Beef Stir-fry",
+    "title": "Beef Stir Fry with Turkish Flair",
     "tags": [
-      "keto-friendly",
       "beef",
-      "stir-fry",
       "turkish",
-      "spicy",
-      "velvety"
+      "stir-fry"
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 25,
