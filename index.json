@@ -460,16 +460,14 @@
   },
   {
     "slug": "vegan-ukrainian-comte-skillet",
-    "title": "Vegan Ukrainian Comte Skillet",
+    "title": "Ukrainian Skillet Panak",
     "tags": [
-      "comfort-food",
-      "one-pan",
       "ukrainian",
       "vegan",
-      "weeknight"
+      "skillet"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 45,
+    "cuisine": "ukrainian",
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
@@ -503,18 +501,14 @@
   },
   {
     "slug": "vegan-wood-fired-roasted-slovakian-pepper-bake",
-    "title": "Vegan Wood-Fired Roasted Slovakian Pepper Bake",
+    "title": "Slovakian Pepper Wood-Fire Roasted Vegetables",
     "tags": [
-      "baked",
-      "comfort-food",
-      "gluten-free",
-      "one-pan",
-      "slovakian",
-      "vegan",
-      "wood-fired"
+      "wood-fired",
+      "roasted",
+      "vegan"
     ],
     "cuisine": "slovakian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 40,
     "shard": "v"
   },
   {
@@ -1890,15 +1884,15 @@
   },
   {
     "slug": "velvety-cozy-moroccan-garlic-stir-fry",
-    "title": "Velvety Cozy Moroccan Garlic Stir-fry",
+    "title": "Moroccan Garlic Chicken Stir Fry",
     "tags": [
+      "chicken",
       "moroccan",
-      "garlic",
       "stir-fry",
-      "cozy"
+      "garlic"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
@@ -9852,17 +9846,16 @@
   },
   {
     "slug": "vibrant-spicy-jamaican-beef-stew",
-    "title": "Vibrant Spicy Jamaican Beef Stew",
+    "title": "Jamaican Beef Stew",
     "tags": [
-      "gluten-free",
-      "hearty",
-      "jamaican-cuisine",
-      "low-calorie",
-      "one-pot",
-      "spicy"
+      "beef",
+      "stew",
+      "jamaican",
+      "caribbean",
+      "gluten-free"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 180,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 75,
     "shard": "v"
   },
   {
