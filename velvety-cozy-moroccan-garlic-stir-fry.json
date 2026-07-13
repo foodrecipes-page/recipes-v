@@ -1,0 +1,76 @@
+{
+  "slug": "velvety-cozy-moroccan-garlic-stir-fry",
+  "title": "Moroccan Garlic Chicken Stir Fry",
+  "description": "A flavorful and aromatic stir fry dish made with chicken, Moroccan spices, and fresh garlic. Serve over velvety couscous for a cozy dinner.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free",
+    "chicken"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Velvety olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Minced fresh garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Moroccan spice blend",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cozy chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken and cook for 5-6 minutes per side, or until cooked through.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the minced garlic to the skillet and cook for 1 minute, or until fragrant.",
+    "Stir in the Moroccan spice blend and cook for 1 minute.",
+    "Return the chicken to the skillet and stir to coat with the spice blend.",
+    "Cook for an additional 2-3 minutes, or until the chicken is coated with the sauce.",
+    "Stir in the chopped parsley and season with salt and pepper to taste.",
+    "Serve the chicken hot over velvety couscous.",
+    "Garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "moroccan",
+    "stir-fry",
+    "garlic"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-cozy-moroccan-garlic-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T16:50:21.859Z"
+}
