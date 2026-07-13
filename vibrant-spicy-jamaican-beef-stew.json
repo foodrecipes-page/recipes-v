@@ -1,0 +1,96 @@
+{
+  "slug": "vibrant-spicy-jamaican-beef-stew",
+  "title": "Jamaican Beef Stew",
+  "description": "A hearty Jamaican-inspired beef stew made with tender chunks of beef, flavorful spices, and a hint of vibrant jerk seasoning.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "vibrant jerk seasoning",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "spicy diced tomatoes",
+      "amount": "1 can",
+      "notes": null
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "stew broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef on all sides, about 5 minutes.",
+    "Add the onions and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Stir in the jerk seasoning, vibrant jerk seasoning, brown sugar, salt, and black pepper.",
+    "Add the diced tomatoes and stew broth. Bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 1 hour.",
+    "Check that the beef is tender. If not, continue to simmer for another 30 minutes.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "jamaican",
+    "caribbean",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-spicy-jamaican-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T17:33:50.127Z"
+}
