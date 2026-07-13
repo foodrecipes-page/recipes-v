@@ -1,0 +1,85 @@
+{
+  "slug": "velvety-fermented-italian-taleggio-lasagna",
+  "title": "Taleggio Lasagna",
+  "description": "A creamy, cheesy lasagna dish featuring the rich flavors of Taleggio cheese. This Italian-inspired recipe is sure to become a favorite.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lasagna noodles",
+      "amount": "8-10 sheets"
+    },
+    {
+      "name": "Taleggio cheese",
+      "amount": "8 oz (225g)",
+      "notes": "softened"
+    },
+    {
+      "name": "Mascarpone cheese",
+      "amount": "8 oz (225g)",
+      "notes": "softened"
+    },
+    {
+      "name": "Fermented Italian cheese (e.g. Parmesan)",
+      "amount": "1 cup grated"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook lasagna noodles according to package instructions. Drain and set aside.",
+    "In a medium bowl, combine Taleggio cheese, mascarpone cheese, and Italian seasoning. Mix well to combine.",
+    "In a separate bowl, combine grated Parmesan cheese and chopped parsley.",
+    "In a large baking dish, spread a layer of the cheese mixture on the bottom.",
+    "Arrange 4 cooked lasagna noodles on top of the cheese layer.",
+    "Spread half of the remaining cheese mixture over the noodles, followed by half of the Parmesan cheese mixture.",
+    "Repeat the layers, starting with the noodles, then the cheese mixture, and finally the Parmesan cheese mixture.",
+    "Drizzle the top with olive oil and season with salt to taste.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the top is golden brown.",
+    "Remove from the oven and let it rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "lasagna",
+    "taleggio",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-fermented-italian-taleggio-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T15:16:53.052Z"
+}
