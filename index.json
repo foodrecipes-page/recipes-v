@@ -6300,17 +6300,14 @@
   },
   {
     "slug": "velvety-vietnamese-chicken-pho-ga",
-    "title": "Velvety Vietnamese Chicken Pho Ga",
+    "title": "Vietnamese Chicken Pho",
     "tags": [
-      "dairy-free",
-      "date-night",
-      "gluten-free",
-      "one-pot",
-      "sous-vide",
-      "vietnamese-cuisine"
+      "vietnamese",
+      "chicken",
+      "soup"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 150,
+    "totalTimeMin": 30,
     "shard": "v"
   },
   {
