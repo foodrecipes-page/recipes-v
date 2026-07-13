@@ -1,0 +1,90 @@
+{
+  "slug": "velvety-buttery-venezuelan-one-pot-stone-bowl-dolsot",
+  "title": "Venezuelan Stone Pot Chicken",
+  "description": "A flavorful and aromatic Venezuelan dish made with chicken, spices, and rice, all cooked to perfection in a hot stone pot.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb boneless, skinless chicken thighs",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "1/2 cup butter",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "1 cup uncooked white rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "2 medium onions, diced",
+      "amount": "2 medium onions",
+      "notes": null
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "1 tsp smoked paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "1/2 tsp salt",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "1/4 tsp black pepper",
+      "amount": "1/4 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the stone pot to 400°F (200°C).",
+    "Season the chicken with salt, pepper, and cumin. Set aside.",
+    "Melt 2 tbsp of butter in the stone pot over medium-high heat.",
+    "Add the diced onions and cook until they start to brown, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chicken to the stone pot and cook until browned on all sides, about 5-7 minutes.",
+    "Add the uncooked rice to the stone pot and stir to combine with the chicken and onions.",
+    "Add 2 cups of water to the stone pot and bring to a boil.",
+    "Reduce the heat to low, cover the stone pot, and simmer for 20-25 minutes, or until the rice is cooked and the chicken is tender.",
+    "Fluff the rice with a fork and serve hot, garnished with additional butter if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "rice",
+    "latin-american"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 60,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-buttery-venezuelan-one-pot-stone-bowl-dolsot",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T15:29:58.173Z"
+}
