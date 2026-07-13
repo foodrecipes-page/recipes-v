@@ -1,0 +1,83 @@
+{
+  "slug": "velvety-dutch-chicken-stir-fry",
+  "title": "Chicken Velvety Fry",
+  "description": "A delicious Dutch-inspired dish made with chicken, velvety sauce, and stir-fried vegetables.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "4 oz",
+      "notes": ""
+    },
+    {
+      "name": "velvety sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "fry sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add chicken breast and cook until browned, about 5 minutes.",
+    "Add onion and carrots and stir-fry until tender, about 5 minutes.",
+    "Pour velvety sauce over the chicken and vegetables, and stir-fry until heated through.",
+    "Season with salt, pepper, and fry sauce.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dutch-cuisine",
+    "chicken-recipes",
+    "velvety-sauce",
+    "stir-fry",
+    "easy-recipes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-dutch-chicken-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T15:03:20.447Z"
+}
