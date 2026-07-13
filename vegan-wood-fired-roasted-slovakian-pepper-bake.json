@@ -1,0 +1,77 @@
+{
+  "slug": "vegan-wood-fired-roasted-slovakian-pepper-bake",
+  "title": "Slovakian Pepper Wood-Fire Roasted Vegetables",
+  "description": "A hearty vegan dish featuring roasted vegetables, wood-fired for a smoky flavor.",
+  "cuisine": "slovakian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1",
+      "notes": "medium size"
+    },
+    {
+      "name": "onions",
+      "amount": "1",
+      "notes": "medium size"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2",
+      "notes": "medium size"
+    },
+    {
+      "name": "wood-fired tomatoes",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your wood-fired grill to medium-high heat.",
+    "Toss the peppers, zucchini, onions, and potatoes with olive oil, salt, and pepper.",
+    "Grill the vegetables for 10-12 minutes per side, or until tender.",
+    "Meanwhile, roast the garlic by wrapping it in foil and heating it on the grill for 10-12 minutes.",
+    "Sauté the chopped tomatoes with roasted garlic and cook for 5 minutes.",
+    "Combine the grilled vegetables and tomato mixture.",
+    "Season with salt and pepper to taste.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "wood-fired",
+    "roasted",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vegan-wood-fired-roasted-slovakian-pepper-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T16:50:18.797Z"
+}
