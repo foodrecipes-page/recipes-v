@@ -1,0 +1,92 @@
+{
+  "slug": "vibrant-vietnamese-shrimp-goi-cuon",
+  "title": "Crispy Vietnamese Spring Rolls (Goi Cuon)",
+  "description": "A popular Vietnamese appetizer or snack made with shrimp, noodles, and fresh herbs. Serve with your favorite dipping sauce.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "1 package",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "vibrant",
+      "amount": "1 cup",
+      "notes": "shredded carrot and daikon mix"
+    },
+    {
+      "name": "goi",
+      "amount": "1 cup",
+      "notes": "shredded cabbage"
+    },
+    {
+      "name": "cuon",
+      "amount": "1 cup",
+      "notes": "shredded mint leaves"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Soak the rice noodles in warm water for 10-15 minutes, or according to package instructions.",
+    "Cut the shrimp into small pieces and set aside.",
+    "In a large bowl, combine the vibrant, goi, and cuon. Add the lemongrass, fish sauce, and rice vinegar. Mix well.",
+    "Add the shrimp to the bowl and mix until they are evenly distributed.",
+    "Cut the soaked noodles into smaller pieces and add them to the bowl. Mix well.",
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Using a spoon, drop small amounts of the noodle mixture into the hot oil and flatten slightly.",
+    "Fry the spring rolls until they are golden brown and crispy, about 2-3 minutes per side.",
+    "Remove the spring rolls from the oil and drain on paper towels.",
+    "Serve the spring rolls hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "spring-rolls",
+    "shrimp",
+    "appetizer",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-vietnamese-shrimp-goi-cuon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T19:37:47.805Z"
+}
