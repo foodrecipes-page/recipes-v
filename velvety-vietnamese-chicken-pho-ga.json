@@ -1,0 +1,92 @@
+{
+  "slug": "velvety-vietnamese-chicken-pho-ga",
+  "title": "Vietnamese Chicken Pho",
+  "description": "A classic Vietnamese noodle soup made with rich and flavorful chicken stock, velvety rice noodles, and tender ga (chicken) slices.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ga (chicken breast)",
+      "amount": "1 pound",
+      "notes": "cut into thin slices"
+    },
+    {
+      "name": "velvety rice noodles",
+      "amount": "1 package"
+    },
+    {
+      "name": "pho broth",
+      "amount": "4 cups",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "4",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Bring the pho broth to a boil in a large pot.",
+    "Reduce the heat to a simmer and add the sliced onion and ginger.",
+    "Cook for 5-7 minutes, or until the onion is softened.",
+    "Add the sliced ga (chicken) to the pot and cook for an additional 5-7 minutes, or until the chicken is cooked through.",
+    "Cook the velvety rice noodles according to the package instructions.",
+    "To assemble the pho, place some noodles in a bowl, then add slices of the ga (chicken) and onion.",
+    "Pour the hot pho broth over the top and add any desired toppings, such as bean sprouts and lime wedges.",
+    "Season with fish sauce, soy sauce, and sugar to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "chicken",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-vietnamese-chicken-pho-ga",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T20:31:49.457Z"
+}
