@@ -1,0 +1,74 @@
+{
+  "slug": "velvety-japanese-ferment-stir-fry",
+  "title": "Japanese-Style Velvety Stir-Fry",
+  "description": "A quick and easy stir-fry dish that combines the creaminess of velvety sauce with the bold flavors of Japan.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Velvety sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Japanese rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sliced bell peppers",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sliced carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sliced mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sliced green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced bell peppers, carrots, and mushrooms. Stir-fry for 4-5 minutes.",
+    "In a small bowl, whisk together the velvety sauce and Japanese rice vinegar.",
+    "Pour the sauce mixture over the vegetables and stir-fry for an additional 2-3 minutes.",
+    "Stir in the sliced green onions and sesame seeds.",
+    "Serve hot over steamed rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "stir-fry",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-japanese-ferment-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T05:44:32.692Z"
+}
