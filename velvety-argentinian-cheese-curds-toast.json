@@ -1,0 +1,55 @@
+{
+  "slug": "velvety-argentinian-cheese-curds-toast",
+  "title": "Argentinian Toast",
+  "description": "A classic Argentinian snack made with cheese and toast, perfect for a quick bite.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "dairy",
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Argentinian cheese",
+      "amount": "1 block, crumbled",
+      "notes": "Freshly crumbled"
+    },
+    {
+      "name": "Velvety cheese",
+      "amount": "2 tablespoons, melted",
+      "notes": "For spreading"
+    },
+    {
+      "name": "Toast",
+      "amount": "4 slices",
+      "notes": "Freshly toasted"
+    }
+  ],
+  "instructions": [
+    "Toast the bread until lightly browned.",
+    "Melt the velvety cheese in a saucepan over low heat.",
+    "Spread the melted cheese on the toasted bread.",
+    "Top with crumbled Argentinian cheese.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "cheese",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-argentinian-cheese-curds-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T17:49:56.995Z"
+}
