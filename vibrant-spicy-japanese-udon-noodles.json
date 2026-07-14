@@ -1,0 +1,69 @@
+{
+  "slug": "vibrant-spicy-japanese-udon-noodles",
+  "title": "Spicy Japanese Udon Stir Fry",
+  "description": "A vibrant and flavorful stir fry made with udon noodles, vegetables, and a spicy kick. Perfect for a quick and satisfying meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "udon noodles",
+      "amount": "250g"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vibrant bell peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "spicy miso paste",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "japanese soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the udon noodles and cook for 2-3 minutes, stirring constantly.",
+    "Add the remaining 1 tbsp of vegetable oil, vibrant bell peppers, and spicy miso paste.",
+    "Cook for an additional 2-3 minutes, stirring constantly.",
+    "Stir in the japanese soy sauce and cook for 1 minute.",
+    "Transfer the noodles and vegetables to a serving dish.",
+    "Garnish with chopped green onions and sesame seeds (if using).",
+    "Serve immediately and enjoy!",
+    "Optional: Add protein such as cooked chicken or tofu for added flavor and nutrition."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "stir-fry",
+    "udon",
+    "vegetarian"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-spicy-japanese-udon-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T19:03:19.963Z"
+}
