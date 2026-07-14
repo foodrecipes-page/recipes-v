@@ -1,0 +1,93 @@
+{
+  "slug": "velvet-earth-chicken",
+  "title": "Velvet Chicken Earth Bowl",
+  "description": "A simple, earthy dish featuring chicken cooked in a rich velvet sauce, served over a bed of earthy greens.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "veggie broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or tamari for gluten-free option"
+    },
+    {
+      "name": "hoisin sauce",
+      "amount": "2 tbsp",
+      "notes": "or omit for vegan option"
+    },
+    {
+      "name": "velvet",
+      "amount": "1/4 cup",
+      "notes": "or cornstarch for thickening"
+    },
+    {
+      "name": "earth (such as mushrooms)",
+      "amount": "1 cup",
+      "notes": "any type, sliced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together soy sauce, hoisin sauce, and velvet (or cornstarch).",
+    "In a large skillet or wok, heat 1 tablespoon of sesame oil over medium-high heat.",
+    "Add chicken to the skillet and cook until browned and cooked through, about 5-6 minutes.",
+    "Remove chicken from the skillet and set aside.",
+    "In the same skillet, add the sliced earth (such as mushrooms) and cook until tender and lightly browned.",
+    "Add the veggie broth to the skillet and bring to a simmer.",
+    "Return the chicken to the skillet and stir in the soy sauce mixture.",
+    "Cook for an additional 2-3 minutes, until the sauce has thickened.",
+    "Serve the chicken and earth over a bed of greens, garnished with green onions and a sprinkle of sesame seeds.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian",
+    "vegetarian",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvet-earth-chicken",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T17:56:19.900Z"
+}
