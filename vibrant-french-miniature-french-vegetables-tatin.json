@@ -1,0 +1,82 @@
+{
+  "slug": "vibrant-french-miniature-french-vegetables-tatin",
+  "title": "Miniature French Vegetable Tatin",
+  "description": "A miniature version of the classic French dessert, featuring caramelized vegetables in a sweet pastry crust.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Miniature puff pastry",
+      "amount": "1 sheet",
+      "notes": "Thawed"
+    },
+    {
+      "name": "Vibrant bell peppers",
+      "amount": "2",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Vegetables (such as carrots, zucchini)",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "French shallots",
+      "amount": "1 small",
+      "notes": "Minced"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "Granulated"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "Flaky"
+    },
+    {
+      "name": "Water",
+      "amount": "1 tablespoon",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the puff pastry and cut into a square.",
+    "In a bowl, mix bell peppers, vegetables, shallots, and brown sugar.",
+    "Arrange the mixture on one half of the pastry square, leaving a 1/2-inch border.",
+    "Dot the top with butter and sprinkle with salt.",
+    "Fold the other half of the pastry over the filling and press edges to seal.",
+    "Brush the pastry with water and cut a few slits in the top.",
+    "Bake for 25-30 minutes, or until golden brown.",
+    "Let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pastry",
+    "vegetarian",
+    "dessert",
+    "miniature"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-french-miniature-french-vegetables-tatin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T05:02:09.476Z"
+}
