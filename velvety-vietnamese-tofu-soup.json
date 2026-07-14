@@ -1,0 +1,95 @@
+{
+  "slug": "velvety-vietnamese-tofu-soup",
+  "title": "Vietnamese Velvety Tofu Soup",
+  "description": "A comforting and creamy soup that combines the best of Vietnamese flavors with velvety texture and the protein-packed goodness of tofu.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "velvety soup",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium heat.",
+    "Add the onion and garlic and cook until softened, about 5 minutes.",
+    "Add the fish sauce, lime juice, chili flakes, salt, and black pepper. Stir to combine.",
+    "Add the velvety soup and bring to a simmer.",
+    "Cut the tofu into small cubes and add to the pot.",
+    "Reduce heat to low and let simmer for 10-15 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with chopped herbs or scallions if desired.",
+    "Optional: Serve with rice noodles or crusty bread for a filling meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vietnamese",
+    "soup",
+    "tofu",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-vietnamese-tofu-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T01:50:11.466Z"
+}
