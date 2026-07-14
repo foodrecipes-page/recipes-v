@@ -1,0 +1,78 @@
+{
+  "slug": "vigorous-salted-tunisian-lamb-tagine",
+  "title": "Tunisian Lamb Tagine",
+  "description": "A hearty and flavorful North African stew made with tender lamb, aromatic spices, and a rich broth.",
+  "cuisine": "North African",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Tunisian lamb tagine spice blend",
+      "amount": "2 tsp",
+      "notes": "or substitute with a mix of cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "or vigorous oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add lamb and cook until browned, about 5 minutes.",
+    "Add spice blend, salt, and water. Bring to a boil.",
+    "Cover and transfer to the oven. Braise at 300°F for 2 hours.",
+    "Remove from oven and let rest for 15 minutes.",
+    "Serve hot, garnished with fresh parsley or cilantro.",
+    "Serve with crusty bread or over couscous, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north african",
+    "lamb",
+    "stew",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vigorous-salted-tunisian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T08:27:23.468Z"
+}
