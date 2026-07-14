@@ -7978,16 +7978,15 @@
   },
   {
     "slug": "vibrant-garlicky-jamaican-yam-grill",
-    "title": "Vibrant Garlicky Jamaican Yam Grill",
+    "title": "Grilled Jamaican Yam",
     "tags": [
-      "cozy-dinner",
-      "grilled-vegetables",
-      "jamaican-cuisine",
-      "spicy-food",
-      "vegan-friendly"
+      "side-dish",
+      "grilled",
+      "vegetarian",
+      "vegan"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 45,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
@@ -10540,17 +10539,15 @@
   },
   {
     "slug": "vigorous-salted-tunisian-lamb-tagine",
-    "title": "Vigorous Salted Tunisian Lamb Tagine",
+    "title": "Tunisian Lamb Tagine",
     "tags": [
-      "corn-husk-wrap",
-      "lamb-recipes",
-      "low-sodium",
-      "post-workout",
-      "slow-cooked",
-      "tunisian-cuisine"
+      "north african",
+      "lamb",
+      "stew",
+      "tagine"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 180,
+    "cuisine": "North African",
+    "totalTimeMin": 140,
     "shard": "v"
   },
   {
