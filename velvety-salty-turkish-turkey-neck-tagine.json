@@ -1,0 +1,74 @@
+{
+  "slug": "velvety-salty-turkish-turkey-neck-tagine",
+  "title": "Tagine-Style Turkey Neck Stew",
+  "description": "A rich and flavorful stew made with tender turkey neck, inspired by Moroccan tagine cuisine.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turkey neck",
+      "amount": "1",
+      "notes": "preferably with skin on"
+    },
+    {
+      "name": "tagine",
+      "amount": "1",
+      "notes": "a traditional Moroccan clay pot"
+    },
+    {
+      "name": "velvety",
+      "amount": "2 tablespoons",
+      "notes": "olive oil or other neutral oil"
+    },
+    {
+      "name": "salty",
+      "amount": "1 teaspoon",
+      "notes": "salt"
+    },
+    {
+      "name": "turkish",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the turkey neck with salt and place it in the tagine.",
+    "Heat the velvety in a large skillet over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the turkish and cook for 1 minute.",
+    "Transfer the onion mixture to the tagine.",
+    "Cover the tagine and transfer it to the preheated oven.",
+    "Bake for 2-3 hours, or until the turkey neck is tender.",
+    "Serve hot, garnished with fresh herbs if desired.",
+    "Adjust seasoning as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "stew",
+    "lamb-alternative"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-salty-turkish-turkey-neck-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T09:43:18.388Z"
+}
