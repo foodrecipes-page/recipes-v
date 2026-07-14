@@ -1,0 +1,91 @@
+{
+  "slug": "vibrant-gooey-portuguese-lamb-stew",
+  "title": "Portuguese Lamb Stew",
+  "description": "A hearty and flavorful stew originating from Portugal, made with tender lamb and vibrant vegetables.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "3 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Port wine",
+      "amount": "1 cup",
+      "notes": "Red wine"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "Concentrated"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of olive oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb cubes in batches until browned on all sides. Remove from heat and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the sliced carrots and diced potatoes to the pot. Cook for 5 minutes, stirring occasionally.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly.",
+    "Add the browned lamb, red wine, beef broth, and tomato paste to the pot. Stir to combine.",
+    "Bring the stew to a boil, then cover the pot and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2 hours, or until the lamb is tender and the vegetables are cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "portuguese-cuisine",
+    "hearty-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-gooey-portuguese-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T13:21:35.072Z"
+}
