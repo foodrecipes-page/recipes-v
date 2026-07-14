@@ -1,0 +1,84 @@
+{
+  "slug": "vividly-sour-yunnan-soya-bean-congee",
+  "title": "Sour Congee with Bean and Yunnan Pork",
+  "description": "A traditional Chinese congee dish with a sour twist, featuring bean paste and served with roasted Yunnan pork. This hearty breakfast option is perfect for a chilly morning.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Congee",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Bean paste",
+      "amount": "2 tablespoons",
+      "notes": "Yunnan fermented bean paste"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "reduce for a milder flavor"
+    },
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": "Yunnan black pork"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "sliced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sour plum",
+      "amount": "1 tablespoon",
+      "notes": "chopped (optional)"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat. Add ginger and sauté until fragrant.",
+    "Add pork shoulder and cook until browned on all sides.",
+    "Add bean paste, soy sauce, and water. Bring to a boil, then reduce heat and simmer until pork is tender.",
+    "While pork cooks, bring congee to a boil in a separate pot. Reduce heat to low and simmer until heated through.",
+    "To serve, place congee in a bowl and top with roasted pork, green onions, and sour plum (if using). Serve immediately.",
+    "Roast pork in oven at 400°F (200°C) for 20-25 minutes, or until caramelized."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "congee",
+    "pork",
+    "bean-paste",
+    "sour-plum"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vividly-sour-yunnan-soya-bean-congee",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T21:28:29.601Z"
+}
