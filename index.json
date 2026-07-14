@@ -729,14 +729,14 @@
   },
   {
     "slug": "velvet-earth-chicken",
-    "title": "Velvet Earth Chicken",
+    "title": "Velvet Chicken Earth Bowl",
     "tags": [
-      "velvet earth chicken",
-      "one-pot dish",
-      "turkish cuisine"
+      "asian",
+      "vegetarian",
+      "chicken"
     ],
-    "cuisine": "Turkish",
-    "totalTimeMin": 80,
+    "cuisine": "Asian",
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
@@ -1015,21 +1015,14 @@
   },
   {
     "slug": "velvety-argentinian-cheese-curds-toast",
-    "title": "Velvety Argentinian Cheese Curds Toast",
+    "title": "Argentinian Toast",
     "tags": [
       "argentinian",
       "cheese",
-      "curds",
-      "toast",
-      "chimichurri",
-      "parsley",
-      "oregano",
-      "garlic",
-      "lemon",
-      "olive-oil"
+      "snack"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 7,
     "shard": "v"
   },
   {
