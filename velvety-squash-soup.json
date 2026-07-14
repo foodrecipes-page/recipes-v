@@ -1,0 +1,78 @@
+{
+  "slug": "velvety-squash-soup",
+  "title": "Creamy Squash Soup",
+  "description": "A comforting, velvety soup made with roasted squash. Perfect for a chilly evening.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Squash",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Velvety",
+      "amount": "2 tablespoons",
+      "notes": "or heavy cream"
+    },
+    {
+      "name": "Soup",
+      "amount": "4 cups",
+      "notes": "chicken or vegetable broth"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the squash in half and roast for 30 minutes.",
+    "Sauté the onion and garlic in a pot until softened.",
+    "Add the roasted squash, soup, and velvety to the pot.",
+    "Bring to a simmer and cook until heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soup",
+    "squash",
+    "velvety",
+    "comforting"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-squash-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T20:56:36.866Z"
+}
