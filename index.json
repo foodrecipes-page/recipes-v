@@ -5632,15 +5632,15 @@
   },
   {
     "slug": "velvety-squash-soup",
-    "title": "Velvety Squash Soup",
+    "title": "Creamy Squash Soup",
     "tags": [
-      "filipino",
-      "soups",
-      "korean-style",
-      "kid-friendly"
+      "soup",
+      "squash",
+      "velvety",
+      "comforting"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 45,
+    "cuisine": "American",
+    "totalTimeMin": 40,
     "shard": "v"
   },
   {
@@ -11109,17 +11109,16 @@
   },
   {
     "slug": "vividly-sour-yunnan-soya-bean-congee",
-    "title": "Vividly Sour Yunnan Soya Bean Congee",
+    "title": "Sour Congee with Bean and Yunnan Pork",
     "tags": [
       "chinese",
-      "gluten-free",
-      "high-protein",
-      "one-pot",
-      "vegetarian",
-      "weeknight"
+      "congee",
+      "pork",
+      "bean-paste",
+      "sour-plum"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 110,
+    "totalTimeMin": 45,
     "shard": "v"
   },
   {
