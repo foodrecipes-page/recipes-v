@@ -8155,16 +8155,15 @@
   },
   {
     "slug": "vibrant-gooey-portuguese-lamb-stew",
-    "title": "Vibrant Gooey Portuguese Lamb Stew",
+    "title": "Portuguese Lamb Stew",
     "tags": [
-      "comfort-food",
-      "hangover-cure",
-      "hearty-stew",
-      "lamb-recipes",
-      "portuguese-cuisine"
+      "lamb",
+      "stew",
+      "portuguese-cuisine",
+      "hearty-meal"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 150,
+    "totalTimeMin": 140,
     "shard": "v"
   },
   {
