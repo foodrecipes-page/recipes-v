@@ -1,0 +1,67 @@
+{
+  "slug": "vibrant-smoky-canadian-lamb-skewers",
+  "title": "Lamb Skewers with Smoky Flavor",
+  "description": "A flavor-packed recipe featuring lamb skewers infused with smoky notes. Perfect for a quick and delicious dinner.",
+  "cuisine": "Canadian",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Vegetables (bell peppers, onion, mushrooms)",
+      "amount": "1 cup",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Smoky BBQ Sauce",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Canadian Maple Syrup",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Vibrant Herb Mix (such as parsley, rosemary, thyme)",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread lamb and vegetables onto skewers.",
+    "Brush skewers with Canadian Maple Syrup (if using).",
+    "Season with Vibrant Herb Mix and salt.",
+    "Grill skewers for 8-10 minutes, turning occasionally.",
+    "Brush with Smoky BBQ Sauce during the last 2 minutes of grilling."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilling",
+    "smoky",
+    "bbq",
+    "canadian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-smoky-canadian-lamb-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T12:36:27.992Z"
+}
