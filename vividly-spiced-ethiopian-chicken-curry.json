@@ -1,0 +1,96 @@
+{
+  "slug": "vividly-spiced-ethiopian-chicken-curry",
+  "title": "Ethiopian Chicken Curry",
+  "description": "A flavorful and spicy curry made with chicken, onions, and a blend of Ethiopian spices. Perfect for a quick and delicious dinner.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "vividly spiced curry powder",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and ginger and cook for 1 minute.",
+    "Add the curry powder and cook for 1 minute.",
+    "Add the chicken broth and bring to a boil.",
+    "Return the chicken to the skillet and cook until cooked through.",
+    "Stir in the sour cream and season with salt and pepper.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "curry",
+    "ethiopian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vividly-spiced-ethiopian-chicken-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T20:56:06.074Z"
+}
