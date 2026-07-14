@@ -9631,17 +9631,15 @@
   },
   {
     "slug": "vibrant-snappy-polish-pasta-tagine",
-    "title": "Vibrant Snappy Polish Pasta Tagine",
+    "title": "Vibrant Tagine Pasta",
     "tags": [
-      "kid-friendly",
-      "one-pot",
-      "polish",
-      "sattvic",
+      "pasta",
       "tagine",
-      "vegetarian"
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 35,
+    "cuisine": "North African",
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
