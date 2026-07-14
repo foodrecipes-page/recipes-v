@@ -1,0 +1,73 @@
+{
+  "slug": "vibrant-flaky-moroccan-mozzarella-bissara",
+  "title": "Moroccan Bissara Fritters",
+  "description": "A crispy and flavorful fritter filled with vibrant Moroccan chickpea dip, perfect as a snack or appetizer.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bissara",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mozzarella",
+      "amount": "1/2 cup shredded"
+    },
+    {
+      "name": "vibrant",
+      "amount": "1/4 cup chopped fresh parsley"
+    },
+    {
+      "name": "flaky",
+      "amount": "1/2 cup all-purpose flour"
+    },
+    {
+      "name": "moroccan",
+      "amount": "1/4 cup chopped fresh cilantro"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "for frying"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine bissara, mozzarella, vibrant, flaky, moroccan, salt, and pepper. Mix well.",
+    "2. Using your hands, shape the mixture into small patties.",
+    "3. Heat olive oil in a large frying pan over medium heat.",
+    "4. When the oil is hot, add the patties and fry until golden brown, about 3-4 minutes per side.",
+    "5. Remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "6. Serve the Moroccan Bissara Fritters hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "fritters",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-flaky-moroccan-mozzarella-bissara",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T10:56:00.490Z"
+}
