@@ -1,0 +1,89 @@
+{
+  "slug": "vibrant-citrusy-egyptian-beef-brisket-tagine",
+  "title": "Egyptian Beef Tagine",
+  "description": "A traditional North African stew from Egypt, made with tender beef brisket and a blend of aromatic spices.",
+  "cuisine": "North African",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1.5 lbs (675g)",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "egyptian spices",
+      "amount": "2 tsp",
+      "notes": "a blend of cumin, coriander, cinnamon, and turmeric"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for browning the meat"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef brisket on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Add onions and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add carrots and potatoes, cook for 5 minutes.",
+    "Add beef broth, spices, and browned beef. Bring to a boil.",
+    "Transfer to a preheated oven at 300°F (150°C) and cook, covered, for 2.5 hours.",
+    "Stir in coconut milk and cook for an additional 30 minutes.",
+    "Serve hot, garnished with fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 165,
+  "totalTimeMin": 195,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-citrusy-egyptian-beef-brisket-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T20:00:01.148Z"
+}
