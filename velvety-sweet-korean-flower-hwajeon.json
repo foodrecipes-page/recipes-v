@@ -1,0 +1,79 @@
+{
+  "slug": "velvety-sweet-korean-flower-hwajeon",
+  "title": "Korean Flower Pancake",
+  "description": "A delicate and crispy Korean-style pancake filled with sweet and floral flavors. Perfect as a dessert or snack.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Hwajeon Flower Batter",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons",
+      "notes": "for dusting"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large",
+      "notes": "beaten for batter"
+    },
+    {
+      "name": "Milk",
+      "amount": "1/2 cup",
+      "notes": "for batter"
+    },
+    {
+      "name": "Korean Pantry Flour",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "Sweet Red Pepper Powder",
+      "amount": "1/4 teaspoon",
+      "notes": "for flavor"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together hwajeon flower batter, sugar, and vegetable oil.",
+    "Add beaten eggs and milk. Whisk until smooth.",
+    "Heat a non-stick pan or a cast-iron skillet over medium heat.",
+    "Add a small amount of Korean pantry flour to the pan and swirl it around to coat the bottom.",
+    "Pour 1/4 cup of batter into the pan and spread it evenly.",
+    "Cook for 2-3 minutes or until the bottom is golden brown.",
+    "Loosen the pancake with a spatula and flip it over.",
+    "Cook for another 2 minutes or until the other side is also golden brown.",
+    "Repeat with the remaining batter, until all the pancakes are cooked.",
+    "Dust with Korean pantry flour and sweet red pepper powder before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "dessert",
+    "pancake"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-sweet-korean-flower-hwajeon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T02:40:11.292Z"
+}
