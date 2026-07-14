@@ -1,0 +1,84 @@
+{
+  "slug": "vibrant-snappy-polish-pasta-tagine",
+  "title": "Vibrant Tagine Pasta",
+  "description": "A flavorful and colorful pasta dish inspired by the traditional North African tagine. This recipe is perfect for a quick and easy weeknight dinner.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "linguine or fettuccine work well"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 cup",
+      "notes": "chopped fresh tagine herbs"
+    },
+    {
+      "name": "vibrant",
+      "amount": "1 cup",
+      "notes": "chopped vibrant peppers"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "polish",
+      "amount": "1 tsp",
+      "notes": "smoked paprika"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to package instructions.",
+    "In a large skillet, heat the olive oil over medium-high heat. Add the garlic and sauté for 1-2 minutes until fragrant.",
+    "Add the vibrant peppers and tagine herbs to the skillet and sauté for an additional 2-3 minutes.",
+    "Add the smoked paprika and cook for 1 minute.",
+    "Drain the cooked pasta and add it to the skillet with the vegetables and herbs.",
+    "Toss the pasta to combine and season with salt and pepper to taste.",
+    "Serve hot and enjoy!",
+    "Optional: garnish with additional tagine herbs or vibrant peppers for added color and flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pasta",
+    "tagine",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "10g",
+    "carbs": "60g",
+    "fat": "20g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-snappy-polish-pasta-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T13:57:56.089Z"
+}
