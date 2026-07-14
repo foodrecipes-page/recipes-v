@@ -1,0 +1,69 @@
+{
+  "slug": "vibrant-garlicky-jamaican-yam-grill",
+  "title": "Grilled Jamaican Yam",
+  "description": "A flavorful and easy-to-make side dish that combines the sweetness of yam with the bold flavors of Jamaican spices.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "yam",
+      "amount": "2 medium-sized",
+      "notes": ""
+    },
+    {
+      "name": "grill",
+      "amount": "",
+      "notes": "for grilling"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "vibrant coconut oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlicky olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Peel and slice the yams into 1-inch thick rounds.",
+    "In a small bowl, mix together the Jamaican jerk seasoning and coconut oil.",
+    "Brush the yams with the coconut oil mixture, making sure to coat them evenly.",
+    "Place the yams on the grill and cook for 5-7 minutes per side, or until they are tender and slightly charred.",
+    "While the yams are cooking, mix together the garlicky olive oil and a squeeze of lime juice.",
+    "Once the yams are done, brush them with the garlicky olive oil mixture.",
+    "Serve the grilled yams hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "side-dish",
+    "grilled",
+    "vegetarian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-garlicky-jamaican-yam-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T09:43:54.233Z"
+}
