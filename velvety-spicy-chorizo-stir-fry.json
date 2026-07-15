@@ -1,0 +1,57 @@
+{
+  "slug": "velvety-spicy-chorizo-stir-fry",
+  "title": "Spicy Chorizo Stir Fry",
+  "description": "A quick and flavorful stir fry made with spicy chorizo and served with a side of velvety sauce.",
+  "cuisine": "spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chorizo",
+      "amount": "1/2 pound, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Stir-fry vegetables (bell peppers, onions, carrots)",
+      "amount": "1 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Velvety sauce (made with heavy cream and spices)",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a pan over medium-high heat.",
+    "Add sliced chorizo and cook for 2-3 minutes, until browned.",
+    "Add stir-fry vegetables and cook for 3-4 minutes, until tender.",
+    "In a small bowl, whisk together velvety sauce ingredients.",
+    "Pour sauce into the pan and stir to combine.",
+    "Cook for an additional 1-2 minutes, until sauce has thickened.",
+    "Serve immediately, garnished with sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "stir-fry",
+    "chorizo",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-spicy-chorizo-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T07:33:10.350Z"
+}
