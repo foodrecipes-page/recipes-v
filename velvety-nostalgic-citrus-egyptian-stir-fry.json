@@ -1,0 +1,82 @@
+{
+  "slug": "velvety-nostalgic-citrus-egyptian-stir-fry",
+  "title": "Egyptian Citrus Beef Stew",
+  "description": "A hearty and flavorful stew from Egypt, made with tender beef and a burst of citrus.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 pound beef stew meat",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons velvety olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "1 onion, chopped",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "notes": ""
+    },
+    {
+      "name": "1 cup beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "1 cup citrus juice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon egyptian spice blend",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Remove beef and add onion; cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add broth, citrus juice, and spice blend; stir to combine.",
+    "Return beef to pot and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 2 hours, or until beef is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "egyptian",
+    "citrus"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-nostalgic-citrus-egyptian-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T13:23:28.639Z"
+}
