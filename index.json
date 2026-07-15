@@ -3740,10 +3740,15 @@
   },
   {
     "slug": "velvety-moroccan-lamb-tagine",
-    "title": "Velvety Moroccan Lamb Tagine",
-    "tags": [],
-    "cuisine": "Moroccan",
-    "totalTimeMin": null,
+    "title": "Moroccan Lamb Tagine",
+    "tags": [
+      "lamb",
+      "moroccan",
+      "stew",
+      "slow-cooked"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 170,
     "shard": "v"
   },
   {
