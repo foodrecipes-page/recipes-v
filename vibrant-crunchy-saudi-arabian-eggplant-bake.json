@@ -1,0 +1,76 @@
+{
+  "slug": "vibrant-crunchy-saudi-arabian-eggplant-bake",
+  "title": "Vibrant Arabian Bake",
+  "description": "A flavorful and nutritious dish inspired by the spices of the Arabian Peninsula, featuring the crunch of eggplant in a tasty bake.",
+  "cuisine": "Arabian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "1 large",
+      "notes": "sliced into 1/2-inch thick rounds"
+    },
+    {
+      "name": "Vibrant",
+      "amount": "1 tsp",
+      "notes": " Middle Eastern spice blend"
+    },
+    {
+      "name": "Crunchy pita chips",
+      "amount": "1 cup",
+      "notes": "for crunch topping"
+    },
+    {
+      "name": "Saudian yogurt",
+      "amount": "1/2 cup",
+      "notes": "plain, full-fat"
+    },
+    {
+      "name": "Arabian olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing eggplant"
+    },
+    {
+      "name": "Bake",
+      "amount": "350°F",
+      "notes": "oven temperature"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F.",
+    "Line a baking sheet with parchment paper.",
+    "Arrange the eggplant slices on the prepared baking sheet.",
+    "Drizzle the Arabian olive oil over the eggplant and sprinkle with Vibrant spice blend.",
+    "Bake for 20-25 minutes, or until the eggplant is tender and lightly browned.",
+    "Meanwhile, mix the Saudian yogurt with a pinch of salt and a sprinkle of Vibrant spice blend.",
+    "Once the eggplant is done, remove it from the oven and let it cool slightly.",
+    "Top the eggplant with the yogurt mixture and sprinkle with Crunchy pita chips.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "arabian",
+    "eggplant",
+    "middle-eastern",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-crunchy-saudi-arabian-eggplant-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T14:39:31.115Z"
+}
