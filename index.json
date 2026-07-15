@@ -2512,17 +2512,14 @@
   },
   {
     "slug": "velvety-french-shiitake-mushrooms-macaron",
-    "title": "Velvety French Shiitake Mushrooms Macaron",
+    "title": "Creamy French Mushroom Pasta",
     "tags": [
-      "earthenware-cooking",
-      "french-cuisine",
-      "keto-friendly",
-      "low-carb",
-      "mushroom-recipes",
-      "velvety-texture"
+      "pasta",
+      "mushrooms",
+      "french-cuisine"
     ],
     "cuisine": "French",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
@@ -5088,17 +5085,14 @@
   },
   {
     "slug": "velvety-smoky-american-ground-beef-casserole",
-    "title": "Velvety Smoky American Ground Beef Casserole",
+    "title": "Smoky Beef Casserole",
     "tags": [
-      "comfort-food",
-      "ground-beef",
-      "one-pan",
-      "smoky",
-      "umami",
-      "weeknight"
+      "beef",
+      "casserole",
+      "comfort-food"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 45,
+    "cuisine": null,
+    "totalTimeMin": 40,
     "shard": "v"
   },
   {
@@ -8712,17 +8706,15 @@
   },
   {
     "slug": "vibrant-low-sodium-saudi-arabian-cheese-cookies",
-    "title": "Vibrant Low Sodium Saudi Arabian Cheese Cookies",
+    "title": "Saudi Arabian Cheese Fritters",
     "tags": [
-      "cheese-cookies",
-      "low-sodium",
-      "meal-prep",
-      "saudi-arabian",
-      "snack",
-      "vegetarian"
+      "saudi arabian",
+      "cheese",
+      "fritters",
+      "snack"
     ],
     "cuisine": "Saudi Arabian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
