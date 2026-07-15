@@ -1,0 +1,89 @@
+{
+  "slug": "vibrant-german-lentils-stew",
+  "title": "Vibrant Lentil Stew",
+  "description": "A hearty and flavorful stew made with vibrant spices, tender lentils, and a hint of German tradition.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red Lentils",
+      "amount": "1 cup",
+      "notes": "Rinsed and drained"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Vibrant Spice Blend",
+      "amount": "2 tsp",
+      "notes": "Available at most German markets"
+    },
+    {
+      "name": "German Beer",
+      "amount": "1 cup",
+      "notes": "Used for cooking"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups",
+      "notes": "Low sodium"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat the German Beer in a large pot over medium heat.",
+    "Add the chopped onion, carrot, and celery and cook until the vegetables are tender.",
+    "Add the vibrant spice blend and cook for 1 minute.",
+    "Add the red lentils, vegetable broth, salt, and black pepper.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 30 minutes.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired.",
+    "Serve with crusty bread or over mashed potatoes for a filling meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "lentil",
+    "stew",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-german-lentils-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T22:26:43.182Z"
+}
