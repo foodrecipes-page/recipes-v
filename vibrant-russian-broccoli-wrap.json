@@ -1,0 +1,79 @@
+{
+  "slug": "vibrant-russian-broccoli-wrap",
+  "title": "Russian-Style Broccoli Wrap",
+  "description": "A flavorful and healthy wrap filled with steamed broccoli, tender beef, and creamy Russian dressing.",
+  "cuisine": "russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "broccoli",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "Russian dressing",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "tortilla wrap",
+      "amount": "1",
+      "notes": "whole wheat or gluten-free"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large skillet, heat 1 tablespoon of oil over medium-high heat.",
+    "Add the beef strips and cook until browned, about 3-4 minutes.",
+    "Add the sliced onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Add the broccoli to the skillet and cook until tender, about 5 minutes.",
+    "In a small bowl, whisk together the Russian dressing and black pepper.",
+    "Warm the tortilla wrap by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wrap by spreading the Russian dressing on the tortilla, followed by the beef and broccoli mixture.",
+    "Top with additional onion and garlic if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "russian",
+    "beef",
+    "broccoli",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-russian-broccoli-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:28:45.306Z"
+}
