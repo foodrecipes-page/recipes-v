@@ -1,0 +1,79 @@
+{
+  "slug": "vigorous-chewy-ukrainian-oats-dumplings",
+  "title": "Vigorous Ukrainian Dumplings",
+  "description": "A hearty and comforting Ukrainian dish made with chewy dumplings, oats, and a hint of traditional Ukrainian flavors.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Oats",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Vigorous Yeast",
+      "amount": "1 packet",
+      "notes": ""
+    },
+    {
+      "name": "Chewy Flour",
+      "amount": "3 cups",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ukrainian Salt",
+      "amount": "1 tsp",
+      "notes": "Use traditional Ukrainian salt for authentic flavor."
+    },
+    {
+      "name": "Dumplings",
+      "amount": "12-15",
+      "notes": "Homemade or store-bought, whichever suits your preference."
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine oats, vigorous yeast, chewy flour, and Ukrainian salt in a large mixing bowl.",
+    "Gradually add in water and mix until a smooth dough forms.",
+    "Knead the dough for 10 minutes until it becomes elastic.",
+    "Divide the dough into 12-15 equal portions and roll each one into a ball.",
+    "Using a rolling pin, flatten each ball into a thin circle.",
+    "Place a dumpling in the center of each circle and fold the dough over to seal the dumpling.",
+    "In a large skillet, heat 1 tbsp of vegetable oil over medium heat.",
+    "Add the dumplings to the skillet and cook for 2-3 minutes on each side, until golden brown.",
+    "Serve the dumplings hot with your favorite Ukrainian-inspired toppings."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "dumplings",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "10g",
+    "carbs": "60g",
+    "fat": "15g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vigorous-chewy-ukrainian-oats-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T19:16:49.414Z"
+}
