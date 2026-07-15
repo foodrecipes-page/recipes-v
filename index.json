@@ -1307,12 +1307,12 @@
   },
   {
     "slug": "velvety-brazilian-runner-beans-stir-fry",
-    "title": "Velvety Brazilian Runner Beans Stir-fry",
+    "title": "Brazilian Bean Stir Fry",
     "tags": [
       "stir-fry",
-      "runner beans",
-      "kid-friendly",
-      "umami"
+      "brazilian",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 25,
@@ -3871,18 +3871,15 @@
   },
   {
     "slug": "velvety-nostalgic-citrus-egyptian-stir-fry",
-    "title": "Velvety Nostalgic Citrus Egyptian Stir-fry",
+    "title": "Egyptian Citrus Beef Stew",
     "tags": [
-      "stir-fry",
-      "velvety",
-      "citrusy",
-      "nostalgic",
+      "beef",
+      "stew",
       "egyptian",
-      "red-food-coloring",
-      "marinated"
+      "citrus"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 140,
     "shard": "v"
   },
   {
@@ -7528,16 +7525,16 @@
   },
   {
     "slug": "vibrant-crunchy-saudi-arabian-eggplant-bake",
-    "title": "Vibrant Crunchy Saudi Arabian Eggplant Bake",
+    "title": "Vibrant Arabian Bake",
     "tags": [
-      "crunchy-top",
-      "lacto-vegetarian",
+      "arabian",
+      "eggplant",
       "middle-eastern",
-      "saudi-arabian",
-      "wine-based"
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 75,
+    "cuisine": "Arabian",
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
