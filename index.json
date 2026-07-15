@@ -4290,15 +4290,14 @@
   },
   {
     "slug": "velvety-portuguese-milk-chocolate-mousse",
-    "title": "Velvety Portuguese Milk Chocolate Mousse",
+    "title": "Portuguese Chocolate Mousse",
     "tags": [
-      "portuguese-dessert",
-      "milk-chocolate-mousse",
-      "energizing-dessert",
-      "sweet-and-creamy"
+      "chocolate",
+      "dessert",
+      "portuguese"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 120,
     "shard": "v"
   },
   {
@@ -5529,15 +5528,15 @@
   },
   {
     "slug": "velvety-spicy-chorizo-stir-fry",
-    "title": "Velvety Spicy Chorizo Stir-fry",
+    "title": "Spicy Chorizo Stir Fry",
     "tags": [
-      "spicy",
-      "velvety",
-      "uruguayan",
-      "quick-fix"
+      "spanish",
+      "stir-fry",
+      "chorizo",
+      "lunch"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 35,
+    "cuisine": "spanish",
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
@@ -10213,17 +10212,14 @@
   },
   {
     "slug": "vibrant-turkish-lamb-doner-kebab",
-    "title": "Vibrant Turkish Lamb Doner Kebab",
+    "title": "Homemade Turkish-Style Doner Kebab",
     "tags": [
-      "cheesy",
-      "lamb-based",
-      "lazy-susan",
-      "show-off",
-      "stone-bowl",
-      "turkish-food"
+      "turkish-food",
+      "doner-kebab",
+      "homemade"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 50,
     "shard": "v"
   },
   {
