@@ -1,0 +1,83 @@
+{
+  "slug": "vibrant-low-sodium-saudi-arabian-cheese-cookies",
+  "title": "Saudi Arabian Cheese Fritters",
+  "description": "A traditional Saudi Arabian dish made with crispy cheese fritters, perfect for a snack or dessert.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low sodium"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Vibrant Cheese",
+      "amount": "1 cup, shredded",
+      "notes": "Low-fat cheese for a healthier option"
+    },
+    {
+      "name": "Arabian Cookies",
+      "amount": "1 cup, crushed",
+      "notes": "Pistachio cookies work well in this recipe"
+    },
+    {
+      "name": "Sodium",
+      "amount": "1/4 teaspoon, optional",
+      "notes": "Only use if needed for extra flavor"
+    },
+    {
+      "name": "Saudi Arabian Flour",
+      "amount": "2 cups",
+      "notes": "Use a fine all-purpose flour for the best results"
+    },
+    {
+      "name": "Vibrant Egg",
+      "amount": "1 large, beaten",
+      "notes": "Use room temperature egg for better mixing"
+    },
+    {
+      "name": "Low Fat Milk",
+      "amount": "1 cup",
+      "notes": "Whole milk can be used if preferred"
+    },
+    {
+      "name": "Vibrant Baking Powder",
+      "amount": "1 teaspoon",
+      "notes": "Use fresh baking powder for the best results"
+    },
+    {
+      "name": "Sodium Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "Only use if needed for extra flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350°F (175°C).",
+    "In a large bowl, mix together the flour, baking powder, and sodium salt (if using).",
+    "In a separate bowl, whisk together the low-fat milk, vibrant egg, and crushed cookies. Add the shredded cheese and mix until combined.",
+    "Add the dry ingredients to the wet ingredients and mix until a smooth batter forms.",
+    "Using a spoon, drop the batter into the hot oil, making sure not to overcrowd the pan.",
+    "Fry the fritters for 2-3 minutes on each side, or until golden brown.",
+    "Using a slotted spoon, remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the cheese fritters warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "saudi arabian",
+    "cheese",
+    "fritters",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-low-sodium-saudi-arabian-cheese-cookies",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T13:11:20.226Z"
+}
