@@ -1,0 +1,68 @@
+{
+  "slug": "velvety-brazilian-runner-beans-stir-fry",
+  "title": "Brazilian Bean Stir Fry",
+  "description": "A quick and flavorful stir fry made with Brazilian runner beans and a velvety sauce. Perfect for a weeknight dinner.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "runner beans",
+      "amount": "250g"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "velvety sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "stir fry seasoning",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add onion and garlic and cook for 3-4 minutes.",
+    "Add runner beans and cook for 5 minutes.",
+    "Add velvety sauce and stir fry seasoning, and stir to combine.",
+    "Cook for a further 2 minutes, until the sauce has thickened.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "brazilian",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-brazilian-runner-beans-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T14:15:59.333Z"
+}
