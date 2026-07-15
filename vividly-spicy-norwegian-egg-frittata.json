@@ -1,0 +1,87 @@
+{
+  "slug": "vividly-spicy-norwegian-egg-frittata",
+  "title": "Spicy Norwegian Frittata",
+  "description": "A flavorful and spicy twist on a classic Norwegian dish. This frittata is perfect for brunch or a quick dinner.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "Vividly colored bell peppers",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Spicy Norwegian sausage",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Cheese (Norwegian if possible)",
+      "amount": "1 cup shredded",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a large skillet, cook the sausage over medium-high heat until browned. Remove from heat.",
+    "3. In the same skillet, add the onion and bell peppers and cook until softened.",
+    "4. Add the garlic and cook for an additional 1-2 minutes.",
+    "5. Crack the eggs into a bowl and whisk together. Add salt and pepper to taste.",
+    "6. Pour the egg mixture over the cooked sausage and vegetables in the skillet.",
+    "7. Sprinkle the cheese on top of the eggs.",
+    "8. Transfer the skillet to the preheated oven and bake for 15-20 minutes or until the eggs are set.",
+    "9. Remove from oven and let cool for a few minutes.",
+    "10. Slice into wedges and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "norwegian",
+    "frittata",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vividly-spicy-norwegian-egg-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T01:53:16.689Z"
+}
