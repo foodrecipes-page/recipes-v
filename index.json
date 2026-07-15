@@ -9105,16 +9105,14 @@
   },
   {
     "slug": "vibrant-russian-broccoli-wrap",
-    "title": "Vibrant Russian Broccoli Wrap",
+    "title": "Russian-Style Broccoli Wrap",
     "tags": [
-      "buddhist-friendly",
-      "gluten-free",
-      "lotus-wrap",
-      "low-fat",
-      "quick",
-      "vegan"
+      "russian",
+      "beef",
+      "broccoli",
+      "wrap"
     ],
-    "cuisine": "Russian",
+    "cuisine": "russian",
     "totalTimeMin": 25,
     "shard": "v"
   },
