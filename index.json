@@ -1705,17 +1705,14 @@
   },
   {
     "slug": "velvety-citrus-italian-rice-risotto",
-    "title": "Velvety Citrus Italian Rice Risotto",
+    "title": "Creamy Italian Risotto",
     "tags": [
       "italian",
-      "citrus",
-      "vegetarian",
-      "comfort-food",
-      "pressure-cooker",
-      "quick"
+      "creamy",
+      "risotto"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 18,
+    "cuisine": "italian",
+    "totalTimeMin": 15,
     "shard": "v"
   },
   {
@@ -8554,17 +8551,15 @@
   },
   {
     "slug": "vibrant-lemon-tunisian-fish-tagine",
-    "title": "Vibrant Lemon Tunisian Fish Tagine",
+    "title": "Tunisian Baked Fish Tagine Recipe",
     "tags": [
-      "fish-recipe",
-      "healthy-recipe",
-      "lemon-recipes",
-      "one-pan",
-      "quick-dinner",
-      "tunisian-cuisine"
+      "baked-fish",
+      "north-african-cuisine",
+      "tagine-recipe",
+      "lemon-herb"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 22,
+    "cuisine": "North African",
+    "totalTimeMin": 27,
     "shard": "v"
   },
   {
@@ -10476,17 +10471,14 @@
   },
   {
     "slug": "vigorous-chewy-ukrainian-oats-dumplings",
-    "title": "Vigorous Chewy Ukrainian Oats Dumplings",
+    "title": "Vigorous Ukrainian Dumplings",
     "tags": [
-      "char-grill-yang",
-      "chewy-dumplings",
-      "cocoa-powder",
-      "macrobiotic-friendly",
-      "post-workout",
-      "ukrainian-cuisine"
+      "ukrainian",
+      "dumplings",
+      "comfort-food"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 50,
     "shard": "v"
   },
   {
