@@ -8061,18 +8061,16 @@
   },
   {
     "slug": "vibrant-german-lentils-stew",
-    "title": "german lentils stew with chilli twist",
+    "title": "Vibrant Lentil Stew",
     "tags": [
-      "easy-to-make",
       "german",
-      "gluten-free",
-      "hearty",
-      "lentils",
-      "one-pan",
-      "vegan"
+      "lentil",
+      "stew",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "german",
-    "totalTimeMin": 40,
+    "cuisine": null,
+    "totalTimeMin": 50,
     "shard": "v"
   },
   {
