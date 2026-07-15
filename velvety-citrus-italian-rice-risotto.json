@@ -1,0 +1,57 @@
+{
+  "slug": "velvety-citrus-italian-rice-risotto",
+  "title": "Creamy Italian Risotto",
+  "description": "A classic italian dish made with creamy risotto, velvety sauce and a hint of citrus.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "risotto",
+      "amount": "1 cup"
+    },
+    {
+      "name": "velvety",
+      "amount": "2 cups"
+    },
+    {
+      "name": "citrus",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat 2 cups of water in a saucepan.",
+    "Add 1 cup of risotto and stir to combine.",
+    "Cook for 5 minutes or until the risotto is tender.",
+    "Add 2 cups of velvety sauce and stir to combine.",
+    "Add 2 tbsp of citrus and 1 tsp of italian seasoning.",
+    "Cook for an additional 2 minutes.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "creamy",
+    "risotto"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-citrus-italian-rice-risotto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T19:23:58.140Z"
+}
