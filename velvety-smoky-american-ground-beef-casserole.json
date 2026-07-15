@@ -1,0 +1,83 @@
+{
+  "slug": "velvety-smoky-american-ground-beef-casserole",
+  "title": "Smoky Beef Casserole",
+  "description": "A hearty beef casserole with smoky flavor. Perfect for a cold night.",
+  "cuisine": null,
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 lb",
+      "notes": "80% lean"
+    },
+    {
+      "name": "american cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "velvety casserole sauce",
+      "amount": "1 cup",
+      "notes": "store-bought"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Cook the ground beef in a skillet over medium-high heat until browned, breaking up with spoon as needed.",
+    "Add the onion and garlic to the skillet and cook until softened.",
+    "Stir in the smoky paprika, salt, and pepper.",
+    "Transfer the beef mixture to a 9x13 inch baking dish.",
+    "Spread the velvety casserole sauce over the top of the beef mixture.",
+    "Sprinkle the shredded american cheese evenly over the sauce.",
+    "Bake for 25-30 minutes or until the cheese is melted and bubbly.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "casserole",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-smoky-american-ground-beef-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T12:07:50.586Z"
+}
