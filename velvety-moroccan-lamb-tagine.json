@@ -1,0 +1,88 @@
+{
+  "slug": "velvety-moroccan-lamb-tagine",
+  "title": "Moroccan Lamb Tagine",
+  "description": "A rich and flavorful North African stew made with tender lamb and aromatic spices, slow-cooked to perfection in a traditional clay pot.",
+  "cuisine": "North African",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in"
+    },
+    {
+      "name": "moroccan tagine spice blend",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large clay or ceramic pot over medium heat.",
+    "Brown lamb on all sides, about 5 minutes.",
+    "Add onion, garlic, and ginger; cook, stirring occasionally, until onion is softened, about 5 minutes.",
+    "Stir in tagine spice blend and cook for 1 minute.",
+    "Add broth and bring to a boil.",
+    "Transfer pot to a preheated oven and cook, covered, at 300°F (150°C) for 2 1/2 hours, or until lamb is tender.",
+    "Stir in parsley and season with salt and pepper to taste.",
+    "Serve hot, with lemon wedges on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "moroccan",
+    "stew",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-moroccan-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:53:45.403Z"
+}
