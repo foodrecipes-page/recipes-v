@@ -1,0 +1,87 @@
+{
+  "slug": "vibrant-turkish-lamb-doner-kebab",
+  "title": "Homemade Turkish-Style Doner Kebab",
+  "description": "A traditional Turkish dish made with thinly sliced lamb, served in a crispy pita with fresh vegetables and creamy sauce.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat",
+    "pork-free",
+    "lacto-ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "500g",
+      "notes": "boneless and thinly sliced"
+    },
+    {
+      "name": "Vibrant red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Turkish bread",
+      "amount": "4 pita breads",
+      "notes": "preferably homemade"
+    },
+    {
+      "name": "Doner kebab spice mix",
+      "amount": "2 tbsp",
+      "notes": "available in most Middle Eastern stores"
+    },
+    {
+      "name": "Lamb's tongue",
+      "amount": "1",
+      "notes": "optional"
+    },
+    {
+      "name": "Parsley",
+      "amount": "1 bunch",
+      "notes": "fresh and chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "unsalted"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine lamb, doner kebab spice mix, garlic, and lemon juice. Mix well and let it marinate for at least 2 hours.",
+    "2. Preheat a vertical spit or a grill to medium-high heat. Skewer the marinated lamb and cook until browned and cooked through.",
+    "3. Meanwhile, thinly slice the red onion and parsley. Chop the lamb's tongue into small pieces.",
+    "4. Warm the pita breads by wrapping them in foil and heating them in the oven for 5 minutes.",
+    "5. Assemble the doner kebab by spreading a layer of butter on each pita, followed by a slice of lamb, a few slices of onion, a sprinkle of parsley, and a few pieces of lamb's tongue.",
+    "6. Drizzle the remaining butter over the top and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish-food",
+    "doner-kebab",
+    "homemade"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-turkish-lamb-doner-kebab",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T05:48:25.660Z"
+}
