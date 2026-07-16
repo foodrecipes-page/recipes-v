@@ -1,0 +1,88 @@
+{
+  "slug": "vibrant-fluffy-venezuelan-chicken-empanadas--french",
+  "title": "Venezuelan Chicken Empanadas (French Twist)",
+  "description": "A French-inspired twist on traditional Venezuelan empanadas, filled with juicy chicken and spices.",
+  "cuisine": "french",
+  "diet": [
+    "meat",
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound, boneless and skinless",
+      "notes": null
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups, all-purpose",
+      "notes": null
+    },
+    {
+      "name": "vibrant red bell pepper",
+      "amount": "1 medium, diced",
+      "notes": null
+    },
+    {
+      "name": "fluffy puff pastry",
+      "amount": "1 package, thawed",
+      "notes": null
+    },
+    {
+      "name": "venezuelan spices (annatto, cumin, coriander)",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package, store-bought or homemade",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, mix together the chicken breast, red bell pepper, venezuelan spices, salt, and pepper.",
+    "Unfold the puff pastry and cut it into 8 equal squares.",
+    "Place a tablespoon of the chicken mixture onto one half of each square, leaving a 1/2-inch border around the edges.",
+    "Brush the edges with water and fold the other half of the pastry square over the filling, pressing the edges to seal.",
+    "Use a fork to crimp the edges and create a decorative border.",
+    "Brush the tops of the empanadas with a little water and sprinkle with granulated sugar.",
+    "Place the empanadas on a baking sheet lined with parchment paper, leaving about 1 inch of space between each empanada.",
+    "Bake for 20-25 minutes, or until the pastry is golden brown and the filling is cooked through.",
+    "Serve warm, garnished with a sprinkle of sugar and a side of your favorite dipping sauce.",
+    "Optional: Serve with a side salad or roasted vegetables for a well-rounded meal."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "venezuelan",
+    "chicken",
+    "empanadas",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-fluffy-venezuelan-chicken-empanadas--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T09:28:38.445Z"
+}
