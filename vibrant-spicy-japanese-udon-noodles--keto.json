@@ -1,0 +1,73 @@
+{
+  "slug": "vibrant-spicy-japanese-udon-noodles--keto",
+  "title": "Spicy Udon Noodle Stir Fry",
+  "description": "A keto-friendly and spicy stir-fry featuring udon noodles, perfect for a quick and satisfying meal.",
+  "cuisine": "japanese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "udon noodles",
+      "amount": "8 oz (225g)"
+    },
+    {
+      "name": "vibrant red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "spicy miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "japanese sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Cook the udon noodles according to the package instructions. Drain and set aside.",
+    "In a small bowl, mix together the spicy miso paste, sesame oil, and red pepper flakes.",
+    "In a large skillet or wok, heat the spicy miso paste mixture over medium-high heat.",
+    "Add the garlic and ginger and cook for 1-2 minutes, until fragrant.",
+    "Add the scallions and cook for an additional minute.",
+    "Add the cooked udon noodles to the skillet and stir-fry for 2-3 minutes, until the noodles are well coated with the spicy sauce.",
+    "Serve hot and enjoy!",
+    "Optional: Garnish with additional scallions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "keto",
+    "noodles",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "6g",
+    "carbs": "20g",
+    "fat": "45g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-spicy-japanese-udon-noodles--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T08:41:50.939Z"
+}
