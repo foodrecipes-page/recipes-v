@@ -1,0 +1,86 @@
+{
+  "slug": "vibrant-russian-broccoli-wrap--japanese",
+  "title": "Japanese Broccoli Wrap",
+  "description": "A delicious and easy-to-make Japanese-inspired dish featuring vibrant broccoli and savory flavors.",
+  "cuisine": "japanese",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Broccoli",
+      "amount": "1 bunch",
+      "notes": null
+    },
+    {
+      "name": "Vibrant wrap",
+      "amount": "1",
+      "notes": "large flour tortilla"
+    },
+    {
+      "name": "Russian dressing",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Sliced green onions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Grated carrots",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Crumbled sesame seeds",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat a pan or grill to medium-high heat.",
+    "2. Slice the broccoli into florets and cook until tender.",
+    "3. In a separate pan, toast the wrap for a few seconds on each side.",
+    "4. Spread Russian dressing on the wrap.",
+    "5. Add cooked broccoli, sliced green onions, grated carrots, and a sprinkle of sesame seeds on top of the dressing.",
+    "6. Drizzle with soy sauce if desired.",
+    "7. Season with salt and pepper to taste.",
+    "8. Fold the wrap to enclose the filling.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "vegetarian",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-russian-broccoli-wrap--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T20:41:10.680Z"
+}
