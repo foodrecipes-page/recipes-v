@@ -1,0 +1,98 @@
+{
+  "slug": "vibrant-argentinian-tofu-bake--german",
+  "title": "Argentinian-Style German Bratwurst Bake",
+  "description": "A fusion of German and Argentinian flavors in a hearty, comforting dish. This dish combines the rich flavors of bratwurst with the vibrant colors of Argentinian spices.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bratwurst Sausages",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Argentinian-Style Spices",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Bake",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 can",
+      "notes": "diced"
+    },
+    {
+      "name": "Bread",
+      "amount": "1 loaf",
+      "notes": "cubed"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the diced onions and bell peppers, cook until tender.",
+    "Add the minced garlic, cook for 1 minute.",
+    "Add the diced tomatoes, cook for 2 minutes.",
+    "Add the Bratwurst Sausages, cook until browned.",
+    "In a separate bowl, mix together the bread, cheese, and Argentinian-Style Spices.",
+    "In a 9x13 inch baking dish, create a layer of the bread mixture.",
+    "Add a layer of the sausage mixture, followed by a layer of the tomato mixture.",
+    "Repeat the layers one more time, ending with a layer of the bread mixture on top.",
+    "Bake for 25-30 minutes, or until the top is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "argentinian",
+    "bratwurst",
+    "bake",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-argentinian-tofu-bake--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T04:12:08.966Z"
+}
