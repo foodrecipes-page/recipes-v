@@ -1,0 +1,69 @@
+{
+  "slug": "velvety-american-tamarind-ball-stir-fry--chinese",
+  "title": "Crispy American Tamarind Balls",
+  "description": "Delicious Chinese-style fried dough balls flavored with tamarind and American velvety goodness.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "1 tablespoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "velvety American cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Mix flour and sugar in a bowl.",
+    "Add tamarind paste and mix until combined.",
+    "Gradually add water and mix until a dough forms.",
+    "Knead the dough for 10 minutes.",
+    "Divide the dough into small balls.",
+    "Heat oil in a deep frying pan.",
+    "Fry the dough balls until golden brown.",
+    "Drain excess oil and let cool.",
+    "Dust with shredded American cheese before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "snack",
+    "fried"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-american-tamarind-ball-stir-fry--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T07:29:08.789Z"
+}
