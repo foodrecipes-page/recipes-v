@@ -1,0 +1,69 @@
+{
+  "slug": "vibrant-zesty-arabic-rhubarb-bowl",
+  "title": "Vibrant Rhubarb Bowl",
+  "description": "A refreshing and healthy bowl filled with the sweetness of rhubarb, the crunch of vibrant vegetables, and the zing of zesty lemon.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Rhubarb",
+      "amount": "2 cups, cut into 1-inch pieces"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup, peeled and grated"
+    },
+    {
+      "name": "Vibrant bell peppers",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Zesty lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Arabic spices",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Bowl",
+      "amount": "1, for serving"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon, optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, toss together the rhubarb, carrots, and bell peppers.",
+    "In a small bowl, whisk together the lemon juice and Arabic spices.",
+    "Pour the lemon mixture over the vegetables and toss to coat.",
+    "Transfer the mixture to a baking sheet and roast for 20-25 minutes, or until the vegetables are tender.",
+    "Serve the roasted vegetables in bowls and drizzle with honey, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "breakfast",
+    "vegan-option"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-zesty-arabic-rhubarb-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:25:33.946Z"
+}
