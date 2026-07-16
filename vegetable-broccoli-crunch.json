@@ -1,0 +1,57 @@
+{
+  "slug": "vegetable-broccoli-crunch",
+  "title": "Roasted Broccoli Crunch Salad",
+  "description": "A simple and flavorful salad with roasted broccoli and crunchy vegetables.",
+  "cuisine": "vegetarian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "salad",
+  "ingredients": [
+    {
+      "name": "broccoli",
+      "amount": "1 bunch",
+      "notes": "cut into florets"
+    },
+    {
+      "name": "vegetable",
+      "amount": "1 cup",
+      "notes": "such as carrots or bell peppers"
+    },
+    {
+      "name": "crunch",
+      "amount": "1/2 cup",
+      "notes": "such as chopped nuts or seeds"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Toss broccoli with 2 tbsp olive oil, salt, and pepper on a baking sheet.",
+    "Roast in the oven for 15-20 minutes, or until tender.",
+    "In a large bowl, combine roasted broccoli, chopped vegetable, and crunchy topping.",
+    "Drizzle with your favorite dressing and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "salad",
+    "roasted",
+    "easy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vegetable-broccoli-crunch",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T06:52:38.710Z"
+}
