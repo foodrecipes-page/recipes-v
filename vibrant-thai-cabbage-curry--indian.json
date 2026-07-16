@@ -1,0 +1,71 @@
+{
+  "slug": "vibrant-thai-cabbage-curry--indian",
+  "title": "Thai-Indian Cabbage Curry",
+  "description": "A flavorful and spicy curry made with cabbage, inspired by the blend of Thai and Indian cuisines.",
+  "cuisine": "indian",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": "2 cups, shredded"
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vibrant Curry Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add curry paste and cook, stirring constantly, for 1-2 minutes.",
+    "Add shredded cabbage and cook until it starts to soften, about 3-4 minutes.",
+    "Add curry powder, salt, and 1 cup of water. Stir well.",
+    "Bring the mixture to a simmer and cook until the cabbage is tender, about 10-12 minutes.",
+    "Stir in coconut milk and continue to simmer for another 2-3 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "thai",
+    "curry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-thai-cabbage-curry--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T09:49:00.267Z"
+}
