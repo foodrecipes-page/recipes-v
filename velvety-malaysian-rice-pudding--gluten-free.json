@@ -1,0 +1,73 @@
+{
+  "slug": "velvety-malaysian-rice-pudding--gluten-free",
+  "title": "Creamy Malaysian Rice Pudding",
+  "description": "A delicious and comforting dessert made with creamy velvety pudding, malaysian rice, and a touch of sweetness. Perfect for a gluten-free treat.",
+  "cuisine": "malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "malaysian rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "velvety pudding",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": null
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Combine the malaysian rice, sugar, and salt in a medium saucepan.",
+    "Add the coconut milk and vanilla extract, and stir to combine.",
+    "Cook over medium heat, stirring constantly, until the mixture comes to a boil.",
+    "Reduce the heat to low and simmer for 18-20 minutes, or until the rice is cooked and the mixture has thickened.",
+    "Stir in the velvety pudding until well combined.",
+    "Cook for an additional 2-3 minutes, or until the pudding has melted and the mixture is smooth.",
+    "Remove from heat and let cool to room temperature.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "dessert",
+    "malaysian",
+    "rice-pudding"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-malaysian-rice-pudding--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T01:29:04.071Z"
+}
