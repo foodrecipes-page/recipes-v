@@ -1,0 +1,83 @@
+{
+  "slug": "velvet-cantonese-almond-stew",
+  "title": "Cantonese Beef Stew",
+  "description": "A hearty Cantonese-inspired stew made with tender beef and a rich, savory sauce. This dish is perfect for a cold winter's night.",
+  "cuisine": "Chinese",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound"
+    },
+    {
+      "name": "velvet",
+      "amount": "2 tablespoons",
+      "notes": "for coating beef"
+    },
+    {
+      "name": "cantonese sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "almond oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bok choy",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": "beef broth"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F.",
+    "Coat beef with velvet and season with salt and pepper.",
+    "Heat almond oil in a large Dutch oven over medium-high heat.",
+    "Sear beef until browned, then remove from pot.",
+    "Reduce heat to medium and add ginger and garlic.",
+    "Cook until fragrant, about 1 minute.",
+    "Add cantonese sauce, beef broth, and browned beef to pot.",
+    "Bring to a boil, then cover and transfer to oven.",
+    "Braise for 2-3 hours, or until beef is tender.",
+    "Stir in chopped bok choy and cook until wilted.",
+    "Serve hot, garnished with sliced green onions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cantonese",
+    "beef-stew",
+    "chinese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvet-cantonese-almond-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T23:26:32.761Z"
+}
