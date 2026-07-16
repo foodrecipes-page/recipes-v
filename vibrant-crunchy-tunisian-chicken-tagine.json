@@ -1,0 +1,89 @@
+{
+  "slug": "vibrant-crunchy-tunisian-chicken-tagine",
+  "title": "Tunisian Chicken Tagine",
+  "description": "A flavorful and aromatic stew from Tunisia, made with tender chicken and a vibrant blend of spices. This dish is perfect for a chilly evening.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 1/2 pounds boneless, skinless chicken thighs"
+    },
+    {
+      "name": "tunisian",
+      "amount": "2 tablespoons tunisian spice blend"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches, grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "peppers",
+      "amount": "1/2 cup, sliced"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay or ceramic pot over medium-high heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger, and cook for another minute.",
+    "Add the chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Add the tunisian spice blend, cumin, coriander, cinnamon, and salt, and stir to combine.",
+    "Add the sliced peppers and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 20-25 minutes or until the chicken is cooked through.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north african",
+    "chicken",
+    "stew",
+    "tunisian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-crunchy-tunisian-chicken-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T19:50:51.968Z"
+}
