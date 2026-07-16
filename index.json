@@ -10440,16 +10440,14 @@
   },
   {
     "slug": "vibrant-zesty-arabic-rhubarb-bowl",
-    "title": "Vibrant Zesty Arabic Rhubarb Bowl",
+    "title": "Vibrant Rhubarb Bowl",
     "tags": [
-      "bento",
-      "mediterranean",
-      "peppery",
-      "plant-based",
-      "quick"
+      "healthy",
+      "breakfast",
+      "vegan-option"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 25,
+    "cuisine": null,
+    "totalTimeMin": 30,
     "shard": "v"
   },
   {
