@@ -527,14 +527,16 @@
   },
   {
     "slug": "vegetable-broccoli-crunch",
-    "title": "Vegetable Broccoli Crunch",
+    "title": "Roasted Broccoli Crunch Salad",
     "tags": [
-      "chinese-broccoli",
-      "mexican-dish",
-      "vegan-friendly"
+      "vegetarian",
+      "salad",
+      "roasted",
+      "easy",
+      "quick"
     ],
-    "cuisine": "mexican",
-    "totalTimeMin": 35,
+    "cuisine": "vegetarian",
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
@@ -11527,6 +11529,31 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 65,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-yeasty-venezuelan-chicken-empanadas--german",
+    "title": "Venezuelan Chicken Empanadas with German Twist",
+    "tags": [
+      "german",
+      "venezuelan",
+      "chicken",
+      "empanadas"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 30,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-american-tamarind-ball-stir-fry--chinese",
+    "title": "Crispy American Tamarind Balls",
+    "tags": [
+      "chinese",
+      "snack",
+      "fried"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 30,
     "shard": "v"
   }
 ]
