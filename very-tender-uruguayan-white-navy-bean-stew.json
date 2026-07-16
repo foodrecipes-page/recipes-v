@@ -1,0 +1,93 @@
+{
+  "slug": "very-tender-uruguayan-white-navy-bean-stew",
+  "title": "Uruguayan White Bean Stew",
+  "description": "A hearty and comforting stew originating from Uruguay, made with tender white beans and a variety of vegetables.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "White beans",
+      "amount": "1 cup, dried",
+      "notes": "Rinse and soak overnight"
+    },
+    {
+      "name": "Navy beans",
+      "amount": "1 cup, dried",
+      "notes": "Rinse and soak overnight"
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "Dried"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 teaspoon",
+      "notes": "Dried"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add chopped onion, carrot, and celery. Cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Stir in tomato paste and cook for 1-2 minutes.",
+    "Add soaked and rinsed white and navy beans, vegetable broth, dried oregano, and salt (if using).",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 30-40 minutes or until beans are tender.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped fresh herbs (optional)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bean-stew",
+    "uruguayan-cuisine",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/very-tender-uruguayan-white-navy-bean-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T20:37:16.325Z"
+}
