@@ -11568,5 +11568,70 @@
     "cuisine": "japanese",
     "totalTimeMin": 15,
     "shard": "v"
+  },
+  {
+    "slug": "vibrant-argentinian-tofu-bake--vegetarian",
+    "title": "Vibrant Argentinian Tofu Bake",
+    "tags": [
+      "argentinian",
+      "vegetarian",
+      "tofu",
+      "bake"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
+    "slug": "vividly-sour-yunnan-soya-bean-congee--mexican",
+    "title": "Yunnan Congee Tacos",
+    "tags": [
+      "mexican-fusion",
+      "breakfast",
+      "tacos"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-russian-mushroom-dumplings--mexican",
+    "title": "Mexican Mushroom Velvety Dumplings",
+    "tags": [
+      "mexican",
+      "vegan",
+      "breakfast",
+      "dumplings"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-fluffy-venezuelan-chicken-empanadas--french",
+    "title": "Venezuelan Chicken Empanadas (French Twist)",
+    "tags": [
+      "french",
+      "venezuelan",
+      "chicken",
+      "empanadas",
+      "pastry"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 50,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-thai-cabbage-curry--indian",
+    "title": "Thai-Indian Cabbage Curry",
+    "tags": [
+      "indian",
+      "thai",
+      "curry",
+      "vegetarian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "v"
   }
 ]
