@@ -11555,5 +11555,18 @@
     "cuisine": "chinese",
     "totalTimeMin": 30,
     "shard": "v"
+  },
+  {
+    "slug": "vibrant-spicy-japanese-udon-noodles--keto",
+    "title": "Spicy Udon Noodle Stir Fry",
+    "tags": [
+      "spicy",
+      "keto",
+      "noodles",
+      "stir-fry"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 15,
+    "shard": "v"
   }
 ]
