@@ -1,0 +1,79 @@
+{
+  "slug": "velvety-russian-mushroom-dumplings--mexican",
+  "title": "Mexican Mushroom Velvety Dumplings",
+  "description": "A unique fusion of Mexican and Eastern European flavors in a steaming bowl of tender dumplings.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Velvety Russian Mushroom Dumplings",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the cumin and chili powder and cook for 1 minute, until fragrant.",
+    "Add the dumplings and cook for 2-3 minutes on each side, until golden brown.",
+    "Season with salt to taste.",
+    "Serve the dumplings hot, garnished with chopped cilantro and your favorite toppings."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "vegan",
+    "breakfast",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-russian-mushroom-dumplings--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T09:23:49.344Z"
+}
