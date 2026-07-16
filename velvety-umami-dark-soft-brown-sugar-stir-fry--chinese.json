@@ -1,0 +1,63 @@
+{
+  "slug": "velvety-umami-dark-soft-brown-sugar-stir-fry--chinese",
+  "title": "Stir-Fried Dark Brown Sugar Noodles",
+  "description": "A classic Chinese dish with a twist, featuring velvety noodles cooked to perfection.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dark brown sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "velvety noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "soft stir-fry sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fried shallots",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brown sugar syrup",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil for the noodles.",
+    "Cook the noodles according to the package instructions until al dente.",
+    "In a separate pan, heat 1 tablespoon of oil over medium heat.",
+    "Add the fried shallots and cook for 1 minute.",
+    "Add the dark brown sugar and cook for another minute.",
+    "Add the soft stir-fry sauce and brown sugar syrup, stirring continuously.",
+    "Return the cooked noodles to the pan and toss to coat with the sauce.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "noodles",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 70,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-umami-dark-soft-brown-sugar-stir-fry--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T20:25:35.922Z"
+}
