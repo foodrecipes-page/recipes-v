@@ -11500,5 +11500,33 @@
     "cuisine": "german",
     "totalTimeMin": 45,
     "shard": "v"
+  },
+  {
+    "slug": "velvety-sweet-korean-flower-hwajeon--indian",
+    "title": "Korean-Style Hwajeon with a Sweet Twist",
+    "tags": [
+      "korean",
+      "indian",
+      "dessert",
+      "sweet",
+      "chocolate"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "v"
+  },
+  {
+    "slug": "vividly-flaky-dutch-beans-braise--indian",
+    "title": "Vividly Dutch Beans Braise",
+    "tags": [
+      "indian",
+      "beans",
+      "braise",
+      "vegetarian",
+      "lunch"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 65,
+    "shard": "v"
   }
 ]
