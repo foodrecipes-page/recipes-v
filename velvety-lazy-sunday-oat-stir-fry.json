@@ -1,0 +1,62 @@
+{
+  "slug": "velvety-lazy-sunday-oat-stir-fry",
+  "title": "Lazy Sunday Oatmeal",
+  "description": "A delicious and comforting oatmeal recipe, perfect for a relaxing Sunday morning. With the addition of velvety milk and a hint of sweetness, this dish is sure to become a favorite.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Rolled Oats",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Velvety Milk",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sunday Spice Blend (or cinnamon)",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pot, bring 2 cups of water to a boil.",
+    "Add 1 cup of rolled oats and reduce heat to medium.",
+    "Cook for 5 minutes, stirring occasionally.",
+    "Add 2 cups of velvety milk and stir well.",
+    "Continue cooking for another 5 minutes, or until the oats have absorbed most of the liquid.",
+    "Add 2 tbsp of honey and 1 tsp of Sunday Spice Blend (or cinnamon).",
+    "Stir well and cook for an additional 2 minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "oatmeal",
+    "lazy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-lazy-sunday-oat-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T00:43:00.552Z"
+}
