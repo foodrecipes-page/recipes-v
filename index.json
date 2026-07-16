@@ -7544,17 +7544,16 @@
   },
   {
     "slug": "vibrant-crunchy-tunisian-chicken-tagine",
-    "title": "Vibrant Crunchy Tunisian Chicken Tagine",
+    "title": "Tunisian Chicken Tagine",
     "tags": [
-      "bento-box",
-      "dairy-free",
-      "date-night",
-      "gluten-free",
-      "middle-eastern",
-      "tunisian-cuisine"
+      "north african",
+      "chicken",
+      "stew",
+      "tunisian",
+      "spicy"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 50,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "v"
   },
   {
@@ -11433,6 +11432,18 @@
     ],
     "cuisine": "American",
     "totalTimeMin": 22,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-umami-dark-soft-brown-sugar-stir-fry--chinese",
+    "title": "Stir-Fried Dark Brown Sugar Noodles",
+    "tags": [
+      "chinese",
+      "noodles",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
     "shard": "v"
   }
 ]
