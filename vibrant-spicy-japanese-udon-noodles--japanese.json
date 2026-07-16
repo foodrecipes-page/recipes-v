@@ -1,0 +1,96 @@
+{
+  "slug": "vibrant-spicy-japanese-udon-noodles--japanese",
+  "title": "Spicy Udon Noodles",
+  "description": "A spicy and savory Japanese noodle dish made with udon noodles, vegetables, and a flavorful sauce. This recipe is a perfect blend of spicy and sweet flavors.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Udon noodles",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": "for flavor"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for flavor"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Spicy sauce",
+      "amount": "2 tablespoons",
+      "notes": "such as sriracha"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the udon noodles according to the package instructions.",
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the grated ginger and minced garlic and stir-fry for 1-2 minutes until fragrant.",
+    "Add the sesame oil and soy sauce and stir-fry for another minute.",
+    "Add the cooked udon noodles and stir-fry for 2-3 minutes until well coated with the sauce.",
+    "Add the sesame seeds and chopped green onions and stir-fry for another minute.",
+    "Add the spicy sauce and stir-fry for another minute.",
+    "Season with salt to taste.",
+    "Serve hot and garnish with additional sesame seeds and green onions if desired.",
+    "Enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "japanese",
+    "noodles",
+    "udon",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-spicy-japanese-udon-noodles--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T02:43:35.376Z"
+}
