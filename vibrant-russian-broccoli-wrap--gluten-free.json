@@ -1,0 +1,84 @@
+{
+  "slug": "vibrant-russian-broccoli-wrap--gluten-free",
+  "title": "Russian-Style Broccoli Wrap",
+  "description": "A flavorful and healthy gluten-free meal made with tender broccoli, creamy sauce, and crispy wrap.",
+  "cuisine": "russian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "broccoli",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "wrap",
+      "amount": "1",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 clove",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick pan over medium heat.",
+    "2. Add chopped broccoli to the pan and cook for 3-4 minutes.",
+    "3. In a separate bowl, mix together mayonnaise, sour cream, garlic, salt, and pepper.",
+    "4. Add the cooked broccoli to the bowl and mix well.",
+    "5. Warm the gluten-free wrap in the microwave for 10-15 seconds.",
+    "6. Spread the broccoli mixture on the wrap.",
+    "7. Drizzle lemon juice on top of the broccoli mixture.",
+    "8. Fold the wrap in half to serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "lunch",
+    "russian",
+    "healthy",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-russian-broccoli-wrap--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T21:27:26.072Z"
+}
