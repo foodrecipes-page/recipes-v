@@ -1,0 +1,102 @@
+{
+  "slug": "vibrant-fluffy-venezuelan-chicken-empanadas",
+  "title": "Venezuelan Chicken Empanadas",
+  "description": "Delicious empanadas filled with flavorful chicken and spices, inspired by Venezuelan cuisine. Perfect as a snack or appetizer.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "vegetable shortening",
+      "amount": "1 cup",
+      "notes": "chilled and cut into small pieces"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup",
+      "notes": "cold water"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "oregano",
+      "amount": "1/2 teaspoon",
+      "notes": "dried oregano"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "salsa de ají amarillo",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the flour, salt, black pepper, cumin, oregano, and garlic powder.",
+    "Add the shortening and, using a pastry blender or your fingers, work it into the flour mixture until it resembles coarse crumbs.",
+    "Gradually add the cold water, stirring with a fork until the dough comes together in a ball.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "Wrap the dough in plastic wrap and let it rest for 30 minutes.",
+    "Preheat the oven to 375°F (190°C).",
+    "In a separate bowl, combine the shredded chicken, salsa de ají amarillo (if using), and a pinch of salt and pepper.",
+    "Divide the dough into 8-10 equal pieces and roll each piece into a ball.",
+    "Roll out each ball of dough into a thin circle.",
+    "Place a tablespoon of the chicken mixture onto one half of the dough circle, leaving a 1/2 inch border around the edges.",
+    "Fold the other half of the dough over the filling and press the edges together to seal the empanada.",
+    "Use a fork to crimp the edges and create a decorative border.",
+    "Brush the tops of the empanadas with a little water and place them on a baking sheet lined with parchment paper.",
+    "Bake the empanadas for 20-25 minutes, or until they are golden brown and crispy.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 25,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "venezuelan",
+    "empanadas",
+    "chicken",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 24,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-fluffy-venezuelan-chicken-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T02:44:36.316Z"
+}
