@@ -1,0 +1,83 @@
+{
+  "slug": "vividly-sour-yunnan-soya-bean-congee--mexican",
+  "title": "Yunnan Congee Tacos",
+  "description": "A unique fusion of traditional Yunnan congee with Mexican taco flavors.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Yunnan rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "congee",
+      "amount": "2 cups"
+    },
+    {
+      "name": "soya sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vividly colored cabbage",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a pan over medium heat.",
+    "Add cumin and cayenne pepper, cook for 1 minute.",
+    "Add Yunnan rice and cook for 2 minutes.",
+    "Add congee and stir to combine.",
+    "Add soya sauce and stir to combine.",
+    "Add bean sprouts and vividly colored cabbage, cook for 3 minutes.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Spoon the congee mixture onto a tortilla, top with sour cream and serve.",
+    "Garnish with additional bean sprouts and vividly colored cabbage if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican-fusion",
+    "breakfast",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vividly-sour-yunnan-soya-bean-congee--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T09:04:49.125Z"
+}
