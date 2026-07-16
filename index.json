@@ -658,20 +658,14 @@
   },
   {
     "slug": "velvet-cantonese-almond-stew",
-    "title": "Velvet Cantonese Almond Stew",
+    "title": "Cantonese Beef Stew",
     "tags": [
-      "velvety",
       "cantonese",
-      "almond",
-      "dairy-free",
-      "vegan",
-      "gluten-free",
-      "stew",
-      "comfort-food",
-      "quick"
+      "beef-stew",
+      "chinese-cuisine"
     ],
-    "cuisine": "Cantonese",
-    "totalTimeMin": 25,
+    "cuisine": "Chinese",
+    "totalTimeMin": 170,
     "shard": "v"
   },
   {
@@ -10541,14 +10535,14 @@
   },
   {
     "slug": "vinegar-rice-feast",
-    "title": "Vinegar Rice Feast",
+    "title": "Festive Vinegar Rice Bowl",
     "tags": [
-      "vindaloo-style",
-      "bhuna-spice",
-      "rice-vinegar"
+      "rice",
+      "side-dish",
+      "easy"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 30,
     "shard": "v"
   },
   {
