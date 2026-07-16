@@ -1,0 +1,78 @@
+{
+  "slug": "vibrant-yeasty-venezuelan-chicken-empanadas--german",
+  "title": "Venezuelan Chicken Empanadas with German Twist",
+  "description": "A Venezuelan-inspired empanada recipe with a German twist, featuring juicy chicken and vibrant flavors.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast, boneless and skinless",
+      "amount": "1 lb",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for the empanada dough"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 packet (2 1/4 teaspoons)",
+      "notes": "active dry yeast"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "for the empanada dough"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "for the empanada dough"
+    },
+    {
+      "name": "veggie oil",
+      "amount": "1/2 cup",
+      "notes": "for frying the empanadas"
+    },
+    {
+      "name": "vibrant empanada seasoning (or a mix of paprika, garlic powder, and onion powder)",
+      "amount": "1 teaspoon",
+      "notes": "for flavor"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, yeast, salt, and sugar. Mix until a dough forms.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8-10 equal pieces. Roll each piece into a ball and flatten it slightly into a disk shape.",
+    "Place a tablespoon of the chicken mixture onto the center of each disk. Fold the dough over the filling and press the edges together to seal the empanada.",
+    "Heat the veggie oil in a large skillet over medium-high heat. When the oil is hot, add 2-3 empanadas to the skillet and fry until golden brown, about 3-4 minutes per side.",
+    "Repeat with the remaining empanadas.",
+    "Serve the empanadas warm with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "venezuelan",
+    "chicken",
+    "empanadas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-yeasty-venezuelan-chicken-empanadas--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T07:25:06.758Z"
+}
