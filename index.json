@@ -6776,16 +6776,14 @@
   },
   {
     "slug": "very-tender-uruguayan-white-navy-bean-stew",
-    "title": "Very Tender Uruguayan White Navy Bean Stew",
+    "title": "Uruguayan White Bean Stew",
     "tags": [
-      "comfort-food",
-      "low-sodium",
-      "one-pot",
+      "bean-stew",
       "uruguayan-cuisine",
-      "white-beans"
+      "comfort-food"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 80,
+    "totalTimeMin": 55,
     "shard": "v"
   },
   {
@@ -11444,6 +11442,32 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 25,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-russian-broccoli-wrap--japanese",
+    "title": "Japanese Broccoli Wrap",
+    "tags": [
+      "japanese",
+      "vegetarian",
+      "wrap"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 15,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-russian-broccoli-wrap--gluten-free",
+    "title": "Russian-Style Broccoli Wrap",
+    "tags": [
+      "gluten-free",
+      "lunch",
+      "russian",
+      "healthy",
+      "easy"
+    ],
+    "cuisine": "russian",
+    "totalTimeMin": 15,
     "shard": "v"
   }
 ]
