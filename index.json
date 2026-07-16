@@ -11461,5 +11461,18 @@
     "cuisine": "russian",
     "totalTimeMin": 15,
     "shard": "v"
+  },
+  {
+    "slug": "velvety-malaysian-rice-pudding--gluten-free",
+    "title": "Creamy Malaysian Rice Pudding",
+    "tags": [
+      "gluten-free",
+      "dessert",
+      "malaysian",
+      "rice-pudding"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 30,
+    "shard": "v"
   }
 ]
