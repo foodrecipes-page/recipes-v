@@ -11486,5 +11486,19 @@
     "cuisine": "japanese",
     "totalTimeMin": 25,
     "shard": "v"
+  },
+  {
+    "slug": "vibrant-argentinian-tofu-bake--german",
+    "title": "Argentinian-Style German Bratwurst Bake",
+    "tags": [
+      "german",
+      "argentinian",
+      "bratwurst",
+      "bake",
+      "comfort-food"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "v"
   }
 ]
