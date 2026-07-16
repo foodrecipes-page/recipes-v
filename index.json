@@ -3413,15 +3413,13 @@
   },
   {
     "slug": "velvety-lazy-sunday-oat-stir-fry",
-    "title": "Velvety Lazy-Sunday Oat Stir-fry",
+    "title": "Lazy Sunday Oatmeal",
     "tags": [
-      "lazy-sunday",
-      "fermented",
-      "oat-milk",
-      "stir-fry",
-      "norwegian"
+      "breakfast",
+      "oatmeal",
+      "lazy"
     ],
-    "cuisine": "Norwegian",
+    "cuisine": null,
     "totalTimeMin": 15,
     "shard": "v"
   },
