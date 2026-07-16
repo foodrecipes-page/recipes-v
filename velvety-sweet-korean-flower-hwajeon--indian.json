@@ -1,0 +1,82 @@
+{
+  "slug": "velvety-sweet-korean-flower-hwajeon--indian",
+  "title": "Korean-Style Hwajeon with a Sweet Twist",
+  "description": "A unique Indian-inspired dessert using traditional Korean hwajeon ingredients, with a sweet and velvety twist.",
+  "cuisine": "indian",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "rice flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "sweet potato starch",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "korean hwajeon mix",
+      "amount": "1/2 cup",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "velvety chocolate chips",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "flower honey",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": "adjust to consistency"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine rice flour, sweet potato starch, and korean hwajeon mix.",
+    "2. Gradually add in water and mix until a smooth dough forms.",
+    "3. Divide the dough into small balls, about 1-inch in diameter.",
+    "4. Heat a non-stick pan or griddle over medium heat.",
+    "5. Add a small amount of ghee or oil to the pan and swirl it around.",
+    "6. Place a dough ball in the pan and cook for 2-3 minutes, until the bottom is lightly browned.",
+    "7. Flip the hwajeon and cook for an additional 2 minutes.",
+    "8. Repeat with the remaining dough balls.",
+    "9. In a small saucepan, heat the flower honey over low heat until warm and syrupy.",
+    "10. Drizzle the honey over the cooked hwajeon and sprinkle with velvety chocolate chips.",
+    "11. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "indian",
+    "dessert",
+    "sweet",
+    "chocolate"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-sweet-korean-flower-hwajeon--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T04:32:52.312Z"
+}
