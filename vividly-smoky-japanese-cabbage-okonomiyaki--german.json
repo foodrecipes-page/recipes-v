@@ -1,0 +1,73 @@
+{
+  "slug": "vividly-smoky-japanese-cabbage-okonomiyaki--german",
+  "title": "Smoky Okonomiyaki-Style German Cabbage Pancake",
+  "description": "A twist on traditional German cabbage pancakes, this recipe incorporates smoky okonomiyaki sauce and savory Japanese flavors.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 medium head, shredded"
+    },
+    {
+      "name": "vividly",
+      "amount": "1 cup, thinly sliced"
+    },
+    {
+      "name": "smoky",
+      "amount": "2 tablespoons, okonomiyaki sauce"
+    },
+    {
+      "name": "japanese",
+      "amount": "2 tablespoons, soy sauce"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup, all-purpose"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup, cold"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine cabbage, vividly, and 1/2 cup of flour.",
+    "In a separate bowl, whisk together eggs, cold water, smoky, and japanese.",
+    "Add the wet ingredients to the dry ingredients and mix until combined.",
+    "Heat a non-stick pan over medium heat.",
+    "Using a 1/4 cup measuring cup, scoop the batter into the pan.",
+    "Cook for 2-3 minutes, until the edges start to set.",
+    "Flip the pancake and cook for an additional 1-2 minutes.",
+    "Repeat with the remaining batter, until all pancakes are cooked.",
+    "Serve warm, garnished with additional smoky if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "cabbage",
+    "pancake",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vividly-smoky-japanese-cabbage-okonomiyaki--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T22:05:24.351Z"
+}
