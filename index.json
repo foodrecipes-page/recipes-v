@@ -6384,17 +6384,14 @@
   },
   {
     "slug": "velvety-winey-korean-sweet-peppers-jjigae",
-    "title": "Velvety Winey Korean Sweet Peppers Jjigae",
+    "title": "Korean Jjigae Stuffed Bell Peppers",
     "tags": [
-      "brunch",
-      "comfort-food",
       "korean",
-      "one-pan",
-      "ovo-vegetarian",
-      "weeknight"
+      "jjigae",
+      "stuffed-peppers"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 45,
     "shard": "v"
   },
   {
@@ -9680,18 +9677,15 @@
   },
   {
     "slug": "vibrant-spicy-chinese-apricot-lo-mein",
-    "title": "Vibrant Spicy Chinese Apricot Lo Mein",
+    "title": "Spicy Lo Mein Stir Fry",
     "tags": [
       "chinese",
-      "one-pan",
-      "quick-fix",
-      "spicy",
-      "vegan",
+      "stir-fry",
       "vegetarian",
-      "weeknight"
+      "gluten-free"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 25,
+    "cuisine": "chinese",
+    "totalTimeMin": 20,
     "shard": "v"
   },
   {
