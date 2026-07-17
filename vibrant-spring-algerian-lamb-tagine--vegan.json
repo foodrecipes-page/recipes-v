@@ -1,0 +1,88 @@
+{
+  "slug": "vibrant-spring-algerian-lamb-tagine--vegan",
+  "title": "Spring Tagine with Algerian Flair",
+  "description": "A vibrant and flavorful vegan tagine inspired by Algerian cuisine, perfect for a spring evening. This recipe showcases the beauty of plant-based cooking with the use of colorful vegetables and aromatic spices.",
+  "cuisine": "algerian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spring onions",
+      "amount": "2"
+    },
+    {
+      "name": "carrots",
+      "amount": "1.5"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1"
+    },
+    {
+      "name": "algerian couscous",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay or earthenware tagine dish over medium heat.",
+    "Add the cumin, coriander, smoked paprika, salt, and black pepper. Cook for 1-2 minutes, stirring constantly.",
+    "Add the chopped spring onions, carrots, and red bell pepper to the tagine. Cook for 5-7 minutes, or until the vegetables are tender.",
+    "Stir in the lemon juice and bring the mixture to a simmer.",
+    "Add the Algerian couscous to the tagine and stir to combine.",
+    "Reduce the heat to low and cover the tagine with a lid.",
+    "Simmer the tagine for 20-25 minutes, or until the couscous is cooked and the liquid has been absorbed.",
+    "Serve the tagine hot, garnished with fresh herbs and lemon wedges if desired.",
+    "Adjust the seasoning as needed and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "algerian",
+    "spring",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-spring-algerian-lamb-tagine--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T23:18:26.319Z"
+}
