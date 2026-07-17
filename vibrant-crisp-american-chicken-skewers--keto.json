@@ -1,0 +1,73 @@
+{
+  "slug": "vibrant-crisp-american-chicken-skewers--keto",
+  "title": "Keto Grilled Chicken Skewers",
+  "description": "Tender and flavorful chicken skewers made with a blend of spices and grilled to perfection. This keto-friendly recipe is perfect for a quick and easy dinner.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": null
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Vibrant spices (paprika, garlic powder, onion powder, salt, pepper)",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Freshly squeezed lime juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Crisp chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "American cheese (optional)",
+      "amount": "1/4 cup",
+      "notes": "keto-friendly cheese"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together coconut oil, vibrant spices, lime juice, and a pinch of salt.",
+    "3. Add chicken breast to the bowl and toss to coat evenly.",
+    "4. Thread chicken onto skewers, leaving a small space between each piece.",
+    "5. Grill skewers for 8-10 minutes per side, or until chicken is cooked through.",
+    "6. Garnish with crisp chopped cilantro and serve hot.",
+    "7. If using American cheese, sprinkle on top of skewers during the last minute of grilling."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "chicken",
+    "skewers",
+    "keto",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-crisp-american-chicken-skewers--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T21:46:09.825Z"
+}
