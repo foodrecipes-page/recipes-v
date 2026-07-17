@@ -1,0 +1,99 @@
+{
+  "slug": "vibrant-steamed-chinese-rhubarb-mushimono",
+  "title": "Stir-Fried Rhubarb",
+  "description": "A sweet and sour stir-fry made with steamed rhubarb, vibrant vegetables, and a hint of chinese spices.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rhubarb",
+      "amount": "500g",
+      "notes": "Steamed"
+    },
+    {
+      "name": "Vibrant Vegetables (such as bell peppers, carrots, and snap peas)",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Mushroom",
+      "amount": "125g",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "Grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 tsp",
+      "notes": "Minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a wok or large skillet over medium-high heat.",
+    "Add the garlic and ginger and stir-fry for 1 minute.",
+    "Add the vibrant vegetables and mushroom and stir-fry for 2-3 minutes.",
+    "Add the steamed rhubarb and stir-fry for another 2-3 minutes.",
+    "In a small bowl, whisk together the soy sauce, honey, and rice vinegar.",
+    "Pour the sauce over the vegetables and rhubarb, and stir-fry for another minute.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "chinese-cuisine",
+    "rhubarb",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-steamed-chinese-rhubarb-mushimono",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T20:30:38.936Z"
+}
