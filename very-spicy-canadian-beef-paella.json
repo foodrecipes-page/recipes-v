@@ -1,0 +1,107 @@
+{
+  "slug": "very-spicy-canadian-beef-paella",
+  "title": "Spicy Beef Paella",
+  "description": "A flavorful and spicy twist on the classic Spanish dish, featuring beef and a blend of spices.",
+  "cuisine": "Spanish",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "paella rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "very spicy sausage",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 can (14.5 oz)",
+      "notes": "diced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large skillet over medium-high heat.",
+    "Add the beef and cook until browned, about 3-4 minutes.",
+    "Remove the beef from the skillet and set aside.",
+    "Add the sausage and cook until browned, about 2-3 minutes.",
+    "Remove the sausage from the skillet and set aside.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent, about 3-4 minutes.",
+    "Add the tomato, paprika, cumin, salt, and pepper to the skillet and cook for 1 minute.",
+    "Add the rice to the skillet and cook for 1-2 minutes, stirring constantly.",
+    "Add the beef broth, chicken broth, and browned beef and sausage to the skillet.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes or until the rice is tender.",
+    "Fluff the paella with a fork and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "beef",
+    "gluten",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/very-spicy-canadian-beef-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T14:27:23.306Z"
+}
