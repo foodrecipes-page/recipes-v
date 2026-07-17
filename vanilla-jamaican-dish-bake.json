@@ -1,0 +1,88 @@
+{
+  "slug": "vanilla-jamaican-dish-bake",
+  "title": "Jamaican Vanilla Cake",
+  "description": "Moist and flavorful cake infused with the warmth of Jamaican spices.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "large eggs",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "jamaican spice blend",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "baking dish",
+      "amount": "1 (9-inch) round",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C). Grease and flour a 9-inch round baking dish.",
+    "In a medium bowl, whisk together flour, sugar, baking powder, and salt.",
+    "In a large bowl, whisk together butter, eggs, vanilla extract, and jamaican spice blend.",
+    "Add the dry ingredients to the wet ingredients and mix until just combined.",
+    "Pour the batter into the prepared baking dish and smooth the top.",
+    "Bake for 35-40 minutes, or until a toothpick inserted into the center comes out clean.",
+    "Remove from oven and let cool in the dish for 10 minutes before transferring to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cake",
+    "jamaican",
+    "vanilla",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vanilla-jamaican-dish-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T01:32:42.701Z"
+}
