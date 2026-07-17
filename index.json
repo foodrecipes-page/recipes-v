@@ -11670,5 +11670,19 @@
     "cuisine": "algerian",
     "totalTimeMin": 40,
     "shard": "v"
+  },
+  {
+    "slug": "velvety-honey-stir-fry--mexican",
+    "title": "Honey Velvety Chicken Fajitas",
+    "tags": [
+      "mexican",
+      "chicken",
+      "fajitas",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "v"
   }
 ]
