@@ -1,0 +1,79 @@
+{
+  "slug": "velvety-winey-korean-sweet-peppers-jjigae",
+  "title": "Korean Jjigae Stuffed Bell Peppers",
+  "description": "A sweet and spicy twist on traditional stuffed peppers. The Korean jjigae adds a rich, savory flavor to the dish.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bell peppers",
+      "amount": "4",
+      "notes": "any color"
+    },
+    {
+      "name": "Korean jjigae sauce",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the tops off the bell peppers and remove seeds and membranes.",
+    "In a large skillet, sauté the mushrooms, onion, and garlic over medium heat until tender.",
+    "Add the Korean jjigae sauce and stir to combine. Bring to a simmer and let cook for 2-3 minutes.",
+    "Stuff each bell pepper with the jjigae mixture and top with cooked rice.",
+    "Place the stuffed peppers in a baking dish and cover with foil.",
+    "Bake for 25-30 minutes or until the peppers are tender.",
+    "Remove foil and bake for an additional 5-10 minutes or until the tops are lightly browned.",
+    "Serve hot, garnished with green onions and a drizzle of soy sauce if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "jjigae",
+    "stuffed-peppers"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-winey-korean-sweet-peppers-jjigae",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T19:02:49.638Z"
+}
