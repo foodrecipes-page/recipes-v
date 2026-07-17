@@ -6825,18 +6825,14 @@
   },
   {
     "slug": "vibrant-blanch-korean-mushroom-sujjuk-jjigae",
-    "title": "Vibrant Blanch Korean mushroom Sujjuk Jjigae",
+    "title": "Spicy Korean Jjigae",
     "tags": [
-      "brunch",
-      "jjigae",
       "korean",
-      "mushroom",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "stew",
+      "spicy"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
@@ -11660,6 +11656,19 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 25,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-spring-algerian-lamb-tagine--vegan",
+    "title": "Spring Tagine with Algerian Flair",
+    "tags": [
+      "vegan",
+      "algerian",
+      "spring",
+      "tagine"
+    ],
+    "cuisine": "algerian",
+    "totalTimeMin": 40,
     "shard": "v"
   }
 ]
