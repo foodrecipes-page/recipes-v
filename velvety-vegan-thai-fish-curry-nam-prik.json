@@ -1,0 +1,94 @@
+{
+  "slug": "velvety-vegan-thai-fish-curry-nam-prik",
+  "title": "Spicy Vegan Thai Curry",
+  "description": "A flavorful and spicy Thai-inspired curry with a rich, creamy, and slightly sweet sauce, made with velvety coconut milk, served with steamed vegetables and rice.",
+  "cuisine": "thai",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat, 14 oz"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1",
+      "notes": "any color"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Snow peas",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large pan over medium heat.",
+    "Add onion and ginger and cook until softened, about 3-4 minutes.",
+    "Add curry paste and cook for 1-2 minutes, until fragrant.",
+    "Pour in coconut milk and vegetable broth, and bring to a simmer.",
+    "Add bell pepper, carrots, and snow peas, and cook until the vegetables are tender, about 10-12 minutes.",
+    "Season with salt to taste.",
+    "Serve hot over steamed rice or noodles.",
+    "Garnish with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "thai",
+    "curry",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-vegan-thai-fish-curry-nam-prik",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T20:59:38.471Z"
+}
