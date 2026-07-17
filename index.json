@@ -100,15 +100,15 @@
   },
   {
     "slug": "vanilla-jamaican-dish-bake",
-    "title": "Vanilla Jamaican Dish Bake",
+    "title": "Jamaican Vanilla Cake",
     "tags": [
-      "date-night",
-      "dessert",
-      "fodmap-friendly",
-      "vanilla"
+      "cake",
+      "jamaican",
+      "vanilla",
+      "dessert"
     ],
     "cuisine": "jamaican",
-    "totalTimeMin": 55,
+    "totalTimeMin": 50,
     "shard": "v"
   },
   {
@@ -11683,6 +11683,31 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-snappy-polish-pasta-tagine--german",
+    "title": "German Tagine Pasta",
+    "tags": [
+      "german",
+      "pasta",
+      "tagine"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-spicy-jamaican-sea-bass-skewers--indian",
+    "title": "Jamaican Sea Bass Skewers with Vibrant Chutney",
+    "tags": [
+      "indian",
+      "grilled",
+      "seafood",
+      "chutney"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
     "shard": "v"
   }
 ]
