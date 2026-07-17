@@ -1,0 +1,75 @@
+{
+  "slug": "vividly-smoky-japanese-cabbage-okonomiyaki",
+  "title": "Smoky Japanese Okonomiyaki",
+  "description": "A delicious, savory pancake from Japan, filled with cabbage, okonomiyaki sauce and smoky flavors.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vividly colored cabbage",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "Okonomiyaki sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Smoky sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Soy sauce (optional)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Sesame seeds (optional)",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Combine flour and water in a bowl to make batter.",
+    "Heat oil in a pan over medium heat.",
+    "Add cabbage and cook until softened.",
+    "Add okonomiyaki and smoky sauce, stir until combined.",
+    "Pour in batter and cook until set.",
+    "Flip and cook for another 2 minutes.",
+    "Garnish with soy sauce and sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "pancake",
+    "vegan",
+    "breakfast",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vividly-smoky-japanese-cabbage-okonomiyaki",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T21:02:09.169Z"
+}
