@@ -1,0 +1,79 @@
+{
+  "slug": "vibrant-spicy-jamaican-sea-bass-skewers--indian",
+  "title": "Jamaican Sea Bass Skewers with Vibrant Chutney",
+  "description": "A flavorful Indian-inspired dish featuring marinated sea bass skewers served with a vibrant and spicy chutney.",
+  "cuisine": "indian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sea bass",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "vibrant chutney",
+      "amount": "1 cup",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "seeded and thinly sliced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "seeded and sliced"
+    },
+    {
+      "name": "pineapple",
+      "amount": "1 cup",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread sea bass pieces, red onion, red bell pepper, zucchini, and pineapple onto skewers.",
+    "Brush skewers with olive oil and season with jamaican jerk seasoning.",
+    "Grill skewers for 8-10 minutes, turning occasionally, until cooked through.",
+    "Meanwhile, warm vibrant chutney over low heat.",
+    "Serve skewers with vibrant chutney spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "grilled",
+    "seafood",
+    "chutney"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-spicy-jamaican-sea-bass-skewers--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T01:23:47.557Z"
+}
