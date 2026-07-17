@@ -1,0 +1,55 @@
+{
+  "slug": "vibrant-blanch-korean-mushroom-sujjuk-jjigae",
+  "title": "Spicy Korean Jjigae",
+  "description": "A hearty, spicy Korean stew made with sujjuk and mushrooms. Serve with a side of rice.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sujjuk",
+      "amount": "200g"
+    },
+    {
+      "name": "mushroom",
+      "amount": "250g",
+      "notes": "any variety, sliced"
+    },
+    {
+      "name": "blanch",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat a large pan over medium-high heat.",
+    "Add the sliced mushrooms and cook until browned, about 5 minutes.",
+    "Add the sujjuk and cook, breaking it up with a spoon, until browned and crispy, about 5 minutes.",
+    "Add the blanch and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to medium-low and simmer, covered, for 10 minutes.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "stew",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-blanch-korean-mushroom-sujjuk-jjigae",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T23:13:41.601Z"
+}
