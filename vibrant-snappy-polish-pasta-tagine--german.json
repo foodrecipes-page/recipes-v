@@ -1,0 +1,66 @@
+{
+  "slug": "vibrant-snappy-polish-pasta-tagine--german",
+  "title": "German Tagine Pasta",
+  "description": "A German twist on traditional Moroccan tagine, this recipe brings together the comfort of pasta and the bold flavors of the tagine. Serve hot and enjoy!",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "250g",
+      "notes": "penne or fusilli work well"
+    },
+    {
+      "name": "tagine",
+      "amount": "1",
+      "notes": "you can use store-bought or homemade"
+    },
+    {
+      "name": "vibrant",
+      "amount": "1/4 cup",
+      "notes": "vibrant bell peppers, sliced"
+    },
+    {
+      "name": "snappy",
+      "amount": "1 cup",
+      "notes": "snappy carrot sticks, peeled and sliced"
+    },
+    {
+      "name": "polish",
+      "amount": "1 tbsp",
+      "notes": "polish mustard, for serving"
+    }
+  ],
+  "instructions": [
+    "Cook the pasta according to package instructions.",
+    "In a large pan, heat the tagine over medium-high heat.",
+    "Add the sliced vibrant bell peppers and cook until they start to soften.",
+    "Add the snappy carrot sticks and continue cooking for another 5 minutes.",
+    "Stir in the cooked pasta, and cook for 1-2 minutes to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, topped with a dollop of polish mustard."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "pasta",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-snappy-polish-pasta-tagine--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T01:10:49.831Z"
+}
