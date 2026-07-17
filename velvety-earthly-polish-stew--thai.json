@@ -1,0 +1,97 @@
+{
+  "slug": "velvety-earthly-polish-stew--thai",
+  "title": "Thai Stew with Earthy Flavors",
+  "description": "A hearty Thai stew made with a variety of earthy ingredients, perfect for a cold evening. The stew's velvety texture and rich flavors will transport you to the streets of Bangkok.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish Sausage",
+      "amount": "1 pound",
+      "notes": "Slice the sausage into thin rounds before adding to the stew"
+    },
+    {
+      "name": "Earthy Mushrooms",
+      "amount": "2 cups",
+      "notes": "Use a variety of mushrooms such as shiitake and cremini"
+    },
+    {
+      "name": "Stew Vegetables",
+      "amount": "3 cups",
+      "notes": "Add your favorite vegetables such as carrots, potatoes, and bell peppers"
+    },
+    {
+      "name": "Velvety Coconut Milk",
+      "amount": "1 can",
+      "notes": "Full-fat coconut milk adds richness and creaminess to the stew"
+    },
+    {
+      "name": "Thai Curry Paste",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-quality curry paste for the best flavor"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tablespoon",
+      "notes": "Add a splash of fish sauce for depth of flavor"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon",
+      "notes": "Balance the heat from the curry paste with a touch of sweetness"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tablespoon",
+      "notes": "Add a splash of rice vinegar for brightness and acidity"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons",
+      "notes": "Use coconut oil for its high smoke point and rich flavor"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1 bunch",
+      "notes": "Garnish with fresh cilantro before serving"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large Dutch oven over medium-high heat.",
+    "Add the sliced Polish sausage and cook until browned, about 3-4 minutes.",
+    "Remove the sausage from the pot and set aside.",
+    "Add the Thai curry paste to the pot and cook for 1-2 minutes, until fragrant.",
+    "Add the stew vegetables, mushrooms, and fish sauce to the pot. Cook for 5 minutes, until the vegetables start to soften.",
+    "Add the coconut milk, brown sugar, and rice vinegar to the pot. Stir to combine.",
+    "Return the cooked sausage to the pot and stir to combine.",
+    "Bring the stew to a simmer and cook for 10-15 minutes, until the vegetables are tender.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the stew hot, garnished with fresh cilantro and steamed rice on the side.",
+    "Optional: Serve with a side of steamed bok choy or Thai basil for added freshness."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "stew",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-earthly-polish-stew--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T15:53:13.455Z"
+}
