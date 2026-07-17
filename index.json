@@ -11640,5 +11640,18 @@
     "cuisine": "french",
     "totalTimeMin": 60,
     "shard": "v"
+  },
+  {
+    "slug": "velvety-earthly-polish-stew--thai",
+    "title": "Thai Stew with Earthy Flavors",
+    "tags": [
+      "thai",
+      "stew",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "v"
   }
 ]
