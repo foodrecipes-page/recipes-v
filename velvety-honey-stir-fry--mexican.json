@@ -1,0 +1,85 @@
+{
+  "slug": "velvety-honey-stir-fry--mexican",
+  "title": "Honey Velvety Chicken Fajitas",
+  "description": "Quick and spicy fajitas with chicken, honey, and velvety sauce. Serve with tortillas, onions, and bell peppers.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "velvety sauce",
+      "amount": "1 cup",
+      "notes": "or homemade sauce"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 large",
+      "notes": "any color, sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "fajita seasoning",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "tortillas",
+      "amount": "4-6",
+      "notes": "corn or flour"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon oil in a large skillet over medium-high heat. Add chicken and cook until browned, about 5 minutes. Remove from skillet and set aside.",
+    "In the same skillet, add remaining oil and sauté onions and bell peppers until tender, about 5 minutes.",
+    "Stir in fajita seasoning and cook for 1 minute.",
+    "Add velvety sauce and stir to combine. Bring to a simmer and cook for 2-3 minutes or until heated through.",
+    "Return chicken to the skillet and stir to coat with sauce.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble fajitas by placing chicken and vegetables onto tortillas and top with cheese, if using.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chicken",
+    "fajitas",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-honey-stir-fry--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T23:56:36.274Z"
+}
