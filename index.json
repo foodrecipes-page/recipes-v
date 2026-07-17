@@ -6192,16 +6192,14 @@
   },
   {
     "slug": "velvety-vegan-thai-fish-curry-nam-prik",
-    "title": "Velvety Vegan Thai Fish Curry Nam Prik",
+    "title": "Spicy Vegan Thai Curry",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "one-pan",
-      "sick-day",
+      "vegan",
       "thai",
-      "vegan"
+      "curry",
+      "gluten-free"
     ],
-    "cuisine": "Thai",
+    "cuisine": "thai",
     "totalTimeMin": 35,
     "shard": "v"
   },
@@ -9960,17 +9958,15 @@
   },
   {
     "slug": "vibrant-steamed-chinese-rhubarb-mushimono",
-    "title": "Vibrant Steamed Chinese Rhubarb Mushimono",
+    "title": "Stir-Fried Rhubarb",
     "tags": [
-      "dim-sum",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "stir-fry",
+      "chinese-cuisine",
+      "rhubarb",
+      "vegetarian"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 30,
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
@@ -11028,17 +11024,16 @@
   },
   {
     "slug": "vividly-smoky-japanese-cabbage-okonomiyaki",
-    "title": "Vividly Smoky Japanese Cabbage Okonomiyaki",
+    "title": "Smoky Japanese Okonomiyaki",
     "tags": [
-      "jain-friendly",
-      "japanese-cuisine",
-      "okonomiyaki-recipe",
-      "one-pan-meal",
-      "smoky-flavor",
-      "vegetarian-option"
+      "japanese",
+      "pancake",
+      "vegan",
+      "breakfast",
+      "lunch"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
