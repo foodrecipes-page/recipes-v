@@ -8224,17 +8224,16 @@
   },
   {
     "slug": "vibrant-herbal-venezuelan-fish-ceviche",
-    "title": "Vibrant Herbal Venezuelan Fish Ceviche",
+    "title": "Venezuelan Fish Ceviche",
     "tags": [
-      "gluten-free",
-      "herbal",
-      "high-protein",
-      "low-fat",
-      "seafood",
-      "venezuelan-cuisine"
+      "ceviche",
+      "fish",
+      "latin-american",
+      "marinated",
+      "refreshing"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 50,
+    "cuisine": "Latin American",
+    "totalTimeMin": 45,
     "shard": "v"
   },
   {
@@ -11632,6 +11631,19 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 25,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-hearty-french-chicken-tagine--french",
+    "title": "Chicken Tagine",
+    "tags": [
+      "chicken",
+      "tagine",
+      "french",
+      "stew"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 60,
     "shard": "v"
   }
 ]
