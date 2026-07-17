@@ -1,0 +1,75 @@
+{
+  "slug": "vibrant-charred-portuguese-jerusalem-artichokes-gratin",
+  "title": "Jerusalem Artichoke Gratin",
+  "description": "A creamy, cheesy gratin that showcases the natural sweetness of Jerusalem artichokes. Perfect as a side dish for a special occasion.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jerusalem artichokes",
+      "amount": "2 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "Vibrant port wine",
+      "amount": "1/4 cup",
+      "notes": "reduced"
+    },
+    {
+      "name": "Gratin cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Charred garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Portuguese milk",
+      "amount": "1 cup",
+      "notes": "whole"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large saucepan, combine sliced Jerusalem artichokes and reduced port wine. Cook over medium heat until the artichokes are tender.",
+    "In a separate saucepan, melt butter over medium heat. Add minced charred garlic and cook until fragrant.",
+    "In a greased 9x13-inch baking dish, create a layer of cooked Jerusalem artichokes.",
+    "Sprinkle grated gratin cheese over the artichokes, followed by a drizzle of garlic butter.",
+    "Repeat the layering process two more times, ending with a layer of cheese on top.",
+    "Pour in Portuguese milk and sprinkle with salt to taste.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 15-20 minutes, or until the top is golden brown and the gratin is bubbly.",
+    "Remove from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gratin",
+    "jerusalem-artichokes",
+    "vegetarian",
+    "side-dish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-charred-portuguese-jerusalem-artichokes-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T13:33:00.419Z"
+}
