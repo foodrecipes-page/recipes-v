@@ -6727,17 +6727,15 @@
   },
   {
     "slug": "very-spicy-canadian-beef-paella",
-    "title": "Very Spicy Canadian Beef Paella",
+    "title": "Spicy Beef Paella",
     "tags": [
+      "spanish",
       "beef",
-      "iron-teppan",
-      "korean-chinese-fusion",
-      "one-pan",
-      "spicy",
-      "weeknight"
+      "gluten",
+      "spicy"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 55,
+    "cuisine": "Spanish",
+    "totalTimeMin": 45,
     "shard": "v"
   },
   {
