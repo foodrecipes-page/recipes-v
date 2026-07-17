@@ -1,0 +1,89 @@
+{
+  "slug": "vegan-nutty-indian-marmite-vegetable-lentil-sambhar",
+  "title": "Lentil Sambhar",
+  "description": "A popular Indian-inspired lentil curry made with red lentils, vegetables, and a hint of spice. Serve with rice or roti for a hearty meal.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red Lentils",
+      "amount": "1 cup",
+      "notes": "Rinsed and drained"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 teaspoon",
+      "notes": "Whole"
+    },
+    {
+      "name": "Sambhar Masala",
+      "amount": "1 teaspoon",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Adjust as needed"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add cumin seeds and let them sizzle for a few seconds.",
+    "Add chopped onion, carrot, and ginger. Sauté until the vegetables are tender.",
+    "Add diced tomato and cook until it's soft and mushy.",
+    "Add red lentils, vegetable broth, and sambhar masala. Stir well.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20-25 minutes or until the lentils are cooked.",
+    "Season with salt to taste.",
+    "Serve hot with rice or roti."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "lentil",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vegan-nutty-indian-marmite-vegetable-lentil-sambhar",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T22:13:49.683Z"
+}
