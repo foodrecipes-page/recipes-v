@@ -321,18 +321,15 @@
   },
   {
     "slug": "vegan-garlicky-brazilian-pastry-bake",
-    "title": "Vegan Garlicky Brazilian Pastry Bake",
+    "title": "Brazilian Pastry Pão de Queijo",
     "tags": [
-      "brazilian",
-      "gluten-free",
-      "mediterranean",
-      "one-pan",
-      "snack-attack",
       "vegan",
-      "weeknight"
+      "brazilian",
+      "pastry",
+      "bake"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
@@ -375,17 +372,15 @@
   },
   {
     "slug": "vegan-nutty-indian-marmite-vegetable-lentil-sambhar",
-    "title": "Vegan Nutty Indian Marmite Vegetable Lentil Sambhar",
+    "title": "Lentil Sambhar",
     "tags": [
-      "date-night",
-      "gluten-free",
-      "high-protein",
       "indian",
-      "one-pan",
-      "vegan"
+      "lentil",
+      "vegan",
+      "vegetarian"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 45,
+    "cuisine": "indian",
+    "totalTimeMin": 40,
     "shard": "v"
   },
   {
@@ -11638,6 +11633,33 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-crisp-american-chicken-skewers--keto",
+    "title": "Keto Grilled Chicken Skewers",
+    "tags": [
+      "grilled",
+      "chicken",
+      "skewers",
+      "keto",
+      "dinner"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 33,
+    "shard": "v"
+  },
+  {
+    "slug": "vividly-smoky-japanese-cabbage-okonomiyaki--german",
+    "title": "Smoky Okonomiyaki-Style German Cabbage Pancake",
+    "tags": [
+      "german",
+      "cabbage",
+      "pancake",
+      "breakfast"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
     "shard": "v"
   }
 ]
