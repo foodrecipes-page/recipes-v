@@ -1,0 +1,83 @@
+{
+  "slug": "vibrant-spicy-chinese-apricot-lo-mein",
+  "title": "Spicy Lo Mein Stir Fry",
+  "description": "A quick and easy stir fry made with lo mein noodles, vegetables, and your choice of protein. Serve hot and enjoy!",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lo mein noodles",
+      "amount": "1 cup",
+      "notes": "available in most grocery stores"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir frying"
+    },
+    {
+      "name": "chinese broccoli",
+      "amount": "1 bunch",
+      "notes": "or regular broccoli"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "spicy chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Cook lo mein noodles according to package instructions and set aside.",
+    "Heat vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add broccoli, bell peppers, and onion to the skillet and stir-fry for 3-4 minutes.",
+    "Add garlic and chili flakes to the skillet and stir-fry for 1 minute.",
+    "Add cooked lo mein noodles to the skillet and stir-fry for 2-3 minutes.",
+    "Add soy sauce to the skillet and stir-fry for 1 minute.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-spicy-chinese-apricot-lo-mein",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T18:50:01.871Z"
+}
