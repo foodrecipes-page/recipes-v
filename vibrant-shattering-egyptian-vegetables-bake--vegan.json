@@ -1,0 +1,74 @@
+{
+  "slug": "vibrant-shattering-egyptian-vegetables-bake--vegan",
+  "title": "Egyptian Vegetable Bake",
+  "description": "A flavorful vegan bake featuring a mix of vegetables and Middle Eastern spices. This dish is perfect for a quick and easy meal.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vibrant vegetables",
+      "amount": "1 cup",
+      "notes": "Assorted colorful vegetables like bell peppers, zucchini, and onions"
+    },
+    {
+      "name": "Shattering eggplant",
+      "amount": "1 medium",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Bake",
+      "amount": "1/4 cup",
+      "notes": "Crumbs from a store-bought or homemade bread"
+    },
+    {
+      "name": "Egyptian spices",
+      "amount": "1 tsp",
+      "notes": "A blend of cumin, coriander, and paprika"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For greasing the baking dish"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "For added flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Grease a 9x13-inch baking dish with olive oil.",
+    "In a large bowl, toss together the vibrant vegetables, shattering eggplant, and egyptian spices.",
+    "Transfer the vegetable mixture to the prepared baking dish.",
+    "Sprinkle the bake crumbs evenly over the top of the vegetables.",
+    "Drizzle with lemon juice.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 15-20 minutes, or until the vegetables are tender.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "easy",
+    "middle-eastern",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-shattering-egyptian-vegetables-bake--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T07:15:50.751Z"
+}
