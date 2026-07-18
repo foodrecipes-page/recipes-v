@@ -1,0 +1,77 @@
+{
+  "slug": "vegetable-stock-cube-delight",
+  "title": "Vegetable Delight Soup",
+  "description": "A hearty and comforting soup made with a variety of colorful vegetables and a hint of spice.",
+  "cuisine": "vegetarian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "stock",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "vegetable delight",
+      "amount": "1 packet",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Chop the carrots, celery, and onion into bite-sized pieces.",
+    "2. Mince the garlic.",
+    "3. In a large pot, sauté the chopped vegetables and garlic in a little bit of water until they're tender.",
+    "4. Add the diced potatoes, stock, and vegetable delight to the pot.",
+    "5. Bring the mixture to a boil, then reduce the heat and let it simmer for 20-25 minutes.",
+    "6. Use an immersion blender to puree the soup until smooth.",
+    "7. Season with salt and pepper to taste.",
+    "8. Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "vegetarian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vegetable-stock-cube-delight",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T12:31:38.234Z"
+}
