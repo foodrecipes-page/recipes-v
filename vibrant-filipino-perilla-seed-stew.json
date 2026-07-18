@@ -1,0 +1,91 @@
+{
+  "slug": "vibrant-filipino-perilla-seed-stew",
+  "title": "Vibrant Stew",
+  "description": "A hearty stew made with a variety of colorful vegetables and Filipino spices, sure to warm your belly and your soul. Perfect for a chilly evening.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Perilla leaves",
+      "amount": "2 cups, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Vibrant sweet potatoes",
+      "amount": "3 medium, peeled and diced",
+      "notes": ""
+    },
+    {
+      "name": "Stew mix",
+      "amount": "1 packet",
+      "notes": ""
+    },
+    {
+      "name": "Seed corn",
+      "amount": "1 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic and sauté until softened.",
+    "Add stew mix and cook according to packet instructions.",
+    "Add sweet potatoes, corn, and perilla leaves.",
+    "Season with fish sauce, salt, and black pepper.",
+    "Simmer for 20-25 minutes or until sweet potatoes are tender.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "vegetarian",
+    "filipino"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-filipino-perilla-seed-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T15:11:04.409Z"
+}
