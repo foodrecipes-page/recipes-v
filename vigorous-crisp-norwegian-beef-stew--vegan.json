@@ -1,0 +1,83 @@
+{
+  "slug": "vigorous-crisp-norwegian-beef-stew--vegan",
+  "title": "Vegan Stew",
+  "description": "A hearty and flavorful vegan stew made with a variety of vegetables and a hint of Norwegian flair.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Carrots",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large stew pot over medium heat.",
+    "Add the onions and cook until they are softened, about 5 minutes.",
+    "Add the mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the carrots, potatoes, and tomatoes. Cook for 10 minutes, stirring occasionally.",
+    "Add the vegetable broth and lemon juice. Stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes, or until the vegetables are tender.",
+    "Season the stew with garlic and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "stew",
+    "norwegian",
+    "winter",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vigorous-crisp-norwegian-beef-stew--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T09:34:41.931Z"
+}
