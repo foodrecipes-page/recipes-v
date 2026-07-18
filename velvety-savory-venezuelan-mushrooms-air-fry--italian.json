@@ -1,0 +1,57 @@
+{
+  "slug": "velvety-savory-venezuelan-mushrooms-air-fry--italian",
+  "title": "Pan-Seared Mushrooms alla Italiana",
+  "description": "Classic Italian dish featuring sautéed mushrooms in a savory sauce. A simple yet flavorful accompaniment to any meal.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "velvety",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "savory",
+      "amount": "1 tsp",
+      "notes": "dried thyme"
+    },
+    {
+      "name": "venezuelan",
+      "amount": "1 tsp",
+      "notes": "dried oregano"
+    }
+  ],
+  "instructions": [
+    "Heat velvety in a large skillet over medium-high heat.",
+    "Add mushrooms and cook until they release moisture and start to brown, about 5 minutes.",
+    "Add savory and venezuelan. Cook for an additional 2 minutes.",
+    "Season to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 2,
+    "carbs": 8,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-savory-venezuelan-mushrooms-air-fry--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T17:16:16.801Z"
+}
