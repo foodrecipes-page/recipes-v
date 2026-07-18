@@ -1,0 +1,74 @@
+{
+  "slug": "velvety-slovakian-dried-shrimp-goong-haeng-pasta--indian",
+  "title": "Slovakian Pasta with Spicy Shrimp",
+  "description": "A simple yet flavorful dish combining the spice of Indian cuisine with the richness of Slovakian ingredients. This recipe serves as a light and satisfying meal.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried pasta",
+      "amount": "8 oz",
+      "notes": "linguine or fettuccine work well"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 lb",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "haeng goong",
+      "amount": "1/4 cup",
+      "notes": "dried chilies"
+    },
+    {
+      "name": "slovakian velvety paprika",
+      "amount": "2 tsp",
+      "notes": "or regular paprika"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook pasta according to package instructions until al dente.",
+    "Heat oil in a pan over medium-high heat.",
+    "Add haeng goong and cook for 1 minute until fragrant.",
+    "Add shrimp and cook until pink and fully cooked.",
+    "Add paprika and stir for 1 minute.",
+    "Combine cooked pasta and shrimp mixture.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "spicy",
+    "pasta",
+    "shrimp"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-slovakian-dried-shrimp-goong-haeng-pasta--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T12:39:37.461Z"
+}
