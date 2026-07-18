@@ -1,0 +1,88 @@
+{
+  "slug": "very-dense-slovakian-kiwifruit-galette--thai",
+  "title": "Thai Kiwifruit Galette",
+  "description": "A unique dessert that combines the sweetness of kiwifruit with the crunch of a galette crust, all in a traditional Thai flavor profile.",
+  "cuisine": "Thai",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dense Slovakian Butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Very Cold Water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 cups",
+      "notes": "Sieved"
+    },
+    {
+      "name": "Kiwifruit",
+      "amount": "2",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine dense Slovakian butter and very cold water. Mix until a dough forms.",
+    "Roll out the dough to a thickness of 1/8 inch.",
+    "In a separate bowl, mix together flour, kiwifruit, brown sugar, coconut milk, lime juice, vanilla extract, and salt.",
+    "Place the kiwifruit mixture onto one half of the dough.",
+    "Fold the other half of the dough over the kiwifruit mixture and press the edges to seal.",
+    "Use a knife to create a decorative edge around the galette.",
+    "Place the galette on a baking sheet lined with parchment paper.",
+    "Bake in a preheated oven at 375°F (190°C) for 25-30 minutes, or until the crust is golden brown.",
+    "Remove the galette from the oven and let it cool for 10 minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "dessert",
+    "kiwifruit",
+    "galette"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 17
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/very-dense-slovakian-kiwifruit-galette--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T17:52:49.448Z"
+}
