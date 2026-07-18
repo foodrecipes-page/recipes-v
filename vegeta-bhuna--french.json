@@ -1,0 +1,73 @@
+{
+  "slug": "vegeta-bhuna--french",
+  "title": "Vegeta and Mushroom Bhuna",
+  "description": "A French-inspired twist on the classic Indian dish, featuring tender vegeta and a rich bhuna sauce.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vegeta",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Bhuna",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the onion and cook until softened, about 3-4 minutes.",
+    "Add the garlic and cook for an additional minute.",
+    "Add the mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the vegeta and cook until heated through.",
+    "Stir in the bhuna and season with salt and pepper to taste.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "indian",
+    "vegetarian",
+    "mushroom",
+    "bhuna"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vegeta-bhuna--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T08:28:51.591Z"
+}
