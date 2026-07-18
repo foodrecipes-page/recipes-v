@@ -11741,5 +11741,18 @@
     "cuisine": "mexican",
     "totalTimeMin": 25,
     "shard": "v"
+  },
+  {
+    "slug": "vibrant-shattering-egyptian-vegetables-bake--vegan",
+    "title": "Egyptian Vegetable Bake",
+    "tags": [
+      "vegan",
+      "easy",
+      "middle-eastern",
+      "vegetarian-friendly"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 60,
+    "shard": "v"
   }
 ]
