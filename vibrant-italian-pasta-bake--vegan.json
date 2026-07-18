@@ -1,0 +1,79 @@
+{
+  "slug": "vibrant-italian-pasta-bake--vegan",
+  "title": "Vegan Italian Pasta Bake",
+  "description": "A flavorful and satisfying vegan pasta bake that combines the best of Italian and vibrant flavors. Perfect for a quick and easy dinner.",
+  "cuisine": "italian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "vibrant",
+      "amount": "1 cup cherry tomatoes, halved",
+      "notes": ""
+    },
+    {
+      "name": "italian",
+      "amount": "1 cup vegan marinara sauce",
+      "notes": ""
+    },
+    {
+      "name": "bake",
+      "amount": "1 cup vegan shredded mozzarella cheese",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "basil",
+      "amount": "1 tsp dried",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook pasta according to package directions. Drain and set aside.",
+    "In a large skillet, heat olive oil over medium heat. Add garlic and cook for 1 minute.",
+    "Add cherry tomatoes and cook for 3-4 minutes, or until they start to release their juices.",
+    "Stir in marinara sauce and dried basil. Bring to a simmer and let cook for 2-3 minutes.",
+    "In a large bowl, combine cooked pasta, tomato sauce mixture, and vegan mozzarella cheese. Mix well.",
+    "Transfer the pasta mixture to a baking dish and top with additional vegan mozzarella cheese if desired.",
+    "Bake for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "vegan",
+    "pasta",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-italian-pasta-bake--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T14:26:51.194Z"
+}
