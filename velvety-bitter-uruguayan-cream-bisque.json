@@ -1,0 +1,81 @@
+{
+  "slug": "velvety-bitter-uruguayan-cream-bisque",
+  "title": "Uruguayan Cream Bisque",
+  "description": "A rich and creamy soup originating from Uruguay, perfect for a cold evening.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Uruguayan cream",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Bisque",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Velvety",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat chicken broth in a large pot over medium heat.",
+    "Add diced onion and cook until translucent.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add Uruguayan cream, bisque, and velvety. Stir to combine.",
+    "Bring mixture to a simmer.",
+    "Reduce heat to low and cook for 10 minutes.",
+    "Stir in heavy cream and paprika.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "lunch",
+    "uruguayan",
+    "cream"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-bitter-uruguayan-cream-bisque",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T15:55:48.157Z"
+}
