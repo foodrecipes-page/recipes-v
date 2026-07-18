@@ -1223,18 +1223,15 @@
   },
   {
     "slug": "velvety-bitter-uruguayan-cream-bisque",
-    "title": "Velvety Bitter Uruguayan Cream Bisque",
+    "title": "Uruguayan Cream Bisque",
     "tags": [
+      "soup",
+      "lunch",
       "uruguayan",
-      "creamy",
-      "bitter",
-      "jain-friendly",
-      "bisque",
-      "single-cream",
-      "temper"
+      "cream"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
@@ -7745,16 +7742,14 @@
   },
   {
     "slug": "vibrant-filipino-perilla-seed-stew",
-    "title": "Vibrant Filipino Perilla Seed Stew",
+    "title": "Vibrant Stew",
     "tags": [
-      "hangover-cure",
-      "low-glycemic",
-      "pinakbet-inspired",
-      "soup",
-      "vegan"
+      "stew",
+      "vegetarian",
+      "filipino"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "v"
   },
   {
