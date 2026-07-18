@@ -11827,5 +11827,43 @@
     "cuisine": "italian",
     "totalTimeMin": 35,
     "shard": "v"
+  },
+  {
+    "slug": "vibrant-spicy-chinese-apricot-lo-mein--french",
+    "title": "Savory Apricot Glazed Pork Chops",
+    "tags": [
+      "french",
+      "pork",
+      "apricot"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-indian-mustard-seeds-mustard-korma-fondue-pot--mexican",
+    "title": "Spicy Mexican Pot Fondue",
+    "tags": [
+      "mexican",
+      "spicy",
+      "fondue",
+      "snack"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 20,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-filipino-perilla-seed-stew--japanese",
+    "title": "Braised Perilla Stew",
+    "tags": [
+      "perilla",
+      "stew",
+      "japanese",
+      "vegetarian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "v"
   }
 ]
