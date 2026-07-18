@@ -11768,5 +11768,19 @@
     "cuisine": "French",
     "totalTimeMin": 25,
     "shard": "v"
+  },
+  {
+    "slug": "vigorous-crisp-norwegian-beef-stew--vegan",
+    "title": "Vegan Stew",
+    "tags": [
+      "vegan",
+      "stew",
+      "norwegian",
+      "winter",
+      "hearty"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 40,
+    "shard": "v"
   }
 ]
