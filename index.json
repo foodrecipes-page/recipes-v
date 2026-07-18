@@ -11722,5 +11722,19 @@
     "cuisine": null,
     "totalTimeMin": 25,
     "shard": "v"
+  },
+  {
+    "slug": "velvety-sweet-korean-flower-hwajeon--mexican",
+    "title": "Flower-Shaped Hwajeon Dessert",
+    "tags": [
+      "mexican",
+      "korean",
+      "dessert",
+      "chocolate",
+      "flower"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "v"
   }
 ]
