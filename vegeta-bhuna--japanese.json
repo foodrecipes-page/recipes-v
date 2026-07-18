@@ -1,0 +1,88 @@
+{
+  "slug": "vegeta-bhuna--japanese",
+  "title": "Vegetable Bhuna Stir Fry",
+  "description": "A Japanese-inspired stir-fry made with Vegeta and bhuna sauce, featuring an assortment of colorful vegetables.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vegeta",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Bhuna sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 cup",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Snow peas",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a wok or large skillet over medium-high heat.",
+    "Add grated ginger and cook for 1 minute, until fragrant.",
+    "Add sliced mushrooms and cook for 2-3 minutes, until they start to soften.",
+    "Add sliced bell pepper, carrots, and snow peas. Cook for 4-5 minutes, until the vegetables are tender.",
+    "Add Vegeta, bhuna sauce, soy sauce, salt, and pepper. Stir-fry for 1-2 minutes, until the sauce is bubbly and the vegetables are coated.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with sesame seeds and chopped green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "gluten-free",
+    "japanese",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vegeta-bhuna--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T12:06:20.886Z"
+}
