@@ -1,0 +1,62 @@
+{
+  "slug": "velvety-indian-mustard-seeds-mustard-korma-fondue-pot--mexican",
+  "title": "Spicy Mexican Pot Fondue",
+  "description": "A spicy twist on the classic fondue, this Mexican-inspired dish is perfect for a fun and interactive meal. Serve with tortilla chips or veggies.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pot cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Indian korma paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Mustard seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Velvety hot sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fondue pot",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Heat the pot cheese in the fondue pot over medium heat.",
+    "Add the Indian korma paste and stir until combined.",
+    "Add the mustard seeds and stir for 1 minute.",
+    "Add the velvety hot sauce and stir until heated through.",
+    "Serve the fondue in the fondue pot with tortilla chips or veggies.",
+    "For an added kick, sprinkle some diced jalapenos on top of the fondue."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "spicy",
+    "fondue",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-indian-mustard-seeds-mustard-korma-fondue-pot--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T17:01:32.995Z"
+}
