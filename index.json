@@ -11754,5 +11754,19 @@
     "cuisine": null,
     "totalTimeMin": 60,
     "shard": "v"
+  },
+  {
+    "slug": "vegeta-bhuna--french",
+    "title": "Vegeta and Mushroom Bhuna",
+    "tags": [
+      "french",
+      "indian",
+      "vegetarian",
+      "mushroom",
+      "bhuna"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 25,
+    "shard": "v"
   }
 ]
