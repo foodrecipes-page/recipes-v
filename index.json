@@ -9066,14 +9066,13 @@
   },
   {
     "slug": "vibrant-roasted-uruguayan-kielbasa-wrap",
-    "title": "Vibrant Roasted Uruguayan Kielbasa Wrap",
+    "title": "Uruguayan Kielbasa Wrap",
     "tags": [
-      "brunch-ideas",
-      "corn-husk-wraps",
-      "gluten-free",
-      "kielbasa-recipes",
-      "low-carb",
-      "uruguayan-cuisine"
+      "kielbasa",
+      "wrap",
+      "uruguayan",
+      "snack",
+      "meat"
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 45,
@@ -11806,6 +11805,19 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 22,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-american-pork-back-ribs-casserole--italian",
+    "title": "Pork Ribs Italian Casserole",
+    "tags": [
+      "italian",
+      "pork",
+      "casserole",
+      "main-course"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 55,
     "shard": "v"
   }
 ]
