@@ -1,0 +1,75 @@
+{
+  "slug": "velvety-sweet-korean-flower-hwajeon--mexican",
+  "title": "Flower-Shaped Hwajeon Dessert",
+  "description": "A traditional Korean dessert, hwajeon, reimagined with a Mexican twist to create a sweet and delicate flower-shaped treat.",
+  "cuisine": "mexican",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Korean flower-shaped hwajeon batter",
+      "amount": "1 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Velvety chocolate",
+      "amount": "1/2 cup",
+      "notes": "Melted"
+    },
+    {
+      "name": "Sweet honey",
+      "amount": "2 tbsp",
+      "notes": "Raw"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1/4 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Powdered sugar",
+      "amount": "1 cup",
+      "notes": "For dusting"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. Prepare the hwajeon batter according to package instructions or recipe.",
+    "3. Using a cookie cutter, cut out flower shapes from the batter.",
+    "4. Place the flower shapes on a baking sheet lined with parchment paper.",
+    "5. Bake for 15-20 minutes or until the edges are golden brown.",
+    "6. In a small bowl, mix together the melted chocolate and honey.",
+    "7. Remove the hwajeon flowers from the oven and let them cool for 5 minutes.",
+    "8. Dip the top of each flower into the chocolate-honey mixture.",
+    "9. Sprinkle with chili flakes, if desired.",
+    "10. Dust with powdered sugar.",
+    "11. Garnish with fresh mint leaves."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "korean",
+    "dessert",
+    "chocolate",
+    "flower"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-sweet-korean-flower-hwajeon--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T03:29:10.750Z"
+}
