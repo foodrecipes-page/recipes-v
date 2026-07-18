@@ -1,0 +1,76 @@
+{
+  "slug": "vibrant-spicy-chinese-apricot-lo-mein--french",
+  "title": "Savory Apricot Glazed Pork Chops",
+  "description": "A French-inspired dish featuring pork chops glazed with a sweet apricot sauce, perfect for a dinner party.",
+  "cuisine": "french",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork chops",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "apricot jam",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lo mein noodles",
+      "amount": "1 cup",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season pork chops with garlic powder and black pepper.",
+    "Heat a skillet over medium-high heat. Sear pork chops for 2-3 minutes per side, or until browned.",
+    "Transfer pork chops to a baking sheet and bake for 15-20 minutes, or until cooked through.",
+    "Meanwhile, combine apricot jam, soy sauce, and brown sugar in a saucepan. Bring to a simmer over medium heat.",
+    "Reduce sauce to glaze consistency, stirring occasionally.",
+    "Serve pork chops with lo mein noodles and spoon apricot glaze over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "pork",
+    "apricot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-spicy-chinese-apricot-lo-mein--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T17:00:33.957Z"
+}
