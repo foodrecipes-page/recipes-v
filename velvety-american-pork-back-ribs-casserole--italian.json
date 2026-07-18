@@ -1,0 +1,83 @@
+{
+  "slug": "velvety-american-pork-back-ribs-casserole--italian",
+  "title": "Pork Ribs Italian Casserole",
+  "description": "Tender pork ribs slow-cooked in a rich Italian-style casserole. An easy and satisfying meal.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork Back Ribs",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Velvety Tomato Sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "American Cheese",
+      "amount": "1 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "Italian Seasoning",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Bread Crumbs",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1 cup shredded",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the pork ribs with Italian seasoning and garlic powder.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Sear the pork ribs until browned on all sides, about 5 minutes per side.",
+    "Transfer the ribs to a 9x13 inch baking dish.",
+    "Pour the velvety tomato sauce over the ribs.",
+    "Sprinkle the shredded American cheese over the top.",
+    "Bake for 25 minutes, then top with bread crumbs and Parmesan cheese.",
+    "Return to the oven and bake for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Let the casserole rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pork",
+    "casserole",
+    "main-course"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-american-pork-back-ribs-casserole--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T13:12:03.854Z"
+}
