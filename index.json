@@ -3360,10 +3360,15 @@
   },
   {
     "slug": "velvety-korean-chicken-stew",
-    "title": "Velvety Korean Chicken Stew",
-    "tags": [],
+    "title": "Spicy Korean Chicken Stew",
+    "tags": [
+      "spicy",
+      "korean",
+      "stew",
+      "chicken"
+    ],
     "cuisine": "Korean",
-    "totalTimeMin": null,
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
