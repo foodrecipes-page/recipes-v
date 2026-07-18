@@ -562,15 +562,14 @@
   },
   {
     "slug": "vegetable-stock-cube-delight",
-    "title": "Vegetable Stock Cube Delight",
+    "title": "Vegetable Delight Soup",
     "tags": [
-      "vegetable",
-      "stock cube",
-      "paleo",
-      "snack"
+      "soup",
+      "vegetarian",
+      "comfort-food"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 25,
+    "cuisine": "vegetarian",
+    "totalTimeMin": 40,
     "shard": "v"
   },
   {
@@ -11781,6 +11780,32 @@
     ],
     "cuisine": "Norwegian",
     "totalTimeMin": 40,
+    "shard": "v"
+  },
+  {
+    "slug": "vegeta-bhuna--japanese",
+    "title": "Vegetable Bhuna Stir Fry",
+    "tags": [
+      "vegetarian",
+      "gluten-free",
+      "japanese",
+      "stir-fry"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-slovakian-dried-shrimp-goong-haeng-pasta--indian",
+    "title": "Slovakian Pasta with Spicy Shrimp",
+    "tags": [
+      "indian",
+      "spicy",
+      "pasta",
+      "shrimp"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 22,
     "shard": "v"
   }
 ]
