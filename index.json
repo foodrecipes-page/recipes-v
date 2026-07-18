@@ -11709,5 +11709,18 @@
     "cuisine": "indian",
     "totalTimeMin": 25,
     "shard": "v"
+  },
+  {
+    "slug": "velvety-tangy-norwegian-rocket-stir-fry--keto",
+    "title": "Norwegian Keto Beef Stir Fry",
+    "tags": [
+      "beef",
+      "keto",
+      "stir-fry",
+      "quick-dinner"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "v"
   }
 ]
