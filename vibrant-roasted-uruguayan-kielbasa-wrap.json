@@ -1,0 +1,64 @@
+{
+  "slug": "vibrant-roasted-uruguayan-kielbasa-wrap",
+  "title": "Uruguayan Kielbasa Wrap",
+  "description": "A flavorful wrap filled with roasted vegetables and Uruguayan sausage. Perfect for a quick snack or light meal.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Kielbasa sausage",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Vibrant bell peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "Roasted red onion",
+      "amount": "1/2 cup",
+      "notes": "from a 400F oven for 30 minutes"
+    },
+    {
+      "name": "Roasted Uruguayan tortilla",
+      "amount": "1",
+      "notes": "from a 400F oven for 5 minutes"
+    },
+    {
+      "name": "Wrap",
+      "amount": "1 large",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400F.",
+    "2. Slice the bell peppers and onion into strips.",
+    "3. Place the peppers and onion on a baking sheet and roast for 20-25 minutes.",
+    "4. Meanwhile, slice the Kielbasa into 1/4-inch thick rounds.",
+    "5. Place the tortilla on a baking sheet and toast in the oven for 5 minutes.",
+    "6. Warm the wrap by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "7. Assemble the wrap by placing the Kielbasa, roasted peppers and onion, and tortilla inside the wrap.",
+    "8. Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "kielbasa",
+    "wrap",
+    "uruguayan",
+    "snack",
+    "meat"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-roasted-uruguayan-kielbasa-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T13:41:08.771Z"
+}
