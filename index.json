@@ -11865,5 +11865,28 @@
     "cuisine": "japanese",
     "totalTimeMin": 35,
     "shard": "v"
+  },
+  {
+    "slug": "velvety-savory-venezuelan-mushrooms-air-fry--italian",
+    "title": "Pan-Seared Mushrooms alla Italiana",
+    "tags": [
+      "italian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 12,
+    "shard": "v"
+  },
+  {
+    "slug": "very-dense-slovakian-kiwifruit-galette--thai",
+    "title": "Thai Kiwifruit Galette",
+    "tags": [
+      "thai",
+      "dessert",
+      "kiwifruit",
+      "galette"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 45,
+    "shard": "v"
   }
 ]
