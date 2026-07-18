@@ -1,0 +1,82 @@
+{
+  "slug": "velvety-korean-chicken-stew",
+  "title": "Spicy Korean Chicken Stew",
+  "description": "A flavor-packed stew made with spicy Korean chili flakes, velvety chicken, and a hint of sweetness. Perfect for a cold evening.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large pot over medium-high heat.",
+    "Add garlic and ginger and cook until fragrant, 1-2 minutes.",
+    "Add chicken and cook until browned, 5-6 minutes.",
+    "Add soy sauce, gochujang, and brown sugar. Stir to combine.",
+    "Bring to a boil, then reduce heat to medium-low and simmer, covered, 15-20 minutes.",
+    "Stir in green onions and cook for 1-2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "korean",
+    "stew",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-korean-chicken-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T05:12:59.386Z"
+}
