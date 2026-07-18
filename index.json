@@ -11819,5 +11819,18 @@
     "cuisine": "italian",
     "totalTimeMin": 55,
     "shard": "v"
+  },
+  {
+    "slug": "vibrant-italian-pasta-bake--vegan",
+    "title": "Vegan Italian Pasta Bake",
+    "tags": [
+      "italian",
+      "vegan",
+      "pasta",
+      "bake"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "v"
   }
 ]
