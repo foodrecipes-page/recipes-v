@@ -1,0 +1,55 @@
+{
+  "slug": "vibrant-low-sodium-saudi-arabian-cheese-cookies--french",
+  "title": "French Cheese Tartine",
+  "description": "A simple yet delicious French-inspired cheese tartine made with vibrant ingredients. Enjoy as a snack or light lunch.",
+  "cuisine": "French",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Sourdough bread",
+      "amount": "1 baguette, sliced"
+    },
+    {
+      "name": "Vibrant cheese",
+      "amount": "1/2 cup, crumbled"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Low-sodium butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. Arrange the bread slices on a baking sheet and toast for 5-7 minutes.",
+    "3. Spread a layer of butter on each toasted bread slice.",
+    "4. Top each bread slice with a spoonful of crumbled cheese and a sprinkle of chopped thyme.",
+    "5. Return the baking sheet to the oven and bake for an additional 2-3 minutes, until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "cheese",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-low-sodium-saudi-arabian-cheese-cookies--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T22:24:34.346Z"
+}
