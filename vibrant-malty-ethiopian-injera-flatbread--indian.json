@@ -1,0 +1,84 @@
+{
+  "slug": "vibrant-malty-ethiopian-injera-flatbread--indian",
+  "title": "Ethiopian-Style Chicken Tikka Masala Flatbread Wraps",
+  "description": "A twist on the classic Indian dish, using Ethiopian injera flatbread and vibrant spices.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "malty garam masala",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "injera flatbread",
+      "amount": "4-6 flatbreads",
+      "notes": null
+    },
+    {
+      "name": "flatbread",
+      "amount": "2-3 flatbreads",
+      "notes": null
+    },
+    {
+      "name": "vibrant cayenne pepper",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "ethiopian berbere spice",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken with garam masala, cayenne pepper, and berbere spice. Set aside.",
+    "In a large skillet, melt 1 tablespoon of butter over medium heat. Add the chicken and cook until browned and cooked through, about 5-7 minutes.",
+    "While the chicken is cooking, warm the injera flatbreads in the oven for 2-3 minutes.",
+    "To assemble the wraps, place a warmed flatbread on a flat surface. Add a few pieces of the cooked chicken, followed by a sprinkle of garam masala and a dollop of butter.",
+    "Garnish with cilantro, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "chicken",
+    "flatbread",
+    "wraps",
+    "masala"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-malty-ethiopian-injera-flatbread--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T22:16:47.912Z"
+}
