@@ -1,0 +1,55 @@
+{
+  "slug": "vibrant-steamed-pretzel-delight--thai",
+  "title": "Thai-Style Delightful Steamed Dumplings",
+  "description": "A twist on traditional Thai street food, these dumplings are served with a vibrant dipping sauce.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Vibrant Dumpling Wrappers",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "Steamed Delight Filling",
+      "amount": "1 package"
+    },
+    {
+      "name": "Pretzel Buns",
+      "amount": "4 pieces",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. In a large pot, bring water to a boil.",
+    "2. Place the dumpling wrappers in the boiling water for 2-3 minutes, or until they float to the surface.",
+    "3. Remove the dumplings from the water and place them on a steamer basket.",
+    "4. Steam the dumplings for an additional 5-7 minutes, or until they are cooked through.",
+    "5. While the dumplings are steaming, prepare the vibrant dipping sauce by mixing together equal parts of soy sauce and rice vinegar in a small bowl.",
+    "6. Serve the steamed dumplings with the vibrant dipping sauce and pretzel buns on the side.",
+    "7. Enjoy your delicious Thai-style steamed dumplings!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "steamed",
+    "veggie",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-steamed-pretzel-delight--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T03:02:18.029Z"
+}
