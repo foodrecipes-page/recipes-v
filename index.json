@@ -1849,14 +1849,14 @@
   },
   {
     "slug": "velvety-cozy-green-cardamom-pods-stir-fry",
-    "title": "Velvety Cozy Green Cardamom Pods Stir-fry",
+    "title": "Spiced Green Vegetable Stir Fry",
     "tags": [
-      "velvety-cozy",
-      "green-cardamom-pods",
-      "low-carb-friendly"
+      "indian",
+      "vegetable-stir-fry",
+      "cardamom-spiced"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 35,
+    "cuisine": "indian",
+    "totalTimeMin": 13,
     "shard": "v"
   },
   {
@@ -11904,6 +11904,21 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 17,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-peppery-saudi-arabian-lamb-tagine--japanese",
+    "title": "Lamb Tagine with Arabian Spices",
+    "tags": [
+      "lamb",
+      "tagine",
+      "arabian",
+      "japanese",
+      "fusion",
+      "spicy"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 170,
     "shard": "v"
   }
 ]
