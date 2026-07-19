@@ -1,0 +1,74 @@
+{
+  "slug": "vibrant-citrusy-greek-sausages-saganaki",
+  "title": "Saganaki Sausage Skillet",
+  "description": "A flavorful Greek-inspired skillet dish featuring crispy fried saganaki and juicy sausages.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Saganaki cheese",
+      "amount": "1 block (6 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Greek sausages",
+      "amount": "4 links",
+      "notes": "look for a combination of pork and lamb"
+    },
+    {
+      "name": "Vibrant bell pepper",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "Citrusy lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "1. Cut the saganaki cheese into 1-inch cubes.",
+    "2. Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "3. Add the Greek sausages and cook until browned on both sides, about 5 minutes.",
+    "4. Remove the sausages from the skillet and set aside.",
+    "5. Add the remaining 1 tablespoon of olive oil to the skillet.",
+    "6. Add the sliced bell pepper and cook until tender, about 3-4 minutes.",
+    "7. Add the saganaki cheese cubes to the skillet and cook until golden brown, about 2-3 minutes.",
+    "8. Return the sausages to the skillet and stir in the lemon juice.",
+    "9. Serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "greek",
+    "skillet",
+    "sausages"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 8,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-citrusy-greek-sausages-saganaki",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T08:50:21.837Z"
+}
