@@ -1,0 +1,76 @@
+{
+  "slug": "vitalizing-british-crab-bubble-and-squeak",
+  "title": "Bubble and Squeak British Breakfast",
+  "description": "A traditional British breakfast dish made with leftover potatoes and cabbage, served with crab and vitalizing ingredients.",
+  "cuisine": "British",
+  "diet": [
+    "lacto-ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Potatoes, leftover",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Cabbage, leftover",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Crab meat",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vitalizing powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat butter in a large skillet over medium heat.",
+    "2. Add leftover potatoes and cabbage, and cook until they start to brown.",
+    "3. Stir in crab meat and cook for an additional 2-3 minutes.",
+    "4. Sprinkle vitalizing powder over the top and stir to combine.",
+    "5. Season with salt and black pepper to taste.",
+    "6. Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "british",
+    "crab",
+    "lacto-ovo-vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vitalizing-british-crab-bubble-and-squeak",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T11:27:13.808Z"
+}
