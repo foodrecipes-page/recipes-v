@@ -7545,13 +7545,15 @@
   },
   {
     "slug": "vibrant-dense-norwegian-oats-casserole",
-    "title": "Vibrant Dense Norwegian Oats Casserole",
+    "title": "Norwegian Oat Casserole",
     "tags": [
+      "oatmeal",
+      "breakfast",
       "norwegian",
-      "breakfast"
+      "casserole"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 45,
     "shard": "v"
   },
   {
