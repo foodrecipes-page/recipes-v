@@ -12029,5 +12029,19 @@
     "cuisine": "indian",
     "totalTimeMin": 35,
     "shard": "v"
+  },
+  {
+    "slug": "vibrant-juicy-egyptian-prosciutto-skewers--keto",
+    "title": "Keto Prosciutto Skewers with Egyptian Flair",
+    "tags": [
+      "keto",
+      "appetizer",
+      "snack",
+      "italian",
+      "european"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 27,
+    "shard": "v"
   }
 ]
