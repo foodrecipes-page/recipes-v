@@ -1,0 +1,84 @@
+{
+  "slug": "vibrant-juicy-egyptian-prosciutto-skewers--keto",
+  "title": "Keto Prosciutto Skewers with Egyptian Flair",
+  "description": "A keto-friendly appetizer or snack that combines the flavors of Egypt and Italy. Prosciutto-wrapped skewers are easy to make and perfect for a quick bite.",
+  "cuisine": "italian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Prosciutto",
+      "amount": "6 slices"
+    },
+    {
+      "name": "Skewers (bamboo or metal)",
+      "amount": "1 package",
+      "notes": "Soak bamboo skewers in water for 30 minutes before use"
+    },
+    {
+      "name": "Egyptian spices (cumin, coriander, paprika)",
+      "amount": "1 tsp",
+      "notes": "Mix to taste"
+    },
+    {
+      "name": "Vibrant (bell) peppers",
+      "amount": "2",
+      "notes": "Any color"
+    },
+    {
+      "name": "Juicy (cherry) tomatoes",
+      "amount": "1 pint"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut prosciutto into strips and wrap around each skewer.",
+    "Thread vibrant peppers, juicy tomatoes, and a sprinkle of Egyptian spices onto each skewer.",
+    "Drizzle olive oil over the skewers and season with salt and black pepper.",
+    "Place skewers on a baking sheet lined with parchment paper.",
+    "Bake for 12-15 minutes or until the prosciutto is crispy.",
+    "Garnish with fresh parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "appetizer",
+    "snack",
+    "italian",
+    "european"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 5,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-juicy-egyptian-prosciutto-skewers--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T12:41:48.124Z"
+}
