@@ -1,0 +1,87 @@
+{
+  "slug": "vibrant-korean-peppers-muchim--vegan",
+  "title": "Vegan Muchim Stuffed Peppers",
+  "description": "A flavorful and nutritious vegan meal, made by filling bell peppers with a spicy muchim mixture.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bell Peppers",
+      "amount": "4",
+      "notes": "any color"
+    },
+    {
+      "name": "Muchim mixture",
+      "amount": "1 cup",
+      "notes": "see below"
+    },
+    {
+      "name": "Vegan Gochujang",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vegan soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Chopped green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the tops off the bell peppers and remove seeds and membranes.",
+    "In a pan, combine the muchim mixture ingredients and cook over medium heat for 5 minutes.",
+    "Stuff each bell pepper with the cooked muchim mixture.",
+    "Place the stuffed peppers in a baking dish and cover with foil.",
+    "Bake for 25 minutes, then remove foil and continue baking for another 15 minutes.",
+    "Garnish with chopped green onions and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "vegan",
+    "stuffed-peppers"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-korean-peppers-muchim--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T02:24:44.638Z"
+}
