@@ -8895,18 +8895,15 @@
   },
   {
     "slug": "vibrant-quick-british-spring-onions-fritters",
-    "title": "Vibrant Quick British Spring Onions Fritters",
+    "title": "Spring British Fritter Fritters",
     "tags": [
-      "british-cuisine",
+      "breakfast",
+      "british",
       "fritters",
-      "gluten-free",
-      "mediterranean-friendly",
-      "quick-fix",
-      "spring-onions",
-      "vegetarian"
+      "spring"
     ],
     "cuisine": "British",
-    "totalTimeMin": 35,
+    "totalTimeMin": 22,
     "shard": "v"
   },
   {
@@ -11992,6 +11989,45 @@
       "curry",
       "cauliflower",
       "polish sausage"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
+    "slug": "vegetable-essence-soup--thai",
+    "title": "Spicy Vegetable Soup",
+    "tags": [
+      "thai",
+      "soup",
+      "vegetarian"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-creamy-thai-curry-bowl--indian",
+    "title": "Thai Chicken Curry Bowl",
+    "tags": [
+      "indian",
+      "curry",
+      "thai",
+      "chicken",
+      "vegetarian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 30,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-uruguayan-apricot-bhuna--indian",
+    "title": "Bhuna Chicken with Apricot Salsa",
+    "tags": [
+      "chicken",
+      "indian",
+      "salsa",
+      "apricot"
     ],
     "cuisine": "indian",
     "totalTimeMin": 35,
