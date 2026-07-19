@@ -1,0 +1,86 @@
+{
+  "slug": "vibrant-savory-brazilian-red-curry-paste-tagine--indian",
+  "title": "Braised Red Curry Chicken Tagine",
+  "description": "A rich and flavorful Indian-inspired dish with tender chicken, fragrant spices, and a hint of curry. Serve over fluffy basmati rice or with warm naan bread.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "vibrant tagine spice blend",
+      "amount": "1 teaspoon",
+      "notes": "or use a combination of cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "savory yogurt",
+      "amount": "1/4 cup",
+      "notes": "plain, full-fat"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onions and cook until softened, about 5 minutes.",
+    "Add garlic and cook for an additional 1-2 minutes, until fragrant.",
+    "Add chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Add red bell pepper, curry paste, and tagine spice blend. Cook for 1-2 minutes, until the spices are fragrant.",
+    "Add yogurt and stir to combine. Bring to a simmer.",
+    "Reduce heat to low and cover the pot. Braise for 20-25 minutes, or until the chicken is cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "curry",
+    "chicken",
+    "braised",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-savory-brazilian-red-curry-paste-tagine--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T02:26:39.595Z"
+}
