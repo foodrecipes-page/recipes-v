@@ -1,0 +1,97 @@
+{
+  "slug": "vividly-flaky-syrian-lamb-flatbread--thai",
+  "title": "Lamb Satay with Flatbread",
+  "description": "A classic Thai dish featuring marinated lamb skewers served with crispy flatbread. A delicious and flavorful meal that's perfect for any occasion.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g",
+      "notes": "Shoulder or leg meat works best"
+    },
+    {
+      "name": "Vividly colored bell peppers",
+      "amount": "2",
+      "notes": "Any color bell peppers work well"
+    },
+    {
+      "name": "Flatbread",
+      "amount": "4-6 pieces",
+      "notes": "Can be store-bought or homemade"
+    },
+    {
+      "name": "Syrian olive oil",
+      "amount": "1/4 cup",
+      "notes": "Use for marinating and grilling"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tbsp",
+      "notes": "Add flavor to the lamb marinade"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": "Balances the savory flavors"
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 tsp",
+      "notes": "Add warmth and depth to the lamb"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 tsp",
+      "notes": "Subtle flavor boost"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1/2 tsp",
+      "notes": "Warm, earthy flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Season to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "Freshly ground for best flavor"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat (400°F/200°C).",
+    "2. In a large bowl, whisk together Syrian olive oil, fish sauce, brown sugar, grated ginger, garlic powder, ground cumin, salt, and black pepper.",
+    "3. Add the lamb to the marinade and mix until coated. Cover and refrigerate for at least 30 minutes or up to 2 hours.",
+    "4. Thread lamb onto skewers, leaving a small space between each piece.",
+    "5. Grill the lamb skewers for 8-10 minutes per side, or until cooked to your desired level of doneness.",
+    "6. Meanwhile, toast the flatbread by grilling for 1-2 minutes per side, or until crispy and slightly charred.",
+    "7. Serve the lamb skewers with toasted flatbread, sliced bell peppers, and your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "satay",
+    "flatbread",
+    "thai",
+    "grilled",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vividly-flaky-syrian-lamb-flatbread--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T01:40:45.760Z"
+}
