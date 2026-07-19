@@ -1,0 +1,91 @@
+{
+  "slug": "vibrant-creamy-thai-curry-bowl--indian",
+  "title": "Thai Chicken Curry Bowl",
+  "description": "A flavorful and nutritious Indian-inspired dish made with chicken, curry, and vibrant vegetables, served in a bowl.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "curry paste",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": "full-fat for richer flavor"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced into thin rings"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add chicken and cook until browned, about 5-6 minutes. Remove from skillet and set aside.",
+    "Add curry paste to skillet and cook for 1 minute, stirring constantly.",
+    "Add coconut milk and bring to a simmer.",
+    "Add bell pepper and onion to skillet and cook until tender, about 5 minutes.",
+    "Return chicken to skillet and stir to combine with curry sauce.",
+    "Season with salt and black pepper to taste.",
+    "Serve over basmati rice and garnish with chopped cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "curry",
+    "thai",
+    "chicken",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-creamy-thai-curry-bowl--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T04:31:35.700Z"
+}
