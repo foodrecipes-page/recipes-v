@@ -7568,16 +7568,16 @@
   },
   {
     "slug": "vibrant-dutch-tofu-bowl",
-    "title": "Vibrant Dutch Tofu Bowl",
+    "title": "Vibrant Vegan Dutch Bowl",
     "tags": [
-      "dutch-inspired",
-      "herb-vegetable",
-      "quick",
-      "stone-bowl",
-      "vegan"
+      "vegan",
+      "gluten-free",
+      "lunch",
+      "dinner",
+      "salad"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 35,
+    "cuisine": "Vegan",
+    "totalTimeMin": 40,
     "shard": "v"
   },
   {
@@ -12042,6 +12042,20 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 27,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-citrusy-date-pilaf--chinese",
+    "title": "Sweet Date Pilaf",
+    "tags": [
+      "chinese",
+      "vegetarian",
+      "pilaf",
+      "dates",
+      "sesame-oil-substitute"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
     "shard": "v"
   }
 ]
