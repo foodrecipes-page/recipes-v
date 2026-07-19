@@ -1,0 +1,81 @@
+{
+  "slug": "vibrant-dense-norwegian-oats-casserole",
+  "title": "Norwegian Oat Casserole",
+  "description": "A hearty, comforting Norwegian-inspired casserole made with steel-cut oats and topped with vibrant vegetables.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "steel-cut oats",
+      "amount": "2 cups"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large pot, sauté the onion and carrots in oil over medium heat until softened.",
+    "Add the grated zucchini, flour, salt, and pepper. Cook for 2 minutes.",
+    "Stir in the oats and water. Bring to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Bake for 25-30 minutes, or until the top is golden brown and the casserole is set.",
+    "Serve warm, garnished with additional grated carrots if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "oatmeal",
+    "breakfast",
+    "norwegian",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-dense-norwegian-oats-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T08:20:16.463Z"
+}
