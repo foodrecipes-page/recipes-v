@@ -1,0 +1,77 @@
+{
+  "slug": "velvety-nostalgic-ukrainian-cobnut-pilaf",
+  "title": "Classic Ukrainian Pilaf",
+  "description": "A hearty and flavorful Ukrainian-style pilaf recipe that serves as a comfort food.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cobnut",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add onion and garlic; cook until the onion is translucent.",
+    "Add diced tomatoes, chicken broth, salt, and pepper; bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20 minutes.",
+    "Add pilaf and cobnut; stir to combine.",
+    "Cook for an additional 5 minutes or until the pilaf is tender.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pilaf",
+    "ukrainian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-nostalgic-ukrainian-cobnut-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T00:50:57.994Z"
+}
