@@ -11944,5 +11944,31 @@
     "cuisine": "Thai",
     "totalTimeMin": 35,
     "shard": "v"
+  },
+  {
+    "slug": "vibrant-korean-peppers-muchim--vegan",
+    "title": "Vegan Muchim Stuffed Peppers",
+    "tags": [
+      "korean",
+      "vegan",
+      "stuffed-peppers"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 55,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-savory-brazilian-red-curry-paste-tagine--indian",
+    "title": "Braised Red Curry Chicken Tagine",
+    "tags": [
+      "indian",
+      "curry",
+      "chicken",
+      "braised",
+      "tagine"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "v"
   }
 ]
