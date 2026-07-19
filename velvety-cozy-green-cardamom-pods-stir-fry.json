@@ -1,0 +1,70 @@
+{
+  "slug": "velvety-cozy-green-cardamom-pods-stir-fry",
+  "title": "Spiced Green Vegetable Stir Fry",
+  "description": "A simple and flavorful stir fry made with green vegetables, cardamom, and a hint of spices.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green vegetables (such as broccoli or green beans)",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "velvety cardamom pods",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "cozy vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "stir-fry friendly spices",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "0.25 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "optional: soy sauce or tamari",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a pan over medium heat.",
+    "Add the cardamom pods and stir-fry for 1 minute.",
+    "Add the green vegetables and stir-fry for 3-4 minutes.",
+    "Add the spices and salt, and stir-fry for an additional minute.",
+    "If using soy sauce or tamari, add it to the pan and stir-fry for another minute.",
+    "Serve hot, garnished with chopped green herbs if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "vegetable-stir-fry",
+    "cardamom-spiced"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-cozy-green-cardamom-pods-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T22:56:07.031Z"
+}
