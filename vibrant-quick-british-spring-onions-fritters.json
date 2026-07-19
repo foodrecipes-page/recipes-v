@@ -1,0 +1,67 @@
+{
+  "slug": "vibrant-quick-british-spring-onions-fritters",
+  "title": "Spring British Fritter Fritters",
+  "description": "A delightful breakfast treat that combines the flavors of spring with the comfort of traditional British fritters.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Quick Spring Onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "British Spring Fritter Mix",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Vibrant Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a bowl, whisk together eggs and chopped quick spring onions.",
+    "2. Add the fritter mix to the bowl and stir until combined.",
+    "3. Heat a non-stick pan over medium heat.",
+    "4. Add the onions to the pan and cook until softened, about 3 minutes.",
+    "5. Add the egg mixture to the pan and stir to combine with the onions.",
+    "6. Form the mixture into patties and cook for 3-4 minutes per side, until golden brown.",
+    "7. Serve hot with your favorite toppings."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "british",
+    "fritters",
+    "spring"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-quick-british-spring-onions-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T05:11:24.357Z"
+}
