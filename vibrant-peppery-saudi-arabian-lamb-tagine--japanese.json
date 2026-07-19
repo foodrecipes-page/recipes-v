@@ -1,0 +1,96 @@
+{
+  "slug": "vibrant-peppery-saudi-arabian-lamb-tagine--japanese",
+  "title": "Lamb Tagine with Arabian Spices",
+  "description": "A fusion of Japanese and Arabian flavors, this lamb tagine is a hearty and aromatic dish. The vibrant spices and peppery notes will transport your taste buds to the Middle East.",
+  "cuisine": "japanese",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "arabian spice blend",
+      "amount": "2 tablespoons",
+      "notes": "available at most Middle Eastern markets"
+    },
+    {
+      "name": "saudi saffron threads",
+      "amount": "1/2 teaspoon",
+      "notes": "soak in 2 tablespoons hot water before adding"
+    },
+    {
+      "name": "vibrant ras el hanout",
+      "amount": "1 teaspoon",
+      "notes": "add depth and warmth to the dish"
+    },
+    {
+      "name": "peppery green chili flakes",
+      "amount": "1/2 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning the lamb"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Japanese sake",
+      "amount": "2 tablespoons",
+      "notes": "for added depth of flavor"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb pieces in batches until browned on all sides, about 5 minutes per batch.",
+    "Remove the lamb from the pot and set aside.",
+    "Reduce the heat to medium and add the chopped onion to the pot.",
+    "Cook until the onion is softened and lightly browned, about 8 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the Arabian spice blend, saffron threads (with their soaking liquid), and ras el hanout to the pot.",
+    "Cook for 1 minute, stirring constantly, until the spices are fragrant.",
+    "Add the browned lamb back to the pot, along with the sake and enough water to cover the lamb.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "Bake at 300°F for 2 1/2 hours, or until the lamb is tender and the sauce has thickened.",
+    "Season with green chili flakes to taste.",
+    "Serve the lamb tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "lamb",
+    "tagine",
+    "arabian",
+    "japanese",
+    "fusion",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 38
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-peppery-saudi-arabian-lamb-tagine--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T22:30:35.247Z"
+}
