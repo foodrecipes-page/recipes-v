@@ -11970,5 +11970,31 @@
     "cuisine": "indian",
     "totalTimeMin": 40,
     "shard": "v"
+  },
+  {
+    "slug": "vibrant-steamed-pretzel-delight--thai",
+    "title": "Thai-Style Delightful Steamed Dumplings",
+    "tags": [
+      "thai",
+      "steamed",
+      "veggie",
+      "dumplings"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-polish-cauliflower-curry--indian",
+    "title": "Indian-Style Cauliflower Curry",
+    "tags": [
+      "indian",
+      "curry",
+      "cauliflower",
+      "polish sausage"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "v"
   }
 ]
