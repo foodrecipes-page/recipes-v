@@ -3918,17 +3918,14 @@
   },
   {
     "slug": "velvety-nostalgic-ukrainian-cobnut-pilaf",
-    "title": "Velvety Nostalgic Ukrainian Cobnut Pilaf",
+    "title": "Classic Ukrainian Pilaf",
     "tags": [
-      "cobnuts",
-      "funky",
-      "nostalgic",
+      "pilaf",
       "ukrainian",
-      "vegetarian",
-      "velvety"
+      "vegetarian"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "v"
   },
   {
@@ -11919,6 +11916,33 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 170,
+    "shard": "v"
+  },
+  {
+    "slug": "velvet-quinoa-delight--french",
+    "title": "French Quinoa Delight",
+    "tags": [
+      "quinoa",
+      "french",
+      "lunch"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 30,
+    "shard": "v"
+  },
+  {
+    "slug": "vividly-flaky-syrian-lamb-flatbread--thai",
+    "title": "Lamb Satay with Flatbread",
+    "tags": [
+      "lamb",
+      "satay",
+      "flatbread",
+      "thai",
+      "grilled",
+      "skewers"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
     "shard": "v"
   }
 ]
