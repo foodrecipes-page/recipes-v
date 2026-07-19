@@ -1,0 +1,80 @@
+{
+  "slug": "velvety-nostalgic-venezuelan-shrimp-empanada",
+  "title": "Venezuelan Shrimp Empanadas",
+  "description": "A traditional Venezuelan dish featuring crispy empanada pastry filled with succulent shrimp, perfect for a snack or light meal.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "empanada pastry",
+      "amount": "1 package (12-15 pieces)"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound, peeled and deveined",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "velvety cheese (queso fresco)",
+      "amount": "1/2 cup, crumbled (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 375°F (190°C).",
+    "In a bowl, mix together shrimp, onion, garlic, cumin, paprika, salt, and pepper.",
+    "Place an empanada pastry on a flat surface and spoon about 1 tablespoon of the shrimp mixture onto one half of the pastry.",
+    "Fold the other half of the pastry over the filling to form a half-moon shape and press the edges to seal.",
+    "Repeat with the remaining pastry and filling.",
+    "Fry the empanadas in batches until golden brown, about 2-3 minutes per side.",
+    "Drain on paper towels and serve hot. If desired, sprinkle with velvety cheese."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "empanadas",
+    "shrimp",
+    "venezuelan",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 15,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-nostalgic-venezuelan-shrimp-empanada",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T21:14:37.428Z"
+}
