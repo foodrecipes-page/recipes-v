@@ -1,0 +1,61 @@
+{
+  "slug": "velvety-citrusy-date-pilaf--chinese",
+  "title": "Sweet Date Pilaf",
+  "description": "A traditional Chinese pilaf dish with a sweet twist from dates and a hint of citrus.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pilaf",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Dates",
+      "amount": "1/2 cup",
+      "notes": "pitted and chopped"
+    },
+    {
+      "name": "Velvety",
+      "amount": "2 tbsp",
+      "notes": "sesame oil substitute"
+    },
+    {
+      "name": "Citrusy",
+      "amount": "2 tbsp",
+      "notes": "orange juice or zest"
+    }
+  ],
+  "instructions": [
+    "Heat Velvety in a large skillet over medium heat.",
+    "Add Pilaf and cook for 5 minutes, stirring frequently.",
+    "Add Dates and cook for another 5 minutes, stirring occasionally.",
+    "Add Citrusy and stir to combine.",
+    "Reduce heat to low and simmer for 5 minutes.",
+    "Serve hot and garnish with additional Dates if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "vegetarian",
+    "pilaf",
+    "dates",
+    "sesame-oil-substitute"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-citrusy-date-pilaf--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T13:58:38.528Z"
+}
