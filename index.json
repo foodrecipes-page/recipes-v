@@ -11879,5 +11879,31 @@
     "cuisine": "Thai",
     "totalTimeMin": 45,
     "shard": "v"
+  },
+  {
+    "slug": "vibrant-malty-ethiopian-injera-flatbread--indian",
+    "title": "Ethiopian-Style Chicken Tikka Masala Flatbread Wraps",
+    "tags": [
+      "indian",
+      "chicken",
+      "flatbread",
+      "wraps",
+      "masala"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 30,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-low-sodium-saudi-arabian-cheese-cookies--french",
+    "title": "French Cheese Tartine",
+    "tags": [
+      "french",
+      "cheese",
+      "snack"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 17,
+    "shard": "v"
   }
 ]
