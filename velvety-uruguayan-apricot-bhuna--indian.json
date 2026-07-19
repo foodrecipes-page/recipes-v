@@ -1,0 +1,99 @@
+{
+  "slug": "velvety-uruguayan-apricot-bhuna--indian",
+  "title": "Bhuna Chicken with Apricot Salsa",
+  "description": "A spicy Indian-inspired dish featuring tender chicken cooked in a rich bhuna sauce, served with a sweet and tangy apricot salsa.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": null
+    },
+    {
+      "name": "velvety coconut milk",
+      "amount": "200ml",
+      "notes": null
+    },
+    {
+      "name": "uruguayan paprika",
+      "amount": "2 tsp",
+      "notes": "smoked paprika for added depth"
+    },
+    {
+      "name": "apricot jam",
+      "amount": "100g",
+      "notes": null
+    },
+    {
+      "name": "bhuna curry powder",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add onion, garlic, and ginger. Cook for 5 minutes or until onion is translucent.",
+    "Add chicken breast and cook for 5-7 minutes per side or until cooked through.",
+    "Add bhuna curry powder and paprika. Cook for 1 minute.",
+    "Stir in coconut milk. Bring to a simmer and cook for 5 minutes.",
+    "Season with salt and black pepper.",
+    "For the apricot salsa, mix together apricot jam, salt, and black pepper.",
+    "Serve chicken with apricot salsa and garnish with fresh cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "indian",
+    "salsa",
+    "apricot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-uruguayan-apricot-bhuna--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T04:57:38.527Z"
+}
