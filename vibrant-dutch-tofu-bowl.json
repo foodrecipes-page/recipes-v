@@ -1,0 +1,97 @@
+{
+  "slug": "vibrant-dutch-tofu-bowl",
+  "title": "Vibrant Vegan Dutch Bowl",
+  "description": "A colorful and nutritious bowl filled with marinated tofu, roasted vegetables, and a tangy sauce. Perfect for a quick and easy lunch or dinner.",
+  "cuisine": "Vegan",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "marinated"
+    },
+    {
+      "name": "dutch",
+      "amount": "2 cups",
+      "notes": "mixed greens"
+    },
+    {
+      "name": "bowl",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the carrots and cucumber into bite-sized pieces.",
+    "Place the tofu on a baking sheet lined with parchment paper.",
+    "Drizzle the olive oil over the tofu and season with salt and pepper.",
+    "Roast the tofu in the oven for 20-25 minutes, or until golden brown.",
+    "While the tofu is roasting, toast the mixed greens in a large bowl.",
+    "Cut the cherry tomatoes in half and add to the bowl.",
+    "Slice the roasted tofu into thin strips and add to the bowl.",
+    "Drizzle the apple cider vinegar over the salad and toss to combine.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "lunch",
+    "dinner",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-dutch-tofu-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T13:16:40.772Z"
+}
