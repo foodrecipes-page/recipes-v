@@ -1,0 +1,80 @@
+{
+  "slug": "vibrant-earthy-portuguese-green-olive-stew",
+  "title": "Portuguese Green Stew",
+  "description": "A hearty stew featuring the best of Portugal with a vibrant twist. A perfect meal for a chilly evening.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Carrots",
+      "amount": "3 medium"
+    },
+    {
+      "name": "Green beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Vibrant spice blend",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Stew seasoning",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic, cook until softened.",
+    "Add carrots, potatoes, and zucchini, cook for 5 minutes.",
+    "Add green beans, cook for an additional 2 minutes.",
+    "Add vibrant spice blend and stew seasoning, stir to combine.",
+    "Pour in enough water to cover the vegetables, bring to a boil.",
+    "Reduce heat to low, simmer for 20 minutes or until the vegetables are tender.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese",
+    "stew",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-earthy-portuguese-green-olive-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T21:07:34.987Z"
+}
