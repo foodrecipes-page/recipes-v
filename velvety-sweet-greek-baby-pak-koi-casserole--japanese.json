@@ -1,0 +1,67 @@
+{
+  "slug": "velvety-sweet-greek-baby-pak-koi-casserole--japanese",
+  "title": "Japanese-Style Sweet Casserole",
+  "description": "A fusion of Japanese flavors and sweet goodness in a casserole. Enjoy!",
+  "cuisine": "japanese",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sweet casserole",
+      "amount": "1 whole",
+      "notes": "Homemade sweet casserole"
+    },
+    {
+      "name": "velvety",
+      "amount": "1 cup",
+      "notes": "Velvety sauce"
+    },
+    {
+      "name": "pakistan baby carrots",
+      "amount": "1 cup",
+      "notes": "Baby carrots"
+    },
+    {
+      "name": "greek yogurt",
+      "amount": "1/2 cup",
+      "notes": "Plain greek yogurt"
+    },
+    {
+      "name": "koi fish (optional)",
+      "amount": "1/4 cup",
+      "notes": "Crushed koi fish for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a separate bowl, mix the velvety sauce and greek yogurt.",
+    "Combine the sweet casserole, baby carrots, and the velvety sauce mixture.",
+    "Pour the mixture into a baking dish.",
+    "Bake for 20-25 minutes, or until the casserole is golden brown.",
+    "Garnish with crushed koi fish (if using).",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "dessert",
+    "sweet",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-sweet-greek-baby-pak-koi-casserole--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T19:32:25.357Z"
+}
