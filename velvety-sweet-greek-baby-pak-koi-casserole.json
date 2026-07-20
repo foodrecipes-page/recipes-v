@@ -1,0 +1,73 @@
+{
+  "slug": "velvety-sweet-greek-baby-pak-koi-casserole",
+  "title": "Pak Koi Baby Casserole",
+  "description": "A delicious and comforting casserole dish made with tender pak koi and creamy greek yogurt.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pak koi",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "casserole",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "greek yogurt",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "baby spinach",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "sweet onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "velvety cheese",
+      "amount": "1/2 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the casserole according to the package instructions.",
+    "In a separate pan, sauté the sweet onion and baby spinach until softened.",
+    "Add the pak koi to the pan and cook until tender.",
+    "Stir in the greek yogurt and velvety cheese until well combined.",
+    "Transfer the mixture to the cooked casserole and top with additional velvety cheese if desired.",
+    "Bake in the oven for 15-20 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "pak-koi",
+    "greek-yogurt"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-sweet-greek-baby-pak-koi-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T18:13:22.524Z"
+}
