@@ -8548,18 +8548,14 @@
   },
   {
     "slug": "vibrant-light-ethiopian-vegetable-berbere-stew",
-    "title": "Vibrant Light Ethiopian Vegetable Berbere Stew",
+    "title": "Ethiopian Vegetable Stew",
     "tags": [
-      "agave-leaf",
-      "berbere",
-      "comfort-food",
       "ethiopian",
-      "one-pot",
-      "stew",
-      "vegetarian"
+      "vegetarian",
+      "stew"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "v"
   },
   {
