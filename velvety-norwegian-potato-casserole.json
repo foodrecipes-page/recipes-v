@@ -1,0 +1,76 @@
+{
+  "slug": "velvety-norwegian-potato-casserole",
+  "title": "Norwegian Velvety Potato Casserole",
+  "description": "A creamy, comforting casserole filled with norwegian potatoes, velvety sauce and a hint of richness.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian potatoes",
+      "amount": "3 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "Velvety sauce",
+      "amount": "1 cup",
+      "notes": "ready-made or homemade"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Shredded cheddar cheese",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Milk",
+      "amount": "1/2 cup",
+      "notes": "whole or semi-skimmed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large pan, melt butter over medium heat.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add thinly sliced potatoes and cook for 5 minutes, stirring occasionally.",
+    "Stir in velvety sauce and cook for a further 2 minutes.",
+    "Transfer potato mixture to a baking dish.",
+    "If using cheese, sprinkle over the top.",
+    "Dot top with butter.",
+    "Pour milk over the potato mixture.",
+    "Bake for 25-30 minutes, or until potatoes are tender and top is golden brown.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "potato",
+    "vegetarian",
+    "casserole",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-norwegian-potato-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T23:43:57.444Z"
+}
