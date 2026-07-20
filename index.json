@@ -3824,17 +3824,15 @@
   },
   {
     "slug": "velvety-norwegian-potato-casserole",
-    "title": "Velvety Norwegian Potato Casserole",
+    "title": "Norwegian Velvety Potato Casserole",
     "tags": [
+      "potato",
+      "vegetarian",
       "casserole",
-      "comfort-food",
-      "low-calorie",
-      "norwegian-cuisine",
-      "potato-recipe",
-      "vegetarian"
+      "comfort-food"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 65,
+    "totalTimeMin": 50,
     "shard": "v"
   },
   {
