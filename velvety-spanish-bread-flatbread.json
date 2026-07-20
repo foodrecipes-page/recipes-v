@@ -1,0 +1,58 @@
+{
+  "slug": "velvety-spanish-bread-flatbread",
+  "title": "Spanish Flatbread Tapas",
+  "description": "A delicious tapas dish with velvety texture, perfect for snacking. Serve with a side of fresh fruit.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "8 slices"
+    },
+    {
+      "name": "Velvety (goat cheese)",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Crushed red pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the flatbread into 8 equal pieces.",
+    "Spread 1 oz of velvety cheese on each piece.",
+    "Sprinkle chopped thyme and crushed red pepper over the cheese.",
+    "Bake for 8-10 minutes, or until the cheese is melted and bubbly.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "tapas",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-spanish-bread-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T19:34:36.582Z"
+}
