@@ -1,0 +1,66 @@
+{
+  "slug": "velvet-gelatin-wrap--gluten-free",
+  "title": "Velvet Jellied Wrap",
+  "description": "A unique dessert made with edible gelatin, velvet, and a gluten-free wrap.",
+  "cuisine": "dessert",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Edible gelatin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Velvet",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Gluten-free wrap",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Bloom the gelatin by soaking it in water for 5 minutes.",
+    "Add sugar and lemon juice to the gelatin mixture and stir until dissolved.",
+    "Pour the gelatin mixture into a baking dish and refrigerate for 30 minutes.",
+    "Cut the gluten-free wrap into small pieces and add to the gelatin mixture.",
+    "Pour in the velvet and mix well.",
+    "Pour the mixture into individual serving cups or a large mold.",
+    "Refrigerate for an additional 30 minutes or until set.",
+    "Serve chilled and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "dessert",
+    "unique"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvet-gelatin-wrap--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T19:16:15.833Z"
+}
