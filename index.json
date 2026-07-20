@@ -12057,5 +12057,17 @@
     "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "v"
+  },
+  {
+    "slug": "velvet-gelatin-wrap--gluten-free",
+    "title": "Velvet Jellied Wrap",
+    "tags": [
+      "gluten-free",
+      "dessert",
+      "unique"
+    ],
+    "cuisine": "dessert",
+    "totalTimeMin": 50,
+    "shard": "v"
   }
 ]
