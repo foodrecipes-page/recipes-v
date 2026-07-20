@@ -1,0 +1,85 @@
+{
+  "slug": "vibrant-light-ethiopian-vegetable-berbere-stew",
+  "title": "Ethiopian Vegetable Stew",
+  "description": "A flavorful and spicy vegetable stew inspired by Ethiopian cuisine. This recipe is perfect for a weeknight dinner or special occasion.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": "about 1 tablespoon"
+    },
+    {
+      "name": "Berbere spice",
+      "amount": "2 teaspoons",
+      "notes": "see note"
+    },
+    {
+      "name": "Vibrant red bell pepper",
+      "amount": "1 medium, chopped",
+      "notes": "about 1 cup"
+    },
+    {
+      "name": "Light coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": "full-fat coconut milk"
+    },
+    {
+      "name": "Stew",
+      "amount": "1 cup, chopped",
+      "notes": "any combination of carrots, potatoes, zucchini, etc."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium-high heat.",
+    "Add the onion and cook until softened, about 3-4 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the berbere spice and cook for 1 minute, until fragrant.",
+    "Add the bell pepper and cook until tender, about 5 minutes.",
+    "Add the stew and cook until the vegetables are tender, about 10-15 minutes.",
+    "Stir in the coconut milk and bring to a simmer.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot over rice or with injera bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "vegetarian",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-light-ethiopian-vegetable-berbere-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T16:26:44.926Z"
+}
