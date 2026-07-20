@@ -5684,10 +5684,14 @@
   },
   {
     "slug": "velvety-sweet-greek-baby-pak-koi-casserole",
-    "title": "Velvety Sweet Greek Baby Pak Koi Casserole",
-    "tags": [],
-    "cuisine": "Greek",
-    "totalTimeMin": null,
+    "title": "Pak Koi Baby Casserole",
+    "tags": [
+      "casserole",
+      "pak-koi",
+      "greek-yogurt"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
