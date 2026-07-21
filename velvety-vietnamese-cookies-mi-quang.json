@@ -1,0 +1,94 @@
+{
+  "slug": "velvety-vietnamese-cookies-mi-quang",
+  "title": "Vietnamese Cookies",
+  "description": "A classic Vietnamese dessert, these cookies are crunchy on the outside and chewy on the inside. They're perfect for snacking or as a gift.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Vietnamese Cookies",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "velvety",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "quang",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "mi",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "vanilla",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Line a baking sheet with parchment paper.",
+    "In a medium bowl, whisk together the flour, sugar, and salt.",
+    "In a large bowl, whisk together the eggs, butter, and vanilla.",
+    "Add the flour mixture to the wet ingredients and mix until a dough forms.",
+    "Roll out the dough to 1/4 inch thickness.",
+    "Cut into desired shapes using a cookie cutter.",
+    "Place on the prepared baking sheet.",
+    "Bake for 12-15 minutes or until lightly golden.",
+    "Let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "cookies",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-vietnamese-cookies-mi-quang",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T07:07:28.989Z"
+}
