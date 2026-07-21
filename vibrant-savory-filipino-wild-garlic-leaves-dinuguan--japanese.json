@@ -1,0 +1,74 @@
+{
+  "slug": "vibrant-savory-filipino-wild-garlic-leaves-dinuguan--japanese",
+  "title": "Pan-Seared Wild Mushrooms with Savory Leaves",
+  "description": "A simple and flavorful Japanese-inspired dish featuring the earthy taste of wild mushrooms and savory leaves. Perfect for a quick dinner or lunch.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wild mushrooms",
+      "amount": "8 oz",
+      "notes": "such as shiitake or cremini"
+    },
+    {
+      "name": "savory leaves",
+      "amount": "1 bunch",
+      "notes": "such as shiso or perilla"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp",
+      "notes": "white or black"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium-high heat.",
+    "Add 1 tablespoon of soy sauce and 1 tablespoon of rice vinegar to the pan.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the wild mushrooms and cook for 3-4 minutes, until they start to brown.",
+    "Add the savory leaves and cook for another 2-3 minutes, until wilted.",
+    "Season with salt and pepper to taste.",
+    "Garnish with green onions and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "wild-mushrooms",
+    "savory-leaves",
+    "japanese-cuisine",
+    "easy-recipe"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-savory-filipino-wild-garlic-leaves-dinuguan--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T12:30:38.287Z"
+}
