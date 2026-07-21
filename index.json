@@ -12145,5 +12145,33 @@
     "cuisine": "japanese",
     "totalTimeMin": 18,
     "shard": "v"
+  },
+  {
+    "slug": "velvety-cozy-green-cardamom-pods-stir-fry--thai",
+    "title": "Thai Green Curry with Coconut Rice",
+    "tags": [
+      "thai",
+      "curry",
+      "green",
+      "coconut",
+      "rice",
+      "vegetarian"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-greek-toor-dal-stir-fry--thai",
+    "title": "Thai Dal Fry",
+    "tags": [
+      "thai",
+      "dal",
+      "lentil",
+      "curry"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "v"
   }
 ]
