@@ -12099,5 +12099,18 @@
     "cuisine": "french",
     "totalTimeMin": 25,
     "shard": "v"
+  },
+  {
+    "slug": "velvety-sweet-thai-pork-curry--indian",
+    "title": "Thai Pork Curry",
+    "tags": [
+      "curry",
+      "indian",
+      "pork",
+      "thai"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "v"
   }
 ]
