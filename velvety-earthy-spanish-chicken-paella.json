@@ -1,0 +1,98 @@
+{
+  "slug": "velvety-earthy-spanish-chicken-paella",
+  "title": "Spanish Chicken Paella",
+  "description": "A classic Spanish dish made with chicken, rice, and a blend of earthy and velvety flavors.",
+  "cuisine": "Spanish",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Spanish sausage",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Uncooked white rice",
+      "amount": "1 cup",
+      "notes": "preferably Spanish rice"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": "chicken or beef broth works well"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Green olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the oven to 400°F (200°C).",
+    "In a large paella pan or skillet, heat 2 tablespoons of olive oil over medium-high heat.",
+    "Add the Spanish sausage and cook until browned, about 2-3 minutes.",
+    "Add the chicken and cook until browned, about 3-4 minutes.",
+    "Add the garlic, red bell pepper, and smoked paprika (if using) and cook for 1-2 minutes.",
+    "Add the rice and cook for 1-2 minutes, stirring constantly.",
+    "Add the vegetable broth, tomato paste (if using), and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20-25 minutes or until the rice is cooked.",
+    "Stir in the green olives and cook for an additional 2-3 minutes.",
+    "Remove from heat and let rest for 5 minutes.",
+    "Garnish with chopped fresh parsley (if using).",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "chicken",
+    "paella",
+    "rice",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-earthy-spanish-chicken-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T13:22:44.485Z"
+}
