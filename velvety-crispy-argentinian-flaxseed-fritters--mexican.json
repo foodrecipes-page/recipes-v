@@ -1,0 +1,61 @@
+{
+  "slug": "velvety-crispy-argentinian-flaxseed-fritters--mexican",
+  "title": "Crispy Argentinian Flaxseed Fritters with Velvety Salsa",
+  "description": "A Mexican-inspired twist on traditional fritters, served with a side of creamy, velvety salsa.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flaxseed",
+      "amount": "1 cup"
+    },
+    {
+      "name": "argentinian flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "velvety",
+      "amount": "1 cup"
+    },
+    {
+      "name": "crispy oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fritters",
+      "amount": "10"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine flaxseed and argentinian flour.",
+    "Gradually add velvety, mixing until a dough forms.",
+    "Heat crispy oil in a deep frying pan over medium-high heat.",
+    "Using a spoon, drop small amounts of dough into the oil.",
+    "Fry fritters for 3-4 minutes on each side, until golden brown.",
+    "Drain fritters on paper towels.",
+    "Serve warm with a side of velvety salsa."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "snack",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-crispy-argentinian-flaxseed-fritters--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T11:31:28.456Z"
+}
