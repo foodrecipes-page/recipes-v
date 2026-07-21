@@ -1,0 +1,69 @@
+{
+  "slug": "vividly-peppery-slovakian-black-pudding-papillote--french",
+  "title": "Pan-Seared Slovakian Black Pudding with Vividly Fresh Peppery Greens",
+  "description": "A hearty French-inspired dish featuring crispy Slovakian black pudding, paired with peppery greens and a hint of papillote.",
+  "cuisine": "french",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Slovakian black pudding",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Fresh peppery greens",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Papillote",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 sprig"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 sprig"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat.",
+    "Add butter and let it melt.",
+    "Add black pudding slices and cook for 3-4 minutes on each side, until crispy.",
+    "Add peppery greens to the pan and cook until wilted.",
+    "Season with thyme, parsley, salt, and pepper.",
+    "Wrap the pan with papillote and cook for an additional 2-3 minutes, until heated through.",
+    "Serve immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "french",
+    "black-pudding"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vividly-peppery-slovakian-black-pudding-papillote--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T06:00:35.709Z"
+}
