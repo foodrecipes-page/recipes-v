@@ -9838,14 +9838,13 @@
   },
   {
     "slug": "vibrant-spicy-spanish-chicken-paella",
-    "title": "Vibrant Spicy Spanish Chicken Paella",
+    "title": "Spanish Chicken Paella",
     "tags": [
-      "chicken-recipes",
-      "gluten-free",
-      "one-pan",
-      "spanish-food",
-      "weeknight",
-      "whole30"
+      "spanish",
+      "chicken",
+      "paella",
+      "one-pot",
+      "gluten-free"
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 45,
@@ -12088,6 +12087,18 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 75,
+    "shard": "v"
+  },
+  {
+    "slug": "vividly-peppery-slovakian-black-pudding-papillote--french",
+    "title": "Pan-Seared Slovakian Black Pudding with Vividly Fresh Peppery Greens",
+    "tags": [
+      "breakfast",
+      "french",
+      "black-pudding"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
     "shard": "v"
   }
 ]
