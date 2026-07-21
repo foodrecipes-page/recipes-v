@@ -12112,5 +12112,29 @@
     "cuisine": "indian",
     "totalTimeMin": 40,
     "shard": "v"
+  },
+  {
+    "slug": "velvety-crispy-argentinian-flaxseed-fritters--mexican",
+    "title": "Crispy Argentinian Flaxseed Fritters with Velvety Salsa",
+    "tags": [
+      "mexican",
+      "snack",
+      "fritters"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 30,
+    "shard": "v"
+  },
+  {
+    "slug": "vegetable-essence-soup--italian",
+    "title": "Italian Vegetable Essence Soup",
+    "tags": [
+      "italian",
+      "soup",
+      "vegetarian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "v"
   }
 ]
