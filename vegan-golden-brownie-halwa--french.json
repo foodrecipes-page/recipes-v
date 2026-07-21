@@ -1,0 +1,71 @@
+{
+  "slug": "vegan-golden-brownie-halwa--french",
+  "title": "Golden Brownie French Halwa",
+  "description": "A rich French dessert made with vegan golden brownie and halwa, a classic Indian treat. This indulgent sweet delight combines two worlds of flavors and textures.",
+  "cuisine": "French",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Golden Brownie",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Halwa",
+      "amount": "1 cup",
+      "notes": "Indian-style dessert made from wheat flour, ghee, and sugar"
+    },
+    {
+      "name": "Vegan Milk",
+      "amount": "1/2 cup",
+      "notes": "such as almond or soy milk"
+    },
+    {
+      "name": "Vegan Chocolate Chips",
+      "amount": "1/4 cup",
+      "notes": "optional for added flavor"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons",
+      "notes": "for greasing the dish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Grease a 9-inch (23cm) round dish with coconut oil.",
+    "Crush the golden brownie into small pieces and place in a large mixing bowl.",
+    "Add the halwa, vegan milk, and vegan chocolate chips to the bowl with the crushed brownie.",
+    "Mix well until all the ingredients are fully incorporated.",
+    "Pour the mixture into the prepared dish and smooth the top.",
+    "Bake for 35-40 minutes or until the edges are set and the center is slightly gooey.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Serve warm, garnished with fresh fruit or whipped cream if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "dessert",
+    "vegan",
+    "golden",
+    "brownie",
+    "halwa"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vegan-golden-brownie-halwa--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T17:19:55.663Z"
+}
