@@ -12076,5 +12076,18 @@
     "cuisine": "japanese",
     "totalTimeMin": 40,
     "shard": "v"
+  },
+  {
+    "slug": "very-tender-uruguayan-white-navy-bean-stew--french",
+    "title": "Uruguayan Stew",
+    "tags": [
+      "uruguayan",
+      "french",
+      "stew",
+      "beef"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 75,
+    "shard": "v"
   }
 ]
