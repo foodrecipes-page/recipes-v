@@ -1,0 +1,77 @@
+{
+  "slug": "velvety-greek-toor-dal-stir-fry--thai",
+  "title": "Thai Dal Fry",
+  "description": "A flavorful and nutritious Thai-inspired dal fry made with toor dal, onions, and spices.",
+  "cuisine": "thai",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Toor Dal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Greek Velvety Yogurt",
+      "amount": "2 tbsp",
+      "notes": "for serving"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Thai Stir Fry Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fry Spices (cumin, coriander, turmeric)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion and cook until translucent.",
+    "Add fry spices and cook for 1 minute.",
+    "Add toor dal and water. Bring to a boil.",
+    "Reduce heat to low and simmer for 20-25 minutes or until the dal is tender.",
+    "Stir in Thai stir fry sauce.",
+    "Serve hot with Greek velvety yogurt on top.",
+    "Garnish with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "dal",
+    "lentil",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-greek-toor-dal-stir-fry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T13:56:14.205Z"
+}
