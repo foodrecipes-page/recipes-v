@@ -1,0 +1,71 @@
+{
+  "slug": "vibrant-aerated-mediterranean-shichimi-togarashi-pilaf",
+  "title": "Spicy Pilaf Bowl with Togarashi Crust",
+  "description": "A flavorful and spicy pilaf bowl with a crispy togarashi crust and vibrant garnish.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pilaf",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Togarashi",
+      "amount": "2 tsp",
+      "notes": "use store-bought or homemade"
+    },
+    {
+      "name": "Vibrant",
+      "amount": "1/4 cup",
+      "notes": "use as garnish"
+    },
+    {
+      "name": "Aerated",
+      "amount": "1/2 cup",
+      "notes": "use as topping"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook the pilaf according to package instructions.",
+    "In a small bowl, mix together togarashi, olive oil, salt, and black pepper.",
+    "Toss the cooked pilaf with the togarashi mixture until well coated.",
+    "Transfer the pilaf to a serving bowl and top with aerated and vibrant.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pilaf",
+    "togarashi",
+    "spicy",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 50,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-aerated-mediterranean-shichimi-togarashi-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T12:56:35.408Z"
+}
