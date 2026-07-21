@@ -6376,19 +6376,15 @@
   },
   {
     "slug": "velvety-yeasty-venezuelan-pork-knuckle-empanadas",
-    "title": "Venezuelan Yeasty Pork Knuckle Empanadas",
+    "title": "Traditional Venezuelan Empanadas",
     "tags": [
-      "comfort-food",
-      "dinner-party",
-      "empanada-recipe",
-      "homemade-pastry",
-      "lard-friendly",
-      "latin-american",
-      "pork-dinner-ideas",
-      "weeknight"
+      "venezuelan",
+      "empanadas",
+      "snack",
+      "latin-american"
     ],
-    "cuisine": "Latin American",
-    "totalTimeMin": 150,
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 45,
     "shard": "v"
   },
   {
@@ -6436,19 +6432,14 @@
   },
   {
     "slug": "venerable-greek-revithia-revithia",
-    "title": "Venerable Greek Revithia",
+    "title": "Revithia Stew",
     "tags": [
-      "comfort-food",
-      "crowd-pleaser",
-      "genmaicha",
       "greek",
-      "indulgent",
-      "lactose-free",
-      "one-pan",
-      "revithia"
+      "stew",
+      "vegetarian"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
@@ -12172,6 +12163,20 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 40,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-savory-filipino-wild-garlic-leaves-dinuguan--indian",
+    "title": "Wild Filipino Beef Stew",
+    "tags": [
+      "beef",
+      "stew",
+      "indian",
+      "filipino",
+      "spicy"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 80,
     "shard": "v"
   }
 ]
