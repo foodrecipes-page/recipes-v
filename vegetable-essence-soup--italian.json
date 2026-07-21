@@ -1,0 +1,70 @@
+{
+  "slug": "vegetable-essence-soup--italian",
+  "title": "Italian Vegetable Essence Soup",
+  "description": "A hearty and comforting Italian-style soup made with a variety of vegetables and a hint of essence.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "essence",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable broth in a large pot over medium heat.",
+    "Add the chopped carrots, celery, and onion to the pot and sauté until tender.",
+    "Add the essence and canned diced tomatoes to the pot and stir to combine.",
+    "Bring the soup to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "soup",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vegetable-essence-soup--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T11:44:33.140Z"
+}
