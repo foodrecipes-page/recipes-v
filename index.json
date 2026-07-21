@@ -2168,14 +2168,13 @@
   },
   {
     "slug": "velvety-earthy-spanish-chicken-paella",
-    "title": "Velvety Earthy Spanish Chicken Paella",
+    "title": "Spanish Chicken Paella",
     "tags": [
-      "chicken-recipes",
-      "copper-pot",
-      "dairy-free",
-      "one-pan",
-      "spanish-cuisine",
-      "weeknight"
+      "spanish",
+      "chicken",
+      "paella",
+      "rice",
+      "sausage"
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 45,
@@ -6769,16 +6768,14 @@
   },
   {
     "slug": "vibrant-aerated-mediterranean-shichimi-togarashi-pilaf",
-    "title": "Vibrant Aerated Mediterranean shichimi-togarashi Pilaf",
+    "title": "Spicy Pilaf Bowl with Togarashi Crust",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "paleo",
-      "vegetarian",
-      "weeknight"
+      "pilaf",
+      "togarashi",
+      "spicy",
+      "veggie"
     ],
-    "cuisine": "Mediterranean",
+    "cuisine": "Japanese",
     "totalTimeMin": 25,
     "shard": "v"
   },
@@ -7385,15 +7382,14 @@
   },
   {
     "slug": "vibrant-crunchy-chinese-persian-cucumber-dan-dan-mian",
-    "title": "Vibrant Crunchy Chinese Persian Cucumber Dan Dan Mian",
+    "title": "Dan's Mian Delight",
     "tags": [
-      "crunchy-texture",
-      "high-fiber",
-      "one-pot",
-      "vegan-friendly",
-      "weeknight-meal"
+      "chinese-cuisine",
+      "persian-cuisine",
+      "veggie-recipe",
+      "healthy-recipe"
     ],
-    "cuisine": "Chinese",
+    "cuisine": "Chinese-Persian",
     "totalTimeMin": 25,
     "shard": "v"
   },
@@ -12135,6 +12131,19 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-savory-filipino-wild-garlic-leaves-dinuguan--japanese",
+    "title": "Pan-Seared Wild Mushrooms with Savory Leaves",
+    "tags": [
+      "wild-mushrooms",
+      "savory-leaves",
+      "japanese-cuisine",
+      "easy-recipe"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 18,
     "shard": "v"
   }
 ]
