@@ -1,0 +1,62 @@
+{
+  "slug": "very-tender-uruguayan-white-navy-bean-stew--french",
+  "title": "Uruguayan Stew",
+  "description": "A hearty and flavorful stew inspired by Uruguayan cuisine, with tender beef and navy beans in a rich broth.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound"
+    },
+    {
+      "name": "navy beans",
+      "amount": "1 cup dried"
+    },
+    {
+      "name": "very tender onions",
+      "amount": "2 medium"
+    },
+    {
+      "name": "white potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "bean stew",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned, about 5 minutes. Remove from heat and set aside.",
+    "Add the onions and potatoes to the pot and cook until the vegetables are tender, about 10 minutes.",
+    "Add the navy beans, bean stew, and browned beef back to the pot. Season with salt and pepper to taste.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 1 hour.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "french",
+    "stew",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/very-tender-uruguayan-white-navy-bean-stew--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T05:17:20.382Z"
+}
