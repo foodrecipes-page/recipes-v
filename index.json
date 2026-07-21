@@ -12178,5 +12178,20 @@
     "cuisine": "indian",
     "totalTimeMin": 80,
     "shard": "v"
+  },
+  {
+    "slug": "vegan-golden-brownie-halwa--french",
+    "title": "Golden Brownie French Halwa",
+    "tags": [
+      "french",
+      "dessert",
+      "vegan",
+      "golden",
+      "brownie",
+      "halwa"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 50,
+    "shard": "v"
   }
 ]
