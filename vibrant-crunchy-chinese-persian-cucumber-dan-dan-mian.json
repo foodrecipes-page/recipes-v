@@ -1,0 +1,68 @@
+{
+  "slug": "vibrant-crunchy-chinese-persian-cucumber-dan-dan-mian",
+  "title": "Dan's Mian Delight",
+  "description": "A fusion of Chinese and Persian flavors, this dish is a perfect blend of crunch and freshness.",
+  "cuisine": "Chinese-Persian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Persian cucumbers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Chinese cabbage",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "dan's vibrant sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "crunchy mian",
+      "amount": "4 oz",
+      "notes": ""
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat dan's vibrant sauce in a pan over medium heat.",
+    "Add sliced Chinese cabbage and cook until tender.",
+    "Add chopped cilantro and stir well.",
+    "Cook crunchy mian according to package instructions.",
+    "Combine cooked mian with the cabbage mixture.",
+    "Add sliced Persian cucumbers on top.",
+    "Serve immediately and enjoy!",
+    "Garnish with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "persian-cuisine",
+    "veggie-recipe",
+    "healthy-recipe"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-crunchy-chinese-persian-cucumber-dan-dan-mian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T13:05:46.690Z"
+}
