@@ -1,0 +1,76 @@
+{
+  "slug": "velvety-yeasty-venezuelan-pork-knuckle-empanadas",
+  "title": "Traditional Venezuelan Empanadas",
+  "description": "A classic Venezuelan dish, these empanadas are filled with a delicious mixture of ground pork and spices, wrapped in a flaky crust.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground Pork",
+      "amount": "1 pound",
+      "notes": "Make sure to cook the pork to an internal temperature of 160°F (71°C)"
+    },
+    {
+      "name": "Venezuelan Yeast",
+      "amount": "1 packet",
+      "notes": "Available at most Latin American grocery stores"
+    },
+    {
+      "name": "Velvety Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "Use for brushing the empanada crust"
+    },
+    {
+      "name": "Empanada Dough",
+      "amount": "1 package",
+      "notes": "Available at most Latin American grocery stores"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook the ground pork over medium heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the Venezuelan yeast, salt, and black pepper to the skillet and stir to combine.",
+    "Roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Place a tablespoon of the pork mixture in the center of each dough square.",
+    "Brush the edges of the dough with velvety olive oil.",
+    "Fold the dough over the filling to form a triangle and press the edges together to seal.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Brush the tops of the empanadas with velvety olive oil.",
+    "Bake for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "venezuelan",
+    "empanadas",
+    "snack",
+    "latin-american"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-yeasty-venezuelan-pork-knuckle-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T14:55:10.170Z"
+}
