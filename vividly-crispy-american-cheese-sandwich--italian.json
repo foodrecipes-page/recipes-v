@@ -1,0 +1,71 @@
+{
+  "slug": "vividly-crispy-american-cheese-sandwich--italian",
+  "title": "Italian American Cheese Sandwich",
+  "description": "A crispy Italian-inspired take on the classic American cheese sandwich. Enjoy as a satisfying snack or light meal.",
+  "cuisine": "Italian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Italian bread",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "American cheese",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "Fresh basil leaves",
+      "amount": "2 leaves",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat a panini press or grill to medium-high heat.",
+    "2. Slice the Italian bread into 1-inch thick slices.",
+    "3. Place one slice of bread in the panini press or grill.",
+    "4. Top the bread with a slice of American cheese, a few leaves of fresh basil, and a sprinkle of salt and pepper.",
+    "5. Place the second slice of bread on top of the filling.",
+    "6. Cook for 2-3 minutes, or until the bread is crispy and the cheese is melted.",
+    "7. Remove the sandwich from the panini press or grill and let cool for a minute or two.",
+    "8. Slice the sandwich in half and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "american",
+    "cheese",
+    "sandwich"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vividly-crispy-american-cheese-sandwich--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T02:20:24.094Z"
+}
