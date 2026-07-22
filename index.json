@@ -12296,5 +12296,30 @@
     "cuisine": "italian",
     "totalTimeMin": 30,
     "shard": "v"
+  },
+  {
+    "slug": "vividly-crispy-american-cheese-sandwich--italian",
+    "title": "Italian American Cheese Sandwich",
+    "tags": [
+      "italian",
+      "american",
+      "cheese",
+      "sandwich"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 7,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-umami-dark-soft-brown-sugar-stir-fry--vegan",
+    "title": "Vegan Dark Chocolate Fudge",
+    "tags": [
+      "vegan",
+      "chocolate",
+      "fudge"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 120,
+    "shard": "v"
   }
 ]
