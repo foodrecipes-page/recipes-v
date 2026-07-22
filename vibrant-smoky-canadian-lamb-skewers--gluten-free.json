@@ -1,0 +1,76 @@
+{
+  "slug": "vibrant-smoky-canadian-lamb-skewers--gluten-free",
+  "title": "Lamb Skewers with Smoky Glaze",
+  "description": "Grilled lamb skewers smothered in a sweet and smoky glaze, perfect for a quick and easy gluten-free meal.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Smoky BBQ sauce",
+      "amount": "1/4 cup",
+      "notes": "make sure it's gluten-free"
+    },
+    {
+      "name": "Vibrant vegetable skewers (colorful bell peppers, onions, mushrooms)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Canadian maple syrup",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Skewers (wooden or metal)",
+      "amount": "12-15",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread lamb cubes and vibrant vegetable skewers onto the skewers, leaving a little space between each piece.",
+    "In a small bowl, whisk together smoky BBQ sauce and Canadian maple syrup.",
+    "Brush the lamb and vegetables with olive oil and season with salt and pepper.",
+    "Grill the skewers for 8-10 minutes per side, or until the lamb is cooked to your desired level of doneness.",
+    "During the last 2 minutes of grilling, brush the skewers with the smoky glaze.",
+    "Let the skewers rest for 2 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "lamb",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-smoky-canadian-lamb-skewers--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T04:09:14.516Z"
+}
