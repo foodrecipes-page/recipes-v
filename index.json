@@ -12234,5 +12234,30 @@
     "cuisine": "french",
     "totalTimeMin": 35,
     "shard": "v"
+  },
+  {
+    "slug": "vibrant-spicy-tunisian-chicken-tagine--italian",
+    "title": "Tunisian-Style Chicken Tagine Chicken",
+    "tags": [
+      "italian",
+      "chicken",
+      "tagine"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 45,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-tender-algerian-potato-tagine--italian",
+    "title": "Italian-Style Algerian Tagine",
+    "tags": [
+      "chicken",
+      "italian",
+      "north-african",
+      "one-pot"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 50,
+    "shard": "v"
   }
 ]
