@@ -1,0 +1,76 @@
+{
+  "slug": "vibrant-light-canadian-poppy-seed-pilaf--italian",
+  "title": "Italian Pilaf with Seed Crusted Veggies",
+  "description": "A flavorful Italian pilaf dish loaded with seed crusted vegetables, a perfect side dish for any Italian meal.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "vibrant pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "light olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "canadian bacon",
+      "amount": "6 slices",
+      "notes": "seed crusted"
+    },
+    {
+      "name": "poppy seeds",
+      "amount": "2 tbsp",
+      "notes": "for seed crust"
+    },
+    {
+      "name": "seed",
+      "amount": "1/4 cup",
+      "notes": "additional for garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the Canadian bacon into small pieces and place on a baking sheet for crusting.",
+    "Mix the poppy seeds and a pinch of salt and pepper on a plate.",
+    "Roll the Canadian bacon pieces in the seed mixture to coat.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the seed crusted Canadian bacon pieces and sear until golden brown.",
+    "Add the pilaf to the skillet and stir to combine with the Canadian bacon.",
+    "Transfer the skillet to the oven and bake for 15 minutes.",
+    "Garnish with additional poppy seeds and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pilaf",
+    "seeds",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-light-canadian-poppy-seed-pilaf--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T00:12:12.428Z"
+}
