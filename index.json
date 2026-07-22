@@ -12345,5 +12345,18 @@
     "cuisine": "North African",
     "totalTimeMin": 40,
     "shard": "v"
+  },
+  {
+    "slug": "velvety-fermented-italian-taleggio-lasagna--japanese",
+    "title": "Taleggio Lasagna with Italian Twist",
+    "tags": [
+      "japanese-italian-fusion",
+      "lasagna",
+      "taleggio-cheese",
+      "fermented-soybean-paste"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 65,
+    "shard": "v"
   }
 ]
