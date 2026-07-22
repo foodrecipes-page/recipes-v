@@ -12332,5 +12332,18 @@
     "cuisine": null,
     "totalTimeMin": 25,
     "shard": "v"
+  },
+  {
+    "slug": "velvety-rich-algerian-lemongrass-tagine--vegan",
+    "title": "Lemongrass Tagine Stew",
+    "tags": [
+      "vegan",
+      "north-african",
+      "lemongrass",
+      "stew"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 40,
+    "shard": "v"
   }
 ]
