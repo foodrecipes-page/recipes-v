@@ -12259,5 +12259,18 @@
     "cuisine": "italian",
     "totalTimeMin": 50,
     "shard": "v"
+  },
+  {
+    "slug": "velvety-spicy-algerian-lamb-tagine--vegan",
+    "title": "Spicy Tagine Stew",
+    "tags": [
+      "vegan",
+      "north-african",
+      "stew",
+      "tagine"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 40,
+    "shard": "v"
   }
 ]
