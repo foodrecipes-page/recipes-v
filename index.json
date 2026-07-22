@@ -9544,16 +9544,15 @@
   },
   {
     "slug": "vibrant-sour-egyptian-lamb-tagine",
-    "title": "Vibrant Sour Egyptian Lamb Tagine",
+    "title": "Lamb Tagine with Egyptian Flair",
     "tags": [
-      "comfort-food",
-      "lamb-based",
-      "middle-eastern",
-      "one-pot",
-      "spicy"
+      "lamb",
+      "tagine",
+      "north-african",
+      "stew"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 110,
+    "cuisine": "North African",
+    "totalTimeMin": 260,
     "shard": "v"
   },
   {
