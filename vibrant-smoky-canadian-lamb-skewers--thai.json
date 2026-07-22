@@ -1,0 +1,90 @@
+{
+  "slug": "vibrant-smoky-canadian-lamb-skewers--thai",
+  "title": "Grilled Lamb Skewers with Thai Peanut Sauce",
+  "description": "A flavorful and aromatic dish featuring marinated lamb skewers grilled to perfection and served with a rich Thai peanut sauce.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Vibrant Vegetable Skewers",
+      "amount": "4-5",
+      "notes": ""
+    },
+    {
+      "name": "Smoky Peanut Sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Canadian Maple Syrup",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "handful",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together fish sauce, soy sauce, lime juice, and honey. Add the lamb cubes and marinate for at least 30 minutes.",
+    "Thread lamb onto skewers, leaving a small space between each piece.",
+    "Grill skewers for 8-10 minutes per side, or until lamb reaches an internal temperature of 145°F (63°C).",
+    "Meanwhile, prepare the Thai peanut sauce by whisking together peanut butter, soy sauce, maple syrup, and fish sauce in a small bowl.",
+    "Brush the peanut sauce onto the lamb skewers during the last 2 minutes of grilling.",
+    "Serve lamb skewers hot with additional peanut sauce for dipping.",
+    "Garnish with cilantro and serve with steamed vegetables and rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "skewers",
+    "lamb",
+    "thai",
+    "peanut sauce"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-smoky-canadian-lamb-skewers--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T18:00:47.951Z"
+}
