@@ -1,0 +1,95 @@
+{
+  "slug": "vibrant-spicy-tunisian-chicken-tagine--italian",
+  "title": "Tunisian-Style Chicken Tagine Chicken",
+  "description": "An Italian-inspired twist on the classic North African dish, featuring spicy and vibrant flavors.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 1/2 pounds boneless chicken thighs",
+      "notes": null
+    },
+    {
+      "name": "tagine",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "canned tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Season the chicken with salt and pepper.",
+    "Add the chicken to the pot and cook until browned on both sides, about 5-7 minutes.",
+    "Remove the chicken from the pot and set aside.",
+    "Reduce the heat to medium and add the onion to the pot.",
+    "Cook until the onion is softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Stir in the tagine, paprika, and honey.",
+    "Add the tomatoes, broth, and browned chicken back to the pot.",
+    "Bring the mixture to a simmer, then cover the pot and transfer it to the oven.",
+    "Bake for 25-30 minutes, or until the chicken is cooked through and the sauce has thickened.",
+    "Stir in the lemon juice and season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "chicken",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 15,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-spicy-tunisian-chicken-tagine--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T19:39:36.372Z"
+}
