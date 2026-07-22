@@ -12193,5 +12193,46 @@
     "cuisine": "French",
     "totalTimeMin": 50,
     "shard": "v"
+  },
+  {
+    "slug": "vibrant-smoky-canadian-lamb-skewers--thai",
+    "title": "Grilled Lamb Skewers with Thai Peanut Sauce",
+    "tags": [
+      "grilled",
+      "skewers",
+      "lamb",
+      "thai",
+      "peanut sauce"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-herbal-norwegian-stir-fry--keto",
+    "title": "Keto Norwegian Stir Fry",
+    "tags": [
+      "keto",
+      "norwegian",
+      "salmon",
+      "stir-fry"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 25,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-savory-venezuelan-mushrooms-air-fry--french",
+    "title": "French-Style Mushroom Crepes",
+    "tags": [
+      "french",
+      "crepes",
+      "mushrooms",
+      "breakfast",
+      "lunch"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "v"
   }
 ]
