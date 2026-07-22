@@ -1,0 +1,62 @@
+{
+  "slug": "velvety-umami-dark-soft-brown-sugar-stir-fry--vegan",
+  "title": "Vegan Dark Chocolate Fudge",
+  "description": "A rich and creamy vegan chocolate fudge made with dark chocolate and velvety texture.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dark chocolate (70% cocoa)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Soft brown sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Velvety (coconut) cream",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Umami (miso paste)",
+      "amount": "2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Line an 8-inch square baking dish with parchment paper.",
+    "In a double boiler or a heatproof bowl set over a pot of simmering water, melt the chocolate.",
+    "In another bowl, whisk together the sugar and miso paste until well combined.",
+    "Once the chocolate has melted, remove from the heat and stir in the sugar mixture.",
+    "Stir in the coconut cream until well combined.",
+    "Pour the mixture into the prepared baking dish and smooth the top.",
+    "Refrigerate for at least 2 hours or until firm.",
+    "Cut into squares and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 120,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "chocolate",
+    "fudge"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-umami-dark-soft-brown-sugar-stir-fry--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T03:00:34.486Z"
+}
