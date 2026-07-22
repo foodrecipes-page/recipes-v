@@ -1,0 +1,93 @@
+{
+  "slug": "velvety-rich-algerian-lemongrass-tagine--vegan",
+  "title": "Lemongrass Tagine Stew",
+  "description": "A rich and flavorful vegan stew inspired by North African cuisine, made with lemongrass and a blend of spices.",
+  "cuisine": "North African",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "algerian",
+      "amount": "2 tbsp",
+      "notes": "use ras el hanout spice blend"
+    },
+    {
+      "name": "velvety",
+      "amount": "1 can",
+      "notes": "coconut milk"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and garlic; cook until softened, about 5 minutes.",
+    "Add carrots and potatoes; cook for 5 minutes.",
+    "Add lemongrass, cumin, coriander, and salt; stir to combine.",
+    "Add coconut milk and stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 20 minutes.",
+    "Season with ras el hanout spice blend to taste.",
+    "Serve hot, garnished with fresh lemongrass leaves, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "north-african",
+    "lemongrass",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-rich-algerian-lemongrass-tagine--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T05:53:48.593Z"
+}
