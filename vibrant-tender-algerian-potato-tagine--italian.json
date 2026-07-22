@@ -1,0 +1,84 @@
+{
+  "slug": "vibrant-tender-algerian-potato-tagine--italian",
+  "title": "Italian-Style Algerian Tagine",
+  "description": "A fusion of Italian and North African flavors, this dish combines the tender taste of chicken with the vibrant spices of the tagine. Perfect for a weeknight dinner.",
+  "cuisine": "italian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breasts",
+      "amount": "1.5 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Algerian tagine spice blend",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Potato",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken with the Algerian tagine spice blend.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the chicken until browned, then remove from heat.",
+    "Reduce heat to medium and sauté the onion until softened.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the potato and cook for 5 minutes.",
+    "Add the tomato and stir to combine.",
+    "Return the chicken to the pot and cover.",
+    "Transfer the pot to the preheated oven and bake for 30 minutes.",
+    "Garnish with parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "italian",
+    "north-african",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-tender-algerian-potato-tagine--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T19:53:31.968Z"
+}
