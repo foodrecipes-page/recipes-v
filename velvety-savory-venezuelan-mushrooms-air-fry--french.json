@@ -1,0 +1,93 @@
+{
+  "slug": "velvety-savory-venezuelan-mushrooms-air-fry--french",
+  "title": "French-Style Mushroom Crepes",
+  "description": "Delicious crepes filled with a savory mushroom mixture, making for a quick and satisfying French-inspired meal.",
+  "cuisine": "french",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together the flour, eggs, and a pinch of salt.",
+    "Gradually add in the whole milk, whisking until smooth.",
+    "Heat a small non-stick pan over medium heat and add a small amount of butter.",
+    "Once the butter has melted, add in the mushrooms and cook until they release their liquid and start to brown.",
+    "Add in the onions and garlic and cook until the onions are translucent.",
+    "Add in the cooked mushroom mixture to the crepe batter and stir to combine.",
+    "Heat a large non-stick pan over medium heat and add a small amount of butter.",
+    "Once the butter has melted, add in a small amount of the crepe batter and tilt the pan to evenly coat the bottom.",
+    "Cook for 1-2 minutes, until the edges start to curl and the surface is dry.",
+    "Loosen the crepe with a spatula and flip it over.",
+    "Cook for another 1-2 minutes, until the other side is also cooked through.",
+    "Repeat with the remaining batter, until all the crepes are cooked.",
+    "To serve, place a cooked crepe on a plate and add a spoonful of the mushroom filling in the center.",
+    "Fold the crepe in half over the filling and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "crepes",
+    "mushrooms",
+    "breakfast",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-savory-venezuelan-mushrooms-air-fry--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T18:57:44.028Z"
+}
