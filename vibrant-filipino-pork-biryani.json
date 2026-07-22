@@ -1,0 +1,96 @@
+{
+  "slug": "vibrant-filipino-pork-biryani",
+  "title": "Pork Biryani with Vibrant Filipino Flair",
+  "description": "A fusion of Filipino and Indian flavors, this pork biryani is a flavorful and aromatic dish that combines the spices of the East with the freshness of the Philippines.",
+  "cuisine": "Filipino-Indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium-high heat. Add onions and cook until browned.",
+    "Add garlic and ginger and cook for 1 minute.",
+    "Add pork and cook until browned. Remove from heat and set aside.",
+    "In a large pot, heat oil over medium heat. Add turmeric, coriander powder, cumin powder, and red pepper flakes. Cook for 1 minute.",
+    "Add rice to the pot and cook for 2 minutes.",
+    "Add pork, onions, garlic, and ginger to the pot. Mix well.",
+    "Add coconut milk and 2 cups of water to the pot. Bring to a boil.",
+    "Reduce heat to low and cover the pot. Simmer for 20 minutes.",
+    "Turn off heat and let the biryani sit for 5 minutes.",
+    "Fluff the biryani with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "filipino",
+    "indian",
+    "biryani",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-filipino-pork-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T23:26:22.278Z"
+}
