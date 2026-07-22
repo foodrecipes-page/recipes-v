@@ -1,0 +1,85 @@
+{
+  "slug": "velvety-spicy-algerian-lamb-tagine--vegan",
+  "title": "Spicy Tagine Stew",
+  "description": "A hearty, slow-cooked stew made with tender lamb and a blend of aromatic spices. This recipe is a twist on traditional tagine, adapted to be vegan-friendly.",
+  "cuisine": "North African",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "algerian tagine spice blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "lamb substitute (such as seitan or portobello mushrooms)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for an additional 1-2 minutes.",
+    "Add lamb substitute, carrot, and potato. Cook for 5 minutes.",
+    "Add tagine spice blend and cook for 1 minute.",
+    "Add tomato paste and cook for 1 minute.",
+    "Add chickpeas and vegetable broth. Bring to a simmer.",
+    "Reduce heat to low and cook, covered, for 20-25 minutes or until the stew has thickened.",
+    "Stir in parsley and serve hot.",
+    "Serve over couscous or with crusty bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "north-african",
+    "stew",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-spicy-algerian-lamb-tagine--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T21:47:27.927Z"
+}
