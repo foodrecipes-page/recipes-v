@@ -1,0 +1,78 @@
+{
+  "slug": "velvety-herbal-norwegian-stir-fry--keto",
+  "title": "Keto Norwegian Stir Fry",
+  "description": "A quick and flavorful keto stir fry featuring Norwegian salmon and a variety of herbs.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian salmon fillets",
+      "amount": "4 (6 oz each)",
+      "notes": ""
+    },
+    {
+      "name": "velvety butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "herbal salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fry mix (bell peppers, onions, mushrooms)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "stir sauce (ginger, garlic, soy sauce)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the salmon with herbal salt and velvety butter.",
+    "Bake the salmon in the oven for 8-10 minutes.",
+    "In a pan over medium-high heat, add the fry mix and sauté for 3-4 minutes.",
+    "Add the stir sauce and cook for an additional 1-2 minutes.",
+    "Serve the salmon on top of the fried mix and stir sauce.",
+    "Garnish with green onions and parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "norwegian",
+    "salmon",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-herbal-norwegian-stir-fry--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T18:46:15.806Z"
+}
