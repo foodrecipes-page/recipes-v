@@ -12320,5 +12320,17 @@
     "cuisine": null,
     "totalTimeMin": 120,
     "shard": "v"
+  },
+  {
+    "slug": "vibrant-smoky-canadian-lamb-skewers--gluten-free",
+    "title": "Lamb Skewers with Smoky Glaze",
+    "tags": [
+      "gluten-free",
+      "lamb",
+      "skewers"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "v"
   }
 ]
