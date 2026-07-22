@@ -7725,17 +7725,16 @@
   },
   {
     "slug": "vibrant-filipino-pork-biryani",
-    "title": "Vibrant Filipino Pork Biryani",
+    "title": "Pork Biryani with Vibrant Filipino Flair",
     "tags": [
-      "coconut-milk-recipes",
-      "filipino-food",
-      "gluten-free",
-      "one-pot-meals",
-      "pork-recipes",
-      "spicy-food"
+      "pork",
+      "filipino",
+      "indian",
+      "biryani",
+      "fusion"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 60,
+    "cuisine": "Filipino-Indian",
+    "totalTimeMin": 40,
     "shard": "v"
   },
   {
@@ -12271,6 +12270,18 @@
     ],
     "cuisine": "North African",
     "totalTimeMin": 40,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-light-mediterranean-gelatin-pudding--japanese",
+    "title": "Mochi Pudding Dessert",
+    "tags": [
+      "japanese",
+      "pudding",
+      "mochi"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 20,
     "shard": "v"
   }
 ]
