@@ -1,0 +1,75 @@
+{
+  "slug": "velvety-fermented-italian-taleggio-lasagna--japanese",
+  "title": "Taleggio Lasagna with Italian Twist",
+  "description": "A unique fusion of Japanese and Italian flavors, combining velvety taleggio cheese with the richness of lasagna.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "taleggio cheese",
+      "amount": "8 oz",
+      "notes": "softened to room temperature"
+    },
+    {
+      "name": "lasagna noodles",
+      "amount": "12-16 sheets",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "italian parsley",
+      "amount": "1 bunch",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "fermented soybean paste",
+      "amount": "2 tbsp",
+      "notes": "replaces traditional Italian tomato sauce"
+    },
+    {
+      "name": "grated daikon",
+      "amount": "1 cup",
+      "notes": "adds crunch and flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "preferably Japanese sea salt"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Cook lasagna noodles according to package instructions.",
+    "3. In a mixing bowl, combine taleggio cheese, fermented soybean paste, and grated daikon.",
+    "4. Spread a thin layer of the cheese mixture on the bottom of a 9x13-inch baking dish.",
+    "5. Arrange 4 lasagna noodles on top of the cheese mixture.",
+    "6. Repeat steps 3-5, ending with a layer of cheese on top.",
+    "7. Sprinkle chopped parsley on top for garnish.",
+    "8. Cover the dish with aluminum foil and bake for 25 minutes.",
+    "9. Remove foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "10. Remove from oven and let rest for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "japanese-italian-fusion",
+    "lasagna",
+    "taleggio-cheese",
+    "fermented-soybean-paste"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-fermented-italian-taleggio-lasagna--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T06:40:47.323Z"
+}
