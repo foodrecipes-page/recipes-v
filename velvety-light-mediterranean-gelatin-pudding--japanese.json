@@ -1,0 +1,56 @@
+{
+  "slug": "velvety-light-mediterranean-gelatin-pudding--japanese",
+  "title": "Mochi Pudding Dessert",
+  "description": "A light and creamy Japanese dessert made with velvety pudding, gelatin, and a touch of mediterranean flavor.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Velvety Pudding Mix",
+      "amount": "1 box (3.4 oz)"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Gelatin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Mediterranean Olive Oil",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "1. In a small bowl, sprinkle the gelatin over 1/4 cup of cold water and let it soften for 5 minutes.",
+    "2. In a medium saucepan, combine the softened gelatin, velvety pudding mix, and 1 cup of water. Cook over medium heat, stirring constantly, until the mixture comes to a boil.",
+    "3. Remove the saucepan from the heat and stir in the mediterranean olive oil. Let it cool to room temperature.",
+    "4. Pour the mixture into individual serving cups or a large serving dish.",
+    "5. Refrigerate the pudding for at least 3 hours or until it is set.",
+    "6. Serve the mochi pudding chilled, garnished with your choice of toppings such as fruit or whipped cream."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "pudding",
+    "mochi"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-light-mediterranean-gelatin-pudding--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T22:59:58.958Z"
+}
