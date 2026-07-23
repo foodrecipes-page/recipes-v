@@ -7202,17 +7202,16 @@
   },
   {
     "slug": "vibrant-crisp-spanish-vegetable-gazpacho",
-    "title": "Vibrant Crisp Spanish Vegetable Gazpacho",
+    "title": "Spanish Gazpacho",
     "tags": [
-      "easy-to-make",
-      "gluten-free",
-      "indulgent",
-      "refreshing",
-      "spanish-cuisine",
-      "vegetarian-friendly"
+      "cold",
+      "soup",
+      "spanish",
+      "vegetarian",
+      "summer"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 30,
+    "totalTimeMin": 15,
     "shard": "v"
   },
   {
@@ -12435,6 +12434,18 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 40,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-light-canadian-poppy-seed-pilaf--french",
+    "title": "French Poppy Seed Pilaf",
+    "tags": [
+      "pilaf",
+      "french",
+      "vegetarian"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 30,
     "shard": "v"
   }
 ]
