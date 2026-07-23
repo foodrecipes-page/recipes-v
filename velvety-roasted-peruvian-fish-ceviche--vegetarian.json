@@ -1,0 +1,90 @@
+{
+  "slug": "velvety-roasted-peruvian-fish-ceviche--vegetarian",
+  "title": "Roasted Peruvian Vegetable Tart",
+  "description": "A flavorful and colorful tart filled with roasted Peruvian vegetables, perfect for a vegetarian meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Puff Pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "Velvety Sweet Potatoes",
+      "amount": "2 medium",
+      "notes": "peeled, cubed"
+    },
+    {
+      "name": "Roasted Red Onions",
+      "amount": "1 medium",
+      "notes": "peeled, sliced"
+    },
+    {
+      "name": "Peruvian Corn",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out puff pastry on a floured surface to a thickness of 1/8 inch.",
+    "Transfer pastry to a 9-inch tart pan with a removable bottom.",
+    "In a large bowl, toss together sweet potatoes, red onions, corn, and cilantro.",
+    "Drizzle with lime juice and olive oil; season with salt and pepper.",
+    "Arrange the vegetable mixture on one half of the pastry, leaving a 1/2-inch border around the edges.",
+    "Fold the other half of the pastry over the filling, pressing edges to seal.",
+    "Bake for 25-30 minutes, or until pastry is golden brown and filling is tender.",
+    "Remove from oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "vegetarian",
+    "tart",
+    "sweet-potatoes",
+    "corn"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-roasted-peruvian-fish-ceviche--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T08:32:52.375Z"
+}
