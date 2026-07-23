@@ -1,0 +1,70 @@
+{
+  "slug": "vibrant-low-sodium-saudi-arabian-cheese-cookies--indian",
+  "title": "Saudi Arabian Naan with Vibrant Cheese",
+  "description": "A fusion of Saudi Arabian and Indian flavors, these vibrant naan breads are topped with a blend of vibrant cheese.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "saudi arabian all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "low sodium salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vibrant cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "arabian water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sodium arabian sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "indian yeast",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "1. Combine flour, salt, and sugar in a large bowl.",
+    "2. Gradually add in the Arabian water and mix until a dough forms.",
+    "3. Knead the dough for about 10 minutes until smooth.",
+    "4. Place the dough in a greased bowl, cover with a cloth, and let it rest for 1 hour.",
+    "5. Preheat a non-stick skillet or grill over medium heat.",
+    "6. Divide the dough into 6-8 equal portions.",
+    "7. Roll each portion into a ball and flatten slightly into a disk.",
+    "8. Place the dough disks in the skillet and cook for 1-2 minutes on each side until golden brown.",
+    "9. Brush the cooked naan with a little water and sprinkle with vibrant cheese.",
+    "10. Serve warm with your favorite accompaniments."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "indian",
+    "saudi",
+    "cheese",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-low-sodium-saudi-arabian-cheese-cookies--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T08:10:41.328Z"
+}
