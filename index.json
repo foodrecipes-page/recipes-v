@@ -8552,16 +8552,14 @@
   },
   {
     "slug": "vibrant-light-mediterranean-chinese-long-beans-skewers",
-    "title": "Vibrant Light Mediterranean Chinese Long Beans Skewers",
+    "title": "Mediterranean Bean Skewers",
     "tags": [
-      "healthy-snack",
-      "mediterranean-inspired",
-      "pressure-cooker-recipe",
-      "quick-dinner",
-      "vegetarian-friendly"
+      "mediterranean",
+      "vegetarian",
+      "grilled"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 30,
+    "cuisine": "mediterranean",
+    "totalTimeMin": 32,
     "shard": "v"
   },
   {
@@ -12478,6 +12476,34 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 25,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-smoky-croatian-chicken-skewers--keto",
+    "title": "Smoky Croatian Chicken Skewers",
+    "tags": [
+      "smoky",
+      "croatian",
+      "chicken",
+      "keto",
+      "grilled"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 33,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-golden-irish-potato-hash--german",
+    "title": "German Hash and Potato Gratin",
+    "tags": [
+      "german",
+      "side-dish",
+      "potato",
+      "gratin",
+      "creamy"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
     "shard": "v"
   }
 ]
