@@ -1,0 +1,93 @@
+{
+  "slug": "velvety-brothy-vietnamese-broccoli-pho--mexican",
+  "title": "Pho Tacos",
+  "description": "A fusion twist on traditional pho, served in a crispy taco shell. A delicious blend of Asian and Mexican flavors.",
+  "cuisine": "mexican",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "brothy pho broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "velvety beef",
+      "amount": "1 pound",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "vietnamese beef",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "broccoli",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "taco shells",
+      "amount": "8-10",
+      "notes": ""
+    },
+    {
+      "name": "lime wedges",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "sriracha",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the pho broth according to package instructions.",
+    "In a separate pan, cook the sliced beef over medium-high heat until browned.",
+    "Add the thinly sliced beef to the pan and cook until browned.",
+    "Add the broccoli to the pan and cook until tender.",
+    "Warm the taco shells according to package instructions.",
+    "Assemble the tacos by placing a portion of the beef and broccoli mixture into each shell.",
+    "Top with a spoonful of pho broth, a sprinkle of cilantro, and a dollop of sour cream.",
+    "Serve with a side of sriracha for added spice.",
+    "Serve immediately and enjoy!",
+    "Optional: top with shredded cheese and additional cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pho-tacos",
+    "mexican-pho",
+    "fusion-food",
+    "taco-recipe"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-brothy-vietnamese-broccoli-pho--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T20:51:39.249Z"
+}
