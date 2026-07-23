@@ -1,0 +1,84 @@
+{
+  "slug": "vibrant-light-mediterranean-chinese-long-beans-skewers",
+  "title": "Mediterranean Bean Skewers",
+  "description": "A colorful and flavorful dish featuring Mediterranean flavors with crispy vegetables and tender beans, all perfectly grilled on skewers.",
+  "cuisine": "mediterranean",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beans",
+      "amount": "1 cup",
+      "notes": "any type of bean works well"
+    },
+    {
+      "name": "vibrant bell peppers",
+      "amount": "2",
+      "notes": "any color bell pepper works well"
+    },
+    {
+      "name": "light cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved or quartered for easier grilling"
+    },
+    {
+      "name": "long fresh basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for at least 30 minutes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Soak skewers in water for at least 30 minutes.",
+    "Cut the bell peppers and cherry tomatoes in half.",
+    "Thread the beans, bell peppers, cherry tomatoes, and fresh basil leaves onto the skewers.",
+    "Brush the skewers with olive oil and season with garlic powder, salt, and pepper.",
+    "Grill the skewers for 10-12 minutes, turning occasionally.",
+    "Serve hot and garnish with chopped fresh basil leaves."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "vegetarian",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-light-mediterranean-chinese-long-beans-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T17:58:46.346Z"
+}
