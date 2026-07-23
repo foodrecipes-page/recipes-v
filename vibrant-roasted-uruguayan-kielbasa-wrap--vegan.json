@@ -1,0 +1,93 @@
+{
+  "slug": "vibrant-roasted-uruguayan-kielbasa-wrap--vegan",
+  "title": "Vegan Roasted Wrap",
+  "description": "A flavorful and easy-to-make vegan wrap filled with roasted vegetables and vibrant spices.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kielbasa",
+      "amount": "1/4 cup",
+      "notes": "use vegan kielbasa or omit for a kielbasa-free version"
+    },
+    {
+      "name": "Roasted Wrap",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Roasted Vegetables",
+      "amount": "1 cup",
+      "notes": "such as bell peppers, zucchini, and onions"
+    },
+    {
+      "name": "Vibrant Spices",
+      "amount": "1 tsp",
+      "notes": "such as cumin and paprika"
+    },
+    {
+      "name": "Vegan Hummus",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Vegan Mayo",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Pickled Red Onion",
+      "amount": "2 tbsp",
+      "notes": "see notes for recipe"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Toss the roasted vegetables with olive oil, vibrant spices, and salt. Spread on a baking sheet and roast for 20-25 minutes.",
+    "Warm the wrap in the oven for 2-3 minutes.",
+    "Spread the vegan hummus on the wrap.",
+    "Add the roasted vegetables, kielbasa, lettuce, tomato, and pickled red onion.",
+    "Drizzle with vegan mayo and garnish with fresh cilantro.",
+    "Serve immediately and enjoy!",
+    "Note: For the pickled red onion, slice 1/2 cup red onion and soak in 2 tbsp vinegar for 10-15 minutes.",
+    "Note: Adjust the amount of kielbasa to your liking or omit for a kielbasa-free version."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-roasted-uruguayan-kielbasa-wrap--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T11:03:46.812Z"
+}
