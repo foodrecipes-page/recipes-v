@@ -1,0 +1,94 @@
+{
+  "slug": "vegeta-bhuna--indian",
+  "title": "Vegeta Bhuna",
+  "description": "A spicy Indian-inspired vegetable curry made with tender vegetables and a flavorful sauce. This dish is perfect for a weeknight dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "Vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vegeta",
+      "amount": "1 tablespoon",
+      "notes": "Indian spice blend"
+    },
+    {
+      "name": "Bhuna curry paste",
+      "amount": "2 teaspoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 can",
+      "notes": "diced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "for sauce"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the carrots and potatoes and cook for 5 minutes.",
+    "Add the curry paste and cook for 1 minute.",
+    "Add the tomatoes, Vegeta, and salt. Stir well.",
+    "Add the water and bring to a simmer.",
+    "Reduce heat to low and cook, covered, for 20 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vegeta-bhuna--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T09:13:21.220Z"
+}
