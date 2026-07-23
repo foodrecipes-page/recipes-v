@@ -1,0 +1,92 @@
+{
+  "slug": "vividly-caramelized-chinese-pitted-dates-jjigae",
+  "title": "Caramelized Date Jjigae",
+  "description": "A sweet and savory Korean-inspired jjigae made with caramelized dates, savory meat, and spices.",
+  "cuisine": "korean",
+  "diet": [
+    "korean"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pitted Dates",
+      "amount": "1 cup",
+      "notes": "caramelized"
+    },
+    {
+      "name": "Ground Pork",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Vividly Chinese Jjigae Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a pan over medium-high heat.",
+    "Add the ground pork and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the garlic, ginger, soy sauce, and brown sugar to the pan and cook for 1 minute.",
+    "Add the caramelized dates to the pan and cook for 2 minutes.",
+    "Add the jjigae sauce to the pan and stir to combine.",
+    "Bring the mixture to a simmer and cook for 5 minutes.",
+    "Season the jjigae with salt and black pepper to taste.",
+    "Serve the jjigae hot, garnished with chopped green onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean-cuisine",
+    "sweet-and-savory",
+    "date-based"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vividly-caramelized-chinese-pitted-dates-jjigae",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T20:07:54.661Z"
+}
