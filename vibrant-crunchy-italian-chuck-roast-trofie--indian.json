@@ -1,0 +1,96 @@
+{
+  "slug": "vibrant-crunchy-italian-chuck-roast-trofie--indian",
+  "title": "Indian-Style Roast Chuck with Trofie Pasta",
+  "description": "A hearty and flavorful Indian-inspired dish featuring tender roast chuck and trofie pasta in a rich tomato sauce.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1.5 lbs chuck roast",
+      "amount": "1.5 lbs",
+      "notes": "preferably at room temperature"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "",
+      "notes": "for cooking"
+    },
+    {
+      "name": "1 onion",
+      "amount": "",
+      "notes": "chopped"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "",
+      "notes": "minced"
+    },
+    {
+      "name": "1 can diced tomatoes",
+      "amount": "14.5 oz",
+      "notes": "preferably crushed"
+    },
+    {
+      "name": "1 cup trofie pasta",
+      "amount": "",
+      "notes": "dried"
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "",
+      "notes": "optional"
+    },
+    {
+      "name": "1 tsp ground coriander",
+      "amount": "",
+      "notes": "optional"
+    },
+    {
+      "name": "1 tsp garam masala",
+      "amount": "",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the chuck roast with salt and pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat. Sear the chuck roast until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the roast to the preheated oven and roast for 2-3 hours, or until tender.",
+    "While the roast is cooking, cook the trofie pasta according to package instructions.",
+    "In a large skillet, cook the chopped onion and minced garlic over medium heat until the onion is translucent.",
+    "Add the diced tomatoes, cumin, coriander, and garam masala to the skillet. Stir to combine.",
+    "Once the roast is done, remove it from the oven and let it rest for 10 minutes.",
+    "Slice the roast against the grain and add it to the skillet with the tomato sauce.",
+    "Toss the cooked trofie pasta in the skillet with the roast and sauce.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "roast-chuck",
+    "trofie-pasta",
+    "tomato-sauce"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-crunchy-italian-chuck-roast-trofie--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T19:20:51.756Z"
+}
