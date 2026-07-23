@@ -12397,5 +12397,44 @@
     "cuisine": "indian",
     "totalTimeMin": 35,
     "shard": "v"
+  },
+  {
+    "slug": "velvety-roasted-peruvian-fish-ceviche--vegetarian",
+    "title": "Roasted Peruvian Vegetable Tart",
+    "tags": [
+      "peruvian",
+      "vegetarian",
+      "tart",
+      "sweet-potatoes",
+      "corn"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 45,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-cozy-slovakian-collards-braised--mexican",
+    "title": "Velvety Braised Collards with a Slovakian Twist",
+    "tags": [
+      "mexican",
+      "braised",
+      "collards",
+      "slovakian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "v"
+  },
+  {
+    "slug": "vegeta-bhuna--indian",
+    "title": "Vegeta Bhuna",
+    "tags": [
+      "indian",
+      "vegetarian",
+      "curry"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 40,
+    "shard": "v"
   }
 ]
