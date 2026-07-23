@@ -1,0 +1,73 @@
+{
+  "slug": "vibrant-earthy-japanese-noodles-udon--chinese",
+  "title": "Stir-Fried Udon Noodles",
+  "description": "A classic Chinese dish that combines the flavors of earthy udon noodles with vibrant vegetables and a hint of Japanese flair.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "udon noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "earthly sweet potatoes",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "vibrant bell peppers",
+      "amount": "1 large",
+      "notes": "any color"
+    },
+    {
+      "name": "japanese soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chinese chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "veggie oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the udon noodles according to package instructions.",
+    "Cut the sweet potatoes and bell peppers into bite-sized pieces.",
+    "Heat 1 tbsp of veggie oil in a large skillet over medium-high heat.",
+    "Add the sweet potatoes and bell peppers and stir-fry for 5 minutes.",
+    "Add the cooked udon noodles and stir-fry for another 2 minutes.",
+    "Mix in the soy sauce and chili flakes. Cook for 1 minute.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "vegetarian",
+    "udon"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-earthy-japanese-noodles-udon--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T16:58:02.532Z"
+}
