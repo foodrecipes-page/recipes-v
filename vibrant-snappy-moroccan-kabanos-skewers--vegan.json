@@ -1,0 +1,92 @@
+{
+  "slug": "vibrant-snappy-moroccan-kabanos-skewers--vegan",
+  "title": "Spicy Vegan Kebabs",
+  "description": "A flavorful and spicy vegan kebab recipe made with marinated vegetables and served with a side of moroccan couscous. Perfect for a quick and easy dinner.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kabanos",
+      "amount": "1 package, sliced",
+      "notes": "for serving"
+    },
+    {
+      "name": "Vibrant bell peppers",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Snappy carrots",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Moroccan couscous",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Skewers",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, paprika, and cumin.",
+    "Add the sliced bell peppers and carrots to the bowl and toss to coat.",
+    "Thread the marinated vegetables onto the skewers.",
+    "Heat a grill or grill pan to medium-high heat.",
+    "Cook the kebabs for 8-10 minutes, turning occasionally.",
+    "Serve with a side of moroccan couscous and sliced kabanos.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "kebabs",
+    "grilled",
+    "mexican"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-snappy-moroccan-kabanos-skewers--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T19:44:47.760Z"
+}
