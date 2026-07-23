@@ -1,0 +1,75 @@
+{
+  "slug": "velvety-cozy-slovakian-collards-braised--mexican",
+  "title": "Velvety Braised Collards with a Slovakian Twist",
+  "description": "A hearty Mexican-inspired braised collards dish with a rich, velvety sauce and a hint of Slovakian flair.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "collards",
+      "amount": "1 bunch",
+      "notes": "stemmed and chopped"
+    },
+    {
+      "name": "velvety",
+      "amount": "2 tbsp",
+      "notes": "sour cream or similar"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "braised",
+      "amount": "1 cup",
+      "notes": "braising liquid (stock or wine)"
+    },
+    {
+      "name": "slovakian",
+      "amount": "1 tsp",
+      "notes": "paprika or similar spice"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and garlic, cook until softened (5 min).",
+    "Add collards, braised liquid, and Slovakian spice. Stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer (20 min).",
+    "Stir in velvety sauce (sour cream).",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh cilantro (optional).",
+    "Reheat as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "braised",
+    "collards",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-cozy-slovakian-collards-braised--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T08:50:55.817Z"
+}
