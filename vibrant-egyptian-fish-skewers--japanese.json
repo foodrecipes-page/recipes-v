@@ -1,0 +1,88 @@
+{
+  "slug": "vibrant-egyptian-fish-skewers--japanese",
+  "title": "Japanese Grilled Fish Skewers with Egyptian Spices",
+  "description": "A flavorful and colorful dish that combines Japanese grilled fish skewers with the aromatic spices of Egypt, perfect for a quick and easy dinner.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish (sushi-grade)",
+      "amount": "1 pound",
+      "notes": "White fish like tilapia or mahi-mahi work well"
+    },
+    {
+      "name": "Egyptian Spice Mix",
+      "amount": "2 tablespoons",
+      "notes": "A blend of cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "Vibrant Skewers",
+      "amount": "10-12",
+      "notes": "Colorful wooden or bamboo skewers"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "For marinating the fish"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tablespoon",
+      "notes": "For marinating the fish"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": "For sweetening the fish"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1 bunch",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Cut the fish into bite-sized pieces and thread onto the skewers.",
+    "In a small bowl, whisk together soy sauce, rice vinegar, honey, and Egyptian Spice Mix.",
+    "Brush the mixture onto the fish skewers and let marinate for at least 30 minutes.",
+    "Grill the skewers for 8-10 minutes, or until the fish is cooked through.",
+    "Serve hot, garnished with green onions and sesame seeds."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "grilled",
+    "fish",
+    "skewers",
+    "european"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-egyptian-fish-skewers--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T19:02:43.194Z"
+}
