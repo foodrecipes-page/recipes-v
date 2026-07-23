@@ -1,0 +1,71 @@
+{
+  "slug": "velvety-iodine-rich-portuguese-eggs-frittata--chinese",
+  "title": "Savory Chinese Frittata",
+  "description": "A rich and savory twist on the traditional frittata, infused with the bold flavors of Chinese cuisine.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "velvety",
+      "amount": "1/4 cup",
+      "notes": "Soy sauce or other velvety sauce of choice"
+    },
+    {
+      "name": "iodine",
+      "amount": "1/4 teaspoon",
+      "notes": "Sea salt or other iodine-rich seasoning"
+    },
+    {
+      "name": "portuguese",
+      "amount": "1/4 teaspoon",
+      "notes": "Dried oregano or other Portuguese seasoning"
+    },
+    {
+      "name": "rich",
+      "amount": "1 tablespoon",
+      "notes": "Olive oil or other rich oil"
+    },
+    {
+      "name": "frittata",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Whisk eggs in a large bowl and set aside.",
+    "In a small bowl, whisk together velvety sauce, iodine seasoning, and Portuguese seasoning. Add to eggs and whisk until combined.",
+    "Heat rich oil in a 9-inch oven-safe skillet over medium heat.",
+    "Pour in eggs and cook until edges start to set, about 2-3 minutes.",
+    "Transfer skillet to oven and bake for 15-20 minutes or until eggs are set.",
+    "Remove from oven and let cool for a few minutes.",
+    "Slice into wedges and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "breakfast",
+    "egg-dish",
+    "frittata"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 4,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-iodine-rich-portuguese-eggs-frittata--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T07:30:51.432Z"
+}
