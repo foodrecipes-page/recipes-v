@@ -1,0 +1,73 @@
+{
+  "slug": "velvety-golden-irish-potato-hash--german",
+  "title": "German Hash and Potato Gratin",
+  "description": "A creamy, golden German side dish made with crispy potatoes and a rich velvety sauce.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "Irish potatoes",
+      "amount": "2 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "Hash",
+      "amount": "1 cup",
+      "notes": "golden-brown diced potatoes"
+    },
+    {
+      "name": "Velvety sauce",
+      "amount": "1 cup",
+      "notes": "or substitute with sour cream and milk mixture"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large saucepan, combine the sliced potatoes, hash, and melted butter. Cook over medium heat, stirring occasionally, until the potatoes are tender and golden brown.",
+    "In a separate saucepan, heat the velvety sauce over low heat until warm and creamy.",
+    "In a greased 9x13-inch baking dish, arrange the potato mixture in an even layer.",
+    "Pour the warm velvety sauce over the potatoes, making sure they are fully coated.",
+    "Bake in the preheated oven for 25-30 minutes, or until the top is golden brown and the potatoes are heated through.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "side-dish",
+    "potato",
+    "gratin",
+    "creamy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-golden-irish-potato-hash--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T18:04:16.243Z"
+}
