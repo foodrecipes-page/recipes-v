@@ -1,0 +1,89 @@
+{
+  "slug": "vibrant-crisp-spanish-vegetable-gazpacho",
+  "title": "Spanish Gazpacho",
+  "description": "A refreshing cold soup from Spain made with tomatoes, peppers, cucumbers, and bread.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "crisp cucumbers",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "vibrant bell peppers",
+      "amount": "1 large",
+      "notes": "any color"
+    },
+    {
+      "name": "spanish tomatoes",
+      "amount": "3 large",
+      "notes": "or 2 cups of cherry tomatoes"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "white bread",
+      "amount": "1 cup",
+      "notes": "stale or day-old"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, puree the tomatoes, peppers, cucumbers, garlic, and bread until smooth.",
+    "With the blender running, slowly pour in the vegetable broth and olive oil.",
+    "Add the red wine vinegar, smoked paprika, and salt to taste.",
+    "Taste and adjust the seasoning as needed.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve the gazpacho chilled, garnished with a dollop of sour cream and some crusty bread on the side.",
+    "You can also serve it with a sprinkle of chopped fresh cilantro or scallions for added flavor and color.",
+    "This soup is perfect for hot summer days and can be made ahead of time to save time during the week."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cold",
+    "soup",
+    "spanish",
+    "vegetarian",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-crisp-spanish-vegetable-gazpacho",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T10:24:53.741Z"
+}
