@@ -1,0 +1,71 @@
+{
+  "slug": "valley-warm-roasted-italian-cheese-lasagna",
+  "title": "Warm Valley Lasagna",
+  "description": "A classic Italian dish with a twist from the valley. This lasagna is perfect for a cold evening.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna noodles",
+      "amount": "8-10",
+      "notes": ""
+    },
+    {
+      "name": "warm valley cheese blend",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "roasted valley vegetables",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "italian seasonings",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook lasagna noodles according to package instructions.",
+    "In a large skillet, heat olive oil over medium heat.",
+    "Add roasted valley vegetables and cook until tender.",
+    "In a large bowl, combine warm valley cheese blend and italian seasonings.",
+    "Spread a layer of cheese mixture in the bottom of a 9x13 inch baking dish.",
+    "Arrange 4 lasagna noodles on top of the cheese layer.",
+    "Spread half of the remaining cheese mixture on top of the noodles.",
+    "Repeat the layers, starting with the noodles, then the cheese mixture.",
+    "Top with the remaining cheese mixture and cover with aluminum foil.",
+    "Bake for 30 minutes, then remove foil and continue baking for an additional 10-15 minutes.",
+    "Let the lasagna rest for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "lasagna",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/valley-warm-roasted-italian-cheese-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T16:51:42.871Z"
+}
