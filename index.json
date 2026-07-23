@@ -12358,5 +12358,44 @@
     "cuisine": "japanese",
     "totalTimeMin": 65,
     "shard": "v"
+  },
+  {
+    "slug": "velvety-nostalgic-citrus-egyptian-stir-fry--german",
+    "title": "German Stir-Fried Schnitzel",
+    "tags": [
+      "german-cuisine",
+      "schnitzel",
+      "stir-fry"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-iodine-rich-portuguese-eggs-frittata--chinese",
+    "title": "Savory Chinese Frittata",
+    "tags": [
+      "chinese",
+      "breakfast",
+      "egg-dish",
+      "frittata"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 30,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-low-sodium-saudi-arabian-cheese-cookies--indian",
+    "title": "Saudi Arabian Naan with Vibrant Cheese",
+    "tags": [
+      "easy",
+      "indian",
+      "saudi",
+      "cheese",
+      "snack"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "v"
   }
 ]
