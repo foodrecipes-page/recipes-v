@@ -1,0 +1,101 @@
+{
+  "slug": "vibrant-earthy-japanese-noodles-udon--italian",
+  "title": "Earthly Udon Pasta",
+  "description": "A hearty Italian-inspired udon pasta dish featuring earthy undertones and a hint of Japanese flair.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Udon noodles",
+      "amount": "8 oz",
+      "notes": "Japanese udon noodles"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "Vibrant earthy variety"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": "Canned"
+    },
+    {
+      "name": "White wine",
+      "amount": "1/4 cup",
+      "notes": "Dry"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "Shaved"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "Extra virgin"
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 sprig",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook udon noodles according to package instructions.",
+    "In a large skillet, heat olive oil over medium heat. Add onion and garlic and sauté until softened.",
+    "Add mushrooms to the skillet and cook until browned.",
+    "Add tomato paste and cook for 1-2 minutes, stirring constantly.",
+    "Add white wine and cook until reduced by half.",
+    "Add thyme and cook for 1 minute.",
+    "Stir in parmesan cheese until melted.",
+    "Add cooked udon noodles to the skillet and toss with sauce.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pastadishes",
+    "udon",
+    "earthytone",
+    "japaneseflair"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-earthy-japanese-noodles-udon--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T20:16:46.754Z"
+}
