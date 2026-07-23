@@ -1,0 +1,66 @@
+{
+  "slug": "vibrant-quick-british-spring-onions-fritters--thai",
+  "title": "Thai Spring Fritters",
+  "description": "Crispy and flavorful spring fritters with a sweet Thai twist, perfect for a quick snack.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "spring onions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "fritters",
+      "amount": "4",
+      "notes": "British fritters"
+    },
+    {
+      "name": "vibrant vegetable oil",
+      "amount": "1 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "quick sweet chili sauce",
+      "amount": "1/4 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "british all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, mix together chopped spring onions and fritters.",
+    "2. Add 1 cup of vibrant vegetable oil to a deep frying pan and heat to 350°F.",
+    "3. Dust fritter mixture with British all-purpose flour.",
+    "4. Carefully drop tablespoon-sized fritter mixture into the hot oil.",
+    "5. Fry for 2-3 minutes or until golden brown.",
+    "6. Remove fritters from oil with a slotted spoon and place on paper towels to drain.",
+    "7. Serve fritters hot with quick sweet chili sauce for dipping."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-quick-british-spring-onions-fritters--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T15:23:11.444Z"
+}
