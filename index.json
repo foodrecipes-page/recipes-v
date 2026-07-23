@@ -1,19 +1,14 @@
 [
   {
     "slug": "valley-warm-roasted-italian-cheese-lasagna",
-    "title": "Valley Warm Roasted Italian Cheese Lasagna",
+    "title": "Warm Valley Lasagna",
     "tags": [
-      "cheese",
-      "comfort-food",
-      "family-friendly",
       "italian",
-      "lacto-ovo-vegetarian",
-      "one-pan",
-      "romantic",
-      "weeknight"
+      "lasagna",
+      "vegetarian"
     ],
     "cuisine": "italian",
-    "totalTimeMin": 65,
+    "totalTimeMin": 60,
     "shard": "v"
   },
   {
@@ -12470,6 +12465,19 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 20,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-earthy-japanese-noodles-udon--chinese",
+    "title": "Stir-Fried Udon Noodles",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "vegetarian",
+      "udon"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
     "shard": "v"
   }
 ]
