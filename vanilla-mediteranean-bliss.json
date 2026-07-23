@@ -1,0 +1,73 @@
+{
+  "slug": "vanilla-mediteranean-bliss",
+  "title": "Blissful Mediterranean Bliss Bars",
+  "description": "A sweet and tangy bar dessert that combines the flavors of Mediterranean bliss with a hint of vanilla.",
+  "cuisine": "dessert",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "vanilla",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mediteranean bliss",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Line an 8-inch square baking dish with parchment paper.",
+    "In a medium bowl, whisk together the flour, sugar, and salt.",
+    "In a large bowl, whisk together the vanilla, Mediterranean bliss, and eggs.",
+    "Add the butter to the wet ingredients and mix until well combined.",
+    "Gradually add the dry ingredients to the wet ingredients and mix until a dough forms.",
+    "Press the dough into the prepared baking dish.",
+    "Bake for 25-30 minutes or until a toothpick inserted into the center comes out clean.",
+    "Let cool completely in the pan before cutting into bars."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 9,
+  "difficulty": "medium",
+  "tags": [
+    "bars",
+    "dessert",
+    "bliss",
+    "mediterranean",
+    "vanilla"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vanilla-mediteranean-bliss",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T20:39:35.997Z"
+}
