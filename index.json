@@ -12459,5 +12459,17 @@
     "cuisine": null,
     "totalTimeMin": 40,
     "shard": "v"
+  },
+  {
+    "slug": "vibrant-quick-british-spring-onions-fritters--thai",
+    "title": "Thai Spring Fritters",
+    "tags": [
+      "thai",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 20,
+    "shard": "v"
   }
 ]
