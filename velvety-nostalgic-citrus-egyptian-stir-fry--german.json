@@ -1,0 +1,77 @@
+{
+  "slug": "velvety-nostalgic-citrus-egyptian-stir-fry--german",
+  "title": "German Stir-Fried Schnitzel",
+  "description": "A classic German dish with a twist, this schnitzel recipe combines the traditional flavors of Germany with the quick and easy stir-fry technique.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "non-vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "veal schnitzel",
+      "amount": "4 pieces",
+      "notes": "pork or chicken can be substituted"
+    },
+    {
+      "name": "velvety balsamic glaze",
+      "amount": "1/4 cup",
+      "notes": "or regular balsamic glaze"
+    },
+    {
+      "name": "egyptian cumin",
+      "amount": "1 tsp",
+      "notes": "or regular cumin"
+    },
+    {
+      "name": "citrus zest",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "stir-fry oil",
+      "amount": "2 tbsp",
+      "notes": "or vegetable oil"
+    },
+    {
+      "name": "fry onions",
+      "amount": "1 medium",
+      "notes": "any color"
+    },
+    {
+      "name": "fry bell peppers",
+      "amount": "1 medium",
+      "notes": "any color"
+    }
+  ],
+  "instructions": [
+    "1. Season the schnitzel with salt, pepper and egyptian cumin.",
+    "2. In a large skillet, heat the stir-fry oil over medium-high heat.",
+    "3. Fry the schnitzel until golden brown and cook through.",
+    "4. In a separate pan, stir-fry the onions and bell peppers until tender.",
+    "5. Add the velvety balsamic glaze to the pan and stir to combine.",
+    "6. Serve the schnitzel with the stir-fried vegetables and citrus zest.",
+    "7. Garnish with fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-cuisine",
+    "schnitzel",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-nostalgic-citrus-egyptian-stir-fry--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T07:26:50.609Z"
+}
