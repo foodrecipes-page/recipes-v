@@ -10759,17 +10759,14 @@
   },
   {
     "slug": "vividly-caramelized-chinese-pitted-dates-jjigae",
-    "title": "Vividly Caramelized Chinese Pitted Dates Jjigae",
+    "title": "Caramelized Date Jjigae",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "sous-vide",
-      "under-30",
-      "vegetarian",
-      "weeknight"
+      "korean-cuisine",
+      "sweet-and-savory",
+      "date-based"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 65,
+    "cuisine": "korean",
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
@@ -12518,6 +12515,46 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 25,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-crunchy-italian-chuck-roast-trofie--indian",
+    "title": "Indian-Style Roast Chuck with Trofie Pasta",
+    "tags": [
+      "indian",
+      "roast-chuck",
+      "trofie-pasta",
+      "tomato-sauce"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 135,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-snappy-moroccan-kabanos-skewers--vegan",
+    "title": "Spicy Vegan Kebabs",
+    "tags": [
+      "vegan",
+      "kebabs",
+      "grilled",
+      "mexican"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 20,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-earthy-japanese-noodles-udon--italian",
+    "title": "Earthly Udon Pasta",
+    "tags": [
+      "italian",
+      "pastadishes",
+      "udon",
+      "earthytone",
+      "japaneseflair"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
     "shard": "v"
   }
 ]
