@@ -12505,5 +12505,19 @@
     "cuisine": "german",
     "totalTimeMin": 45,
     "shard": "v"
+  },
+  {
+    "slug": "vibrant-egyptian-fish-skewers--japanese",
+    "title": "Japanese Grilled Fish Skewers with Egyptian Spices",
+    "tags": [
+      "japanese",
+      "grilled",
+      "fish",
+      "skewers",
+      "european"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "v"
   }
 ]
