@@ -1,0 +1,88 @@
+{
+  "slug": "vibrant-smoky-croatian-chicken-skewers--keto",
+  "title": "Smoky Croatian Chicken Skewers",
+  "description": "A keto-approved twist on traditional Croatian skewers, featuring smoky chicken and a vibrant flavor profile.",
+  "cuisine": "Croatian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Vibrant",
+      "amount": "1 tablespoon",
+      "notes": "smoked paprika"
+    },
+    {
+      "name": "Croatian",
+      "amount": "1 tablespoon",
+      "notes": "paprika"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10 wooden skewers",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, vibrant, Croatian, salt, and pepper.",
+    "Add the chicken to the bowl and toss to coat.",
+    "Thread the chicken onto the skewers, leaving a small space between each piece.",
+    "Grill the skewers for 8-10 minutes per side, or until the chicken is cooked through.",
+    "Brush the skewers with lemon juice during the last minute of cooking.",
+    "Serve hot, garnished with additional vibrant and lemon wedges if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoky",
+    "croatian",
+    "chicken",
+    "keto",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 34,
+    "carbs": 5,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-smoky-croatian-chicken-skewers--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T17:48:08.808Z"
+}
