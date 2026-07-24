@@ -1,0 +1,81 @@
+{
+  "slug": "vibrant-crispy-korean-tofu-dumplings",
+  "title": "Crispy Korean Tofu Dumplings",
+  "description": "A crispy and flavorful Asian-inspired dish featuring pan-fried dumplings filled with marinated tofu, perfect for a quick and satisfying meal.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Vibrant vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "Dumplings",
+      "amount": "20-25 pieces",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp, grated"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup, thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Prepare the marinade by whisking together soy sauce, rice vinegar, and ginger in a shallow dish.",
+    "Cut the tofu into small cubes and add it to the marinade. Let it sit for at least 15 minutes.",
+    "Heat 1/4 cup of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the dumplings to the skillet and cook until the bottom is golden brown (about 2-3 minutes).",
+    "Flip the dumplings and cook for an additional 2-3 minutes.",
+    "Remove the dumplings from the skillet and set them aside on a plate.",
+    "Increase the heat to high and add the remaining 1/4 cup of vegetable oil to the skillet.",
+    "Add the tofu to the skillet and cook until golden brown (about 3-4 minutes).",
+    "Add the green onions to the skillet and cook for an additional minute.",
+    "Serve the tofu and green onions on top of the crispy dumplings."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "tofu",
+    "dumplings",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-crispy-korean-tofu-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T00:24:17.184Z"
+}
