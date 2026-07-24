@@ -1,0 +1,80 @@
+{
+  "slug": "velvety-fried-kenyan-sardines-skewers--chinese",
+  "title": "Kenyan Sardine Skewers with Fried Velvety Sauce",
+  "description": "A fusion twist on traditional Chinese cuisine, this recipe combines the bold flavors of Kenya with the comforting taste of sardines. Serve as a snack or appetizer.",
+  "cuisine": "chinese",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sardines",
+      "amount": "1 can (drained and flaked)"
+    },
+    {
+      "name": "kenyan seasoning blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "velvety sauce",
+      "amount": "1/4 cup (store-bought or homemade)"
+    },
+    {
+      "name": "fried shallots",
+      "amount": "1/4 cup (store-bought or homemade)"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10-12"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread sardine mixture onto bamboo skewers.",
+    "Brush skewers with sesame oil and season with Kenyan seasoning blend.",
+    "Grill skewers for 2-3 minutes per side, or until cooked through.",
+    "Meanwhile, mix fried shallots and velvety sauce in a small bowl.",
+    "Serve sardine skewers with fried velvety sauce and garnish with chopped cilantro and lemon wedges.",
+    "Drizzle with soy sauce and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "chinese",
+    "fusion",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-fried-kenyan-sardines-skewers--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T00:52:49.699Z"
+}
