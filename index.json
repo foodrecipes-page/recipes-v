@@ -7279,18 +7279,16 @@
   },
   {
     "slug": "vibrant-crispy-korean-tofu-dumplings",
-    "title": "Vibrant Crispy Korean Tofu Dumplings",
+    "title": "Crispy Korean Tofu Dumplings",
     "tags": [
-      "crispy",
-      "fodmap-friendly",
-      "garlicky",
-      "gluten-free",
-      "korean-food",
-      "meal-prep",
-      "vegetarian"
+      "korean",
+      "tofu",
+      "dumplings",
+      "vegan",
+      "gluten-free"
     ],
-    "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
@@ -12273,15 +12271,14 @@
   },
   {
     "slug": "vibrant-light-canadian-poppy-seed-pilaf--italian",
-    "title": "Italian Pilaf with Seed Crusted Veggies",
+    "title": "Italian Seed Pilaf",
     "tags": [
       "italian",
       "pilaf",
-      "seeds",
-      "vegetarian"
+      "seeds"
     ],
     "cuisine": "italian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
@@ -12618,6 +12615,19 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 20,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-winey-argentinian-almond-butter-hash--mexican",
+    "title": "Argentinian-Style Hash Browns",
+    "tags": [
+      "mexican",
+      "argentinian",
+      "hash-browns",
+      "breakfast"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
     "shard": "v"
   }
 ]
