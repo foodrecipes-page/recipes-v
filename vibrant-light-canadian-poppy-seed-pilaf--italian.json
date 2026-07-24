@@ -1,76 +1,67 @@
 {
   "slug": "vibrant-light-canadian-poppy-seed-pilaf--italian",
-  "title": "Italian Pilaf with Seed Crusted Veggies",
-  "description": "A flavorful Italian pilaf dish loaded with seed crusted vegetables, a perfect side dish for any Italian meal.",
+  "title": "Italian Seed Pilaf",
+  "description": "A simple and flavorful Italian-inspired dish made with pilaf, poppy seeds, and a hint of Canadian spices.",
   "cuisine": "italian",
-  "diet": null,
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
-      "name": "vibrant pilaf",
+      "name": "Pilaf",
       "amount": "1 cup"
     },
     {
-      "name": "light olive oil",
-      "amount": "2 tbsp",
-      "notes": "for sautéing"
+      "name": "Poppy seeds",
+      "amount": "2 tbsp"
     },
     {
-      "name": "canadian bacon",
-      "amount": "6 slices",
-      "notes": "seed crusted"
+      "name": "Canadian seed",
+      "amount": "1 tsp"
     },
     {
-      "name": "poppy seeds",
-      "amount": "2 tbsp",
-      "notes": "for seed crust"
+      "name": "Vibrant",
+      "amount": "2 cups water"
     },
     {
-      "name": "seed",
-      "amount": "1/4 cup",
-      "notes": "additional for garnish"
+      "name": "Light olive oil",
+      "amount": "2 tbsp"
     },
     {
-      "name": "salt",
-      "amount": "1 tsp",
-      "notes": "to taste"
+      "name": "Salt",
+      "amount": "to taste"
     },
     {
-      "name": "pepper",
-      "amount": "1 tsp",
-      "notes": "to taste"
+      "name": "Fresh parsley",
+      "amount": "chopped (optional)"
     }
   ],
   "instructions": [
-    "Preheat oven to 375°F (190°C).",
-    "Cut the Canadian bacon into small pieces and place on a baking sheet for crusting.",
-    "Mix the poppy seeds and a pinch of salt and pepper on a plate.",
-    "Roll the Canadian bacon pieces in the seed mixture to coat.",
-    "Heat the olive oil in a large skillet over medium-high heat.",
-    "Add the seed crusted Canadian bacon pieces and sear until golden brown.",
-    "Add the pilaf to the skillet and stir to combine with the Canadian bacon.",
-    "Transfer the skillet to the oven and bake for 15 minutes.",
-    "Garnish with additional poppy seeds and serve hot."
+    "Heat the oil in a medium saucepan over medium heat.",
+    "Add the Canadian seed and cook for 1 minute.",
+    "Add the pilaf and cook for 2-3 minutes, until slightly toasted.",
+    "Add the water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes.",
+    "Stir in the poppy seeds and season with salt to taste.",
+    "Serve hot, garnished with chopped parsley if desired."
   ],
-  "prepTimeMin": 10,
+  "prepTimeMin": 5,
   "cookTimeMin": 20,
-  "totalTimeMin": 30,
+  "totalTimeMin": 25,
   "servings": 4,
-  "difficulty": "medium",
+  "difficulty": "easy",
   "tags": [
     "italian",
     "pilaf",
-    "seeds",
-    "vegetarian"
+    "seeds"
   ],
   "nutrition": {
-    "calories": 250,
-    "protein": 15,
-    "carbs": 30,
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
     "fat": 10
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-light-canadian-poppy-seed-pilaf--italian",
   "providerUsed": "groq",
-  "createdAt": "2026-07-19T00:12:12.428Z"
+  "createdAt": "2026-07-20T00:12:15.629Z"
 }
