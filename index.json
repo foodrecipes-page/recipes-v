@@ -12643,5 +12643,44 @@
     "cuisine": "chinese",
     "totalTimeMin": 18,
     "shard": "v"
+  },
+  {
+    "slug": "vegetable-essence-soup--french",
+    "title": "French Vegetable Essence Soup",
+    "tags": [
+      "french",
+      "soup",
+      "vegetable"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-green-japanese-fenugreek-ramen-shio--thai",
+    "title": "Spicy Thai Ramen Stir Fry",
+    "tags": [
+      "thai",
+      "vegetarian",
+      "ramen",
+      "stir-fry",
+      "easy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 18,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-garlicky-melon-stir-fry--italian",
+    "title": "Italian Melon and Garlic Stir Fry",
+    "tags": [
+      "italian",
+      "melon",
+      "garlic",
+      "stirfry"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 10,
+    "shard": "v"
   }
 ]
