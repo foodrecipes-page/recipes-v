@@ -1,0 +1,71 @@
+{
+  "slug": "vibrant-steamed-chinese-rhubarb-mushimono--vegan",
+  "title": "Vibrant Vegan Stir Fry",
+  "description": "A colorful and nutritious stir fry made with a variety of vegetables, perfect for a quick and easy meal.",
+  "cuisine": "asian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushimono mushrooms",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "chinese broccoli",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "rhubarb",
+      "amount": "150g",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "vibrant sesame oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce (make sure it's vegan)",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "steamed rice",
+      "amount": "200g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a wok or large skillet over medium-high heat.",
+    "Add the mushrooms and broccoli and stir-fry for 2-3 minutes.",
+    "Add the rhubarb and stir-fry for another 2-3 minutes.",
+    "Add the soy sauce and stir-fry for 1 minute.",
+    "Serve the stir-fry over steamed rice.",
+    "Garnish with sesame seeds and chopped scallions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "vegan",
+    "asian",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-steamed-chinese-rhubarb-mushimono--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T04:19:19.375Z"
+}
