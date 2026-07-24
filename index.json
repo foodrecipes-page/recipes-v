@@ -7574,18 +7574,15 @@
   },
   {
     "slug": "vibrant-earthy-egyptian-lentil-stew",
-    "title": "Vibrant Earthy Egyptian Lentil Stew",
+    "title": "Egyptian Lentil Stew",
     "tags": [
-      "copper-pot",
-      "gluten-free",
-      "hearty-stew",
-      "one-pot",
+      "lentil",
+      "stew",
       "vegetarian",
-      "weeknight-dinner",
-      "whole30-friendly"
+      "easymeal"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "v"
   },
   {
@@ -12681,6 +12678,19 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 10,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-steamed-chinese-rhubarb-mushimono--vegan",
+    "title": "Vibrant Vegan Stir Fry",
+    "tags": [
+      "stir-fry",
+      "vegan",
+      "asian",
+      "quick"
+    ],
+    "cuisine": "asian",
+    "totalTimeMin": 25,
     "shard": "v"
   }
 ]
