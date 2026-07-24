@@ -12692,5 +12692,31 @@
     "cuisine": "asian",
     "totalTimeMin": 25,
     "shard": "v"
+  },
+  {
+    "slug": "velvety-fried-kenyan-sardines-skewers--french",
+    "title": "Pan-Seared Sardines with Kenyan Skewer Salad",
+    "tags": [
+      "french",
+      "fish",
+      "skewers",
+      "sardines"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-egyptian-fish-skewers--thai",
+    "title": "Spicy Fish Skewers with Thai Vibes",
+    "tags": [
+      "thai",
+      "fish",
+      "skewers",
+      "grilled"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 27,
+    "shard": "v"
   }
 ]
