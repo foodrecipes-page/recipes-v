@@ -5108,16 +5108,14 @@
   },
   {
     "slug": "velvety-smoky-croatian-cod-stew",
-    "title": "Velvety Smoky Croatian Cod Stew",
+    "title": "Cod with Smoky Velvety Stew",
     "tags": [
-      "cod",
-      "lazy-sunday",
-      "mediterranean",
-      "one-pot",
+      "fish",
+      "stew",
       "smoky"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 50,
+    "cuisine": "European",
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
@@ -12731,6 +12729,32 @@
     ],
     "cuisine": null,
     "totalTimeMin": 22,
+    "shard": "v"
+  },
+  {
+    "slug": "vividly-smoky-japanese-cabbage-okonomiyaki--mexican",
+    "title": "Smoky Okonomiyaki Cabbage Tacos",
+    "tags": [
+      "mexican",
+      "japanese",
+      "veggie",
+      "tacos"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 27,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-canadian-chicken-stew--italian",
+    "title": "Chicken and Stew Velvety Pasta",
+    "tags": [
+      "italian",
+      "pasta",
+      "chicken",
+      "stew"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
     "shard": "v"
   }
 ]
