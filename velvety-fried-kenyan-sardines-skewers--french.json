@@ -1,0 +1,79 @@
+{
+  "slug": "velvety-fried-kenyan-sardines-skewers--french",
+  "title": "Pan-Seared Sardines with Kenyan Skewer Salad",
+  "description": "A French-inspired dish featuring pan-seared sardines served with a refreshing salad made with Kenyan-style skewers.",
+  "cuisine": "french",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sardines",
+      "amount": "12",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "kenyan skewers",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for pan-searing"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium-high heat.",
+    "Season the sardines with salt and pepper.",
+    "Add olive oil to the skillet and swirl to coat.",
+    "Sear the sardines for 2-3 minutes on each side, until golden brown.",
+    "Remove the sardines from the skillet and set aside.",
+    "In the same skillet, add the Kenyan skewers and cook for 1-2 minutes, until lightly toasted.",
+    "In a separate bowl, whisk together lemon juice and a pinch of salt.",
+    "To assemble the salad, place the cooked skewers on a plate, top with a sardine, and drizzle with lemon juice.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "fish",
+    "skewers",
+    "sardines"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 6,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-fried-kenyan-sardines-skewers--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T05:01:42.720Z"
+}
