@@ -1,0 +1,57 @@
+{
+  "slug": "velvety-italian-milk-chocolate-mousse--mexican",
+  "title": "Mexican Chocolate Mousse",
+  "description": "A rich and creamy Mexican-inspired chocolate mousse dessert, combines the velvety texture with the deep flavor of Italian chocolate.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Velvety Chocolate",
+      "amount": "250g"
+    },
+    {
+      "name": "Italian Dark Chocolate",
+      "amount": "100g"
+    },
+    {
+      "name": "Milk",
+      "amount": "120ml"
+    },
+    {
+      "name": "Chocolate Chips",
+      "amount": "20g",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Melt the velvety chocolate and Italian dark chocolate together in a double boiler, heat to 105°F.",
+    "Whisk in the milk until well combined.",
+    "Beat the mixture until it's smooth and creamy.",
+    "Taste and adjust sweetness if needed.",
+    "Pour the mixture into individual serving cups.",
+    "Cover and refrigerate for at least 2 hours or until chilled.",
+    "Garnish with chocolate chips if desired.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chocolate",
+    "mousse",
+    "mexican"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 15,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-italian-milk-chocolate-mousse--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T22:03:14.245Z"
+}
