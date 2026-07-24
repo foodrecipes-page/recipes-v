@@ -1,0 +1,81 @@
+{
+  "slug": "velvety-winey-egyptian-beurre-noisette-skillet--keto",
+  "title": "Pan-Seared Scallops with Egyptian Butter Sauce",
+  "description": "A keto friendly dish featuring pan-seared scallops in an Egyptian butter sauce. This recipe combines the richness of beurre noisette with the winey flavor of velvety wine.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Scallops",
+      "amount": "12",
+      "notes": null
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "beurre noisette"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "White wine",
+      "amount": "1/4 cup",
+      "notes": "velvety"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Skillet",
+      "amount": "",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "1. Heat the skillet over medium-high heat.",
+    "2. Pat the scallops dry with paper towels and season with salt and pepper.",
+    "3. Add the butter to the skillet and let it melt.",
+    "4. Add the garlic and sauté for 1 minute.",
+    "5. Add the scallops and sear for 2-3 minutes per side, until cooked through.",
+    "6. Remove the scallops from the skillet and set aside.",
+    "7. Add the white wine to the skillet and let it simmer for 2-3 minutes.",
+    "8. Stir in the beurre noisette and cook for an additional minute.",
+    "9. Return the scallops to the skillet and toss with the Egyptian butter sauce.",
+    "10. Garnish with parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "seafood",
+    "dinner",
+    "scallops",
+    "butter sauce"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 4,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-winey-egyptian-beurre-noisette-skillet--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T07:03:10.215Z"
+}
