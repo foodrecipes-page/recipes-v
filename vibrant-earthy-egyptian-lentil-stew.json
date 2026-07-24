@@ -1,0 +1,92 @@
+{
+  "slug": "vibrant-earthy-egyptian-lentil-stew",
+  "title": "Egyptian Lentil Stew",
+  "description": "Hearty and flavorful stew originating from Egypt, made with lentils and a blend of vibrant spices.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentil",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "egyptian",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "stew",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "tomato",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic, cook until onion is translucent.",
+    "Add carrot and cook for 5 minutes.",
+    "Add lentil, stew, water, cumin, coriander, and tomato.",
+    "Bring to a boil, then reduce heat to low and simmer for 30 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lentil",
+    "stew",
+    "vegetarian",
+    "easymeal"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-earthy-egyptian-lentil-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T04:24:13.172Z"
+}
