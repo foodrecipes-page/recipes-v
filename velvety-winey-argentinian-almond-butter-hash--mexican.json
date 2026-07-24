@@ -1,0 +1,69 @@
+{
+  "slug": "velvety-winey-argentinian-almond-butter-hash--mexican",
+  "title": "Argentinian-Style Hash Browns",
+  "description": "A twist on traditional hash browns, infused with the flavors of Argentina. Crispy on the outside, fluffy on the inside.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "hash",
+      "amount": "2 cups",
+      "notes": "preferably a day-old hash"
+    },
+    {
+      "name": "almond",
+      "amount": "1/4 cup, sliced",
+      "notes": "for added crunch"
+    },
+    {
+      "name": "velvety",
+      "amount": "2 tablespoons",
+      "notes": "Argentinian-style velvety sauce"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted and softened"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Grate the hash and place it in a bowl.",
+    "Add sliced almond and velvety sauce to the bowl and mix well.",
+    "Add softened butter to the bowl and mix until the hash is evenly coated.",
+    "Transfer the mixture to a baking dish and shape it into a square.",
+    "Bake for 20-25 minutes, or until the top is golden brown and crispy.",
+    "Remove from the oven and let it cool for a few minutes.",
+    "Flip the hash brown over and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "argentinian",
+    "hash-browns",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-winey-argentinian-almond-butter-hash--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T23:58:40.195Z"
+}
