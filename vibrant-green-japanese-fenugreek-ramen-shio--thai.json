@@ -1,0 +1,62 @@
+{
+  "slug": "vibrant-green-japanese-fenugreek-ramen-shio--thai",
+  "title": "Spicy Thai Ramen Stir Fry",
+  "description": "A quick and flavorful Thai-inspired stir fry made with ramen noodles, vibrant green vegetables, and Japanese-style seasonings.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ramen noodles",
+      "amount": "1 package",
+      "notes": "preferably Japanese-style"
+    },
+    {
+      "name": "Vibrant green",
+      "amount": "1 cup",
+      "notes": "such as green beans or bell peppers"
+    },
+    {
+      "name": "Japanese shio ramen seasoning",
+      "amount": "2 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Fenugreek leaves",
+      "amount": "1/4 cup",
+      "notes": "optional, for added flavor"
+    }
+  ],
+  "instructions": [
+    "Cook the ramen noodles according to package instructions.",
+    "Heat 1 tablespoon of oil in a large skillet or wok over medium-high heat.",
+    "Add the vibrant green vegetables and cook until tender, about 3-4 minutes.",
+    "Add the cooked ramen noodles, Japanese shio ramen seasoning, and fenugreek leaves to the skillet.",
+    "Stir-fry everything together for 2-3 minutes, until well combined.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "vegetarian",
+    "ramen",
+    "stir-fry",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-green-japanese-fenugreek-ramen-shio--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T02:14:58.862Z"
+}
