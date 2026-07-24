@@ -1,0 +1,88 @@
+{
+  "slug": "velvety-smoky-croatian-cod-stew",
+  "title": "Cod with Smoky Velvety Stew",
+  "description": "A hearty stew made with cod, smoky flavors, and a hint of velvety texture.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "2 tsp",
+      "notes": "smoked to perfection"
+    },
+    {
+      "name": "velvety tomato paste",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped, medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for another minute.",
+    "Add cod fillets and cook until browned on both sides, about 5 minutes.",
+    "Add smoky paprika, velvety tomato paste, and stew. Stir well to combine.",
+    "Bring the mixture to a simmer and cook until the cod is cooked through, about 10-12 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve with lemon wedges on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "stew",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-smoky-croatian-cod-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T09:09:56.363Z"
+}
