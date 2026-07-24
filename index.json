@@ -12629,5 +12629,19 @@
     "cuisine": "mexican",
     "totalTimeMin": 35,
     "shard": "v"
+  },
+  {
+    "slug": "velvety-fried-kenyan-sardines-skewers--chinese",
+    "title": "Kenyan Sardine Skewers with Fried Velvety Sauce",
+    "tags": [
+      "kenyan",
+      "chinese",
+      "fusion",
+      "snack",
+      "appetizer"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 18,
+    "shard": "v"
   }
 ]
