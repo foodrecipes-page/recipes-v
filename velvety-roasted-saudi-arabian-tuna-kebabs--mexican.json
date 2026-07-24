@@ -1,0 +1,82 @@
+{
+  "slug": "velvety-roasted-saudi-arabian-tuna-kebabs--mexican",
+  "title": "Mexican Tuna Kebabs",
+  "description": "A flavorful and quick Mexican dish made with tuna, roasted vegetables, and a hint of Saudi Arabian spices.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tuna",
+      "amount": "1 can (5 oz)",
+      "notes": "drained and flaked"
+    },
+    {
+      "name": "Roasted Vegetables",
+      "amount": "1 cup",
+      "notes": "such as bell peppers, onions, and zucchini"
+    },
+    {
+      "name": "Saudi Arabian Spice Blend",
+      "amount": "1 tsp",
+      "notes": "such as cumin, coriander, and turmeric"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "freshly chopped"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a medium bowl, mix together tuna, roasted vegetables, Saudi Arabian spice blend, lime juice, and chili powder (if using).",
+    "Thread the tuna mixture onto skewers.",
+    "Brush the skewers with olive oil and season with salt and pepper.",
+    "Grill the kebabs for 2-3 minutes per side, or until cooked through.",
+    "Serve hot, garnished with chopped cilantro.",
+    "Optional: Serve with a side of Mexican rice or beans."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "kebabs",
+    "snack",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-roasted-saudi-arabian-tuna-kebabs--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T22:23:06.827Z"
+}
