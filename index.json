@@ -12593,5 +12593,31 @@
     "cuisine": "mexican",
     "totalTimeMin": 18,
     "shard": "v"
+  },
+  {
+    "slug": "vivid-dense-japanese-duck-gyoza--italian",
+    "title": "Pan-Seared Duck Gyoza with Italian Twist",
+    "tags": [
+      "italian",
+      "japanese",
+      "duck",
+      "gyoza"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-mexican-peas-elote-bowl--mexican",
+    "title": "Mexican Elote Bowl",
+    "tags": [
+      "mexican",
+      "grilled",
+      "corn",
+      "peas"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 20,
+    "shard": "v"
   }
 ]
