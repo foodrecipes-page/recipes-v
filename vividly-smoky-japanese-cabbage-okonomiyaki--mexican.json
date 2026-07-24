@@ -1,0 +1,74 @@
+{
+  "slug": "vividly-smoky-japanese-cabbage-okonomiyaki--mexican",
+  "title": "Smoky Okonomiyaki Cabbage Tacos",
+  "description": "A fusion of Japanese okonomiyaki and Mexican flavors in a crispy taco shell. Caramelized cabbage and smoky sauce add a sweet and savory twist to traditional tacos.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 medium head, thinly sliced"
+    },
+    {
+      "name": "okonomiyaki",
+      "amount": "1/2 package, crumbled"
+    },
+    {
+      "name": "smoky",
+      "amount": "1/4 cup, smoky sauce"
+    },
+    {
+      "name": "vividly",
+      "amount": "1/4 cup, vividly red cabbage slaw (see notes)"
+    },
+    {
+      "name": "japanese",
+      "amount": "2 tablespoons, Japanese rice vinegar"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10 corn tortillas"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup, shredded Monterey Jack cheese"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup, sour cream"
+    }
+  ],
+  "instructions": [
+    "Caramelize the cabbage in a pan over medium heat for 10 minutes.",
+    "Add the crumbled okonomiyaki and cook for an additional 2 minutes.",
+    "In a small bowl, whisk together the Japanese rice vinegar and smoky sauce.",
+    "Add the vividly red cabbage slaw to the bowl and toss to combine.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the cabbage and okonomiyaki mixture onto a tortilla, followed by a spoonful of the slaw and a sprinkle of cheese.",
+    "Serve with a dollop of sour cream on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "japanese",
+    "veggie",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vividly-smoky-japanese-cabbage-okonomiyaki--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T08:47:14.557Z"
+}
