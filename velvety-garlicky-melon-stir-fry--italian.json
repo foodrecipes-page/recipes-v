@@ -1,0 +1,52 @@
+{
+  "slug": "velvety-garlicky-melon-stir-fry--italian",
+  "title": "Italian Melon and Garlic Stir Fry",
+  "description": "A refreshing twist on traditional Italian stir fries, featuring sweet melon and savory garlic.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Melon",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Velvety",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    }
+  ],
+  "instructions": [
+    "Heat the velvety in a large skillet over medium heat.",
+    "Add the minced garlic and cook for 1-2 minutes, until fragrant.",
+    "Add the diced melon and cook for an additional 2-3 minutes, until slightly caramelized.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "melon",
+    "garlic",
+    "stirfry"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "carbs": 20,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-garlicky-melon-stir-fry--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T02:50:44.137Z"
+}
