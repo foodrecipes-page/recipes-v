@@ -1778,15 +1778,15 @@
   },
   {
     "slug": "velvety-comforting-australian-chuck-roast-roast",
-    "title": "Velvety Comforting Australian Chuck Roast",
+    "title": "Australian Chuck Roast",
     "tags": [
       "australian",
-      "comfort-food",
-      "one-pan",
-      "paleo"
+      "beef",
+      "comforting",
+      "roast"
     ],
     "cuisine": "australian",
-    "totalTimeMin": 195,
+    "totalTimeMin": 200,
     "shard": "v"
   },
   {
@@ -12717,6 +12717,20 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 27,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-winey-egyptian-beurre-noisette-skillet--keto",
+    "title": "Pan-Seared Scallops with Egyptian Butter Sauce",
+    "tags": [
+      "keto",
+      "seafood",
+      "dinner",
+      "scallops",
+      "butter sauce"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 22,
     "shard": "v"
   }
 ]
