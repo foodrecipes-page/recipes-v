@@ -1,0 +1,72 @@
+{
+  "slug": "vibrant-mexican-peas-elote-bowl--mexican",
+  "title": "Mexican Elote Bowl",
+  "description": "A flavorful Mexican-inspired bowl filled with grilled corn, peas, and vibrant flavors.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Grilled Corn",
+      "amount": "2 ears",
+      "notes": "Husked and grilled"
+    },
+    {
+      "name": "Frozen Peas",
+      "amount": "1 cup",
+      "notes": "Thawed"
+    },
+    {
+      "name": "Mexican Seasoning",
+      "amount": "1 tsp",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Vibrant Salsa",
+      "amount": "1/2 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Shredded Cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or Cheddar"
+    },
+    {
+      "name": "Bowl",
+      "amount": "1",
+      "notes": "Large serving bowl"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Grill corn for 10-12 minutes, turning occasionally.",
+    "3. Meanwhile, thaw frozen peas in a bowl of cold water.",
+    "4. In a small bowl, mix together Mexican seasoning and vibrant salsa.",
+    "5. Once corn is cooked, slather on the salsa-seasoning mixture.",
+    "6. Divide peas among bowls.",
+    "7. Slice grilled corn and place on top of peas.",
+    "8. Sprinkle shredded cheese over the corn and peas.",
+    "9. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "grilled",
+    "corn",
+    "peas"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-mexican-peas-elote-bowl--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T23:02:36.174Z"
+}
