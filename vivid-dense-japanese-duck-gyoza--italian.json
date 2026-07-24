@@ -1,0 +1,73 @@
+{
+  "slug": "vivid-dense-japanese-duck-gyoza--italian",
+  "title": "Pan-Seared Duck Gyoza with Italian Twist",
+  "description": "A fusion of Italian and Japanese flavors in this crispy pan-seared duck gyoza dish.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck breast",
+      "amount": "1 lb",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "gyoza wrappers",
+      "amount": "20-25 wrappers",
+      "notes": "available at most Asian grocery stores"
+    },
+    {
+      "name": "vivid onions",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "dense garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "japanese sesame oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing gyoza"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium-high heat.",
+    "Brush the gyoza wrappers with sesame oil on both sides.",
+    "Place a duck breast strip in the center of each wrapper.",
+    "Add a few slices of onion and a sprinkle of garlic on top of the duck.",
+    "Fold the wrapper in half to form a triangle and press the edges together to seal.",
+    "Heat 1-2 tbsp of olive oil in the preheated skillet and add the gyoza, seam-side down.",
+    "Cook for 2-3 minutes or until the bottom is golden brown.",
+    "Flip the gyoza over and cook for an additional 2-3 minutes or until the other side is also golden brown.",
+    "Serve hot with parmesan cheese sprinkled on top.",
+    "Optional: Serve with a side of marinara sauce or a simple green salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "japanese",
+    "duck",
+    "gyoza"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vivid-dense-japanese-duck-gyoza--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T23:01:33.924Z"
+}
