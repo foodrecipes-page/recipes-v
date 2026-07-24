@@ -12568,5 +12568,30 @@
     "cuisine": "mexican",
     "totalTimeMin": 35,
     "shard": "v"
+  },
+  {
+    "slug": "velvety-italian-milk-chocolate-mousse--mexican",
+    "title": "Mexican Chocolate Mousse",
+    "tags": [
+      "chocolate",
+      "mousse",
+      "mexican"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 120,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-roasted-saudi-arabian-tuna-kebabs--mexican",
+    "title": "Mexican Tuna Kebabs",
+    "tags": [
+      "mexican",
+      "kebabs",
+      "snack",
+      "fish"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 18,
+    "shard": "v"
   }
 ]
