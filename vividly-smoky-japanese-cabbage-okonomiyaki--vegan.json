@@ -1,0 +1,72 @@
+{
+  "slug": "vividly-smoky-japanese-cabbage-okonomiyaki--vegan",
+  "title": "Vegan Smoky Okonomiyaki Cabbage Delight",
+  "description": "A vegan twist on the Japanese classic, this smoky okonomiyaki cabbage delight is a flavorful and satisfying dish.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": "1 medium head, shredded"
+    },
+    {
+      "name": "Vegan okonomiyaki sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Smoked tofu",
+      "amount": "1 block, crumbled"
+    },
+    {
+      "name": "Japanese rice flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Chopped green onions",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together rice flour, okonomiyaki sauce, sesame oil, and soy sauce.",
+    "Add the shredded cabbage and crumbled smoked tofu to the bowl and mix well.",
+    "Heat a non-stick pan with a small amount of oil over medium heat.",
+    "Using a 1/4 cup measuring cup, scoop the cabbage mixture into the pan.",
+    "Cook for 2-3 minutes or until the bottom is golden brown.",
+    "Flip the okonomiyaki and cook for another 2-3 minutes or until golden brown.",
+    "Repeat with the remaining cabbage mixture.",
+    "Serve hot and garnish with chopped green onions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "japanese",
+    "smoky",
+    "cabbage",
+    "okonomiyaki"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vividly-smoky-japanese-cabbage-okonomiyaki--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T04:42:07.177Z"
+}
