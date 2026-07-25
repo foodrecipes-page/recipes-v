@@ -1,0 +1,87 @@
+{
+  "slug": "vivid-peruvian-redcurrant-skewers--japanese",
+  "title": "Japanese Skewers with Vivid Glaze",
+  "description": "Tasty and easy-to-make Japanese skewers glazed with a sweet vivid sauce. Perfect for a quick snack or light meal.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pork, thinly sliced",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Onion, thinly sliced",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Bell pepper, thinly sliced",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Mushroom, thinly sliced",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Vivid jam",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Redcurrant, chopped",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Thread pork, onion, bell pepper, and mushroom onto skewers.",
+    "3. Brush skewers with sesame oil and season with salt and pepper.",
+    "4. Grill skewers for 8-10 minutes, turning occasionally.",
+    "5. Meanwhile, mix vivid jam and soy sauce in a small bowl.",
+    "6. Brush skewers with vivid glaze during last 2 minutes of grilling.",
+    "7. Garnish with chopped redcurrant.",
+    "8. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "snack",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 15,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vivid-peruvian-redcurrant-skewers--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T03:06:14.512Z"
+}
