@@ -1,0 +1,97 @@
+{
+  "slug": "vibrant-kenyan-chicken-stew--chinese",
+  "title": "Kenyan-Style Chicken Stew",
+  "description": "A fusion of Chinese and Kenyan flavors in this hearty chicken stew. The vibrant spices will transport your taste buds to the markets of Nairobi.",
+  "cuisine": "Chinese",
+  "diet": [
+    "meat",
+    "poultry"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Kenyan-style stew spice blend",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vibrant vegetable mix",
+      "amount": "1 cup",
+      "notes": "Your favorite colorful mix of bell peppers, carrots, and snap peas"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large Dutch oven over medium-high heat.",
+    "Add the chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Remove the chicken from the pot and set aside.",
+    "Add the remaining 1 tablespoon of oil, then sauté the onion, ginger, and garlic until softened, about 5 minutes.",
+    "Add the Kenyan-style stew spice blend and cook for 1 minute.",
+    "Add the vibrant vegetable mix and cook until slightly tender, about 3-4 minutes.",
+    "Add the chicken broth, soy sauce, and honey. Stir to combine.",
+    "Return the chicken to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, until the chicken is cooked through and the vegetables are tender, about 25-30 minutes.",
+    "Serve hot, garnished with fresh cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "stew",
+    "kenyan",
+    "chinese",
+    "vibrant"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-kenyan-chicken-stew--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T13:13:34.596Z"
+}
