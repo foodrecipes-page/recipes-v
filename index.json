@@ -12878,5 +12878,17 @@
     "cuisine": null,
     "totalTimeMin": 10,
     "shard": "v"
+  },
+  {
+    "slug": "velvety-canadian-chicken-stew--french",
+    "title": "Chicken Velouté Stew",
+    "tags": [
+      "french",
+      "chicken",
+      "stew"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
+    "shard": "v"
   }
 ]
