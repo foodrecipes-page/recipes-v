@@ -1,0 +1,81 @@
+{
+  "slug": "vegan-roasted-dutch-peanuts-roast",
+  "title": "Vegan Dutch Crunch Peanut Roast",
+  "description": "A delicious vegan take on traditional Dutch crunch, featuring roasted peanuts for added texture and flavor. Perfect as a snack or light meal.",
+  "cuisine": null,
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Peanuts",
+      "amount": "1 cup",
+      "notes": "roasted"
+    },
+    {
+      "name": "Canned Chickpeas",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Vegan Mayo",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Nutritional Yeast",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a bowl, mash the chickpeas using a fork or a potato masher.",
+    "Add the vegan mayo, nutritional yeast (if using), salt, and black pepper to the bowl. Mix well.",
+    "Stir in the roasted peanuts.",
+    "Transfer the mixture to a baking dish and drizzle with olive oil.",
+    "Roast in the preheated oven for 20-25 minutes, or until the top is lightly browned.",
+    "Remove from the oven and let cool slightly.",
+    "Serve warm or at room temperature.",
+    "Garnish with additional peanuts and nutritional yeast if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "roasted",
+    "dutch",
+    "peanuts",
+    "roast"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": "8g",
+    "carbs": "20g",
+    "fat": "14g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vegan-roasted-dutch-peanuts-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T12:30:26.558Z"
+}
