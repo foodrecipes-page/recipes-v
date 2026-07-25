@@ -1,0 +1,79 @@
+{
+  "slug": "velvety-syrian-uni-tagine",
+  "title": "Syrian Tagine with Uni Velvety Sauce",
+  "description": "A rich and flavorful Middle Eastern dish featuring tender uni and a velvety sauce, all slow-cooked in a traditional tagine.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "uni",
+      "amount": "8 oz",
+      "notes": "fresh"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "syrian tagine",
+      "amount": "1 unit",
+      "notes": "traditionally clay"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "velvety sauce mix",
+      "amount": "1 cup",
+      "notes": "store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the uni with salt and pepper.",
+    "In a traditional clay tagine or Dutch oven, melt the vegan butter over medium heat.",
+    "Add the garlic and cook until fragrant, about 1 minute.",
+    "Add the uni and cook until tender, about 5 minutes.",
+    "Stir in the velvety sauce mix and lemon juice.",
+    "Transfer the tagine to the preheated oven and cook for 10-15 minutes, or until the sauce has thickened.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "seafood",
+    "gluten-free",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-syrian-uni-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T16:43:18.353Z"
+}
