@@ -1,0 +1,62 @@
+{
+  "slug": "vibrant-indian-tomato-curry--gluten-free",
+  "title": "Vibrant Indian Curry",
+  "description": "A flavorful and colorful Indian-inspired curry made with vibrant vegetables and spices. This dish is perfect for a gluten-free meal.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vibrant bell peppers",
+      "amount": "1 cup",
+      "notes": "any color, sliced"
+    },
+    {
+      "name": "Indian curry powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Curry sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add curry powder and cook for 1 minute, stirring constantly.",
+    "Add diced tomatoes and cook for 3 minutes.",
+    "Add sliced bell peppers and cook for 5 minutes.",
+    "Stir in curry sauce and cook for an additional 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "curry",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-indian-tomato-curry--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T12:01:17.166Z"
+}
