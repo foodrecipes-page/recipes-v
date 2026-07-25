@@ -12838,5 +12838,20 @@
     "cuisine": "german",
     "totalTimeMin": 40,
     "shard": "v"
+  },
+  {
+    "slug": "vibrant-citrusy-greek-sausages-saganaki--italian",
+    "title": "Greek Sausage Saganaki Skillet",
+    "tags": [
+      "italian",
+      "greek",
+      "sausages",
+      "saganaki",
+      "skillet",
+      "dinner"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 30,
+    "shard": "v"
   }
 ]
