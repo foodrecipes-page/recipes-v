@@ -12800,5 +12800,33 @@
     "cuisine": "indian",
     "totalTimeMin": 30,
     "shard": "v"
+  },
+  {
+    "slug": "vibrant-crispy-korean-tofu-dumplings--german",
+    "title": "Vibrant Korean-Style Dumplings with Crispy Tofu",
+    "tags": [
+      "german",
+      "korean",
+      "dumplings",
+      "tofu",
+      "vegetarian"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
+    "slug": "vividly-crunchy-canadian-oats-pancakes--vegan",
+    "title": "Crunchy Canadian Oat Pancakes",
+    "tags": [
+      "vegan",
+      "breakfast",
+      "pancakes",
+      "oats",
+      "canadian"
+    ],
+    "cuisine": "North American",
+    "totalTimeMin": 30,
+    "shard": "v"
   }
 ]
