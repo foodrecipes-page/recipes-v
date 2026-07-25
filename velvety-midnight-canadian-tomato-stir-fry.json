@@ -1,0 +1,67 @@
+{
+  "slug": "velvety-midnight-canadian-tomato-stir-fry",
+  "title": "Velvety Midnight Stew",
+  "description": "A hearty stew made with tender Canadian beef and rich velvety sauce.",
+  "cuisine": "Canadian",
+  "diet": [
+    "beef",
+    "vegetarian-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canadian beef",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "midnight oil",
+      "amount": "2 tablespoons",
+      "notes": "use for sautéing"
+    },
+    {
+      "name": "velvety sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "tomato",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "stir",
+      "amount": "",
+      "notes": "no need for this ingredient, it's just for the name"
+    }
+  ],
+  "instructions": [
+    "1. Heat the midnight oil in a large Dutch oven over medium-high heat.",
+    "2. Add the Canadian beef to the pot and cook until browned, about 5 minutes.",
+    "3. Add the chopped tomato to the pot and cook for an additional 2 minutes.",
+    "4. Pour in the velvety sauce and stir to combine.",
+    "5. Bring the stew to a boil, then reduce the heat to low and simmer for 1.5 hours.",
+    "6. Season the stew with salt and pepper to taste.",
+    "7. Serve the Velvety Midnight Stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-midnight-canadian-tomato-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T21:16:41.934Z"
+}
