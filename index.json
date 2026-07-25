@@ -3632,16 +3632,14 @@
   },
   {
     "slug": "velvety-midnight-canadian-tomato-stir-fry",
-    "title": "Velvety Midnight Canadian Tomato Stir-fry",
+    "title": "Velvety Midnight Stew",
     "tags": [
-      "canadian",
-      "tomato-stir-fry",
-      "vegan-friendly",
-      "high-protein",
-      "midnight-craving"
+      "beef",
+      "stew",
+      "comfort-food"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 105,
     "shard": "v"
   },
   {
