@@ -1,0 +1,76 @@
+{
+  "slug": "velvety-catalan-beef-paella",
+  "title": "Classic Beef Paella",
+  "description": "A Spanish-inspired paella dish made with tender beef and flavorful saffron.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1 pound, cut into 1-inch pieces"
+    },
+    {
+      "name": "Paella",
+      "amount": "1 cup uncooked"
+    },
+    {
+      "name": "Catalan",
+      "amount": "2 tablespoons olive oil"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 can, diced"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 cup, halved"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large paella pan over medium-high heat.",
+    "Add the beef and cook until browned, about 5 minutes.",
+    "Add the garlic, tomato, and cherry tomatoes. Cook for 2 minutes.",
+    "Add the paella and stir to combine.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "paella",
+    "spanish",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-catalan-beef-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T16:38:21.483Z"
+}
