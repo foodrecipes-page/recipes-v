@@ -1,0 +1,81 @@
+{
+  "slug": "vivid-smoky-mexican-corn-tacos",
+  "title": "Smoky Tacos",
+  "description": "Delicious tacos with a smoky twist, perfect for a weeknight dinner.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "corn tortillas",
+      "amount": "8",
+      "notes": ""
+    },
+    {
+      "name": "smoky taco seasoning",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "black beans",
+      "amount": "1 can (15 ounces)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "diced bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "vivid diced tomatoes",
+      "amount": "1 can (14.5 ounces)",
+      "notes": "drained"
+    },
+    {
+      "name": "shredded cheese (Monterey Jack or Cheddar)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add the diced onion and bell pepper and cook until tender.",
+    "Add the black beans, taco seasoning, and vivid diced tomatoes. Cook for 2-3 minutes.",
+    "Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the bean mixture onto a tortilla and topping with shredded cheese and a dollop of sour cream.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "tacos",
+    "vegetarian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vivid-smoky-mexican-corn-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T17:35:38.419Z"
+}
