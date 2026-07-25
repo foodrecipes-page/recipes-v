@@ -12782,5 +12782,18 @@
     "cuisine": "Chinese",
     "totalTimeMin": 50,
     "shard": "v"
+  },
+  {
+    "slug": "velvety-canadian-chicken-stew--keto",
+    "title": "Creamy Chicken Stew",
+    "tags": [
+      "chicken",
+      "stew",
+      "keto",
+      "comfort-food"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 35,
+    "shard": "v"
   }
 ]
