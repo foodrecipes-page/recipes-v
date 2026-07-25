@@ -379,17 +379,16 @@
   },
   {
     "slug": "vegan-roasted-dutch-peanuts-roast",
-    "title": "Vegan Roasted Dutch Peanuts",
+    "title": "Vegan Dutch Crunch Peanut Roast",
     "tags": [
-      "dutch",
-      "gluten-free",
-      "peanuts",
+      "vegan",
       "roasted",
-      "snack",
-      "vegan"
+      "dutch",
+      "peanuts",
+      "roast"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 30,
+    "cuisine": null,
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
@@ -12755,6 +12754,19 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-indian-tomato-curry--gluten-free",
+    "title": "Vibrant Indian Curry",
+    "tags": [
+      "indian",
+      "curry",
+      "gluten-free",
+      "vegetarian"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 25,
     "shard": "v"
   }
 ]
