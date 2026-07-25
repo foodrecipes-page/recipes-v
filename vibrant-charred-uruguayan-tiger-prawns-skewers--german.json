@@ -1,0 +1,72 @@
+{
+  "slug": "vibrant-charred-uruguayan-tiger-prawns-skewers--german",
+  "title": "Tiger Prawns with Uruguayan-Style Skewers",
+  "description": "A delicious German-inspired dish featuring tiger prawns grilled to perfection on skewers with a hint of Uruguayan flair.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tiger prawns",
+      "amount": "1 pound",
+      "notes": "Shell-on"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10 wooden",
+      "notes": ""
+    },
+    {
+      "name": "Uruguayan sausage",
+      "amount": "1 pound",
+      "notes": "Chorizo-style"
+    },
+    {
+      "name": "Vibrant bell peppers",
+      "amount": "2",
+      "notes": "Any color"
+    },
+    {
+      "name": "Charred onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Alternate tiger prawns and Uruguayan sausage on skewers.",
+    "Place skewers on grill and cook for 8-10 minutes per side, or until prawns are pink and cooked through.",
+    "Meanwhile, brush charred onions and vibrant bell peppers with oil and season with salt and pepper.",
+    "Grill onions and bell peppers for 5-7 minutes per side, or until tender.",
+    "Garnish with fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 18,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "grill",
+    "prawns",
+    "skewers",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-charred-uruguayan-tiger-prawns-skewers--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T01:17:39.613Z"
+}
