@@ -1,0 +1,81 @@
+{
+  "slug": "velvety-canadian-chicken-stew--keto",
+  "title": "Creamy Chicken Stew",
+  "description": "A rich and creamy keto stew made with tender chicken and velvety sauce.",
+  "cuisine": "Canadian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken Breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Velvety Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Canadian Stew Meat",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large skillet over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the stew meat and cook until browned, about 5 minutes.",
+    "Add the mushrooms, onion, and garlic to the skillet and cook until the vegetables are tender.",
+    "Add the velvety sauce to the skillet and stir to combine.",
+    "Return the chicken to the skillet and stir to coat with the sauce.",
+    "Season with salt and pepper to taste.",
+    "Simmer the stew over low heat for 10-15 minutes, or until the chicken is cooked through.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "stew",
+    "keto",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 43,
+    "carbs": 5,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-canadian-chicken-stew--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T15:23:21.168Z"
+}
