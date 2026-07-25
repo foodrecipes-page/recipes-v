@@ -10717,17 +10717,15 @@
   },
   {
     "slug": "vivid-smoky-mexican-corn-tacos",
-    "title": "Vivid Smoky Mexican Corn Tacos",
+    "title": "Smoky Tacos",
     "tags": [
-      "kid-friendly",
       "mexican",
-      "non-vegetarian",
-      "quick",
-      "smoky",
-      "whole30-friendly"
+      "tacos",
+      "vegetarian",
+      "easy"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 25,
+    "cuisine": "mexican",
+    "totalTimeMin": 20,
     "shard": "v"
   },
   {
@@ -12789,6 +12787,18 @@
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-sweet-algerian-date-tagine--indian",
+    "title": "Sweet Algerian Date Tagine",
+    "tags": [
+      "indian",
+      "vegetarian",
+      "dessert"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 30,
     "shard": "v"
   }
 ]
