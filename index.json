@@ -12826,5 +12826,17 @@
     "cuisine": "North American",
     "totalTimeMin": 30,
     "shard": "v"
+  },
+  {
+    "slug": "vegetable-essence-soup--german",
+    "title": "German Vegetable Soup",
+    "tags": [
+      "german",
+      "soup",
+      "vegetable"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "v"
   }
 ]
