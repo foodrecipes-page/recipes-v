@@ -1,0 +1,84 @@
+{
+  "slug": "vibrant-crispy-korean-tofu-dumplings--german",
+  "title": "Vibrant Korean-Style Dumplings with Crispy Tofu",
+  "description": "A unique twist on traditional German cuisine, these vibrant Korean-style dumplings are filled with a tasty mixture of tofu and served with crispy tofu for a delicious and satisfying meal.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (12 oz)",
+      "notes": "firm, drained, and cut into small pieces"
+    },
+    {
+      "name": "dumplings",
+      "amount": "1 package (20-25 count)",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp",
+      "notes": "or gochugaru"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "vibrant sesame oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "crispy garlic",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "1. In a pan, heat 1 tbsp of vibrant sesame oil over medium heat.",
+    "2. Add the tofu and cook until golden brown, about 5 minutes.",
+    "3. In a separate pan, cook the dumplings according to package instructions.",
+    "4. In a bowl, mix together chili flakes, soy sauce, sugar, and green onions.",
+    "5. Add the cooked dumplings to the bowl and toss to coat.",
+    "6. Add the crispy garlic to the bowl and toss to combine.",
+    "7. To assemble the dish, place a portion of the dumplings on a plate and top with crispy tofu.",
+    "8. Drizzle with remaining sesame oil and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "korean",
+    "dumplings",
+    "tofu",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-crispy-korean-tofu-dumplings--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T19:58:14.487Z"
+}
