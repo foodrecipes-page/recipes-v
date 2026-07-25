@@ -1,13 +1,16 @@
 [
   {
     "slug": "valley-warm-roasted-italian-cheese-lasagna",
-    "title": "Warm Valley Lasagna",
+    "title": "Classic Italian-Style Lasagna",
     "tags": [
       "italian",
       "lasagna",
-      "vegetarian"
+      "cheese",
+      "pasta",
+      "dinner",
+      "classic"
     ],
-    "cuisine": "italian",
+    "cuisine": "Italian",
     "totalTimeMin": 60,
     "shard": "v"
   },
@@ -12889,6 +12892,43 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 45,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-slovakian-lime-stew--chinese",
+    "title": "Slovakian Beef Stew with a Twist",
+    "tags": [
+      "chinese-food",
+      "beef-stew",
+      "slovakian-peppers"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 45,
+    "shard": "v"
+  },
+  {
+    "slug": "vivid-peruvian-redcurrant-skewers--japanese",
+    "title": "Japanese Skewers with Vivid Glaze",
+    "tags": [
+      "grilled",
+      "snack",
+      "japanese"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-crisp-spanish-vegetable-gazpacho--chinese",
+    "title": "Crisp Gazpacho Spring Rolls",
+    "tags": [
+      "chinese",
+      "spring-rolls",
+      "gazpacho",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
     "shard": "v"
   }
 ]
