@@ -1,0 +1,76 @@
+{
+  "slug": "very-gooey-dutch-turnip-stew",
+  "title": "Turnip and Dutch Cheese Stew",
+  "description": "A hearty stew made with tender turnip and gooey dutch cheese. This comforting meal is perfect for a chilly evening.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Turnip",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Dutch Gouda Cheese",
+      "amount": "1 cup, shredded",
+      "notes": " gooey"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped",
+      "notes": "for added depth"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": "saute with onion"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 sprig, chopped",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic, sauté until softened.",
+    "Add diced turnip, cook for 5 minutes.",
+    "Add shredded cheese, stir until melted.",
+    "Season with salt, pepper, and thyme (if using).",
+    "Simmer stew for 25 minutes, or until turnip is tender.",
+    "Serve hot, garnished with chopped thyme (if using)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/very-gooey-dutch-turnip-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T01:07:42.332Z"
+}
