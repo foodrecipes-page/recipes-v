@@ -1,0 +1,93 @@
+{
+  "slug": "velvety-slovakian-lime-stew--chinese",
+  "title": "Slovakian Beef Stew with a Twist",
+  "description": "A Chinese-Style Beef Stew made with a unique twist of Slovakian flavors, served hot and steaming.",
+  "cuisine": "chinese",
+  "diet": [
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Velvety Beef",
+      "amount": "1 1/2 pounds",
+      "notes": "Slice into thin strips"
+    },
+    {
+      "name": "Slovakian Pepper",
+      "amount": "2 large",
+      "notes": "Slice into thin rings"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Stew Seasoning",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of sesame oil in a large wok or frying pan over medium-high heat.",
+    "Add the sliced beef and cook until browned, about 3-4 minutes. Remove from the wok and set aside.",
+    "Add the remaining 1 tablespoon of sesame oil, sliced peppers, and minced garlic to the wok.",
+    "Cook until the peppers are tender, about 4-5 minutes.",
+    "Add the sliced carrots and potatoes to the wok, cooking for an additional 5 minutes.",
+    "Add the cooked beef, stew seasoning, soy sauce, lime juice, and ginger to the wok.",
+    "Stir-fry everything together for about 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and steaming, garnished with chopped scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "beef-stew",
+    "slovakian-peppers"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-slovakian-lime-stew--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T03:03:55.554Z"
+}
