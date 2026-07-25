@@ -12930,5 +12930,19 @@
     "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "v"
+  },
+  {
+    "slug": "vividly-smoky-japanese-cabbage-okonomiyaki--vegan",
+    "title": "Vegan Smoky Okonomiyaki Cabbage Delight",
+    "tags": [
+      "vegan",
+      "japanese",
+      "smoky",
+      "cabbage",
+      "okonomiyaki"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 22,
+    "shard": "v"
   }
 ]
