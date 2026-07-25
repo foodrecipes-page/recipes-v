@@ -1601,17 +1601,15 @@
   },
   {
     "slug": "velvety-catalan-beef-paella",
-    "title": "Velvety Catalan Beef Paella",
+    "title": "Classic Beef Paella",
     "tags": [
-      "breakfast",
-      "comfort-food",
-      "gluten-free",
-      "high-protein",
-      "low-fat",
-      "one-pan"
+      "beef",
+      "paella",
+      "spanish",
+      "lunch"
     ],
-    "cuisine": "Catalan",
-    "totalTimeMin": 40,
+    "cuisine": "Spanish",
+    "totalTimeMin": 45,
     "shard": "v"
   },
   {
@@ -5789,17 +5787,14 @@
   },
   {
     "slug": "velvety-syrian-uni-tagine",
-    "title": "velvety syrian uni tagine",
+    "title": "Syrian Tagine with Uni Velvety Sauce",
     "tags": [
-      "citrusy",
-      "comfort-food",
-      "high-end",
-      "low-carb",
-      "one-pot",
+      "middle-eastern",
       "seafood",
-      "special-occasion"
+      "gluten-free",
+      "vegan"
     ],
-    "cuisine": "syrian",
+    "cuisine": "Middle Eastern",
     "totalTimeMin": 35,
     "shard": "v"
   },
