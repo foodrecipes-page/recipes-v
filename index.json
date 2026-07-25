@@ -6566,16 +6566,14 @@
   },
   {
     "slug": "very-gooey-dutch-turnip-stew",
-    "title": "Very Gooey Dutch Turnip Stew",
+    "title": "Turnip and Dutch Cheese Stew",
     "tags": [
       "comfort-food",
-      "dutch-cuisine",
-      "one-pot-meal",
-      "vegetarian-option",
-      "winter-stew"
+      "stew",
+      "vegetarian"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "v"
   },
   {
@@ -12852,6 +12850,33 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 30,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-charred-uruguayan-tiger-prawns-skewers--german",
+    "title": "Tiger Prawns with Uruguayan-Style Skewers",
+    "tags": [
+      "german",
+      "grill",
+      "prawns",
+      "skewers",
+      "sausage"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 28,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-garlicky-melon-stir-fry--vegan",
+    "title": "Vegan Melon Salad",
+    "tags": [
+      "vegan",
+      "summer",
+      "salad",
+      "melon"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 10,
     "shard": "v"
   }
 ]
