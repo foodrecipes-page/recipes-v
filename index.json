@@ -12768,5 +12768,19 @@
     "cuisine": "Indian",
     "totalTimeMin": 25,
     "shard": "v"
+  },
+  {
+    "slug": "vibrant-kenyan-chicken-stew--chinese",
+    "title": "Kenyan-Style Chicken Stew",
+    "tags": [
+      "chicken",
+      "stew",
+      "kenyan",
+      "chinese",
+      "vibrant"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 50,
+    "shard": "v"
   }
 ]
