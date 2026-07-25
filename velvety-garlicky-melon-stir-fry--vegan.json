@@ -1,0 +1,55 @@
+{
+  "slug": "velvety-garlicky-melon-stir-fry--vegan",
+  "title": "Vegan Melon Salad",
+  "description": "A refreshing summer salad made with juicy melon, a hint of garlic, and a touch of velvety goodness.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Melon",
+      "amount": "2 cups diced",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove minced",
+      "notes": null
+    },
+    {
+      "name": "Velvety",
+      "amount": "2 tbsp vegan cream",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine diced melon and minced garlic.",
+    "2. In a small bowl, whisk together vegan cream and a pinch of salt.",
+    "3. Pour the creamy mixture over the melon mixture and toss to coat.",
+    "4. Chill in the refrigerator for at least 30 minutes to allow the flavors to meld.",
+    "5. Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "summer",
+    "salad",
+    "melon"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-garlicky-melon-stir-fry--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T01:48:11.441Z"
+}
