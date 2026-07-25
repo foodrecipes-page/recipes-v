@@ -1,0 +1,80 @@
+{
+  "slug": "vibrant-crisp-spanish-vegetable-gazpacho--chinese",
+  "title": "Crisp Gazpacho Spring Rolls",
+  "description": "A fusion of Chinese spring rolls with the flavors of Spanish gazpacho. A refreshing summer snack!",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Vegetable spring roll wrappers",
+      "amount": "1 package",
+      "notes": "available in most Asian markets"
+    },
+    {
+      "name": "Crisp Gazpacho",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Shredded carrot",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shredded zucchini",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced green onion",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Prepare the filling by combining gazpacho, shredded carrot, shredded zucchini, and sliced green onion.",
+    "2. Lay a spring roll wrapper on a clean surface and place about 1 tablespoon of the filling in the center.",
+    "3. Brush the edges of the wrapper with sesame oil.",
+    "4. Fold the bottom half of the wrapper up over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "5. Repeat with the remaining wrappers and filling.",
+    "6. Heat about 1/2 inch of oil in a large skillet over medium-high heat.",
+    "7. When the oil is hot, add a few of the spring rolls to the skillet and fry until golden brown, about 2-3 minutes.",
+    "8. Remove the spring rolls from the oil and drain on paper towels.",
+    "9. Serve the spring rolls hot with soy sauce for dipping.",
+    "10. Enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "spring-rolls",
+    "gazpacho",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 15,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-crisp-spanish-vegetable-gazpacho--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T03:57:37.981Z"
+}
