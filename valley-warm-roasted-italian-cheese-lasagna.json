@@ -1,52 +1,78 @@
 {
   "slug": "valley-warm-roasted-italian-cheese-lasagna",
-  "title": "Warm Valley Lasagna",
-  "description": "A classic Italian dish with a twist from the valley. This lasagna is perfect for a cold evening.",
-  "cuisine": "italian",
+  "title": "Classic Italian-Style Lasagna",
+  "description": "A hearty, layered pasta dish made with tender lasagna noodles, rich meat sauce, and a blend of creamy cheeses.",
+  "cuisine": "Italian",
   "diet": [
-    "vegetarian"
+    "vegetarian",
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
     {
       "name": "lasagna noodles",
-      "amount": "8-10",
+      "amount": "8-10 sheets",
+      "notes": "wide, flat noodles"
+    },
+    {
+      "name": "warm valley cheese",
+      "amount": "1 cup, shredded",
       "notes": ""
     },
     {
-      "name": "warm valley cheese blend",
+      "name": "italian cheese",
+      "amount": "1 cup, shredded",
+      "notes": "parmesan or mozzarella"
+    },
+    {
+      "name": "roasted ground beef",
+      "amount": "1 lb",
+      "notes": "browned and seasoned"
+    },
+    {
+      "name": "pasta sauce",
       "amount": "2 cups",
-      "notes": ""
+      "notes": "homemade or store-bought"
     },
     {
-      "name": "roasted valley vegetables",
-      "amount": "1 cup",
-      "notes": ""
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for greasing the baking dish"
     },
     {
-      "name": "italian seasonings",
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 tsp",
+      "notes": "dried herbs (basil, oregano, thyme)"
+    },
+    {
+      "name": "salt",
       "amount": "1 tsp",
       "notes": ""
     },
     {
-      "name": "olive oil",
-      "amount": "1/4 cup",
+      "name": "black pepper",
+      "amount": "1/2 tsp",
       "notes": ""
     }
   ],
   "instructions": [
-    "Preheat oven to 375°F (190°C).",
-    "Cook lasagna noodles according to package instructions.",
-    "In a large skillet, heat olive oil over medium heat.",
-    "Add roasted valley vegetables and cook until tender.",
-    "In a large bowl, combine warm valley cheese blend and italian seasonings.",
-    "Spread a layer of cheese mixture in the bottom of a 9x13 inch baking dish.",
-    "Arrange 4 lasagna noodles on top of the cheese layer.",
-    "Spread half of the remaining cheese mixture on top of the noodles.",
-    "Repeat the layers, starting with the noodles, then the cheese mixture.",
-    "Top with the remaining cheese mixture and cover with aluminum foil.",
-    "Bake for 30 minutes, then remove foil and continue baking for an additional 10-15 minutes.",
-    "Let the lasagna rest for 10-15 minutes before serving."
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the lasagna noodles according to the package instructions. Drain and set aside.",
+    "In a large skillet, heat the olive oil over medium heat. Add the minced garlic and cook for 1-2 minutes.",
+    "Add the roasted ground beef to the skillet, breaking it up with a spoon as it cooks. Season with italian seasoning, salt, and black pepper.",
+    "Stir in the pasta sauce and bring to a simmer. Reduce heat to low and let sauce cook while you prepare the cheese mixture.",
+    "In a medium bowl, combine the warm valley cheese and italian cheese. Mix well to combine.",
+    "To assemble the lasagna, spread a layer of the meat sauce in the bottom of a 9x13-inch baking dish. Arrange 4 lasagna noodles on top of the sauce.",
+    "Spread half of the cheese mixture over the noodles, followed by half of the remaining meat sauce.",
+    "Repeat the layers, starting with the noodles, then the remaining cheese mixture, and finally the remaining meat sauce.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Let the lasagna rest for 10-15 minutes before slicing and serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -56,16 +82,19 @@
   "tags": [
     "italian",
     "lasagna",
-    "vegetarian"
+    "cheese",
+    "pasta",
+    "dinner",
+    "classic"
   ],
   "nutrition": {
-    "calories": 420,
-    "protein": 25,
-    "carbs": 35,
+    "calories": 450,
+    "protein": 30,
+    "carbs": 40,
     "fat": 20
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/valley-warm-roasted-italian-cheese-lasagna",
   "providerUsed": "groq",
-  "createdAt": "2026-07-19T16:51:42.871Z"
+  "createdAt": "2026-07-21T03:42:35.084Z"
 }
