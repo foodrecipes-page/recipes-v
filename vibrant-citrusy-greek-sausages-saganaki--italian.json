@@ -1,0 +1,91 @@
+{
+  "slug": "vibrant-citrusy-greek-sausages-saganaki--italian",
+  "title": "Greek Sausage Saganaki Skillet",
+  "description": "A flavorful and spicy Italian-inspired skillet dish featuring Greek sausages, saganaki, and a burst of citrusy freshness.",
+  "cuisine": "italian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Greek sausages",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Saganaki",
+      "amount": "1 block",
+      "notes": ""
+    },
+    {
+      "name": "Vibrant bell peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "Citrusy lemons",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Crusty bread",
+      "amount": "1 loaf",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the sausages and cook until browned, about 5 minutes.",
+    "Remove the sausages and set aside.",
+    "Add the remaining 1 tablespoon of olive oil to the skillet and sauté the saganaki until golden brown.",
+    "Add the bell peppers and cook until tender, about 5 minutes.",
+    "Add the garlic, Italian seasoning, salt, and pepper, and cook for 1 minute.",
+    "Return the sausages to the skillet and stir in the lemon juice.",
+    "Simmer for 2-3 minutes until the sauce has thickened.",
+    "Serve with crusty bread, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "greek",
+    "sausages",
+    "saganaki",
+    "skillet",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-citrusy-greek-sausages-saganaki--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T23:14:27.847Z"
+}
