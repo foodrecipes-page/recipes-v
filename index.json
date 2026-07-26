@@ -13069,5 +13069,30 @@
     "cuisine": null,
     "totalTimeMin": 40,
     "shard": "v"
+  },
+  {
+    "slug": "velvety-algerian-lamb-tagine--vegetarian",
+    "title": "Algerian Vegetable Tagine",
+    "tags": [
+      "algerian",
+      "vegetarian",
+      "tagine",
+      "dinner"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 40,
+    "shard": "v"
+  },
+  {
+    "slug": "velvet-camellia--indian",
+    "title": "Camellia and Velvet Korma",
+    "tags": [
+      "indian",
+      "vegetarian",
+      "korma"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "v"
   }
 ]
