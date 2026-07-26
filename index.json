@@ -10821,17 +10821,15 @@
   },
   {
     "slug": "vividly-fermented-kenyan-bread-toast",
-    "title": "Vividly Fermented Kenyan Bread Toast",
+    "title": "Kenyan-Style Toast with Fermented Vividly Sauce",
     "tags": [
-      "breakfast-option",
-      "crusty-bread",
-      "fermented-food",
-      "jain-friendly",
-      "kenyan-cuisine",
+      "kenyan",
+      "breakfast",
+      "tofu-free",
       "vegetarian"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 50,
+    "cuisine": "kenyan",
+    "totalTimeMin": 7,
     "shard": "v"
   },
   {
