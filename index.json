@@ -13030,5 +13030,19 @@
     "cuisine": "french",
     "totalTimeMin": 32,
     "shard": "v"
+  },
+  {
+    "slug": "vibrant-weeknight-australian-rhubarb-poached--mexican",
+    "title": "Mexican Poached Rhubarb with Vibrant Salsa",
+    "tags": [
+      "mexican",
+      "dessert",
+      "rhubarb",
+      "poached",
+      "vegan"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 27,
+    "shard": "v"
   }
 ]
