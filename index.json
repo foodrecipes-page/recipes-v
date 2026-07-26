@@ -12954,5 +12954,31 @@
     "cuisine": "indian",
     "totalTimeMin": 25,
     "shard": "v"
+  },
+  {
+    "slug": "vibrant-snappy-moroccan-kabanos-skewers--gluten-free",
+    "title": "Spicy Moroccan Kebabs",
+    "tags": [
+      "gluten-free",
+      "moroccan",
+      "kebabs",
+      "skewers"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 25,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-catalan-beef-paella--vegan",
+    "title": "Catalan Paella Vegan Delight",
+    "tags": [
+      "vegan",
+      "paella",
+      "spanish",
+      "rice"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
+    "shard": "v"
   }
 ]
