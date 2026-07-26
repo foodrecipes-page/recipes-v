@@ -6022,17 +6022,15 @@
   },
   {
     "slug": "velvety-ukrainian-oats-casserole",
-    "title": "Velvety Ukrainian Oats Casserole",
+    "title": "Ukrainian Oat Casserole",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "low-carb",
-      "one-pot",
-      "savory",
-      "weeknight"
+      "ukrainian",
+      "oats",
+      "casserole",
+      "vegetarian"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 65,
     "shard": "v"
   },
   {
@@ -12943,6 +12941,18 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 22,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-dense-mexican-comte-tacos--indian",
+    "title": "Comte and Tacos Tikkas",
+    "tags": [
+      "indian",
+      "mexican",
+      "fusion"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
     "shard": "v"
   }
 ]
