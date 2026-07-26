@@ -12992,5 +12992,18 @@
     "cuisine": "french",
     "totalTimeMin": 40,
     "shard": "v"
+  },
+  {
+    "slug": "vibrant-egyptian-fish-skewers--italian",
+    "title": "Grilled Fish Skewers with Italian Herbs",
+    "tags": [
+      "italian",
+      "fish",
+      "grilled",
+      "skewers"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "v"
   }
 ]
