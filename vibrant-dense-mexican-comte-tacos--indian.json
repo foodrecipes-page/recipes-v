@@ -1,0 +1,92 @@
+{
+  "slug": "vibrant-dense-mexican-comte-tacos--indian",
+  "title": "Comte and Tacos Tikkas",
+  "description": "A fusion of Indian and Mexican flavors featuring tender tikkas with a hint of vibrant spices and a side of crispy tacos.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "comte cheese",
+      "amount": "150g",
+      "notes": "crumbly"
+    },
+    {
+      "name": "tacos",
+      "amount": "6-8",
+      "notes": "crunchy"
+    },
+    {
+      "name": "vibrant spice blend",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "a pinch",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "adjust"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the grill to 400°F (200°C).",
+    "2. In a bowl, mix together vibrant spice blend, cumin, coriander, cayenne pepper (if using), and salt.",
+    "3. Add the crumbled comte cheese to the spice mixture and mix until well combined.",
+    "4. Brush the tacos with oil and grill until crispy.",
+    "5. Grill the onions, ginger, and tomato until tender.",
+    "6. Add the grilled onions, ginger, and tomato to the cheese mixture and mix until well combined.",
+    "7. Spoon the cheese mixture onto the tacos.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "mexican",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-dense-mexican-comte-tacos--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T06:57:27.331Z"
+}
