@@ -1,0 +1,69 @@
+{
+  "slug": "velvety-wilted-broccoli-crumble",
+  "title": "Crispy Broccoli Fritters with Crumble Topping",
+  "description": "A delicious and crunchy broccoli fritter dish topped with a crumble made from crispy breadcrumbs and melted cheese. Perfect as a snack or side.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "broccoli florets",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "velvety breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "wilted cabbage leaves",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "crumble seasoning",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "cheddar cheese, grated",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine broccoli florets, wilted cabbage leaves, and crumble seasoning.",
+    "In a separate bowl, mix together velvety breadcrumbs and grated cheddar cheese.",
+    "Add the breadcrumb mixture to the broccoli mixture and stir until well combined.",
+    "Using your hands, shape the mixture into 8-10 fritters.",
+    "Heat a non-stick skillet over medium heat and add a small amount of oil.",
+    "Cook the fritters for 3-4 minutes on each side, or until golden brown and crispy.",
+    "Transfer the fritters to a baking sheet and top with additional crumble seasoning.",
+    "Bake in a preheated oven at 375°F (190°C) for 5-7 minutes, or until the topping is golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "snack",
+    "vegetarian",
+    "crunchy",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-wilted-broccoli-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T18:49:18.978Z"
+}
