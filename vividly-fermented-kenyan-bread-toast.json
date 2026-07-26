@@ -1,0 +1,67 @@
+{
+  "slug": "vividly-fermented-kenyan-bread-toast",
+  "title": "Kenyan-Style Toast with Fermented Vividly Sauce",
+  "description": "A twist on traditional toast with a tangy and vibrant fermented sauce, inspired by Kenyan flavors.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Vividly Bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Fermented Vividly Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Toast",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Kale",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    " Toast the bread slices until lightly browned.",
+    "Spread a layer of fermented vividly sauce on each toasted bread slice.",
+    "Top each slice with chopped kale, a squeeze of lime juice, and a sprinkle of salt and red pepper flakes.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "breakfast",
+    "tofu-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vividly-fermented-kenyan-bread-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T13:59:27.512Z"
+}
