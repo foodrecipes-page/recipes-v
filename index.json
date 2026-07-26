@@ -13044,5 +13044,18 @@
     "cuisine": "mexican",
     "totalTimeMin": 27,
     "shard": "v"
+  },
+  {
+    "slug": "velvety-portuguese-milk-chocolate-mousse--keto",
+    "title": "Low-Carb Portuguese Mousse",
+    "tags": [
+      "keto",
+      "dessert",
+      "chocolate",
+      "portuguese"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 120,
+    "shard": "v"
   }
 ]
