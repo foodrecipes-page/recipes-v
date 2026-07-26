@@ -1,0 +1,93 @@
+{
+  "slug": "velvety-algerian-lamb-tagine--vegetarian",
+  "title": "Algerian Vegetable Tagine",
+  "description": "A flavorful and aromatic vegetarian tagine dish, made with a variety of vegetables and spices, perfect for a hearty dinner.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1/4 cup",
+      "notes": "Used for flavor and texture, but in small quantity to make it vegetarian"
+    },
+    {
+      "name": "Algerian spices",
+      "amount": "2 tsp",
+      "notes": "Blend of cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "Velvety potatoes",
+      "amount": "2 large",
+      "notes": "Diced and cooked to perfection"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "Chopped and sautéed until caramelized"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium",
+      "notes": "Peeled and chopped"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "2 large",
+      "notes": "Sliced and cooked until tender"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": "Diced and sautéed until tender"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 can (14 oz)",
+      "notes": "Diced and added for flavor and moisture"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "Used for sautéing and cooking"
+    },
+    {
+      "name": "Salt and black pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the bottom of a large clay or ceramic tagine or Dutch oven over medium heat.",
+    "Add the chopped onions and cook until they are caramelized, stirring occasionally.",
+    "Add the chopped carrots and zucchini, and cook for an additional 5 minutes, stirring occasionally.",
+    "Add the diced potatoes, red bell pepper, and Algerian spices. Cook for 5 minutes, stirring occasionally.",
+    "Add the diced tomatoes, salt, and black pepper. Stir to combine.",
+    "Reduce heat to low and simmer for 20-25 minutes or until the vegetables are tender.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "vegetarian",
+    "tagine",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-algerian-lamb-tagine--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T19:47:47.987Z"
+}
