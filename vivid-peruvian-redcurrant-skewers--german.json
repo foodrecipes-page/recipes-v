@@ -1,0 +1,64 @@
+{
+  "slug": "vivid-peruvian-redcurrant-skewers--german",
+  "title": "Savory Redcurrant Skewers",
+  "description": "A classic German-inspired dish featuring sweet redcurrants paired with savory German-style pork and onions, served on wooden skewers.",
+  "cuisine": "german",
+  "diet": [
+    "pork"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, diced",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Redcurrant, fresh",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Onion, medium",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Vivid salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Skewers, wooden",
+      "amount": "10",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the grill to medium-high heat.",
+    "2. In a large bowl, combine the diced pork, redcurrant, onion, and vivid salt. Mix well.",
+    "3. Thread the pork and redcurrant mixture onto the skewers, leaving a small space between each piece.",
+    "4. Grill the skewers for 8-10 minutes per side, or until the pork is cooked through and the redcurrant is tender.",
+    "5. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 16,
+  "totalTimeMin": 26,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "grill",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vivid-peruvian-redcurrant-skewers--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T20:52:19.070Z"
+}
