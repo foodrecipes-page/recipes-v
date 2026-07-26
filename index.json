@@ -6308,15 +6308,15 @@
   },
   {
     "slug": "velvety-wilted-broccoli-crumble",
-    "title": "Velvety Wilted Broccoli Crumble",
+    "title": "Crispy Broccoli Fritters with Crumble Topping",
     "tags": [
-      "light-entree",
-      "simple-dish",
-      "vegan-friendly",
-      "vegetarian"
+      "snack",
+      "vegetarian",
+      "crunchy",
+      "cheese"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 50,
+    "cuisine": "american",
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
@@ -12746,15 +12746,15 @@
   },
   {
     "slug": "vibrant-indian-tomato-curry--gluten-free",
-    "title": "Vibrant Indian Curry",
+    "title": "Vibrant Indian Curry Bowl",
     "tags": [
+      "gluten-free",
       "indian",
       "curry",
-      "gluten-free",
       "vegetarian"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 25,
+    "cuisine": "indian",
+    "totalTimeMin": 35,
     "shard": "v"
   },
   {
@@ -13056,6 +13056,18 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 120,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-irish-barley-casserole--vegan",
+    "title": "Velvety Barley Casserole",
+    "tags": [
+      "barley",
+      "vegan",
+      "casserole"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 40,
     "shard": "v"
   }
 ]
