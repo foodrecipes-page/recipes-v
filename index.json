@@ -12980,5 +12980,17 @@
     "cuisine": "Spanish",
     "totalTimeMin": 40,
     "shard": "v"
+  },
+  {
+    "slug": "velvety-american-pork-back-ribs-casserole--french",
+    "title": "French Pork Ribs Casserole",
+    "tags": [
+      "french",
+      "casserole",
+      "comfort-food"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
+    "shard": "v"
   }
 ]
