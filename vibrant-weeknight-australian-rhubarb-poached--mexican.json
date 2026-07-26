@@ -1,0 +1,76 @@
+{
+  "slug": "vibrant-weeknight-australian-rhubarb-poached--mexican",
+  "title": "Mexican Poached Rhubarb with Vibrant Salsa",
+  "description": "A twist on traditional Mexican flavors, this dessert combines the sweetness of rhubarb with a tangy and vibrant salsa. Perfect for a weeknight treat.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "rhubarb",
+      "amount": "1 lb",
+      "notes": "fresh"
+    },
+    {
+      "name": "cactus pear puree",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "agave syrup",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "fresh cilantro leaves",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "habanero peppers",
+      "amount": "1",
+      "notes": "seeded and finely chopped"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine the rhubarb, cactus pear puree, and agave syrup. Bring to a boil over medium-high heat, then reduce the heat to medium-low and simmer for 10-12 minutes, or until the rhubarb is tender.",
+    "Meanwhile, prepare the vibrant salsa by combining the cilantro leaves, lime juice, red onion, and habanero peppers in a bowl. Stir to combine.",
+    "Once the rhubarb is tender, remove it from the heat and let it cool slightly.",
+    "To serve, place a portion of the poached rhubarb on a plate, then top with a spoonful of the vibrant salsa."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "dessert",
+    "rhubarb",
+    "poached",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-weeknight-australian-rhubarb-poached--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T15:12:12.370Z"
+}
