@@ -13005,5 +13005,32 @@
     "cuisine": "italian",
     "totalTimeMin": 25,
     "shard": "v"
+  },
+  {
+    "slug": "velvety-egyptian-lentil-stew--chinese",
+    "title": "Egyptian Lentil Stew",
+    "tags": [
+      "lentil",
+      "stew",
+      "chinese",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 40,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-brine-dry-mexican-corn-elote--french",
+    "title": "French Grilled Corn with Elote Butter",
+    "tags": [
+      "grilled",
+      "corn",
+      "elote",
+      "butter",
+      "french"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 32,
+    "shard": "v"
   }
 ]
