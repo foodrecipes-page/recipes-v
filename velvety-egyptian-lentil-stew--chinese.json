@@ -1,0 +1,87 @@
+{
+  "slug": "velvety-egyptian-lentil-stew--chinese",
+  "title": "Egyptian Lentil Stew",
+  "description": "A hearty, comforting stew originating from Egypt, with an added twist of Chinese spices. Serve over steamed rice or noodles.",
+  "cuisine": "chinese",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentil",
+      "amount": "1 cup dried red lentils, rinsed and drained",
+      "notes": "belly-friendly"
+    },
+    {
+      "name": "velvety",
+      "amount": "2 tablespoons velvety vegetable oil",
+      "notes": null
+    },
+    {
+      "name": "egyptian",
+      "amount": "2 medium onions, chopped",
+      "notes": null
+    },
+    {
+      "name": "stew",
+      "amount": "2 cloves garlic, minced",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons soy sauce",
+      "notes": null
+    },
+    {
+      "name": "chinese five spice",
+      "amount": "1 teaspoon chinese five spice powder",
+      "notes": null
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons tomato paste",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "4 cups vegetable broth",
+      "notes": null
+    },
+    {
+      "name": "green onions",
+      "amount": "2 green onions, chopped",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add onions and cook until softened, 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add lentils, soy sauce, five spice powder, and tomato paste.",
+    "Stir to combine, then add broth and bring to a boil.",
+    "Reduce heat to low and simmer, covered, 20 minutes or until lentils are tender.",
+    "Stir in chopped green onions and serve over steamed rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil",
+    "stew",
+    "chinese",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-egyptian-lentil-stew--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T13:00:51.531Z"
+}
