@@ -1,0 +1,69 @@
+{
+  "slug": "velvety-portuguese-milk-chocolate-mousse--keto",
+  "title": "Low-Carb Portuguese Mousse",
+  "description": "A rich, decadent dessert made with velvety chocolate and a touch of creamy milk, perfect for keto dieters.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dark Chocolate",
+      "amount": "250g",
+      "notes": "At least 85% cocoa"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "200ml",
+      "notes": "For a keto-friendly substitute"
+    },
+    {
+      "name": "Milk",
+      "amount": "50ml",
+      "notes": "Optional, omit for a creamier texture"
+    },
+    {
+      "name": "Granulated Sweetener",
+      "amount": "2 tbsp",
+      "notes": "Choose a sugar-free alternative"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "Optional, enhances flavor"
+    }
+  ],
+  "instructions": [
+    "In a double boiler or a heatproof bowl set over a pot of simmering water, melt the chocolate, stirring occasionally.",
+    "Once melted, remove from heat and let cool slightly.",
+    "In a separate bowl, whip the heavy cream until stiff peaks form.",
+    "Fold the whipped cream into the cooled chocolate mixture until well combined.",
+    "If using milk, fold it into the mixture at this stage.",
+    "Add the granulated sweetener and salt, if using, and fold until smooth.",
+    "Pour the mixture into individual serving cups or a large serving dish.",
+    "Refrigerate for at least 2 hours to allow the mousse to set.",
+    "Serve chilled, garnished with fresh fruit or whipped cream, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "dessert",
+    "chocolate",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 10,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-portuguese-milk-chocolate-mousse--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T16:23:44.940Z"
+}
