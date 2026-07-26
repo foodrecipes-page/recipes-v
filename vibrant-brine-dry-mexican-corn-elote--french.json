@@ -1,0 +1,66 @@
+{
+  "slug": "vibrant-brine-dry-mexican-corn-elote--french",
+  "title": "French Grilled Corn with Elote Butter",
+  "description": "A simple and flavorful French-inspired grilled corn with a creamy elote butter.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "corn",
+      "amount": "4 ears",
+      "notes": "husked and silked"
+    },
+    {
+      "name": "elote",
+      "amount": "1 cup",
+      "notes": "unsalted butter softened"
+    },
+    {
+      "name": "mexican",
+      "amount": "1 teaspoon",
+      "notes": "dried chili powder"
+    },
+    {
+      "name": "vibrant",
+      "amount": "1 teaspoon",
+      "notes": "paprika"
+    },
+    {
+      "name": "brine",
+      "amount": "1/4 cup",
+      "notes": "kosher salt, dissolved in 1 cup of water"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Soak the corn in the brine solution for at least 30 minutes.",
+    "3. Remove the corn from the brine and shake off excess liquid.",
+    "4. Grill the corn for 10-12 minutes, turning frequently.",
+    "5. Meanwhile, mix the softened elote butter with chili powder and paprika.",
+    "6. Brush the elote butter mixture onto the grilled corn during the last 2 minutes of cooking.",
+    "7. Serve the grilled corn hot with additional elote butter on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "corn",
+    "elote",
+    "butter",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-brine-dry-mexican-corn-elote--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T13:15:35.630Z"
+}
