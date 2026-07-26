@@ -13094,5 +13094,17 @@
     "cuisine": "indian",
     "totalTimeMin": 35,
     "shard": "v"
+  },
+  {
+    "slug": "vivid-peruvian-redcurrant-skewers--german",
+    "title": "Savory Redcurrant Skewers",
+    "tags": [
+      "german",
+      "grill",
+      "skewers"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 26,
+    "shard": "v"
   }
 ]
