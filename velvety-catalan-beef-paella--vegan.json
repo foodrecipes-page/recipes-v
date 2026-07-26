@@ -1,0 +1,98 @@
+{
+  "slug": "velvety-catalan-beef-paella--vegan",
+  "title": "Catalan Paella Vegan Delight",
+  "description": "A twist on the classic Spanish dish, this vegan paella is made with velvety vegetables and flavorful catalan spices.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Catalan rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Artichoke hearts",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Velvety tomatoes",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large paella pan over medium heat.",
+    "Add the onion and bell pepper and cook until tender, about 5 minutes.",
+    "Add the mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the artichoke hearts, tomatoes, smoked paprika, garlic powder, salt, and pepper. Stir to combine.",
+    "Add the rice to the pan and stir to coat with the vegetable mixture.",
+    "Bring the mixture to a simmer and cook, covered, for 20-25 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Remove the pan from the heat and let it rest, covered, for 5 minutes.",
+    "Serve hot, garnished with fresh parsley or thyme if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "paella",
+    "spanish",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-catalan-beef-paella--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T08:33:32.405Z"
+}
