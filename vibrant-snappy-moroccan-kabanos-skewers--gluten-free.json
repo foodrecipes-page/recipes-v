@@ -1,0 +1,78 @@
+{
+  "slug": "vibrant-snappy-moroccan-kabanos-skewers--gluten-free",
+  "title": "Spicy Moroccan Kebabs",
+  "description": "A flavorful and spicy kebab recipe inspired by Moroccan cuisine, made with gluten-free ingredients. Perfect for a quick and delicious meal.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kabanos Sausage",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Moroccan Skewers (bell peppers, onions, zucchini)",
+      "amount": "1 cup, assorted"
+    },
+    {
+      "name": "Vibrant Red Onion",
+      "amount": "1/2 cup, thinly sliced"
+    },
+    {
+      "name": "Snappy Carrots",
+      "amount": "1/2 cup, peeled and sliced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Harissa",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, lemon juice, harissa, salt, and black pepper.",
+    "Add the sliced kabanos sausage, vibrant red onion, snappy carrots, and moroccan skewers to the bowl.",
+    "Toss to coat with the marinade.",
+    "Thread the marinated ingredients onto skewers.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "moroccan",
+    "kebabs",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-snappy-moroccan-kabanos-skewers--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T07:46:00.619Z"
+}
