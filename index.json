@@ -6809,17 +6809,14 @@
   },
   {
     "slug": "vibrant-brazilian-cheese-toast",
-    "title": "Vibrant Brazilian Cheese Toast",
+    "title": "Brazilian Toastie",
     "tags": [
-      "brazilian-cuisine",
-      "brunch-recipe",
-      "cheese-toast",
-      "copper-mug",
-      "gluten-free",
-      "vegetarian"
+      "toasty",
+      "snack",
+      "cheesy"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 20,
+    "totalTimeMin": 9,
     "shard": "v"
   },
   {
