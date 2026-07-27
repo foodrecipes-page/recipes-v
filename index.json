@@ -13208,5 +13208,20 @@
     "cuisine": "japanese",
     "totalTimeMin": 25,
     "shard": "v"
+  },
+  {
+    "slug": "velvety-rich-polish-sugars-fondue--mexican",
+    "title": "Polish Mole Fondue",
+    "tags": [
+      "mexican",
+      "mole",
+      "fondue",
+      "snack",
+      "dipping",
+      "bread"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 20,
+    "shard": "v"
   }
 ]
