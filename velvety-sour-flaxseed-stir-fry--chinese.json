@@ -1,0 +1,68 @@
+{
+  "slug": "velvety-sour-flaxseed-stir-fry--chinese",
+  "title": "Stir-Fried Flaxseed Pancakes",
+  "description": "A Chinese-inspired twist on traditional pancakes, featuring flaxseed for added nutrition and a velvety texture. Serve with a tangy sour sauce.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "flaxseed",
+      "amount": "1 cup"
+    },
+    {
+      "name": "velvety",
+      "amount": "2 cups milk",
+      "notes": "or substitute with plant-based milk alternative"
+    },
+    {
+      "name": "sour",
+      "amount": "2 tbsp vinegar",
+      "notes": "such as rice vinegar or apple cider vinegar"
+    },
+    {
+      "name": "stir",
+      "amount": "2 tbsp vegetable oil"
+    },
+    {
+      "name": "fry",
+      "amount": "1/4 cup all-purpose flour"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine flaxseed and milk. Let sit for 5 minutes to thicken.",
+    "2. Add vinegar and stir to combine.",
+    "3. Heat oil in a non-stick pan over medium heat.",
+    "4. Pour in the flaxseed mixture and cook for 2-3 minutes, until the bottom is golden brown.",
+    "5. Flip the pancakes and cook for an additional 1-2 minutes.",
+    "6. In a small bowl, mix together flour and a pinch of salt. Sprinkle over the pancakes.",
+    "7. Cook for an additional 30 seconds to 1 minute, until the flour is lightly toasted.",
+    "8. Serve hot with a drizzle of sour sauce, if desired.",
+    "9. To make the sour sauce, combine 1/2 cup sour cream or yogurt with 1 tbsp vinegar and 1 tsp honey. Mix well.",
+    "10. Adjust seasoning as needed.",
+    "11. Garnish with chopped scallions or sesame seeds, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "breakfast",
+    "flaxseed",
+    "pancakes",
+    "sour",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-sour-flaxseed-stir-fry--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T23:38:28.955Z"
+}
