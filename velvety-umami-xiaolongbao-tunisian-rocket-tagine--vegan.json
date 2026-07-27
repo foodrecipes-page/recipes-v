@@ -1,0 +1,70 @@
+{
+  "slug": "velvety-umami-xiaolongbao-tunisian-rocket-tagine--vegan",
+  "title": "Tunisian Rocket Wrap",
+  "description": "A flavorful and healthy wrap filled with the taste of Tunisian spices, accompanied by rocket greens and velvety hummus.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tunisian flatbread",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "Rocket greens",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Velvety hummus",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Tagine-spiced chickpeas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan over medium heat.",
+    "Warm the Tunisian flatbread in the pan for 2 minutes.",
+    "Spread 1 tbsp of velvety hummus on each flatbread piece.",
+    "Add 1/2 cup of tagine-spiced chickpeas on top of the hummus.",
+    "Add a handful of rocket greens on top of the chickpeas.",
+    "Add sliced lettuce, tomato, and red onion.",
+    "Fold the flatbread to form a wrap.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "vegan",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-umami-xiaolongbao-tunisian-rocket-tagine--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T00:18:48.737Z"
+}
