@@ -1,0 +1,67 @@
+{
+  "slug": "vibrant-steamed-pretzel-delight--gluten-free",
+  "title": "Vibrant Steamed Delight Salad",
+  "description": "A refreshing and healthy salad made with steamed vegetables and a crunchy pretzel topping.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Steamed Delight",
+      "amount": "2 cups",
+      "notes": "Steamed to perfection"
+    },
+    {
+      "name": "Vibrant Vegetables",
+      "amount": "1 cup",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Pretzel Crumbs",
+      "amount": "1/4 cup",
+      "notes": "Gluten-free pretzel crumbs"
+    },
+    {
+      "name": "Gluten-Free Vinaigrette",
+      "amount": "2 tablespoons",
+      "notes": "Homemade vinaigrette dressing"
+    },
+    {
+      "name": "Fresh Herbs",
+      "amount": "1 tablespoon",
+      "notes": "Chopped fresh herbs for garnish"
+    }
+  ],
+  "instructions": [
+    "Steam the Steamed Delight until tender.",
+    "Cut the Vibrant Vegetables into bite-sized pieces.",
+    "Mix the steamed Steamed Delight and vibrant vegetables in a bowl.",
+    "Sprinkle the pretzel crumbs on top of the salad.",
+    "Drizzle the gluten-free vinaigrette over the salad.",
+    "Garnish with chopped fresh herbs.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "salad",
+    "healthy",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-steamed-pretzel-delight--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T22:45:45.287Z"
+}
