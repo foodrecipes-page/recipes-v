@@ -1,0 +1,85 @@
+{
+  "slug": "vibrant-dense-mexican-comte-tacos--japanese",
+  "title": "Japanese Tacos with Comte Cheese",
+  "description": "A fusion dish combining the best of Japanese flavors with the vibrant spirit of Mexican tacos. Crunchy shells filled with juicy beef, crunchy slaw, and creamy Comte cheese.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 lb",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Comte cheese",
+      "amount": "8 oz",
+      "notes": "Sliced"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8",
+      "notes": "Corn"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 head",
+      "notes": "Shredded"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "Grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Low sodium"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "Granulated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "Toasted"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together soy sauce, sugar, and sesame oil.",
+    "Add the sliced beef to the marinade and let it sit for 15 minutes.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Remove the beef from the marinade and cook for 3-4 minutes per side, or until cooked to your desired level of doneness.",
+    "Meanwhile, toast the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a few slices of beef onto a tortilla, followed by a spoonful of slaw (see below).",
+    "Top with sliced Comte cheese and serve immediately.",
+    "To make the slaw, combine shredded cabbage, grated carrots, and a drizzle of soy sauce in a bowl.",
+    "Mix well and refrigerate until ready to serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fusion",
+    "japanese",
+    "mexican",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-dense-mexican-comte-tacos--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T05:03:46.360Z"
+}
