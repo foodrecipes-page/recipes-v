@@ -13143,5 +13143,20 @@
     "cuisine": "American",
     "totalTimeMin": 25,
     "shard": "v"
+  },
+  {
+    "slug": "velvety-sour-flaxseed-stir-fry--chinese",
+    "title": "Stir-Fried Flaxseed Pancakes",
+    "tags": [
+      "chinese",
+      "breakfast",
+      "flaxseed",
+      "pancakes",
+      "sour",
+      "vegan"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "v"
   }
 ]
