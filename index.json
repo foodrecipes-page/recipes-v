@@ -13158,5 +13158,17 @@
     "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "v"
+  },
+  {
+    "slug": "velvety-umami-xiaolongbao-tunisian-rocket-tagine--vegan",
+    "title": "Tunisian Rocket Wrap",
+    "tags": [
+      "mediterranean",
+      "vegan",
+      "lunch"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 15,
+    "shard": "v"
   }
 ]
