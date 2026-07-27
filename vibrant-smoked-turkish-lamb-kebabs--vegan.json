@@ -1,0 +1,83 @@
+{
+  "slug": "vibrant-smoked-turkish-lamb-kebabs--vegan",
+  "title": "Smoked Vegan Kebabs",
+  "description": "A flavorful and smoky kebab recipe made with marinated tofu and vegetables, perfect for a summer evening.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Extra-firm tofu",
+      "amount": "1 block",
+      "notes": "drained and pressed"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Vibrant bell peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "Turkish-style red onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Bulgur",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "preferably cold-pressed"
+    }
+  ],
+  "instructions": [
+    "Preheat grill or grill pan to medium-high heat.",
+    "In a large bowl, whisk together lemon juice, olive oil, smoked paprika, salt, and pepper.",
+    "Add the pressed tofu, sliced bell peppers, red onion, and zucchini to the marinade.",
+    "Mix well to coat and let it sit for at least 30 minutes.",
+    "Thread the marinated vegetables and tofu onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally, until the vegetables are tender and slightly charred.",
+    "Serve the kebabs over a bed of cooked bulgur.",
+    "Garnish with fresh herbs, if desired.",
+    "Enjoy your delicious Smoked Vegan Kebabs!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "smoked",
+    "kebabs"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-smoked-turkish-lamb-kebabs--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T01:17:56.902Z"
+}
