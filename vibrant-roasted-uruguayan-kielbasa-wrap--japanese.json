@@ -1,0 +1,91 @@
+{
+  "slug": "vibrant-roasted-uruguayan-kielbasa-wrap--japanese",
+  "title": "Kielbasa Yakitori Wrap",
+  "description": "A Japanese-inspired twist on traditional yakitori, served in a crispy uruguayan wrap with vibrant slaw and kielbasa.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kiobasa",
+      "amount": "1/2 pound",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Uruguayan wrap",
+      "amount": "1",
+      "notes": "Large flour tortilla"
+    },
+    {
+      "name": "Vibrant slaw",
+      "amount": "1 cup",
+      "notes": "See notes for recipe"
+    },
+    {
+      "name": "Roasted vegetables",
+      "amount": "1 cup",
+      "notes": "Such as bell peppers and onions"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": "1 tablespoon",
+      "notes": "For dressing"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Marinate kielbasa in a mixture of soy sauce and brown sugar for at least 30 minutes.",
+    "Grill kielbasa until browned and cooked through.",
+    "Grill uruguayan wrap until crispy.",
+    "Assemble wraps by placing kielbasa, roasted vegetables, and vibrant slaw inside.",
+    "Drizzle with balsamic vinaigrette and top with sesame seeds.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kielbasa",
+    "yakitori",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-roasted-uruguayan-kielbasa-wrap--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T21:47:44.665Z"
+}
