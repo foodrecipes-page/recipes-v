@@ -1,0 +1,94 @@
+{
+  "slug": "velvety-irish-barley-casserole--italian",
+  "title": "Irish Barley Casserole",
+  "description": "A hearty, comforting Italian-inspired casserole with a twist of Irish flair. Velvety and rich, it's perfect for a chilly evening.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Barley",
+      "amount": "1 cup",
+      "notes": "pearled barley"
+    },
+    {
+      "name": "Irish Velvety",
+      "amount": "2 cups",
+      "notes": "chopped, 1 cup of which is the velvety sauce, 1 cup other chopped ingredients"
+    },
+    {
+      "name": "Casserole",
+      "amount": "1 cup",
+      "notes": "canned, diced tomatoes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Mozzarella",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the barley according to package instructions.",
+    "In a pan, heat the olive oil and sauté the onion and garlic until softened.",
+    "Add the Irish Velvety mixture and cook for 5 minutes, stirring occasionally.",
+    "Stir in the diced tomatoes, salt, and black pepper.",
+    "Combine the cooked barley, the pan mixture, and the mozzarella cheese in a 9x13 inch baking dish.",
+    "Transfer the dish to the oven and bake for 25-30 minutes, or until the cheese is melted and bubbly.",
+    "Remove the dish from the oven and sprinkle with chopped fresh basil.",
+    "Let the casserole rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "irish",
+    "casserole",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-irish-barley-casserole--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T04:40:42.811Z"
+}
