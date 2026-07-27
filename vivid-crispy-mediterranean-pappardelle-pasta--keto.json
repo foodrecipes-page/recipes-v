@@ -1,0 +1,58 @@
+{
+  "slug": "vivid-crispy-mediterranean-pappardelle-pasta--keto",
+  "title": "Crispy Mediterranean Keto Pappardelle",
+  "description": "A keto-friendly pasta dish with a focus on crispy, savory flavors and a mediterranean twist.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pappardelle",
+      "amount": "8 oz"
+    },
+    {
+      "name": "vivid",
+      "amount": "1 cup"
+    },
+    {
+      "name": "crispy",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mediterranean",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cook the pappardelle according to the package instructions.",
+    "In a pan, heat the mediterranean over medium heat.",
+    "Add the vivid and crispy to the pan and sauté for 2-3 minutes.",
+    "Combine the cooked pappardelle and the vivid mixture in a bowl.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "low-carb",
+    "pasta",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vivid-crispy-mediterranean-pappardelle-pasta--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T02:02:55.075Z"
+}
