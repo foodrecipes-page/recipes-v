@@ -1,0 +1,92 @@
+{
+  "slug": "vibrant-gooey-portuguese-lamb-stew--italian",
+  "title": "Lamb Stew with Italian Flair",
+  "description": "A hearty Italian-inspired stew made with tender lamb and a blend of flavorful herbs.",
+  "cuisine": "italian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "portuguese red wine",
+      "amount": "1 cup",
+      "notes": "or substitute with Italian red wine"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning lamb"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vibrant tomatoes",
+      "amount": "2 cups",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "herbs",
+      "amount": "1 tablespoon",
+      "notes": "dried or fresh basil, thyme, and rosemary"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb cubes until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Reduce the heat to medium and sauté the chopped onion until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the tomatoes, chicken broth, herbs, salt, and pepper to the pot.",
+    "Return the lamb to the pot, cover, and transfer to the oven.",
+    "Braise the lamb stew at 300°F (150°C) for 2 1/2 to 3 hours, or until the lamb is tender.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 180,
+  "totalTimeMin": 205,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "lamb",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-gooey-portuguese-lamb-stew--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T22:10:14.713Z"
+}
