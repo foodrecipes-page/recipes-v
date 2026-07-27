@@ -1,0 +1,55 @@
+{
+  "slug": "vibrant-brazilian-cheese-toast",
+  "title": "Brazilian Toastie",
+  "description": "A simple and delicious Brazilian-inspired toastie filled with vibrant cheese. Perfect for a quick snack or light meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Brazilian Cheese",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Vibrant Bread",
+      "amount": "2 slices (toasted)"
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tsp",
+      "notes": "softened"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan or griddle over medium heat.",
+    "Butter one side of each slice of vibrant bread.",
+    "Place one slice of bread, butter-side down, in the pan.",
+    "Place one slice of Brazilian cheese on top of the bread in the pan.",
+    "Place the second slice of bread, butter-side up, on top of the cheese.",
+    "Cook for 2-3 minutes or until the bread is golden brown and the cheese is melted.",
+    "Flip the toastie over and cook for an additional 2 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 4,
+  "totalTimeMin": 9,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "toasty",
+    "snack",
+    "cheesy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-brazilian-cheese-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T06:43:03.976Z"
+}
