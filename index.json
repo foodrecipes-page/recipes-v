@@ -13182,5 +13182,31 @@
     "cuisine": null,
     "totalTimeMin": 32,
     "shard": "v"
+  },
+  {
+    "slug": "vivid-crispy-mediterranean-pappardelle-pasta--keto",
+    "title": "Crispy Mediterranean Keto Pappardelle",
+    "tags": [
+      "keto",
+      "low-carb",
+      "pasta",
+      "mediterranean"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "v"
+  },
+  {
+    "slug": "vividly-caramelized-chinese-pitted-dates-jjigae--japanese",
+    "title": "Japanese Date and Jjigae Bento",
+    "tags": [
+      "bento",
+      "japanese",
+      "vegetarian",
+      "lunch"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "v"
   }
 ]
