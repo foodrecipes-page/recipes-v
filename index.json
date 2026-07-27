@@ -13106,5 +13106,42 @@
     "cuisine": "german",
     "totalTimeMin": 26,
     "shard": "v"
+  },
+  {
+    "slug": "vibrant-roasted-uruguayan-kielbasa-wrap--japanese",
+    "title": "Kielbasa Yakitori Wrap",
+    "tags": [
+      "kielbasa",
+      "yakitori",
+      "wrap"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-gooey-portuguese-lamb-stew--italian",
+    "title": "Lamb Stew with Italian Flair",
+    "tags": [
+      "italian",
+      "lamb",
+      "stew"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 205,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-steamed-pretzel-delight--gluten-free",
+    "title": "Vibrant Steamed Delight Salad",
+    "tags": [
+      "gluten-free",
+      "salad",
+      "healthy",
+      "lunch"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 25,
+    "shard": "v"
   }
 ]
