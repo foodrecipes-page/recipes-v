@@ -13223,5 +13223,44 @@
     "cuisine": "mexican",
     "totalTimeMin": 20,
     "shard": "v"
+  },
+  {
+    "slug": "velvety-irish-barley-casserole--italian",
+    "title": "Irish Barley Casserole",
+    "tags": [
+      "italian",
+      "irish",
+      "casserole",
+      "vegetarian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 45,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-indian-shrimp-curry--french",
+    "title": "Shrimp Velouté",
+    "tags": [
+      "creamy",
+      "soup",
+      "seafood",
+      "french"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-dense-mexican-comte-tacos--japanese",
+    "title": "Japanese Tacos with Comte Cheese",
+    "tags": [
+      "fusion",
+      "japanese",
+      "mexican",
+      "tacos"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
+    "shard": "v"
   }
 ]
