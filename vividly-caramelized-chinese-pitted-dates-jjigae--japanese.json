@@ -1,0 +1,83 @@
+{
+  "slug": "vividly-caramelized-chinese-pitted-dates-jjigae--japanese",
+  "title": "Japanese Date and Jjigae Bento",
+  "description": "A unique and flavorful bento box featuring sweet caramelized dates and savory jjigae. This Japanese-inspired dish is perfect for a quick and easy lunch.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "caramelized dates",
+      "amount": "4-6",
+      "notes": "look for dates that are naturally sweet and caramelized"
+    },
+    {
+      "name": "jjigae",
+      "amount": "1 cup",
+      "notes": "use store-bought or homemade jjigae for added convenience"
+    },
+    {
+      "name": "cooked Japanese rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice for best texture"
+    },
+    {
+      "name": "pan-fried tofu",
+      "amount": "4 oz",
+      "notes": "marinate tofu in soy sauce and sake before pan-frying"
+    },
+    {
+      "name": "miso paste",
+      "amount": "1 tbsp",
+      "notes": "mix with rice vinegar and honey for a sweet and savory sauce"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "add as garnish for added freshness"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": "add as garnish for added crunch"
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "2 slices",
+      "notes": "add as garnish for added flavor"
+    }
+  ],
+  "instructions": [
+    "Prepare the caramelized dates by cooking them in a pan with a small amount of oil over medium heat until they're tender and caramelized.",
+    "Cook the Japanese rice according to package instructions.",
+    "Pan-fry the tofu until golden brown and crispy.",
+    "Mix the miso paste with rice vinegar and honey to create a sweet and savory sauce.",
+    "Assemble the bento box by placing a scoop of cooked rice at the bottom, followed by a few pieces of pan-fried tofu, some caramelized dates, and a drizzle of miso sauce.",
+    "Garnish with chopped scallions, sesame seeds, and pickled ginger.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "bento",
+    "japanese",
+    "vegetarian",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vividly-caramelized-chinese-pitted-dates-jjigae--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T02:06:47.848Z"
+}
