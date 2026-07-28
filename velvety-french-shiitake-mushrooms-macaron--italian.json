@@ -1,0 +1,66 @@
+{
+  "slug": "velvety-french-shiitake-mushrooms-macaron--italian",
+  "title": "Creamy Mushroom Rigatoni",
+  "description": "A hearty Italian-inspired pasta dish loaded with sautéed shiitake and button mushrooms in a rich and creamy velvety sauce.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "velvety sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "french rigatoni",
+      "amount": "8 oz",
+      "notes": "pasta"
+    },
+    {
+      "name": "shiitake mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button, sliced"
+    },
+    {
+      "name": "macaron cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil. Cook the rigatoni according to the package instructions until al dente.",
+    "In a large skillet, sauté the sliced shiitake and button mushrooms over medium heat until tender.",
+    "Add the velvety sauce to the skillet with the mushrooms and stir to combine.",
+    "Add the cooked rigatoni to the skillet with the sauce and toss to coat.",
+    "Transfer the rigatoni mixture to a serving dish.",
+    "Sprinkle the macaron cheese on top and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pasta",
+    "mushrooms",
+    "cream-sauce"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-french-shiitake-mushrooms-macaron--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T20:48:06.014Z"
+}
