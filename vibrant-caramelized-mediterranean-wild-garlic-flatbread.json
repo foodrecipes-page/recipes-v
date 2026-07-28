@@ -1,0 +1,80 @@
+{
+  "slug": "vibrant-caramelized-mediterranean-wild-garlic-flatbread",
+  "title": "Wild Garlic Flatbread with Caramelized Onions",
+  "description": "A simple yet flavorful flatbread topped with caramelized onions, wild garlic, and a hint of Mediterranean spices.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 large piece",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing flatbread"
+    },
+    {
+      "name": "Caramelized Onions",
+      "amount": "1/2 cup",
+      "notes": "see note for caramelization process"
+    },
+    {
+      "name": "Wild Garlic",
+      "amount": "4-5 cloves",
+      "notes": "peeled and minced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Mediterranean Herbs",
+      "amount": "1 tsp",
+      "notes": "dried or fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Brush the flatbread with olive oil and season with salt and black pepper.",
+    "Top the flatbread with caramelized onions, wild garlic, and garlic.",
+    "Sprinkle Mediterranean herbs over the top.",
+    "Place the flatbread on a baking sheet and bake for 10-12 minutes, or until crispy and golden brown.",
+    "Remove from oven and let cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flatbread",
+    "wild-garlic",
+    "caramelized-onions",
+    "mediterranean-herbs"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-caramelized-mediterranean-wild-garlic-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T20:50:58.483Z"
+}
