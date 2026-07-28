@@ -1,0 +1,63 @@
+{
+  "slug": "velvety-portuguese-milk-chocolate-mousse--german",
+  "title": "German Chocolate Mousse",
+  "description": "A rich and creamy German-inspired dessert made with velvety chocolate mousse, perfect for special occasions.",
+  "cuisine": "german",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dark Chocolate",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Portuguese Custard",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Velvety Chocolate Mousse",
+      "amount": "1 (8 ounce) package"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a double boiler, melt the dark chocolate over low heat, stirring occasionally.",
+    "In a separate bowl, whip the heavy cream until stiff peaks form.",
+    "Add the Portuguese custard and granulated sugar to the whipped cream and mix until combined.",
+    "Fold the whipped cream mixture into the melted chocolate until well combined.",
+    "Spoon the German chocolate mousse into individual serving cups or a large serving dish.",
+    "Refrigerate for at least 2 hours or until set.",
+    "Serve chilled, garnished with unsalted butter if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate",
+    "german",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-portuguese-milk-chocolate-mousse--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T21:08:54.451Z"
+}
