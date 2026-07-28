@@ -1,0 +1,87 @@
+{
+  "slug": "vibrant-gooey-portuguese-lamb-stew--gluten-free",
+  "title": "Portuguese-Style Lamb Stew",
+  "description": "A hearty, gluten-free stew made with tender lamb and vibrant vegetables.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Vibrant Bell Peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Gooey Onions",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Stew Tomatoes",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Portuguese-Style Seasoning",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Gluten-Free Broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large Dutch oven over medium-high heat.",
+    "2. Sear the lamb shoulder until browned on all sides, about 5 minutes.",
+    "3. Remove the lamb from the pot and set aside.",
+    "4. Add the sliced onions to the pot and cook until they're softened and caramelized, about 8 minutes.",
+    "5. Add the sliced bell peppers to the pot and cook until they're tender, about 5 minutes.",
+    "6. Add the stew tomatoes, Portuguese-Style seasoning, red wine, and gluten-free broth to the pot.",
+    "7. Return the lamb to the pot and bring the mixture to a boil.",
+    "8. Cover the pot and transfer it to the oven.",
+    "9. Braise the stew in the preheated oven at 300°F (150°C) for 2 1/2 hours, or until the lamb is tender.",
+    "10. Remove the pot from the oven and let it cool slightly.",
+    "11. Stir in the fresh cilantro and season the stew with salt and pepper to taste.",
+    "12. Serve the stew hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "lamb",
+    "stew",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-gooey-portuguese-lamb-stew--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T15:17:59.872Z"
+}
