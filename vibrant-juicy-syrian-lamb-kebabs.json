@@ -1,0 +1,80 @@
+{
+  "slug": "vibrant-juicy-syrian-lamb-kebabs",
+  "title": "Syrian Lamb Kebabs",
+  "description": "A classic Middle Eastern dish featuring tender lamb, vibrant spices, and juicy freshness. Perfect for a quick weeknight dinner or outdoor gathering.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "meat",
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Syrian kebab spice mix",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Vibrant olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Juicy lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together kebab spice mix, olive oil, lemon juice, garlic, and onion.",
+    "Add lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread lamb cubes, bell pepper, and onion onto skewers.",
+    "Season with salt and pepper to taste.",
+    "Grill kebabs for 8-10 minutes per side, or until lamb reaches 145°F (63°C).",
+    "Let kebabs rest for 5 minutes before serving.",
+    "Serve hot with your favorite sides, such as rice, salad, or pita bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "lamb",
+    "kebabs",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-juicy-syrian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T12:00:50.064Z"
+}
