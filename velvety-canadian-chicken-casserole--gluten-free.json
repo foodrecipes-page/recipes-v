@@ -1,0 +1,66 @@
+{
+  "slug": "velvety-canadian-chicken-casserole--gluten-free",
+  "title": "Chicken Casserole",
+  "description": "A hearty, comforting casserole made with chicken, velvety sauce, and Canadian goodness, all gluten-free.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breasts",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Velvety sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Canadian casserole mix",
+      "amount": "1 box (gluten-free)"
+    },
+    {
+      "name": "Gluten-free pasta",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "Shredded cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (for garnish)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the gluten-free pasta according to package instructions.",
+    "In a large skillet, sauté the chicken breasts until cooked through.",
+    "Add the velvety sauce and Canadian casserole mix to the skillet, stirring until well combined.",
+    "In a separate bowl, combine the cooked pasta, chicken mixture, and shredded cheddar cheese.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Bake for 25-30 minutes, or until the casserole is hot and the cheese is melted and bubbly.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "chicken",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-canadian-chicken-casserole--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T11:22:14.757Z"
+}
