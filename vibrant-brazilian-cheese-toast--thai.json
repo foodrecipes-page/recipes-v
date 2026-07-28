@@ -1,0 +1,75 @@
+{
+  "slug": "vibrant-brazilian-cheese-toast--thai",
+  "title": "Thai Cheese Toast",
+  "description": "A fusion of Thai and comfort food, this dish features crispy toast topped with melted cheese, vibrant spices, and a hint of Brazilian flair.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Brazilian cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "vibrant bell pepper",
+      "amount": "1/2 cup, sliced"
+    },
+    {
+      "name": "toasted bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a pan, heat coconut oil over medium heat.",
+    "3. Add sliced bell pepper and cook until tender, about 3 minutes.",
+    "4. Spread Thai red curry paste evenly over toasted bread.",
+    "5. Top bread with shredded cheese, cooked bell pepper, and a sprinkle of chili flakes.",
+    "6. Bake in the oven for 5-7 minutes, or until cheese is melted and bubbly.",
+    "7. Remove from oven and season with salt and black pepper to taste.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "snack",
+    "comfort-food",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-brazilian-cheese-toast--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T14:55:39.344Z"
+}
