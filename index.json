@@ -13406,5 +13406,29 @@
     "cuisine": "Italian",
     "totalTimeMin": 25,
     "shard": "v"
+  },
+  {
+    "slug": "velvety-filipino-corned-beef-stew--vegetarian",
+    "title": "Vegetarian Corned Beef Stew",
+    "tags": [
+      "stew",
+      "vegetarian",
+      "beef-free"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-portuguese-milk-chocolate-mousse--german",
+    "title": "German Chocolate Mousse",
+    "tags": [
+      "chocolate",
+      "german",
+      "dessert"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 15,
+    "shard": "v"
   }
 ]
