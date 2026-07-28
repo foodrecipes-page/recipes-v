@@ -7433,17 +7433,15 @@
   },
   {
     "slug": "vibrant-crunchy-portuguese-lentil-stew",
-    "title": "Vibrant Crunchy Portuguese Lentil Stew",
+    "title": "Portuguese Lentil Stew",
     "tags": [
-      "comfort-food",
-      "high-fiber",
-      "jain-friendly",
-      "one-pot",
-      "portuguese-cuisine",
-      "weeknight"
+      "lentil",
+      "vegetarian",
+      "portuguese",
+      "stew"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 70,
+    "totalTimeMin": 45,
     "shard": "v"
   },
   {
@@ -13384,6 +13382,18 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 45,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-dense-mexican-comte-tacos--french",
+    "title": "Comte and Vibrant Vegetable Tacos",
+    "tags": [
+      "french",
+      "tacos",
+      "vegetarian"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 20,
     "shard": "v"
   }
 ]
