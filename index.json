@@ -13334,5 +13334,18 @@
     "cuisine": "german",
     "totalTimeMin": 35,
     "shard": "v"
+  },
+  {
+    "slug": "vanilla-spiced-garlic-syrian-stir-fry--italian",
+    "title": "Spicy Italian Chicken Breast",
+    "tags": [
+      "italian",
+      "chicken",
+      "spicy",
+      "quick"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 30,
+    "shard": "v"
   }
 ]
