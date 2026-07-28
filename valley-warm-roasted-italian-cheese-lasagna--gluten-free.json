@@ -1,0 +1,80 @@
+{
+  "slug": "valley-warm-roasted-italian-cheese-lasagna--gluten-free",
+  "title": "Italian-Style Valley Lasagna",
+  "description": "A gluten-free twist on the classic Italian dish, featuring roasted valley flavors and melted cheese.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Roasted valley eggplant",
+      "amount": "2 medium",
+      "notes": "Sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "Warm lasagna noodles (gluten-free)",
+      "amount": "8-10",
+      "notes": "Cook according to package instructions"
+    },
+    {
+      "name": "Italian-seasoned ricotta cheese",
+      "amount": "1 cup",
+      "notes": "Mix with 1 tablespoon chopped fresh parsley and 1 minced garlic clove"
+    },
+    {
+      "name": "Shredded mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "Freshly shredded"
+    },
+    {
+      "name": "Grated parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "Freshly grated"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing eggplant slices"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Brush both sides of eggplant slices with olive oil and season with salt and pepper. Roast in the oven for 20-25 minutes, or until tender and lightly browned.",
+    "Cook gluten-free lasagna noodles according to package instructions. Drain and set aside.",
+    "In a large mixing bowl, combine Italian-seasoned ricotta cheese, chopped parsley, and minced garlic.",
+    "In a 9x13 inch baking dish, create a thin layer of marinara sauce on the bottom.",
+    "Arrange 4 lasagna noodles on top of the sauce.",
+    "Spread half of the ricotta cheese mixture over the noodles, followed by half of the shredded mozzarella cheese.",
+    "Repeat the layers, starting with the noodles, then the marinara sauce, then the remaining ricotta cheese mixture, and finally the remaining mozzarella cheese.",
+    "Top the lasagna with grated parmesan cheese and cover with aluminum foil.",
+    "Bake for 30-40 minutes, or until the cheese is melted and bubbly.",
+    "Remove the foil and bake for an additional 10-15 minutes, or until the cheese is lightly browned."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 40,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "lasagna",
+    "gluten-free",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/valley-warm-roasted-italian-cheese-lasagna--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T10:51:53.937Z"
+}
