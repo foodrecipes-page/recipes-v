@@ -13272,5 +13272,19 @@
     "cuisine": "North African",
     "totalTimeMin": 170,
     "shard": "v"
+  },
+  {
+    "slug": "vegan-velvety-slovakian-butternut-squash-stew--mexican",
+    "title": "Mexican Squash Stew",
+    "tags": [
+      "mexican",
+      "vegan",
+      "stew",
+      "butternut",
+      "squash"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 55,
+    "shard": "v"
   }
 ]
