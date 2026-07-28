@@ -13347,5 +13347,31 @@
     "cuisine": "italian",
     "totalTimeMin": 30,
     "shard": "v"
+  },
+  {
+    "slug": "vibrant-brazilian-cheese-toast--thai",
+    "title": "Thai Cheese Toast",
+    "tags": [
+      "thai",
+      "snack",
+      "comfort-food",
+      "fusion"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-gooey-portuguese-lamb-stew--gluten-free",
+    "title": "Portuguese-Style Lamb Stew",
+    "tags": [
+      "portuguese",
+      "lamb",
+      "stew",
+      "gluten-free"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 170,
+    "shard": "v"
   }
 ]
