@@ -2056,16 +2056,15 @@
   },
   {
     "slug": "velvety-dutch-rice-pilaf",
-    "title": "Velvety Dutch Rice Pilaf",
+    "title": "Dutch-Style Rice Pilaf",
     "tags": [
-      "high-fiber",
-      "jain-friendly",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "side dish",
+      "rice",
+      "pilaf",
+      "dutch"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "v"
   },
   {
@@ -8341,17 +8340,15 @@
   },
   {
     "slug": "vibrant-juicy-syrian-lamb-kebabs",
-    "title": "Vibrant Juicy Syrian Lamb Kebabs",
+    "title": "Syrian Lamb Kebabs",
     "tags": [
-      "flexitarian",
-      "grilled-meats",
-      "lamb-recipes",
-      "middle-eastern",
-      "syrian-cuisine",
-      "wine-based"
+      "syrian",
+      "lamb",
+      "kebabs",
+      "grilled"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 55,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 33,
     "shard": "v"
   },
   {
@@ -13323,6 +13320,19 @@
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 45,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-zesty-mung-bean-sprout-pilaf--german",
+    "title": "German Style Mung Bean Pilaf",
+    "tags": [
+      "german",
+      "vegan",
+      "gluten-free",
+      "high-fiber"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
     "shard": "v"
   }
 ]
