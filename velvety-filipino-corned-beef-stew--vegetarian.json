@@ -1,0 +1,65 @@
+{
+  "slug": "velvety-filipino-corned-beef-stew--vegetarian",
+  "title": "Vegetarian Corned Beef Stew",
+  "description": "A flavorful and hearty vegetarian stew made with corned beef and a variety of vegetables.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Corned beef",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Velvety potatoes",
+      "amount": "2 large, diced"
+    },
+    {
+      "name": "Filipino-style soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large, diced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 large, peeled and sliced"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks, sliced"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion, carrots, and celery; cook until the vegetables are tender.",
+    "Add diced corned beef and cook for 2-3 minutes.",
+    "Add potatoes, soy sauce, and enough water to cover the ingredients.",
+    "Bring to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stew",
+    "vegetarian",
+    "beef-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-filipino-corned-beef-stew--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T21:01:43.961Z"
+}
