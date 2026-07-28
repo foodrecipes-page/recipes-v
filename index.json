@@ -13286,5 +13286,43 @@
     "cuisine": "mexican",
     "totalTimeMin": 55,
     "shard": "v"
+  },
+  {
+    "slug": "valley-warm-roasted-italian-cheese-lasagna--gluten-free",
+    "title": "Italian-Style Valley Lasagna",
+    "tags": [
+      "italian",
+      "lasagna",
+      "gluten-free",
+      "cheese"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 65,
+    "shard": "v"
+  },
+  {
+    "slug": "vegan-velvety-slovakian-butternut-squash-stew--keto",
+    "title": "Vegan Slovak Butternut Squash Stew",
+    "tags": [
+      "vegan",
+      "slovakian",
+      "butternut-squash",
+      "stew"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 45,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-canadian-chicken-casserole--gluten-free",
+    "title": "Chicken Casserole",
+    "tags": [
+      "gluten-free",
+      "chicken",
+      "casserole"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 45,
+    "shard": "v"
   }
 ]
