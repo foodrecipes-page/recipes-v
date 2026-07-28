@@ -1,0 +1,68 @@
+{
+  "slug": "vanilla-spiced-garlic-syrian-stir-fry--italian",
+  "title": "Spicy Italian Chicken Breast",
+  "description": "A spicy Italian-inspired chicken breast dish, perfect for a quick weeknight dinner. The combination of garlic, syrian, and spiced flavors will leave you wanting more.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "spiced",
+      "amount": "1 teaspoon",
+      "notes": "dried spice blend"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "syrian",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh herbs"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the chicken breast with spiced and garlic.",
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Sear the chicken breast for 2-3 minutes on each side, or until browned.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until cooked through.",
+    "Let the chicken rest for 5 minutes before slicing.",
+    "Garnish with syrian herbs and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "chicken",
+    "spicy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vanilla-spiced-garlic-syrian-stir-fry--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T13:12:04.162Z"
+}
