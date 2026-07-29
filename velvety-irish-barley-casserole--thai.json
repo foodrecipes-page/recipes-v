@@ -1,0 +1,93 @@
+{
+  "slug": "velvety-irish-barley-casserole--thai",
+  "title": "Thai Barley Casserole",
+  "description": "A Thai-inspired twist on a classic casserole, featuring barley and a blend of spices.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Barley",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Velvety coconut milk",
+      "amount": "1 can",
+      "notes": null
+    },
+    {
+      "name": "Irish butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Casserole seasoning",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon grated",
+      "notes": null
+    },
+    {
+      "name": "Green chilies",
+      "amount": "1/4 cup diced",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook the butter over medium heat until melted.",
+    "Add the ginger, green chilies, and casserole seasoning. Cook for 1-2 minutes.",
+    "Stir in the fish sauce, soy sauce, and brown sugar. Cook for an additional minute.",
+    "Add the barley to the skillet and stir to combine. Cook for 2-3 minutes.",
+    "Stir in the coconut milk and bring to a simmer.",
+    "Transfer the mixture to a 9x13-inch baking dish and smooth the top.",
+    "Drizzle with sesame oil and cover with aluminum foil.",
+    "Bake for 30 minutes, then remove the foil and continue baking for an additional 10-15 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "barley",
+    "coconut-milk",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-irish-barley-casserole--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T22:06:24.244Z"
+}
