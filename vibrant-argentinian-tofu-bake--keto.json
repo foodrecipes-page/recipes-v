@@ -1,0 +1,72 @@
+{
+  "slug": "vibrant-argentinian-tofu-bake--keto",
+  "title": "Argentinian Vibrant Keto Bake",
+  "description": "This vibrant argentinian bake is a flavorful keto dish made with tofu, perfect for a low-carb diet.",
+  "cuisine": "argentinian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "250g"
+    },
+    {
+      "name": "argentinian vibrant sauce",
+      "amount": "120ml"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "120g"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "30g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "handful",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Cut the tofu into 2cm (1 inch) cubes.",
+    "Place the tofu in a baking dish and drizzle with olive oil.",
+    "Bake in the oven for 20 minutes.",
+    "While the tofu is baking, mix the argentinian vibrant sauce, mozzarella cheese, and parmesan cheese in a bowl.",
+    "Remove the tofu from the oven and pour the cheese sauce over the top.",
+    "Return to the oven and bake for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Garnish with fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "keto",
+    "bake",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 5,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-argentinian-tofu-bake--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T22:57:19.455Z"
+}
