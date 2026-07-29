@@ -1,0 +1,57 @@
+{
+  "slug": "velvety-russian-butter-spread",
+  "title": "Russian Butter Spread",
+  "description": "A classic Russian spread made with butter and velvety cream cheese.",
+  "cuisine": "Russian",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "velvety cream cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "Russian spread",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, beat the cream cheese until smooth.",
+    "Add the butter and Russian spread to the bowl and beat until combined.",
+    "Add the sugar and vanilla extract to the bowl and mix well.",
+    "Beat the mixture until smooth and creamy.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the spread to a serving dish and refrigerate for at least 30 minutes.",
+    "Serve chilled with crackers or bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "russian",
+    "spread",
+    "cream-cheese",
+    "butter",
+    "vegan"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-russian-butter-spread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T22:56:08.066Z"
+}
