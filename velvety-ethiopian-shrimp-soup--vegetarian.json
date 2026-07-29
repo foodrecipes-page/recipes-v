@@ -1,0 +1,76 @@
+{
+  "slug": "velvety-ethiopian-shrimp-soup--vegetarian",
+  "title": "Ethiopian Velvety Soup",
+  "description": "A rich and creamy vegetarian soup with an Ethiopian twist, made with velvety texture and a variety of spices.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Velvety",
+      "amount": "1/4 cup",
+      "notes": "Used to give the soup a creamy texture"
+    },
+    {
+      "name": "Ethiopian spices",
+      "amount": "2 tsp",
+      "notes": "Berbere, turmeric, cumin, coriander"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": "Low sodium"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium heat.",
+    "Add the onion, garlic, carrots, and potatoes. Cook until the vegetables are tender.",
+    "Add the Ethiopian spices and cook for 1 minute.",
+    "Add the vegetable broth and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes.",
+    "Stir in the velvety to give the soup a creamy texture.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soup",
+    "vegetarian",
+    "ethiopian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-ethiopian-shrimp-soup--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T23:44:52.056Z"
+}
