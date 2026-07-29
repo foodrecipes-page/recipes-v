@@ -1,0 +1,82 @@
+{
+  "slug": "velvety-canadian-chicken-casserole--italian",
+  "title": "Chicken Casserole Italiano",
+  "description": "A classic Italian-inspired casserole made with tender chicken, velvety sauce, and crispy pasta. A satisfying and flavorful meal for any occasion.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "velvety tomato sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "casserole pasta",
+      "amount": "8 oz",
+      "notes": "such as penne or rigatoni"
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "milk",
+      "amount": "1/4 cup",
+      "notes": "whole or 2%"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "freshly ground black pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the pasta al dente, then set aside.",
+    "In a large skillet, heat a tablespoon of olive oil over medium-high heat.",
+    "Add the chicken and cook until browned and cooked through, about 5-7 minutes.",
+    "Transfer the chicken to a plate and set aside.",
+    "In the same skillet, add the tomato sauce and bring to a simmer.",
+    "Stir in the milk and Parmesan cheese until well combined.",
+    "Add the cooked pasta to the skillet and toss with the sauce until coated.",
+    "Transfer the pasta mixture to a 9x13-inch baking dish.",
+    "Top with the cooked chicken and sprinkle with additional Parmesan cheese.",
+    "Cover with aluminum foil and bake for 20-25 minutes.",
+    "Remove the foil and continue baking for an additional 5-10 minutes, or until the top is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "chicken",
+    "casserole",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-canadian-chicken-casserole--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T02:22:27.402Z"
+}
