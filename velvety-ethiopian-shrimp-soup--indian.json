@@ -1,0 +1,91 @@
+{
+  "slug": "velvety-ethiopian-shrimp-soup--indian",
+  "title": "Ethiopian Shrimp Curry",
+  "description": "A flavorful and spicy Indian-inspired curry made with succulent shrimp and a blend of aromatic spices.",
+  "cuisine": "indian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "velvety",
+      "amount": "1 can",
+      "notes": "coconut milk"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": null
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add the onion and ginger and cook until the onion is translucent.",
+    "Add the cumin, garam masala, turmeric, cayenne pepper, salt, and black pepper. Cook for 1 minute.",
+    "Add the shrimp and cook until pink and just cooked through.",
+    "Stir in the coconut milk and bring to a simmer.",
+    "Reduce the heat to low and let simmer for 5 minutes.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "curry",
+    "shrimp"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/velvety-ethiopian-shrimp-soup--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T22:42:23.255Z"
+}
