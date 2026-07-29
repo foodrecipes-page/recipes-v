@@ -13496,5 +13496,18 @@
     "cuisine": "Ethiopian",
     "totalTimeMin": 35,
     "shard": "v"
+  },
+  {
+    "slug": "velvety-canadian-chicken-casserole--italian",
+    "title": "Chicken Casserole Italiano",
+    "tags": [
+      "italian",
+      "chicken",
+      "casserole",
+      "pasta"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 45,
+    "shard": "v"
   }
 ]
