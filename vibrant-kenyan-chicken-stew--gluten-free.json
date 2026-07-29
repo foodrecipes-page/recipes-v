@@ -1,0 +1,86 @@
+{
+  "slug": "vibrant-kenyan-chicken-stew--gluten-free",
+  "title": "Kenyan-Style Chicken Stew",
+  "description": "A flavorful and hearty stew made with tender chicken and vibrant spices, inspired by the cuisine of Kenya. This gluten-free version is perfect for a cozy dinner.",
+  "cuisine": "kenyan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast or thighs",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vibrant spice mix",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large Dutch oven over medium-high heat.",
+    "2. Add the chicken and cook until browned, about 5 minutes.",
+    "3. Remove the chicken from the pot and set aside.",
+    "4. Add the onion and garlic to the pot and cook until the onion is translucent, about 5 minutes.",
+    "5. Stir in the tomato paste and cook for 1 minute.",
+    "6. Add the vibrant spice mix and cook for 1 minute.",
+    "7. Add the chicken broth and bring the mixture to a boil.",
+    "8. Return the chicken to the pot, cover, and transfer to the oven.",
+    "9. Bake at 375°F (190°C) for 30 minutes, or until the chicken is cooked through.",
+    "10. Add the potatoes and carrots to the pot and continue to bake for another 20-25 minutes, or until the vegetables are tender.",
+    "11. Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "stew",
+    "kenyan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/vibrant-kenyan-chicken-stew--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T23:01:36.886Z"
+}
