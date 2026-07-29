@@ -4597,13 +4597,16 @@
   },
   {
     "slug": "velvety-russian-butter-spread",
-    "title": "Velvety Russian Butter Spread",
+    "title": "Russian Butter Spread",
     "tags": [
-      "velvety-russian-butter-spread",
-      "unsweetened-apple-cider-vinegar"
+      "russian",
+      "spread",
+      "cream-cheese",
+      "butter",
+      "vegan"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 5,
+    "totalTimeMin": 10,
     "shard": "v"
   },
   {
@@ -13429,6 +13432,57 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 15,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-irish-barley-casserole--thai",
+    "title": "Thai Barley Casserole",
+    "tags": [
+      "thai",
+      "barley",
+      "coconut-milk",
+      "casserole"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 50,
+    "shard": "v"
+  },
+  {
+    "slug": "velvety-ethiopian-shrimp-soup--indian",
+    "title": "Ethiopian Shrimp Curry",
+    "tags": [
+      "indian",
+      "curry",
+      "shrimp"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-argentinian-tofu-bake--keto",
+    "title": "Argentinian Vibrant Keto Bake",
+    "tags": [
+      "argentinian",
+      "keto",
+      "bake",
+      "dinner"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 40,
+    "shard": "v"
+  },
+  {
+    "slug": "vibrant-kenyan-chicken-stew--gluten-free",
+    "title": "Kenyan-Style Chicken Stew",
+    "tags": [
+      "chicken",
+      "stew",
+      "kenyan",
+      "gluten-free"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 70,
     "shard": "v"
   }
 ]
