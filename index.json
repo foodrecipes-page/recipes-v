@@ -13484,5 +13484,17 @@
     "cuisine": "kenyan",
     "totalTimeMin": 70,
     "shard": "v"
+  },
+  {
+    "slug": "velvety-ethiopian-shrimp-soup--vegetarian",
+    "title": "Ethiopian Velvety Soup",
+    "tags": [
+      "soup",
+      "vegetarian",
+      "ethiopian"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 35,
+    "shard": "v"
   }
 ]
